@@ -1,0 +1,295 @@
+{
+  "id": "org.tmdb.aiolist",
+  "version": "1.0.0",
+  "name": "JustWatch AIO",
+  "description": "Nuevas y Populares de varias plataformas en España",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "netflix-popular",
+      "name": "Netflix - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "netflix-new",
+      "name": "Netflix - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "netflix-popular",
+      "name": "Netflix - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "netflix-new",
+      "name": "Netflix - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "prime_video-popular",
+      "name": "Prime Video - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "prime_video-new",
+      "name": "Prime Video - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "prime_video-popular",
+      "name": "Prime Video - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "prime_video-new",
+      "name": "Prime Video - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "disney_plus-popular",
+      "name": "Disney+ - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "disney_plus-new",
+      "name": "Disney+ - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "disney_plus-popular",
+      "name": "Disney+ - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "disney_plus-new",
+      "name": "Disney+ - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "hbo_max-popular",
+      "name": "HBO Max - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "hbo_max-new",
+      "name": "HBO Max - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "hbo_max-popular",
+      "name": "HBO Max - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "hbo_max-new",
+      "name": "HBO Max - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "skyshowtime-popular",
+      "name": "SkyShowtime - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "skyshowtime-new",
+      "name": "SkyShowtime - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "skyshowtime-popular",
+      "name": "SkyShowtime - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "skyshowtime-new",
+      "name": "SkyShowtime - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "apple_tvplus-popular",
+      "name": "Apple TV+ - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "apple_tvplus-new",
+      "name": "Apple TV+ - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "apple_tvplus-popular",
+      "name": "Apple TV+ - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "apple_tvplus-new",
+      "name": "Apple TV+ - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "crunchyroll-popular",
+      "name": "Crunchyroll - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "crunchyroll-new",
+      "name": "Crunchyroll - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "crunchyroll-popular",
+      "name": "Crunchyroll - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "crunchyroll-new",
+      "name": "Crunchyroll - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "rtve-popular",
+      "name": "RTVE - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "rtve-new",
+      "name": "RTVE - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "rtve-popular",
+      "name": "RTVE - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "rtve-new",
+      "name": "RTVE - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "filmin-popular",
+      "name": "Filmin - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "filmin-new",
+      "name": "Filmin - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "filmin-popular",
+      "name": "Filmin - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "filmin-new",
+      "name": "Filmin - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "flixole-popular",
+      "name": "FlixOlé - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "flixole-new",
+      "name": "FlixOlé - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "flixole-popular",
+      "name": "FlixOlé - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "flixole-new",
+      "name": "FlixOlé - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "mubi-popular",
+      "name": "MUBI - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "mubi-new",
+      "name": "MUBI - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "mubi-popular",
+      "name": "MUBI - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "mubi-new",
+      "name": "MUBI - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "outtv-popular",
+      "name": "OUTtv - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "outtv-new",
+      "name": "OUTtv - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "outtv-popular",
+      "name": "OUTtv - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "outtv-new",
+      "name": "OUTtv - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "dekkoo-popular",
+      "name": "Dekkoo - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "dekkoo-new",
+      "name": "Dekkoo - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "dekkoo-popular",
+      "name": "Dekkoo - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "dekkoo-new",
+      "name": "Dekkoo - Nuevas Series"
+    },
+    {
+      "type": "movie",
+      "id": "netflix_kids-popular",
+      "name": "Netflix Kids - Películas Populares"
+    },
+    {
+      "type": "movie",
+      "id": "netflix_kids-new",
+      "name": "Netflix Kids - Nuevas Películas"
+    },
+    {
+      "type": "series",
+      "id": "netflix_kids-popular",
+      "name": "Netflix Kids - Series Populares"
+    },
+    {
+      "type": "series",
+      "id": "netflix_kids-new",
+      "name": "Netflix Kids - Nuevas Series"
+    }
+  ]
+}

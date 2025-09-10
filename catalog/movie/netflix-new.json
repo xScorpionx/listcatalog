@@ -1,0 +1,690 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1535377",
+      "type": "movie",
+      "name": "Jordan Jensen: Take Me With You",
+      "ids": {
+        "tmdb": 1535377
+      },
+      "overview": "In her hilarious debut special, Jordan Jensen delivers unapologetic takes on failing at femininity, the paradox that is “self love” and the horrors of trying to find it.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/vQ8T0pK0vfjUe5jUiOj6uZHbypJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kADYtXcI7HXH7Ey2inWBpzzE0Ir.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8HHnq0A6vx5ZPtACqV2RsDHsJFX.png"
+    },
+    {
+      "id": "tmdb:1404864",
+      "type": "movie",
+      "name": "El comisario Zende",
+      "ids": {
+        "tmdb": 1404864
+      },
+      "overview": "Cuando el asesino en serie Carl Bhojraj se escapa de la cárcel y reaparece en Bombay, el inspector Zende interviene para atrapar al astuto fugitivo una vez más.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ukhOg1e4CtRsTrKpRZmYehGEwMD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jOkhTlAXmp5GwM8lZ0kJL9GIgjO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AotmgPoFWplMdFvzFX0XZM7FOfB.png"
+    },
+    {
+      "id": "tmdb:1517772",
+      "type": "movie",
+      "name": "Número desconocido: Falsa identidad en el instituto",
+      "ids": {
+        "tmdb": 1517772
+      },
+      "overview": "Una adolescente y su novio no paran de recibir mensajes vulgares e insultantes en el móvil. ¿Quién los envía? ¿Por qué? Este enrevesado documental revela la impactante respuesta.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/7TrQb6A2W1SVNuDt9Qqmf0HgJp8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9jjkgrtbBj0AFt5nxlff5WftHEO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/esrXc8If1JkbYJU2tJbbBTPgYLS.png"
+    },
+    {
+      "id": "tmdb:1355666",
+      "type": "movie",
+      "name": "Los desenredos del amor",
+      "ids": {
+        "tmdb": 1355666
+      },
+      "overview": "Una adolescente enamoradiza planea conquistar al rompecorazones del instituto alisando su melena rizada... hasta que un nuevo alumno lo cambia todo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/osrlCIHYOlqOJaDh7zAaeaqh1LF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gKhRY7mqC6n1yKx3dfp8g7dgagK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o37AJiWfPCj1FCULFWfsZvPNsRP.png"
+    },
+    {
+      "id": "tmdb:1500691",
+      "type": "movie",
+      "name": "Este maldito fútbol fantasy",
+      "ids": {
+        "tmdb": 1500691
+      },
+      "overview": "Cuando un miembro de su Liga de fútbol fantasy se esfuma el día de su boda, un peculiar grupo de amigos relata lo que ocurrió antes de su desenfrenada despedida de soltero.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/hVFMmPPvG1JSkJWMMbzV1llUXM0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bPWxA3moTGB58MPqswKkzy0ARxF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g5aFbjag2Hsx0rwFvVaRQw98EkU.png"
+    },
+    {
+      "id": "tmdb:1468789",
+      "type": "movie",
+      "name": "Planeta Solteros: Una aventura en Grecia",
+      "ids": {
+        "tmdb": 1468789
+      },
+      "overview": "Unas vacaciones de cinco amigos en Grecia se convierte en una divertida historia de detectives cuando surgen las sospechas de que uno de ellos podría ser un famoso timador.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fwXkQNBHRPpPUdRcCvd2BUXkElc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6FlKKrqc5c2WWLZ365n2r9sysz3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zLil4wc5XqZAyawRlN5goUl98Sx.png"
+    },
+    {
+      "id": "tmdb:1426672",
+      "type": "movie",
+      "name": "Christopher: Una vida maravillosa de verdad",
+      "ids": {
+        "tmdb": 1426672
+      },
+      "overview": "Christopher, un icono del pop, está a punto de alcanzar la fama mundial. Pero, con la llegada de su segundo hijo, debe replantearse sus prioridades. ¿El sueño merece tanto la pena?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/vZalS5PKYA5ZA5Z3Hw0Gxw2U1nw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xJ4rwDPcVzqSTxGftOBqYUehSbm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e1FZB0YjGw4msGIkU40O3pnB3Eo.png"
+    },
+    {
+      "id": "tmdb:1532795",
+      "type": "movie",
+      "name": "Kill Tony: Mayhem at Madison Square Garden",
+      "ids": {
+        "tmdb": 1532795
+      },
+      "overview": "With one minute to impress Tony Hinchcliffe and his star-studded panel, newbie stand-ups risk it all on the hallowed ground of Madison Square Garden.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/oj5gnXLUIuVzFZimltmhYqe03JA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oWhxaLdqPTYoMLXobtOccEBmA9K.jpg"
+    },
+    {
+      "id": "tmdb:1522847",
+      "type": "movie",
+      "name": "Millonario",
+      "ids": {
+        "tmdb": 1522847
+      },
+      "overview": "En este documental, un chileno acapara titulares y desata una investigación nacional al reclamar un boleto de lotería dañado ganador de un premio gordo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/m3MHuUSnuXRyNcfsrNmX264uPBM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q2bO88ADbBrtgLzO4bY8rWTY2Bu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Aq0gXL1dDWJNps5gEhrJge5BK3P.png"
+    },
+    {
+      "id": "tmdb:1495723",
+      "type": "movie",
+      "name": "Un hombre abandonado",
+      "ids": {
+        "tmdb": 1495723
+      },
+      "overview": "Tras cumplir condena por el delito que cometió su hermano, un hombre vuelve con su familia y encuentra esperanza y consuelo en el profundo vínculo que establece con su sobrina.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/4QmaKQgU7wXOcMeOb5HvJY1Eusz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tRc9MHHvX3VZfGjgpizQdHiCdGb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6mBAg6jUmBFSXPPud3Qy9AcKASo.png"
+    },
+    {
+      "id": "tmdb:744653",
+      "type": "movie",
+      "name": "El club del crimen de los jueves",
+      "ids": {
+        "tmdb": 744653
+      },
+      "overview": "Un grupo de jubilados aficionados a resolver casos antiguos se enfrenta a un asesinato real cargado de misterio en esta comedia de humor negro basada en la novela homónima.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/xJeCdbeaLgsEr5DkXD6T67eqZFT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o2RoeDk0uIytRSA7ZCHFSAoRi1d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gNO9KJNl6qnnSEZch0ftFiKCESE.png"
+    },
+    {
+      "id": "tmdb:1532091",
+      "type": "movie",
+      "name": "Entre la tierra y el cielo",
+      "ids": {
+        "tmdb": 1532091
+      },
+      "overview": "Durante los años que colabora con el Programa de Conservación del Cóndor Andino, el fotógrafo Hernán Pepe conoce a un abuelo sabio del pueblo quechua: el Tayta Ullpu. Durante casi dos décadas generan una relación personal, siguiendo las señales recibidas de esas aves sagradas.\r Juntos recorren caminos por Sudamérica y Australia, entre montañas, ríos, mares, cóndores y ballenas. Comparten charlas, medicinas y ceremonias y en una de éstas, recibe su nuevo nombre: Pacha Jap’iq, el que captura el tiempo-espacio. Al cumplir sus 49 años un giro en la relación con el Tayta lo lleva a replantear toda su vida para buscar el regreso a casa\r y reencontrarse consigo mismo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ey9yAI7O9MW6Omi78mSRSBkDvEv.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:1517212",
+      "type": "movie",
+      "name": "¿La verdad sobre Jussie Smollett?",
+      "ids": {
+        "tmdb": 1517212
+      },
+      "overview": "¿Delito de odio o farsa? Los espectadores podrán juzgar quién dice la verdad sobre el caso de Jussie Smollett a través de una entrevista con él y conversaciones con policías, abogados e investigadores que aportan nuevas pruebas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iRR9Ri2GX3c5bikrz1Zuj4u5bkl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/muPnU1xs5cYkE1lXZ8c15n7TyHr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojur864vSixAQouWdiy9Hf8o0FI.png"
+    },
+    {
+      "id": "tmdb:1428210",
+      "type": "movie",
+      "name": "Aquella canción",
+      "ids": {
+        "tmdb": 1428210
+      },
+      "overview": "Dos cantantes que no han tenido mucha suerte en sus carreras arriesgan todo para lograr el estrellato... y el amor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iMEAfHv94FjMVPDDcLYd32vnAqI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/x4cNHCnERLkWpuDW7CbawFMwqIu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cDVWcvKwY8wdaUWMUM7fmVnl6Jw.png"
+    },
+    {
+      "id": "tmdb:1300116",
+      "type": "movie",
+      "name": "Caerás",
+      "ids": {
+        "tmdb": 1300116
+      },
+      "overview": "Lilli sospecha del nuevo prometido de su hermana, pero cuando un atractivo desconocido se cruza en su camino, se distrae de repente con su propio deseo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/wytZFBYpkEgxsALpg5l2euGeVQz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9j6zzm19ywum0KueApvq4PmWdCp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6sfUWZAbbreNbIzpSxJvzYfaQXp.png"
+    },
+    {
+      "id": "tmdb:1429739",
+      "type": "movie",
+      "name": "La banda de los ladrones del oro",
+      "ids": {
+        "tmdb": 1429739
+      },
+      "overview": "Hacia el final de la Segunda Guerra Mundial, un forajido y sus secuaces intentan robar un tren lleno de oro mientras se enfrentan a su peor enemigo y al ejército japonés.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/y8QzarjF4zEqduL8nLNww2WCjO1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/99ww5k12ULb3FqBt6gq7hgKRnit.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cp8ntAB7ZPXHP4BfPUN5WEpGPbw.png"
+    },
+    {
+      "id": "tmdb:1254624",
+      "type": "movie",
+      "name": "La noche siempre llega",
+      "ids": {
+        "tmdb": 1254624
+      },
+      "overview": "Arriesgándolo todo para asegurarse un futuro para ella y su hermano, Lynette emprende una peligrosa odisea, enfrentándose a su oscuro pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/wlzOYuQ8uurwAeb0N64mcoMX0eE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1rIfeKSJzCKVlyOygVLgxI6wETk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mwdatAujtc2whgc38fAxvLEJrwo.png"
+    },
+    {
+      "id": "tmdb:942058",
+      "type": "movie",
+      "name": "तेहरान",
+      "ids": {
+        "tmdb": 942058
+      },
+      "overview": "On 13th February 2012, a magnetic bomb exploded, destroying an Israeli embassy vehicle in Delhi. ACP Rajeev Kumar, leading the investigation, suspects more than what meets the eye. Amid political pressure and suspicions of an Iranian connection, he embarks on a perilous journey to uncover the truth, facing formidable adversaries.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gbz9Y1NwnlE2GxXmgWTKZC1fste.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ekSJwtgqQ2yXNydjrOwTCcYa8Q5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPjUiJGxCELI2AfbbPDCif2lFXL.png"
+    },
+    {
+      "id": "tmdb:1517042",
+      "type": "movie",
+      "name": "Jim Jefferies: Two Limb Policy",
+      "ids": {
+        "tmdb": 1517042
+      },
+      "overview": "Comedian Jim Jefferies unleashes his thoughts on tiny mustaches, straight-guy struggles and why acting doesn't count as a real job.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fTtQ0Garm1BcexZIxfEdWdzE5j8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1ZFOIX6Tt4fRUDmoVD5sdSniTnJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vuj7SPgRjYok15Mt0yApvtxHbzr.png"
+    },
+    {
+      "id": "tmdb:1525499",
+      "type": "movie",
+      "name": "Deive Leonardo - Antes & Depois",
+      "ids": {
+        "tmdb": 1525499
+      },
+      "overview": "Documentary with host Deive Leonardo reflecting on God’s power to change lives.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/hdLq3xGAT1Ciga4cjEVnXwn09bY.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:1527950",
+      "type": "movie",
+      "name": "A Man Apart",
+      "ids": {
+        "tmdb": 1527950
+      },
+      "overview": "When a detective takes on a case to prevent a murder, he's forced to reckon with his past, present, and future.",
+      "year": 2025
+    },
+    {
+      "id": "tmdb:1513598",
+      "type": "movie",
+      "name": "Los diamantes de Amberes: El robo del siglo",
+      "ids": {
+        "tmdb": 1513598
+      },
+      "overview": "En 2003, unos ladrones de élite perpetraron un robo histórico en una cámara acorazada supuestamente irrompible del impenetrable Diamond Center de Amberes, llevándose cientos de millones en gemas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mWEUuLGcPNV69BpkbVl47VRYdqV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/frMeXE6ujJGayIa9O0Gr0qI0PIt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uT8wi2mRPjuEMzwSVuabEGSlFz.png"
+    },
+    {
+      "id": "tmdb:1439630",
+      "type": "movie",
+      "name": "Iza horizonta",
+      "ids": {
+        "tmdb": 1439630
+      },
+      "overview": "A group of people sleep standing up with their heads down. Light appears and disappears. People wake up. They look around, looking for a source of light. They return to their original position and sink back into sleep. The light appears and disappears. People wake up, look around and fall asleep. The light reappears and disappears. People wake up again, look around again and fall asleep again. Light appears but does not disappear. People are starting to walk towards the light. The film Beyond the Horizon is a metaphorical story about the eternal human search for the meaning of one's existence and one's place in the world, as well as the states and situations that individuals and society go through during that search.",
+      "year": 2025
+    },
+    {
+      "id": "tmdb:1307078",
+      "type": "movie",
+      "name": "Mi año en Oxford",
+      "ids": {
+        "tmdb": 1307078
+      },
+      "overview": "Mientras cumple su sueño de estudiar en Oxford, una ambiciosa estadounidense se enamora de un encantador británico que esconde un secreto capaz de poner su vida patas arriba.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ukp1TJMNn9hX1pWVTy84lk8J5uJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aTlIRMdElHSe2d4WAPsHsD6HUfn.png"
+    },
+    {
+      "id": "tmdb:1187436",
+      "type": "movie",
+      "name": "Una vida honrada",
+      "ids": {
+        "tmdb": 1187436
+      },
+      "overview": "Cuando un insolente estudiante de Derecho en busca de inspiración se une a un grupo de anarquistas, acaba atrapado en una red criminal donde es solo un peón más.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iHJM6VtN6dKrJmKykHGMWuegkMD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wlc1Ghim7kWaenlBNXjo81JhlMH.png"
+    },
+    {
+      "id": "tmdb:1124838",
+      "type": "movie",
+      "name": "Reino",
+      "ids": {
+        "tmdb": 1124838
+      },
+      "overview": "Un policía encubierto viaja a Sri Lanka para desmantelar una organización criminal, pero se enfrenta a un dilema desgarrador cuando descubre que su hermano distanciado está detrás de todo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6x0wmp2LlLqhEbd8XKjJpTHdHsT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9skbTbep3VM0oHoxyDuxlma2qyJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6LUztdWrrOVwsUCuROsIiy8QTcQ.png"
+    },
+    {
+      "id": "tmdb:1507191",
+      "type": "movie",
+      "name": "Dusty Slay: Wet Heat",
+      "ids": {
+        "tmdb": 1507191
+      },
+      "overview": "Known for his laid-back Southern charm and razor-sharp wit, Slay is back following his successful 2024 debut Workin’ Man. If you love storytelling with a hilarious twist and a splash of retro flair, this one’s a must-watch.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gACUiVRnVjjDBFfd9TtzaPVdLCe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xS79wu2IKjQo0uf6RHSNTwNRmbD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jiWyWUGgkzTtX4ldJz9W9xKFfM9.png"
+    },
+    {
+      "id": "tmdb:1022074",
+      "type": "movie",
+      "name": "Maareesan",
+      "ids": {
+        "tmdb": 1022074
+      },
+      "overview": "Un ladrón astuto se enfoca en un anciano con Alzheimer que necesita salir de la ciudad. Pero, al intentar robarle, el viaje se vuelve insólito y violento.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/c7JGfFgMnNuyF2Q4FSu7Kgip3mK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pLmzo8ypSHveCHjadakDXNU9LJX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ffQNxnpNRgWTUQgI4dgmjnUzOZz.png"
+    },
+    {
+      "id": "tmdb:1285728",
+      "type": "movie",
+      "name": "Una mujer normal",
+      "ids": {
+        "tmdb": 1285728
+      },
+      "overview": "Cuando una enfermedad desconocida empieza a afectar a su vida, una mujer de la ‘jet set’ debe desentrañar el misterio tras esta antes de perderse por completo a sí misma.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/81qLGik27wRW9NRg2Zrx9adbvdK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5gGtV9kLf1Z4SJZCLSYXOqY2kMv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vbPPre4QOWipspKk1ABYHGYXDTz.png"
+    },
+    {
+      "id": "tmdb:1516539",
+      "type": "movie",
+      "name": "Sunday Best: The Untold Story of Ed Sullivan",
+      "ids": {
+        "tmdb": 1516539
+      },
+      "overview": "Ed Sullivan broke barriers by booking Black artists on his Sunday night variety show. This documentary spotlights the TV pioneer's legacy of equality.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gsy5E18NmJ0ZRgYryh6OlSyIYDp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q0zDFaFsPrQNv5IKW5Q1Mb5cOVq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5BpHGTVsLliqdKYKBf3IIaVVSMj.png"
+    },
+    {
+      "id": "tmdb:1484267",
+      "type": "movie",
+      "name": "Fiasco total: Madres detectives",
+      "ids": {
+        "tmdb": 1484267
+      },
+      "overview": "Este revelador documental investiga un reality de principios de los 2000 sobre madres detectives y cómo un escándalo de drogas saboteó la serie y a sus protagonistas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gACBkTDNDP2GGspeFkn7AhCpiL3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/z8HgoAXiJgMGegIyynsAJ4No1Dw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nqVpVGVHdMYPVPvp67cVT3q5ZEv.png"
+    },
+    {
+      "id": "tmdb:1263256",
+      "type": "movie",
+      "name": "Terminagolf 2",
+      "ids": {
+        "tmdb": 1263256
+      },
+      "overview": "Happy, ya retirado del golf profesional, regresa al circuito no por gloria sino para financiar la escuela de danza de su hija, Viena.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/utIg6Vghn65A7rz8tH9ItHUuCzU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ihUv6tsZnaBm7WM8oPzJ7zVG3gZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r6mFJCqr2M9TbR6TwRGmHwgsBOf.png"
+    },
+    {
+      "id": "tmdb:1495110",
+      "type": "movie",
+      "name": "Vir Das: Fool Volume",
+      "ids": {
+        "tmdb": 1495110
+      },
+      "overview": "Whether it's the police, the evil eye or a badly timed lost voice, comedian Vir Das explores how embracing foolishness has led him to shared happiness, in his fifth comedy special (sixth, if you know you know)—shot by an all-Indian crew across cities in three continents: London, New York, and Mumbai.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/druY5vhbnJSbFeq3V0AfDHYfXfe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hY9S0Gh9OyG4F5tOK83qN1ywaXf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oC6nam3Oe5dfDgpDsz8BNV8u0OW.png"
+    },
+    {
+      "id": "tmdb:1508562",
+      "type": "movie",
+      "name": "Sigo siendo la misma",
+      "ids": {
+        "tmdb": 1508562
+      },
+      "overview": "'Sigo siendo la misma' es un retrato nostálgico, disparatado y conmovedor de una cantante única que causó un auténtico revuelo a inicios de la década de los 2000. El documental narra cómo fueron los comienzos artísticos de Yurena, conocida por aquel entonces como Tamara, y todo el fenómeno que le convirtió en un auténtico icono popular al inicio de la década de los 2000 tras el lanzamiento de su conocida canción No cambié y de su posterior álbum Superestar.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mfuUAORL9v4hwrVes1FKdPuyf6p.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A0mGPDUi75R3nY8TvZZGmP3TvVj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jr79GdG1CWhlSfFDZcDLC3tzPYa.png"
+    },
+    {
+      "id": "tmdb:1429834",
+      "type": "movie",
+      "name": "Casi familia",
+      "ids": {
+        "tmdb": 1429834
+      },
+      "overview": "Un padre brasileño da con la horma de su zapato cuando conoce al suegro argentino de su hija... y un viaje a Bariloche se convierte en un escenario de ego cultural lleno de roces.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fgk4rtDNlP9LZql9rtC3Huil1ob.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cl9R1x8c3FKrmc264NMohCQbRhz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8Q2YE46vt1cgtT1v3PPv8uDwam6.png"
+    },
+    {
+      "id": "tmdb:1269208",
+      "type": "movie",
+      "name": "Mis 84 m²",
+      "ids": {
+        "tmdb": 1269208
+      },
+      "overview": "Un hombre que ha invertido los ahorros de toda su vida en un apartamento descubre que sus paredes ocultan ruidos molestos, vecinos hostiles y secretos estremecedores.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/xhsXOE2FWBGOaHUoAnjBUW1Y1Ds.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vuaT0xgQWsJ3XekrwVi0jOpoUZK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hfopRfdzGJHOiR446yCLSspVF60.png"
+    },
+    {
+      "id": "tmdb:1477566",
+      "type": "movie",
+      "name": "Fiasco total: El niño del globo",
+      "ids": {
+        "tmdb": 1477566
+      },
+      "overview": "El despegue de un supuesto ovni artesanal con un niño de seis años en su interior desata el pánico nacional, pero ¿qué sucedió realmente? Este documental investiga el incidente.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/4QpWZlGZMYrAnlQizjVIMnAXnv0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/CQtlo69Ts7oeeyEtSqZZNKQtNE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/von2fulE62IhaqSQiD3Euny4XhB.png"
+    },
+    {
+      "id": "tmdb:1391013",
+      "type": "movie",
+      "name": "Alguien así",
+      "ids": {
+        "tmdb": 1391013
+      },
+      "overview": "Shrirenu sigue las tradiciones. Madhu vive a su manera. Cuando sus caminos se cruzan, surge un romance tierno y delicado, pero marcado por la sombra del patriarcado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5pdPJqoN199sIE14nBKGsNs9f14.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aGe55N2d2lU0EgFbFb1N7EhqFTv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aHbaWzcJSVSotkhIJsYWtXUGEye.png"
+    },
+    {
+      "id": "tmdb:1329271",
+      "type": "movie",
+      "name": "ஓஹோ எந்தன் பேபி",
+      "ids": {
+        "tmdb": 1329271
+      },
+      "overview": "Ashwin goes to actor Vishnu Vishal’s office to pitch a script and ends up narrating his love story. What the actor thinks to be an interval is Ashwin’s climax, it actually is a stoic end to his romantic relationship with Meera. With Vishnu Vishal’s pursual, Ashwin must confront his former lover again, to complete his story and begin his debut directorial.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ffnBY54B4Etmu0UCpMXiJNNTlRV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3zbWZPMiKEJO2QD7wJgy9k6LhYe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8mnxt6EJQIvqZZhDUiwEYatlZY2.png"
+    },
+    {
+      "id": "tmdb:1506130",
+      "type": "movie",
+      "name": "Vale la pena, de Dani Rovira",
+      "ids": {
+        "tmdb": 1506130
+      },
+      "overview": "El actor y humorista Dani Rovira regresa a los escenarios con una visión honesta e hilarante sobre cómo encontrar la luz incluso en los momentos más oscuros de la vida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6zXHrZ1wuOM4QRrEwzmYPQfZsUF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aO2D1QDJD7te3mVVLTtW25GqUy6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kjePyT0gnQFakuWsDHijD3WoJ1E.png"
+    },
+    {
+      "id": "tmdb:1374534",
+      "type": "movie",
+      "name": "Almost Cops",
+      "ids": {
+        "tmdb": 1374534
+      },
+      "overview": "Un entregado policía municipal y un exagente temerario se ven obligados a colaborar. Juntos desatarán el caos por las calles de Róterdam.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/vIkfAFMOOro5U01raZJ9nScGeBM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9b810eHdLgRqGxEV1gyskoMY0BG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n2oQbAiaPwfhceeQuQmfH6WsNND.png"
+    },
+    {
+      "id": "tmdb:1246310",
+      "type": "movie",
+      "name": "Una boda en las Bahamas con Madea",
+      "ids": {
+        "tmdb": 1246310
+      },
+      "overview": "Madea empaca sus mejores vestidos florales y un montón de caos cuando la familia Simmons se dirige a las Bahamas para la boda relámpago de su sobrina nieta.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/brXUEyuY25r3ksIt8poDGjNyWNt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wKeBu9ALFctsaGK4GDlknBUO3Co.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ulM3iSrI96AwguahCvcrUfgutad.png"
+    },
+    {
+      "id": "tmdb:1504091",
+      "type": "movie",
+      "name": "Nate Jackson: Super Funny",
+      "ids": {
+        "tmdb": 1504091
+      },
+      "overview": "Sharp jokes meet savage roasts as Nate Jackson blends his infamous crowd work with takes on topics from judgment-free gyms to catfishing.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bO6nBUDE6ctqIMMGe5TeeJ5CxVN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/du4umUeztgV0nowVdOBW3cswn0L.jpg"
+    },
+    {
+      "id": "tmdb:1429744",
+      "type": "movie",
+      "name": "Ziam",
+      "ids": {
+        "tmdb": 1429744
+      },
+      "overview": "En plena lucha para sobrevivir frente a una horda zombi, un exluchador de muay thai debe usar su habilidad, rapidez y coraje para salvar a su novia y a sí mismo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/7ZRXha6VZEGP3C8Kab7pPwSMzDZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i3QD8mYE4L4fkEH93IQnR9ywcC4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7sPUkCylRUh3fJarpooqDX7J0fL.png"
+    },
+    {
+      "id": "tmdb:1477565",
+      "type": "movie",
+      "name": "Fiasco total: El verdadero Proyecto X",
+      "ids": {
+        "tmdb": 1477565
+      },
+      "overview": "Una noche de caos etílico sacude un tranquilo pueblo holandés en este documental sobre una invitación de cumpleaños juvenil que se hizo viral por accidente en Facebook.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/p6NQOlvAcdK6VJ4CoZMzLUQLtfL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cfO1vA6aA9MuSmQwJOPbi3CH6T6.png"
+    },
+    {
+      "id": "tmdb:1263029",
+      "type": "movie",
+      "name": "తమ్ముడు",
+      "ids": {
+        "tmdb": 1263029
+      },
+      "overview": "A troubled man reunites with his sister to protect her and a group of villagers from the brutal plans of a violent criminal businessman.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5rhjx4KLaLrZNxzsBY8j8U6Pntu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2m8zoc7iL1MiWP2FuPiyQvTSBtE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yTcMWWuIXNaRk9y46avIcO2uDRj.png"
+    },
+    {
+      "id": "tmdb:1065426",
+      "type": "movie",
+      "name": "मेट्रो... इन दिनों",
+      "ids": {
+        "tmdb": 1065426
+      },
+      "overview": "Follows interconnected stories of several different couples, each facing a crossroads at different stages in their lives and relationships.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/AlmzM8CNm2fRJQW2iA9Ittwv0ig.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8ycWZizMNfYlQE5CdLSbOboNDko.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/et0LCy7lGn2qCLWedI1cYbnxcYT.png"
+    },
+    {
+      "id": "tmdb:1507699",
+      "type": "movie",
+      "name": "Countdown: Taylor vs. Serrano",
+      "ids": {
+        "tmdb": 1507699
+      },
+      "overview": "Sigue a Katie Taylor y Amanda Serrano mientras se preparan para enfrentarse por tercera vez en una trilogía de sensacionales y controvertidos combates de boxeo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lFsLbXGuMiH9ZAYy3O22ccwDsDH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sjyM3stz6DkZqu4uYtMCNlYrVNr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ed1JtdeVJsjeGVx7YB8Q6GbPfnn.png"
+    },
+    {
+      "id": "tmdb:1425045",
+      "type": "movie",
+      "name": "El muro negro",
+      "ids": {
+        "tmdb": 1425045
+      },
+      "overview": "Cuando un misterioso muro de ladrillo aparece inesperadamente en torno a su edificio, Tim y Olivia deberán colaborar con sus vecinos para encontrar una salida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ubKnIdUWNfpKUgkfdOPJvcGXO2G.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sAlFxrqBxLHrj6EmjAAz4T50FJz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dtVPAwz7cWabgItXvduJAgkWrrr.png"
+    },
+    {
+      "id": "tmdb:846422",
+      "type": "movie",
+      "name": "La vieja guardia 2",
+      "ids": {
+        "tmdb": 846422
+      },
+      "overview": "Andy y su equipo de guerreros inmortales luchan con un propósito renovado y se enfrentan a un nuevo y poderoso enemigo que amenaza su misión de proteger a la humanidad.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f8FaWGOR1k7MiOOybNPbnxCRfYx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tOKuxJx9mXuKfhBitWLH9FL66YS.png"
+    }
+  ]
+}

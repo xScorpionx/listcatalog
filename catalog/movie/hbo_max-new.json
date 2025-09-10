@@ -1,0 +1,696 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1531747",
+      "type": "movie",
+      "name": "Aprendiz de asesino",
+      "ids": {
+        "tmdb": 1531747
+      },
+      "overview": "El Dr. Ramsland comparte una entrevista exclusiva con Elmer Wayne Henley, en la que analiza su trayectoria.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/dKdR8jQ7co3jR34hx3EoCyZ787J.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vSNFvZObnWQtQ2JraDULxG3fE5J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eomcAr2GqpY6e72x1Epw9BBilET.png"
+    },
+    {
+      "id": "tmdb:1503451",
+      "type": "movie",
+      "name": "Marc Maron: Panicked",
+      "ids": {
+        "tmdb": 1503451
+      },
+      "overview": "Comedian and podcaster Marc Maron offers up his nuanced perspective on our increasingly uncertain world.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lcJ3kraMdBjjTBZgAlM2f5V5Zep.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kRHEpPbN1g8uzQPhBczlt19Y2Qx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kjYsjag0jqTTHcUKou8z7wADmP0.png"
+    },
+    {
+      "id": "tmdb:1523911",
+      "type": "movie",
+      "name": "Jaws vs Mega Croc",
+      "ids": {
+        "tmdb": 1523911
+      },
+      "overview": "In a one-of-a-kind event, the great white shark faces off against the Nile crocodile in a CGI fight to the death.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/7UQF47HDKEQcDl9mQbHYGrxb5Cf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b8GEV0RUVZKgCWORlxmxzR1ker8.jpg"
+    },
+    {
+      "id": "tmdb:1519002",
+      "type": "movie",
+      "name": "Alien Sharks: Death Down Under",
+      "ids": {
+        "tmdb": 1519002
+      },
+      "overview": "In Australia, wildlife biologist Forrest Galante cuts through years of red tape by injecting himself with alien shark venoms to test their potency.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/oyzp1nIke9Lw7sCCZj0ELqnuXYJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w89tUkKwd1DudS8CoPEheI5STML.jpg"
+    },
+    {
+      "id": "tmdb:1518193",
+      "type": "movie",
+      "name": "Lively vs Baldoni: Enfrentamiento en Hollywood",
+      "ids": {
+        "tmdb": 1518193
+      },
+      "overview": "Lively y Baldoni en crisis tras demandas y acusaciones. ¿Es Lively una víctima que se defiende o es Baldoni el blanco de una narrativa premeditada?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fvYn5tyvuDlW2jHQ6FH3keQDn0h.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oH1rug25Gkj9PnfADegYNHF1vMY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vDqix8WscYxnxa5LYBsreBNdKg9.png"
+    },
+    {
+      "id": "tmdb:1517700",
+      "type": "movie",
+      "name": "How To Survive A Shark Attack",
+      "ids": {
+        "tmdb": 1517700
+      },
+      "overview": "Shark attack survivor Paul De Gelder attempts the unthinkable -- provoking sharks to attack him and rip off his limbs so that he can reveal what it takes to survive an attack.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/j8Bl5uD1Yx6PzjFKqPRA89KoNHF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2akP3OEl8dEG6n67Pj6ljadSjxv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yOo42k0YWWXfDvonUTgD6WAcVVz.png"
+    },
+    {
+      "id": "tmdb:1513538",
+      "type": "movie",
+      "name": "El robo de diamantes de Kim Kardashian",
+      "ids": {
+        "tmdb": 1513538
+      },
+      "overview": "Repaso del robo que sufrió Kim Kardashian, durante el cual fue amordazada y le robaron joyas por valor de 9 millones de dólares.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eg8M782cw6Sfj8OLSWo0kgYMA6e.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7HQ5zOq3NEeuYEDNZJ9PxrYyAte.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kZFSCEoTS1ygJ4SXIcKxGTQkwCV.png"
+    },
+    {
+      "id": "tmdb:1501779",
+      "type": "movie",
+      "name": "Los días que vendrán",
+      "ids": {
+        "tmdb": 1501779
+      },
+      "overview": "Cuatro amigos, segundo de bachillerato y muchas dudas sobre el futuro.\r La historia narra la perspectiva de cada amigo y sus propias situaciones personales.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/azfEgd9T6jIIsU5Uf58zvMRbdds.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o0Rzbb9dkunBkEuDkJqD86gaZp6.jpg"
+    },
+    {
+      "id": "tmdb:1465528",
+      "type": "movie",
+      "name": "Querida Ms. - Una Revolución impresa",
+      "ids": {
+        "tmdb": 1465528
+      },
+      "overview": "Tres cineastas se sumergen profundamente en el legado histórico y complejo de la revista Ms. a través de la lente de algunas de sus portadas más icónicas, con imágenes de archivo nunca antes vistas y entrevistas atractivas con las poderosas mujeres que dieron forma a la revista en sus inicios hace más de cincuenta años",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/rUp4VCS4VlGvb6W2fZDGlBevQq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1a7HxVLS5MToeKNHH7C9NdGM9AT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cdhEr1CUzYH7ucn0fF3LdCN1Bk8.png"
+    },
+    {
+      "id": "tmdb:1465569",
+      "type": "movie",
+      "name": "Surviving Ohio State",
+      "ids": {
+        "tmdb": 1465569
+      },
+      "overview": "Profundiza en el escándalo de abuso sexual que rodea al médico de atletismo Richard Strauss, cuyo mandato de dos décadas en la Universidad Estatal de Ohio vio el abuso de cientos de estudiantes, y la búsqueda continua de justicia y rendición de cuentas por parte de sus sobrevivientes.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/tBYcYLwB82qIPvrl3z5txAkpRuk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sDg6b3PuvFoespKnZkRQGovVgn7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mmebKK6ZvNM5gLYWz6FyVaIVSMj.png"
+    },
+    {
+      "id": "tmdb:1488976",
+      "type": "movie",
+      "name": "Tom Daley: 1.6 Segundos de Gloria",
+      "ids": {
+        "tmdb": 1488976
+      },
+      "overview": "Tom Daley, un héroe olímpico y querido por todos, te invita a conocer su viaje lleno de victorias y desilusiones, mostrando la historia real detrás de sus medallas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/17fCkQZBmZa6JRqr8Plb78NsXdK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d1ykxp7TDQIsdIXMJjgkm4nXHiF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/77t9aqBQkqprFCTvNZZifqhJdJL.png"
+    },
+    {
+      "id": "tmdb:1470236",
+      "type": "movie",
+      "name": "Jerrod Carmichael: No seas gay",
+      "ids": {
+        "tmdb": 1470236
+      },
+      "overview": "El comediante ganador del premio Emmy®, Jerrod Carmichael, regresa al escenario para su cuarto especial de monólogos en HBO.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bZYlOLd2DJq8DMU959gXQIqsHiA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f6EljPi0vgET5EqDgQAmlHKChkv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6DpdG76kRu6BzGba6P3RDjxVkrg.png"
+    },
+    {
+      "id": "tmdb:1417059",
+      "type": "movie",
+      "name": "Mountainhead",
+      "ids": {
+        "tmdb": 1417059
+      },
+      "overview": "En medio de una crisis internacional, cuatro magnates de la tecnología buscan la forma de usar el caos para su propio beneficio.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rkWMqI9wA3plbjETzSks9oSLzoJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v40WaNzRYBjZnFITRk60m0chR61.png"
+    },
+    {
+      "id": "tmdb:1461714",
+      "type": "movie",
+      "name": "Mi mamá Jayne",
+      "ids": {
+        "tmdb": 1461714
+      },
+      "overview": "A través de entrevistas profundamente personales con sus hermanos y un examen de las fotografías, cartas y pertenencias dejadas atrás, Mariska arma un nuevo retrato de su madre Jayne Mansfield, una mujer extraordinaria y compleja.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/wNIdUakKOG6xUgqgGb6UeC3vNIS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dwMXLjGMP9gr2iz7nbYRWuVRd5f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/teQPeI0AgHTKUAMCYsr7UYkYoeO.png"
+    },
+    {
+      "id": "tmdb:1482165",
+      "type": "movie",
+      "name": "Krwawe trofeum",
+      "ids": {
+        "tmdb": 1482165
+      },
+      "overview": "A shocking investigation into the illegal rhino trade and the international crime syndicates pushing an endangered species toward extinction.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9XeU7kbNV9iyY2GFwYCAs1QyQYD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3BdTgwpQZmvoCWP4J3mSWO0Vlxk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nped3z7Xrzg22jZcKS7CSSPbpjy.png"
+    },
+    {
+      "id": "tmdb:574475",
+      "type": "movie",
+      "name": "Destino final: Lazos de sangre",
+      "ids": {
+        "tmdb": 574475
+      },
+      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5bDQlR7p31oAP4JvTriLbjfbCTm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hH2IlqoapbAAaRopv9HFiM9kkrh.png"
+    },
+    {
+      "id": "tmdb:1451815",
+      "type": "movie",
+      "name": "Brett Goldstein: The Second Best Night of Your Life",
+      "ids": {
+        "tmdb": 1451815
+      },
+      "overview": "Emmy-winning actor, writer, and comedian Brett Goldstein brings his irresistible charm and quick wit stateside for his first HBO stand-up special. Best known for the hit shows \"Ted Lasso\" and \"Shrinking\", Goldstein sheds his testy Roy Kent façade to share his hilarious insights on love, sex, masculinity, \"Sesame Street\", and everything in between.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/aWVT2RDf0DNorRq0felYfsUbL3t.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ACbbTvzs4XUeVkVbqWG98pXoo3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1bkgwbVosWpfqhiLgLtO58pLTd8.png"
+    },
+    {
+      "id": "tmdb:1233413",
+      "type": "movie",
+      "name": "Los pecadores",
+      "ids": {
+        "tmdb": 1233413
+      },
+      "overview": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tcrQCIRnoWWLfPOyfeuFdjn5UOh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vNbuB72ASg4cu2rytUFuPkHjK2T.png"
+    },
+    {
+      "id": "tmdb:950387",
+      "type": "movie",
+      "name": "Una película de Minecraft",
+      "ids": {
+        "tmdb": 950387
+      },
+      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xamBLexcq5KHBRqFuB3BaJZ06lL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
+    },
+    {
+      "id": "tmdb:1414048",
+      "type": "movie",
+      "name": "Ajuste de cuentas",
+      "ids": {
+        "tmdb": 1414048
+      },
+      "overview": "Un sheriff en apuros se une a un duro U.S. Marshal para detener a una astuta forajida. A medida que aumentan las tensiones dentro de su pelotón, deben enfrentarse a una banda que se aproxima, liderada por el violento marido de la prisionera.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lxRVe7JtMaZ3Yb3T2eycnPeJvvZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gdoOb0MrtCWgmWc4hhSQLaWZJNF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vJe3asCU8QGpuRKWsYiJSHB6aBL.png"
+    },
+    {
+      "id": "tmdb:1297763",
+      "type": "movie",
+      "name": "Batman Ninja vs. Yakuza League",
+      "ids": {
+        "tmdb": 1297763
+      },
+      "overview": "Sólo un día después de regresar del pasado, Batman y sus aliados descubren que el mundo no es exactamente el mismo que dejaron. Toda la isla de Japón ya no existe y los héroes de la Liga de la Justicia tampoco. Pero antes de que puedan comprender lo que está pasando, los yakuza empiezan a llover literalmente del cielo. Secuela de la película anime 3D \"Batman Ninja\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/UDK15MmwVGvcUWogE6kPlUmLNF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/njpLFYwd4WivyON7eaAeYwFpmEH.png"
+    },
+    {
+      "id": "tmdb:1013601",
+      "type": "movie",
+      "name": "The Alto Knights",
+      "ids": {
+        "tmdb": 1013601
+      },
+      "overview": "Vito Genovese y Frank Costello, un par de italoamericanos que dirigen dos familias criminales separadas a mediados del siglo XX. Genovese intentó asesinar a Costello en 1957, aunque Costello se retiró de la mafia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fZrMqok5ZQH82R1YqBu3LcG26ON.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sw4W5bdXMxHuZ1BmByElSUdhP3z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tgxAaOzxeGM0PJXfsuMjZzzgVyk.png"
+    },
+    {
+      "id": "tmdb:850920",
+      "type": "movie",
+      "name": "The Parenting",
+      "ids": {
+        "tmdb": 850920
+      },
+      "overview": "Josh y Rohan, una pareja de novios, organizan una escapada de fin de semana para presentar a sus padres.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ySm7o3LyAI2R9Wb8GdDcvF9Xf3o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bKHTHDsei1hSxwvRHKBWn6VNWY3.png"
+    },
+    {
+      "id": "tmdb:1224668",
+      "type": "movie",
+      "name": "La furia",
+      "ids": {
+        "tmdb": 1224668
+      },
+      "overview": "Tras ser violada en fin de año, Alex busca refugio en su hermano Adrián. Pero él, consumido por la rabia, sigue un camino cada vez más oscuro. Su reacción los aleja y ella canaliza el dolor a través del teatro, interpretando al vengativo personaje de Medea.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qnqvxOgcEYaePEFkIqRPovpsBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xf5Kp5rJxCeHeI14va3kcVz8N5b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gEWWuJZ89gJKZTACaEM1uUQM674.png"
+    },
+    {
+      "id": "tmdb:1433947",
+      "type": "movie",
+      "name": "¿Quién es Luigi Mangione?",
+      "ids": {
+        "tmdb": 1433947
+      },
+      "overview": "26 años, Luigi Mangione es un joven de riqueza y privilegio. ¿Qué lo llevó al mortal tiroteo contra el CEO de United Healthcare, Brian Thompson?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/x5zGjyJNjwkWvoeZhFeqEpjMwf1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUczBoHMyKHsVdbfnZY2a1XtFXA.png"
+    },
+    {
+      "id": "tmdb:1429886",
+      "type": "movie",
+      "name": "Ganamos al Dream Team",
+      "ids": {
+        "tmdb": 1429886
+      },
+      "overview": "La historia de un grupo de jugadores de baloncesto que recibieron la tarea de preparar al \"equipo de ensueño\" para su debut olímpico en 1992.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6EcJkjNtYW7BoTVNoiRMFp7yDsa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kdRpnnZP7IpJ6vxXe1NNbKLuG0s.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/OcKQWkaRMesRKYpuahBsZVjpkS.png"
+    },
+    {
+      "id": "tmdb:696506",
+      "type": "movie",
+      "name": "Mickey 17",
+      "ids": {
+        "tmdb": 696506
+      },
+      "overview": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bgQt8SRHYxMPUF5M0VzE9Lp34W9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c2B2xGkqJ3Ytuq01ybNw09PfNH7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png"
+    },
+    {
+      "id": "tmdb:1219555",
+      "type": "movie",
+      "name": "Wunderschöner",
+      "ids": {
+        "tmdb": 1219555
+      },
+      "overview": "Cuando el político Philipp es grabado con una prostituta, su esposa Nadine queda devastada. Vicky enseña feminismo mientras añora a su pareja distante. Julie sufre abusos sexuales por parte de un compañero del equipo del programa. Sonja y Milan, tras una pelea, acuden a terapia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/aPJVxNLNffSeiEgJPo1b3yAkZP2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2laIwMw0jIbxSFhbArclr9b1Pjx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dr7PCAPi1ez40N5LMdf1RkdoFYg.png"
+    },
+    {
+      "id": "tmdb:1400768",
+      "type": "movie",
+      "name": "Enigma",
+      "ids": {
+        "tmdb": 1400768
+      },
+      "overview": "Dos pioneras transgénero, April Ashley y Amanda Lear, afrontaron el escrutinio público de sus identidades de maneras opuestas, dando forma a sus legados.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/e8Bx05ElCUIrWcMrJ7wYgjEkFpg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ceSSVwcRaBkGLAeb8MtmtSeoJQQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ln7foDyfTUTGqgg9pnR3Z5bcKx3.png"
+    },
+    {
+      "id": "tmdb:1084199",
+      "type": "movie",
+      "name": "La acompañante",
+      "ids": {
+        "tmdb": 1084199
+      },
+      "overview": "La muerte de un multimillonario desencadena una serie de acontecimientos para Iris y sus amigos durante un viaje de fin de semana a su finca junto al lago.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/nyloao2GWttUvS7KVcEM2eSDwUn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7xJyWvzb1vplnncajXzByj7KVOS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
+    },
+    {
+      "id": "tmdb:1386514",
+      "type": "movie",
+      "name": "Bill Maher: Is Anyone Else Seeing This?",
+      "ids": {
+        "tmdb": 1386514
+      },
+      "overview": "With his signature sardonic wit and unfiltered approach, acclaimed comedian Bill Maher offers up his scathing commentary on the hypocrisies of both conservative and liberal politics, as well as trends in modern parenting, sex and dating, and religion.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6MmkUf0tCZSkI9ml1c9d3DqmFwf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dI8nFMhmtbktwghyBGW4fsUFrdq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knldqSk9Bn73d48iwNzyijWLs57.png"
+    },
+    {
+      "id": "tmdb:1411287",
+      "type": "movie",
+      "name": "Hijos del éxtasis",
+      "ids": {
+        "tmdb": 1411287
+      },
+      "overview": "Un financiero británico y un retoño de la mafia compiten por el negocio del éxtasis en los años 90.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mzwrfwZiOd0H6qeBZOlQJ2z5JiS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
+    },
+    {
+      "id": "tmdb:1416302",
+      "type": "movie",
+      "name": "Nadal: King of Paris",
+      "ids": {
+        "tmdb": 1416302
+      },
+      "overview": "",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/2LtJBBY1Phu1GYcW3AMivO17KXj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1LWUJqyY6UWno1tBnspQeoJWgkQ.jpg"
+    },
+    {
+      "id": "tmdb:1407802",
+      "type": "movie",
+      "name": "Forza Jannik: Sinner and the Rise of Italian Tennis",
+      "ids": {
+        "tmdb": 1407802
+      },
+      "overview": "Forza Jannik pulls the curtains back on the tennis renaissance taking place in Italy. This isn't just a story about tennis; it's a tale of national pride, of young athletes against the odds, and of a country's relentless quest to dominate the sport.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/c1FLPLZVU58utyyyI8j13uj3xe1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2jEZzCVSrga6J33W2XccNYaQvN6.jpg"
+    },
+    {
+      "id": "tmdb:1390010",
+      "type": "movie",
+      "name": "Rose Matafeo: Suma y sigue",
+      "ids": {
+        "tmdb": 1390010
+      },
+      "overview": "Rose Matafeo reflexiona sobre las dificultades de los finales y los bucles aparentemente interminables que conforman nuestras vidas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/pUVXhMudBilQPfPHsSsu52WTI0V.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1Pni418oKGFdNmDhuz550xiZBMb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xprcRj7cS24Mb1wjk9EIuFbJybD.png"
+    },
+    {
+      "id": "tmdb:1403426",
+      "type": "movie",
+      "name": "The Pelicot Rape Case",
+      "ids": {
+        "tmdb": 1403426
+      },
+      "overview": "What motivated over 70 men to be involved in one of France's most shocking crimes? An examination of the awful crimes of Dominique Pelicot and asking what motivated over 70 men to be involved in one of the most horrific crimes in French legal history.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/xApiEBdoO7HpNyKDdm3lT3DdAnw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oDrj41c6D6y8FOj537E3Pzoylb.jpg"
+    },
+    {
+      "id": "tmdb:839033",
+      "type": "movie",
+      "name": "El señor de los anillos: La guerra de los Rohirrim",
+      "ids": {
+        "tmdb": 839033
+      },
+      "overview": "Explora la \"historia no contada\" del Abismo de Helm, cientos de años antes de la mítica batalla, y de su fundador, Helm Hammerhand, Rey de Rohan.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9muL2tl7iLcG5NvI2aoJAbPPXAB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1SCdmxDfJacm68WniIKPiz3761m.png"
+    },
+    {
+      "id": "tmdb:1252309",
+      "type": "movie",
+      "name": "Pídeme lo que quieras",
+      "ids": {
+        "tmdb": 1252309
+      },
+      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
+    },
+    {
+      "id": "tmdb:1386881",
+      "type": "movie",
+      "name": "James Acaster: Hecklers Welcome",
+      "ids": {
+        "tmdb": 1386881
+      },
+      "overview": "James Acaster explores his love/hate relationship with standup by relinquishing control of his set and accepting a healthy dose of audience interference – AKA heckling. With his wiry observational eye and incomparable wit, Acaster shares hilarious on-the-fly meta-analysis of his own material, along with stories from his childhood that spurred him to pursue a career in comedy.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/cBVE7JVzEvegJs2JDd1BdoqdBSS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2Ulkr5jUqMDlpcnFUWdTM3QIe1r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qK4mdPs2mo4ZtkotbnMUjJBTxNl.png"
+    },
+    {
+      "id": "tmdb:1369240",
+      "type": "movie",
+      "name": "Surveilled: Bajo escucha",
+      "ids": {
+        "tmdb": 1369240
+      },
+      "overview": "El documental muestra como el periodista de The New Yorker, Ronan Farrow, va descubriendo las insidiosas formas en que el Estado vigila nuestra vida diaria. Empieza siguiendo las pistas y finalmente expone un mundo oscuro de programas espía, piratería y tráfico de información privada, donde activistas y periodistas son perseguidos y nadie está protegido de los ojos vigilantes y crueles del autoritarismo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1agxWGWy12F9f45076Yz1wFPq2k.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/byAxtD5cV3xwZD1kOFhYmXvAEY1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eK8RouPuoK9izFOuJNhXMLGPQs2.png"
+    },
+    {
+      "id": "tmdb:1370580",
+      "type": "movie",
+      "name": "Yacht Rock: A Dockumentary",
+      "ids": {
+        "tmdb": 1370580
+      },
+      "overview": "Narra el surgimiento y la popularidad de la cultura pop del rock suave de la Costa Oeste, personificada por artistas musicales como Christopher Cross, Michael McDonald, Kenny Loggins, Steely Dan y Toto. Apodado retroactivamente «Yacht Rock» en 2005 por una serie de sitios web de comedia, los sonidos relajantes y fáciles de escuchar de finales de los 70 y principios de los 80, amados por muchos, llegaron a ser objeto de burla e incluso desestimados por los amantes del rock y los críticos, pero desde entonces han reclamado su lugar legítimo en la historia de la música y se celebran en esta película de la serie antológica Music Box.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/ijERUgUNG1SGa3nOdUjthpmn31x.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qBRdLsul2EDSsYWGfi5qZRlQ9LX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tsnzchqUuawZRXRu8OSz5HEvNjB.png"
+    },
+    {
+      "id": "tmdb:1398171",
+      "type": "movie",
+      "name": "Lomu: The Lost Tapes",
+      "ids": {
+        "tmdb": 1398171
+      },
+      "overview": "Jonah Lomu shares his extraordinary story. Featuring never-before-seen footage, he describes the traumas around his childhood and how he escaped a life of gang violence to become the most iconic rugby player on the planet.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/mAKEeIre3Fj6sbHytSRRaHP5Zpc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fsqRgJ0wA1NhYIhqa00m5OB8SRp.jpg"
+    },
+    {
+      "id": "tmdb:999890",
+      "type": "movie",
+      "name": "Sweethearts",
+      "ids": {
+        "tmdb": 999890
+      },
+      "overview": "Dos estudiantes de primer año de la universidad que decidieron seguir con sus novios de la secundaria tienen que hacer un 'Turkey Dump' y romper con ellos durante 'Drunksgiving', la única noche caótica antes del Día de Acción de Gracias en su ciudad natal que pone a prueba su amistad codependiente.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mfmMB6BRK8vmdJ6JkdTGi2lN9cn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oENd4xKJUFx5Nc20LT9gAv5b5pL.png"
+    },
+    {
+      "id": "tmdb:1378588",
+      "type": "movie",
+      "name": "Svět mezi námi",
+      "ids": {
+        "tmdb": 1378588
+      },
+      "overview": "Marie Tomanová travelled from Mikulov to the USA as an au pair, and today she shoots campaigns for fashion brands such as Nike, Instagram, or for the fashion magazines such as Vogue CS. However, her name is better known abroad than in her native country, which provided few opportunities for the young painter. Paradoxically, it was only in New York, far from home, that she was able to grow up and find herself - a transition greatly supported by Marie’s partner in professional and personal life, art historian Thomas Beachdel. Tomanová touches the world in a different way, with a rush of positive emotions, an immediate connection, acting as a medium through which the energy of the portrait-sitter passes.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/nFkicYCk0mTA6nJWFUNiWypXX0I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1aik0LvuK6B7xmW3IxKQ75bUZJR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3fhWAlodpVOc9LlRzNRVJGFMlS4.png"
+    },
+    {
+      "id": "tmdb:1364590",
+      "type": "movie",
+      "name": "Chris Brown: una historia de violencia",
+      "ids": {
+        "tmdb": 1364590
+      },
+      "overview": "Un documental biográfico que profundiza en la controvertida vida personal del icónico cantante Chris Brown, trazando su viaje desde una infancia problemática hasta el estrellato mundial. Explora su historial público violento, incluidas acusaciones de violencia doméstica, cargos de agresión y conducta sexual inapropiada, al tiempo que cuestiona cómo un hombre con una historia tan turbulenta mantiene su estatus de celebridad. Con comentarios de expertos y culturales, la película ofrece reflexiones reflexivas sobre el ciclo de abuso y su impacto psicológico duradero, arrojando luz sobre las experiencias de los sobrevivientes y las consecuencias de su trauma.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/seykQd8kCYvaiNSDtx16DkjkXMY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jA6UCz1tIHVnDBFxe37pH9WYuNl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/40MS9ld3EkcTCLgHqHJyubSDIuV.png"
+    },
+    {
+      "id": "tmdb:1106739",
+      "type": "movie",
+      "name": "Jurado Nº 2",
+      "ids": {
+        "tmdb": 1106739
+      },
+      "overview": "Justin Kemp, un hombre de familia, mientras forma parte de un jurado en un juicio por asesinato, se encuentra luchando con un serio dilema moral... uno que podría utilizar para influir en el veredicto del jurado y potencialmente condenar (o liberar) al asesino acusado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8ksKA5jfyS2ywhYTB6Jq5d2NeyK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
+    },
+    {
+      "id": "tmdb:1360823",
+      "type": "movie",
+      "name": "Seth Meyers: Dad Man Walking",
+      "ids": {
+        "tmdb": 1360823
+      },
+      "overview": "Known for his dry wit and sharp topical commentary as host of Late Night with Seth Meyers, the veteran comedian shifts his focus to his personal life – from the chaos of raising three young kids, to navigating different communication styles in marriage, to the proper way to cross the street in New York City.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1SQvPpnfaMMjSM4ncMQFTjMlpMJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ecx35NrUoweHEM8GQnQv4rB3m57.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lg2ylBKRjtH3cIPNOVd6Zyh3v5p.png"
+    },
+    {
+      "id": "tmdb:1472358",
+      "type": "movie",
+      "name": "Al Pacino: Once Upon a Time in Hollywood",
+      "ids": {
+        "tmdb": 1472358
+      },
+      "overview": "Screen legend and Oscar winner Al Pacino looks back on his extraordinary life and career, and shares the stories behind some of his biggest films.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/lsdaCrMdBA3egTDdh1ZPRdKkDo3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g0bMALtdq4xF20kz6JmCGMxHKeN.jpg"
+    },
+    {
+      "id": "tmdb:1362836",
+      "type": "movie",
+      "name": "Night Is Not Eternal",
+      "ids": {
+        "tmdb": 1362836
+      },
+      "overview": "For seven years, award-winning Chinese-American filmmaker Nanfu Wang follows Rosa María Payá, daughter of the five time Nobel Peace Prize nominated activist, Oswaldo Payá, in Rosa's fight for democratic change in Cuba. Rosa's narrative is interwoven with Wang's poignant reflections on her Chinese upbringing and her observations of eroding democratic norms in the U.S., revealing unsettling similarities to the authoritarian system she left behind.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/2sfAOEr00tY9RRNE47yojYby3Bo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7q6QGFXhHtUUkSuFUpzv1L2kn4O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/axQOS0mrDcg7zyQ4wlu22HS6sJ1.png"
+    },
+    {
+      "id": "tmdb:863873",
+      "type": "movie",
+      "name": "Los horrores de Caddo Lake",
+      "ids": {
+        "tmdb": 863873
+      },
+      "overview": "Cuando una niña de ocho años desaparece misteriosamente en Caddo Lake, una serie de muertes y desapariciones del pasado empiezan a mezclarse, alterando para siempre la historia de una familia rota.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/uJZrBYrj9qC3BsCZKo75COJewOa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uAnT1p121ZV9y1nvclKMtpwhDyA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m15jcKzjQsQOx36XxChPPXaxnc5.png"
+    }
+  ]
+}
