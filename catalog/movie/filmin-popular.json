@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1440171",
+      "type": "movie",
+      "name": "Una quinta portuguesa",
+      "ids": {
+        "tmdb": 1440171
+      },
+      "overview": "La desaparición de su mujer deja a Fernando, un tranquilo profesor de geografía, completamente devastado. Sin rumbo, suplanta la identidad de otro hombre como jardinero de una quinta portuguesa, donde establece una inesperada amistad con la dueña, adentrándose en una nueva vida que no le pertenece.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/yq3HwogoVCxYkWyEd0aCi62ewjY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9N391PhefZKLSmA9i2DoU05voJa.jpg"
+    },
+    {
       "id": "tmdb:808",
       "type": "movie",
       "name": "Shrek",
@@ -13,19 +26,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
-      "id": "tmdb:1440171",
-      "type": "movie",
-      "name": "Una quinta portuguesa",
-      "ids": {
-        "tmdb": 1440171
-      },
-      "overview": "La desaparición de su mujer deja a Fernando, un tranquilo profesor de geografía, completamente devastado. Sin rumbo, suplanta la identidad de otro hombre como jardinero de una quinta portuguesa, donde establece una inesperada amistad con la dueña, adentrándose en una nueva vida que no le pertenece.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/yq3HwogoVCxYkWyEd0aCi62ewjY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9N391PhefZKLSmA9i2DoU05voJa.jpg"
     },
     {
       "id": "tmdb:933260",
@@ -70,6 +70,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/8HOORxKxQgi6YP94B8SCUwVErie.png"
     },
     {
+      "id": "tmdb:496243",
+      "type": "movie",
+      "name": "Parásitos",
+      "ids": {
+        "tmdb": 496243
+      },
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+    },
+    {
       "id": "tmdb:578",
       "type": "movie",
       "name": "Tiburón",
@@ -96,34 +110,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
-    },
-    {
-      "id": "tmdb:496243",
-      "type": "movie",
-      "name": "Parásitos",
-      "ids": {
-        "tmdb": 496243
-      },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-    },
-    {
-      "id": "tmdb:111",
-      "type": "movie",
-      "name": "El precio del poder",
-      "ids": {
-        "tmdb": 111
-      },
-      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
     },
     {
       "id": "tmdb:105",
@@ -154,46 +140,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
-      "id": "tmdb:532812",
+      "id": "tmdb:111",
       "type": "movie",
-      "name": "El rey de Escocia",
+      "name": "El precio del poder",
       "ids": {
-        "tmdb": 532812
+        "tmdb": 111
       },
-      "overview": "En 1306, el rey escocés Robert the Bruce se convierte en un forajido derrotado cuando su país es invadido. Pero antes de liberar su tierra sagrada, deberá conseguir recuperar su voluntad de lucha y sobrevivir a la persecución de quienes quieren hacerse con su cabeza y con el oro inglés.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/49VHS0U2J3xNpy3FK9pUsqQobZ8.jpg",
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rcwu6OULIIrsXcLX1vRi6Jl7PEY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lnZVeMgcgM4pDB4fnJ79VyPdlP2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
     },
     {
-      "id": "tmdb:809",
+      "id": "tmdb:821792",
       "type": "movie",
-      "name": "Shrek 2",
+      "name": "Bull",
       "ids": {
-        "tmdb": 809
+        "tmdb": 821792
       },
-      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+      "overview": "Después de estar 10 años ausente, el sicario de una banda regresa a sus viejos compinches para encontrar a su hijo perdido y buscar venganza contra aquellos que le traicionaron y le dieron por muerto.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/wWDttpdPe0fNA1l6fzbiyy8cBQK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wD44moEofk0EZyFxLQItuwdGsvV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
-    },
-    {
-      "id": "tmdb:497",
-      "type": "movie",
-      "name": "La milla verde",
-      "ids": {
-        "tmdb": 497
-      },
-      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/umunWbkQ6xMWlGOpp4Tt0QuhMSz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rr2nQMagxwQ3P37FLF3P3teYvtj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bZBBz8czqjrtzcECPE5ickdjY73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIPJOVGl380ScIT2xFu3qhWrXp9.png"
     },
     {
       "id": "tmdb:138697",
@@ -224,6 +196,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/233abhqwFtzGhcWStY4eonwpVnn.png"
     },
     {
+      "id": "tmdb:809",
+      "type": "movie",
+      "name": "Shrek 2",
+      "ids": {
+        "tmdb": 809
+      },
+      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wD44moEofk0EZyFxLQItuwdGsvV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
+    },
+    {
+      "id": "tmdb:497",
+      "type": "movie",
+      "name": "La milla verde",
+      "ids": {
+        "tmdb": 497
+      },
+      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/umunWbkQ6xMWlGOpp4Tt0QuhMSz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rr2nQMagxwQ3P37FLF3P3teYvtj.png"
+    },
+    {
       "id": "tmdb:1127648",
       "type": "movie",
       "name": "Buenos días, tristeza",
@@ -236,76 +236,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/gEWw5gy1i2jhXthQulNiGAWtB1q.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eL0m12Wr30ROEVExa55DsNDIZOC.png"
-    },
-    {
-      "id": "tmdb:4348",
-      "type": "movie",
-      "name": "Orgullo y prejuicio",
-      "ids": {
-        "tmdb": 4348
-      },
-      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
-    },
-    {
-      "id": "tmdb:98",
-      "type": "movie",
-      "name": "Gladiator",
-      "ids": {
-        "tmdb": 98
-      },
-      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
-    },
-    {
-      "id": "tmdb:1189735",
-      "type": "movie",
-      "name": "Fréwaka",
-      "ids": {
-        "tmdb": 1189735
-      },
-      "overview": "Shoo es enviada a una apartada aldea para cuidar a una mujer agorafóbica que vive obsesionada con que Na Sídhe, un ser de la mitología irlandesa similar a las hadas, la secuestró durante su noche de bodas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/h4NWwBOVmzUH4a5sviENAZYdljV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lmvLdylC2dZYBZapfkgXlqShHxM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3FEiWtTJ6Krjly2jsm1fUFjowOY.png"
-    },
-    {
-      "id": "tmdb:50839",
-      "type": "movie",
-      "name": "Margin Call",
-      "ids": {
-        "tmdb": 50839
-      },
-      "overview": "Ambientada en el arriesgado mundo de las altas finanzas, es un thriller dramático que compromete a las figuras clave de un banco de inversión durante las turbulentas 24 horas previas al inicio de la crisis financiera de 2008. Cuando Peter Sullivan, un analista junior, revela información que podría probar la caída de la empresa, origina una toma de decisiones en cadena tanto morales como financieras que producen un terremoto en las vidas de los implicados en el inminente desastre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/lb79wPjijIXf1ZE6KhWVGUtv9AF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jvMW7hKMSn2O1jL2HwCiT4deaJC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kg3LI5rr4Y6Fso77AD6AwjKzFK4.png"
-    },
-    {
-      "id": "tmdb:601",
-      "type": "movie",
-      "name": "E.T. el extraterrestre",
-      "ids": {
-        "tmdb": 601
-      },
-      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
     },
     {
       "id": "tmdb:424",
@@ -322,32 +252,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
     },
     {
-      "id": "tmdb:1102938",
+      "id": "tmdb:532812",
       "type": "movie",
-      "name": "La historia de Jim",
+      "name": "El rey de Escocia",
       "ids": {
-        "tmdb": 1102938
+        "tmdb": 532812
       },
-      "overview": "Aymeric se encuentra con Florence, una antigua compañera de trabajo, una noche en Saint-Claude, en el Haut-Jura. Está embarazada de seis meses y es soltera. Cuando da a luz a Jim, Aymeric está allí. Pasan juntos unos años felices hasta que aparece Christophe, el padre biológico de Jim... Podría ser el comienzo de un melodrama, pero también es el inicio de una odisea hacia la paternidad.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/x6DEgIWoA5MMX6XylzuYYC1XGm.jpg",
+      "overview": "En 1306, el rey escocés Robert the Bruce se convierte en un forajido derrotado cuando su país es invadido. Pero antes de liberar su tierra sagrada, deberá conseguir recuperar su voluntad de lucha y sobrevivir a la persecución de quienes quieren hacerse con su cabeza y con el oro inglés.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/49VHS0U2J3xNpy3FK9pUsqQobZ8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1umiZBQ6oUbyKATwyxAVRlDELnd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kQ0wdeC5nEOCfoPI28Dq3a9p10h.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rcwu6OULIIrsXcLX1vRi6Jl7PEY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lnZVeMgcgM4pDB4fnJ79VyPdlP2.png"
     },
     {
-      "id": "tmdb:74052",
+      "id": "tmdb:98",
       "type": "movie",
-      "name": "Yo soy la Juani",
+      "name": "Gladiator",
       "ids": {
-        "tmdb": 74052
+        "tmdb": 98
       },
-      "overview": "Juani, una adolescente del extrarradio, tiene problemas en su casa y discute con su novio; no hay quien le aguante. Están juntos desde los quince años, sus celos y sus indecisiones son insoportables. Juani explota, lo deja y decide hacer todo lo que no ha hecho mientras ha estado perdiendo el tiempo con él. Harta de conformarse y de tanta tontería, lo que ella quiere es ir adelante y triunfar en esta vida. Va a ser actriz y que nadie lo dude porque lo conseguirá, que quede muy claro, ella es la Juani y la Juani es lo más.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/vVXnFjjiboNHsN9aE7Qy7K1k9k.jpg",
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rkGHtMClaT1Yndw6igIWi9ADOJK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/alr48WDmx7PGKSHH01FSUiJ0pbD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+    },
+    {
+      "id": "tmdb:4348",
+      "type": "movie",
+      "name": "Orgullo y prejuicio",
+      "ids": {
+        "tmdb": 4348
+      },
+      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+    },
+    {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T. el extraterrestre",
+      "ids": {
+        "tmdb": 601
+      },
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+    },
+    {
+      "id": "tmdb:1189735",
+      "type": "movie",
+      "name": "Fréwaka",
+      "ids": {
+        "tmdb": 1189735
+      },
+      "overview": "Shoo es enviada a una apartada aldea para cuidar a una mujer agorafóbica que vive obsesionada con que Na Sídhe, un ser de la mitología irlandesa similar a las hadas, la secuestró durante su noche de bodas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/h4NWwBOVmzUH4a5sviENAZYdljV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lmvLdylC2dZYBZapfkgXlqShHxM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3FEiWtTJ6Krjly2jsm1fUFjowOY.png"
     },
     {
       "id": "tmdb:420634",
@@ -358,10 +330,38 @@
       },
       "overview": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
       "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/z1mv8jZa7wzyGGWy10iMUyGyHVX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/gEZgH5A2TUy6oBMjkDasx3LEFHT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aTcXI4aRuOq62YT7IVJcpAhttBs.png"
+    },
+    {
+      "id": "tmdb:396535",
+      "type": "movie",
+      "name": "Train to Busan",
+      "ids": {
+        "tmdb": 396535
+      },
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6B9HaZYBG1ugyd5g6at6F3n4wOw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
+    },
+    {
+      "id": "tmdb:50839",
+      "type": "movie",
+      "name": "Margin Call",
+      "ids": {
+        "tmdb": 50839
+      },
+      "overview": "Ambientada en el arriesgado mundo de las altas finanzas, es un thriller dramático que compromete a las figuras clave de un banco de inversión durante las turbulentas 24 horas previas al inicio de la crisis financiera de 2008. Cuando Peter Sullivan, un analista junior, revela información que podría probar la caída de la empresa, origina una toma de decisiones en cadena tanto morales como financieras que producen un terremoto en las vidas de los implicados en el inminente desastre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/lb79wPjijIXf1ZE6KhWVGUtv9AF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jvMW7hKMSn2O1jL2HwCiT4deaJC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kg3LI5rr4Y6Fso77AD6AwjKzFK4.png"
     },
     {
       "id": "tmdb:38",
@@ -392,18 +392,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/vtjq0KF7PxGaTnp2oHXec7ue6zY.png"
     },
     {
-      "id": "tmdb:396535",
+      "id": "tmdb:539",
       "type": "movie",
-      "name": "Train to Busan",
+      "name": "Psicosis",
       "ids": {
-        "tmdb": 396535
+        "tmdb": 539
       },
-      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "overview": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6B9HaZYBG1ugyd5g6at6F3n4wOw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4RxFaIOkQVLMnmnmTl8ZS4SIi0g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tbDsTlf1M37hAMPvfJwiDMP0tbl.png"
+    },
+    {
+      "id": "tmdb:1102938",
+      "type": "movie",
+      "name": "La historia de Jim",
+      "ids": {
+        "tmdb": 1102938
+      },
+      "overview": "Aymeric se encuentra con Florence, una antigua compañera de trabajo, una noche en Saint-Claude, en el Haut-Jura. Está embarazada de seis meses y es soltera. Cuando da a luz a Jim, Aymeric está allí. Pasan juntos unos años felices hasta que aparece Christophe, el padre biológico de Jim... Podría ser el comienzo de un melodrama, pero también es el inicio de una odisea hacia la paternidad.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/x6DEgIWoA5MMX6XylzuYYC1XGm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1umiZBQ6oUbyKATwyxAVRlDELnd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kQ0wdeC5nEOCfoPI28Dq3a9p10h.png"
     },
     {
       "id": "tmdb:28",
@@ -420,32 +434,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
-      "id": "tmdb:856289",
+      "id": "tmdb:74052",
       "type": "movie",
-      "name": "La creación de los dioses: El reino de las tormentas",
+      "name": "Yo soy la Juani",
       "ids": {
-        "tmdb": 856289
+        "tmdb": 74052
       },
-      "overview": "Una epopeya de fantasía oriental que recrea las prolongadas guerras míticas entre humanos, inmortales y monstruos que tuvieron lugar hace más de tres mil años.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/p1p3KHxTeKYvZG3KTJYDYSVygJs.jpg",
+      "overview": "Juani, una adolescente del extrarradio, tiene problemas en su casa y discute con su novio; no hay quien le aguante. Están juntos desde los quince años, sus celos y sus indecisiones son insoportables. Juani explota, lo deja y decide hacer todo lo que no ha hecho mientras ha estado perdiendo el tiempo con él. Harta de conformarse y de tanta tontería, lo que ella quiere es ir adelante y triunfar en esta vida. Va a ser actriz y que nadie lo dude porque lo conseguirá, que quede muy claro, ella es la Juani y la Juani es lo más.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/vVXnFjjiboNHsN9aE7Qy7K1k9k.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fvaHeANnj1lkclDitqTF2gmWQTL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b2d7PesrDn1Ypp8sIHV6sDanX9d.png"
-    },
-    {
-      "id": "tmdb:10553",
-      "type": "movie",
-      "name": "Remo, desarmado y peligroso",
-      "ids": {
-        "tmdb": 10553
-      },
-      "overview": "Remo Williams, un rudo policía de Nueva York, es reclutado por una organización que depende del Presidente de los Estados Unidos y cuya misión es acabar con los políticos y los funcionarios corruptos. Previamente, Remo tendrá que ser adiestrado por un maestro coreano de lucha.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/nTJXb5Ii3bBX4u9oPFOLvxWDf8f.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mpLkP3dPXDEjqXGJR4khm93OEer.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ytnMSH535goMxwLxZZHQMbO5MpG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rkGHtMClaT1Yndw6igIWi9ADOJK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/alr48WDmx7PGKSHH01FSUiJ0pbD.png"
     },
     {
       "id": "tmdb:218",
@@ -462,88 +462,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
     },
     {
-      "id": "tmdb:152601",
+      "id": "tmdb:25237",
       "type": "movie",
-      "name": "Her",
+      "name": "Ven y mira",
       "ids": {
-        "tmdb": 152601
+        "tmdb": 25237
       },
-      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
+      "overview": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/3trCyueh2CBTlRrpq7xElqSWHTh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
-    },
-    {
-      "id": "tmdb:397415",
-      "type": "movie",
-      "name": "La hora de la venganza",
-      "ids": {
-        "tmdb": 397415
-      },
-      "overview": "Teena, una joven viuda es violada por cuatro asaltantes y la brutal agresión es presenciada por su hija pequeña de 12 años. Un detective, veterano de la guerra del Golfo, les ayudará a enfrentarse al juicio.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/xGLjrrYTsje656eXxkwtI5NPRFQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nnF2GHmaCChe0I3PqRW31OaiI3K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojMJaW0DuUJ62FeIaXCXthzpEKG.png"
-    },
-    {
-      "id": "tmdb:1278",
-      "type": "movie",
-      "name": "Soñadores",
-      "ids": {
-        "tmdb": 1278
-      },
-      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
-    },
-    {
-      "id": "tmdb:254",
-      "type": "movie",
-      "name": "King Kong",
-      "ids": {
-        "tmdb": 254
-      },
-      "overview": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4QRjnMYg3PyATd96bb2kXGvE96S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLl02c4vewuscZ7CRo2xUc1uJud.png"
-    },
-    {
-      "id": "tmdb:361292",
-      "type": "movie",
-      "name": "Suspiria",
-      "ids": {
-        "tmdb": 361292
-      },
-      "overview": "Susie Bannion (Dakota Johnson) es una joven estadounidense que viaja a Berlín para cursar sus estudios de danza en una de las escuelas más prestigiosas del mundo, dirigida por Madame Blanc (Tilda Swinton). El mismo día en el que ingresa en la escuela, una de las alumnas recientemente expulsada es asesinada. No se trata de un hecho aislado, lo que hace sospechar a la brillante estudiante sobre la implicación de la escuela en los homicidios. Su desconfianza aumenta cuando una compañera le cuenta que antes de que Pat muriera, ésta le confesó que conocía un terrorífico secreto. Remake del clásico giallo dirigido por Dario Argento en 1977, 'Suspiria'.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/shtw8xUzQW3re090TdIaViHUndp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iWelmKhYe0sPX8DC7ZXZzMcQHJv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tjbSuL8GCaheOo4NLqvr5mS0SE9.png"
-    },
-    {
-      "id": "tmdb:115",
-      "type": "movie",
-      "name": "El gran Lebowski",
-      "ids": {
-        "tmdb": 115
-      },
-      "overview": "El Nota es un hombre fracasado y en paro que un día es confundido con otra persona con su mismo nombre. Dos matones irrumpen en su apartamento y destrozan su alfombra creyendo que están ante Jeff Lebowski un millonario de Pasadena. El primer error de El Nota es visitar a su opulento tocayo con la esperanza de que le reponga su vieja alfombra.Sin embargo, nuestro reticente héroe y su compinche Water se ven atrapados en un thriller con toques humorísticos muy al estilo de los hermanos Coen donde se mezclan la extorsión, la traición, la decepción, el chantaje, el sexo y las drogas.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/EJFkJD9BH400jfzKz3W5xLYHQa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ywTUpv9icUY4KleCACJn3isDr4P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fjGn6VaEXrTAlmeuDeTTejxPMvM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5CTseLTxpOBYHA8b3l4sZhjkOqO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kDoXlPyZsfuFjZ2JSPjdbgz4dBE.png"
     },
     {
       "id": "tmdb:27578",
@@ -560,18 +490,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:620",
+      "id": "tmdb:10553",
       "type": "movie",
-      "name": "Los cazafantasmas",
+      "name": "Remo, desarmado y peligroso",
       "ids": {
-        "tmdb": 620
+        "tmdb": 10553
       },
-      "overview": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa \"Los Cazafantasmas\", dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg",
+      "overview": "Remo Williams, un rudo policía de Nueva York, es reclutado por una organización que depende del Presidente de los Estados Unidos y cuya misión es acabar con los políticos y los funcionarios corruptos. Previamente, Remo tendrá que ser adiestrado por un maestro coreano de lucha.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/nTJXb5Ii3bBX4u9oPFOLvxWDf8f.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uUMiW6LbRyRWWPcglinQugBJWhF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kJADnzciFbQXNT3CWUUSxa4ywcq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mpLkP3dPXDEjqXGJR4khm93OEer.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ytnMSH535goMxwLxZZHQMbO5MpG.png"
     },
     {
       "id": "tmdb:297",
@@ -588,59 +518,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/fXsfeQ7b7AoPBOOzYWrJ08SOmpM.png"
     },
     {
-      "id": "tmdb:545611",
+      "id": "tmdb:1278",
       "type": "movie",
-      "name": "Todo a la vez en todas partes",
+      "name": "Soñadores",
       "ids": {
-        "tmdb": 545611
+        "tmdb": 1278
       },
-      "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
+      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/idNFfHarxVnMoiiVsk2PGA3trD7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
     },
     {
-      "id": "tmdb:539",
+      "id": "tmdb:115",
       "type": "movie",
-      "name": "Psicosis",
+      "name": "El gran Lebowski",
       "ids": {
-        "tmdb": 539
+        "tmdb": 115
       },
-      "overview": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4RxFaIOkQVLMnmnmTl8ZS4SIi0g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tbDsTlf1M37hAMPvfJwiDMP0tbl.png"
-    },
-    {
-      "id": "tmdb:12572",
-      "type": "movie",
-      "name": "New York, I Love You",
-      "ids": {
-        "tmdb": 12572
-      },
-      "overview": "Película formada por cortometrajes de reconocidos directores y actores, siguiendo la línea de \"Paris, je t'aime\", narrando historias de amor en la ciudad de Nueva York.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/85pnbEkyGi211Rq9DmnqbNX18aK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lmBCEbhZUemE2jxYqz1aEekE7Y8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3r1xP0ng561isVgeEv1frd58zRG.png"
-    },
-    {
-      "id": "tmdb:4975",
-      "type": "movie",
-      "name": "El amor es el demonio. Estudio para un retrato de Francis Bacon",
-      "ids": {
-        "tmdb": 4975
-      },
-      "overview": "Biografía del pintor británico Francis Bacon. La película se centra en su relación con George Dyer, su amante. Dyer fue un ex ladrón de poca monta.",
+      "overview": "El Nota es un hombre fracasado y en paro que un día es confundido con otra persona con su mismo nombre. Dos matones irrumpen en su apartamento y destrozan su alfombra creyendo que están ante Jeff Lebowski un millonario de Pasadena. El primer error de El Nota es visitar a su opulento tocayo con la esperanza de que le reponga su vieja alfombra.Sin embargo, nuestro reticente héroe y su compinche Water se ven atrapados en un thriller con toques humorísticos muy al estilo de los hermanos Coen donde se mezclan la extorsión, la traición, la decepción, el chantaje, el sexo y las drogas.",
       "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/5zPTMTbYPhXXzAo5UQkeSpcmSMl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/EJFkJD9BH400jfzKz3W5xLYHQa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2OIb7XZKkgeqS1qX64EkxKXMjC8.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/ywTUpv9icUY4KleCACJn3isDr4P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fjGn6VaEXrTAlmeuDeTTejxPMvM.png"
+    },
+    {
+      "id": "tmdb:856289",
+      "type": "movie",
+      "name": "La creación de los dioses: El reino de las tormentas",
+      "ids": {
+        "tmdb": 856289
+      },
+      "overview": "Una epopeya de fantasía oriental que recrea las prolongadas guerras míticas entre humanos, inmortales y monstruos que tuvieron lugar hace más de tres mil años.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/p1p3KHxTeKYvZG3KTJYDYSVygJs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fvaHeANnj1lkclDitqTF2gmWQTL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b2d7PesrDn1Ypp8sIHV6sDanX9d.png"
+    },
+    {
+      "id": "tmdb:152601",
+      "type": "movie",
+      "name": "Her",
+      "ids": {
+        "tmdb": 152601
+      },
+      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
+    },
+    {
+      "id": "tmdb:361292",
+      "type": "movie",
+      "name": "Suspiria",
+      "ids": {
+        "tmdb": 361292
+      },
+      "overview": "Susie Bannion (Dakota Johnson) es una joven estadounidense que viaja a Berlín para cursar sus estudios de danza en una de las escuelas más prestigiosas del mundo, dirigida por Madame Blanc (Tilda Swinton). El mismo día en el que ingresa en la escuela, una de las alumnas recientemente expulsada es asesinada. No se trata de un hecho aislado, lo que hace sospechar a la brillante estudiante sobre la implicación de la escuela en los homicidios. Su desconfianza aumenta cuando una compañera le cuenta que antes de que Pat muriera, ésta le confesó que conocía un terrorífico secreto. Remake del clásico giallo dirigido por Dario Argento en 1977, 'Suspiria'.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/shtw8xUzQW3re090TdIaViHUndp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iWelmKhYe0sPX8DC7ZXZzMcQHJv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tjbSuL8GCaheOo4NLqvr5mS0SE9.png"
     },
     {
       "id": "tmdb:1018",
@@ -657,32 +602,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
     },
     {
-      "id": "tmdb:25237",
+      "id": "tmdb:1923",
       "type": "movie",
-      "name": "Ven y mira",
+      "name": "Twin Peaks: Fuego camina conmigo",
       "ids": {
-        "tmdb": 25237
+        "tmdb": 1923
       },
-      "overview": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/3trCyueh2CBTlRrpq7xElqSWHTh.jpg",
+      "overview": "Precuela de la famosa serie televisiva. La fuente de los impulsos autodestructivos de Laura Palmer está en los abusos que sufre por parte de alguien muy cercano, quien sufre la posesión del diabólico BOB. Cuando Laura se da cuenta de que su mejor amiga, Donna Hayward, se encamina a su mismo sendero autodestructivo, tiene un ataque de lucidez que le permite prevenírselo.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/7TDqNMyueIMTrPsQBMap411eWLu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5CTseLTxpOBYHA8b3l4sZhjkOqO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kDoXlPyZsfuFjZ2JSPjdbgz4dBE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zltPbRVViAYIWM19aiyMd6DP2kU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sVV9q6KwN21haETliul1WXNYFDh.png"
     },
     {
-      "id": "tmdb:979",
+      "id": "tmdb:545611",
       "type": "movie",
-      "name": "Irreversible",
+      "name": "Todo a la vez en todas partes",
       "ids": {
-        "tmdb": 979
+        "tmdb": 545611
       },
-      "overview": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
+      "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9mkFblgXMi6g95FKQ7WVd4Dwj2e.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/idNFfHarxVnMoiiVsk2PGA3trD7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
+    },
+    {
+      "id": "tmdb:254",
+      "type": "movie",
+      "name": "King Kong",
+      "ids": {
+        "tmdb": 254
+      },
+      "overview": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4QRjnMYg3PyATd96bb2kXGvE96S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLl02c4vewuscZ7CRo2xUc1uJud.png"
+    },
+    {
+      "id": "tmdb:397415",
+      "type": "movie",
+      "name": "La hora de la venganza",
+      "ids": {
+        "tmdb": 397415
+      },
+      "overview": "Teena, una joven viuda es violada por cuatro asaltantes y la brutal agresión es presenciada por su hija pequeña de 12 años. Un detective, veterano de la guerra del Golfo, les ayudará a enfrentarse al juicio.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/xGLjrrYTsje656eXxkwtI5NPRFQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nnF2GHmaCChe0I3PqRW31OaiI3K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojMJaW0DuUJ62FeIaXCXthzpEKG.png"
     },
     {
       "id": "tmdb:630586",
@@ -697,6 +670,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5pGdN6iI3hzPVEki334EZNuMiLq.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/9P5h2APRIlWGV01bjIooBrNOUNI.png"
+    },
+    {
+      "id": "tmdb:990140",
+      "type": "movie",
+      "name": "Sakra",
+      "ids": {
+        "tmdb": 990140
+      },
+      "overview": "Basada en la clásica novela wuxia \"Demi-Gods and Semi-Devils\" de Louis Cha (conocido mundialmente por su seudónimo Jin Yong), SAKRA está protagonizada por Donnie Yen como Qiao Feng, el respetado líder de una banda ambulante de artistas marciales. Tras ser acusado injustamente de asesinato y posteriormente exiliado, Qiao Feng emprende una huida en busca de respuestas sobre su misterioso origen y los enemigos desconocidos que buscan destruirlo desde las sombras. A lo largo de su búsqueda, descubrirá detalles reveladores que podrían cambiar su vida para siempre.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/pEqixl0Po2nK2vGJdQdUME3zjfJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zhVCJ14a1EbzfYQFUgyujcQZLuL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pqu3S5zlYRt9oPXmC4OI1r4dml5.png"
+    },
+    {
+      "id": "tmdb:567",
+      "type": "movie",
+      "name": "La ventana indiscreta",
+      "ids": {
+        "tmdb": 567
+      },
+      "overview": "Un reportero fotográfico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compañía de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prismáticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extrañas circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
+      "year": 1954,
+      "poster": "https://image.tmdb.org/t/p/w342/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3IdgssSqy4PfHr4E2Tev6rsIxyf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AoqMq2x8vT4pOibSelF1fWc1Qoj.png"
     }
   ]
 }
