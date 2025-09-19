@@ -85,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/dHp46lXUI9GuhMYlnXPDz5KQVza.png"
     },
     {
+      "id": "tmdb:456",
+      "type": "series",
+      "name": "Los Simpson",
+      "ids": {
+        "tmdb": 456
+      },
+      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/gpGPI732PWspwGpPyWrWov8IYmq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hKuiXx5eNObCLKe9BOl7O7ulKyg.png"
+    },
+    {
       "id": "tmdb:615",
       "type": "series",
       "name": "Futurama",
@@ -97,20 +111,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/srgYnMQDj84xPn5ramBXbeX4OmP.svg"
-    },
-    {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
       "id": "tmdb:1911",
@@ -127,32 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
-      "id": "tmdb:456",
+      "id": "tmdb:1402",
       "type": "series",
-      "name": "Los Simpson",
+      "name": "The Walking Dead",
       "ids": {
-        "tmdb": 456
+        "tmdb": 1402
       },
-      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/gpGPI732PWspwGpPyWrWov8IYmq.jpg",
+      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hKuiXx5eNObCLKe9BOl7O7ulKyg.png"
-    },
-    {
-      "id": "tmdb:107113",
-      "type": "series",
-      "name": "Solo asesinatos en el edificio",
-      "ids": {
-        "tmdb": 107113
-      },
-      "overview": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9WjVGJnpNWHTazIakcu129hKGIu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTG9Ug1ZDNIm1d0k0y65LHrwe13.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
       "id": "tmdb:223326",
@@ -169,18 +155,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vV4uwMo7JSu81wAnXd7km4lUHMi.png"
     },
     {
-      "id": "tmdb:2316",
+      "id": "tmdb:107113",
       "type": "series",
-      "name": "The Office",
+      "name": "Solo asesinatos en el edificio",
       "ids": {
-        "tmdb": 2316
+        "tmdb": 107113
       },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "overview": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9WjVGJnpNWHTazIakcu129hKGIu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTG9Ug1ZDNIm1d0k0y65LHrwe13.png"
     },
     {
       "id": "tmdb:1419",
@@ -197,32 +183,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
     },
     {
-      "id": "tmdb:254356",
+      "id": "tmdb:2316",
       "type": "series",
-      "name": "Los asesinatos de Breslavia",
+      "name": "The Office",
       "ids": {
-        "tmdb": 254356
+        "tmdb": 2316
       },
-      "overview": "Alemania 1936. Se acercan los undécimos Juegos Olímpicos y los ojos del mundo entero se centran en la capital del Tercer Reich. Mientras, en Breslavia, tiene lugar un brutal asesinato que puede echar a perder toda la campaña de propaganda y afectar al gran evento deportivo. El único que puede cerrar el caso a tiempo es el comisario de la policía Franz Podolsky, de origen polaco. Famoso por sus métodos polémicos pero efectivos, Podolsky se encuentra cara a cara contra un mal creciente. Mientras se enfrenta a sus propios demonios, inicia un peligroso juego del gato y el ratón contra el asesino que amenaza tanto su carrera como su vida personal.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/opYm2LWHc4WyX6YadedCq4SWdn3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4yExKSEHsy2sgtoqcibSmgydaW5.png"
-    },
-    {
-      "id": "tmdb:4586",
-      "type": "series",
-      "name": "Las chicas Gilmore",
-      "ids": {
-        "tmdb": 4586
-      },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
       "id": "tmdb:1421",
@@ -239,17 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rbKhglYrECjMZNYtT2QyihOQ5F.png"
     },
     {
-      "id": "tmdb:256150",
+      "id": "tmdb:4586",
       "type": "series",
-      "name": "Mar afuera",
+      "name": "Las chicas Gilmore",
       "ids": {
-        "tmdb": 256150
+        "tmdb": 4586
       },
-      "overview": "Carlos y Álvaro son dos internos recién llegados a un centro correccional de menores situado junto al mar. Mientras cumplen su condena tendrán que hacer frente a las amenazas de la banda de Los Pajaritos y ser capaces de mantener la esperanza en un futuro que cada vez ven más oscuro. Pero allí dentro también encontrarán el apoyo de internos como Saray, una joven que prefiere vivir en el centro antes que volver a su problemática vida en el exterior, o de trabajadores como Mario, un hombre implicado con la reinserción de los internos que llegará a poner en peligro su propia vida por ayudar a estos chicos.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/ftkwk1iDB0deK0bKwitRLWaKouE.jpg",
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5ie07KRqUWV9FDBHVYJ8h3DL9in.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
       "id": "tmdb:4607",
@@ -266,46 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
     },
     {
-      "id": "tmdb:65334",
+      "id": "tmdb:254356",
       "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "name": "Los asesinatos de Breslavia",
       "ids": {
-        "tmdb": 65334
+        "tmdb": 254356
       },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "overview": "Alemania 1936. Se acercan los undécimos Juegos Olímpicos y los ojos del mundo entero se centran en la capital del Tercer Reich. Mientras, en Breslavia, tiene lugar un brutal asesinato que puede echar a perder toda la campaña de propaganda y afectar al gran evento deportivo. El único que puede cerrar el caso a tiempo es el comisario de la policía Franz Podolsky, de origen polaco. Famoso por sus métodos polémicos pero efectivos, Podolsky se encuentra cara a cara contra un mal creciente. Mientras se enfrenta a sus propios demonios, inicia un peligroso juego del gato y el ratón contra el asesino que amenaza tanto su carrera como su vida personal.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/q6i3mGilu3N85kJgjRh41oXQ3YH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
-      "id": "tmdb:1433",
-      "type": "series",
-      "name": "Padre made in USA",
-      "ids": {
-        "tmdb": 1433
-      },
-      "overview": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/69FPjhtIz0BP0l0m4VwQijyxSon.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
-    },
-    {
-      "id": "tmdb:71728",
-      "type": "series",
-      "name": "El joven Sheldon",
-      "ids": {
-        "tmdb": 71728
-      },
-      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/opYm2LWHc4WyX6YadedCq4SWdn3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4yExKSEHsy2sgtoqcibSmgydaW5.png"
     },
     {
       "id": "tmdb:693",
@@ -322,18 +267,73 @@
       "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
     },
     {
-      "id": "tmdb:1973",
+      "id": "tmdb:226637",
       "type": "series",
-      "name": "24",
+      "name": "High Potential: Detective Inesperada",
       "ids": {
-        "tmdb": 1973
+        "tmdb": 226637
       },
-      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
+    },
+    {
+      "id": "tmdb:1433",
+      "type": "series",
+      "name": "Padre made in USA",
+      "ids": {
+        "tmdb": 1433
+      },
+      "overview": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/69FPjhtIz0BP0l0m4VwQijyxSon.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
+    },
+    {
+      "id": "tmdb:256150",
+      "type": "series",
+      "name": "Mar afuera",
+      "ids": {
+        "tmdb": 256150
+      },
+      "overview": "Carlos y Álvaro son dos internos recién llegados a un centro correccional de menores situado junto al mar. Mientras cumplen su condena tendrán que hacer frente a las amenazas de la banda de Los Pajaritos y ser capaces de mantener la esperanza en un futuro que cada vez ven más oscuro. Pero allí dentro también encontrarán el apoyo de internos como Saray, una joven que prefiere vivir en el centro antes que volver a su problemática vida en el exterior, o de trabajadores como Mario, un hombre implicado con la reinserción de los internos que llegará a poner en peligro su propia vida por ayudar a estos chicos.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ftkwk1iDB0deK0bKwitRLWaKouE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5ie07KRqUWV9FDBHVYJ8h3DL9in.jpg"
+    },
+    {
+      "id": "tmdb:71728",
+      "type": "series",
+      "name": "El joven Sheldon",
+      "ids": {
+        "tmdb": 71728
+      },
+      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
       "id": "tmdb:75219",
@@ -350,18 +350,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/twD0R1O15sPKDzUoJafwkm7fxCC.png"
     },
     {
-      "id": "tmdb:1409",
+      "id": "tmdb:1973",
       "type": "series",
-      "name": "Hijos de la anarquía",
+      "name": "24",
       "ids": {
-        "tmdb": 1409
+        "tmdb": 1973
       },
-      "overview": "Creada por Kurt Sutter, responsable también de “The Shield”, “Sons of Anarchy” está ambientada en la localidad ficticia de Charming, situada en el Norte de California. Su protagonista es Jackson “Jax” Teller(Chalie Hunnam – “Hijos de los hombres”, “Cold Mountain”), un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original (SAMCRO en su acrónimo), un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
+      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
       "id": "tmdb:74016",
@@ -378,18 +378,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
     },
     {
-      "id": "tmdb:1100",
+      "id": "tmdb:1409",
       "type": "series",
-      "name": "Cómo conocí a vuestra madre",
+      "name": "Hijos de la anarquía",
       "ids": {
-        "tmdb": 1100
+        "tmdb": 1409
       },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "overview": "Creada por Kurt Sutter, responsable también de “The Shield”, “Sons of Anarchy” está ambientada en la localidad ficticia de Charming, situada en el Norte de California. Su protagonista es Jackson “Jax” Teller(Chalie Hunnam – “Hijos de los hombres”, “Cold Mountain”), un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original (SAMCRO en su acrónimo), un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
       "id": "tmdb:71694",
@@ -420,60 +420,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     },
     {
-      "id": "tmdb:2004",
+      "id": "tmdb:1100",
       "type": "series",
-      "name": "Malcolm",
+      "name": "Cómo conocí a vuestra madre",
       "ids": {
-        "tmdb": 2004
+        "tmdb": 1100
       },
-      "overview": "Sitcom familiar que aborda los divertidos problemas y situaciones de una familia americana de clase media en la que el hijo Malcolm parece ser el único sensato... o al menos el único que da señales de cordura. La familia está compuesta por sus neuróticos padres Hal y Lois, el hermano mayor Francis y sus otros dos hermanos, Reese y Dewey.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pXFnagVVpuszQ6mnMkVov27SGe2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
-    },
-    {
-      "id": "tmdb:226637",
-      "type": "series",
-      "name": "High Potential: Detective Inesperada",
-      "ids": {
-        "tmdb": 226637
-      },
-      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
-    },
-    {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story",
-      "ids": {
-        "tmdb": 1413
-      },
-      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
-    },
-    {
-      "id": "tmdb:1403",
-      "type": "series",
-      "name": "Marvel Agentes de S.H.I.E.L.D.",
-      "ids": {
-        "tmdb": 1403
-      },
-      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
     },
     {
       "id": "tmdb:90",
@@ -490,18 +448,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
     },
     {
-      "id": "tmdb:30984",
+      "id": "tmdb:2004",
       "type": "series",
-      "name": "Bleach",
+      "name": "Malcolm",
       "ids": {
-        "tmdb": 30984
+        "tmdb": 2004
       },
-      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "overview": "Sitcom familiar que aborda los divertidos problemas y situaciones de una familia americana de clase media en la que el hijo Malcolm parece ser el único sensato... o al menos el único que da señales de cordura. La familia está compuesta por sus neuróticos padres Hal y Lois, el hermano mayor Francis y sus otros dos hermanos, Reese y Dewey.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d8pipPG6EEvqFu1KnHvCk0xMALV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/21zm3sP3j6rmpbZR3j0quusRe6h.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pXFnagVVpuszQ6mnMkVov27SGe2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
+    },
+    {
+      "id": "tmdb:1413",
+      "type": "series",
+      "name": "American Horror Story",
+      "ids": {
+        "tmdb": 1413
+      },
+      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
     },
     {
       "id": "tmdb:4087",
@@ -516,6 +488,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6Hn6KmuafmJFmw7dnNKTqiibtNL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
+    },
+    {
+      "id": "tmdb:1403",
+      "type": "series",
+      "name": "Marvel Agentes de S.H.I.E.L.D.",
+      "ids": {
+        "tmdb": 1403
+      },
+      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
+    },
+    {
+      "id": "tmdb:30984",
+      "type": "series",
+      "name": "Bleach",
+      "ids": {
+        "tmdb": 30984
+      },
+      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d8pipPG6EEvqFu1KnHvCk0xMALV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/21zm3sP3j6rmpbZR3j0quusRe6h.png"
     },
     {
       "id": "tmdb:2122",
@@ -574,18 +574,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
-      "id": "tmdb:292516",
+      "id": "tmdb:82728",
       "type": "series",
-      "name": "Recuerdos del amor",
+      "name": "Bluey",
       "ids": {
-        "tmdb": 292516
+        "tmdb": 82728
       },
-      "overview": "Deniz y Güneş, un arquitecto y una editora, sufren rupturas antes de sus bodas. Una noche, el destino los une y un mensaje en sus móviles desencadena una aventura que les ayudará a encontrar el verdadero amor.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lce2rcSk4vn5qRNktkayCFGDHQE.jpg",
+      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4MlF4lwpJWu4p8RuaHZaXQSI0Tb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ocFBSraUu9M1PZNhUb4IeFi67F7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
     },
     {
       "id": "tmdb:4194",
@@ -602,20 +602,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png"
     },
     {
-      "id": "tmdb:95",
-      "type": "series",
-      "name": "Buffy, cazavampiros",
-      "ids": {
-        "tmdb": 95
-      },
-      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
-    },
-    {
       "id": "tmdb:2710",
       "type": "series",
       "name": "Colgados en Filadelfia",
@@ -630,18 +616,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
     },
     {
-      "id": "tmdb:82728",
+      "id": "tmdb:95",
       "type": "series",
-      "name": "Bluey",
+      "name": "Buffy, cazavampiros",
       "ids": {
-        "tmdb": 82728
+        "tmdb": 95
       },
-      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
+      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
     },
     {
       "id": "tmdb:61889",
@@ -656,6 +642,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/iHi7twVZVmuYkWnLghRuOhHZSn6.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jbYIbMDDMP6gTA4VjBfoMDJ3L85.png"
+    },
+    {
+      "id": "tmdb:39269",
+      "type": "series",
+      "name": "Scandal",
+      "ids": {
+        "tmdb": 39269
+      },
+      "overview": "Scandal es una serie de televisión estadounidense, creada por Shonda Rhimes y protagonizada por Kerry Washington. La serie comenzó a emitirse el 5 de abril de 2012 en la cadena ABC. El personaje de la protagonista Kerry Washington está basado parcialmente en Judy Smith, jefa de prensa de la administración de George H. W. Bush y que además es co-productora ejecutiva de la serie. La serie tiene lugar en Washington D. C. y se centra en la agencia de control de crisis de Olivia Pope, Olivia Pope & Associates (Olivia Pope & Asociados), y en su personal, así como en el personal de la Casa Blanca, entre los que destacan el presidente de Estados Unidos, Fitzgerald Grant III, su Jefe de gabinete, Cyrus Beene, y la primera dama, Mellie Grant.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/99HG3MVwRsSDTO3xWNWPfmYm4Kc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3D1QRLTxdGQBLC0HYs65FyUncY2.png"
+    },
+    {
+      "id": "tmdb:292516",
+      "type": "series",
+      "name": "Recuerdos del amor",
+      "ids": {
+        "tmdb": 292516
+      },
+      "overview": "Deniz y Güneş, un arquitecto y una editora, sufren rupturas antes de sus bodas. Una noche, el destino los une y un mensaje en sus móviles desencadena una aventura que les ayudará a encontrar el verdadero amor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lce2rcSk4vn5qRNktkayCFGDHQE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4MlF4lwpJWu4p8RuaHZaXQSI0Tb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ocFBSraUu9M1PZNhUb4IeFi67F7.png"
     },
     {
       "id": "tmdb:4556",
@@ -684,20 +698,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
-    },
-    {
-      "id": "tmdb:39269",
-      "type": "series",
-      "name": "Scandal",
-      "ids": {
-        "tmdb": 39269
-      },
-      "overview": "Scandal es una serie de televisión estadounidense, creada por Shonda Rhimes y protagonizada por Kerry Washington. La serie comenzó a emitirse el 5 de abril de 2012 en la cadena ABC. El personaje de la protagonista Kerry Washington está basado parcialmente en Judy Smith, jefa de prensa de la administración de George H. W. Bush y que además es co-productora ejecutiva de la serie. La serie tiene lugar en Washington D. C. y se centra en la agencia de control de crisis de Olivia Pope, Olivia Pope & Associates (Olivia Pope & Asociados), y en su personal, así como en el personal de la Casa Blanca, entre los que destacan el presidente de Estados Unidos, Fitzgerald Grant III, su Jefe de gabinete, Cyrus Beene, y la primera dama, Mellie Grant.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/99HG3MVwRsSDTO3xWNWPfmYm4Kc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3D1QRLTxdGQBLC0HYs65FyUncY2.png"
     }
   ]
 }

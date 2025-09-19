@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1513026",
+      "type": "movie",
+      "name": "Una película de miedo",
+      "ids": {
+        "tmdb": 1513026
+      },
+      "overview": "During the summer holidays, a documentary-maker and his 12 year-old son stay at an abandoned hotel in Lisbon: an empty hotel like the one in the film The Shining.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/uMLfcHCYbToFccmRFDGaMTZfuYX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ouUUsNNdIUFG7atDLgGAQF256GT.jpg"
+    },
+    {
       "id": "tmdb:1531747",
       "type": "movie",
       "name": "Aprendiz de asesino",
@@ -676,20 +689,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/lsdaCrMdBA3egTDdh1ZPRdKkDo3.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/g0bMALtdq4xF20kz6JmCGMxHKeN.jpg"
-    },
-    {
-      "id": "tmdb:1362836",
-      "type": "movie",
-      "name": "Night Is Not Eternal",
-      "ids": {
-        "tmdb": 1362836
-      },
-      "overview": "For seven years, award-winning Chinese-American filmmaker Nanfu Wang follows Rosa María Payá, daughter of the five time Nobel Peace Prize nominated activist, Oswaldo Payá, in Rosa's fight for democratic change in Cuba. Rosa's narrative is interwoven with Wang's poignant reflections on her Chinese upbringing and her observations of eroding democratic norms in the U.S., revealing unsettling similarities to the authoritarian system she left behind.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/2sfAOEr00tY9RRNE47yojYby3Bo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7q6QGFXhHtUUkSuFUpzv1L2kn4O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/axQOS0mrDcg7zyQ4wlu22HS6sJ1.png"
     }
   ]
 }
