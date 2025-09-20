@@ -15,20 +15,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/jpop1hHSw0Cwm4J1lUcP6KDMbVf.svg"
     },
     {
-      "id": "tmdb:34307",
-      "type": "series",
-      "name": "Shameless",
-      "ids": {
-        "tmdb": 34307
-      },
-      "overview": "En la peculiar familia Gallagher, Frank, un padre soltero y alcohólico, intenta educar a sus seis inteligentes, salvajes e independientes hijos.\n\nEs un remake estadounidense de la serie británica del mismo nombre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
-    },
-    {
       "id": "tmdb:1399",
       "type": "series",
       "name": "Juego de tronos",
@@ -41,6 +27,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tSYgEZqrVtEeru9UhhXlbxUBL8u.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png"
+    },
+    {
+      "id": "tmdb:34307",
+      "type": "series",
+      "name": "Shameless",
+      "ids": {
+        "tmdb": 34307
+      },
+      "overview": "En la peculiar familia Gallagher, Frank, un padre soltero y alcohólico, intenta educar a sus seis inteligentes, salvajes e independientes hijos.\n\nEs un remake estadounidense de la serie británica del mismo nombre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
     },
     {
       "id": "tmdb:110492",
@@ -85,34 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
-    },
-    {
-      "id": "tmdb:228305",
-      "type": "series",
-      "name": "Task",
-      "ids": {
-        "tmdb": 228305
-      },
-      "overview": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mKJiOZ7LOU60rfIQeDrYcUcCH8S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rmcoxvpPvu7Upg28jLC4v12bcw9.png"
-    },
-    {
       "id": "tmdb:124364",
       "type": "series",
       "name": "FROM",
@@ -153,6 +125,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
+    },
+    {
+      "id": "tmdb:228305",
+      "type": "series",
+      "name": "Task",
+      "ids": {
+        "tmdb": 228305
+      },
+      "overview": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mKJiOZ7LOU60rfIQeDrYcUcCH8S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rmcoxvpPvu7Upg28jLC4v12bcw9.png"
+    },
+    {
+      "id": "tmdb:1402",
+      "type": "series",
+      "name": "The Walking Dead",
+      "ids": {
+        "tmdb": 1402
+      },
+      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
       "id": "tmdb:60735",
@@ -197,6 +197,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
+      "id": "tmdb:65733",
+      "type": "series",
+      "name": "Doraemon, el gato cósmico",
+      "ids": {
+        "tmdb": 65733
+      },
+      "overview": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo mágico, de este modo tratara de evitar los problemas que él ha provocado en el futuro.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
+    },
+    {
       "id": "tmdb:18614",
       "type": "series",
       "name": "Superdotado",
@@ -225,18 +239,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/bMhxqWYzNqyG6bN4m6LOgypOTpn.png"
     },
     {
-      "id": "tmdb:65733",
+      "id": "tmdb:60622",
       "type": "series",
-      "name": "Doraemon, el gato cósmico",
+      "name": "Fargo",
       "ids": {
-        "tmdb": 65733
+        "tmdb": 60622
       },
-      "overview": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo mágico, de este modo tratara de evitar los problemas que él ha provocado en el futuro.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "series",
+      "name": "Sexo en Nueva York",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
     },
     {
       "id": "tmdb:111803",
@@ -267,48 +295,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
     },
     {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
-    },
-    {
-      "id": "tmdb:45140",
-      "type": "series",
-      "name": "Teen Titans Go!",
-      "ids": {
-        "tmdb": 45140
-      },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
-    },
-    {
-      "id": "tmdb:46896",
-      "type": "series",
-      "name": "Los originales",
-      "ids": {
-        "tmdb": 46896
-      },
-      "overview": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
-    },
-    {
       "id": "tmdb:85552",
       "type": "series",
       "name": "Euphoria",
@@ -337,18 +323,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
     },
     {
-      "id": "tmdb:69478",
+      "id": "tmdb:250307",
       "type": "series",
-      "name": "El cuento de la criada",
+      "name": "The Pitt",
       "ids": {
-        "tmdb": 69478
+        "tmdb": 250307
       },
-      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ukDl1AkTA4N1qs0GVtm4UBUgDLu.png"
     },
     {
       "id": "tmdb:94997",
@@ -365,46 +351,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
     },
     {
-      "id": "tmdb:105",
+      "id": "tmdb:46896",
       "type": "series",
-      "name": "Sexo en Nueva York",
+      "name": "Los originales",
       "ids": {
-        "tmdb": 105
+        "tmdb": 46896
       },
-      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "overview": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
     },
     {
-      "id": "tmdb:250307",
+      "id": "tmdb:69478",
       "type": "series",
-      "name": "The Pitt",
+      "name": "El cuento de la criada",
       "ids": {
-        "tmdb": 250307
+        "tmdb": 69478
       },
-      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ukDl1AkTA4N1qs0GVtm4UBUgDLu.png"
-    },
-    {
-      "id": "tmdb:1395",
-      "type": "series",
-      "name": "Gossip Girl",
-      "ids": {
-        "tmdb": 1395
-      },
-      "overview": "Los niños pijos de un instituto privado de Manhattan se salen siempre con la suya, hasta que una bloguera anónima, llamada la Reina Cotilla, espía sus movimientos.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f1oditpv2BaFLO1fWv3E5JzjQGv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
     },
     {
       "id": "tmdb:31132",
@@ -421,20 +393,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
     },
     {
-      "id": "tmdb:100088",
-      "type": "series",
-      "name": "The Last of Us",
-      "ids": {
-        "tmdb": 100088
-      },
-      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nvUfKNPSXamOdUd3JaYr3kTaHe8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
-    },
-    {
       "id": "tmdb:37606",
       "type": "series",
       "name": "El asombroso mundo de Gumball",
@@ -449,6 +407,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     },
     {
+      "id": "tmdb:45140",
+      "type": "series",
+      "name": "Teen Titans Go!",
+      "ids": {
+        "tmdb": 45140
+      },
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+    },
+    {
       "id": "tmdb:4546",
       "type": "series",
       "name": "Larry David",
@@ -461,6 +433,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nkHHmOC1eDRI5hFuU2XshLdmnPt.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
+    },
+    {
+      "id": "tmdb:100088",
+      "type": "series",
+      "name": "The Last of Us",
+      "ids": {
+        "tmdb": 100088
+      },
+      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nvUfKNPSXamOdUd3JaYr3kTaHe8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
+    },
+    {
+      "id": "tmdb:1395",
+      "type": "series",
+      "name": "Gossip Girl",
+      "ids": {
+        "tmdb": 1395
+      },
+      "overview": "Los niños pijos de un instituto privado de Manhattan se salen siempre con la suya, hasta que una bloguera anónima, llamada la Reina Cotilla, espía sus movimientos.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f1oditpv2BaFLO1fWv3E5JzjQGv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
+    },
+    {
+      "id": "tmdb:1705",
+      "type": "series",
+      "name": "Fringe",
+      "ids": {
+        "tmdb": 1705
+      },
+      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
     },
     {
       "id": "tmdb:12225",
@@ -491,18 +505,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cP5IrOYxU7qtFl3Gyjtj9iPufCn.png"
     },
     {
-      "id": "tmdb:1705",
+      "id": "tmdb:69050",
       "type": "series",
-      "name": "Fringe",
+      "name": "Riverdale",
       "ids": {
-        "tmdb": 1705
+        "tmdb": 69050
       },
-      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
     },
     {
       "id": "tmdb:4419",
@@ -533,20 +547,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
     },
     {
-      "id": "tmdb:69050",
-      "type": "series",
-      "name": "Riverdale",
-      "ids": {
-        "tmdb": 69050
-      },
-      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
-    },
-    {
       "id": "tmdb:607",
       "type": "series",
       "name": "Las Supernenas",
@@ -559,6 +559,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
+    },
+    {
+      "id": "tmdb:95057",
+      "type": "series",
+      "name": "Superman y Lois",
+      "ids": {
+        "tmdb": 95057
+      },
+      "overview": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/totfXyBQW9zrN8aCx6wsOkJjqni.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v8LraE1EoPHr8iqFySMdnLoPJCL.png"
+    },
+    {
+      "id": "tmdb:1940",
+      "type": "series",
+      "name": "Entourage: El séquito",
+      "ids": {
+        "tmdb": 1940
+      },
+      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
     },
     {
       "id": "tmdb:31917",
@@ -603,32 +631,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/qQQhxA3bL6d7mmCZSsjpM49rXGu.png"
     },
     {
-      "id": "tmdb:1940",
+      "id": "tmdb:124101",
       "type": "series",
-      "name": "Entourage: El séquito",
+      "name": "Hacks",
       "ids": {
-        "tmdb": 1940
+        "tmdb": 124101
       },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
-    },
-    {
-      "id": "tmdb:709",
-      "type": "series",
-      "name": "Robot Chicken",
-      "ids": {
-        "tmdb": 709
-      },
-      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8EfB5rTGTcPR3zW1JrI4Ofzz0Gt.svg"
     },
     {
       "id": "tmdb:212989",
@@ -645,34 +659,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yBJr2CZoAVP5S0i2JbEtgvULFuZ.png"
     },
     {
-      "id": "tmdb:95057",
-      "type": "series",
-      "name": "Superman y Lois",
-      "ids": {
-        "tmdb": 95057
-      },
-      "overview": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/totfXyBQW9zrN8aCx6wsOkJjqni.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v8LraE1EoPHr8iqFySMdnLoPJCL.png"
-    },
-    {
-      "id": "tmdb:124101",
-      "type": "series",
-      "name": "Hacks",
-      "ids": {
-        "tmdb": 124101
-      },
-      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8EfB5rTGTcPR3zW1JrI4Ofzz0Gt.svg"
-    },
-    {
       "id": "tmdb:10545",
       "type": "series",
       "name": "True Blood (Sangre fresca)",
@@ -685,6 +671,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
+    },
+    {
+      "id": "tmdb:709",
+      "type": "series",
+      "name": "Robot Chicken",
+      "ids": {
+        "tmdb": 709
+      },
+      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
     },
     {
       "id": "tmdb:76331",

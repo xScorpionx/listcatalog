@@ -57,20 +57,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/cjUE0nmgPsCENYSXLFvlSbzV7BL.png"
     },
     {
-      "id": "tmdb:950387",
-      "type": "movie",
-      "name": "Una película de Minecraft",
-      "ids": {
-        "tmdb": 950387
-      },
-      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xamBLexcq5KHBRqFuB3BaJZ06lL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
-    },
-    {
       "id": "tmdb:155",
       "type": "movie",
       "name": "El caballero oscuro",
@@ -83,6 +69,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uOmovkS2Kcx5DAJTyC1PXQbwuT6.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/acidikPSQON3Cybgq5PKrW63BU6.png"
+    },
+    {
+      "id": "tmdb:950387",
+      "type": "movie",
+      "name": "Una película de Minecraft",
+      "ids": {
+        "tmdb": 950387
+      },
+      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xamBLexcq5KHBRqFuB3BaJZ06lL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
     },
     {
       "id": "tmdb:671",
@@ -141,20 +141,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
     },
     {
-      "id": "tmdb:634649",
-      "type": "movie",
-      "name": "Spider-Man: No Way Home",
-      "ids": {
-        "tmdb": 634649
-      },
-      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
-    },
-    {
       "id": "tmdb:672",
       "type": "movie",
       "name": "Harry Potter y la cámara secreta",
@@ -167,6 +153,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fjN1i7uH4KDVbNmfBBZeuF98J83.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lqbIj0seJSBQWyEax7orzrmQnyd.png"
+    },
+    {
+      "id": "tmdb:696506",
+      "type": "movie",
+      "name": "Mickey 17",
+      "ids": {
+        "tmdb": 696506
+      },
+      "overview": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bgQt8SRHYxMPUF5M0VzE9Lp34W9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c2B2xGkqJ3Ytuq01ybNw09PfNH7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png"
+    },
+    {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "ids": {
+        "tmdb": 634649
+      },
+      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
     },
     {
       "id": "tmdb:597",
@@ -225,46 +239,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/7RPxpmojq2sImOgKpcsX35Ksbvk.png"
     },
     {
-      "id": "tmdb:439079",
+      "id": "tmdb:414906",
       "type": "movie",
-      "name": "La monja",
+      "name": "The Batman",
       "ids": {
-        "tmdb": 439079
+        "tmdb": 414906
       },
-      "overview": "Cuando una joven monja se suicida en una abadía de clausura en Rumanía, un sacerdote experto en posesiones demoniacas y una novicia a punto de tomar sus votos, son enviados por el Vaticano para investigar. Juntos descubren el profano secreto de la orden. Arriesgando no solo sus propias vidas sino su fe y hasta sus almas, se enfrentan a una fuerza maléfica en forma de monja demoníaca, en una abadía que se convierte en un campo de batalla de horror entre los vivos y los condenados....",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/7fxjwtEvqI1BYkXEbGqJ3dQBgXD.jpg",
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cFaI7lo0mFXWctpxImXzSDCTWxi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ljgxkgcdmWfU5XW6VgK5EpfcxLa.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
     },
     {
-      "id": "tmdb:329865",
+      "id": "tmdb:272",
       "type": "movie",
-      "name": "La llegada",
+      "name": "Batman Begins",
       "ids": {
-        "tmdb": 329865
+        "tmdb": 272
       },
-      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "overview": "¿Cómo cambia un hombre el mundo? Es una pregunta que obsesiona a Bruce Wayne al igual que el fantasma de sus padres, muertos a tiros ante sus ojos en las calles de Gotham una noche que cambió su vida para siempre. Atormentado por la culpa y la ira, el desilusionado heredero industrial desaparece de Gotham y viaja en secreto por el mundo, buscando los medios de luchar contra la injusticia y utilizar el miedo contra los que se aprovechan de los que tienen miedo. Con la ayuda de su leal mayordomo Alfred, el detective Jim Gordon - uno de los pocos buenos policías de las fuerzas del orden público de Gotham - y Lucius Fox, su aliado en la división de Ciencias Aplicadas de Wayne Enterprises, Bruce Wayne libera a su imponente alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y un despliegue de artefactos de alta tecnología para combatir las fuerzas siniestras que amenazan con destruir la ciudad.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pM7CmKdtkOb9N0kK9XJZAft8Zuv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png"
-    },
-    {
-      "id": "tmdb:1252309",
-      "type": "movie",
-      "name": "Pídeme lo que quieras",
-      "ids": {
-        "tmdb": 1252309
-      },
-      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/52WKPxxi9xJowv5Ejm3ke8j9P4H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
     },
     {
       "id": "tmdb:496243",
@@ -281,88 +281,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:680",
+      "id": "tmdb:439079",
       "type": "movie",
-      "name": "Pulp Fiction",
+      "name": "La monja",
       "ids": {
-        "tmdb": 680
+        "tmdb": 439079
       },
-      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "overview": "Cuando una joven monja se suicida en una abadía de clausura en Rumanía, un sacerdote experto en posesiones demoniacas y una novicia a punto de tomar sus votos, son enviados por el Vaticano para investigar. Juntos descubren el profano secreto de la orden. Arriesgando no solo sus propias vidas sino su fe y hasta sus almas, se enfrentan a una fuerza maléfica en forma de monja demoníaca, en una abadía que se convierte en un campo de batalla de horror entre los vivos y los condenados....",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/7fxjwtEvqI1BYkXEbGqJ3dQBgXD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cFaI7lo0mFXWctpxImXzSDCTWxi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ljgxkgcdmWfU5XW6VgK5EpfcxLa.png"
     },
     {
-      "id": "tmdb:414906",
+      "id": "tmdb:1252309",
       "type": "movie",
-      "name": "The Batman",
+      "name": "Pídeme lo que quieras",
       "ids": {
-        "tmdb": 414906
+        "tmdb": 1252309
       },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
-    },
-    {
-      "id": "tmdb:968051",
-      "type": "movie",
-      "name": "La monja II",
-      "ids": {
-        "tmdb": 968051
-      },
-      "overview": "En 1956 en Francia, un sacerdote es asesinado y parece que un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con una fuerza demoníaca.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/hbP1KNvyNX8av2sVsOix1za9T4C.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rr93BAp18QlukGy3FVt2bGRHPdB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iiss10zFigU9UrIG5tLoZL0fEbH.png"
-    },
-    {
-      "id": "tmdb:807",
-      "type": "movie",
-      "name": "Seven",
-      "ids": {
-        "tmdb": 807
-      },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wSF9CBVvvK0sAodWpOidFrCOeX2.png"
-    },
-    {
-      "id": "tmdb:12444",
-      "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
-      "ids": {
-        "tmdb": 12444
-      },
-      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rsjVwImiIyehTEOGLDlYwtmwKPu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Roi7sNAN6ra9GGBHcHRbuvNDOY.png"
-    },
-    {
-      "id": "tmdb:315635",
-      "type": "movie",
-      "name": "Spider-Man: Homecoming",
-      "ids": {
-        "tmdb": 315635
-      },
-      "overview": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/81qIJbnS2L0rUAAB55G8CZODpS5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/guXJFtenFFN702yzcE0x36IjdpT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1AE40jRvQpvQczbgq0P0LkVZgBi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
     },
     {
       "id": "tmdb:346698",
@@ -379,6 +323,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
+      "id": "tmdb:968051",
+      "type": "movie",
+      "name": "La monja II",
+      "ids": {
+        "tmdb": 968051
+      },
+      "overview": "En 1956 en Francia, un sacerdote es asesinado y parece que un mal se está extendiendo. La hermana Irene una vez más se encuentra cara a cara con una fuerza demoníaca.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/hbP1KNvyNX8av2sVsOix1za9T4C.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rr93BAp18QlukGy3FVt2bGRHPdB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iiss10zFigU9UrIG5tLoZL0fEbH.png"
+    },
+    {
+      "id": "tmdb:12444",
+      "type": "movie",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "ids": {
+        "tmdb": 12444
+      },
+      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rsjVwImiIyehTEOGLDlYwtmwKPu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Roi7sNAN6ra9GGBHcHRbuvNDOY.png"
+    },
+    {
       "id": "tmdb:675",
       "type": "movie",
       "name": "Harry Potter y la Orden del Fénix",
@@ -393,74 +365,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/77hW1z6Bv7fTIWxgWeTg3mv4H7s.png"
     },
     {
-      "id": "tmdb:767",
+      "id": "tmdb:315635",
       "type": "movie",
-      "name": "Harry Potter y el misterio del príncipe",
+      "name": "Spider-Man: Homecoming",
       "ids": {
-        "tmdb": 767
+        "tmdb": 315635
       },
-      "overview": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg",
+      "overview": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/81qIJbnS2L0rUAAB55G8CZODpS5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mahovPKn8ROe94KML4LgCSBTK4B.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4mRJ3jZs3zUnlver3RN7w1siurp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/guXJFtenFFN702yzcE0x36IjdpT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1AE40jRvQpvQczbgq0P0LkVZgBi.png"
     },
     {
-      "id": "tmdb:209112",
+      "id": "tmdb:680",
       "type": "movie",
-      "name": "Batman vs Superman: El amanecer de la justicia",
+      "name": "Pulp Fiction",
       "ids": {
-        "tmdb": 209112
+        "tmdb": 680
       },
-      "overview": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/102haOX6LB8yNtsq8YRmeCnPQRF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
-    },
-    {
-      "id": "tmdb:652",
-      "type": "movie",
-      "name": "Troya",
-      "ids": {
-        "tmdb": 652
-      },
-      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
-    },
-    {
-      "id": "tmdb:438631",
-      "type": "movie",
-      "name": "Dune",
-      "ids": {
-        "tmdb": 438631
-      },
-      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/60Sg4EJPXZWFQ5Rugc0tcbZnLyy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
-    },
-    {
-      "id": "tmdb:521029",
-      "type": "movie",
-      "name": "Annabelle: Vuelve a casa",
-      "ids": {
-        "tmdb": 521029
-      },
-      "overview": "Annabelle Vuelve a Casa es la tercera entrega de la saga \"Annabelle\" de New Line Cinema, protagonizada por la infame y siniestra muñeca del universo \"Expediente Warren\".  Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan \"a salvo\" en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación que se fijan un nuevo objetivo: la hija de diez años de los Warren, Judy, y sus amigas.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/zxwPksbRKGaAi06rapPfFTVsMHv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qWSdvIeCbAfdSxwjaWS1kbl0njf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qxJ86nzYbl85Hetf421Ga9xwmBo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
       "id": "tmdb:12445",
@@ -477,18 +407,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/vbIuIDv6fQmHWLWUUHXtDiIYFNv.png"
     },
     {
-      "id": "tmdb:121",
+      "id": "tmdb:438631",
       "type": "movie",
-      "name": "El señor de los anillos: Las dos torres",
+      "name": "Dune",
       "ids": {
-        "tmdb": 121
+        "tmdb": 438631
       },
-      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/60Sg4EJPXZWFQ5Rugc0tcbZnLyy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
+    },
+    {
+      "id": "tmdb:767",
+      "type": "movie",
+      "name": "Harry Potter y el misterio del príncipe",
+      "ids": {
+        "tmdb": 767
+      },
+      "overview": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mahovPKn8ROe94KML4LgCSBTK4B.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4mRJ3jZs3zUnlver3RN7w1siurp.png"
     },
     {
       "id": "tmdb:49026",
@@ -505,6 +449,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
     },
     {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "ids": {
+        "tmdb": 807
+      },
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+    },
+    {
+      "id": "tmdb:521029",
+      "type": "movie",
+      "name": "Annabelle: Vuelve a casa",
+      "ids": {
+        "tmdb": 521029
+      },
+      "overview": "Annabelle Vuelve a Casa es la tercera entrega de la saga \"Annabelle\" de New Line Cinema, protagonizada por la infame y siniestra muñeca del universo \"Expediente Warren\".  Los demonólogos Ed y Lorraine Warren están decididos a evitar que Annabelle cause más estragos, así que llevan a la muñeca poseída a la sala de objetos bajo llave que tienen en su casa. La colocan \"a salvo\" en una vitrina sagrada bendecida por un sacerdote. Pero una terrorífica noche nada santa, Annabelle despierta a los espíritus malignos de la habitación que se fijan un nuevo objetivo: la hija de diez años de los Warren, Judy, y sus amigas.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/zxwPksbRKGaAi06rapPfFTVsMHv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qWSdvIeCbAfdSxwjaWS1kbl0njf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qxJ86nzYbl85Hetf421Ga9xwmBo.png"
+    },
+    {
       "id": "tmdb:823464",
       "type": "movie",
       "name": "Godzilla y Kong: El nuevo imperio",
@@ -517,6 +489,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5uzu4Zo5AbJlOQIBAqeq1ecfmmm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7GQswKy5K1W3nYCwwQupNkuG3W8.svg"
+    },
+    {
+      "id": "tmdb:121",
+      "type": "movie",
+      "name": "El señor de los anillos: Las dos torres",
+      "ids": {
+        "tmdb": 121
+      },
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
+    },
+    {
+      "id": "tmdb:652",
+      "type": "movie",
+      "name": "Troya",
+      "ids": {
+        "tmdb": 652
+      },
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+    },
+    {
+      "id": "tmdb:329865",
+      "type": "movie",
+      "name": "La llegada",
+      "ids": {
+        "tmdb": 329865
+      },
+      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pM7CmKdtkOb9N0kK9XJZAft8Zuv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png"
     },
     {
       "id": "tmdb:396422",
@@ -547,6 +561,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
     },
     {
+      "id": "tmdb:209112",
+      "type": "movie",
+      "name": "Batman vs Superman: El amanecer de la justicia",
+      "ids": {
+        "tmdb": 209112
+      },
+      "overview": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/102haOX6LB8yNtsq8YRmeCnPQRF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
+    },
+    {
+      "id": "tmdb:429617",
+      "type": "movie",
+      "name": "Spider-Man: Lejos de casa",
+      "ids": {
+        "tmdb": 429617
+      },
+      "overview": "Peter Parker decide irse junto a Michelle Jones, Ned y el resto de sus amigos a pasar unas vacaciones a Europa después de los eventos ocurridos en Vengadores: EndGame. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuándo es reclutado por Nick Fury para unirse a Mysterio (un humano que proviene de la Tierra 833, una dimensión del multiverso, que tuvo su primera aparición en Doctor Strange) para luchar contra los elementales (cuatro entes inmortales que vienen de la misma dimensión y que dominan los cuatro elementos de la naturaleza, el fuego, el agua, el aire y la tierra) . En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con  su labor.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zXqDDiA52yIaR0Xp5LPUILnsex5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIYnOm2XU982Ky3CMpcACoZor8F.png"
+    },
+    {
+      "id": "tmdb:769",
+      "type": "movie",
+      "name": "Uno de los nuestros",
+      "ids": {
+        "tmdb": 769
+      },
+      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
+    },
+    {
       "id": "tmdb:250546",
       "type": "movie",
       "name": "Annabelle",
@@ -561,32 +617,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/55yXzqRXL2pBuXuYEVUWBvit8VK.png"
     },
     {
-      "id": "tmdb:324857",
+      "id": "tmdb:475557",
       "type": "movie",
-      "name": "Spider-Man: un nuevo universo",
+      "name": "Joker",
       "ids": {
-        "tmdb": 324857
+        "tmdb": 475557
       },
-      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cCZ26gWTDyLadOmcFjug72jEo8H.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rTujNP0rkJzgZTgi76t85y2aRXu.png"
     },
     {
-      "id": "tmdb:118",
+      "id": "tmdb:436969",
       "type": "movie",
-      "name": "Charlie y la fábrica de chocolate",
+      "name": "El escuadrón suicida",
       "ids": {
-        "tmdb": 118
+        "tmdb": 436969
       },
-      "overview": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/voJEk0WNtrcawz2hN9AwdNbvhrp.jpg",
+      "overview": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dyII0qFt45Ej6yzAdD2dmI1uz2Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/urMs3tQK6hpx2davsdpOi2sH12d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tlRwdJRWUPHSZCelHExFIPsNtf0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vbZlf0EuqBBRPcj18Gil8ViLzEu.png"
     },
     {
       "id": "tmdb:425",
@@ -617,76 +673,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1cm8ANRoeWxhOtKGdufz92dYlFE.png"
     },
     {
-      "id": "tmdb:436969",
-      "type": "movie",
-      "name": "El escuadrón suicida",
-      "ids": {
-        "tmdb": 436969
-      },
-      "overview": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tlRwdJRWUPHSZCelHExFIPsNtf0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vbZlf0EuqBBRPcj18Gil8ViLzEu.png"
-    },
-    {
-      "id": "tmdb:696506",
-      "type": "movie",
-      "name": "Mickey 17",
-      "ids": {
-        "tmdb": 696506
-      },
-      "overview": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bgQt8SRHYxMPUF5M0VzE9Lp34W9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c2B2xGkqJ3Ytuq01ybNw09PfNH7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png"
-    },
-    {
-      "id": "tmdb:429617",
-      "type": "movie",
-      "name": "Spider-Man: Lejos de casa",
-      "ids": {
-        "tmdb": 429617
-      },
-      "overview": "Peter Parker decide irse junto a Michelle Jones, Ned y el resto de sus amigos a pasar unas vacaciones a Europa después de los eventos ocurridos en Vengadores: EndGame. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuándo es reclutado por Nick Fury para unirse a Mysterio (un humano que proviene de la Tierra 833, una dimensión del multiverso, que tuvo su primera aparición en Doctor Strange) para luchar contra los elementales (cuatro entes inmortales que vienen de la misma dimensión y que dominan los cuatro elementos de la naturaleza, el fuego, el agua, el aire y la tierra) . En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con  su labor.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zXqDDiA52yIaR0Xp5LPUILnsex5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIYnOm2XU982Ky3CMpcACoZor8F.png"
-    },
-    {
-      "id": "tmdb:572802",
-      "type": "movie",
-      "name": "Aquaman y el reino perdido",
-      "ids": {
-        "tmdb": 572802
-      },
-      "overview": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola.  Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8VQtEY6WxzevDyDniPD8bLVbyYI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
-    },
-    {
-      "id": "tmdb:259316",
-      "type": "movie",
-      "name": "Animales fantásticos y dónde encontrarlos",
-      "ids": {
-        "tmdb": 259316
-      },
-      "overview": "Las aventuras del escritor Newt Scamander en la comunidad secreta de brujas y magos de Nueva York setenta años antes de lo acontecido en \"Harry Potter y la Piedra Filosofal\".",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/wduJFXlHQTIw1TBf6kTO3bHf2VN.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qkoSNq1eGgTgwCJqR4GjiKhclUx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rmp2liwukQW85tuAb9hF4wMAscJ.png"
-    },
-    {
       "id": "tmdb:718930",
       "type": "movie",
       "name": "Bullet Train",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/r4CDjWzdPy22wWkKuFooIL9xbAw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cFMPkWazgX6dt7kZDXcWd4QgvH0.png"
+    },
+    {
+      "id": "tmdb:786892",
+      "type": "movie",
+      "name": "Furiosa: De la saga Mad Max",
+      "ids": {
+        "tmdb": 786892
+      },
+      "overview": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015).",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ad7hfSuvBqL8Bi1TWudOHa37cdQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nhtoeOdgCKXPcHLtKQF7OREQOJu.png"
     }
   ]
 }
