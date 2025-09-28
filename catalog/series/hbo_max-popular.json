@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:110492",
+      "type": "series",
+      "name": "El Pacificador",
+      "ids": {
+        "tmdb": 110492
+      },
+      "overview": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/t7NakS7qZekeXSocv6jcyd5on7A.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8RF2EUEt9uknaEa4Eh9SrW1eecY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9arGKCxY19dTahbAd8ZuVKxMzYZ.png"
+    },
+    {
       "id": "tmdb:34307",
       "type": "series",
       "name": "Shameless",
@@ -13,20 +27,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
-    },
-    {
-      "id": "tmdb:1622",
-      "type": "series",
-      "name": "Sobrenatural",
-      "ids": {
-        "tmdb": 1622
-      },
-      "overview": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rTS409d3GgcPDjdc9ut2khzHDp3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jpop1hHSw0Cwm4J1lUcP6KDMbVf.svg"
     },
     {
       "id": "tmdb:1399",
@@ -43,18 +43,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png"
     },
     {
-      "id": "tmdb:110492",
+      "id": "tmdb:1622",
       "type": "series",
-      "name": "El Pacificador",
+      "name": "Sobrenatural",
       "ids": {
-        "tmdb": 110492
+        "tmdb": 1622
       },
-      "overview": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/t7NakS7qZekeXSocv6jcyd5on7A.jpg",
+      "overview": "Cuando eran niños, Sam y Dean Winchester, perdieron a su madre debido a una misteriosa y demoníaca fuerza supernatural. Posteriormente, su padre los crió para que fueran soldados. Él les enseño sobre el mal que vive en los rincones obscuros y en las carreteras secundarias de América... y también les enseñó como matarlo. Ahora los hermanos Winchester recorren el país en su Chevy Impala del '67, luchando contra todo tipo de amenaza sobrenatural que encuentran en el camino.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8RF2EUEt9uknaEa4Eh9SrW1eecY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9arGKCxY19dTahbAd8ZuVKxMzYZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rTS409d3GgcPDjdc9ut2khzHDp3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jpop1hHSw0Cwm4J1lUcP6KDMbVf.svg"
     },
     {
       "id": "tmdb:124364",
@@ -99,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
-      "id": "tmdb:1668",
-      "type": "series",
-      "name": "Friends",
-      "ids": {
-        "tmdb": 1668
-      },
-      "overview": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
-    },
-    {
       "id": "tmdb:5920",
       "type": "series",
       "name": "El mentalista",
@@ -141,18 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ukDl1AkTA4N1qs0GVtm4UBUgDLu.png"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:1668",
       "type": "series",
-      "name": "Rick y Morty",
+      "name": "Friends",
       "ids": {
-        "tmdb": 60625
+        "tmdb": 1668
       },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "overview": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
       "id": "tmdb:2691",
@@ -181,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6Kkk81rrDaNQ1XcePQ8HZYQBZOJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/g8eZV3Z8ZIAJPVopyDbSMglet5H.png"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
       "id": "tmdb:228305",
@@ -267,20 +267,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
     },
     {
-      "id": "tmdb:65733",
-      "type": "series",
-      "name": "Doraemon, el gato cósmico",
-      "ids": {
-        "tmdb": 65733
-      },
-      "overview": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo mágico, de este modo tratara de evitar los problemas que él ha provocado en el futuro.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
-    },
-    {
       "id": "tmdb:85552",
       "type": "series",
       "name": "Euphoria",
@@ -293,20 +279,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
-    },
-    {
-      "id": "tmdb:1418",
-      "type": "series",
-      "name": "Big Bang",
-      "ids": {
-        "tmdb": 1418
-      },
-      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a95VeB1t3CuNrsvBW5Mxhqc7jtt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
     },
     {
       "id": "tmdb:111803",
@@ -323,32 +295,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
     },
     {
-      "id": "tmdb:100088",
+      "id": "tmdb:65733",
       "type": "series",
-      "name": "The Last of Us",
+      "name": "Doraemon, el gato cósmico",
       "ids": {
-        "tmdb": 100088
+        "tmdb": 65733
       },
-      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "overview": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo mágico, de este modo tratara de evitar los problemas que él ha provocado en el futuro.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nvUfKNPSXamOdUd3JaYr3kTaHe8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
     },
     {
-      "id": "tmdb:45140",
+      "id": "tmdb:1418",
       "type": "series",
-      "name": "Teen Titans Go!",
+      "name": "Big Bang",
       "ids": {
-        "tmdb": 45140
+        "tmdb": 1418
       },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/a95VeB1t3CuNrsvBW5Mxhqc7jtt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
     },
     {
       "id": "tmdb:15260",
@@ -365,18 +337,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
     },
     {
-      "id": "tmdb:69478",
+      "id": "tmdb:100088",
       "type": "series",
-      "name": "El cuento de la criada",
+      "name": "The Last of Us",
       "ids": {
-        "tmdb": 69478
+        "tmdb": 100088
       },
-      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nvUfKNPSXamOdUd3JaYr3kTaHe8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     },
     {
       "id": "tmdb:4419",
@@ -393,18 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
     },
     {
-      "id": "tmdb:18614",
+      "id": "tmdb:69478",
       "type": "series",
-      "name": "Superdotado",
+      "name": "El cuento de la criada",
       "ids": {
-        "tmdb": 18614
+        "tmdb": 69478
       },
-      "overview": "Ray Drecker es un cuarentón que ve cómo su vida se desmorona: su mujer le ha abandonado por un tipo repelente, dejándole a cargo de sus hijos y para colmo, su casa acaba de incendiarse y no dispone del dinero suficiente para pagar las reparaciones. Pero algo cambia en la vida de Ray tras el reencuentro con Tanya, un antiguo ligue. En un último intento por cambiar su suerte, y persuadido por su amiga, Ray decidirá ganarse un sueldo extra utilizando lo que considera su 'mayor talento': su pene, de grandes dimensiones, le abrirá las puertas para convertirse en 'chico de compañía' con la ayuda de Tanya que actuará de improvisada proxeneta.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/dX3tcyb4dHRJhCqC8QpFGtwK2Kl.jpg",
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9KiHuqI0btu4KwGowyKbQ3aKRN5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dLRNwurxJNiYLSevBzM1bVGCTVc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
     },
     {
       "id": "tmdb:31132",
@@ -421,32 +393,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
     },
     {
-      "id": "tmdb:1705",
+      "id": "tmdb:45140",
       "type": "series",
-      "name": "Fringe",
+      "name": "Teen Titans Go!",
       "ids": {
-        "tmdb": 1705
+        "tmdb": 45140
       },
-      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
-      "id": "tmdb:4546",
+      "id": "tmdb:18614",
       "type": "series",
-      "name": "Larry David",
+      "name": "Superdotado",
       "ids": {
-        "tmdb": 4546
+        "tmdb": 18614
       },
-      "overview": "Hay personas que parecen haber sido maldecidas con la ley de Murphy: si algo tiene la posibilidad de salir mal, saldrá mal. Larry David se considera una de ellas. El creador y productor de Seinfield, una de los programas más laureados de la historia de la televisión, se interpreta a sí mismo en esta rompedora serie donde, en un ambiguo punto entre la realidad y la ficción, seguimos su día a día que se desarrolla entre celebridades y gente de la calle que nunca sabemos si están o no interpretando un guión. Somos así testigos de su peculiar y ácida visión de todo lo que le rodea y de su don para convertir situaciones cotidianas como ir al cine o atender una llamada telefónica en verdaderos despropósitos.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/ziRhqatQtp2mlwCxT4YfylbZ9Ds.jpg",
+      "overview": "Ray Drecker es un cuarentón que ve cómo su vida se desmorona: su mujer le ha abandonado por un tipo repelente, dejándole a cargo de sus hijos y para colmo, su casa acaba de incendiarse y no dispone del dinero suficiente para pagar las reparaciones. Pero algo cambia en la vida de Ray tras el reencuentro con Tanya, un antiguo ligue. En un último intento por cambiar su suerte, y persuadido por su amiga, Ray decidirá ganarse un sueldo extra utilizando lo que considera su 'mayor talento': su pene, de grandes dimensiones, le abrirá las puertas para convertirse en 'chico de compañía' con la ayuda de Tanya que actuará de improvisada proxeneta.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/dX3tcyb4dHRJhCqC8QpFGtwK2Kl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nkHHmOC1eDRI5hFuU2XshLdmnPt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9KiHuqI0btu4KwGowyKbQ3aKRN5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dLRNwurxJNiYLSevBzM1bVGCTVc.png"
+    },
+    {
+      "id": "tmdb:283393",
+      "type": "series",
+      "name": "Paul estadounidense",
+      "ids": {
+        "tmdb": 283393
+      },
+      "overview": "Jake y Logan Paul presentan su nuevo proyecto: un reality show familiar que revela su vida detrás de las cámaras.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v9FrkLe3jqkMtAuYuezhjuhXHY8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gktx7glkzEtdi9jxOJIt4YLTknW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1u0wC0XFHbpnwDSr2tlXZQ5Ugjc.png"
     },
     {
       "id": "tmdb:46896",
@@ -463,6 +449,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
     },
     {
+      "id": "tmdb:1438",
+      "type": "series",
+      "name": "Bajo escucha",
+      "ids": {
+        "tmdb": 1438
+      },
+      "overview": "David Simon, creador y coguionista de la miniserie de HBO tres veces ganadora del premio Emmy The Corner, este sencillo y extremadamente realista drama sigue una caótica y controvertida investigación de drogas y asesinatos en Baltimore que conllevará peligrosos pinchazos telefónicos y continua vigilancia. Mostrando ambas perspectivas, de la policía y de sus criminales, la serie captura un universo donde distinguir entre el bien y el mal, el delito y la condena, es siempre desafío.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cP5IrOYxU7qtFl3Gyjtj9iPufCn.png"
+    },
+    {
+      "id": "tmdb:1705",
+      "type": "series",
+      "name": "Fringe",
+      "ids": {
+        "tmdb": 1705
+      },
+      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
+    },
+    {
       "id": "tmdb:37606",
       "type": "series",
       "name": "El asombroso mundo de Gumball",
@@ -477,18 +491,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     },
     {
-      "id": "tmdb:1438",
+      "id": "tmdb:4546",
       "type": "series",
-      "name": "Bajo escucha",
+      "name": "Larry David",
       "ids": {
-        "tmdb": 1438
+        "tmdb": 4546
       },
-      "overview": "David Simon, creador y coguionista de la miniserie de HBO tres veces ganadora del premio Emmy The Corner, este sencillo y extremadamente realista drama sigue una caótica y controvertida investigación de drogas y asesinatos en Baltimore que conllevará peligrosos pinchazos telefónicos y continua vigilancia. Mostrando ambas perspectivas, de la policía y de sus criminales, la serie captura un universo donde distinguir entre el bien y el mal, el delito y la condena, es siempre desafío.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "overview": "Hay personas que parecen haber sido maldecidas con la ley de Murphy: si algo tiene la posibilidad de salir mal, saldrá mal. Larry David se considera una de ellas. El creador y productor de Seinfield, una de los programas más laureados de la historia de la televisión, se interpreta a sí mismo en esta rompedora serie donde, en un ambiguo punto entre la realidad y la ficción, seguimos su día a día que se desarrolla entre celebridades y gente de la calle que nunca sabemos si están o no interpretando un guión. Somos así testigos de su peculiar y ácida visión de todo lo que le rodea y de su don para convertir situaciones cotidianas como ir al cine o atender una llamada telefónica en verdaderos despropósitos.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/ziRhqatQtp2mlwCxT4YfylbZ9Ds.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cP5IrOYxU7qtFl3Gyjtj9iPufCn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nkHHmOC1eDRI5hFuU2XshLdmnPt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
+    },
+    {
+      "id": "tmdb:68507",
+      "type": "series",
+      "name": "La materia oscura",
+      "ids": {
+        "tmdb": 68507
+      },
+      "overview": "Lyra es una huérfana que vive en un universo paralelo en el que la ciencia, la teología y la magia están entrelazadas. La búsqueda de Lyra de un amigo secuestrado descubre un siniestro complot que involucra a niños robados, y se convierte en una búsqueda para comprender un fenómeno misterioso llamado Dust. Más tarde, en su viaje, se une a Will, un niño que posee un cuchillo que puede cortar ventanas entre mundos. A medida que Lyra se entera de la verdad sobre sus padres y su destino profetizado, los dos jóvenes se ven envueltos en una guerra contra los poderes celestiales que se extiende a lo largo de muchos mundos.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cx70l8DoOp07m5IlRVgEAA2pGxx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nNHdQwFPsCzYPpFEg7RVP9gQN6j.svg"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "series",
+      "name": "Sexo en Nueva York",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
     },
     {
       "id": "tmdb:12225",
@@ -519,48 +561,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
     },
     {
-      "id": "tmdb:283393",
-      "type": "series",
-      "name": "Paul estadounidense",
-      "ids": {
-        "tmdb": 283393
-      },
-      "overview": "Jake y Logan Paul presentan su nuevo proyecto: un reality show familiar que revela su vida detrás de las cámaras.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v9FrkLe3jqkMtAuYuezhjuhXHY8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gktx7glkzEtdi9jxOJIt4YLTknW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1u0wC0XFHbpnwDSr2tlXZQ5Ugjc.png"
-    },
-    {
-      "id": "tmdb:105",
-      "type": "series",
-      "name": "Sexo en Nueva York",
-      "ids": {
-        "tmdb": 105
-      },
-      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
-    },
-    {
-      "id": "tmdb:87108",
-      "type": "series",
-      "name": "Chernobyl",
-      "ids": {
-        "tmdb": 87108
-      },
-      "overview": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
-    },
-    {
       "id": "tmdb:69050",
       "type": "series",
       "name": "Riverdale",
@@ -573,20 +573,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
-    },
-    {
-      "id": "tmdb:1395",
-      "type": "series",
-      "name": "Gossip Girl",
-      "ids": {
-        "tmdb": 1395
-      },
-      "overview": "Los niños pijos de un instituto privado de Manhattan se salen siempre con la suya, hasta que una bloguera anónima, llamada la Reina Cotilla, espía sus movimientos.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f1oditpv2BaFLO1fWv3E5JzjQGv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
     },
     {
       "id": "tmdb:41727",
@@ -603,6 +589,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
+      "id": "tmdb:1395",
+      "type": "series",
+      "name": "Gossip Girl",
+      "ids": {
+        "tmdb": 1395
+      },
+      "overview": "Los niños pijos de un instituto privado de Manhattan se salen siempre con la suya, hasta que una bloguera anónima, llamada la Reina Cotilla, espía sus movimientos.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f1oditpv2BaFLO1fWv3E5JzjQGv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
+    },
+    {
       "id": "tmdb:709",
       "type": "series",
       "name": "Robot Chicken",
@@ -617,18 +617,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
     },
     {
-      "id": "tmdb:240558",
+      "id": "tmdb:79061",
       "type": "series",
-      "name": "Rey y conquistador",
+      "name": "El mundo de Craig",
       "ids": {
-        "tmdb": 240558
+        "tmdb": 79061
       },
-      "overview": "Guillermo de Normandía y Harold de Wessex estaban destinados a encontrarse en la batalla de Hastings en 1066. Eran aliados pero no tenían derecho a la monarquía británica, y el destino los enfrentó por la corona del país.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/pg8iky5BscbndCkxBDCRAgoQMBo.jpg",
+      "overview": "Craig y sus amigos, Kelsey y J.P., se adentran en un mundo salvaje dominado por tribus de niños que establecen sus propias leyes.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6hX0t9y3wfwJSupesoT679jWKrr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qQQhxA3bL6d7mmCZSsjpM49rXGu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/akWwPGAtEc5bWyo6WQP9BQxaN1n.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phlKGNxauqvdKA8YSKv5YVahHIQ.png"
+    },
+    {
+      "id": "tmdb:87108",
+      "type": "series",
+      "name": "Chernobyl",
+      "ids": {
+        "tmdb": 87108
+      },
+      "overview": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
     },
     {
       "id": "tmdb:76331",
@@ -645,6 +659,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
     },
     {
+      "id": "tmdb:240558",
+      "type": "series",
+      "name": "Rey y conquistador",
+      "ids": {
+        "tmdb": 240558
+      },
+      "overview": "Guillermo de Normandía y Harold de Wessex estaban destinados a encontrarse en la batalla de Hastings en 1066. Eran aliados pero no tenían derecho a la monarquía británica, y el destino los enfrentó por la corona del país.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/pg8iky5BscbndCkxBDCRAgoQMBo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6hX0t9y3wfwJSupesoT679jWKrr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qQQhxA3bL6d7mmCZSsjpM49rXGu.png"
+    },
+    {
       "id": "tmdb:10545",
       "type": "series",
       "name": "True Blood (Sangre fresca)",
@@ -659,46 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
     },
     {
-      "id": "tmdb:31917",
+      "id": "tmdb:212989",
       "type": "series",
-      "name": "Pequeñas mentirosas",
+      "name": "LEGO Ninjago: El renacer de los dragones",
       "ids": {
-        "tmdb": 31917
+        "tmdb": 212989
       },
-      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
+      "overview": "Varios reinos legendarios se han fusionado de forma repentina... e inestable. Un maestro de Spinjitzu debe entrenar a una nueva generación de héroes ninja capaces de encontrar a los Dragones Elementales: son los que pueden salvar el planeta antes de que las fuerzas del mal accedan a esa energía dracónica para aniquilar el nuevo mundo.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/yxBgVqRwfpAU1wL6xsAWulIhhoL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
-    },
-    {
-      "id": "tmdb:68507",
-      "type": "series",
-      "name": "La materia oscura",
-      "ids": {
-        "tmdb": 68507
-      },
-      "overview": "Lyra es una huérfana que vive en un universo paralelo en el que la ciencia, la teología y la magia están entrelazadas. La búsqueda de Lyra de un amigo secuestrado descubre un siniestro complot que involucra a niños robados, y se convierte en una búsqueda para comprender un fenómeno misterioso llamado Dust. Más tarde, en su viaje, se une a Will, un niño que posee un cuchillo que puede cortar ventanas entre mundos. A medida que Lyra se entera de la verdad sobre sus padres y su destino profetizado, los dos jóvenes se ven envueltos en una guerra contra los poderes celestiales que se extiende a lo largo de muchos mundos.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ycS00ZlYjXKaqn424J4oC0HI7QQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cx70l8DoOp07m5IlRVgEAA2pGxx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nNHdQwFPsCzYPpFEg7RVP9gQN6j.svg"
-    },
-    {
-      "id": "tmdb:1940",
-      "type": "series",
-      "name": "Entourage: El séquito",
-      "ids": {
-        "tmdb": 1940
-      },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/xNNrUQFzvjy5hNm0r2nVApWoZB7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yBJr2CZoAVP5S0i2JbEtgvULFuZ.png"
     }
   ]
 }
