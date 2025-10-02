@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:323666",
+      "type": "movie",
+      "name": "La résurrection des natures mortes (Living Still Life)",
+      "ids": {
+        "tmdb": 323666
+      },
+      "overview": "In a world in decay, a woman collects her dead animals and restores them to life by filming them  images by image.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/4eFKqwuZUcjfTbTWszz2xpwIsRL.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:5879",
       "type": "movie",
       "name": "El imperio de los sentidos",
@@ -29,32 +41,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/peHiTvVODUgHPD8UCy6MqQGwsbN.png"
     },
     {
-      "id": "tmdb:323666",
-      "type": "movie",
-      "name": "La résurrection des natures mortes (Living Still Life)",
-      "ids": {
-        "tmdb": 323666
-      },
-      "overview": "In a world in decay, a woman collects her dead animals and restores them to life by filming them  images by image.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/4eFKqwuZUcjfTbTWszz2xpwIsRL.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:965150",
-      "type": "movie",
-      "name": "Aftersun",
-      "ids": {
-        "tmdb": 965150
-      },
-      "overview": "Sophie reflexiona sobre la alegría compartida y la melancolía privada de unas vacaciones que hizo con su padre veinte años atrás. Los recuerdos reales e imaginarios llenan los espacios entre las imágenes mientras intenta reconciliar al padre que conoció con el hombre que no conoció.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/zJd2NwGzciSMppCHividNSROIZR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zDioXV47d2qmi8RN1Hf9oikens.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
-    },
-    {
       "id": "tmdb:1923",
       "type": "movie",
       "name": "Twin Peaks: Fuego camina conmigo",
@@ -81,6 +67,20 @@
       "posterShape": "poster"
     },
     {
+      "id": "tmdb:965150",
+      "type": "movie",
+      "name": "Aftersun",
+      "ids": {
+        "tmdb": 965150
+      },
+      "overview": "Sophie reflexiona sobre la alegría compartida y la melancolía privada de unas vacaciones que hizo con su padre veinte años atrás. Los recuerdos reales e imaginarios llenan los espacios entre las imágenes mientras intenta reconciliar al padre que conoció con el hombre que no conoció.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/zJd2NwGzciSMppCHividNSROIZR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6zDioXV47d2qmi8RN1Hf9oikens.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
+    },
+    {
       "id": "tmdb:38810",
       "type": "movie",
       "name": "Canino",
@@ -93,20 +93,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/grGi346IgTIje2bxkbxu5npiplw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ifaRUhvxyLqH0zH22gBOfm2TKKS.png"
-    },
-    {
-      "id": "tmdb:1059128",
-      "type": "movie",
-      "name": "Queer",
-      "ids": {
-        "tmdb": 1059128
-      },
-      "overview": "1950. William Lee, un expatriado estadounidense de unos 50 años en Ciudad de México, pasa sus días casi solo, salvo algunos contactos con otros miembros de la pequeña comunidad estadounidense. Su encuentro con Eugene Allerton, un joven estudiante recién llegado a la ciudad, le muestra, por primera vez, que finalmente podría ser posible establecer una conexión íntima con alguien.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/w18FVX4a42hWZO6QB07IGBTEFGo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eXB2NlJNNtQrxddrshMnCyzq0k9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hhMU6kmnpaTH0QihDTJ4AWfUo9f.png"
     },
     {
       "id": "tmdb:64252",
@@ -123,17 +109,57 @@
       "logo": "https://image.tmdb.org/t/p/w500/xUIZwIsa84XmXtyiQD4Wd88JWy9.png"
     },
     {
-      "id": "tmdb:1153051",
+      "id": "tmdb:1059128",
       "type": "movie",
-      "name": "Anu",
+      "name": "Queer",
       "ids": {
-        "tmdb": 1153051
+        "tmdb": 1059128
       },
-      "overview": "When a recent widow moves to New Zealand from India, she's forced to confront her grief by completing an ordinary ritual in an extraordinary circumstance: quarantine.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/d1sjYn3uTnHzqQzsVQM4zFBRR2v.jpg",
+      "overview": "1950. William Lee, un expatriado estadounidense de unos 50 años en Ciudad de México, pasa sus días casi solo, salvo algunos contactos con otros miembros de la pequeña comunidad estadounidense. Su encuentro con Eugene Allerton, un joven estudiante recién llegado a la ciudad, le muestra, por primera vez, que finalmente podría ser posible establecer una conexión íntima con alguien.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/w18FVX4a42hWZO6QB07IGBTEFGo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rW7EC5fZ3MOKkCdyFIr3JeDQ7A9.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/eXB2NlJNNtQrxddrshMnCyzq0k9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hhMU6kmnpaTH0QihDTJ4AWfUo9f.png"
+    },
+    {
+      "id": "tmdb:210627",
+      "type": "movie",
+      "name": "Murder in Mississippi",
+      "ids": {
+        "tmdb": 210627
+      },
+      "overview": "Narra el asesinato de activistas por los derechos civiles en el sur de Estados Unidos. Carol Lee Byrd y sus dos amigos fueron arrestadas por el sheriff racista Engstrom en el sur, acusándoles de tratar de alentar a los ciudadanos negros a que se conviertan en votantes registrados. Tras asesinar a sus amigos, Byrd fue secuestrada por dos sórdidos campesinos que la mantuvieron en una cabaña remota, donde abusaron sexualmente de ella.",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w342/weOXJZ7MK8r4pbI5U8V5tK3GVf3.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:368415",
+      "type": "movie",
+      "name": "Emerald Cities",
+      "ids": {
+        "tmdb": 368415
+      },
+      "overview": "Emerald Cities, completing the trilogy, is a story about a young woman who runs off from her Death Valley home to seek her fortune. Her drunken dad still stuck in his Santa suit from the local Christmas pagent, follows and soon comes in contact with the \"new dark ages\" of 1984. Juxtapositions of \"on-the street\" interviews (by Willie Boy Walker), punk performances by bands Flipper and The Mutants, TV shows of past-life hypnotism and nuclear destruction, and a crazed ex-con all finally intermix with the characters' own sagas.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/oBvnVClSEnQLe3Re9oW2ZRy64tX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5dvJR2oP2M16oSPbaz0mVMqyfxH.jpg"
+    },
+    {
+      "id": "tmdb:638",
+      "type": "movie",
+      "name": "Carretera perdida",
+      "ids": {
+        "tmdb": 638
+      },
+      "overview": "Fred Madison, un músico de Jazz, recibe una serie de misteriosas cintas de video en las que aparece con su mujer Renée dentro de su propia casa. En la última, que Fred ve a solas, junto a él aparece su esposa muerta.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/vFIhGJuUfCSGTFj5fgLCbBAtxt2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yjmlbXaJC33QAOrQhesI8Es2qxf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ajvMpnE9azcsfJu1UvCKdqOG8zP.png"
     },
     {
       "id": "tmdb:11841",
@@ -163,126 +189,6 @@
       "backdrop": "https://image.tmdb.org/t/p/original/zzYTykyWA43mTCiwGcAW4VMiCal.jpg"
     },
     {
-      "id": "tmdb:111109",
-      "type": "movie",
-      "name": "Siglo ng Pagluluwal",
-      "ids": {
-        "tmdb": 111109
-      },
-      "overview": "An artist struggles to finish his work while a storyline about a cult plays in his head. As the cult spirals towards a fundamentalism that will destroy the world, the artist decides to destroy his muse to redeem the world.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/5RuNHleRzOfbshJJT4QVFmxC5su.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zdHGKQ68bmABgdqKHdsb93Nomwo.jpg"
-    },
-    {
-      "id": "tmdb:30867",
-      "type": "movie",
-      "name": "Scott Walker: 30 Century Man",
-      "ids": {
-        "tmdb": 30867
-      },
-      "overview": "A documentary on the influential musician Scott Walker.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/foDbZTQKsbJmdOuu2QfIJ8dbaen.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sO4a6w1zLdPAJquqxT1cicDJKam.jpg"
-    },
-    {
-      "id": "tmdb:638",
-      "type": "movie",
-      "name": "Carretera perdida",
-      "ids": {
-        "tmdb": 638
-      },
-      "overview": "Fred Madison, un músico de Jazz, recibe una serie de misteriosas cintas de video en las que aparece con su mujer Renée dentro de su propia casa. En la última, que Fred ve a solas, junto a él aparece su esposa muerta.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/vFIhGJuUfCSGTFj5fgLCbBAtxt2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yjmlbXaJC33QAOrQhesI8Es2qxf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ajvMpnE9azcsfJu1UvCKdqOG8zP.png"
-    },
-    {
-      "id": "tmdb:1116557",
-      "type": "movie",
-      "name": "Lemon Tree",
-      "ids": {
-        "tmdb": 1116557
-      },
-      "overview": "At a Halloween carnival, a young father steals a magician’s rabbit to impress his ten-year-old son. The thrill of the petty theft quickly dissolves when the young boy is tasked with getting himself, his father, and his new pet home safe.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/wS48XAnCTi3bB3wUikAACynsUKA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kCyUrDtRXmw2Jpx1LmHO1Lq6Asm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f7RfouFpdqLJM635sRSoJ8BUrpv.png"
-    },
-    {
-      "id": "tmdb:40980",
-      "type": "movie",
-      "name": "Tormenta de kung fu en el paraíso",
-      "ids": {
-        "tmdb": 40980
-      },
-      "overview": "El matrimonio que hace tiempo concertaron los padres de Yumiko Kuda y Ho-Tao dista mucho de ser un matrimonio feliz, no dejan de pelearse y siempre están discutiendo sobre que arte marcial, si la china o la japonesa, es mejor. Tras sentirse ofendida durante una pelea con su marido, Kuda regresa a su Japón natal mientras que Ho-Tao le escribe una carta retándola a un duelo para saldar definitivamente sus disputas. Sin embargo, la carta cae en manos de Takeno, antiguo novio de Kuda, el cual la toma como un duelo contra todo Japón, por lo que comienza a reclutar a los mejores luchadores de las distintas disciplinas japonesas para viajar a China a enfrentarse a Ho-Tao.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/h06JtkvCkOChzcm13O8DYVwmspP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qKLE33mkumqJESJAO2AYZGaf8sD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jShPjYSSuv2pyrDE0Etg9PHlYwE.png"
-    },
-    {
-      "id": "tmdb:210627",
-      "type": "movie",
-      "name": "Murder in Mississippi",
-      "ids": {
-        "tmdb": 210627
-      },
-      "overview": "Narra el asesinato de activistas por los derechos civiles en el sur de Estados Unidos. Carol Lee Byrd y sus dos amigos fueron arrestadas por el sheriff racista Engstrom en el sur, acusándoles de tratar de alentar a los ciudadanos negros a que se conviertan en votantes registrados. Tras asesinar a sus amigos, Byrd fue secuestrada por dos sórdidos campesinos que la mantuvieron en una cabaña remota, donde abusaron sexualmente de ella.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/weOXJZ7MK8r4pbI5U8V5tK3GVf3.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:985",
-      "type": "movie",
-      "name": "Cabeza borradora",
-      "ids": {
-        "tmdb": 985
-      },
-      "overview": "Henry Spencer y su novia tienen un bebé no humano, más bien un bebé reptil. Henrry pasa todo el día intentando que él bebe deje de hacer travesuras por el apartamento. Todo se tuerce aún más cuando la madre del pequeño abandona a padre e hijo por el aspecto del bebé. De todos modos, Henry es una hombre fuerte y una serie de acontecimientos inesperados harán que se esfuerce aún más, en su condición como padre soltero.",
-      "year": 1977,
-      "poster": "https://image.tmdb.org/t/p/w342/j8Z0M4rUmxVFtvpN7bZ2JTASrsy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yrwQDvpIuVdeHqMtTN2geiAJgQV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n4lvtF6CzOtluYu5BJxshPuuxq6.png"
-    },
-    {
-      "id": "tmdb:368415",
-      "type": "movie",
-      "name": "Emerald Cities",
-      "ids": {
-        "tmdb": 368415
-      },
-      "overview": "Emerald Cities, completing the trilogy, is a story about a young woman who runs off from her Death Valley home to seek her fortune. Her drunken dad still stuck in his Santa suit from the local Christmas pagent, follows and soon comes in contact with the \"new dark ages\" of 1984. Juxtapositions of \"on-the street\" interviews (by Willie Boy Walker), punk performances by bands Flipper and The Mutants, TV shows of past-life hypnotism and nuclear destruction, and a crazed ex-con all finally intermix with the characters' own sagas.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/oBvnVClSEnQLe3Re9oW2ZRy64tX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5dvJR2oP2M16oSPbaz0mVMqyfxH.jpg"
-    },
-    {
-      "id": "tmdb:84972",
-      "type": "movie",
-      "name": "Crónica de un verano",
-      "ids": {
-        "tmdb": 84972
-      },
-      "overview": "París, verano de 1960. El antropólogo y cineasta Jean Rouch y el sociólogo y crítico de cine Edgar Morin deambulan por las calles abarrotadas preguntando a los transeúntes cómo afrontan las desgracias de la vida.",
-      "year": 1961,
-      "poster": "https://image.tmdb.org/t/p/w342/hmv7xszKlYqFzjmIlXhOHNrQIBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bolMHmAoPcY9CQ9IMpJPLSr4azQ.jpg"
-    },
-    {
       "id": "tmdb:40081",
       "type": "movie",
       "name": "Combate mortal",
@@ -295,48 +201,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xbScL9hBkcDuL2QzN0vLns7LMVy.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jAuVDSnhW6wKe3B2V6VOnArNUte.png"
-    },
-    {
-      "id": "tmdb:49096",
-      "type": "movie",
-      "name": "El imperio de la pasión",
-      "ids": {
-        "tmdb": 49096
-      },
-      "overview": "Un viejo conductor de carro-taxi está casado con una bella joven que cada noche le baña, le da masajes y le ofrece sake. Una noche, el joven amante de la mujer mata al marido y esconde el cadáver en un pozo aislado. Pasan tres años y el fantasma del muerto aparece.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/zD8x5HuNzkfMqkoIPcfNSDP9sZZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8aad9uv6zD4D5f17ClfhNC29t6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0OGQHlAToT3Chbd1pG6Cmw9neC.png"
-    },
-    {
-      "id": "tmdb:32520",
-      "type": "movie",
-      "name": "El luchador invisible",
-      "ids": {
-        "tmdb": 32520
-      },
-      "overview": "El general Yang y sus siete hijos parten hacia el monte Yinsha para defender la frontera, pero sufren una emboscada y sólo sobreviven dos de sus hijos. Uno de los hermanos pierde la cabeza al presenciar como su padre y sus hermanos son masacrados, mientras el otro decide vengarse de los causantes de la muerte de su familia. Mientras trama su venganza, conoce a un antiguo general que le hace ver que no está preparado para enfrentarse al traidor y que debe esperar al momento adecuado para llevar a cabo sus planes.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/8SJA3EWnAe7YWYCCf59lCMS3vss.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bpnMDYiyw1iOLxA6I5aCRfXdJRN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yK9sHoM6JP5jeFWSAOe7klCdmae.png"
-    },
-    {
-      "id": "tmdb:36832",
-      "type": "movie",
-      "name": "Born in Flames",
-      "ids": {
-        "tmdb": 36832
-      },
-      "overview": "En el Nueva York de un futuro cercano, diez años después de la «guerra socialdemócrata de liberación», diversos grupos de mujeres organizan un levantamiento feminista mientras la igualdad sigue sin cumplirse.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/vWCxJ51JHR8dKVCaCSHutQ5vr3a.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cWQWGaDGtdxZbw9aJPgEQb3nemY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5SmuJ1X22AnKIqwKWUcfsiiQG2a.png"
     },
     {
       "id": "tmdb:50569",
@@ -353,31 +217,30 @@
       "logo": "https://image.tmdb.org/t/p/w500/3L9HyTcB1jsydd6xgDZylNeUe3w.png"
     },
     {
-      "id": "tmdb:41378",
+      "id": "tmdb:30867",
       "type": "movie",
-      "name": "FIVE ELEMENT NINJA",
+      "name": "Scott Walker: 30 Century Man",
       "ids": {
-        "tmdb": 41378
+        "tmdb": 30867
       },
-      "overview": "Un joven artista marcial busca venganza contra el ninja que mata a sus hermanos y maestros de artes marciales.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/nUidOywTrK8kceDCOHQRuLGqs4y.jpg",
+      "overview": "A documentary on the influential musician Scott Walker.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/foDbZTQKsbJmdOuu2QfIJ8dbaen.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kge4OH9ophnQwieGbPcDOuDkSTj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i9JzYxKSKyoNwDzkdqwa0SzOEM1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sO4a6w1zLdPAJquqxT1cicDJKam.jpg"
     },
     {
-      "id": "tmdb:8282",
+      "id": "tmdb:111109",
       "type": "movie",
-      "name": "Las horas del verano",
+      "name": "Siglo ng Pagluluwal",
       "ids": {
-        "tmdb": 8282
+        "tmdb": 111109
       },
-      "overview": "Entre tres hermanos estalla un conflicto cuando su madre, albacea de la excepcional colección de arte del siglo XIX que perteneció a su tío, muere repentinamente. Sin embargo, no tendrán más remedio que limar asperezas y llegar a un acuerdo. Adrienne es en Nueva York una diseñadora de éxito, Frédéric es economista y profesor universitario en París, y Jérémie, un dinámico hombre de negocios asentado en China. Esta situación representa para ellos el fin de la niñez y de los recuerdos compartidos.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/Af4aT0YsnRwHDL5oF4UqAvqEJ3L.jpg",
+      "overview": "An artist struggles to finish his work while a storyline about a cult plays in his head. As the cult spirals towards a fundamentalism that will destroy the world, the artist decides to destroy his muse to redeem the world.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/5RuNHleRzOfbshJJT4QVFmxC5su.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3ZONsrLsxkrlmoI1rIjJRsGP747.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/zdHGKQ68bmABgdqKHdsb93Nomwo.jpg"
     },
     {
       "id": "tmdb:13481",
@@ -394,32 +257,100 @@
       "logo": "https://image.tmdb.org/t/p/w500/c8jaatnDp2EtBobtuoJ4SJquKRy.png"
     },
     {
-      "id": "tmdb:19156",
+      "id": "tmdb:84972",
       "type": "movie",
-      "name": "十八般武藝",
+      "name": "Crónica de un verano",
       "ids": {
-        "tmdb": 19156
+        "tmdb": 84972
       },
-      "overview": "Legendary Weapons of China is a martial arts fantasy film taking place during the late Qing Dynasty when Empress Dowager Cixi dispatches her agents to various factions of the Boxer Rebellion in order find supernatural martial artists that are invulnerable to western bullets. When one of the leaders of these groups disbands his forces, assassins from the remaining factions are sent out to kill him.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/eQ3WAYY69A7vIt2BTNfnart5GV2.jpg",
+      "overview": "París, verano de 1960. El antropólogo y cineasta Jean Rouch y el sociólogo y crítico de cine Edgar Morin deambulan por las calles abarrotadas preguntando a los transeúntes cómo afrontan las desgracias de la vida.",
+      "year": 1961,
+      "poster": "https://image.tmdb.org/t/p/w342/hmv7xszKlYqFzjmIlXhOHNrQIBT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e9eULqc7oK77B7xUwm2FPPdo0PX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zD38Yh1f4WhGw7RxTiyZVlgJkvV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bolMHmAoPcY9CQ9IMpJPLSr4azQ.jpg"
     },
     {
-      "id": "tmdb:54182",
+      "id": "tmdb:41378",
       "type": "movie",
-      "name": "Ho el Sucio",
+      "name": "FIVE ELEMENT NINJA",
       "ids": {
-        "tmdb": 54182
+        "tmdb": 41378
       },
-      "overview": "Ho Ching es un pícaro que recibe las constantes burlas del adinerado Wang Chin Chen, quien en realidad es el Onceavo Príncipe bajo una identidad falsa. En su útlima jugarreta, el príncipe ha amañado un combate cotnra una prostituta para que Ching pierda y, además crea que le han envenenado. Wang chantajea a Ho Ching para que se convierta en su discípulo, pues sabe que el chico tiene la habilidad suficiente para defenderle. Aunque no está interesado en el trono, el príncipe teme por los constantes atentados contra su vida y revela su identidad a Ho Ching. El joven pícaro le pide a Wang que le ayude a mejorar sus técnicas de artes marciales porque desea convertirse en un buen luchador y protegerle con dignidad. ¿Logrará llegar a palacio con el heredero al trono sano y salvo?",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/o2aj0CSXeC6tlT3eZCv6t6JqHKJ.jpg",
+      "overview": "Un joven artista marcial busca venganza contra el ninja que mata a sus hermanos y maestros de artes marciales.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/nUidOywTrK8kceDCOHQRuLGqs4y.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pTBbTwQb85IjwSDnigrUmc7sKu0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9TKwSFB6EnDq8Rkal5JOHrrQgXI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kge4OH9ophnQwieGbPcDOuDkSTj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i9JzYxKSKyoNwDzkdqwa0SzOEM1.png"
+    },
+    {
+      "id": "tmdb:36832",
+      "type": "movie",
+      "name": "Born in Flames",
+      "ids": {
+        "tmdb": 36832
+      },
+      "overview": "En el Nueva York de un futuro cercano, diez años después de la «guerra socialdemócrata de liberación», diversos grupos de mujeres organizan un levantamiento feminista mientras la igualdad sigue sin cumplirse.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/uV8R8B8m5rp1NFvuodWk4ZuCXY0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cWQWGaDGtdxZbw9aJPgEQb3nemY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5SmuJ1X22AnKIqwKWUcfsiiQG2a.png"
+    },
+    {
+      "id": "tmdb:49096",
+      "type": "movie",
+      "name": "El imperio de la pasión",
+      "ids": {
+        "tmdb": 49096
+      },
+      "overview": "Un viejo conductor de carro-taxi está casado con una bella joven que cada noche le baña, le da masajes y le ofrece sake. Una noche, el joven amante de la mujer mata al marido y esconde el cadáver en un pozo aislado. Pasan tres años y el fantasma del muerto aparece.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/zD8x5HuNzkfMqkoIPcfNSDP9sZZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8aad9uv6zD4D5f17ClfhNC29t6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0OGQHlAToT3Chbd1pG6Cmw9neC.png"
+    },
+    {
+      "id": "tmdb:8282",
+      "type": "movie",
+      "name": "Las horas del verano",
+      "ids": {
+        "tmdb": 8282
+      },
+      "overview": "Entre tres hermanos estalla un conflicto cuando su madre, albacea de la excepcional colección de arte del siglo XIX que perteneció a su tío, muere repentinamente. Sin embargo, no tendrán más remedio que limar asperezas y llegar a un acuerdo. Adrienne es en Nueva York una diseñadora de éxito, Frédéric es economista y profesor universitario en París, y Jérémie, un dinámico hombre de negocios asentado en China. Esta situación representa para ellos el fin de la niñez y de los recuerdos compartidos.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/Af4aT0YsnRwHDL5oF4UqAvqEJ3L.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3ZONsrLsxkrlmoI1rIjJRsGP747.jpg"
+    },
+    {
+      "id": "tmdb:985",
+      "type": "movie",
+      "name": "Cabeza borradora",
+      "ids": {
+        "tmdb": 985
+      },
+      "overview": "Henry Spencer y su novia tienen un bebé no humano, más bien un bebé reptil. Henrry pasa todo el día intentando que él bebe deje de hacer travesuras por el apartamento. Todo se tuerce aún más cuando la madre del pequeño abandona a padre e hijo por el aspecto del bebé. De todos modos, Henry es una hombre fuerte y una serie de acontecimientos inesperados harán que se esfuerce aún más, en su condición como padre soltero.",
+      "year": 1977,
+      "poster": "https://image.tmdb.org/t/p/w342/j8Z0M4rUmxVFtvpN7bZ2JTASrsy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yrwQDvpIuVdeHqMtTN2geiAJgQV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n4lvtF6CzOtluYu5BJxshPuuxq6.png"
+    },
+    {
+      "id": "tmdb:32520",
+      "type": "movie",
+      "name": "El luchador invisible",
+      "ids": {
+        "tmdb": 32520
+      },
+      "overview": "El general Yang y sus siete hijos parten hacia el monte Yinsha para defender la frontera, pero sufren una emboscada y sólo sobreviven dos de sus hijos. Uno de los hermanos pierde la cabeza al presenciar como su padre y sus hermanos son masacrados, mientras el otro decide vengarse de los causantes de la muerte de su familia. Mientras trama su venganza, conoce a un antiguo general que le hace ver que no está preparado para enfrentarse al traidor y que debe esperar al momento adecuado para llevar a cabo sus planes.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/8SJA3EWnAe7YWYCCf59lCMS3vss.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bpnMDYiyw1iOLxA6I5aCRfXdJRN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yK9sHoM6JP5jeFWSAOe7klCdmae.png"
     },
     {
       "id": "tmdb:46957",
@@ -436,32 +367,31 @@
       "logo": "https://image.tmdb.org/t/p/w500/mhldCPy5CTTBJvqmDDG3KqypMIa.png"
     },
     {
-      "id": "tmdb:26259",
+      "id": "tmdb:40980",
       "type": "movie",
-      "name": "Bebe conmigo",
+      "name": "Tormenta de kung fu en el paraíso",
       "ids": {
-        "tmdb": 26259
+        "tmdb": 40980
       },
-      "overview": "Una banda de salteadores atacan a un convoy del gobierno y secuestran al oficial al mando con la intención de intercambiarlo por su Jefe detenido. La Dorada Golondrina, un agente de la corte, es enviada por el gobernador para salvar al funcionario.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/bVQhrpCfMZy8YoiAmbze1qWIoho.jpg",
+      "overview": "El matrimonio que hace tiempo concertaron los padres de Yumiko Kuda y Ho-Tao dista mucho de ser un matrimonio feliz, no dejan de pelearse y siempre están discutiendo sobre que arte marcial, si la china o la japonesa, es mejor. Tras sentirse ofendida durante una pelea con su marido, Kuda regresa a su Japón natal mientras que Ho-Tao le escribe una carta retándola a un duelo para saldar definitivamente sus disputas. Sin embargo, la carta cae en manos de Takeno, antiguo novio de Kuda, el cual la toma como un duelo contra todo Japón, por lo que comienza a reclutar a los mejores luchadores de las distintas disciplinas japonesas para viajar a China a enfrentarse a Ho-Tao.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/h06JtkvCkOChzcm13O8DYVwmspP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8JwzIGYDqvYrcrSmwcKDRq6gKSH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AgjSlvYVdY9FydHqLmblUPxvdi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qKLE33mkumqJESJAO2AYZGaf8sD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jShPjYSSuv2pyrDE0Etg9PHlYwE.png"
     },
     {
-      "id": "tmdb:11171",
+      "id": "tmdb:1153051",
       "type": "movie",
-      "name": "Mysterious Skin (Oscura inocencia)",
+      "name": "Anu",
       "ids": {
-        "tmdb": 11171
+        "tmdb": 1153051
       },
-      "overview": "En 1981, Brian tenía ocho años y estaba sentado en el banquillo durante un partido de la liga juvenil de béisbol. Cinco horas después despierta en el sótano de su casa con una hemorragia nasal y sin recuerdos. Brian moja la cama y tiene pesadillas, también inventa: fue abducido por extraterrestres. Y pasa el tiempo, Brian llega a la adolescencia, torpe, acomplejado y entregado a la causa OVNI, también Neil, su compañero de infancia, se ha hecho mayor. Neil es la antítesis de Brian, él es sexy, jugador estrella y experto en juegos con hombres adultos con los que nunca se compromete. Mientras Brian encuentra en Avalyn Friesen, una discapacitada obsesionada con sus experiencias en la tercera fase, la posibilidad de asumir sus experiencias inhibidas, Neil huye a nueva York a rozar el lado peligroso.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/55S6U4F9nZWoYxsUMu59uWSV4Q.jpg",
+      "overview": "When a recent widow moves to New Zealand from India, she's forced to confront her grief by completing an ordinary ritual in an extraordinary circumstance: quarantine.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/d1sjYn3uTnHzqQzsVQM4zFBRR2v.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Y8ZvsSXYiaxPocBU3KH3nWmYhR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kAh9G6wboSsItKMkgxqwfgvWrmK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rW7EC5fZ3MOKkCdyFIr3JeDQ7A9.jpg"
     },
     {
       "id": "tmdb:1233393",
@@ -475,61 +405,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/7SXOhrqOtszamsvM0EvquOA0YKy.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4CYHemafValVa4qhkfRBn4l9xdo.jpg"
-    },
-    {
-      "id": "tmdb:1058696",
-      "type": "movie",
-      "name": "Rotting in the Sun",
-      "ids": {
-        "tmdb": 1058696
-      },
-      "overview": "Un cineasta que enfrenta una crisis existencial se va de vacaciones a una playa nudista gay en México, donde conoce a una celebridad de las redes sociales que lo convence para colaborar con él en su nuevo programa de televisión.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/n2UhXsV5W2IlVdCRSxtK7hNa83s.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bNySKkB7VeVFovu4RsD9P9kWLhS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pYeHYSS0ONnQJLBQ1jXhWg545gY.png"
-    },
-    {
-      "id": "tmdb:44132",
-      "type": "movie",
-      "name": "La bestia",
-      "ids": {
-        "tmdb": 44132
-      },
-      "overview": "Una familia de la nobleza con problemas económicos espera ansiosa la llegada de Lucy Broadhurst, hija de un rico burgués. La boda de Lucy con el heredero de la familia, el excéntrico Mathurin, podría ayudarles a mejorar su situación. Cuando la chica llega al hogar de los aristócratas, se obsesiona con la historia de Romilda de l’Esperance, una antepasada de su futuro esposo. Según las habladurías, Romilda había mantenido relaciones sexuales con una misteriosa bestia que se escondía en los bosques cercanos a la mansión.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/jIKqdwBYutlyItSBed8uBS5mCJX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2aHMwdhnK7OScRkyXCl8qWiGCsC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bkNIohwTIX35IxAOOiaOM8qr2BG.png"
-    },
-    {
-      "id": "tmdb:54178",
-      "type": "movie",
-      "name": "El espadachín manco",
-      "ids": {
-        "tmdb": 54178
-      },
-      "overview": "Fang Gang, discípulo de la escuela del maestro Chi Rufeng pierde en un accidente el brazo derecho y está a punto de perder la vida. Le salva Hsiao Man, una campesina que se enamora de él. Fang Gang consagrará su vida al aprendizaje de las técnicas marciales del brazo izquierdo por medio de un manual secreto. Gracias a ello, una vez convertido en un guerrero terrible volverá a la escuela de Chi para salvarla del desastre.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/5uUwl2cB4O7NmDFsKCmZkYTtVGO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9eTz6qTc23Hg55pkLkW1PagSeJU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rhxw8S1d2BHi3vfKGtpTmkqp0gP.png"
-    },
-    {
-      "id": "tmdb:30082",
-      "type": "movie",
-      "name": "Forty Shades of Blue",
-      "ids": {
-        "tmdb": 30082
-      },
-      "overview": "A Russian woman living in Memphis with a much older rock-n-roll legend experiences a personal awakening when her husband's estranged son comes to visit.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tWhkFzXkqS9afk2KKTTwd6IBmZ6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uwhdNBtZqyHotOtxPZaubKtpKFg.jpg"
     },
     {
       "id": "tmdb:21964",
@@ -546,18 +421,45 @@
       "logo": "https://image.tmdb.org/t/p/w500/zsJhYZFC3wUQlIQkzl7OMIM7sKw.png"
     },
     {
-      "id": "tmdb:4710",
+      "id": "tmdb:1058696",
       "type": "movie",
-      "name": "Masculino, femenino",
+      "name": "Rotting in the Sun",
       "ids": {
-        "tmdb": 4710
+        "tmdb": 1058696
       },
-      "overview": "Paul es un joven idealista que acaba de terminar el servicio militar. Conoce a Madeleine, una joven atractiva que aspira a ser cantante pop, y trata de conquistarla. Ambos salen juntos y terminan juntos en la cama, aunque con dos amigas de Madeleine, Elisabeth y Catherine.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/qJHD9j8mnXcYbsoNumUfP0R1LhL.jpg",
+      "overview": "Un cineasta que enfrenta una crisis existencial se va de vacaciones a una playa nudista gay en México, donde conoce a una celebridad de las redes sociales que lo convence para colaborar con él en su nuevo programa de televisión.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/n2UhXsV5W2IlVdCRSxtK7hNa83s.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pwUnywWHtw82l78r82AJGRzyE6e.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cHJENYYNr1Ca7EcKag4zmflX0An.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bNySKkB7VeVFovu4RsD9P9kWLhS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pYeHYSS0ONnQJLBQ1jXhWg545gY.png"
+    },
+    {
+      "id": "tmdb:30082",
+      "type": "movie",
+      "name": "Forty Shades of Blue",
+      "ids": {
+        "tmdb": 30082
+      },
+      "overview": "A Russian woman living in Memphis with a much older rock-n-roll legend experiences a personal awakening when her husband's estranged son comes to visit.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/tWhkFzXkqS9afk2KKTTwd6IBmZ6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uwhdNBtZqyHotOtxPZaubKtpKFg.jpg"
+    },
+    {
+      "id": "tmdb:44132",
+      "type": "movie",
+      "name": "La bestia",
+      "ids": {
+        "tmdb": 44132
+      },
+      "overview": "Una familia de la nobleza con problemas económicos espera ansiosa la llegada de Lucy Broadhurst, hija de un rico burgués. La boda de Lucy con el heredero de la familia, el excéntrico Mathurin, podría ayudarles a mejorar su situación. Cuando la chica llega al hogar de los aristócratas, se obsesiona con la historia de Romilda de l’Esperance, una antepasada de su futuro esposo. Según las habladurías, Romilda había mantenido relaciones sexuales con una misteriosa bestia que se escondía en los bosques cercanos a la mansión.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/jIKqdwBYutlyItSBed8uBS5mCJX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2aHMwdhnK7OScRkyXCl8qWiGCsC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bkNIohwTIX35IxAOOiaOM8qr2BG.png"
     },
     {
       "id": "tmdb:766159",
@@ -573,73 +475,60 @@
       "backdrop": "https://image.tmdb.org/t/p/original/liyoKisRfbf94MLsnmBKrlMLaBg.jpg"
     },
     {
-      "id": "tmdb:420687",
+      "id": "tmdb:1156110",
       "type": "movie",
-      "name": "White Ant",
+      "name": "Gasoline Rainbow",
       "ids": {
-        "tmdb": 420687
+        "tmdb": 1156110
       },
-      "overview": "Cuenta una historia sobre el fetichismo sexual. Bai Yide es un joven que vive solo. Trabaja en una librería y obtiene placer sexual robando y vistiendo ropa interior femenina. Un día, recibe un DVD en el que se registran sus actividades y se pone ansioso. El DVD fue enviado por Junhong, que sabía del trauma psicológico de Bai debido a que trabajaba en la tienda de vestidos de novia de la madre de Bai.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/k19H2VpHqi0AbbHnHEdPJCv2AfH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kHgDK69ZveayonP8Dum44NUTnTy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rAHjn98e88QKk4UlYWCvYAR0jTN.png"
-    },
-    {
-      "id": "tmdb:413580",
-      "type": "movie",
-      "name": "Dawson City: Frozen Time",
-      "ids": {
-        "tmdb": 413580
-      },
-      "overview": "En este documental de 'arqueología cinematográfica', Bill Morrison, especialista en películas de metraje encontrado, rescata centenares de películas perdidas, realizadas a principios del siglo XX en un remoto pueblo norteamericano que sufrió la fiebre del oro. Desde su nacimiento, el cine desafió uno de los grandes temores del ser humano: el paso del tiempo. Así, la vida podía quedar plasmada en el celuloide. Se calcula que el 80% del cine mudo que se produjo entre 1895 y finales de los años 20 en todo el mundo ha desaparecido. Por ello cobran tanto valor las imágenes que \"Dawson City: Frozen Time\" rescata de 533 películas producidas en Canadá en los años 10 y 20 del pasado siglo. Fantasmagorías que permanecieron \"criogenizadas\" en hielo durante 50 años, y que regresaron a la luz tras una explosión en Dawson City. Los materiales encontrados desfilan por la pantalla, como un baile de fantasmas, al ritmo de Sigur Rós.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/6acUjFJzv6J7IE2h75zVMCkJr4k.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wwuSr3VboAqEqKMNWVUU6x75P1w.jpg"
-    },
-    {
-      "id": "tmdb:1172244",
-      "type": "movie",
-      "name": "Moon",
-      "ids": {
-        "tmdb": 1172244
-      },
-      "overview": "Sarah, una apasionada de las artes marciales mixtas, acepta la propuesta de convertirse en la entrenadora personal de tres hermanas de una acaudalada familia en Jordania. Una vez en el país, no tarda en darse cuenta de que tras la apariencia de privilegio de los Al Farahadi se esconde una realidad mucho más inquietante. Premio Especial del Jurado en el Festival de Locarno.",
+      "overview": "With high school in the rearview, five teenagers from inland Oregon embark on one last adventure. Piling into a van with a busted tail light, their mission takes them to a place they’ve never been—the Pacific coast, five hundred miles away. Their plan, in full: “Fuck it.”",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/2lkU7he9G8YGQqs7jabsRy2rBbl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3wZPMKCrL4jwpAMWgQQoV75VaU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/arKl2Ycaz7JlUcaZOs9K1X7japr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1pOZzoMWayxs1ffnf1B1BT7EQgW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2dkSxdBJuJVlbLmA2iNHWQjMkYB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/44ITQXeOSPpcizBXGXYoy4XMIWq.png"
     },
     {
-      "id": "tmdb:1116242",
+      "id": "tmdb:54182",
       "type": "movie",
-      "name": "البحر الأحمر يبكي",
+      "name": "Ho el Sucio",
       "ids": {
-        "tmdb": 1116242
+        "tmdb": 54182
       },
-      "overview": "A haunted woman named Ida journeys from Germany to Jordan, to an eerie and deserted port town on the Red Sea where her partner, Ismail, recently disappeared. Wandering through desolate bars, hotels, and offices, Ida attempts to feel Ismail’s presence one last time and to say goodbye.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/uPRqN7jwCctiS11t9MzSJJeJUDI.jpg",
+      "overview": "Ho Ching es un pícaro que recibe las constantes burlas del adinerado Wang Chin Chen, quien en realidad es el Onceavo Príncipe bajo una identidad falsa. En su útlima jugarreta, el príncipe ha amañado un combate cotnra una prostituta para que Ching pierda y, además crea que le han envenenado. Wang chantajea a Ho Ching para que se convierta en su discípulo, pues sabe que el chico tiene la habilidad suficiente para defenderle. Aunque no está interesado en el trono, el príncipe teme por los constantes atentados contra su vida y revela su identidad a Ho Ching. El joven pícaro le pide a Wang que le ayude a mejorar sus técnicas de artes marciales porque desea convertirse en un buen luchador y protegerle con dignidad. ¿Logrará llegar a palacio con el heredero al trono sano y salvo?",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/o2aj0CSXeC6tlT3eZCv6t6JqHKJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v4Ay5DVuYXhk58OAymm2dOtEVc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kn5QjpMWeEf8sWP8pfKjP8D97i5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pTBbTwQb85IjwSDnigrUmc7sKu0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9TKwSFB6EnDq8Rkal5JOHrrQgXI.png"
     },
     {
-      "id": "tmdb:31225",
+      "id": "tmdb:19156",
       "type": "movie",
-      "name": "Paris Is Burning",
+      "name": "十八般武藝",
       "ids": {
-        "tmdb": 31225
+        "tmdb": 19156
       },
-      "overview": "La película explora las 'Houses' del barrio neoyorquino de Harlem de finales de los 80. Una 'House' es una sociedad de gays y drag queens (drag queen en el sentido neoyorquino del término que incluye a las travestis), que tiene forma de banda callejera. Las 'Houses' están formadas por una 'mother' o madre y los y las 'children', hijos e hijas, la función de la madre es la de presidir la sociedad y aconsejar y mirar por sus integrantes. Los 'Balls' son los bailes que organizan las 'Houses' en los 'Ballrooms' (literalmente salones de baile) que se convierten en una especie de club para reunirse y competir entre sí. \"Paris is burning\" refleja el fenómeno de los 'balls' desde 1987 hasta 1989 cuando ya ha llamado la atención de los medios de comunicación y las industrias culturales perciben beneficios de lo que súbitamente es la nueva moda.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "overview": "Legendary Weapons of China is a martial arts fantasy film taking place during the late Qing Dynasty when Empress Dowager Cixi dispatches her agents to various factions of the Boxer Rebellion in order find supernatural martial artists that are invulnerable to western bullets. When one of the leaders of these groups disbands his forces, assassins from the remaining factions are sent out to kill him.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/eQ3WAYY69A7vIt2BTNfnart5GV2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cbMy7zbKMwF1NEOVIR5UphVCXSb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gKVKHbV6XkpNagA77HALW5QZqcA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/e9eULqc7oK77B7xUwm2FPPdo0PX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zD38Yh1f4WhGw7RxTiyZVlgJkvV.png"
+    },
+    {
+      "id": "tmdb:11171",
+      "type": "movie",
+      "name": "Mysterious Skin (Oscura inocencia)",
+      "ids": {
+        "tmdb": 11171
+      },
+      "overview": "En 1981, Brian tenía ocho años y estaba sentado en el banquillo durante un partido de la liga juvenil de béisbol. Cinco horas después despierta en el sótano de su casa con una hemorragia nasal y sin recuerdos. Brian moja la cama y tiene pesadillas, también inventa: fue abducido por extraterrestres. Y pasa el tiempo, Brian llega a la adolescencia, torpe, acomplejado y entregado a la causa OVNI, también Neil, su compañero de infancia, se ha hecho mayor. Neil es la antítesis de Brian, él es sexy, jugador estrella y experto en juegos con hombres adultos con los que nunca se compromete. Mientras Brian encuentra en Avalyn Friesen, una discapacitada obsesionada con sus experiencias en la tercera fase, la posibilidad de asumir sus experiencias inhibidas, Neil huye a nueva York a rozar el lado peligroso.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/55S6U4F9nZWoYxsUMu59uWSV4Q.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7Y8ZvsSXYiaxPocBU3KH3nWmYhR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kAh9G6wboSsItKMkgxqwfgvWrmK.png"
     },
     {
       "id": "tmdb:85836",
@@ -656,6 +545,73 @@
       "logo": "https://image.tmdb.org/t/p/w500/iJ2JA0UCIi6o6bH7b43T27zOgok.png"
     },
     {
+      "id": "tmdb:26259",
+      "type": "movie",
+      "name": "Bebe conmigo",
+      "ids": {
+        "tmdb": 26259
+      },
+      "overview": "Una banda de salteadores atacan a un convoy del gobierno y secuestran al oficial al mando con la intención de intercambiarlo por su Jefe detenido. La Dorada Golondrina, un agente de la corte, es enviada por el gobernador para salvar al funcionario.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/bVQhrpCfMZy8YoiAmbze1qWIoho.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8JwzIGYDqvYrcrSmwcKDRq6gKSH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AgjSlvYVdY9FydHqLmblUPxvdi.png"
+    },
+    {
+      "id": "tmdb:54178",
+      "type": "movie",
+      "name": "El espadachín manco",
+      "ids": {
+        "tmdb": 54178
+      },
+      "overview": "Fang Gang, discípulo de la escuela del maestro Chi Rufeng pierde en un accidente el brazo derecho y está a punto de perder la vida. Le salva Hsiao Man, una campesina que se enamora de él. Fang Gang consagrará su vida al aprendizaje de las técnicas marciales del brazo izquierdo por medio de un manual secreto. Gracias a ello, una vez convertido en un guerrero terrible volverá a la escuela de Chi para salvarla del desastre.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/5uUwl2cB4O7NmDFsKCmZkYTtVGO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9eTz6qTc23Hg55pkLkW1PagSeJU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rhxw8S1d2BHi3vfKGtpTmkqp0gP.png"
+    },
+    {
+      "id": "tmdb:322855",
+      "type": "movie",
+      "name": "Shakedown",
+      "ids": {
+        "tmdb": 322855
+      },
+      "overview": "‘Shakedown’ was a series of parties founded by and for African American women in Los Angeles that featured go-go dancing and strip shows for the city’s lesbian underground scene. Inspired by transwoman Mahogany who, as the mother of the scene, presided over queer strip shows and balls for non-heterosexual audiences in the 1980s, butch Ronnie Ron created, produced and presented the new shows. In them, the largely female clientele from the ‘hood’ slipped dollar notes into lap dancers’ panties while celebrating lesbian sexuality to pulsating hip-hop beats.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/lWmX5qh1h0j5gZdQmbcboTOUpop.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tzogKUeVWf0rrveix1qoZo5Y21B.jpg"
+    },
+    {
+      "id": "tmdb:309134",
+      "type": "movie",
+      "name": "Buffalo Juggalos",
+      "ids": {
+        "tmdb": 309134
+      },
+      "overview": "An experimental exploration and celebration of the Juggalo subculture in Buffalo, New York. Long and static takes of Juggalos engaged in their favorite activities, first and foremost of which - causing mayhem. Among these seemingly random acts of the everyday, preening, sexual gratification, backyard wrestling, explosions and destruction, a tentative narrative begins to emerge.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/eVK9KsapEJyxs4qVkEMYG54M2Ei.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/khmHWNOMrzZIIfQPE6UHP6hOQJc.jpg"
+    },
+    {
+      "id": "tmdb:50978",
+      "type": "movie",
+      "name": "One Shocking Moment",
+      "ids": {
+        "tmdb": 50978
+      },
+      "overview": "Hunky businessman Cliff and his sweet wife Mindy move from Grand Rapids, Michigan to Los Angeles, California. They take up residence in an apartment complex where several lovely young ladies also live.",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w342/9mqbXYdDYicUDGVRyzcPy3I04NB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/50NsnxgWdftCYm1gXrkgmzbZztf.jpg"
+    },
+    {
       "id": "tmdb:112508",
       "type": "movie",
       "name": "Léa",
@@ -670,17 +626,58 @@
       "logo": "https://image.tmdb.org/t/p/w500/tSmukZXKQIx8ilHlajTvF50vVGJ.png"
     },
     {
-      "id": "tmdb:50978",
+      "id": "tmdb:1116557",
       "type": "movie",
-      "name": "One Shocking Moment",
+      "name": "Lemon Tree",
       "ids": {
-        "tmdb": 50978
+        "tmdb": 1116557
       },
-      "overview": "Hunky businessman Cliff and his sweet wife Mindy move from Grand Rapids, Michigan to Los Angeles, California. They take up residence in an apartment complex where several lovely young ladies also live.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/9mqbXYdDYicUDGVRyzcPy3I04NB.jpg",
+      "overview": "At a Halloween carnival, a young father steals a magician’s rabbit to impress his ten-year-old son. The thrill of the petty theft quickly dissolves when the young boy is tasked with getting himself, his father, and his new pet home safe.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/wS48XAnCTi3bB3wUikAACynsUKA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/50NsnxgWdftCYm1gXrkgmzbZztf.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/kCyUrDtRXmw2Jpx1LmHO1Lq6Asm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f7RfouFpdqLJM635sRSoJ8BUrpv.png"
+    },
+    {
+      "id": "tmdb:31225",
+      "type": "movie",
+      "name": "Paris Is Burning",
+      "ids": {
+        "tmdb": 31225
+      },
+      "overview": "La película explora las 'Houses' del barrio neoyorquino de Harlem de finales de los 80. Una 'House' es una sociedad de gays y drag queens (drag queen en el sentido neoyorquino del término que incluye a las travestis), que tiene forma de banda callejera. Las 'Houses' están formadas por una 'mother' o madre y los y las 'children', hijos e hijas, la función de la madre es la de presidir la sociedad y aconsejar y mirar por sus integrantes. Los 'Balls' son los bailes que organizan las 'Houses' en los 'Ballrooms' (literalmente salones de baile) que se convierten en una especie de club para reunirse y competir entre sí. \"Paris is burning\" refleja el fenómeno de los 'balls' desde 1987 hasta 1989 cuando ya ha llamado la atención de los medios de comunicación y las industrias culturales perciben beneficios de lo que súbitamente es la nueva moda.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cbMy7zbKMwF1NEOVIR5UphVCXSb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gKVKHbV6XkpNagA77HALW5QZqcA.png"
+    },
+    {
+      "id": "tmdb:413580",
+      "type": "movie",
+      "name": "Dawson City: Frozen Time",
+      "ids": {
+        "tmdb": 413580
+      },
+      "overview": "En este documental de 'arqueología cinematográfica', Bill Morrison, especialista en películas de metraje encontrado, rescata centenares de películas perdidas, realizadas a principios del siglo XX en un remoto pueblo norteamericano que sufrió la fiebre del oro. Desde su nacimiento, el cine desafió uno de los grandes temores del ser humano: el paso del tiempo. Así, la vida podía quedar plasmada en el celuloide. Se calcula que el 80% del cine mudo que se produjo entre 1895 y finales de los años 20 en todo el mundo ha desaparecido. Por ello cobran tanto valor las imágenes que \"Dawson City: Frozen Time\" rescata de 533 películas producidas en Canadá en los años 10 y 20 del pasado siglo. Fantasmagorías que permanecieron \"criogenizadas\" en hielo durante 50 años, y que regresaron a la luz tras una explosión en Dawson City. Los materiales encontrados desfilan por la pantalla, como un baile de fantasmas, al ritmo de Sigur Rós.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/6acUjFJzv6J7IE2h75zVMCkJr4k.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wwuSr3VboAqEqKMNWVUU6x75P1w.jpg"
+    },
+    {
+      "id": "tmdb:111833",
+      "type": "movie",
+      "name": "Boro in the Box",
+      "ids": {
+        "tmdb": 111833
+      },
+      "overview": "From its epic conception to its film death, the fantasized and fictitious portrait of the film-maker Walerian Borowczyk : Boro-in-the-box discovers a cruel and obscene world, crosses commonplace and colorful adventures, from Poland to Paris, caressing erotic birds and organic cameras in a phantasmagorical alphabet primer.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/ybTme70iKysvxDyjk2LTiZAzp00.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yWgl7rgsxxH3KAdBz36RTlDIr47.jpg"
     }
   ]
 }

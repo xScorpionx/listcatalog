@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1513026",
+      "type": "movie",
+      "name": "Una película de miedo",
+      "ids": {
+        "tmdb": 1513026
+      },
+      "overview": "Durante las vacaciones de verano, un director de documentales y su hijo de doce años se alojan en un hotel abandonado de Lisboa: un hotel vacío como el de la película El resplandor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/uMLfcHCYbToFccmRFDGaMTZfuYX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ouUUsNNdIUFG7atDLgGAQF256GT.jpg"
+    },
+    {
       "id": "tmdb:1491364",
       "type": "movie",
       "name": "Érase Una Vez en el Noroeste",
@@ -667,20 +680,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/SY3YQ2zzrF3lO1VnGdLg9uNjuo.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wpE1mrJLLhz5ykn9MfuRD9gmlEY.png"
-    },
-    {
-      "id": "tmdb:1111873",
-      "type": "movie",
-      "name": "Abigail",
-      "ids": {
-        "tmdb": 1111873
-      },
-      "overview": "A una banda de delincuentes se les ha encargado secuestrar a Abigail, una bailarina de doce años hija de una poderosa figura del inframundo. Su misión requiere también vigilarla durante la noche para poder cobrar un rescate de 50 millones de dólares. En una mansión aislada, los captores comienzan a desaparecer, uno por uno, y descubren, para su creciente horror, que la pequeña niña con la que están encerrados no es normal y está mostrando su verdadera naturaleza.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yAyYEF7gksifL2cePGWZB0CRiu4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wpycgWLoj6EuRBxHAM37qTEaMUC.png"
     }
   ]
 }
