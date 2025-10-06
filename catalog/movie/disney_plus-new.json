@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1100800",
+      "type": "movie",
+      "name": "El piloto",
+      "ids": {
+        "tmdb": 1100800
+      },
+      "overview": "De la noche a la mañana, la vida de Gaby da un giro inesperado cuando un arrogante piloto de globo aerostático se estrella contra su gallinero y se instala como su nuevo vecino. El accidente no solo destroza el corral, sino que destapa un conflicto familiar enquistado y obliga a Gaby a enfrentarse tanto al altivo aeronauta como a su propio pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/84i5fUkQnqGqv7HrKrpddp9c00S.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1lfZLiwcn9wEjfgHJRTJVP39pi3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qUhXdjekd8yMbHNlgsk9Zo37aPg.png"
+    },
+    {
       "id": "tmdb:1541827",
       "type": "movie",
       "name": "Delfines en primer plano con Bertie Gregory",
@@ -671,20 +685,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/f1baQ15fYDcIxrSguFxJkySjePD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/fzTassgqXQQ004bC9f7Y93FuaGe.png"
-    },
-    {
-      "id": "tmdb:447273",
-      "type": "movie",
-      "name": "Blancanieves",
-      "ids": {
-        "tmdb": 447273
-      },
-      "overview": "Tras la desaparición del benévolo Rey, la Reina Malvada dominó la otrora bella tierra con una vena cruel. La princesa Blancanieves huye del castillo cuando la Reina, celosa de su belleza interior, intenta matarla. En lo profundo del oscuro bosque, se topa con siete enanos mágicos y un joven bandido llamado Jonathan. Juntos, luchan por sobrevivir a la implacable persecución de la Reina y aspiran a recuperar el reino en el proceso.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gl3PbAGVj1Y1jNTSvotzcFhnbsU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lN9xTlEZhDuuu4WprTO4v2Ue3e0.png"
     }
   ]
 }
