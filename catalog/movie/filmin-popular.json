@@ -43,6 +43,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
+      "id": "tmdb:1556338",
+      "type": "movie",
+      "name": "Los cantos de Ekai",
+      "ids": {
+        "tmdb": 1556338
+      },
+      "overview": "Ekai esconde un secreto inconfesable que le ha hecho perder la voz. Vive aislado en una institución junto a otros seres con cuerpos y mentes discapacitados considerados anormales. Su ansia de belleza y amor le permite recuperar la memoria, en la que no hay una distinción clara entre la realidad y los sueños.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/hizUbAtHHOrmt3vnERnCj6eEqxn.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:496243",
+      "type": "movie",
+      "name": "Parásitos",
+      "ids": {
+        "tmdb": 496243
+      },
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+    },
+    {
       "id": "tmdb:1171296",
       "type": "movie",
       "name": "Baltimore",
@@ -57,18 +83,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ftS1ArQkK7sGYR4aRyFGrto1l1k.png"
     },
     {
-      "id": "tmdb:1556338",
-      "type": "movie",
-      "name": "Los cantos de Ekai",
-      "ids": {
-        "tmdb": 1556338
-      },
-      "overview": "Ekai esconde un secreto inconfesable que le ha hecho perder la voz. Vive aislado en una institución junto a otros seres con cuerpos y mentes discapacitados considerados anormales. Su ansia de belleza y amor le permite recuperar la memoria, en la que no hay una distinción clara entre la realidad y los sueños.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/hizUbAtHHOrmt3vnERnCj6eEqxn.jpg",
-      "posterShape": "poster"
-    },
-    {
       "id": "tmdb:808",
       "type": "movie",
       "name": "Shrek",
@@ -81,20 +95,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
-      "id": "tmdb:105",
-      "type": "movie",
-      "name": "Regreso al futuro",
-      "ids": {
-        "tmdb": 105
-      },
-      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
       "id": "tmdb:592695",
@@ -125,18 +125,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
     },
     {
-      "id": "tmdb:496243",
+      "id": "tmdb:105",
       "type": "movie",
-      "name": "Parásitos",
+      "name": "Regreso al futuro",
       "ids": {
-        "tmdb": 496243
+        "tmdb": 105
       },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
       "id": "tmdb:539",
@@ -167,34 +167,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
-      "id": "tmdb:578",
-      "type": "movie",
-      "name": "Tiburón",
-      "ids": {
-        "tmdb": 578
-      },
-      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
-    },
-    {
-      "id": "tmdb:98",
-      "type": "movie",
-      "name": "Gladiator",
-      "ids": {
-        "tmdb": 98
-      },
-      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
-    },
-    {
       "id": "tmdb:497",
       "type": "movie",
       "name": "La milla verde",
@@ -223,6 +195,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
+      "id": "tmdb:948549",
+      "type": "movie",
+      "name": "Sangre en los labios",
+      "ids": {
+        "tmdb": 948549
+      },
+      "overview": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una competición. En su camino, pasa por un pequeño pueblo de Nuevo México donde conoce a Lou, la solitaria gerente del gimnasio local. El padre de Lou es traficante de armas y lleva las riendas de un sindicato del crimen. Jackie y Lou se enamoran. Pero su relación provoca violencia y ambas se ven inmersas en las maquinaciones de la familia de Lou.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/3AkkoH4J5ZCT9M4ESiXHZsI5Se8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nIf8XJH7PXhI9UypvwW57g4N82h.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Wetxvm03JERwnSaDwnoIbBAWO.png"
+    },
+    {
+      "id": "tmdb:98",
+      "type": "movie",
+      "name": "Gladiator",
+      "ids": {
+        "tmdb": 98
+      },
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+    },
+    {
       "id": "tmdb:396535",
       "type": "movie",
       "name": "Train to Busan",
@@ -235,6 +235,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6B9HaZYBG1ugyd5g6at6F3n4wOw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
+    },
+    {
+      "id": "tmdb:578",
+      "type": "movie",
+      "name": "Tiburón",
+      "ids": {
+        "tmdb": 578
+      },
+      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
     },
     {
       "id": "tmdb:111",
@@ -251,32 +265,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
     },
     {
-      "id": "tmdb:948549",
+      "id": "tmdb:119826",
       "type": "movie",
-      "name": "Sangre en los labios",
+      "name": "The Unspeakable Act",
       "ids": {
-        "tmdb": 948549
+        "tmdb": 119826
       },
-      "overview": "Jackie está decidida a triunfar como culturista y se dirige a Las Vegas para participar en una competición. En su camino, pasa por un pequeño pueblo de Nuevo México donde conoce a Lou, la solitaria gerente del gimnasio local. El padre de Lou es traficante de armas y lleva las riendas de un sindicato del crimen. Jackie y Lou se enamoran. Pero su relación provoca violencia y ambas se ven inmersas en las maquinaciones de la familia de Lou.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/3AkkoH4J5ZCT9M4ESiXHZsI5Se8.jpg",
+      "overview": "Jackie Kimball es una adolescente como cualquier otra, salvo en un aspecto: se ha pasado toda su vida enamorada de su hermano Matthew, un año mayor que ella.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/gywbnw6tapM8NYupRUYi6RpkCQF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nIf8XJH7PXhI9UypvwW57g4N82h.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Wetxvm03JERwnSaDwnoIbBAWO.png"
-    },
-    {
-      "id": "tmdb:467244",
-      "type": "movie",
-      "name": "La zona de interés",
-      "ids": {
-        "tmdb": 467244
-      },
-      "overview": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5gVfBQR5Alj1bKZ4vXad2LlGm9Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9dLB8byi9gYVIYAUSfJFBLvXNW8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mv75gHAuF6GhrTwkv5UKgk5rd5k.jpg"
     },
     {
       "id": "tmdb:4995",
@@ -293,31 +292,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/81p3jVcbbjevvLs6pF4oJfSFdaw.png"
     },
     {
-      "id": "tmdb:119826",
+      "id": "tmdb:112160",
       "type": "movie",
-      "name": "The Unspeakable Act",
+      "name": "Crónicas sexuales de una familia francesa",
       "ids": {
-        "tmdb": 119826
+        "tmdb": 112160
       },
-      "overview": "Jackie Kimball es una adolescente como cualquier otra, salvo en un aspecto: se ha pasado toda su vida enamorada de su hermano Matthew, un año mayor que ella.",
+      "overview": "Como cualquier adolescente virgen de 18 años Romain se siente sólo y deprimido. Al vivir una experiencia traumática en la escuela su madre Claire decide que a partir de ahora las cosas deben cambiar en el seno de la familia y adoptar una visión mucho más abierta sobre el tema tabú en la familia: el sexo.\r Romain busca una amante desesperadamente, su hermano y su hermana mayor buscan nuevas experiencias sexuales que alimenten su cruel rutina, su abuelo viudo visita con regularidad a una prostituta en busca de sexo salvaje y duro olvido y Claire y su padre buscan a través de la sexualidad intentar romper con la monotonía, aquella que cuando eran jóvenes jamás pensaban que alcanzarían algún dia.\r Pascal Arnold y Jean-Marc Barr, directores del filme, buscan innovar con una nueva manera de ver el sexo. En lugar de verlo como algo prohibido y censurado, muestran las relaciones humanas de una familia junto con aquello considerado tabú para casi cualquier entorno familiar: la sexualidad en sí.",
       "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/gywbnw6tapM8NYupRUYi6RpkCQF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9rDWwyqUXsJIiCbFL8QGzSlXzae.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mv75gHAuF6GhrTwkv5UKgk5rd5k.jpg"
-    },
-    {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gvtGBiE4r2xCVp0qR0mbM85Doxp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xSwqMBl5kMqaenFS8OCgE37v7ao.png"
     },
     {
       "id": "tmdb:424",
@@ -334,60 +320,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
     },
     {
-      "id": "tmdb:112160",
+      "id": "tmdb:218",
       "type": "movie",
-      "name": "Crónicas sexuales de una familia francesa",
+      "name": "Terminator",
       "ids": {
-        "tmdb": 112160
+        "tmdb": 218
       },
-      "overview": "Como cualquier adolescente virgen de 18 años Romain se siente sólo y deprimido. Al vivir una experiencia traumática en la escuela su madre Claire decide que a partir de ahora las cosas deben cambiar en el seno de la familia y adoptar una visión mucho más abierta sobre el tema tabú en la familia: el sexo.\r Romain busca una amante desesperadamente, su hermano y su hermana mayor buscan nuevas experiencias sexuales que alimenten su cruel rutina, su abuelo viudo visita con regularidad a una prostituta en busca de sexo salvaje y duro olvido y Claire y su padre buscan a través de la sexualidad intentar romper con la monotonía, aquella que cuando eran jóvenes jamás pensaban que alcanzarían algún dia.\r Pascal Arnold y Jean-Marc Barr, directores del filme, buscan innovar con una nueva manera de ver el sexo. En lugar de verlo como algo prohibido y censurado, muestran las relaciones humanas de una familia junto con aquello considerado tabú para casi cualquier entorno familiar: la sexualidad en sí.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/9rDWwyqUXsJIiCbFL8QGzSlXzae.jpg",
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gvtGBiE4r2xCVp0qR0mbM85Doxp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xSwqMBl5kMqaenFS8OCgE37v7ao.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
     },
     {
-      "id": "tmdb:152603",
+      "id": "tmdb:467244",
       "type": "movie",
-      "name": "Sólo los amantes sobreviven",
+      "name": "La zona de interés",
       "ids": {
-        "tmdb": 152603
+        "tmdb": 467244
       },
-      "overview": "Adam es un músico \"underground\" deprimido y decepcionado por la situación que está viviendo a consecuencia de las últimas actividades humanas. Adam y Eve, su amante desde hace siglos, son dos vampiros apasionados por la literatura y la música que luchan por sobrevivir en un mundo donde los seres humanos son simples zombies cuya sangre es incomestible para ellos. Pero el feliz romance pronto se ve alterado por la llegada de la incontrolable hermana pequeña de Eve, que intentará por todos los medios acabar con su relación.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dz9ymSb1YoBwHkiaHfvPttM0v7J.jpg",
+      "overview": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4bLzV2FYAWwubSL5rxNPBcUMYpB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rnX5Y15RwL8cBwy1SPSjiQIzOqy.png"
-    },
-    {
-      "id": "tmdb:297",
-      "type": "movie",
-      "name": "¿Conoces a Joe Black?",
-      "ids": {
-        "tmdb": 297
-      },
-      "overview": "William Parrish es un poderoso y meticuloso magnate cuya vida se ve alterada por la llegada de un enigmático joven llamado Joe Black que se enamora de su hija. Se trata, en realidad, de la personificación de la muerte, con una misión que cumplir en dicho hogar. Versión del filme de 1934 \"La muerte de vacaciones\".",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/z2jzFfXTXnZ7oytCiIEieSXDb1b.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wkgLWfSwcKLwtlXzNQ1AaVwvAQD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/icsJmZOTNza8LSameEbs0cTl9gP.png"
-    },
-    {
-      "id": "tmdb:38",
-      "type": "movie",
-      "name": "¡Olvídate de mí!",
-      "ids": {
-        "tmdb": 38
-      },
-      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/l5yopdLguxJsJVmMK3RgMCW2JmJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kdQhNomrPtnWEfqn2ujafIRsgRg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lnCHPBafPTztZ3OFt3axPNqGjhE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5gVfBQR5Alj1bKZ4vXad2LlGm9Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9dLB8byi9gYVIYAUSfJFBLvXNW8.png"
     },
     {
       "id": "tmdb:195173",
@@ -401,19 +359,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/lN6hadvVMKjcoi2dgKsT2niB8bB.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/h2qMyqJh5WsYLf8Ex876voDVEFa.jpg"
-    },
-    {
-      "id": "tmdb:1025802",
-      "type": "movie",
-      "name": "Drifter",
-      "ids": {
-        "tmdb": 1025802
-      },
-      "overview": "Moritz se ha mudado a Berlín para estar con el novio, pero la relación pronto termina. El joven se embarca en un viaje lleno de tropiezos, metamorfosis y autodescubrimiento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qGNPLBpXooPkCd487SO5oUnzSz3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lrL1GmwbDgGJX90CKHL899LQqTb.jpg"
     },
     {
       "id": "tmdb:545611",
@@ -430,199 +375,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
     },
     {
-      "id": "tmdb:463387",
+      "id": "tmdb:38",
       "type": "movie",
-      "name": "Un pueblo y su rey",
+      "name": "¡Olvídate de mí!",
       "ids": {
-        "tmdb": 463387
+        "tmdb": 38
       },
-      "overview": "París, 1789. La Bastilla ha sido tomada y un soplo de libertad invade las calles de París. Françoise (Adèle Haenel), una joven lavandera, y Basile (Gaspard Ulliel), sin familia ni apellido, descubren la euforia del amor y la revolución. Con sus amigos y la gente humilde de París, perseguirán sus sueños de emancipación en la recién formada Asamblea, que será el germen de un nuevo sistema político.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2F5YUGShG7ICAcPhr9lgf6EROxb.jpg",
+      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/l5yopdLguxJsJVmMK3RgMCW2JmJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hAMF1mwGCHkxTmhsZxXb3FalUcP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qiNTnKarA8mER11T5KzkWd2Fokl.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kdQhNomrPtnWEfqn2ujafIRsgRg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lnCHPBafPTztZ3OFt3axPNqGjhE.png"
     },
     {
-      "id": "tmdb:1091",
+      "id": "tmdb:297",
       "type": "movie",
-      "name": "La cosa (El enigma de otro mundo)",
+      "name": "¿Conoces a Joe Black?",
       "ids": {
-        "tmdb": 1091
+        "tmdb": 297
       },
-      "overview": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "overview": "William Parrish es un poderoso y meticuloso magnate cuya vida se ve alterada por la llegada de un enigmático joven llamado Joe Black que se enamora de su hija. Se trata, en realidad, de la personificación de la muerte, con una misión que cumplir en dicho hogar. Versión del filme de 1934 \"La muerte de vacaciones\".",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/z2jzFfXTXnZ7oytCiIEieSXDb1b.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vTD26SaVDTzyQu8WZteZBREBFRz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
-    },
-    {
-      "id": "tmdb:519465",
-      "type": "movie",
-      "name": "Reina de corazones",
-      "ids": {
-        "tmdb": 519465
-      },
-      "overview": "Annie es una exitosa abogada que vive en una casa de estilo modernista con sus dos hijas y su marido Peter, un reputado físico. La aparición de Gustav, un hijo que pertenece a una relación previa de Peter, pone patas arriba la armonía que reina en la vida de Annie. Lo que en un principio parece ser un movimiento liberador para ella, pronto se convierte en una historia de poder y traición que tendrá consecuencias devastadoras en su vida.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dnbZXUwp7ZGNZnPeBxXA1HHxsab.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
-    },
-    {
-      "id": "tmdb:420940",
-      "type": "movie",
-      "name": "Best. Partee. Ever.",
-      "ids": {
-        "tmdb": 420940
-      },
-      "overview": "Mikey, a young, discreet, gay man from the affluent class, spends five years in a city jail while hearing his case for drug pushing. Inside prison, Mikey holds back to adapt to the culture and stratification among inmates. Eventually, Mikey becomes a ‘Mayor’ (ring leader) to a group of gay inmates called “Gang-da”. Together, they thrive to survive the dangers of several gang riots, the mundane, and the decay of human dignity.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/hlN284iM5BcTK4HZel8lPfEg8ze.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zCxnfeo7ckbKNue5nLB5V526ySN.jpg"
-    },
-    {
-      "id": "tmdb:601",
-      "type": "movie",
-      "name": "E.T. el extraterrestre",
-      "ids": {
-        "tmdb": 601
-      },
-      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-    },
-    {
-      "id": "tmdb:138697",
-      "type": "movie",
-      "name": "Don Jon",
-      "ids": {
-        "tmdb": 138697
-      },
-      "overview": "Jon Martello (Joseph Gordon-Levitt), un joven adicto al sexo en general y al porno en particular, intenta ejercer algún tipo de control sobre sí mismo. Jon tiende a deshumanizarlo todo: su apartamento, su coche, su familia, su iglesia y las mujeres. Sin embargo, hasta los ligues más sofisticados no pueden compararse con el placer que obtiene viendo pornografía en su ordenador. Insatisfecho con su vida, decide cambiar. Gracias a la relación con dos mujeres muy distintas, Barbara (Scarlett Johansson) y Esther (Julianne Moore), aprenderá grandes lecciones sobre la vida y el amor.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/asp3YRMj24YV5x0QChTvkFIChu9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ngAg1H6ZaDIAdJtbXi6qm3vzcuI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ylfAIKoNKpknNOeCsKBmZzvEjgq.png"
-    },
-    {
-      "id": "tmdb:475928",
-      "type": "movie",
-      "name": "La última lección",
-      "ids": {
-        "tmdb": 475928
-      },
-      "overview": "Pierre Hoffman se incorpora a una prestigiosa escuela como profesor sustituto y pronto nota, entre algunos de sus alumnos, una hostilidad injustificada y una chispa de violencia en sus ojos. ¿Se debe a la tragedia indescriptible que acaban de vivir? ¿Es porque parecen ser niños extraordinariamente dotados? ¿Es porque han perdido toda esperanza en el futuro? De la curiosidad a la obsesión, Pierre intentará desvelar su secreto.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/j9YD107t6pdHAyETihzGVYlarbs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ir2QkShKFpOAYtMBtfIXcVl13sO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wEIsH2T6GsWhoY9GuUsubSrbn8.png"
-    },
-    {
-      "id": "tmdb:27578",
-      "type": "movie",
-      "name": "Los mercenarios",
-      "ids": {
-        "tmdb": 27578
-      },
-      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
-    },
-    {
-      "id": "tmdb:420634",
-      "type": "movie",
-      "name": "Terrifier",
-      "ids": {
-        "tmdb": 420634
-      },
-      "overview": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gEZgH5A2TUy6oBMjkDasx3LEFHT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aTcXI4aRuOq62YT7IVJcpAhttBs.png"
-    },
-    {
-      "id": "tmdb:990140",
-      "type": "movie",
-      "name": "Sakra",
-      "ids": {
-        "tmdb": 990140
-      },
-      "overview": "Basada en la clásica novela wuxia \"Demi-Gods and Semi-Devils\" de Louis Cha (conocido mundialmente por su seudónimo Jin Yong), SAKRA está protagonizada por Donnie Yen como Qiao Feng, el respetado líder de una banda ambulante de artistas marciales. Tras ser acusado injustamente de asesinato y posteriormente exiliado, Qiao Feng emprende una huida en busca de respuestas sobre su misterioso origen y los enemigos desconocidos que buscan destruirlo desde las sombras. A lo largo de su búsqueda, descubrirá detalles reveladores que podrían cambiar su vida para siempre.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/pEqixl0Po2nK2vGJdQdUME3zjfJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zhVCJ14a1EbzfYQFUgyujcQZLuL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pqu3S5zlYRt9oPXmC4OI1r4dml5.png"
-    },
-    {
-      "id": "tmdb:1232827",
-      "type": "movie",
-      "name": "La chica de la aguja",
-      "ids": {
-        "tmdb": 1232827
-      },
-      "overview": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/aU3p3NC3btVtLnA8LVI48asdlfI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yOuaqanFijSkw886MZjMsH3Bnwm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/98kIOi2DQw7oRx8KseZ6x3tHeWD.png"
-    },
-    {
-      "id": "tmdb:84636",
-      "type": "movie",
-      "name": "Una Historia Inmortal",
-      "ids": {
-        "tmdb": 84636
-      },
-      "overview": "En el Macao del siglo XIX, un rico comerciante está obsesionado con una antigua leyenda que corre de boca en boca entre los marineros. La de un hombre rico que pagó a un marinero pobre 5 guineas para engendrar a un niño con su joven esposa.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/cI0IdXJWemWTyombF1n1FwK6KYT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ujgCXF6k7rHhuoIz00oePW0Vely.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/r7Q5ARe7hx5bF1EScKHAamluwhe.png"
-    },
-    {
-      "id": "tmdb:8871",
-      "type": "movie",
-      "name": "El Grinch",
-      "ids": {
-        "tmdb": 8871
-      },
-      "overview": "Cada año, en Navidad, los lugareños perturban su pacífica soledad con celebraciones cada vez más desmesuradas, luminosas y ruidosas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciéndose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quién, una dulce niña llamada Cindy-Lou, desbordante de espíritu navideño, planea con sus amigos atrapar a Papá Noel durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche mágica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho más perversas.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
-    },
-    {
-      "id": "tmdb:1278",
-      "type": "movie",
-      "name": "Soñadores",
-      "ids": {
-        "tmdb": 1278
-      },
-      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wkgLWfSwcKLwtlXzNQ1AaVwvAQD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/icsJmZOTNza8LSameEbs0cTl9gP.png"
     },
     {
       "id": "tmdb:718032",
@@ -639,18 +417,129 @@
       "logo": "https://image.tmdb.org/t/p/w500/n4EmQsvt8wawS7oMmU6jIeVgEY.png"
     },
     {
-      "id": "tmdb:67612",
+      "id": "tmdb:1050035",
       "type": "movie",
-      "name": "Dios y el Diablo en la tierra del Sol",
+      "name": "Monstruo",
       "ids": {
-        "tmdb": 67612
+        "tmdb": 1050035
       },
-      "overview": "Dios y el diablo en la tierra del sol (Deus e o diabo na terra do Sol), el segundo largometraje de Rocha, pertenece a este movimiento renovador del cine brasilero que influirá por años en otros autores latinoamericanos. Inspirado en la \"Estética de la violencia\", apela al signo que, según Rocha, caracteriza a su pueblo, el hambre, que a la vez es su originalidad, pues el hambre convoca a una violencia transformadora que se convierte en  acto revolucionario, donde el colonizador llega a tomar conciencia de la existencia del colonizado.",
-      "year": 1964,
-      "poster": "https://image.tmdb.org/t/p/w342/lAM5RnCNXUKngIz0ITS3D3xpzkU.jpg",
+      "overview": "Cuando su joven hijo Minato empieza a comportarse de forma extraña, su madre siente que algo va mal. Al descubrir que el responsable de todo ello es un profesor, irrumpe en la escuela exigiendo saber qué está pasando. Pero a medida que la historia se desarrolla a través de los ojos de la madre, el profesor y el niño, la verdad va saliendo a la luz, poco a poco...",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/8frC5TllwK0jnQCqgZDE8xzsT5b.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sDKHdt84JGzfxAJp2vqLdVzPj0Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/riksYyNNlxIs9p1zbOte9uKLkRe.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rFhFSO0SM2eBENNlTUGuNw0g3eN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwwMbeCyFzI9my4zuTqn4BzHWa1.png"
+    },
+    {
+      "id": "tmdb:1025802",
+      "type": "movie",
+      "name": "Drifter",
+      "ids": {
+        "tmdb": 1025802
+      },
+      "overview": "Moritz se ha mudado a Berlín para estar con el novio, pero la relación pronto termina. El joven se embarca en un viaje lleno de tropiezos, metamorfosis y autodescubrimiento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qGNPLBpXooPkCd487SO5oUnzSz3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lrL1GmwbDgGJX90CKHL899LQqTb.jpg"
+    },
+    {
+      "id": "tmdb:15383",
+      "type": "movie",
+      "name": "El ejército de las sombras",
+      "ids": {
+        "tmdb": 15383
+      },
+      "overview": "Philippe Gerbier es un ingeniero civil que ha entregado todos sus esfuerzos a la valerosa resistencia francesa, de la que es uno de sus máximos responsables. Pero llega el día en que la policía colaboracionista le captura, siendo retenido en un campo de concentración bajo atenta vigilancia. Tras un traslado logrará escapar improvisando una fuga relámpago. A partir de ese momento viviremos con su testimonio el día a día de la resistencia y sus dificultades ante el poderoso invasor.",
+      "year": 1969,
+      "poster": "https://image.tmdb.org/t/p/w342/4BK3fC1MbazERtphugXNqqxmtJD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yD8bGwzNQ36JcFZW6Pd8KEIBRuI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3l1DdMn36zhvQRpb6vzphG4pNLN.png"
+    },
+    {
+      "id": "tmdb:138697",
+      "type": "movie",
+      "name": "Don Jon",
+      "ids": {
+        "tmdb": 138697
+      },
+      "overview": "Jon Martello (Joseph Gordon-Levitt), un joven adicto al sexo en general y al porno en particular, intenta ejercer algún tipo de control sobre sí mismo. Jon tiende a deshumanizarlo todo: su apartamento, su coche, su familia, su iglesia y las mujeres. Sin embargo, hasta los ligues más sofisticados no pueden compararse con el placer que obtiene viendo pornografía en su ordenador. Insatisfecho con su vida, decide cambiar. Gracias a la relación con dos mujeres muy distintas, Barbara (Scarlett Johansson) y Esther (Julianne Moore), aprenderá grandes lecciones sobre la vida y el amor.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/asp3YRMj24YV5x0QChTvkFIChu9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ngAg1H6ZaDIAdJtbXi6qm3vzcuI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ylfAIKoNKpknNOeCsKBmZzvEjgq.png"
+    },
+    {
+      "id": "tmdb:1232827",
+      "type": "movie",
+      "name": "La chica de la aguja",
+      "ids": {
+        "tmdb": 1232827
+      },
+      "overview": "Una joven embarazada que acaba de quedarse sin trabajo en Copenhague lucha por sobrevivir y es acogida por un anciano carismático para que la ayude a dirigir una agencia de adopción clandestina. Entre los dos se crea un vínculo inesperado, hasta que un descubrimiento repentino lo cambia todo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/aU3p3NC3btVtLnA8LVI48asdlfI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yOuaqanFijSkw886MZjMsH3Bnwm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/98kIOi2DQw7oRx8KseZ6x3tHeWD.png"
+    },
+    {
+      "id": "tmdb:990140",
+      "type": "movie",
+      "name": "Sakra",
+      "ids": {
+        "tmdb": 990140
+      },
+      "overview": "Basada en la clásica novela wuxia \"Demi-Gods and Semi-Devils\" de Louis Cha (conocido mundialmente por su seudónimo Jin Yong), SAKRA está protagonizada por Donnie Yen como Qiao Feng, el respetado líder de una banda ambulante de artistas marciales. Tras ser acusado injustamente de asesinato y posteriormente exiliado, Qiao Feng emprende una huida en busca de respuestas sobre su misterioso origen y los enemigos desconocidos que buscan destruirlo desde las sombras. A lo largo de su búsqueda, descubrirá detalles reveladores que podrían cambiar su vida para siempre.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/pEqixl0Po2nK2vGJdQdUME3zjfJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zhVCJ14a1EbzfYQFUgyujcQZLuL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pqu3S5zlYRt9oPXmC4OI1r4dml5.png"
+    },
+    {
+      "id": "tmdb:1278",
+      "type": "movie",
+      "name": "Soñadores",
+      "ids": {
+        "tmdb": 1278
+      },
+      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
+    },
+    {
+      "id": "tmdb:4348",
+      "type": "movie",
+      "name": "Orgullo y prejuicio",
+      "ids": {
+        "tmdb": 4348
+      },
+      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+    },
+    {
+      "id": "tmdb:420634",
+      "type": "movie",
+      "name": "Terrifier",
+      "ids": {
+        "tmdb": 420634
+      },
+      "overview": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gEZgH5A2TUy6oBMjkDasx3LEFHT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aTcXI4aRuOq62YT7IVJcpAhttBs.png"
     },
     {
       "id": "tmdb:142",
@@ -667,32 +556,143 @@
       "logo": "https://image.tmdb.org/t/p/w500/9o2cSvFkP2g4V9OJsj3pNeIv0vo.png"
     },
     {
-      "id": "tmdb:67659",
+      "id": "tmdb:27578",
       "type": "movie",
-      "name": "Los cañones de San Sebastián",
+      "name": "Los mercenarios",
       "ids": {
-        "tmdb": 67659
+        "tmdb": 27578
       },
-      "overview": "En 1750, León, un patriota rebelde que ha sido herido, huye por las calles de un pueblo mejicano y se refugia en la iglesia, donde el padre José, un viejo franciscano, lo acoge y se niega terminantemente a entregarlo a las autoridades. Condenados los dos al destierro, no tienen más salida que refugiarse en San Sebastián, un mísero y apartado poblado, donde se verán acosados por toda clase de peligros.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/lC8uEGJGKTSKsToieEdJwk57TlC.jpg",
+      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zv8NO15BTxMX4ASwVFRRtifWNO7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3QPajW3xwnwkdydFduiiuk9qD5t.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:794842",
+      "id": "tmdb:463387",
       "type": "movie",
-      "name": "Crónica de un amor efímero",
+      "name": "Un pueblo y su rey",
       "ids": {
-        "tmdb": 794842
+        "tmdb": 463387
       },
-      "overview": "Una madre soltera y un hombre casado se vuelven amantes. Están comprometidos a verse solo por una aventura y no a encontrar ninguna esperanza de amor, sabiendo muy bien que la relación no tiene futuro. Sin embargo, cada vez se sorprenden más por su comprensión, su complicidad y el bienestar que experimentan juntos.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/wH6eWT2tEf0AItvgDeZ6ubgRCBa.jpg",
+      "overview": "París, 1789. La Bastilla ha sido tomada y un soplo de libertad invade las calles de París. Françoise (Adèle Haenel), una joven lavandera, y Basile (Gaspard Ulliel), sin familia ni apellido, descubren la euforia del amor y la revolución. Con sus amigos y la gente humilde de París, perseguirán sus sueños de emancipación en la recién formada Asamblea, que será el germen de un nuevo sistema político.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2F5YUGShG7ICAcPhr9lgf6EROxb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gANgoeMVC39N8t8DlIjLyjQfSqg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hlyRDSSniNdrZcf2aqiCD3kgzyV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hAMF1mwGCHkxTmhsZxXb3FalUcP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qiNTnKarA8mER11T5KzkWd2Fokl.png"
+    },
+    {
+      "id": "tmdb:8871",
+      "type": "movie",
+      "name": "El Grinch",
+      "ids": {
+        "tmdb": 8871
+      },
+      "overview": "Cada año, en Navidad, los lugareños perturban su pacífica soledad con celebraciones cada vez más desmesuradas, luminosas y ruidosas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciéndose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quién, una dulce niña llamada Cindy-Lou, desbordante de espíritu navideño, planea con sus amigos atrapar a Papá Noel durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche mágica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho más perversas.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
+    },
+    {
+      "id": "tmdb:1091",
+      "type": "movie",
+      "name": "La cosa (El enigma de otro mundo)",
+      "ids": {
+        "tmdb": 1091
+      },
+      "overview": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vTD26SaVDTzyQu8WZteZBREBFRz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
+    },
+    {
+      "id": "tmdb:420940",
+      "type": "movie",
+      "name": "Best. Partee. Ever.",
+      "ids": {
+        "tmdb": 420940
+      },
+      "overview": "Mikey, a young, discreet, gay man from the affluent class, spends five years in a city jail while hearing his case for drug pushing. Inside prison, Mikey holds back to adapt to the culture and stratification among inmates. Eventually, Mikey becomes a ‘Mayor’ (ring leader) to a group of gay inmates called “Gang-da”. Together, they thrive to survive the dangers of several gang riots, the mundane, and the decay of human dignity.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/hlN284iM5BcTK4HZel8lPfEg8ze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zCxnfeo7ckbKNue5nLB5V526ySN.jpg"
+    },
+    {
+      "id": "tmdb:509",
+      "type": "movie",
+      "name": "Notting Hill",
+      "ids": {
+        "tmdb": 509
+      },
+      "overview": "La historia se centra en William, propietario de una tienda de libros en el popular barrio londinense de Notting Hill, y Anna Scott, la estrella más rutilante del firmamento cinematográfico. Desde el momento en que la actriz entra en la tienda, William se embarca en un cortejo complicado, para el cual cuenta con la inestimable ayuda de sus inseparables amigos, entre los que destaca su compañero de piso el singular Spike, que observa con asombro e incredulidad cómo el bueno de William tiene un romance con una mujer inalcanzable para cualquier otro ser humano.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/8JBfE9HYudCyosnchh1aZqj0xcM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5RJ0TxTKSTgtipsrCethrWTpnv3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/szKQKUs01t7a0NYIRqo1XrwSQxK.png"
+    },
+    {
+      "id": "tmdb:475928",
+      "type": "movie",
+      "name": "La última lección",
+      "ids": {
+        "tmdb": 475928
+      },
+      "overview": "Pierre Hoffman se incorpora a una prestigiosa escuela como profesor sustituto y pronto nota, entre algunos de sus alumnos, una hostilidad injustificada y una chispa de violencia en sus ojos. ¿Se debe a la tragedia indescriptible que acaban de vivir? ¿Es porque parecen ser niños extraordinariamente dotados? ¿Es porque han perdido toda esperanza en el futuro? De la curiosidad a la obsesión, Pierre intentará desvelar su secreto.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/j9YD107t6pdHAyETihzGVYlarbs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ir2QkShKFpOAYtMBtfIXcVl13sO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wEIsH2T6GsWhoY9GuUsubSrbn8.png"
+    },
+    {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T. el extraterrestre",
+      "ids": {
+        "tmdb": 601
+      },
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+    },
+    {
+      "id": "tmdb:956957",
+      "type": "movie",
+      "name": "El sexto hijo",
+      "ids": {
+        "tmdb": 956957
+      },
+      "overview": "Franck, un chatarrero, y su esposa Meriem, tienen cinco hijos y uno más en camino. Julien y Anna, abogados, no pueden tener hijos. Franck y Julien se conocen en un juicio donde son cliente y abogado, lo que da inicio a un acuerdo impensable entre ambas familias.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/uIp3OdqTYRdsa2B1oKVZiiOtvxZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eollN6ePr9csVdAj1IfnGu9kuMq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lGwWO1PykQm5vIMXV5ax81KsBKu.png"
+    },
+    {
+      "id": "tmdb:979",
+      "type": "movie",
+      "name": "Irreversible",
+      "ids": {
+        "tmdb": 979
+      },
+      "overview": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9mkFblgXMi6g95FKQ7WVd4Dwj2e.png"
     }
   ]
 }
