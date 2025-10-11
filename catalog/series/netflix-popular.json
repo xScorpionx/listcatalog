@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/nqVGzs0oERUcnyJgyiDe3OW994c.png"
     },
     {
-      "id": "tmdb:1405",
-      "type": "series",
-      "name": "Dexter",
-      "ids": {
-        "tmdb": 1405
-      },
-      "overview": "Serie de suspense que narra la historia de un hombre extraño llamado Dexter Morgan. Cuando era niño, Dexter fue maltratado y abandonado por sus padres, ahora es un exitoso e importante forense patológico... pero bajo su carismática personalidad, se esconde una terrible verdad. Dexter ha canalizado sus innatas necesidades homicidas en una segunda profesión que guarda celosamente en secreto: buscar, dar caza y asesinar brutalmente a despiadados criminales.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5PBWovhpRsUeLMGBZIkacr9dp24.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
-    },
-    {
       "id": "tmdb:228689",
       "type": "series",
       "name": "El Genio y los Deseos",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/gvAliVCWYodTD5JLbtsY4s3YAD9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nYP4V2OIJjfouRjJiyMiSDYccb5.png"
+    },
+    {
+      "id": "tmdb:1405",
+      "type": "series",
+      "name": "Dexter",
+      "ids": {
+        "tmdb": 1405
+      },
+      "overview": "Serie de suspense que narra la historia de un hombre extraño llamado Dexter Morgan. Cuando era niño, Dexter fue maltratado y abandonado por sus padres, ahora es un exitoso e importante forense patológico... pero bajo su carismática personalidad, se esconde una terrible verdad. Dexter ha canalizado sus innatas necesidades homicidas en una segunda profesión que guarda celosamente en secreto: buscar, dar caza y asesinar brutalmente a despiadados criminales.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5PBWovhpRsUeLMGBZIkacr9dp24.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
     },
     {
       "id": "tmdb:79744",
@@ -141,20 +141,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
     },
     {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
       "id": "tmdb:66732",
       "type": "series",
       "name": "Stranger Things",
@@ -167,6 +153,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lrDYkVklLJOaab5IATBmoEaeMk6.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:37680",
@@ -309,6 +309,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/ivkt4d2ffX9scRGzc0BYAq23j2A.png"
     },
     {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
       "id": "tmdb:71790",
       "type": "series",
       "name": "S.W.A.T.: Los hombres de Harrelson",
@@ -337,34 +365,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
-      "id": "tmdb:4586",
-      "type": "series",
-      "name": "Las chicas Gilmore",
-      "ids": {
-        "tmdb": 4586
-      },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
-    },
-    {
-      "id": "tmdb:280945",
-      "type": "series",
-      "name": "Bon appétit, majestad",
-      "ids": {
-        "tmdb": 280945
-      },
-      "overview": "Una chef de talento viaja en el tiempo y conoce a un rey tiránico. Con sus platos modernos, logra cautivar su paladar, pero le esperan desafíos muy reales.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/xnDFKpPeANnUaRmlNev4LBXogvb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r4zdLKWNIEBozeDC6YBZqj66b7c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fsZgVf9iV1ARcMBZ3CnmJUaRd7r.png"
-    },
-    {
       "id": "tmdb:60574",
       "type": "series",
       "name": "Peaky Blinders",
@@ -377,20 +377,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
-    },
-    {
-      "id": "tmdb:71712",
-      "type": "series",
-      "name": "The Good Doctor",
-      "ids": {
-        "tmdb": 71712
-      },
-      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
       "id": "tmdb:245648",
@@ -407,18 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/oODsLHaSdJ7Pz45jzx580SY8pFi.png"
     },
     {
-      "id": "tmdb:95479",
+      "id": "tmdb:71712",
       "type": "series",
-      "name": "Jujutsu Kaisen",
+      "name": "The Good Doctor",
       "ids": {
-        "tmdb": 95479
+        "tmdb": 71712
       },
-      "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
       "id": "tmdb:78191",
@@ -435,32 +421,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
     },
     {
-      "id": "tmdb:46298",
+      "id": "tmdb:280945",
       "type": "series",
-      "name": "Hunter × Hunter",
+      "name": "Bon appétit, majestad",
       "ids": {
-        "tmdb": 46298
+        "tmdb": 280945
       },
-      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+      "overview": "Una chef de talento viaja en el tiempo y conoce a un rey tiránico. Con sus platos modernos, logra cautivar su paladar, pero le esperan desafíos muy reales.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/xnDFKpPeANnUaRmlNev4LBXogvb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/r4zdLKWNIEBozeDC6YBZqj66b7c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fsZgVf9iV1ARcMBZ3CnmJUaRd7r.png"
     },
     {
-      "id": "tmdb:247043",
+      "id": "tmdb:95479",
       "type": "series",
-      "name": "The Ba***ds of Bollywood",
+      "name": "Jujutsu Kaisen",
       "ids": {
-        "tmdb": 247043
+        "tmdb": 95479
       },
-      "overview": "In this high-stakes drama, an ambitious outsider and his friends navigate the chaotic, larger-than-life, yet uncertain world of Bollywood.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg",
+      "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xSRlcTp44wQZFH8ub5Y5qFkhFp6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/75ONVS6b5Pj5DgP0tpxDPslvEIc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
     },
     {
       "id": "tmdb:15226",
@@ -477,6 +463,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/mX37jrDHYdHwuthLzSnVDEOnNU6.png"
     },
     {
+      "id": "tmdb:297464",
+      "type": "series",
+      "name": "La huésped",
+      "ids": {
+        "tmdb": 297464
+      },
+      "overview": "La vida de una pareja que intenta salvar su matrimonio tras una infidelidad da un vuelco cuando una misteriosa mujer del pasado de ella aparece en su casa.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/3mmN6KxbURjPbalFzWIop79SzPa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mUXOqGuB2L4vRZwxtII6dYhd76W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h6Z4NJK2wbPht7uivZCOmygy99w.png"
+    },
+    {
+      "id": "tmdb:46298",
+      "type": "series",
+      "name": "Hunter × Hunter",
+      "ids": {
+        "tmdb": 46298
+      },
+      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
+    },
+    {
       "id": "tmdb:255859",
       "type": "series",
       "name": "Incontrolables",
@@ -489,20 +503,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/iJxnlV4RAYdSB0hlMwly7pRm5cF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dMoj012x8SX7m2yBhoSzCwV7Ngo.png"
-    },
-    {
-      "id": "tmdb:1855",
-      "type": "series",
-      "name": "Star Trek: Voyager",
-      "ids": {
-        "tmdb": 1855
-      },
-      "overview": "Star Trek: Voyager (algunas veces abreviada ST:VOY, ST:VGR, ST:V) es una serie de televisión de ciencia ficción estadounidense, dentro del universo de Star Trek. Esta serie fue creada por Rick Berman, Michael Piller y Jeri Taylor, y es la cuarta serie televisiva de Star Trek, que comenzó en los años 1960 con Star Trek: La Serie Original, creada por Gene Roddenberry. Star Trek Voyager fue producida durante siete temporadas, entre 1995 y 2001, y es la única serie de T.V. de Star Trek en tener una mujer como capitán (Kathryn Janeway).\n\nEsta serie sigue las aventuras de la nave estelar USS Voyager, atrapada en el Cuadrante Delta a 75 mil años luz de la Tierra, mientras perseguía una nave de renegados Maquis. Ambas tripulaciones se unirán para emprender el camino de regreso a casa.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/92PHcK3OHiYkM2ZvCOiRGI5sEcB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGKcKyX4Wf4XGVqp2dTGn0E4Luc.png"
     },
     {
       "id": "tmdb:79746",
@@ -519,6 +519,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/cGb1QXvATgXyElNOEWo3jwts4h7.png"
     },
     {
+      "id": "tmdb:60572",
+      "type": "series",
+      "name": "Pokémon",
+      "ids": {
+        "tmdb": 60572
+      },
+      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
+    },
+    {
       "id": "tmdb:71728",
       "type": "series",
       "name": "El joven Sheldon",
@@ -533,46 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
-      "id": "tmdb:210268",
+      "id": "tmdb:46260",
       "type": "series",
-      "name": "Cenizas del pasado",
+      "name": "Naruto",
       "ids": {
-        "tmdb": 210268
+        "tmdb": 46260
       },
-      "overview": "Su madre asumió la culpa de un trágico incendio hace 13 años. Ahora, Anzu se infiltra como ama de llaves en el hogar de su fría madrastra para vengarse.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/AurLEp91XVWnkgRsn5dR5vkPFYM.jpg",
+      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/67TIJ7dx3P8q2k2e3D7vd4ZOPhg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eacXLo8GPHuKjJe7PEuzk5maN0n.png"
-    },
-    {
-      "id": "tmdb:297464",
-      "type": "series",
-      "name": "La huésped",
-      "ids": {
-        "tmdb": 297464
-      },
-      "overview": "La vida de una pareja que intenta salvar su matrimonio tras una infidelidad da un vuelco cuando una misteriosa mujer del pasado de ella aparece en su casa.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/3mmN6KxbURjPbalFzWIop79SzPa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mUXOqGuB2L4vRZwxtII6dYhd76W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h6Z4NJK2wbPht7uivZCOmygy99w.png"
-    },
-    {
-      "id": "tmdb:60572",
-      "type": "series",
-      "name": "Pokémon",
-      "ids": {
-        "tmdb": 60572
-      },
-      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     },
     {
       "id": "tmdb:253811",
@@ -603,32 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
     },
     {
-      "id": "tmdb:1400",
+      "id": "tmdb:42009",
       "type": "series",
-      "name": "Seinfeld",
+      "name": "Black Mirror",
       "ids": {
-        "tmdb": 1400
+        "tmdb": 42009
       },
-      "overview": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio. Batió todos los récords de audiencia que se pusieron por delante, y aún hoy en día sus reposiciones siguen contando con innumerables seguidores, no en vano \"Seinfeld\" es una verdadera leyenda de la televisión americana. \"Media hora acerca de nada\", así definió Jerry Seinfeld su teleserie cuando la presentó a los ejecutivos de la NBC, a comienzos de 1990. Contra todo pronóstico, ellos aceptaron. No en vano Seinfeld era ya por entonces uno de los cómicos más populares de Estados Unidos. ¿Su secreto? Sacar punta a las rutinas de cada día hasta convertirlas en reflexiones filosóficas dignas de figurar en un tratado sobre las grandezas y las miserias humanas.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kR3rCBnJsq99siYlWhtLxG7XVpH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kMUR0tpFpeSEj8DWlG7I9lPFxS5.png"
-    },
-    {
-      "id": "tmdb:31132",
-      "type": "series",
-      "name": "Historias corrientes",
-      "ids": {
-        "tmdb": 31132
-      },
-      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
     },
     {
       "id": "tmdb:57532",
@@ -645,18 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
-      "id": "tmdb:42009",
+      "id": "tmdb:31132",
       "type": "series",
-      "name": "Black Mirror",
+      "name": "Historias corrientes",
       "ids": {
-        "tmdb": 42009
+        "tmdb": 31132
       },
-      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
     },
     {
       "id": "tmdb:240411",
@@ -673,32 +645,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/A9jO4m2vVmvuEhTMf6E6sK16kMp.png"
     },
     {
-      "id": "tmdb:74016",
+      "id": "tmdb:225634",
       "type": "series",
-      "name": "The Resident",
+      "name": "Monstruos: La historia de Lyle y Erik Menendez",
       "ids": {
-        "tmdb": 74016
+        "tmdb": 225634
       },
-      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "overview": "Este estremecedor drama de crímenes reales investiga la vida de los hermanos Menendez, condenados por el brutal asesinato de sus padres en Beverly Hills en 1989.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/ziGwbvZvcyy8i3cYNUCDLkQGsU0.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/39LxQzH9rTDs9EYC8Qw6fMq7NOj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/28749AAVbrcDnR32RjCDQB2gxxa.png"
     },
     {
-      "id": "tmdb:126280",
+      "id": "tmdb:247043",
       "type": "series",
-      "name": "Sexo-Vida",
+      "name": "The Ba***ds of Bollywood",
       "ids": {
-        "tmdb": 126280
+        "tmdb": 247043
       },
-      "overview": "El atrevido pasado sexual de una mujer choca con su presente de casada con hijos cuando el exchico malo con el que no puede dejar de fantasear vuelve a entrar en su vida.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/7xKl8dPErKtu3wY41dWPnF2IhmC.jpg",
+      "overview": "In this high-stakes drama, an ambitious outsider and his friends navigate the chaotic, larger-than-life, yet uncertain world of Bollywood.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6QFnXFx5XJAp0SxMd9g23cbti4m.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nG8JtLINdnZipsTWlzbVMdqF0fO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pbOk3YxkgPZz95GuGnN3xLQN4UC.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/xSRlcTp44wQZFH8ub5Y5qFkhFp6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/75ONVS6b5Pj5DgP0tpxDPslvEIc.png"
+    },
+    {
+      "id": "tmdb:1855",
+      "type": "series",
+      "name": "Star Trek: Voyager",
+      "ids": {
+        "tmdb": 1855
+      },
+      "overview": "Star Trek: Voyager (algunas veces abreviada ST:VOY, ST:VGR, ST:V) es una serie de televisión de ciencia ficción estadounidense, dentro del universo de Star Trek. Esta serie fue creada por Rick Berman, Michael Piller y Jeri Taylor, y es la cuarta serie televisiva de Star Trek, que comenzó en los años 1960 con Star Trek: La Serie Original, creada por Gene Roddenberry. Star Trek Voyager fue producida durante siete temporadas, entre 1995 y 2001, y es la única serie de T.V. de Star Trek en tener una mujer como capitán (Kathryn Janeway).\n\nEsta serie sigue las aventuras de la nave estelar USS Voyager, atrapada en el Cuadrante Delta a 75 mil años luz de la Tierra, mientras perseguía una nave de renegados Maquis. Ambas tripulaciones se unirán para emprender el camino de regreso a casa.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/92PHcK3OHiYkM2ZvCOiRGI5sEcB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kGKcKyX4Wf4XGVqp2dTGn0E4Luc.png"
+    },
+    {
+      "id": "tmdb:71912",
+      "type": "series",
+      "name": "The Witcher",
+      "ids": {
+        "tmdb": 71912
+      },
+      "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wr4Sxvky6XzOE4KDj3UuEKgiSFj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x3uBgefbFC8blsE4Sbdi0m2a71d.png"
     }
   ]
 }
