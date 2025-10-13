@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:144069",
+      "type": "movie",
+      "name": "La criada",
+      "ids": {
+        "tmdb": 144069
+      },
+      "overview": "Anna (Guerin), la hermosa esposa de un abogado, se siente abandonada por este, por lo que decide irse unos días con su sirvienta (Michelsen) al pueblo natal de esta. A partir de este momento comenzará una extraña relación entre ellas.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/s9pXocmKhkvLazafoL0oUGIn3Me.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/p2bq3g5YfkWIKCjV5i289brZsJR.jpg"
+    },
+    {
       "id": "tmdb:324786",
       "type": "movie",
       "name": "Hasta el último hombre",
@@ -29,17 +42,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
     },
     {
-      "id": "tmdb:144069",
+      "id": "tmdb:8009",
       "type": "movie",
-      "name": "La criada",
+      "name": "Los inmortales",
       "ids": {
-        "tmdb": 144069
+        "tmdb": 8009
       },
-      "overview": "Anna (Guerin), la hermosa esposa de un abogado, se siente abandonada por este, por lo que decide irse unos días con su sirvienta (Michelsen) al pueblo natal de esta. A partir de este momento comenzará una extraña relación entre ellas.",
+      "overview": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio.",
       "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/s9pXocmKhkvLazafoL0oUGIn3Me.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p2bq3g5YfkWIKCjV5i289brZsJR.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jXLmUqThGQNrM5Xcnrj77GtB6Fg.png"
     },
     {
       "id": "tmdb:8689",
@@ -70,6 +84,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/tzlgvs6dXNjk91U96PnVQzHf7A1.png"
     },
     {
+      "id": "tmdb:41446",
+      "type": "movie",
+      "name": "Scream 4",
+      "ids": {
+        "tmdb": 41446
+      },
+      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iUTq54gSisd43xyX6LG9zUHeIE3.png"
+    },
+    {
       "id": "tmdb:530385",
       "type": "movie",
       "name": "Midsommar",
@@ -98,34 +126,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:41446",
-      "type": "movie",
-      "name": "Scream 4",
-      "ids": {
-        "tmdb": 41446
-      },
-      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iUTq54gSisd43xyX6LG9zUHeIE3.png"
-    },
-    {
-      "id": "tmdb:8009",
-      "type": "movie",
-      "name": "Los inmortales",
-      "ids": {
-        "tmdb": 8009
-      },
-      "overview": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jXLmUqThGQNrM5Xcnrj77GtB6Fg.png"
-    },
-    {
       "id": "tmdb:587792",
       "type": "movie",
       "name": "Palm Springs",
@@ -138,34 +138,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/abHa4yfuwX957FLw3FRxZFMENRV.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1O92r8CnyvdEgeda7rOZDYEWNAG.png"
-    },
-    {
-      "id": "tmdb:28178",
-      "type": "movie",
-      "name": "Siempre a tu lado",
-      "ids": {
-        "tmdb": 28178
-      },
-      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
-    },
-    {
-      "id": "tmdb:423",
-      "type": "movie",
-      "name": "El pianista",
-      "ids": {
-        "tmdb": 423
-      },
-      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
     },
     {
       "id": "tmdb:1368",
@@ -196,34 +168,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6fhWzaR6GIu0ALE01Sv6WkAfW4j.png"
     },
     {
-      "id": "tmdb:263472",
-      "type": "movie",
-      "name": "Toc, toc",
-      "ids": {
-        "tmdb": 263472
-      },
-      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
-    },
-    {
-      "id": "tmdb:1933",
-      "type": "movie",
-      "name": "Los otros",
-      "ids": {
-        "tmdb": 1933
-      },
-      "overview": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8HaIZxParuPo7FdSLUwGd6zoz4c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAfDGFvGvHqW29rjN2RDuTOfJsm.png"
-    },
-    {
       "id": "tmdb:402",
       "type": "movie",
       "name": "Instinto básico",
@@ -236,89 +180,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
-    },
-    {
-      "id": "tmdb:41264",
-      "type": "movie",
-      "name": "Adiós África",
-      "ids": {
-        "tmdb": 41264
-      },
-      "overview": "Documental que se centra en los aspectos más insólitos y desagradables de lavida africana. Se plasman con gran detalle, las tradiciones y ritos másextraños y crueles de las culturas primitivas de Africa.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/w6NX5XANveNK49c37c7yl6U1oaz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eIbAyXb4l2VxmudtMipXM2CKiok.jpg"
-    },
-    {
-      "id": "tmdb:1369",
-      "type": "movie",
-      "name": "Rambo: Acorralado Parte II",
-      "ids": {
-        "tmdb": 1369
-      },
-      "overview": "Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaídas en la jungla, portando únicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que sólo haga fotografías de reconocimiento. Pero el plan no saldrá como estaba previsto.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/TuW7rwhdVPrm3qBsBGnn747Uar.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2vlFPft9hDZEdQJSVqNznZVILrj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uUTS5ZTXFLNszIG8B2yzvXpHdWf.png"
-    },
-    {
-      "id": "tmdb:4561",
-      "type": "movie",
-      "name": "Historia de O",
-      "ids": {
-        "tmdb": 4561
-      },
-      "overview": "La bella fotógrafa \"O\" es llevada por su amante René al castillo de Roissy para prepararla como esclava sexual. Tras estar varias semanas y abandonar luego el castillo, O conoce por mediación de René a su hermanastro Sir Stephen, con quien comenzará una relación de dominación - sumisión ante el requerimiento de René. Con Sir Stephen continuará su proceso de aprendizaje en la sumisión, se iniciará en las relaciones lésbicas para obtener el sometimiento de otra mujer con quien compensará a René.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/vBMKZav1k1zbFVi6LZLHsXZJTJr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b0Ducs0zrJPKttg9837bkEwQHwN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9WX9WS0ZFvDwLvgguhXKT5NAAVX.png"
-    },
-    {
-      "id": "tmdb:13387",
-      "type": "movie",
-      "name": "Transporter 3",
-      "ids": {
-        "tmdb": 13387
-      },
-      "overview": "Frank Martin (Jason Statham) es un indiscutible especialista en entregas de alto riesgo. En esta ocasión se verá obligado, bajo amenazas, a trasladar dos voluminosas bolsas y a una joven ucraniana, Valentina (Natalya Rudakova), desde Marsella hasta Odessa. ¿Qué hay en las bolsas? ¿quién es la chica? ¿qué hay detrás de esta entrega? Frank no conoce las respuestas, pero lo que realmente no sabe es la trampa que le ha tendido el adversario más despiadado y peligroso que nunca se ha encontrado...",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/A6jWpnsmiFJR9idlCOUCeP3m03I.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uhvA5n24kcMMlGEAK0l4S9MOjsG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zOFoR4cWJB1avdg9QKw8J6OOmyX.png"
-    },
-    {
-      "id": "tmdb:5528",
-      "type": "movie",
-      "name": "Los chicos del coro",
-      "ids": {
-        "tmdb": 5528
-      },
-      "overview": "En 1948 Clément Mathieu, profesor de música desempleado, acepta un puesto como profesor vigilante en un internado de reeducación de menores. El sistema represivo aplicado por el director conmociona a Mathieu. Enseñándoles música y canto coral a estos niños tan difíciles, Mathieu transformará sus vidas cotidianas.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gCRlj9soFwM7ME5nz3MKruR3yyV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o1K8iSNLLXFDOfAVapjNBFVh0YW.png"
-    },
-    {
-      "id": "tmdb:835767",
-      "type": "movie",
-      "name": "Tiroteo en Rio Bravo",
-      "ids": {
-        "tmdb": 835767
-      },
-      "overview": "Un misterioso pistolero ruso ayuda a un marshal y a un sheriff en un enfrentamiento con un grupo de bandidos sedientos de sangre conocidos como \"Los perros del infierno\" que ha invadido su pequeña ciudad del este de Texas.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/vJXJEKg9k0tTXsAgH0V5ahMa4qO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/paZcZF8RbQHPNq3gb3IeSNITjtL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9i2ZTJkmzIdGIVW3EzYAKpfFvzt.png"
     },
     {
       "id": "tmdb:28468",
@@ -335,32 +196,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/uUd2UeBzloBqnasdZGXjTvCF9Pt.png"
     },
     {
-      "id": "tmdb:193385",
+      "id": "tmdb:5528",
       "type": "movie",
-      "name": "Corazón de hierro",
+      "name": "Los chicos del coro",
       "ids": {
-        "tmdb": 193385
+        "tmdb": 5528
       },
-      "overview": "Thriller de acción en el que una banda de mafiosos, entre otras cosas, se dedica a secuestrar chicas atractivas con oscuros fines. El policía que está investigando el caso es asesinado y en su lugar es designado un coreano experto en artes marciales (Bolo Yeung).",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/dpisvCx5j4kRNJV9OKwaDhgPmTU.jpg",
+      "overview": "En 1948 Clément Mathieu, profesor de música desempleado, acepta un puesto como profesor vigilante en un internado de reeducación de menores. El sistema represivo aplicado por el director conmociona a Mathieu. Enseñándoles música y canto coral a estos niños tan difíciles, Mathieu transformará sus vidas cotidianas.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pz1JgMO5E1SU5OSL6aT5lN0fIvW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ew1hIFDPJHUGicgopiGc7Fjuw1j.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gCRlj9soFwM7ME5nz3MKruR3yyV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o1K8iSNLLXFDOfAVapjNBFVh0YW.png"
     },
     {
-      "id": "tmdb:1718",
+      "id": "tmdb:4561",
       "type": "movie",
-      "name": "Camino de Santa Fe",
+      "name": "Historia de O",
       "ids": {
-        "tmdb": 1718
+        "tmdb": 4561
       },
-      "overview": "Como castigo por una pelea con sus compañeros días antes de graduarse en West Point, Jeb Stuart, George Armstrong Custer y cuatro amigos más, son destinados al Segundo de Caballería, estacionado en Fort Leavenworth. Durante su estancia allí, deberán participar en la captura y ejecución del abolicionista, John Brown, tras la Batalla de Harper Ferry.",
-      "year": 1940,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZiIIRtEd5vmIE2BehqQ1w2Exex.jpg",
+      "overview": "La bella fotógrafa \"O\" es llevada por su amante René al castillo de Roissy para prepararla como esclava sexual. Tras estar varias semanas y abandonar luego el castillo, O conoce por mediación de René a su hermanastro Sir Stephen, con quien comenzará una relación de dominación - sumisión ante el requerimiento de René. Con Sir Stephen continuará su proceso de aprendizaje en la sumisión, se iniciará en las relaciones lésbicas para obtener el sometimiento de otra mujer con quien compensará a René.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/vBMKZav1k1zbFVi6LZLHsXZJTJr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ejLNia8P6YrKbIpvEsihs0Ei8wL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bH4mG54jrymov0S5wWayH2Lt1zB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/b0Ducs0zrJPKttg9837bkEwQHwN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9WX9WS0ZFvDwLvgguhXKT5NAAVX.png"
+    },
+    {
+      "id": "tmdb:1369",
+      "type": "movie",
+      "name": "Rambo: Acorralado Parte II",
+      "ids": {
+        "tmdb": 1369
+      },
+      "overview": "Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaídas en la jungla, portando únicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que sólo haga fotografías de reconocimiento. Pero el plan no saldrá como estaba previsto.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/TuW7rwhdVPrm3qBsBGnn747Uar.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2vlFPft9hDZEdQJSVqNznZVILrj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uUTS5ZTXFLNszIG8B2yzvXpHdWf.png"
+    },
+    {
+      "id": "tmdb:1933",
+      "type": "movie",
+      "name": "Los otros",
+      "ids": {
+        "tmdb": 1933
+      },
+      "overview": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8HaIZxParuPo7FdSLUwGd6zoz4c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cAfDGFvGvHqW29rjN2RDuTOfJsm.png"
+    },
+    {
+      "id": "tmdb:28178",
+      "type": "movie",
+      "name": "Siempre a tu lado",
+      "ids": {
+        "tmdb": 28178
+      },
+      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+    },
+    {
+      "id": "tmdb:835767",
+      "type": "movie",
+      "name": "Tiroteo en Rio Bravo",
+      "ids": {
+        "tmdb": 835767
+      },
+      "overview": "Un misterioso pistolero ruso ayuda a un marshal y a un sheriff en un enfrentamiento con un grupo de bandidos sedientos de sangre conocidos como \"Los perros del infierno\" que ha invadido su pequeña ciudad del este de Texas.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vJXJEKg9k0tTXsAgH0V5ahMa4qO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/paZcZF8RbQHPNq3gb3IeSNITjtL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9i2ZTJkmzIdGIVW3EzYAKpfFvzt.png"
     },
     {
       "id": "tmdb:36505",
@@ -376,32 +293,59 @@
       "backdrop": "https://image.tmdb.org/t/p/original/hfi3IEqtTQhk6bgGIXAyDbNplml.jpg"
     },
     {
-      "id": "tmdb:107986",
+      "id": "tmdb:423",
       "type": "movie",
-      "name": "La historia de Amber",
+      "name": "El pianista",
       "ids": {
-        "tmdb": 107986
+        "tmdb": 423
       },
-      "overview": "Una niña de 10 años es secuestrada en un pueblo de Tejas. Tras una desesperada búsqueda, aparece su cadáver en un bosque. La tragedia llevará a la madre, apoyada por los vecinos, a llevar el caso a los tribunales.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/qTRHXzeOPaiYKCBwAxMu10XYF3g.jpg",
+      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8mGbfrPhtWnkP6NYjl35EoZPYKf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9UYXkLEeXKRSuj0lBb3p5KbRSQv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
     },
     {
-      "id": "tmdb:39412",
+      "id": "tmdb:263472",
       "type": "movie",
-      "name": "Emmanuelle 3: Adiós Emmanuelle",
+      "name": "Toc, toc",
       "ids": {
-        "tmdb": 39412
+        "tmdb": 263472
       },
-      "overview": "Emmanuelle y su marido arquitecto continúan con su estilo de vida amoral en las Seychelles. Pero cuando un romance causal entre ella y un director de cine comienzan, su marido muestra signos muy tradicionales de los celos.",
-      "year": 1977,
-      "poster": "https://image.tmdb.org/t/p/w342/bnF3rXUwwtiRB2W83pqcXwOH848.jpg",
+      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bl2ye7MJeBqGjSidhS32DzWSg24.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/24eXWcHlDvmC5WBivaOGioY3OQH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
+    },
+    {
+      "id": "tmdb:41264",
+      "type": "movie",
+      "name": "Adiós África",
+      "ids": {
+        "tmdb": 41264
+      },
+      "overview": "Documental que se centra en los aspectos más insólitos y desagradables de lavida africana. Se plasman con gran detalle, las tradiciones y ritos másextraños y crueles de las culturas primitivas de Africa.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/w6NX5XANveNK49c37c7yl6U1oaz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eIbAyXb4l2VxmudtMipXM2CKiok.jpg"
+    },
+    {
+      "id": "tmdb:13387",
+      "type": "movie",
+      "name": "Transporter 3",
+      "ids": {
+        "tmdb": 13387
+      },
+      "overview": "Frank Martin (Jason Statham) es un indiscutible especialista en entregas de alto riesgo. En esta ocasión se verá obligado, bajo amenazas, a trasladar dos voluminosas bolsas y a una joven ucraniana, Valentina (Natalya Rudakova), desde Marsella hasta Odessa. ¿Qué hay en las bolsas? ¿quién es la chica? ¿qué hay detrás de esta entrega? Frank no conoce las respuestas, pero lo que realmente no sabe es la trampa que le ha tendido el adversario más despiadado y peligroso que nunca se ha encontrado...",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/A6jWpnsmiFJR9idlCOUCeP3m03I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uhvA5n24kcMMlGEAK0l4S9MOjsG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zOFoR4cWJB1avdg9QKw8J6OOmyX.png"
     },
     {
       "id": "tmdb:22705",
@@ -418,73 +362,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWX37ZIsatTGVTGnIccjAjHyd0X.png"
     },
     {
-      "id": "tmdb:44741",
+      "id": "tmdb:39412",
       "type": "movie",
-      "name": "Malicia",
+      "name": "Emmanuelle 3: Adiós Emmanuelle",
       "ids": {
-        "tmdb": 44741
+        "tmdb": 39412
       },
-      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
+      "overview": "Emmanuelle y su marido arquitecto continúan con su estilo de vida amoral en las Seychelles. Pero cuando un romance causal entre ella y un director de cine comienzan, su marido muestra signos muy tradicionales de los celos.",
+      "year": 1977,
+      "poster": "https://image.tmdb.org/t/p/w342/bnF3rXUwwtiRB2W83pqcXwOH848.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bl2ye7MJeBqGjSidhS32DzWSg24.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/24eXWcHlDvmC5WBivaOGioY3OQH.png"
     },
     {
-      "id": "tmdb:60732",
+      "id": "tmdb:107986",
       "type": "movie",
-      "name": "La misa ha terminado",
+      "name": "La historia de Amber",
       "ids": {
-        "tmdb": 60732
+        "tmdb": 107986
       },
-      "overview": "Tras ejercer sus funciones en una isla del sur de Italia, un joven sacerdote es destinado por sus superiores a una parroquia de Roma. Allí se reencontrará con su familia y con sus amigos e intentará, en la medida de sus posibilidades, cambiar las cosas; pero el fracaso lo acechará, y su posterior crisis personal y profesional le harán cuestionarse su labor dentro de la Iglesia",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/nGkwLD1sVZnc1khNbiTCvpAkX3J.jpg",
+      "overview": "Una niña de 10 años es secuestrada en un pueblo de Tejas. Tras una desesperada búsqueda, aparece su cadáver en un bosque. La tragedia llevará a la madre, apoyada por los vecinos, a llevar el caso a los tribunales.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/qTRHXzeOPaiYKCBwAxMu10XYF3g.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8DTBYMJCjBn7RonrRP3l9Iocmws.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/8mGbfrPhtWnkP6NYjl35EoZPYKf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9UYXkLEeXKRSuj0lBb3p5KbRSQv.png"
     },
     {
-      "id": "tmdb:158063",
+      "id": "tmdb:35031",
       "type": "movie",
-      "name": "El héroe del Oeste",
+      "name": "La vía láctea",
       "ids": {
-        "tmdb": 158063
+        "tmdb": 35031
       },
-      "overview": "Donaldson intenta perturbar la paz existente entre blancos y siux, vendiendo armas a los indios. Bufalo Bill es enviado a frenar el comercio de armas y así evitar una guerra con los indios. (FILMAFFINITY)",
-      "year": 1964,
-      "poster": "https://image.tmdb.org/t/p/w342/gMvgK94seR7TP5yUtqu47NwZVEQ.jpg",
+      "overview": "Dos trotamundos franceses que, desde las afueras de París, deciden ir de peregrinaje a Santiago de Compostela, conocen numerosos personajes y viven situaciones estrechamente vinculadas a las creencias religiosas",
+      "year": 1969,
+      "poster": "https://image.tmdb.org/t/p/w342/w9EJx3VLGNGvSaCdsLaYD096NnM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2CsO28Lgy3TreRF6XcWgPfbjCYp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8Ied2uYF4T5wOQNS7Sw34qKohXe.png"
-    },
-    {
-      "id": "tmdb:9399",
-      "type": "movie",
-      "name": "Lionheart, el luchador",
-      "ids": {
-        "tmdb": 9399
-      },
-      "overview": "León Gualtier es un desertor en la Legión Extranjera que llega a los EE.UUy encuentra a su hermano entre la vida y la muerte y a su cuñada sin dinero para curar a su marido y mantener su hija. Para ganar el dinero necesario, Gualtier acepta para participar en peleas clandestinas.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wcuoz1EEzcSvlM4navzT6hSNNg7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1EPXHnuIsursiSQXrxMhNyP7fW9.png"
-    },
-    {
-      "id": "tmdb:2330",
-      "type": "movie",
-      "name": "Taxi Express",
-      "ids": {
-        "tmdb": 2330
-      },
-      "overview": "Daniel, un joven repartidor de pizzas, consigue hacer realidad uno de sus sueños: obtener la licencia de taxi. Pero un encuentro fortuito con Emilien le pone en un aprieto: para conservar su licencia de taxi, han de detener a una banda que está desmantelando los bancos del país.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/hJGTeFfEVzYGhB84YFU67B3VG4F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/148xS3PsuxDHT3VCcj3dzdU1lj3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dlH6bkq4SJwwlLpr7jAWeG2UATx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ne32AmWHbAtsN4M4y4DwxYoOtRu.png"
     },
     {
       "id": "tmdb:253376",
@@ -501,18 +418,86 @@
       "logo": "https://image.tmdb.org/t/p/w500/t0ceKbzcZ4rrjfM1isOJyLOuARB.png"
     },
     {
-      "id": "tmdb:1370",
+      "id": "tmdb:60732",
       "type": "movie",
-      "name": "Rambo III",
+      "name": "La misa ha terminado",
       "ids": {
-        "tmdb": 1370
+        "tmdb": 60732
       },
-      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
-      "year": 1988,
-      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+      "overview": "Tras ejercer sus funciones en una isla del sur de Italia, un joven sacerdote es destinado por sus superiores a una parroquia de Roma. Allí se reencontrará con su familia y con sus amigos e intentará, en la medida de sus posibilidades, cambiar las cosas; pero el fracaso lo acechará, y su posterior crisis personal y profesional le harán cuestionarse su labor dentro de la Iglesia",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/nGkwLD1sVZnc1khNbiTCvpAkX3J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yM2clonjcpiHDyqxVbV3ePshXh7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8DTBYMJCjBn7RonrRP3l9Iocmws.jpg"
+    },
+    {
+      "id": "tmdb:193385",
+      "type": "movie",
+      "name": "Corazón de hierro",
+      "ids": {
+        "tmdb": 193385
+      },
+      "overview": "Thriller de acción en el que una banda de mafiosos, entre otras cosas, se dedica a secuestrar chicas atractivas con oscuros fines. El policía que está investigando el caso es asesinado y en su lugar es designado un coreano experto en artes marciales (Bolo Yeung).",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/dpisvCx5j4kRNJV9OKwaDhgPmTU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pz1JgMO5E1SU5OSL6aT5lN0fIvW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ew1hIFDPJHUGicgopiGc7Fjuw1j.png"
+    },
+    {
+      "id": "tmdb:110876",
+      "type": "movie",
+      "name": "Atlas de geografía humana",
+      "ids": {
+        "tmdb": 110876
+      },
+      "overview": "Fran, Rosa, Ana y Marisa trabajan en el Departamento de Obras de Consulta de un grupo editorial. Durante varios meses tienen que realizar en equipo un Atlas de Geografía que se venderá en fascículos. En ese tiempo surgen algunos problemas propios del trabajo en equipo, pero lo que verdaderamente importa es que las cuatro, cada una a su manera y en circunstancias muy distintas, están redefiniendo sus vidas.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/1xf3SeiNSQRFUZFTL6TzFAbugyI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bNiynMME57Zkw8djGbIyeCWg2oF.jpg"
+    },
+    {
+      "id": "tmdb:2330",
+      "type": "movie",
+      "name": "Taxi Express",
+      "ids": {
+        "tmdb": 2330
+      },
+      "overview": "Daniel, un joven repartidor de pizzas, consigue hacer realidad uno de sus sueños: obtener la licencia de taxi. Pero un encuentro fortuito con Emilien le pone en un aprieto: para conservar su licencia de taxi, han de detener a una banda que está desmantelando los bancos del país.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/hJGTeFfEVzYGhB84YFU67B3VG4F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/148xS3PsuxDHT3VCcj3dzdU1lj3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
+    },
+    {
+      "id": "tmdb:158063",
+      "type": "movie",
+      "name": "El héroe del Oeste",
+      "ids": {
+        "tmdb": 158063
+      },
+      "overview": "Donaldson intenta perturbar la paz existente entre blancos y siux, vendiendo armas a los indios. Bufalo Bill es enviado a frenar el comercio de armas y así evitar una guerra con los indios. (FILMAFFINITY)",
+      "year": 1964,
+      "poster": "https://image.tmdb.org/t/p/w342/gMvgK94seR7TP5yUtqu47NwZVEQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2CsO28Lgy3TreRF6XcWgPfbjCYp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8Ied2uYF4T5wOQNS7Sw34qKohXe.png"
+    },
+    {
+      "id": "tmdb:44741",
+      "type": "movie",
+      "name": "Malicia",
+      "ids": {
+        "tmdb": 44741
+      },
+      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
     },
     {
       "id": "tmdb:17899",
@@ -529,57 +514,30 @@
       "logo": "https://image.tmdb.org/t/p/w500/98JZktN7OeJPQcQcCqkYjdLB6SS.png"
     },
     {
-      "id": "tmdb:110876",
+      "id": "tmdb:143529",
       "type": "movie",
-      "name": "Atlas de geografía humana",
+      "name": "Las 4 bodas de Marisol",
       "ids": {
-        "tmdb": 110876
+        "tmdb": 143529
       },
-      "overview": "Fran, Rosa, Ana y Marisa trabajan en el Departamento de Obras de Consulta de un grupo editorial. Durante varios meses tienen que realizar en equipo un Atlas de Geografía que se venderá en fascículos. En ese tiempo surgen algunos problemas propios del trabajo en equipo, pero lo que verdaderamente importa es que las cuatro, cada una a su manera y en circunstancias muy distintas, están redefiniendo sus vidas.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/1xf3SeiNSQRFUZFTL6TzFAbugyI.jpg",
+      "overview": "Marisol, una joven estrella del cine español, y Frank, un director estadounidense, se enamoran durante el rodaje de una película en España. El productor decide aprovechar la situación para organizar un montaje publicitario, pero Marisol prepara una trampa para darle un escarmiento.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/z52TkpiSvk9Ey9z33IheZPmDGHO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bNiynMME57Zkw8djGbIyeCWg2oF.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/yKB1T1lp52GWzr3MirA3VTft1il.jpg"
     },
     {
-      "id": "tmdb:731454",
+      "id": "tmdb:441718",
       "type": "movie",
-      "name": "Yo quise hacer Los bingueros 2",
+      "name": "Los viajes escolares",
       "ids": {
-        "tmdb": 731454
+        "tmdb": 441718
       },
-      "overview": "Charlie Garci es un director novel que trata levantar el proyecto de su vida, la segunda parte de \"Los bingueros\", la mítica comedia de Mariano Ozores.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/unGxPKvk4xkdykKf8BM0dESCFtb.jpg",
+      "overview": "Tras finalizar sus estudios de bachillerato con veinticuatro años, Óscar es un estudiante inmaduro, incapaz de afrontar solo el regreso a su casa durante la temporada estival. Logra convencer a Carlos, su joven profesor de matemáticas, de que le acompañe. Ya en el hogar familiar, Óscar empieza a comportarse de una forma cada vez más desequilibrada e irracional. Mientras tanto su familia se empeña en verlo como reflejo de la figura paterna ausente.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/49gPE1bLUQYofCdkFjXGsQYAKuu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/263LqS6dHfbvYJ34EN9KCjMxtWb.jpg"
-    },
-    {
-      "id": "tmdb:71",
-      "type": "movie",
-      "name": "Billy Elliot (Quiero bailar)",
-      "ids": {
-        "tmdb": 71
-      },
-      "overview": "En 1984, durante una huelga de mineros en el condado de Durham, se suceden los enfrentamientos entre piquetes y policía. Entre los mineros más exaltados están Tony y su padre. Éste se ha empeñado en que Billy, su hijo pequeño, reciba clases de boxeo. Pero, aunque el chico tiene un buen juego de piernas, carece por completo de pegada. Un día, en el gimnasio, Billy observa la clase de ballet de la señora Wilkinson, una mujer de carácter severo que lo anima a participar. A partir de ese momento, Billy se dedicará apasionadamente a la danza.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/lN6JppeFXbPFXFREickSSeHOjCz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/prOVafNMAiENqLnkAgekH4W6lq5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fKDu1S9pw98SjZYC62WrRczodMZ.png"
-    },
-    {
-      "id": "tmdb:144349",
-      "type": "movie",
-      "name": "Dinamita Jim",
-      "ids": {
-        "tmdb": 144349
-      },
-      "overview": "Durante la Guerra de Secesión, un jugador llamado Jim Farrell al ser confundido con un agente del ejército nordista se verá involucrado en una peligrosa misión consistente en transportar 500.000 dólares en oro por más de 500 millas de territorio sudista (desde Los Álamos hasta territorio kiowa). Su situación se agravará al ser perseguido el cargamento no sólo por el ejército del sur sino también por ser codiciado por un bandido mexicano, Pablo Reyes, y por un pistolero llamado Slate contratado por el avaricioso banquero inicialmente implicado en la operación.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/gtnbvocIMEGPrjEjX4U0XhYrF5W.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5T6zgfgWQOvkLXoYjgvHJCWSxM8.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/2GckWbwRejdXjcQE8Qv1zcPhwLQ.jpg"
     },
     {
       "id": "tmdb:1587",
@@ -596,18 +554,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/hT23Ud6IuP47zRFuj9BzPdNvVRw.png"
     },
     {
-      "id": "tmdb:11905",
+      "id": "tmdb:1370",
       "type": "movie",
-      "name": "En compañía de lobos",
+      "name": "Rambo III",
       "ids": {
-        "tmdb": 11905
+        "tmdb": 1370
       },
-      "overview": "Tras presenciar la muerte de su hermana bajo las garras de un lobo, la joven Rosaleen regresa a casa de su abuela, lugar donde ella acostumbra a contar historias acerca del hombre lobo y del peligro que entrañan los hombres cejijuntos.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/11rOxiXdqdm5KyGiGkSxP3VwOh2.jpg",
+      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9NYGgXA5WU2YJTD4ioO37LtnYk8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uyq1yWgwQ5qQ0kn7iwrwNkFSCLB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yM2clonjcpiHDyqxVbV3ePshXh7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
+    },
+    {
+      "id": "tmdb:9399",
+      "type": "movie",
+      "name": "Lionheart, el luchador",
+      "ids": {
+        "tmdb": 9399
+      },
+      "overview": "León Gualtier es un desertor en la Legión Extranjera que llega a los EE.UUy encuentra a su hermano entre la vida y la muerte y a su cuñada sin dinero para curar a su marido y mantener su hija. Para ganar el dinero necesario, Gualtier acepta para participar en peleas clandestinas.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wcuoz1EEzcSvlM4navzT6hSNNg7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1EPXHnuIsursiSQXrxMhNyP7fW9.png"
     },
     {
       "id": "tmdb:581387",
@@ -624,72 +596,96 @@
       "logo": "https://image.tmdb.org/t/p/w500/hFRsvlEMDiG1Wb6MJpIT8gigGey.png"
     },
     {
-      "id": "tmdb:143529",
+      "id": "tmdb:120133",
       "type": "movie",
-      "name": "Las 4 bodas de Marisol",
+      "name": "El niño de la luna",
       "ids": {
-        "tmdb": 143529
+        "tmdb": 120133
       },
-      "overview": "Marisol, una joven estrella del cine español, y Frank, un director estadounidense, se enamoran durante el rodaje de una película en España. El productor decide aprovechar la situación para organizar un montaje publicitario, pero Marisol prepara una trampa para darle un escarmiento.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/z52TkpiSvk9Ey9z33IheZPmDGHO.jpg",
+      "overview": "Desde tiempos remotos, en el África Negra, una tribu espera la llegada de un dios encarnado en un niño blanco, el Hijo de la Luna. David, un niño huérfano que vive en la desquiciada Europa de entre guerras, conoce la profecía y en su mente infantil surge la idea de que ese niño es él y debe cumplir su destino. Una organización de carácter científico adopta a David hasta que él descubre que la organización pretende canalizar la energía lunar en un recién nacido, el cual David ve como un usurpador. Dos mujeres serán las que le ayudarán a cumplir su destino. El amor, la aventura, lo sobrenatural, incluso la muerte entrarán a formar parte de la vida del niño. (FILMAFFINITY)",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/zOjSbm7quS4twcq7wmY1mgI75xL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yKB1T1lp52GWzr3MirA3VTft1il.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/4hHCrtEEW3grFUHjbyfcnlxOojI.jpg"
     },
     {
-      "id": "tmdb:138290",
+      "id": "tmdb:1718",
       "type": "movie",
-      "name": "El día de los enamorados",
+      "name": "Camino de Santa Fe",
       "ids": {
-        "tmdb": 138290
+        "tmdb": 1718
       },
-      "overview": "Varias historias independientes en el día de San Valentín, que tienen en común que un emisario celestial colabora en solucionar sus conflictos.",
-      "year": 1959,
-      "poster": "https://image.tmdb.org/t/p/w342/qq6m8OyvcZqHJicIPYmXEAe7PlY.jpg",
+      "overview": "Como castigo por una pelea con sus compañeros días antes de graduarse en West Point, Jeb Stuart, George Armstrong Custer y cuatro amigos más, son destinados al Segundo de Caballería, estacionado en Fort Leavenworth. Durante su estancia allí, deberán participar en la captura y ejecución del abolicionista, John Brown, tras la Batalla de Harper Ferry.",
+      "year": 1940,
+      "poster": "https://image.tmdb.org/t/p/w342/3ZiIIRtEd5vmIE2BehqQ1w2Exex.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ydOqHDlD8w2JPwG3SjCFP2moSCZ.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/ejLNia8P6YrKbIpvEsihs0Ei8wL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bH4mG54jrymov0S5wWayH2Lt1zB.png"
     },
     {
-      "id": "tmdb:27437",
+      "id": "tmdb:11905",
       "type": "movie",
-      "name": "El solterón y la menor",
+      "name": "En compañía de lobos",
       "ids": {
-        "tmdb": 27437
+        "tmdb": 11905
       },
-      "overview": "La juez Margaret Turner (Mirna Loy) ha estado tan ocupada con su trabajo y con la educación de su hermana Susan (Shirley Temple) que no ha tenido tiempo para el amor, a pesar de los intentos de seducción del ayudante del fiscal. El pintor Dick Nugent (Cary Grant) la conoce en un juicio celebrado a raíz de un alboroto en un bar. Además, resulta que Dick da conferencias sobre arte en el colegio de Susan, que se queda inmediatamente prendada del atractivo pintor. Los problemas surgen cuando Margaret se da cuenta de que se ha enamorado de Dick.",
-      "year": 1947,
-      "poster": "https://image.tmdb.org/t/p/w342/h3p8bpZAyc0NklY6NQ1zGbQ9Vjo.jpg",
+      "overview": "Tras presenciar la muerte de su hermana bajo las garras de un lobo, la joven Rosaleen regresa a casa de su abuela, lugar donde ella acostumbra a contar historias acerca del hombre lobo y del peligro que entrañan los hombres cejijuntos.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/11rOxiXdqdm5KyGiGkSxP3VwOh2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bibt7aP2Cf6Mtp43eriWadryE9f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pEyPThbblL33aO1WML9ZYp546BB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9NYGgXA5WU2YJTD4ioO37LtnYk8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uyq1yWgwQ5qQ0kn7iwrwNkFSCLB.png"
     },
     {
-      "id": "tmdb:8047",
+      "id": "tmdb:115696",
       "type": "movie",
-      "name": "Matador",
+      "name": "El señorito y las seductoras",
       "ids": {
-        "tmdb": 8047
+        "tmdb": 115696
       },
-      "overview": "Un torero que se ha visto forzado a retirarse prematuramente debido a una cogida, se da cuenta de que su obsesión por matar no desaparece, solo que ahora su objetivo serán las mujeres. Hacer el amor y matar en el último instante es lo más parecido al inefable placer de una tarde en la plaza de toros. El problema se agrava cuando conoce a María, una mujer con tendencias similares a las suyas.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/fdwmWNDmNRAxzoVgAX5KttEqFMi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p88RfbdSazcFFEkAKT8fBQV4HWZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/404WmTPCuw7UrWBjYyX0M9SSS5J.png"
+      "overview": "Antonio es un millonario que se pasa el tiempo conquistando hermosas mujeres ayudado por su fiel mayordomo, Pablo. Intenta seducir a la bella Marta, pero cuando se da cuenta de que ella le prepara una trampa para obligarle a casarse, Antonio desaparece.",
+      "year": 1970,
+      "poster": "https://image.tmdb.org/t/p/w342/fnvPJzBaUgYJdrb4jmPrd1iZi8q.jpg",
+      "posterShape": "poster"
     },
     {
-      "id": "tmdb:1948",
+      "id": "tmdb:391",
       "type": "movie",
-      "name": "Crank: Veneno en la sangre",
+      "name": "Por un puñado de dólares",
       "ids": {
-        "tmdb": 1948
+        "tmdb": 391
       },
-      "overview": "Chev Chelios (Jason Statham), un asesino a sueldo de Los Ángeles, ha sido envenenado mientras dormía y que sólo le queda una hora de vida. La única oportunidad que tiene Chev de sobrevivir es mantenerse en movimiento para impedir que el veneno le llegue al corazón. El tiempo pasa y corre enloquecido por las calles de Los Ángeles para salvar a su novia y encontrar un antídoto que le salve la vida.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
+      "overview": "Tras la muerte de Juárez, en México dominan la injusticia y el terror. Joe, un pistolero vagabundo, llega al pueblo fronterizo de San Miguel, donde dos familias se disputan el control del territorio, y entra al servicio del clan Rojo. Una noche, Joe es testigo del intercambio de oro por armas entre mexicanos y soldados de la Unión...",
+      "year": 1964,
+      "poster": "https://image.tmdb.org/t/p/w342/la1A6gknPnZd0bZgL6C7poN11v.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iWJDG98EjiuRso7PzQE8mYJeT2H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yAl3GZTLH5XOvD4LuBgjLeBgJ2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8AQo9k8pD4EAgL8OELKjVGlq1Ec.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png"
+    },
+    {
+      "id": "tmdb:273238",
+      "type": "movie",
+      "name": "Tolerancia cero",
+      "ids": {
+        "tmdb": 273238
+      },
+      "overview": "Dos ex agentes paramilitares, Johnny y Peter, buscan en Bangkok a los asesinos de la hija de Johnny.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/bjXxFoQ36m6E5zSWzY6pB09qejh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bIUX6oT3k34Nl8IEjYR7xjlLGNn.jpg"
+    },
+    {
+      "id": "tmdb:115613",
+      "type": "movie",
+      "name": "La guerrilla de la memoria",
+      "ids": {
+        "tmdb": 115613
+      },
+      "overview": "Documental sobre la guerrilla antifranquista. Tras la Guerra Civil española (1936-1939), hubo algunos combatientes que se negaron a aceptar la derrota y se echaron al monte para luchar contra el régimen. Fueron hombres y mujeres que, cuando escucharon el último parte de guerra emitido en Burgos el 1 de abril del 39, supieron que para ellos la lucha no había terminado. Detrás de los rostros y de los relatos de Esperanza Martínez “Sole”, Remedios Montero “Celia”, Florián García “Grande”, Francisco Martínez “Quico”, Manuel Zapico “Asturiano”, José Murillo “Comandante Ríos”, Eduardo Pons Prades “Floreado Barsino”, Benjamín Rubio, Angela Losadas y Emilia Girón, se pueden descubrir cientos de vidas rebeldes. (FILMAFFINITY)",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/qJBoifotNGcpEyiveTSKF4lgtGy.jpg",
+      "posterShape": "poster"
     }
   ]
 }
