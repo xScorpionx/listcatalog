@@ -181,6 +181,19 @@
       "logo": "https://image.tmdb.org/t/p/w500/hhdyvV2Ij0xujjH26paoi5FgAm6.png"
     },
     {
+      "id": "tmdb:1513026",
+      "type": "movie",
+      "name": "Una película de miedo",
+      "ids": {
+        "tmdb": 1513026
+      },
+      "overview": "Durante las vacaciones de verano, un director de documentales y su hijo de doce años se alojan en un hotel abandonado de Lisboa: un hotel vacío como el de la película El resplandor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/uMLfcHCYbToFccmRFDGaMTZfuYX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ouUUsNNdIUFG7atDLgGAQF256GT.jpg"
+    },
+    {
       "id": "tmdb:1484640",
       "type": "movie",
       "name": "Limpia",
@@ -602,7 +615,9 @@
         "tmdb": 1527950
       },
       "overview": "When a detective takes on a case to prevent a murder, he's forced to reckon with his past, present, and future.",
-      "year": 2025
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/g4PMwbFtuzOktDRnPIQ3IWCHX7J.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:1513598",
@@ -671,20 +686,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ukp1TJMNn9hX1pWVTy84lk8J5uJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aTlIRMdElHSe2d4WAPsHsD6HUfn.png"
-    },
-    {
-      "id": "tmdb:1187436",
-      "type": "movie",
-      "name": "Una vida honrada",
-      "ids": {
-        "tmdb": 1187436
-      },
-      "overview": "Cuando un insolente estudiante de Derecho en busca de inspiración se une a un grupo de anarquistas, acaba atrapado en una red criminal donde es solo un peón más.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iHJM6VtN6dKrJmKykHGMWuegkMD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wlc1Ghim7kWaenlBNXjo81JhlMH.png"
     }
   ]
 }

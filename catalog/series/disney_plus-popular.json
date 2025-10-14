@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1oiOZxgAvJbCpw6FIK3eUCfmipY.png"
     },
     {
-      "id": "tmdb:1434",
-      "type": "series",
-      "name": "Padre de familia",
-      "ids": {
-        "tmdb": 1434
-      },
-      "overview": "Los Griffin son una mediocre familia compuesta por Peter y Lois; sus hijos, Meg, Chris, y Stewie; y su antropomórfica mascota canina Brian. Está ambientada en la ciudad ficticia de Quahog, Rhode Island, y gran parte de su humor se exhibe en forma de pequeños cortes que frecuentemente se mofan de la cultura americana.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hwBwh07cylRzjjwtqIEbxZnYPZd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dHp46lXUI9GuhMYlnXPDz5KQVza.png"
-    },
-    {
       "id": "tmdb:4057",
       "type": "series",
       "name": "Mentes criminales",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2atCnWkf1vD7b3xJLjMlrxTb8E2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png"
+    },
+    {
+      "id": "tmdb:1434",
+      "type": "series",
+      "name": "Padre de familia",
+      "ids": {
+        "tmdb": 1434
+      },
+      "overview": "Los Griffin son una mediocre familia compuesta por Peter y Lois; sus hijos, Meg, Chris, y Stewie; y su antropomórfica mascota canina Brian. Está ambientada en la ciudad ficticia de Quahog, Rhode Island, y gran parte de su humor se exhibe en forma de pequeños cortes que frecuentemente se mofan de la cultura americana.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hwBwh07cylRzjjwtqIEbxZnYPZd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dHp46lXUI9GuhMYlnXPDz5KQVza.png"
     },
     {
       "id": "tmdb:456",
@@ -113,18 +113,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
-      "id": "tmdb:138505",
+      "id": "tmdb:2316",
       "type": "series",
-      "name": "Marvel Zombis",
+      "name": "The Office",
       "ids": {
-        "tmdb": 138505
+        "tmdb": 2316
       },
-      "overview": "Cuando los Vengadores sucumben a la plaga zombi, un desesperado grupo de supervivientes descubre la clave para acabar con los superpoderosos no muertos y se juega la vida recorriendo un distópico paisaje para salvar el mundo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/86jL9ubwOs1pDXuuQ9Uf0gGlwF6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/71SfPRY4pOrRMkSRaG2LKQPWsp6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
       "id": "tmdb:1911",
@@ -141,32 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
-      "id": "tmdb:2316",
+      "id": "tmdb:138505",
       "type": "series",
-      "name": "The Office",
+      "name": "Marvel Zombis",
       "ids": {
-        "tmdb": 2316
+        "tmdb": 138505
       },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "overview": "Cuando los Vengadores sucumben a la plaga zombi, un desesperado grupo de supervivientes descubre la clave para acabar con los superpoderosos no muertos y se juega la vida recorriendo un distópico paisaje para salvar el mundo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
-    },
-    {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/86jL9ubwOs1pDXuuQ9Uf0gGlwF6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/71SfPRY4pOrRMkSRaG2LKQPWsp6.png"
     },
     {
       "id": "tmdb:1419",
@@ -183,20 +169,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
     },
     {
-      "id": "tmdb:226637",
-      "type": "series",
-      "name": "High Potential: Detective Inesperada",
-      "ids": {
-        "tmdb": 226637
-      },
-      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
-    },
-    {
       "id": "tmdb:75219",
       "type": "series",
       "name": "9-1-1",
@@ -209,34 +181,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/i3qYGx6uVZNV1r7qCNkDUgFrJUz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/twD0R1O15sPKDzUoJafwkm7fxCC.png"
-    },
-    {
-      "id": "tmdb:1100",
-      "type": "series",
-      "name": "Cómo conocí a vuestra madre",
-      "ids": {
-        "tmdb": 1100
-      },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
-    },
-    {
-      "id": "tmdb:4607",
-      "type": "series",
-      "name": "Perdidos",
-      "ids": {
-        "tmdb": 4607
-      },
-      "overview": "Historia de un variopinto grupo de supervivientes de un accidente de aviación en una isla del Pacífico aparentemente desierta, una isla en la que suceden cosas muy extrañas. Luchando por la supervivencia, casi medio centenar de personas mostrarán lo mejor y lo peor de sí mismas.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zOqh6dTNTY8Ziur3MZQnEFlO2HU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
     },
     {
       "id": "tmdb:1973",
@@ -253,18 +197,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
-      "id": "tmdb:4586",
+      "id": "tmdb:226637",
       "type": "series",
-      "name": "Las chicas Gilmore",
+      "name": "High Potential: Detective Inesperada",
       "ids": {
-        "tmdb": 4586
+        "tmdb": 226637
       },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
+    },
+    {
+      "id": "tmdb:1433",
+      "type": "series",
+      "name": "Padre made in USA",
+      "ids": {
+        "tmdb": 1433
+      },
+      "overview": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/69FPjhtIz0BP0l0m4VwQijyxSon.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
+    },
+    {
+      "id": "tmdb:4607",
+      "type": "series",
+      "name": "Perdidos",
+      "ids": {
+        "tmdb": 4607
+      },
+      "overview": "Historia de un variopinto grupo de supervivientes de un accidente de aviación en una isla del Pacífico aparentemente desierta, una isla en la que suceden cosas muy extrañas. Luchando por la supervivencia, casi medio centenar de personas mostrarán lo mejor y lo peor de sí mismas.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zOqh6dTNTY8Ziur3MZQnEFlO2HU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
+    },
+    {
+      "id": "tmdb:1100",
+      "type": "series",
+      "name": "Cómo conocí a vuestra madre",
+      "ids": {
+        "tmdb": 1100
+      },
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
     },
     {
       "id": "tmdb:1421",
@@ -281,18 +267,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/rbKhglYrECjMZNYtT2QyihOQ5F.png"
     },
     {
-      "id": "tmdb:1433",
+      "id": "tmdb:4586",
       "type": "series",
-      "name": "Padre made in USA",
+      "name": "Las chicas Gilmore",
       "ids": {
-        "tmdb": 1433
+        "tmdb": 4586
       },
-      "overview": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/69FPjhtIz0BP0l0m4VwQijyxSon.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
+      "id": "tmdb:1402",
+      "type": "series",
+      "name": "The Walking Dead",
+      "ids": {
+        "tmdb": 1402
+      },
+      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
       "id": "tmdb:237052",
@@ -337,18 +337,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
-      "id": "tmdb:230926",
+      "id": "tmdb:1413",
       "type": "series",
-      "name": "Aguas turbias",
+      "name": "American Horror Story",
       "ids": {
-        "tmdb": 230926
+        "tmdb": 1413
       },
-      "overview": "En la anárquica Joseon, el río Gyeonggang se ha convertido en aguas turbias. Siyul esconde un pasado problemático, Choi Eun sueña con convertirse en la mayor comerciante del país, y Jung Chun aspira a ser un oficial recto. Sus destinos se entrelazan al luchar para dar forma a su mundo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/1XpnL8wrBSe4dhjK2SLcStg3NHN.jpg",
+      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kPfTRGmqaMUTXwcqgFR9QpRMhtU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87IN6qYxoMIZJSoTBtXcEAEZUVO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
     },
     {
       "id": "tmdb:71728",
@@ -365,20 +365,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story",
-      "ids": {
-        "tmdb": 1413
-      },
-      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
-    },
-    {
       "id": "tmdb:4087",
       "type": "series",
       "name": "Expediente X",
@@ -391,6 +377,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6Hn6KmuafmJFmw7dnNKTqiibtNL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
+    },
+    {
+      "id": "tmdb:230926",
+      "type": "series",
+      "name": "Aguas turbias",
+      "ids": {
+        "tmdb": 230926
+      },
+      "overview": "En la anárquica Joseon, el río Gyeonggang se ha convertido en aguas turbias. Siyul esconde un pasado problemático, Choi Eun sueña con convertirse en la mayor comerciante del país, y Jung Chun aspira a ser un oficial recto. Sus destinos se entrelazan al luchar para dar forma a su mundo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/1XpnL8wrBSe4dhjK2SLcStg3NHN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kPfTRGmqaMUTXwcqgFR9QpRMhtU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87IN6qYxoMIZJSoTBtXcEAEZUVO.png"
     },
     {
       "id": "tmdb:2004",
@@ -435,34 +435,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/oTG9Ug1ZDNIm1d0k0y65LHrwe13.png"
     },
     {
-      "id": "tmdb:1403",
-      "type": "series",
-      "name": "Marvel Agentes de S.H.I.E.L.D.",
-      "ids": {
-        "tmdb": 1403
-      },
-      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
-    },
-    {
-      "id": "tmdb:74016",
-      "type": "series",
-      "name": "The Resident",
-      "ids": {
-        "tmdb": 74016
-      },
-      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
-    },
-    {
       "id": "tmdb:615",
       "type": "series",
       "name": "Futurama",
@@ -491,6 +463,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     },
     {
+      "id": "tmdb:74016",
+      "type": "series",
+      "name": "The Resident",
+      "ids": {
+        "tmdb": 74016
+      },
+      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
+    },
+    {
       "id": "tmdb:90",
       "type": "series",
       "name": "Mayday Catástrofes Aéreas",
@@ -503,20 +489,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/egIbwNWZ5LC3ecyS09IW9nL9cco.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
-    },
-    {
-      "id": "tmdb:247168",
-      "type": "series",
-      "name": "Chad Powers",
-      "ids": {
-        "tmdb": 247168
-      },
-      "overview": "Ocho años después de que un error imperdonable echara por tierra su prometedora carrera en el fútbol universitario, el quarterback de primera Russ Holliday busca revivir sus sueños disfrazándose de Chad Powers, un talentoso personaje que se une a unos South Georgia Catfish que luchan por subsistir.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/tXeGN7zELn1RWSjqxcmJUKaKXyi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7o2mKKK9RkbENlSRCTjlY7FYffE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qRzTt6X1vjMZ3SUf2LrHdD2Zl4C.png"
     },
     {
       "id": "tmdb:32726",
@@ -533,6 +505,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
     },
     {
+      "id": "tmdb:2122",
+      "type": "series",
+      "name": "El rey de la colina",
+      "ids": {
+        "tmdb": 2122
+      },
+      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
+    },
+    {
       "id": "tmdb:71694",
       "type": "series",
       "name": "Snowfall",
@@ -545,20 +531,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/1Ujlcsc48vHL0GRbBSR0HdlO17O.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bMhxqWYzNqyG6bN4m6LOgypOTpn.png"
-    },
-    {
-      "id": "tmdb:82728",
-      "type": "series",
-      "name": "Bluey",
-      "ids": {
-        "tmdb": 82728
-      },
-      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
     },
     {
       "id": "tmdb:1606",
@@ -575,32 +547,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
     },
     {
-      "id": "tmdb:2122",
+      "id": "tmdb:2710",
       "type": "series",
-      "name": "El rey de la colina",
+      "name": "Colgados en Filadelfia",
       "ids": {
-        "tmdb": 2122
+        "tmdb": 2710
       },
-      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
+      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
     },
     {
-      "id": "tmdb:223326",
+      "id": "tmdb:247168",
       "type": "series",
-      "name": "Tempest",
+      "name": "Chad Powers",
       "ids": {
-        "tmdb": 223326
+        "tmdb": 247168
       },
-      "overview": "Tras un intento de asesinato al candidato presidencial, la exdiplomática Munju Seo rebusca en su pasado y descubre una conspiración internacional en la que participan países, agencias de seguridad y servicios de inteligencia que ponen en riesgo la estabilidad de la península coreana. Mientras ella se juega la vida, un mercenario misterioso llamado Sanho Paik se ofrece para mantenerla a salvo. ¿Debería confiar Munju en él con lo poco que sabe de él?",
+      "overview": "Ocho años después de que un error imperdonable echara por tierra su prometedora carrera en el fútbol universitario, el quarterback de primera Russ Holliday busca revivir sus sueños disfrazándose de Chad Powers, un talentoso personaje que se une a unos South Georgia Catfish que luchan por subsistir.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6B7AaxdGIxl5gPKM9esqnRcFdX0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tXeGN7zELn1RWSjqxcmJUKaKXyi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9imXbIg5ojdg9wJySU5WfgymgdA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hMIITWMzSjpi6Q6uTAfRaHAJ027.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7o2mKKK9RkbENlSRCTjlY7FYffE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qRzTt6X1vjMZ3SUf2LrHdD2Zl4C.png"
     },
     {
       "id": "tmdb:1877",
@@ -617,18 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
     },
     {
-      "id": "tmdb:2710",
+      "id": "tmdb:1403",
       "type": "series",
-      "name": "Colgados en Filadelfia",
+      "name": "Marvel Agentes de S.H.I.E.L.D.",
       "ids": {
-        "tmdb": 2710
+        "tmdb": 1403
       },
-      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
+      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
     },
     {
       "id": "tmdb:39272",
@@ -645,6 +617,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
     },
     {
+      "id": "tmdb:82728",
+      "type": "series",
+      "name": "Bluey",
+      "ids": {
+        "tmdb": 82728
+      },
+      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
+    },
+    {
+      "id": "tmdb:223326",
+      "type": "series",
+      "name": "Tempest",
+      "ids": {
+        "tmdb": 223326
+      },
+      "overview": "Tras un intento de asesinato al candidato presidencial, la exdiplomática Munju Seo rebusca en su pasado y descubre una conspiración internacional en la que participan países, agencias de seguridad y servicios de inteligencia que ponen en riesgo la estabilidad de la península coreana. Mientras ella se juega la vida, un mercenario misterioso llamado Sanho Paik se ofrece para mantenerla a salvo. ¿Debería confiar Munju en él con lo poco que sabe de él?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6B7AaxdGIxl5gPKM9esqnRcFdX0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9imXbIg5ojdg9wJySU5WfgymgdA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hMIITWMzSjpi6Q6uTAfRaHAJ027.png"
+    },
+    {
       "id": "tmdb:4556",
       "type": "series",
       "name": "Scrubs",
@@ -659,18 +659,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/6lCg07nxaLGpEap849catTySkvi.png"
     },
     {
-      "id": "tmdb:12225",
+      "id": "tmdb:91363",
       "type": "series",
-      "name": "Peppa Pig",
+      "name": "¿Qué pasaría si...?",
       "ids": {
-        "tmdb": 12225
+        "tmdb": 91363
       },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "overview": "Inspirándose en los cómics del mismo nombre, cada episodio explora un momento crucial del Universo Cinematográfico Marvel.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/ebKQ0Lb84EF897UBk3d1KzMO33V.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1laPGIKf1v7mIuoqd3QnrYgib09.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hRw5YdRGr1ZuKyodD9NspCaPRXy.png"
+    },
+    {
+      "id": "tmdb:95",
+      "type": "series",
+      "name": "Buffy, cazavampiros",
+      "ids": {
+        "tmdb": 95
+      },
+      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
     },
     {
       "id": "tmdb:4194",
@@ -685,20 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/vkhMmRYetDfcjW8oEz8HbDSQnfQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png"
-    },
-    {
-      "id": "tmdb:91363",
-      "type": "series",
-      "name": "¿Qué pasaría si...?",
-      "ids": {
-        "tmdb": 91363
-      },
-      "overview": "Inspirándose en los cómics del mismo nombre, cada episodio explora un momento crucial del Universo Cinematográfico Marvel.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ebKQ0Lb84EF897UBk3d1KzMO33V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1laPGIKf1v7mIuoqd3QnrYgib09.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hRw5YdRGr1ZuKyodD9NspCaPRXy.png"
     }
   ]
 }
