@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
-      "id": "tmdb:1973",
-      "type": "series",
-      "name": "24",
-      "ids": {
-        "tmdb": 1973
-      },
-      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
-    },
-    {
       "id": "tmdb:2288",
       "type": "series",
       "name": "Prison Break",
@@ -141,18 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
     },
     {
-      "id": "tmdb:1419",
+      "id": "tmdb:1973",
       "type": "series",
-      "name": "Castle",
+      "name": "24",
       "ids": {
-        "tmdb": 1419
+        "tmdb": 1973
       },
-      "overview": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
+      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tRZNN3mm6CooCqc0lAHPUMg5Bur.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
       "id": "tmdb:75219",
@@ -167,6 +153,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/i3qYGx6uVZNV1r7qCNkDUgFrJUz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/twD0R1O15sPKDzUoJafwkm7fxCC.png"
+    },
+    {
+      "id": "tmdb:1421",
+      "type": "series",
+      "name": "Modern Family",
+      "ids": {
+        "tmdb": 1421
+      },
+      "overview": "Narrada desde la perspectiva de un documental, la serie ofrece un panorama honesto y divertido sobre la vida de varias familias, en donde se presentan la relación entre padres e hijos, diferencias generacionales y culturales.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/5kyZP827ukq6auRpYApZ2rDQtHP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bDiiWu1QmsHt95tcIULtzarzZfT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rbKhglYrECjMZNYtT2QyihOQ5F.png"
+    },
+    {
+      "id": "tmdb:1419",
+      "type": "series",
+      "name": "Castle",
+      "ids": {
+        "tmdb": 1419
+      },
+      "overview": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tRZNN3mm6CooCqc0lAHPUMg5Bur.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
     },
     {
       "id": "tmdb:1402",
@@ -197,34 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
     },
     {
-      "id": "tmdb:1421",
-      "type": "series",
-      "name": "Modern Family",
-      "ids": {
-        "tmdb": 1421
-      },
-      "overview": "Narrada desde la perspectiva de un documental, la serie ofrece un panorama honesto y divertido sobre la vida de varias familias, en donde se presentan la relación entre padres e hijos, diferencias generacionales y culturales.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/5kyZP827ukq6auRpYApZ2rDQtHP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bDiiWu1QmsHt95tcIULtzarzZfT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rbKhglYrECjMZNYtT2QyihOQ5F.png"
-    },
-    {
-      "id": "tmdb:1100",
-      "type": "series",
-      "name": "Cómo conocí a vuestra madre",
-      "ids": {
-        "tmdb": 1100
-      },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
-    },
-    {
       "id": "tmdb:65334",
       "type": "series",
       "name": "Prodigiosa: Las aventuras de Ladybug",
@@ -253,6 +239,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
     },
     {
+      "id": "tmdb:1100",
+      "type": "series",
+      "name": "Cómo conocí a vuestra madre",
+      "ids": {
+        "tmdb": 1100
+      },
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+    },
+    {
       "id": "tmdb:4586",
       "type": "series",
       "name": "Las chicas Gilmore",
@@ -265,34 +265,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
-    },
-    {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story",
-      "ids": {
-        "tmdb": 1413
-      },
-      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
-    },
-    {
-      "id": "tmdb:1409",
-      "type": "series",
-      "name": "Hijos de la anarquía",
-      "ids": {
-        "tmdb": 1409
-      },
-      "overview": "Creada por Kurt Sutter, responsable también de “The Shield”, “Sons of Anarchy” está ambientada en la localidad ficticia de Charming, situada en el Norte de California. Su protagonista es Jackson “Jax” Teller(Chalie Hunnam – “Hijos de los hombres”, “Cold Mountain”), un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original (SAMCRO en su acrónimo), un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
       "id": "tmdb:4087",
@@ -309,46 +281,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
     },
     {
-      "id": "tmdb:226637",
+      "id": "tmdb:1409",
       "type": "series",
-      "name": "High Potential: Detective Inesperada",
+      "name": "Hijos de la anarquía",
       "ids": {
-        "tmdb": 226637
+        "tmdb": 1409
       },
-      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
+      "overview": "Creada por Kurt Sutter, responsable también de “The Shield”, “Sons of Anarchy” está ambientada en la localidad ficticia de Charming, situada en el Norte de California. Su protagonista es Jackson “Jax” Teller(Chalie Hunnam – “Hijos de los hombres”, “Cold Mountain”), un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original (SAMCRO en su acrónimo), un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
-      "id": "tmdb:95",
+      "id": "tmdb:1413",
       "type": "series",
-      "name": "Buffy, cazavampiros",
+      "name": "American Horror Story",
       "ids": {
-        "tmdb": 95
+        "tmdb": 1413
       },
-      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
+      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
-    },
-    {
-      "id": "tmdb:157239",
-      "type": "series",
-      "name": "Alien: Planeta Tierra",
-      "ids": {
-        "tmdb": 157239
-      },
-      "overview": "Cuando una misteriosa nave se estrella contra la Tierra, una joven y un variopinto grupo de soldados tácticos hacen un fatídico hallazgo que los pone cara a cara con la mayor amenaza del planeta. El equipo de rescate busca supervivientes entre los restos de la colisión y se topa con una forma de vida depredadora que levanta más misterios y miedos de los que cabría imaginarse. Debido a esta nueva amenaza, el equipo deberá luchar por sobrevivir. Lo que decidan hacer con este descubrimiento podría cambiar el planeta Tierra tal y como lo conocen.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gESYHnWmRuF1T418Gxq3Q0Qytrn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jtm7uQb6FXl152OJZjsYsAquhvk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
     },
     {
       "id": "tmdb:71728",
@@ -365,6 +323,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
+      "id": "tmdb:226637",
+      "type": "series",
+      "name": "High Potential: Detective Inesperada",
+      "ids": {
+        "tmdb": 226637
+      },
+      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
+    },
+    {
       "id": "tmdb:2122",
       "type": "series",
       "name": "El rey de la colina",
@@ -379,32 +351,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
     },
     {
-      "id": "tmdb:2710",
+      "id": "tmdb:32726",
       "type": "series",
-      "name": "Colgados en Filadelfia",
+      "name": "Bob's Burgers",
       "ids": {
-        "tmdb": 2710
+        "tmdb": 32726
       },
-      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
+      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
-    },
-    {
-      "id": "tmdb:1403",
-      "type": "series",
-      "name": "Marvel Agentes de S.H.I.E.L.D.",
-      "ids": {
-        "tmdb": 1403
-      },
-      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
     },
     {
       "id": "tmdb:1877",
@@ -421,18 +379,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
     },
     {
-      "id": "tmdb:32726",
+      "id": "tmdb:157239",
       "type": "series",
-      "name": "Bob's Burgers",
+      "name": "Alien: Planeta Tierra",
       "ids": {
-        "tmdb": 32726
+        "tmdb": 157239
       },
-      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "overview": "Cuando una misteriosa nave se estrella contra la Tierra, una joven y un variopinto grupo de soldados tácticos hacen un fatídico hallazgo que los pone cara a cara con la mayor amenaza del planeta. El equipo de rescate busca supervivientes entre los restos de la colisión y se topa con una forma de vida depredadora que levanta más misterios y miedos de los que cabría imaginarse. Debido a esta nueva amenaza, el equipo deberá luchar por sobrevivir. Lo que decidan hacer con este descubrimiento podría cambiar el planeta Tierra tal y como lo conocen.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gESYHnWmRuF1T418Gxq3Q0Qytrn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jtm7uQb6FXl152OJZjsYsAquhvk.png"
+    },
+    {
+      "id": "tmdb:2710",
+      "type": "series",
+      "name": "Colgados en Filadelfia",
+      "ids": {
+        "tmdb": 2710
+      },
+      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
     },
     {
       "id": "tmdb:90",
@@ -463,6 +435,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/21zm3sP3j6rmpbZR3j0quusRe6h.png"
     },
     {
+      "id": "tmdb:95",
+      "type": "series",
+      "name": "Buffy, cazavampiros",
+      "ids": {
+        "tmdb": 95
+      },
+      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
+    },
+    {
       "id": "tmdb:615",
       "type": "series",
       "name": "Futurama",
@@ -477,18 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/srgYnMQDj84xPn5ramBXbeX4OmP.svg"
     },
     {
-      "id": "tmdb:107113",
+      "id": "tmdb:1403",
       "type": "series",
-      "name": "Solo asesinatos en el edificio",
+      "name": "Marvel Agentes de S.H.I.E.L.D.",
       "ids": {
-        "tmdb": 107113
+        "tmdb": 1403
       },
-      "overview": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/7yD7k8IX20WTpHlLqB97Q9d2clq.jpg",
+      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9WjVGJnpNWHTazIakcu129hKGIu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTG9Ug1ZDNIm1d0k0y65LHrwe13.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
     },
     {
       "id": "tmdb:4556",
@@ -505,6 +491,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/6lCg07nxaLGpEap849catTySkvi.png"
     },
     {
+      "id": "tmdb:74016",
+      "type": "series",
+      "name": "The Resident",
+      "ids": {
+        "tmdb": 74016
+      },
+      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
+    },
+    {
       "id": "tmdb:39272",
       "type": "series",
       "name": "Érase una vez",
@@ -519,18 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
     },
     {
-      "id": "tmdb:1606",
+      "id": "tmdb:107113",
       "type": "series",
-      "name": "Entre fantasmas",
+      "name": "Solo asesinatos en el edificio",
       "ids": {
-        "tmdb": 1606
+        "tmdb": 107113
       },
-      "overview": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/9ZtGupUFaHhws7mOcwhNTtRpRHC.jpg",
+      "overview": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/7yD7k8IX20WTpHlLqB97Q9d2clq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lqsfTn1iv6sOQ54yKLBbwkYPTAh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9WjVGJnpNWHTazIakcu129hKGIu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTG9Ug1ZDNIm1d0k0y65LHrwe13.png"
     },
     {
       "id": "tmdb:4194",
@@ -547,18 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png"
     },
     {
-      "id": "tmdb:74016",
+      "id": "tmdb:1606",
       "type": "series",
-      "name": "The Resident",
+      "name": "Entre fantasmas",
       "ids": {
-        "tmdb": 74016
+        "tmdb": 1606
       },
-      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "overview": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/9ZtGupUFaHhws7mOcwhNTtRpRHC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lqsfTn1iv6sOQ54yKLBbwkYPTAh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
     },
     {
       "id": "tmdb:1420",
@@ -575,18 +575,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ibfGyA8sPLTjycPsPUSywEWPOc2.png"
     },
     {
-      "id": "tmdb:2004",
+      "id": "tmdb:67136",
       "type": "series",
-      "name": "Malcolm",
+      "name": "This Is Us",
       "ids": {
-        "tmdb": 2004
+        "tmdb": 67136
       },
-      "overview": "Sitcom familiar que aborda los divertidos problemas y situaciones de una familia americana de clase media en la que el hijo Malcolm parece ser el único sensato... o al menos el único que da señales de cordura. La familia está compuesta por sus neuróticos padres Hal y Lois, el hermano mayor Francis y sus otros dos hermanos, Reese y Dewey.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "overview": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pXFnagVVpuszQ6mnMkVov27SGe2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/q76JvT3BAYMVIGAnURDOYHht5Aw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Q6yKFzBM07507ud3CY5YdjtkOc.svg"
+    },
+    {
+      "id": "tmdb:107113",
+      "type": "series",
+      "name": "Solo asesinatos en el edificio",
+      "ids": {
+        "tmdb": 107113
+      },
+      "overview": "Tres extraños que comparten la obsesión por los crímenes reales y de repente se ven envueltos en uno al investigar la misteriosa muerte de un vecino en su edificio de Nueva York.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/7yD7k8IX20WTpHlLqB97Q9d2clq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9WjVGJnpNWHTazIakcu129hKGIu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTG9Ug1ZDNIm1d0k0y65LHrwe13.png"
     },
     {
       "id": "tmdb:33907",
@@ -603,6 +617,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     },
     {
+      "id": "tmdb:82728",
+      "type": "series",
+      "name": "Bluey",
+      "ids": {
+        "tmdb": 82728
+      },
+      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
+    },
+    {
       "id": "tmdb:1407",
       "type": "series",
       "name": "Homeland",
@@ -615,20 +643,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
-    },
-    {
-      "id": "tmdb:67136",
-      "type": "series",
-      "name": "This Is Us",
-      "ids": {
-        "tmdb": 67136
-      },
-      "overview": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q76JvT3BAYMVIGAnURDOYHht5Aw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Q6yKFzBM07507ud3CY5YdjtkOc.svg"
     },
     {
       "id": "tmdb:1417",
@@ -671,20 +685,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/99HG3MVwRsSDTO3xWNWPfmYm4Kc.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3D1QRLTxdGQBLC0HYs65FyUncY2.png"
-    },
-    {
-      "id": "tmdb:194",
-      "type": "series",
-      "name": "Policías de Nueva York",
-      "ids": {
-        "tmdb": 194
-      },
-      "overview": "Serie sobre una comisaría de policía ambientada en las calles de Nueva York. \"NYPD Blue\" se podría considerar la serie que tomó el relevo a \"Canción triste de Hill Street\" (Hill Street Blues), serie también creada por Steven Bochco.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/bt3D7269j3lcbWjAR7rbPCHkM10.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gsY8jVULNvFvkNmTDDahCE6B6dx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPcTIn0LNt5eRfxZfZn6fcwQ9NJ.png"
     },
     {
       "id": "tmdb:71694",
