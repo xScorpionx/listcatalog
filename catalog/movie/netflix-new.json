@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1497036",
+      "type": "movie",
+      "name": "Dr. Seuss: Los Sneetches",
+      "ids": {
+        "tmdb": 1497036
+      },
+      "overview": "En la tripa de Estela hay una estrella. En la de Perla, una luna. Pero ambas son Sneetches, ¿no? ¿Qué les impide ser las mejores amigas?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5jqpfOY6q8ltnCFEfUPY3c0bpR5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/x97g8whecfdeZ11KUvHHxpjlRcI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eMXjp82EdUqFRbIro7px9FYYN2L.png"
+    },
+    {
       "id": "tmdb:1571470",
       "type": "movie",
       "name": "Las Ratas: Una historia de 'The Witcher'",
@@ -53,7 +67,8 @@
       "year": 2025,
       "poster": "https://image.tmdb.org/t/p/w342/9wUOI1SiiT4CPt8KyaI7geSWfT3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aT5ia8bnWeRUnhWsEe8798l9o5Y.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/aT5ia8bnWeRUnhWsEe8798l9o5Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z8jDithRJsk3t5Bqujf5HSKmMcO.png"
     },
     {
       "id": "tmdb:1306525",
@@ -677,20 +692,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/1VsuIGwKfp0Xb1H9VDQ5JdgDYR1.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rc6c0MsQ7DGN0v6JSNdID3q2n1L.png"
-    },
-    {
-      "id": "tmdb:1500691",
-      "type": "movie",
-      "name": "Este maldito fútbol fantasy",
-      "ids": {
-        "tmdb": 1500691
-      },
-      "overview": "Cuando un miembro de su Liga de fútbol fantasy se esfuma el día de su boda, un peculiar grupo de amigos relata lo que ocurrió antes de su desenfrenada despedida de soltero.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/hVFMmPPvG1JSkJWMMbzV1llUXM0.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bPWxA3moTGB58MPqswKkzy0ARxF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g5aFbjag2Hsx0rwFvVaRQw98EkU.png"
     }
   ]
 }
