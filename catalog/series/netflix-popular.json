@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:71912",
+      "type": "series",
+      "name": "The Witcher",
+      "ids": {
+        "tmdb": 71912
+      },
+      "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A9PsaBXeO0OeTDlx1P5AFo0NG39.png"
+    },
+    {
       "id": "tmdb:66732",
       "type": "series",
       "name": "Stranger Things",
@@ -29,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1oiOZxgAvJbCpw6FIK3eUCfmipY.png"
     },
     {
-      "id": "tmdb:1405",
-      "type": "series",
-      "name": "Dexter",
-      "ids": {
-        "tmdb": 1405
-      },
-      "overview": "Serie de suspense que narra la historia de un hombre extraño llamado Dexter Morgan. Cuando era niño, Dexter fue maltratado y abandonado por sus padres, ahora es un exitoso e importante forense patológico... pero bajo su carismática personalidad, se esconde una terrible verdad. Dexter ha canalizado sus innatas necesidades homicidas en una segunda profesión que guarda celosamente en secreto: buscar, dar caza y asesinar brutalmente a despiadados criminales.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5PBWovhpRsUeLMGBZIkacr9dp24.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
-    },
-    {
       "id": "tmdb:34307",
       "type": "series",
       "name": "Shameless",
@@ -55,6 +55,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
+    },
+    {
+      "id": "tmdb:1405",
+      "type": "series",
+      "name": "Dexter",
+      "ids": {
+        "tmdb": 1405
+      },
+      "overview": "Serie de suspense que narra la historia de un hombre extraño llamado Dexter Morgan. Cuando era niño, Dexter fue maltratado y abandonado por sus padres, ahora es un exitoso e importante forense patológico... pero bajo su carismática personalidad, se esconde una terrible verdad. Dexter ha canalizado sus innatas necesidades homicidas en una segunda profesión que guarda celosamente en secreto: buscar, dar caza y asesinar brutalmente a despiadados criminales.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5PBWovhpRsUeLMGBZIkacr9dp24.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
     },
     {
       "id": "tmdb:293613",
@@ -99,18 +113,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
     },
     {
-      "id": "tmdb:119051",
+      "id": "tmdb:1396",
       "type": "series",
-      "name": "Miércoles",
+      "name": "Breaking Bad",
       "ids": {
-        "tmdb": 119051
+        "tmdb": 1396
       },
-      "overview": "Miércoles Addams, lista, sarcástica y un poco muerta por dentro, investiga una oleada de asesinatos mientras hace amigos —y enemigos— en la Academia Nunca Más.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/bNKwoYqkCXfIhhr5Jz8slrsw32r.jpg",
+      "overview": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zChTpZTxgxcAibXi0I2pEusRQCl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zxyB1cF3R8vUyB8bh5LNzqhSnUU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tPIEBq3G4a6a94aVp4zoLNtTGTj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
     },
     {
       "id": "tmdb:44217",
@@ -127,32 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cMakaU4nbybkKOYhq47O8bFNRw2.png"
     },
     {
-      "id": "tmdb:1396",
+      "id": "tmdb:37680",
       "type": "series",
-      "name": "Breaking Bad",
+      "name": "Suits: la clave del éxito",
       "ids": {
-        "tmdb": 1396
+        "tmdb": 37680
       },
-      "overview": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía. Entre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de corte de derecho. El azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter. La inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un sólo título universitario.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/o7IXNuLjKv475y8XWipkvolSPS4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tPIEBq3G4a6a94aVp4zoLNtTGTj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
-    },
-    {
-      "id": "tmdb:4656",
-      "type": "series",
-      "name": "Raw",
-      "ids": {
-        "tmdb": 4656
-      },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/trAOGwksvgHYNpbK4GewbjYQ1pi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
     },
     {
       "id": "tmdb:2316",
@@ -169,116 +169,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
-      "id": "tmdb:37680",
+      "id": "tmdb:4656",
       "type": "series",
-      "name": "Suits: la clave del éxito",
+      "name": "Raw",
       "ids": {
-        "tmdb": 37680
+        "tmdb": 4656
       },
-      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía. Entre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de corte de derecho. El azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter. La inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un sólo título universitario.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/o7IXNuLjKv475y8XWipkvolSPS4.jpg",
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/trAOGwksvgHYNpbK4GewbjYQ1pi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
-    },
-    {
-      "id": "tmdb:286801",
-      "type": "series",
-      "name": "Monstruo: La historia de Ed Gein",
-      "ids": {
-        "tmdb": 286801
-      },
-      "overview": "La impactante historia real de Ed Gein, el infame asesino y profanador de tumbas que sirvió de inspiración para numerosas películas emblemáticas de Hollywood sobre asesinos.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/1v9X7qviwTllikhIZdVAjRmDQtL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kpuGfQJHFUr206KUjO3Ns9PHkP4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hRIEXmUxJ0b9tQOk0IInsvthLkE.png"
-    },
-    {
-      "id": "tmdb:249586",
-      "type": "series",
-      "name": "El imperio de Ámsterdam",
-      "ids": {
-        "tmdb": 249586
-      },
-      "overview": "Cuando la infidelidad de Jack sale a la luz, su esposa Betty traza un plan implacable para deshacerse de su posesión más preciada: el Jackal, su cadena de cafeterías.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8qaf4GIj6Nt5lMMe5rycQRpiaNd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vlmJErSnJYjpnl6s1Io7H9Tq3L7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nb9VWuPMQ6TEaaUoxtrOaBEDSgI.png"
-    },
-    {
-      "id": "tmdb:71790",
-      "type": "series",
-      "name": "S.W.A.T.: Los hombres de Harrelson",
-      "ids": {
-        "tmdb": 71790
-      },
-      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
-    },
-    {
-      "id": "tmdb:46296",
-      "type": "series",
-      "name": "Spartacus",
-      "ids": {
-        "tmdb": 46296
-      },
-      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
-    },
-    {
-      "id": "tmdb:63174",
-      "type": "series",
-      "name": "Lucifer",
-      "ids": {
-        "tmdb": 63174
-      },
-      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
-    },
-    {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
-      "id": "tmdb:60572",
-      "type": "series",
-      "name": "Pokémon",
-      "ids": {
-        "tmdb": 60572
-      },
-      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
       "id": "tmdb:1402",
@@ -295,6 +197,76 @@
       "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
+      "id": "tmdb:71790",
+      "type": "series",
+      "name": "S.W.A.T.: Los hombres de Harrelson",
+      "ids": {
+        "tmdb": 71790
+      },
+      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
+    },
+    {
+      "id": "tmdb:63174",
+      "type": "series",
+      "name": "Lucifer",
+      "ids": {
+        "tmdb": 63174
+      },
+      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
+    },
+    {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
+      "id": "tmdb:249586",
+      "type": "series",
+      "name": "El imperio de Ámsterdam",
+      "ids": {
+        "tmdb": 249586
+      },
+      "overview": "Cuando la infidelidad de Jack sale a la luz, su esposa Betty traza un plan implacable para deshacerse de su posesión más preciada: el Jackal, su cadena de cafeterías.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8qaf4GIj6Nt5lMMe5rycQRpiaNd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vlmJErSnJYjpnl6s1Io7H9Tq3L7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nb9VWuPMQ6TEaaUoxtrOaBEDSgI.png"
+    },
+    {
+      "id": "tmdb:60572",
+      "type": "series",
+      "name": "Pokémon",
+      "ids": {
+        "tmdb": 60572
+      },
+      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
+    },
+    {
       "id": "tmdb:73586",
       "type": "series",
       "name": "Yellowstone",
@@ -309,46 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
     },
     {
-      "id": "tmdb:120089",
+      "id": "tmdb:65334",
       "type": "series",
-      "name": "SPY x FAMILY",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
       "ids": {
-        "tmdb": 120089
+        "tmdb": 65334
       },
-      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
-    },
-    {
-      "id": "tmdb:282440",
-      "type": "series",
-      "name": "Los dueños del juego",
-      "ids": {
-        "tmdb": 282440
-      },
-      "overview": "Un joven aspira a ascender en el turbio mundo del juego clandestino de Río, sin imaginar la red de traiciones, deseo y sangre que lo aguarda.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v2XU2g7BmTlsQwCvSOKNIqDTeW4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9MIyklaj78TOar8yJjqJNTWTDJe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vElaeMmdJTq8KhgAw4p3msxeyBR.png"
-    },
-    {
-      "id": "tmdb:95479",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "ids": {
-        "tmdb": 95479
-      },
-      "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:71712",
@@ -365,116 +309,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
-      "id": "tmdb:110316",
+      "id": "tmdb:120089",
       "type": "series",
-      "name": "Alice in Borderland",
+      "name": "SPY x FAMILY",
       "ids": {
-        "tmdb": 110316
+        "tmdb": 120089
       },
-      "overview": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
+      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
+    },
+    {
+      "id": "tmdb:95479",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "ids": {
+        "tmdb": 95479
+      },
+      "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
       "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nqVGzs0oERUcnyJgyiDe3OW994c.png"
-    },
-    {
-      "id": "tmdb:93405",
-      "type": "series",
-      "name": "El juego del calamar",
-      "ids": {
-        "tmdb": 93405
-      },
-      "overview": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g8ycl0j14uesH7CgqQfEyVPOLNz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ivkt4d2ffX9scRGzc0BYAq23j2A.png"
-    },
-    {
-      "id": "tmdb:57532",
-      "type": "series",
-      "name": "La Patrulla Canina",
-      "ids": {
-        "tmdb": 57532
-      },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
-      "id": "tmdb:60574",
-      "type": "series",
-      "name": "Peaky Blinders",
-      "ids": {
-        "tmdb": 60574
-      },
-      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
-    },
-    {
-      "id": "tmdb:4586",
-      "type": "series",
-      "name": "Las chicas Gilmore",
-      "ids": {
-        "tmdb": 4586
-      },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
-    },
-    {
-      "id": "tmdb:262920",
-      "type": "series",
-      "name": "La agente encubierta",
-      "ids": {
-        "tmdb": 262920
-      },
-      "overview": "Una joven agente se infiltra para hacerse amiga de la mujer de un narcotraficante. Pero cuanto más se acerca a su objetivo, más complicada se vuelve su misión.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lTMV6bRFFlWXYapQAAgDeLAGNjf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tSK4wtPfR9cuxciHW9CccOxzjR6.png"
-    },
-    {
-      "id": "tmdb:46260",
-      "type": "series",
-      "name": "Naruto",
-      "ids": {
-        "tmdb": 46260
-      },
-      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
-    },
-    {
-      "id": "tmdb:78191",
-      "type": "series",
-      "name": "You",
-      "ids": {
-        "tmdb": 78191
-      },
-      "overview": "Cuando un brillante administrador de librería se cruza con un aspirante a escritor, utiliza Internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo rápidamente se convierte en obsesión mientras quita silenciosamente y estratégicamente cada obstáculo, y persona, en su camino.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ijXRctzwrcLZZmKPskToK9jiUsf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
     },
     {
       "id": "tmdb:1400",
@@ -491,6 +351,132 @@
       "logo": "https://image.tmdb.org/t/p/w500/kMUR0tpFpeSEj8DWlG7I9lPFxS5.png"
     },
     {
+      "id": "tmdb:57532",
+      "type": "series",
+      "name": "La Patrulla Canina",
+      "ids": {
+        "tmdb": 57532
+      },
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
+    },
+    {
+      "id": "tmdb:93405",
+      "type": "series",
+      "name": "El juego del calamar",
+      "ids": {
+        "tmdb": 93405
+      },
+      "overview": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g8ycl0j14uesH7CgqQfEyVPOLNz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ivkt4d2ffX9scRGzc0BYAq23j2A.png"
+    },
+    {
+      "id": "tmdb:282440",
+      "type": "series",
+      "name": "Los dueños del juego",
+      "ids": {
+        "tmdb": 282440
+      },
+      "overview": "Un joven aspira a ascender en el turbio mundo del juego clandestino de Río, sin imaginar la red de traiciones, deseo y sangre que lo aguarda.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v2XU2g7BmTlsQwCvSOKNIqDTeW4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9MIyklaj78TOar8yJjqJNTWTDJe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vElaeMmdJTq8KhgAw4p3msxeyBR.png"
+    },
+    {
+      "id": "tmdb:60574",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "ids": {
+        "tmdb": 60574
+      },
+      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
+    },
+    {
+      "id": "tmdb:110316",
+      "type": "series",
+      "name": "Alice in Borderland",
+      "ids": {
+        "tmdb": 110316
+      },
+      "overview": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nqVGzs0oERUcnyJgyiDe3OW994c.png"
+    },
+    {
+      "id": "tmdb:78191",
+      "type": "series",
+      "name": "You",
+      "ids": {
+        "tmdb": 78191
+      },
+      "overview": "Cuando un brillante administrador de librería se cruza con un aspirante a escritor, utiliza Internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo rápidamente se convierte en obsesión mientras quita silenciosamente y estratégicamente cada obstáculo, y persona, en su camino.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ijXRctzwrcLZZmKPskToK9jiUsf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
+    },
+    {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
+      "id": "tmdb:15226",
+      "type": "series",
+      "name": "CID",
+      "ids": {
+        "tmdb": 15226
+      },
+      "overview": "The first thrilling investigative series on Indian Television, is today one of the most popular shows on Sony Entertainment Television. Dramatic and absolutely unpredictable, Crime Investigation Department (C.I.D.) has captivated viewers over the last eleven years and continues to keep audiences glued to their television sets with its thrilling plots and excitement. Also interwoven in its fast-paced plots are the personal challenges that the C.I.D. team faces with non-stop adventure, tremendous pressure and risk, all in the name of duty. The series consists of hard-core police procedural stories dealing with investigation, detection and suspense. The protagonists of the serial are an elite group of police officers belonging to the Crime Investigation Department of the police force, led by ACP Pradyuman.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/26uEr3docGiJVEDlqepAjf99Vlq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hRjxW43vXpHZEKoT0g7zbQUgwwd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mX37jrDHYdHwuthLzSnVDEOnNU6.png"
+    },
+    {
+      "id": "tmdb:210268",
+      "type": "series",
+      "name": "Cenizas del pasado",
+      "ids": {
+        "tmdb": 210268
+      },
+      "overview": "Su madre asumió la culpa de un trágico incendio hace 13 años. Ahora, Anzu se infiltra como ama de llaves en el hogar de su fría madrastra para vengarse.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/AurLEp91XVWnkgRsn5dR5vkPFYM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/67TIJ7dx3P8q2k2e3D7vd4ZOPhg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eacXLo8GPHuKjJe7PEuzk5maN0n.png"
+    },
+    {
       "id": "tmdb:71728",
       "type": "series",
       "name": "El joven Sheldon",
@@ -505,18 +491,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
-      "id": "tmdb:60059",
+      "id": "tmdb:46260",
       "type": "series",
-      "name": "Better Call Saul",
+      "name": "Naruto",
       "ids": {
-        "tmdb": 60059
+        "tmdb": 46260
       },
-      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     },
     {
       "id": "tmdb:655",
@@ -533,46 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9IuUU8a7brKkVjK77afeBww7yUK.png"
     },
     {
-      "id": "tmdb:45140",
+      "id": "tmdb:60059",
       "type": "series",
-      "name": "Teen Titans Go!",
+      "name": "Better Call Saul",
       "ids": {
-        "tmdb": 45140
+        "tmdb": 60059
       },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
-    },
-    {
-      "id": "tmdb:31132",
-      "type": "series",
-      "name": "Historias corrientes",
-      "ids": {
-        "tmdb": 31132
-      },
-      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
-    },
-    {
-      "id": "tmdb:46298",
-      "type": "series",
-      "name": "Hunter × Hunter",
-      "ids": {
-        "tmdb": 46298
-      },
-      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
     },
     {
       "id": "tmdb:220150",
@@ -589,74 +547,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
     },
     {
-      "id": "tmdb:38693",
+      "id": "tmdb:45140",
       "type": "series",
-      "name": "LEGO Ninjago: Maestros del Spinjitzu",
+      "name": "Teen Titans Go!",
       "ids": {
-        "tmdb": 38693
+        "tmdb": 45140
       },
-      "overview": "Kai, Jay, Cole y Zane deben perfeccionar sus poderes elementales y armas Spinjitzu para proteger las tierras de Ninjago.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4cheoeXg8iQb2NH8OWRFcNp3wS2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7MSskBZ9qhIthuhqCBiBLpIyo7h.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
-      "id": "tmdb:247756",
+      "id": "tmdb:46298",
       "type": "series",
-      "name": "El Monstruo de Florencia",
+      "name": "Hunter × Hunter",
       "ids": {
-        "tmdb": 247756
+        "tmdb": 46298
       },
-      "overview": "Mientras un asesino en serie que ataca a parejas siembra el terror en Italia, las autoridades indagan un caso de 1968 que podría ser la clave para dar con el Monstruo de Florencia.",
+      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
+    },
+    {
+      "id": "tmdb:31132",
+      "type": "series",
+      "name": "Historias corrientes",
+      "ids": {
+        "tmdb": 31132
+      },
+      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
+    },
+    {
+      "id": "tmdb:262920",
+      "type": "series",
+      "name": "La agente encubierta",
+      "ids": {
+        "tmdb": 262920
+      },
+      "overview": "Una joven agente se infiltra para hacerse amiga de la mujer de un narcotraficante. Pero cuanto más se acerca a su objetivo, más complicada se vuelve su misión.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zXAJWl0oubQ5eUdEFUm6z5gPLAY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aktYRlUGrGmQ5hpMCFlm8OwaHZj.png"
-    },
-    {
-      "id": "tmdb:56570",
-      "type": "series",
-      "name": "Outlander",
-      "ids": {
-        "tmdb": 56570
-      },
-      "overview": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6vOKcczU3HUzigeSpqfl7CSjyMv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png"
-    },
-    {
-      "id": "tmdb:31910",
-      "type": "series",
-      "name": "Naruto Shippuden",
-      "ids": {
-        "tmdb": 31910
-      },
-      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
-    },
-    {
-      "id": "tmdb:253811",
-      "type": "series",
-      "name": "Tougen Anki",
-      "ids": {
-        "tmdb": 253811
-      },
-      "overview": "Los descendientes de Momotarou y Oni han tenido una rivalidad de siglos. Shiki Ichinose, un adolescente rebelde, descubre que su padre adoptivo, Tsuyoshi, ha estado ocultando su origen Oni. Cuando un Momotarou llega buscando a Shiki, Tsuyoshi muere protegiéndolo, revelando la verdad y despertando el poder Oni de Shiki, quien se transforma en un monstruo lleno de furia.  Atraído por este estallido, Naito Mudano, un profesor Oni, lo lleva a la Academia Rakshasa, donde Shiki debe aprender a controlar su naturaleza impulsiva y luchar contra su sangre demoníaca antes de buscar venganza.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tCgsyKrTCS3w92cJk8F2hKOB9Xr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5KJjTVvl4ZDFJNHT5NV6etyBHCy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lTMV6bRFFlWXYapQAAgDeLAGNjf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tSK4wtPfR9cuxciHW9CccOxzjR6.png"
     },
     {
       "id": "tmdb:15260",
@@ -673,18 +617,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
     },
     {
-      "id": "tmdb:209867",
+      "id": "tmdb:38693",
       "type": "series",
-      "name": "Frieren: Tras finalizar el viaje",
+      "name": "LEGO Ninjago: Maestros del Spinjitzu",
       "ids": {
-        "tmdb": 209867
+        "tmdb": 38693
       },
-      "overview": "La maga Frieren formaba parte del grupo del héroe Himmel, quienes derrotaron al Rey Demonio tras un viaje de 10 años y devolvieron la paz al reino. Frieren es una elfa de más de mil años de vida, así que al despedirse de Himmel y sus compañeros promete que regresará para verlos y parte de viaje sola. Al cabo de cincuenta años, Frieren cumple su promesa y acude a visitar a Himmel y al resto. Aunque ella no ha cambiado, Himmel y los demás han envejecido y están en el final de sus vidas. Cuando Himmel muere, Frieren se arrepiente de no haber pasado más tiempo a su lado conociéndolo, así que emprende un viaje para conocer mejor a sus antiguos compañeros, a las personas y descubrir más del mundo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/v7i3yNKxsDwB5IG9ElWgOGPieE8.jpg",
+      "overview": "Kai, Jay, Cole y Zane deben perfeccionar sus poderes elementales y armas Spinjitzu para proteger las tierras de Ninjago.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9873hKCWHK6QBPQ4sPhpZs5E52T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4cheoeXg8iQb2NH8OWRFcNp3wS2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7MSskBZ9qhIthuhqCBiBLpIyo7h.png"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+    },
+    {
+      "id": "tmdb:42009",
+      "type": "series",
+      "name": "Black Mirror",
+      "ids": {
+        "tmdb": 42009
+      },
+      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
+    },
+    {
+      "id": "tmdb:31910",
+      "type": "series",
+      "name": "Naruto Shippuden",
+      "ids": {
+        "tmdb": 31910
+      },
+      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
     },
     {
       "id": "tmdb:1855",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/92PHcK3OHiYkM2ZvCOiRGI5sEcB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kGKcKyX4Wf4XGVqp2dTGn0E4Luc.png"
+    },
+    {
+      "id": "tmdb:56570",
+      "type": "series",
+      "name": "Outlander",
+      "ids": {
+        "tmdb": 56570
+      },
+      "overview": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6vOKcczU3HUzigeSpqfl7CSjyMv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png"
     }
   ]
 }
