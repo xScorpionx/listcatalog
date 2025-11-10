@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:71912",
-      "type": "series",
-      "name": "The Witcher",
-      "ids": {
-        "tmdb": 71912
-      },
-      "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A9PsaBXeO0OeTDlx1P5AFo0NG39.png"
-    },
-    {
       "id": "tmdb:66732",
       "type": "series",
       "name": "Stranger Things",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uyVM5qGksUzCgwo6UU0UrHex8Oj.png"
+    },
+    {
+      "id": "tmdb:71912",
+      "type": "series",
+      "name": "The Witcher",
+      "ids": {
+        "tmdb": 71912
+      },
+      "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A9PsaBXeO0OeTDlx1P5AFo0NG39.png"
     },
     {
       "id": "tmdb:79744",
@@ -85,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png"
     },
     {
+      "id": "tmdb:210268",
+      "type": "series",
+      "name": "Cenizas del pasado",
+      "ids": {
+        "tmdb": 210268
+      },
+      "overview": "Su madre asumió la culpa de un trágico incendio hace 13 años. Ahora, Anzu se infiltra como ama de llaves en el hogar de su fría madrastra para vengarse.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/AurLEp91XVWnkgRsn5dR5vkPFYM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/67TIJ7dx3P8q2k2e3D7vd4ZOPhg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eacXLo8GPHuKjJe7PEuzk5maN0n.png"
+    },
+    {
       "id": "tmdb:46952",
       "type": "series",
       "name": "The Blacklist",
@@ -127,20 +141,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/zxyB1cF3R8vUyB8bh5LNzqhSnUU.png"
     },
     {
-      "id": "tmdb:1396",
-      "type": "series",
-      "name": "Breaking Bad",
-      "ids": {
-        "tmdb": 1396
-      },
-      "overview": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tPIEBq3G4a6a94aVp4zoLNtTGTj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
-    },
-    {
       "id": "tmdb:37680",
       "type": "series",
       "name": "Suits: la clave del éxito",
@@ -155,18 +155,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
     },
     {
-      "id": "tmdb:95479",
+      "id": "tmdb:1396",
       "type": "series",
-      "name": "Jujutsu Kaisen",
+      "name": "Breaking Bad",
       "ids": {
-        "tmdb": 95479
+        "tmdb": 1396
       },
-      "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "overview": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tPIEBq3G4a6a94aVp4zoLNtTGTj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:2316",
@@ -197,6 +211,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
+      "id": "tmdb:95479",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "ids": {
+        "tmdb": 95479
+      },
+      "overview": "Dificultades, arrepentimiento, vergüenza… Los sentimientos negativos de los humanos se convierten en Maldiciones que nos acechan en nuestra vida diaria. Las Maldiciones campan a sus anchas por todo el mundo, y pueden llevar a las personas a sufrir terribles desgracias e incluso dirigirlas a su muerte. Y lo que es peor: solo una Maldición puede exorcizar otra Maldición.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+    },
+    {
       "id": "tmdb:44217",
       "type": "series",
       "name": "Vikingos",
@@ -225,32 +253,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
     },
     {
-      "id": "tmdb:65334",
+      "id": "tmdb:245219",
       "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "name": "Muerte por un rayo",
       "ids": {
-        "tmdb": 65334
+        "tmdb": 245219
       },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "overview": "La historia de James Garfield, quien se alzó de entre las sombras para convertirse en el 20.º presidente estadounidense... y Charles Guiteau, el hombre que lo asesinó.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/YJzH2fGt96ExpRNcIp1yyTqB3n.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8AyBz6n6utCu1vQqcLBRvCPTtja.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kw3YicXbYQ5rJFQ4rX4KpIItOgM.png"
     },
     {
-      "id": "tmdb:210268",
+      "id": "tmdb:73586",
       "type": "series",
-      "name": "Cenizas del pasado",
+      "name": "Yellowstone",
       "ids": {
-        "tmdb": 210268
+        "tmdb": 73586
       },
-      "overview": "Su madre asumió la culpa de un trágico incendio hace 13 años. Ahora, Anzu se infiltra como ama de llaves en el hogar de su fría madrastra para vengarse.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/AurLEp91XVWnkgRsn5dR5vkPFYM.jpg",
+      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/67TIJ7dx3P8q2k2e3D7vd4ZOPhg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eacXLo8GPHuKjJe7PEuzk5maN0n.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
+    },
+    {
+      "id": "tmdb:63174",
+      "type": "series",
+      "name": "Lucifer",
+      "ids": {
+        "tmdb": 63174
+      },
+      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
+    },
+    {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
+      "id": "tmdb:217528",
+      "type": "series",
+      "name": "Heweliusz",
+      "ids": {
+        "tmdb": 217528
+      },
+      "overview": "Después del catastrófico naufragio de un ferry, el segundo oficial al mando busca respuestas y justicia para quienes perdieron la vida... y quienes quedaron atrás.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uanBIz4myibV0ytiPgzCVDz1kNg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jJ4Sb3SQR3coGo3rjCCddpseBdR.png"
+    },
+    {
+      "id": "tmdb:60572",
+      "type": "series",
+      "name": "Pokémon",
+      "ids": {
+        "tmdb": 60572
+      },
+      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
     },
     {
       "id": "tmdb:286801",
@@ -281,74 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
-      "id": "tmdb:63174",
+      "id": "tmdb:57532",
       "type": "series",
-      "name": "Lucifer",
+      "name": "La Patrulla Canina",
       "ids": {
-        "tmdb": 63174
+        "tmdb": 57532
       },
-      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
-    },
-    {
-      "id": "tmdb:73586",
-      "type": "series",
-      "name": "Yellowstone",
-      "ids": {
-        "tmdb": 73586
-      },
-      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
-    },
-    {
-      "id": "tmdb:46296",
-      "type": "series",
-      "name": "Spartacus",
-      "ids": {
-        "tmdb": 46296
-      },
-      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
-    },
-    {
-      "id": "tmdb:60572",
-      "type": "series",
-      "name": "Pokémon",
-      "ids": {
-        "tmdb": 60572
-      },
-      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
-    },
-    {
-      "id": "tmdb:217528",
-      "type": "series",
-      "name": "Heweliusz",
-      "ids": {
-        "tmdb": 217528
-      },
-      "overview": "Después del catastrófico naufragio de un ferry, el segundo oficial al mando busca respuestas y justicia para quienes perdieron la vida... y quienes quedaron atrás.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uanBIz4myibV0ytiPgzCVDz1kNg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jJ4Sb3SQR3coGo3rjCCddpseBdR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
       "id": "tmdb:71712",
@@ -365,34 +393,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
-      "id": "tmdb:57532",
-      "type": "series",
-      "name": "La Patrulla Canina",
-      "ids": {
-        "tmdb": 57532
-      },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
-      "id": "tmdb:60059",
-      "type": "series",
-      "name": "Better Call Saul",
-      "ids": {
-        "tmdb": 60059
-      },
-      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
-    },
-    {
       "id": "tmdb:120089",
       "type": "series",
       "name": "SPY x FAMILY",
@@ -405,34 +405,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
-    },
-    {
-      "id": "tmdb:1400",
-      "type": "series",
-      "name": "Seinfeld",
-      "ids": {
-        "tmdb": 1400
-      },
-      "overview": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio. Batió todos los récords de audiencia que se pusieron por delante, y aún hoy en día sus reposiciones siguen contando con innumerables seguidores, no en vano \"Seinfeld\" es una verdadera leyenda de la televisión americana. \"Media hora acerca de nada\", así definió Jerry Seinfeld su teleserie cuando la presentó a los ejecutivos de la NBC, a comienzos de 1990. Contra todo pronóstico, ellos aceptaron. No en vano Seinfeld era ya por entonces uno de los cómicos más populares de Estados Unidos. ¿Su secreto? Sacar punta a las rutinas de cada día hasta convertirlas en reflexiones filosóficas dignas de figurar en un tratado sobre las grandezas y las miserias humanas.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kR3rCBnJsq99siYlWhtLxG7XVpH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kMUR0tpFpeSEj8DWlG7I9lPFxS5.png"
-    },
-    {
-      "id": "tmdb:60574",
-      "type": "series",
-      "name": "Peaky Blinders",
-      "ids": {
-        "tmdb": 60574
-      },
-      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
     },
     {
       "id": "tmdb:93405",
@@ -449,46 +421,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/ivkt4d2ffX9scRGzc0BYAq23j2A.png"
     },
     {
-      "id": "tmdb:110316",
+      "id": "tmdb:60574",
       "type": "series",
-      "name": "Alice in Borderland",
+      "name": "Peaky Blinders",
       "ids": {
-        "tmdb": 110316
+        "tmdb": 60574
       },
-      "overview": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nqVGzs0oERUcnyJgyiDe3OW994c.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
     },
     {
-      "id": "tmdb:282440",
+      "id": "tmdb:1400",
       "type": "series",
-      "name": "Los dueños del juego",
+      "name": "Seinfeld",
       "ids": {
-        "tmdb": 282440
+        "tmdb": 1400
       },
-      "overview": "Un joven aspira a ascender en el turbio mundo del juego clandestino de Río, sin imaginar la red de traiciones, deseo y sangre que lo aguarda.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v2XU2g7BmTlsQwCvSOKNIqDTeW4.jpg",
+      "overview": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio. Batió todos los récords de audiencia que se pusieron por delante, y aún hoy en día sus reposiciones siguen contando con innumerables seguidores, no en vano \"Seinfeld\" es una verdadera leyenda de la televisión americana. \"Media hora acerca de nada\", así definió Jerry Seinfeld su teleserie cuando la presentó a los ejecutivos de la NBC, a comienzos de 1990. Contra todo pronóstico, ellos aceptaron. No en vano Seinfeld era ya por entonces uno de los cómicos más populares de Estados Unidos. ¿Su secreto? Sacar punta a las rutinas de cada día hasta convertirlas en reflexiones filosóficas dignas de figurar en un tratado sobre las grandezas y las miserias humanas.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9MIyklaj78TOar8yJjqJNTWTDJe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vElaeMmdJTq8KhgAw4p3msxeyBR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kR3rCBnJsq99siYlWhtLxG7XVpH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kMUR0tpFpeSEj8DWlG7I9lPFxS5.png"
     },
     {
-      "id": "tmdb:249586",
+      "id": "tmdb:271885",
       "type": "series",
-      "name": "El imperio de Ámsterdam",
+      "name": "Tú siempre estuviste ahí",
       "ids": {
-        "tmdb": 249586
+        "tmdb": 271885
       },
-      "overview": "Cuando la infidelidad de Jack sale a la luz, su esposa Betty traza un plan implacable para deshacerse de su posesión más preciada: el Jackal, su cadena de cafeterías.",
+      "overview": "Cuando dos mujeres planean acabar con un matrimonio abusivo mediante un asesinato, la llegada de un visitante inesperado amenaza con destruirlo todo.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8qaf4GIj6Nt5lMMe5rycQRpiaNd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1mCAo5XkkaW67xeF2aAW26HaPFh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vlmJErSnJYjpnl6s1Io7H9Tq3L7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nb9VWuPMQ6TEaaUoxtrOaBEDSgI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wspJ39q0WCYY5qFvPyDdjDpQhi3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/umTZujrxxp7B6qcRD7l4CItFiBE.png"
     },
     {
       "id": "tmdb:78191",
@@ -505,18 +477,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
     },
     {
-      "id": "tmdb:4586",
+      "id": "tmdb:110316",
       "type": "series",
-      "name": "Las chicas Gilmore",
+      "name": "Alice in Borderland",
       "ids": {
-        "tmdb": 4586
+        "tmdb": 110316
       },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "overview": "Un aficionado a los videojuegos y sus dos amigos se ven atrapados en una versión paralela de Tokio, donde deben competir en sádicos juegos para sobrevivir.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/i6vV0LDMnyFFT3yBysMHvpWEZor.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nqVGzs0oERUcnyJgyiDe3OW994c.png"
     },
     {
       "id": "tmdb:71728",
@@ -531,6 +503,62 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+    },
+    {
+      "id": "tmdb:282440",
+      "type": "series",
+      "name": "Los dueños del juego",
+      "ids": {
+        "tmdb": 282440
+      },
+      "overview": "Un joven aspira a ascender en el turbio mundo del juego clandestino de Río, sin imaginar la red de traiciones, deseo y sangre que lo aguarda.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v2XU2g7BmTlsQwCvSOKNIqDTeW4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9MIyklaj78TOar8yJjqJNTWTDJe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vElaeMmdJTq8KhgAw4p3msxeyBR.png"
+    },
+    {
+      "id": "tmdb:60059",
+      "type": "series",
+      "name": "Better Call Saul",
+      "ids": {
+        "tmdb": 60059
+      },
+      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
+    },
+    {
+      "id": "tmdb:46260",
+      "type": "series",
+      "name": "Naruto",
+      "ids": {
+        "tmdb": 46260
+      },
+      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
+    },
+    {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
       "id": "tmdb:45140",
@@ -559,20 +587,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qaNf7MO7Jfo9hUPC23mwfFgP3Uh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
-    },
-    {
-      "id": "tmdb:46260",
-      "type": "series",
-      "name": "Naruto",
-      "ids": {
-        "tmdb": 46260
-      },
-      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     },
     {
       "id": "tmdb:31132",
@@ -617,6 +631,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
+      "id": "tmdb:249586",
+      "type": "series",
+      "name": "El imperio de Ámsterdam",
+      "ids": {
+        "tmdb": 249586
+      },
+      "overview": "Cuando la infidelidad de Jack sale a la luz, su esposa Betty traza un plan implacable para deshacerse de su posesión más preciada: el Jackal, su cadena de cafeterías.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8qaf4GIj6Nt5lMMe5rycQRpiaNd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vlmJErSnJYjpnl6s1Io7H9Tq3L7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nb9VWuPMQ6TEaaUoxtrOaBEDSgI.png"
+    },
+    {
       "id": "tmdb:220150",
       "type": "series",
       "name": "Horizontes Pokémon",
@@ -629,6 +657,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/w1gCEpUvhQiWBEJqASQvgBnvbK0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
+    },
+    {
+      "id": "tmdb:253811",
+      "type": "series",
+      "name": "Tougen Anki",
+      "ids": {
+        "tmdb": 253811
+      },
+      "overview": "Los descendientes de Momotarou y Oni han tenido una rivalidad de siglos. Shiki Ichinose, un adolescente rebelde, descubre que su padre adoptivo, Tsuyoshi, ha estado ocultando su origen Oni. Cuando un Momotarou llega buscando a Shiki, Tsuyoshi muere protegiéndolo, revelando la verdad y despertando el poder Oni de Shiki, quien se transforma en un monstruo lleno de furia.  Atraído por este estallido, Naito Mudano, un profesor Oni, lo lleva a la Academia Rakshasa, donde Shiki debe aprender a controlar su naturaleza impulsiva y luchar contra su sangre demoníaca antes de buscar venganza.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r5JazfEbojuN5WukKlk7Z52guw6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5KJjTVvl4ZDFJNHT5NV6etyBHCy.png"
     },
     {
       "id": "tmdb:38693",
@@ -657,48 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
-    },
-    {
-      "id": "tmdb:42009",
-      "type": "series",
-      "name": "Black Mirror",
-      "ids": {
-        "tmdb": 42009
-      },
-      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
-    },
-    {
-      "id": "tmdb:31910",
-      "type": "series",
-      "name": "Naruto Shippuden",
-      "ids": {
-        "tmdb": 31910
-      },
-      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
-    },
-    {
-      "id": "tmdb:1855",
-      "type": "series",
-      "name": "Star Trek: Voyager",
-      "ids": {
-        "tmdb": 1855
-      },
-      "overview": "Star Trek: Voyager (algunas veces abreviada ST:VOY, ST:VGR, ST:V) es una serie de televisión de ciencia ficción estadounidense, dentro del universo de Star Trek. Esta serie fue creada por Rick Berman, Michael Piller y Jeri Taylor, y es la cuarta serie televisiva de Star Trek, que comenzó en los años 1960 con Star Trek: La Serie Original, creada por Gene Roddenberry. Star Trek Voyager fue producida durante siete temporadas, entre 1995 y 2001, y es la única serie de T.V. de Star Trek en tener una mujer como capitán (Kathryn Janeway).\n\nEsta serie sigue las aventuras de la nave estelar USS Voyager, atrapada en el Cuadrante Delta a 75 mil años luz de la Tierra, mientras perseguía una nave de renegados Maquis. Ambas tripulaciones se unirán para emprender el camino de regreso a casa.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/92PHcK3OHiYkM2ZvCOiRGI5sEcB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kGKcKyX4Wf4XGVqp2dTGn0E4Luc.png"
     }
   ]
 }
