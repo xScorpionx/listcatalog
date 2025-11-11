@@ -12,7 +12,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/5OLUjOrgXzXrPl2PEgZGHgpQSO9.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6yMiq8WWDBYSBy6HzAVJvDjZh5A.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png"
+      "logo": "https://image.tmdb.org/t/p/w500/84Q60GwI2BihgtiYXnoRorSU4ez.png"
     },
     {
       "id": "tmdb:2734",
@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png"
     },
     {
-      "id": "tmdb:94954",
-      "type": "series",
-      "name": "Hazbin Hotel",
-      "ids": {
-        "tmdb": 94954
-      },
-      "overview": "Charlie Lucero del Alba, la princesa del Infierno, intenta convencer a los demonios y a los ángeles de que toda alma es redimible. Una comedia musical para adultos sobre las segundas oportunidades repleta de canciones y tacos.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4WUV4m1HnKDANVPB6PJIUYY5vKi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3B99fS4EJBRcpbqyxy2swvjC1sI.png"
-    },
-    {
       "id": "tmdb:250670",
       "type": "series",
       "name": "Maxton Hall: Un mundo entre nosotros",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/n3ekogAscgyzyZ66gvEu61conDW.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nTevaZDpqiV5PGjdD781MgmxVeA.png"
+    },
+    {
+      "id": "tmdb:94954",
+      "type": "series",
+      "name": "Hazbin Hotel",
+      "ids": {
+        "tmdb": 94954
+      },
+      "overview": "Charlie Lucero del Alba, la princesa del Infierno, intenta convencer a los demonios y a los ángeles de que toda alma es redimible. Una comedia musical para adultos sobre las segundas oportunidades repleta de canciones y tacos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4WUV4m1HnKDANVPB6PJIUYY5vKi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3B99fS4EJBRcpbqyxy2swvjC1sI.png"
     },
     {
       "id": "tmdb:1622",
@@ -127,20 +127,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/m2Jiqj8b4OjkjBHfp2px8gucB4h.png"
     },
     {
-      "id": "tmdb:1911",
-      "type": "series",
-      "name": "Bones",
-      "ids": {
-        "tmdb": 1911
-      },
-      "overview": "Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2qZCr4aePuDnbA4pBbCMDwbJDsP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
-    },
-    {
       "id": "tmdb:37680",
       "type": "series",
       "name": "Suits: la clave del éxito",
@@ -153,6 +139,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
+    },
+    {
+      "id": "tmdb:1911",
+      "type": "series",
+      "name": "Bones",
+      "ids": {
+        "tmdb": 1911
+      },
+      "overview": "Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2qZCr4aePuDnbA4pBbCMDwbJDsP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
       "id": "tmdb:221079",
@@ -211,20 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
-    },
-    {
       "id": "tmdb:2691",
       "type": "series",
       "name": "Dos hombres y medio",
@@ -267,6 +253,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
     },
     {
+      "id": "tmdb:2316",
+      "type": "series",
+      "name": "The Office",
+      "ids": {
+        "tmdb": 2316
+      },
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+    },
+    {
       "id": "tmdb:58841",
       "type": "series",
       "name": "Chicago P.D.",
@@ -279,20 +279,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pldLJHZfQGUlyT7DKdOWj4oi6Vw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png"
-    },
-    {
-      "id": "tmdb:18165",
-      "type": "series",
-      "name": "Crónicas vampíricas",
-      "ids": {
-        "tmdb": 18165
-      },
-      "overview": "\"Crónicas Vampíricas\" cuenta la historia de dos hermanos vampiros obsesionados con la misma chica en un pequeño pueblo, donde seres sobrenaturales viven en secreto entre sus residentes.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rKNnzmOA1REgxODY5wVe5UEr70w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
       "id": "tmdb:873",
@@ -309,32 +295,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8KvmDUZrkSsT8Yz1mSHcCzdY33p.png"
     },
     {
-      "id": "tmdb:57532",
+      "id": "tmdb:18165",
       "type": "series",
-      "name": "La Patrulla Canina",
+      "name": "Crónicas vampíricas",
       "ids": {
-        "tmdb": 57532
+        "tmdb": 18165
       },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "overview": "\"Crónicas Vampíricas\" cuenta la historia de dos hermanos vampiros obsesionados con la misma chica en un pequeño pueblo, donde seres sobrenaturales viven en secreto entre sus residentes.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rKNnzmOA1REgxODY5wVe5UEr70w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
-      "id": "tmdb:71712",
-      "type": "series",
-      "name": "The Good Doctor",
-      "ids": {
-        "tmdb": 71712
-      },
-      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
       "id": "tmdb:120089",
@@ -351,32 +323,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
     },
     {
-      "id": "tmdb:1412",
+      "id": "tmdb:71712",
       "type": "series",
-      "name": "Arrow",
+      "name": "The Good Doctor",
       "ids": {
-        "tmdb": 1412
+        "tmdb": 71712
       },
-      "overview": "Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado. Por otra parte, trata de ocultar la verdad acerca de en quién se ha convertido mientras trata de enmendar los errores que cometió en el pasado y de reconciliarse con su ex novia, Laurel Lance. Mientras trata de volver a contactar a las personas de su pasado jugando el papel del mujeriego adinerado, despreocupado y descuidado que solía ser, ayudado por su fiel chofer y guardaespaldas John Diggle, crea en secreto el personaje de un justiciero encapuchado, un vigilante que lucha contra los males de la sociedad tratando de darle a su ciudad la gloria que antes tenía; complicando esta misión.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4o0keepwKfyYoziJOmRZS24Omqa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jUu02PexmdU5xAeDYsv1huceChE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
-      "id": "tmdb:279013",
+      "id": "tmdb:57532",
       "type": "series",
-      "name": "Tremembé",
+      "name": "La Patrulla Canina",
       "ids": {
-        "tmdb": 279013
+        "tmdb": 57532
       },
-      "overview": "Serie de TV (2025-). La llegada de Suzane von Richthofen perturba el orden en la cárcel de Tremembé, provocando una pelea con Elize Matsunaga. Jatobá busca protección, mientras que Nardoni, los hermanos Cravinhos, Roger A. y otros hacen cara a enfrentamientos internos y desafían el sistema.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cskW9fqGHqExkXWJBMbz066ZcZo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q0hduoJ14qCddrze2C1zQ2faAON.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
       "id": "tmdb:108978",
@@ -393,18 +365,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/wUhXD6ENFxqof72PL2etaYmpFj6.png"
     },
     {
-      "id": "tmdb:76479",
+      "id": "tmdb:1412",
       "type": "series",
-      "name": "The Boys",
+      "name": "Arrow",
       "ids": {
-        "tmdb": 76479
+        "tmdb": 1412
       },
-      "overview": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
+      "overview": "Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado. Por otra parte, trata de ocultar la verdad acerca de en quién se ha convertido mientras trata de enmendar los errores que cometió en el pasado y de reconciliarse con su ex novia, Laurel Lance. Mientras trata de volver a contactar a las personas de su pasado jugando el papel del mujeriego adinerado, despreocupado y descuidado que solía ser, ayudado por su fiel chofer y guardaespaldas John Diggle, crea en secreto el personaje de un justiciero encapuchado, un vigilante que lucha contra los males de la sociedad tratando de darle a su ciudad la gloria que antes tenía; complicando esta misión.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A5kLEslYD3IJrSnnEZL0TfQAQlJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4o0keepwKfyYoziJOmRZS24Omqa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jUu02PexmdU5xAeDYsv1huceChE.png"
+    },
+    {
+      "id": "tmdb:60574",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "ids": {
+        "tmdb": 60574
+      },
+      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
     },
     {
       "id": "tmdb:1695",
@@ -421,18 +407,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/pIOqR6IchhSOmaIZIyDGW9QB982.svg"
     },
     {
-      "id": "tmdb:60574",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Peaky Blinders",
+      "name": "The Boys",
       "ids": {
-        "tmdb": 60574
+        "tmdb": 76479
       },
-      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+      "overview": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/A5kLEslYD3IJrSnnEZL0TfQAQlJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
     },
     {
       "id": "tmdb:790",
@@ -463,18 +449,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/o4l8kNHAGarLb5ltXH18jfLgZyw.png"
     },
     {
-      "id": "tmdb:205715",
+      "id": "tmdb:279013",
       "type": "series",
-      "name": "Generación V",
+      "name": "Tremembé",
       "ids": {
-        "tmdb": 205715
+        "tmdb": 279013
       },
-      "overview": "En la única universidad para superhéroes de Estados Unidos, los estudiantes superdotados ponen a prueba sus límites morales, compitiendo por la clasificación más alta de la universidad y la oportunidad de unirse a Los Siete, el equipo de élite de superhéroes de Vought International. Cuando los oscuros secretos de la escuela salen a la luz, deben decidir en qué tipo de héroes quieren convertirse.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/fLJzwWk28vRrNQIvIXUSU5YBdT5.jpg",
+      "overview": "Serie de TV (2025-). La llegada de Suzane von Richthofen perturba el orden en la cárcel de Tremembé, provocando una pelea con Elize Matsunaga. Jatobá busca protección, mientras que Nardoni, los hermanos Cravinhos, Roger A. y otros hacen cara a enfrentamientos internos y desafían el sistema.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3YUDNDoJOsTv0lPZJvBzrwPFp5O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7d1c5ee35DSQniwxlnZq1cmq6Mm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cskW9fqGHqExkXWJBMbz066ZcZo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q0hduoJ14qCddrze2C1zQ2faAON.png"
     },
     {
       "id": "tmdb:71728",
@@ -489,6 +475,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+    },
+    {
+      "id": "tmdb:62650",
+      "type": "series",
+      "name": "Chicago Med",
+      "ids": {
+        "tmdb": 62650
+      },
+      "overview": "Chicago Med se describe como \"un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo de valientes médicos que lo mantiene unido.\" La serie hace frente a casos inspirados por acontecimientos de la actualidad, además de entrelazar con los personajes de Chicago Fire y Chicago P.D.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qUtrMIFYfN9ovDskerlKiSGNGCQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png"
     },
     {
       "id": "tmdb:46260",
@@ -519,18 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
-      "id": "tmdb:62650",
+      "id": "tmdb:205715",
       "type": "series",
-      "name": "Chicago Med",
+      "name": "Generación V",
       "ids": {
-        "tmdb": 62650
+        "tmdb": 205715
       },
-      "overview": "Chicago Med se describe como \"un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo de valientes médicos que lo mantiene unido.\" La serie hace frente a casos inspirados por acontecimientos de la actualidad, además de entrelazar con los personajes de Chicago Fire y Chicago P.D.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+      "overview": "En la única universidad para superhéroes de Estados Unidos, los estudiantes superdotados ponen a prueba sus límites morales, compitiendo por la clasificación más alta de la universidad y la oportunidad de unirse a Los Siete, el equipo de élite de superhéroes de Vought International. Cuando los oscuros secretos de la escuela salen a la luz, deben decidir en qué tipo de héroes quieren convertirse.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fLJzwWk28vRrNQIvIXUSU5YBdT5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qUtrMIFYfN9ovDskerlKiSGNGCQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3YUDNDoJOsTv0lPZJvBzrwPFp5O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7d1c5ee35DSQniwxlnZq1cmq6Mm.png"
     },
     {
       "id": "tmdb:211684",
@@ -547,18 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5DC9Y8DHCCBsnGGKIZqc2qBpnwC.png"
     },
     {
-      "id": "tmdb:296243",
+      "id": "tmdb:60622",
       "type": "series",
-      "name": "Cometierra",
+      "name": "Fargo",
       "ids": {
-        "tmdb": 296243
+        "tmdb": 60622
       },
-      "overview": "Serie de TV (2025-). 7 episodios. Aylín es una adolescente de un barrio popular de México que descubre sus habilidades sobrenaturales cuando, durante un acto de bullying, la hacen comer tierra y tiene visiones de su maestra desaparecida. Este superpoder la ayudará a buscar a personas desaparecidas junto con su hermano y sus amigos, mientras se sumerge en una lucha por dominar este nuevo poder. Conforme sus habilidades se fortalecen, se transforma en una heroína que se planta contra la violencia y la injusticia que azotan su barrio.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/d8LYs7rSj5kmHDKBMgiqE1ACCoq.jpg",
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lE0dvOl2RbGisoNzSxxdG8TY8Ob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5SbNJhbZAaKnwaEhvYctvIb0rpo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
     },
     {
       "id": "tmdb:12225",
@@ -575,18 +575,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
-      "id": "tmdb:60622",
+      "id": "tmdb:85077",
       "type": "series",
-      "name": "Fargo",
+      "name": "The Chosen (Los elegidos)",
       "ids": {
-        "tmdb": 60622
+        "tmdb": 85077
       },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+      "overview": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wxDOmX1LcZTDvEeNqr4U4lrtxiy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mYvxHGbDE4aWzG4CDIjStI5jIQS.png"
+    },
+    {
+      "id": "tmdb:296243",
+      "type": "series",
+      "name": "Cometierra",
+      "ids": {
+        "tmdb": 296243
+      },
+      "overview": "Serie de TV (2025-). 7 episodios. Aylín es una adolescente de un barrio popular de México que descubre sus habilidades sobrenaturales cuando, durante un acto de bullying, la hacen comer tierra y tiene visiones de su maestra desaparecida. Este superpoder la ayudará a buscar a personas desaparecidas junto con su hermano y sus amigos, mientras se sumerge en una lucha por dominar este nuevo poder. Conforme sus habilidades se fortalecen, se transforma en una heroína que se planta contra la violencia y la injusticia que azotan su barrio.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/d8LYs7rSj5kmHDKBMgiqE1ACCoq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lE0dvOl2RbGisoNzSxxdG8TY8Ob.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5SbNJhbZAaKnwaEhvYctvIb0rpo.png"
     },
     {
       "id": "tmdb:253811",
@@ -603,6 +617,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/5KJjTVvl4ZDFJNHT5NV6etyBHCy.png"
     },
     {
+      "id": "tmdb:243881",
+      "type": "series",
+      "name": "La casa de David",
+      "ids": {
+        "tmdb": 243881
+      },
+      "overview": "Narra el desarollo del personaje bíblico David, que acaba convirtiéndose en el rey más célebre de Israel. El una vez poderoso rey Saúl cae víctima de su propio orgullo. Por orden de Dios, el profeta Samuel unge a un adolescente marginado como nuevo rey. Cuando un líder cae, otro debe surgir.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5s6OHwM0Z3VTquTaEmpCBd4G3X4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gQBFRDIKLGzo2ZDoSGzmaBnTH7t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aUw8oUFjud8YgYfC2XVskJvChb6.png"
+    },
+    {
       "id": "tmdb:194766",
       "type": "series",
       "name": "El verano en que me enamoré",
@@ -617,46 +645,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/3UifAsW2VwhCQmX3sG3ivZdHWy3.png"
     },
     {
-      "id": "tmdb:85077",
+      "id": "tmdb:269",
       "type": "series",
-      "name": "The Chosen (Los elegidos)",
+      "name": "One Tree Hill",
       "ids": {
-        "tmdb": 85077
+        "tmdb": 269
       },
-      "overview": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "overview": "Los protagonistas son dos adolescentes con vidas paralelas, aunque muy diferentes, que viven en un pueblo de Carolina del Norte. Los une un oscuro secreto: son hijos del mismo padre. Después de crecer en ambientes muy distintos, de repente, sus vidas se cruzan.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wxDOmX1LcZTDvEeNqr4U4lrtxiy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mYvxHGbDE4aWzG4CDIjStI5jIQS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hbto4yhvXWBKxtJ6SzcNWLljVgE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Yd8GfQ4JwrKSNtGpnrpHvYpPy2.png"
     },
     {
-      "id": "tmdb:31910",
+      "id": "tmdb:33907",
       "type": "series",
-      "name": "Naruto Shippuden",
+      "name": "Downton Abbey",
       "ids": {
-        "tmdb": 31910
+        "tmdb": 33907
       },
-      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+      "overview": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/7HgDYRYjym4BwbhKaqTQq771SKb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
-    },
-    {
-      "id": "tmdb:84773",
-      "type": "series",
-      "name": "El señor de los anillos: Los anillos de poder",
-      "ids": {
-        "tmdb": 84773
-      },
-      "overview": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gD9XySs3DFqSl1HJkjPHRjRiGvP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/LSgYUpbBrEuRoF4vohjWNO9Rq3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     },
     {
       "id": "tmdb:60585",
@@ -685,20 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/jN65UR8W3uIYIpfuxrYIuDM0qiD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/pHwxVXRWrrH89I1bTB0Y2RwBM75.png"
-    },
-    {
-      "id": "tmdb:33907",
-      "type": "series",
-      "name": "Downton Abbey",
-      "ids": {
-        "tmdb": 33907
-      },
-      "overview": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/7HgDYRYjym4BwbhKaqTQq771SKb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/LSgYUpbBrEuRoF4vohjWNO9Rq3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     }
   ]
 }
