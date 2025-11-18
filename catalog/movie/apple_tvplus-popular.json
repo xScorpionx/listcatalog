@@ -43,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6Msxrm9qADHvsVuGxA94dVM1sfD.png"
     },
     {
-      "id": "tmdb:717980",
-      "type": "movie",
-      "name": "Embaucadores",
-      "ids": {
-        "tmdb": 717980
-      },
-      "overview": "Esta película explora los secretos de la ciudad de Nueva York, desde los áticos de la Quinta Avenida hasta los rincones sombríos de Queens. Los motivos son sospechosos y las expectativas cambian cuando nada es lo que parece.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/uqOaJvWbTEHzISjyx3XibRI8Va9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rxFhyWAXqf7wzpbwa2b4U66zph0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/90s12h7Brr1iCDJCuoYgBG8EVro.png"
-    },
-    {
       "id": "tmdb:516486",
       "type": "movie",
       "name": "Greyhound: Enemigos bajo el mar",
@@ -83,6 +69,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wcsvHNCoddy5EEPbaWxEBOvD9Bn.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1XjM98TpYMaSTIx74ufyVSokHAL.png"
+    },
+    {
+      "id": "tmdb:466420",
+      "type": "movie",
+      "name": "Los asesinos de la luna",
+      "ids": {
+        "tmdb": 466420
+      },
+      "overview": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9DdXGyZRi8gOgWZLdJMyZm4lurl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wqFUSoev8k7XbfsG5eQq2YQwxxG.png"
     },
     {
       "id": "tmdb:868759",
@@ -113,60 +113,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ihqBUZMzJbceXNzKj13o8bqh6Uv.png"
     },
     {
-      "id": "tmdb:466420",
+      "id": "tmdb:717980",
       "type": "movie",
-      "name": "Los asesinos de la luna",
+      "name": "Embaucadores",
       "ids": {
-        "tmdb": 466420
+        "tmdb": 717980
       },
-      "overview": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
+      "overview": "Esta película explora los secretos de la ciudad de Nueva York, desde los áticos de la Quinta Avenida hasta los rincones sombríos de Queens. Los motivos son sospechosos y las expectativas cambian cuando nada es lo que parece.",
       "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uqOaJvWbTEHzISjyx3XibRI8Va9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9DdXGyZRi8gOgWZLdJMyZm4lurl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wqFUSoev8k7XbfsG5eQq2YQwxxG.png"
-    },
-    {
-      "id": "tmdb:585511",
-      "type": "movie",
-      "name": "Luck",
-      "ids": {
-        "tmdb": 585511
-      },
-      "overview": "Sam Greenfield es la persona con menos suerte del mundo. Cuando de repente se encuentra en la desconocida Tierra de la Suerte, debe aliarse con los seres mágicos que la habitan para que su suerte cambie.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/bwlHp4KsAyuEIAtbYs4mxCkrgyx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iusp0HnyzytJ8iecOcWaYNCoykd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zQyk74FrfvdNeAaFlxKU1Nz4Fvb.png"
-    },
-    {
-      "id": "tmdb:715931",
-      "type": "movie",
-      "name": "Hacia la libertad",
-      "ids": {
-        "tmdb": 715931
-      },
-      "overview": "Inspirada en la conmovedora historia real de un hombre dispuesto a cualquier cosa por su familia, y por la libertad. Cuando Peter, un hombre esclavizado, arriesga su vida por escapar y regresar con su familia, se embarca en una peligrosa travesía de amor y resiliencia.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/i189g3TK7XGxOoDqGNFF7eaqVKR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ucKpAFSnAUrJSXwEzZ6egL5Gq2Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7eCzQgiAaxVcEzpCAfwk75DNnzr.png"
-    },
-    {
-      "id": "tmdb:753342",
-      "type": "movie",
-      "name": "Napoleón",
-      "ids": {
-        "tmdb": 753342
-      },
-      "overview": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/opn1o3OClYWOHgsJ0QWA74ytwBx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zWA4WqcRZhWqVqmPwBVxiDSmdFk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cDPvAwiRLT5FyzfTksSkgLnzzNu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rxFhyWAXqf7wzpbwa2b4U66zph0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/90s12h7Brr1iCDJCuoYgBG8EVro.png"
     },
     {
       "id": "tmdb:1484453",
@@ -183,34 +141,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/nlkf3T0RRUWwUfMHmljDLcK3Xl.png"
     },
     {
-      "id": "tmdb:726759",
-      "type": "movie",
-      "name": "Tetris",
-      "ids": {
-        "tmdb": 726759
-      },
-      "overview": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eogyF8p0IHGkIDGJ2wMFtzUEabV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z5CXqzoH4N7WjsHHSq5pjSvDV1x.png"
-    },
-    {
-      "id": "tmdb:597922",
-      "type": "movie",
-      "name": "Yo me encargo de la cerveza",
-      "ids": {
-        "tmdb": 597922
-      },
-      "overview": "Chickie quiere ayudar a sus amigos en la guerra de Vietnam así que hace una locura: va a llevarles cerveza americana. Lo que comienza como un viaje con buenas intenciones rapidamente cambia la visión de Chickie sobre la vida.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/vCnEq0eQJVtVhwDVp0NqJSkcdcx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2m6kn2xsChYeuhCVNnAFPyCGXMb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vNTqJnZAjIilH78g7GR5zTVzSMR.svg"
-    },
-    {
       "id": "tmdb:961722",
       "type": "movie",
       "name": "Sidney Poitier",
@@ -223,6 +153,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/r91g0XPKrvcmN8gKYGYUU18NlTY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wBV8T7SKUlHQj1PRtkrustpnJsA.png"
+    },
+    {
+      "id": "tmdb:753342",
+      "type": "movie",
+      "name": "Napoleón",
+      "ids": {
+        "tmdb": 753342
+      },
+      "overview": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/opn1o3OClYWOHgsJ0QWA74ytwBx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zWA4WqcRZhWqVqmPwBVxiDSmdFk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cDPvAwiRLT5FyzfTksSkgLnzzNu.png"
     },
     {
       "id": "tmdb:458220",
@@ -239,20 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wzZJYeihmerQOJrBmi6PH6KqGMx.png"
     },
     {
-      "id": "tmdb:1022256",
-      "type": "movie",
-      "name": "Selena Gomez: Mi mente y yo",
-      "ids": {
-        "tmdb": 1022256
-      },
-      "overview": "Tras años en el candelero, Selena Gómez alcanza un estatus de estrella inimaginable. Sin embargo, justo cuando conquista una nueva cima, un giro inesperado la sume en la oscuridad. Este documental, de una crudeza e intimidad únicas, abarca su viaje de seis años hacia una nueva luz.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/kOmjk26BIG54wveOq920JAeaFdG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6fzXvGld4zHyfJKxnfYj3FuJ3A.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tIkR9gZweW0zXdL57lRDyl7ujrw.png"
-    },
-    {
       "id": "tmdb:627725",
       "type": "movie",
       "name": "El banquero",
@@ -267,18 +197,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png"
     },
     {
-      "id": "tmdb:1319965",
+      "id": "tmdb:715931",
       "type": "movie",
-      "name": "Contigo, todo",
+      "name": "Hacia la libertad",
       "ids": {
-        "tmdb": 1319965
+        "tmdb": 715931
       },
-      "overview": "Laura y Simon son amigos desde la universidad. Con los años, comprenden que lo suyo es más que amistad. ¿Pueden arriesgarlo todo por un amor que siempre ha estado ahí?",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6CsET5hb7y9eUYwcJJgZSwsN6qA.jpg",
+      "overview": "Inspirada en la conmovedora historia real de un hombre dispuesto a cualquier cosa por su familia, y por la libertad. Cuando Peter, un hombre esclavizado, arriesga su vida por escapar y regresar con su familia, se embarca en una peligrosa travesía de amor y resiliencia.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/i189g3TK7XGxOoDqGNFF7eaqVKR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4cYZVZ4WWwamndJveAxswOLsFg1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cl2lLqwcg0CVjA94ODa3EcHQyZQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ucKpAFSnAUrJSXwEzZ6egL5Gq2Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7eCzQgiAaxVcEzpCAfwk75DNnzr.png"
+    },
+    {
+      "id": "tmdb:1022256",
+      "type": "movie",
+      "name": "Selena Gomez: Mi mente y yo",
+      "ids": {
+        "tmdb": 1022256
+      },
+      "overview": "Tras años en el candelero, Selena Gómez alcanza un estatus de estrella inimaginable. Sin embargo, justo cuando conquista una nueva cima, un giro inesperado la sume en la oscuridad. Este documental, de una crudeza e intimidad únicas, abarca su viaje de seis años hacia una nueva luz.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/kOmjk26BIG54wveOq920JAeaFdG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6fzXvGld4zHyfJKxnfYj3FuJ3A.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tIkR9gZweW0zXdL57lRDyl7ujrw.png"
     },
     {
       "id": "tmdb:522402",
@@ -295,102 +239,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/A0BhEke9hapLDfjLIjzoM7GdpPH.png"
     },
     {
-      "id": "tmdb:632856",
+      "id": "tmdb:1319965",
       "type": "movie",
-      "name": "El espíritu de la Navidad",
+      "name": "Contigo, todo",
       "ids": {
-        "tmdb": 632856
+        "tmdb": 1319965
       },
-      "overview": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ba5Wk6qEZxVyYeJo9kp0ediOYHx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y6CGyAqCfcK4OdUeZ5n2RCUP3LA.png"
-    },
-    {
-      "id": "tmdb:1400780",
-      "type": "movie",
-      "name": "Come See Me in the Good Light",
-      "ids": {
-        "tmdb": 1400780
-      },
-      "overview": "Una historia íntima y alegre que habla del amor frente a la pérdida, en la que les célebres poetas Andrea Gibson y Megan Falley encuentran la fuerza, y también el sentido del humor, en el que podría ser su último año juntes.",
+      "overview": "Laura y Simon son amigos desde la universidad. Con los años, comprenden que lo suyo es más que amistad. ¿Pueden arriesgarlo todo por un amor que siempre ha estado ahí?",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/hMPhJIVIndESo1ORZRFwjo9TUoA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6CsET5hb7y9eUYwcJJgZSwsN6qA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eQ6V5t7xfcinzmPLw7eGjKb0j5L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8Xg0k6wDA1VMjmupMbsgJBYc4Wz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4cYZVZ4WWwamndJveAxswOLsFg1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cl2lLqwcg0CVjA94ODa3EcHQyZQ.png"
     },
     {
-      "id": "tmdb:896151",
+      "id": "tmdb:726759",
       "type": "movie",
-      "name": "Blitz",
+      "name": "Tetris",
       "ids": {
-        "tmdb": 896151
+        "tmdb": 726759
       },
-      "overview": "En el Londres de la Segunda Guerra Mundial, George, un niño de nueve años, es evacuado al campo por su madre, Rita, para escapar de los bombardeos. Decidido a volver con su familia, George se embarca en un viaje épico de vuelta a casa mientras Rita intenta encontrarle.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/3RPufhE7QOLfX7zMjaesMt9jO99.jpg",
+      "overview": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2pd3YSXz47UD9Nlg2UrNmiNY7AE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jDKrNo3xgqDmJNM49TMgkKJsKJi.png"
-    },
-    {
-      "id": "tmdb:1465476",
-      "type": "movie",
-      "name": "La rinoceronte Lulu",
-      "ids": {
-        "tmdb": 1465476
-      },
-      "overview": "En una misión para compartir la amabilidad, Lulu, una amante de la diversión, se embarca en la aventura de su vida, impulsada por sus nuevos amigos, la valentía y canciones pegadizas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/wUIcH6cmj1YTu9wKX7JkaiiCnny.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d7bggl2yJF72VpZZjXkfn6n78Hg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1EpCp6aUMgaQUeokVreeupB3t7a.png"
-    },
-    {
-      "id": "tmdb:1098006",
-      "type": "movie",
-      "name": "La fuente de la eterna juventud",
-      "ids": {
-        "tmdb": 1098006
-      },
-      "overview": "Un genio cazatesoros reúne a un equipo para una misión que cambiará vidas. Pero para esquivar y superar los obstáculos que se encontrará, necesitará a alguien más listo que él: su distanciada hermana.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9bhDUyOCrcwPLKbPyHM4uKOa65T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/segrtlVoidhovxXVyElUXZM1Ing.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lhVV0UmTBOCXxP4PjIOFeXfnCik.png"
-    },
-    {
-      "id": "tmdb:877817",
-      "type": "movie",
-      "name": "Wolfs",
-      "ids": {
-        "tmdb": 877817
-      },
-      "overview": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Ab7abHzQTwaVg7WDlrflwlYRmK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eilWnEd3xhAEKis1tnigbREe3P5.png"
-    },
-    {
-      "id": "tmdb:975490",
-      "type": "movie",
-      "name": "Snoopy presenta: El cole de Lucy",
-      "ids": {
-        "tmdb": 975490
-      },
-      "overview": "La pandilla de Peanuts está nerviosa por ir a una nueva escuela, así que Lucy funda la suya propia. Pronto aprende que la enseñanza es más dura de lo que pensaba y que los cambios pueden ser algo bueno.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/58SO5RBy6vnK0U6Nb2A6UqgaVr6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/n4QfJdsGOSASb6KptttyvWdvbXB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/861O98ERNzkN0bulgM4gYcvxdtF.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eogyF8p0IHGkIDGJ2wMFtzUEabV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z5CXqzoH4N7WjsHHSq5pjSvDV1x.png"
     },
     {
       "id": "tmdb:949580",
@@ -407,32 +281,144 @@
       "logo": "https://image.tmdb.org/t/p/w500/3eL6OfTurjgQGg20BC9xOeyUvyF.png"
     },
     {
-      "id": "tmdb:595586",
+      "id": "tmdb:597922",
       "type": "movie",
-      "name": "Causeway",
+      "name": "Yo me encargo de la cerveza",
       "ids": {
-        "tmdb": 595586
+        "tmdb": 597922
       },
-      "overview": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
+      "overview": "Chickie quiere ayudar a sus amigos en la guerra de Vietnam así que hace una locura: va a llevarles cerveza americana. Lo que comienza como un viaje con buenas intenciones rapidamente cambia la visión de Chickie sobre la vida.",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vCnEq0eQJVtVhwDVp0NqJSkcdcx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zHi5hTUd7gdTkB9U9Pe0NDHyp74.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZuFc88v2A4LWLP6ZRwUXUQGcFs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2m6kn2xsChYeuhCVNnAFPyCGXMb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vNTqJnZAjIilH78g7GR5zTVzSMR.svg"
     },
     {
-      "id": "tmdb:1128606",
+      "id": "tmdb:585511",
       "type": "movie",
-      "name": "Snoopy presenta: Bienvenido a la pandilla, Franklin",
+      "name": "Luck",
       "ids": {
-        "tmdb": 1128606
+        "tmdb": 585511
       },
-      "overview": "Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con la pandilla Peanuts. Cuando llega la carrera de carritos, la toma como una oportunidad para impresionar a sus nuevos amigos y forma equipo con el único niño que no tiene pareja: Carlitos.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",
+      "overview": "Sam Greenfield es la persona con menos suerte del mundo. Cuando de repente se encuentra en la desconocida Tierra de la Suerte, debe aliarse con los seres mágicos que la habitan para que su suerte cambie.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/bwlHp4KsAyuEIAtbYs4mxCkrgyx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qZPDWipdmp0IjbKork0fLxKiZhR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7fkmQwJjwxZGiAVD5xFXyxdFkeV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iusp0HnyzytJ8iecOcWaYNCoykd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zQyk74FrfvdNeAaFlxKU1Nz4Fvb.png"
+    },
+    {
+      "id": "tmdb:1400780",
+      "type": "movie",
+      "name": "Come See Me in the Good Light",
+      "ids": {
+        "tmdb": 1400780
+      },
+      "overview": "Una historia íntima y alegre que habla del amor frente a la pérdida, en la que les célebres poetas Andrea Gibson y Megan Falley encuentran la fuerza, y también el sentido del humor, en el que podría ser su último año juntes.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/hMPhJIVIndESo1ORZRFwjo9TUoA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eQ6V5t7xfcinzmPLw7eGjKb0j5L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8Xg0k6wDA1VMjmupMbsgJBYc4Wz.png"
+    },
+    {
+      "id": "tmdb:1186957",
+      "type": "movie",
+      "name": "El conejo de terciopelo",
+      "ids": {
+        "tmdb": 1186957
+      },
+      "overview": "William, de siete años, recibe un juguete nuevo por Navidad, conoce a un amigo que le durará toda la vida y entra en un mundo mágico.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/37U0YeYeNe19EfmrSCeuaioBJFH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1Y38hpFmZ5rjv2L0peQj3dhr11D.png"
+    },
+    {
+      "id": "tmdb:1465476",
+      "type": "movie",
+      "name": "La rinoceronte Lulu",
+      "ids": {
+        "tmdb": 1465476
+      },
+      "overview": "En una misión para compartir la amabilidad, Lulu, una amante de la diversión, se embarca en la aventura de su vida, impulsada por sus nuevos amigos, la valentía y canciones pegadizas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/wUIcH6cmj1YTu9wKX7JkaiiCnny.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d7bggl2yJF72VpZZjXkfn6n78Hg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1EpCp6aUMgaQUeokVreeupB3t7a.png"
+    },
+    {
+      "id": "tmdb:896151",
+      "type": "movie",
+      "name": "Blitz",
+      "ids": {
+        "tmdb": 896151
+      },
+      "overview": "En el Londres de la Segunda Guerra Mundial, George, un niño de nueve años, es evacuado al campo por su madre, Rita, para escapar de los bombardeos. Decidido a volver con su familia, George se embarca en un viaje épico de vuelta a casa mientras Rita intenta encontrarle.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/3RPufhE7QOLfX7zMjaesMt9jO99.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2pd3YSXz47UD9Nlg2UrNmiNY7AE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jDKrNo3xgqDmJNM49TMgkKJsKJi.png"
+    },
+    {
+      "id": "tmdb:632856",
+      "type": "movie",
+      "name": "El espíritu de la Navidad",
+      "ids": {
+        "tmdb": 632856
+      },
+      "overview": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ba5Wk6qEZxVyYeJo9kp0ediOYHx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y6CGyAqCfcK4OdUeZ5n2RCUP3LA.png"
+    },
+    {
+      "id": "tmdb:975490",
+      "type": "movie",
+      "name": "Snoopy presenta: El cole de Lucy",
+      "ids": {
+        "tmdb": 975490
+      },
+      "overview": "La pandilla de Peanuts está nerviosa por ir a una nueva escuela, así que Lucy funda la suya propia. Pronto aprende que la enseñanza es más dura de lo que pensaba y que los cambios pueden ser algo bueno.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/58SO5RBy6vnK0U6Nb2A6UqgaVr6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/n4QfJdsGOSASb6KptttyvWdvbXB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/861O98ERNzkN0bulgM4gYcvxdtF.png"
+    },
+    {
+      "id": "tmdb:877817",
+      "type": "movie",
+      "name": "Wolfs",
+      "ids": {
+        "tmdb": 877817
+      },
+      "overview": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6Ab7abHzQTwaVg7WDlrflwlYRmK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eilWnEd3xhAEKis1tnigbREe3P5.png"
+    },
+    {
+      "id": "tmdb:869025",
+      "type": "movie",
+      "name": "Raymond & Ray",
+      "ids": {
+        "tmdb": 869025
+      },
+      "overview": "Los hermanastros Raymond y Ray se reencuentran tras la muerte de su distanciado padre y descubren que su último deseo fue que ellos le cavaran su tumba. Juntos reflexionan sobre qué clase de hombres han llegado a ser, tanto a causa de su padre como a pesar de él.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5fQVYwUXy4xY4Ou1Mb5sFBFqxay.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p2EFLNsa2VCUBcWjQbejJq8WQvf.png"
     },
     {
       "id": "tmdb:1192548",
@@ -449,18 +435,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/54kLKlLQylLsE140QEvCZ2jH8sO.png"
     },
     {
-      "id": "tmdb:1186957",
+      "id": "tmdb:1098006",
       "type": "movie",
-      "name": "El conejo de terciopelo",
+      "name": "La fuente de la eterna juventud",
       "ids": {
-        "tmdb": 1186957
+        "tmdb": 1098006
       },
-      "overview": "William, de siete años, recibe un juguete nuevo por Navidad, conoce a un amigo que le durará toda la vida y entra en un mundo mágico.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg",
+      "overview": "Un genio cazatesoros reúne a un equipo para una misión que cambiará vidas. Pero para esquivar y superar los obstáculos que se encontrará, necesitará a alguien más listo que él: su distanciada hermana.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9bhDUyOCrcwPLKbPyHM4uKOa65T.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/37U0YeYeNe19EfmrSCeuaioBJFH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1Y38hpFmZ5rjv2L0peQj3dhr11D.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/segrtlVoidhovxXVyElUXZM1Ing.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lhVV0UmTBOCXxP4PjIOFeXfnCik.png"
     },
     {
       "id": "tmdb:765245",
@@ -491,18 +477,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/jS8Rb3ZOaUYdlIP4LCeYPx0y7iM.png"
     },
     {
-      "id": "tmdb:869025",
+      "id": "tmdb:595586",
       "type": "movie",
-      "name": "Raymond & Ray",
+      "name": "Causeway",
       "ids": {
-        "tmdb": 869025
+        "tmdb": 595586
       },
-      "overview": "Los hermanastros Raymond y Ray se reencuentran tras la muerte de su distanciado padre y descubren que su último deseo fue que ellos le cavaran su tumba. Juntos reflexionan sobre qué clase de hombres han llegado a ser, tanto a causa de su padre como a pesar de él.",
+      "overview": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5fQVYwUXy4xY4Ou1Mb5sFBFqxay.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p2EFLNsa2VCUBcWjQbejJq8WQvf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zHi5hTUd7gdTkB9U9Pe0NDHyp74.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZuFc88v2A4LWLP6ZRwUXUQGcFs.png"
+    },
+    {
+      "id": "tmdb:1128606",
+      "type": "movie",
+      "name": "Snoopy presenta: Bienvenido a la pandilla, Franklin",
+      "ids": {
+        "tmdb": 1128606
+      },
+      "overview": "Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con la pandilla Peanuts. Cuando llega la carrera de carritos, la toma como una oportunidad para impresionar a sus nuevos amigos y forma equipo con el único niño que no tiene pareja: Carlitos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qZPDWipdmp0IjbKork0fLxKiZhR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7fkmQwJjwxZGiAVD5xFXyxdFkeV.png"
     },
     {
       "id": "tmdb:1014890",
@@ -517,34 +517,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lBFq9lKnpsuWi1FTZ67FHlbv6Te.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gtKwI5YOCIRJA9a0FC9DVbKvA9S.png"
-    },
-    {
-      "id": "tmdb:956842",
-      "type": "movie",
-      "name": "Fly Me to the Moon",
-      "ids": {
-        "tmdb": 956842
-      },
-      "overview": "Ambientada en el histórico alunizaje del Apolo 11, en 1969. Llamados para mejorar la imagen pública de la NASA, las chispas vuelan en todas las direcciones cuando la prodigio del marketing Kelly Jones causa estragos en la ya difícil tarea del director de lanzamiento Cole Davis. Cuando la Casa Blanca considera que la misión es demasiado importante para fracasar, Jones recibe la orden de simular un alunizaje falso como respaldo y comienza la verdadera cuenta atrás.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/a4ExqpqbUypBg4dHlF77wda3dxh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jN5sgesZYWaiXNAgGcESfoaAjNC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Ld7OWW3Z3pVfOXaOhpyf5ohyGY.png"
-    },
-    {
-      "id": "tmdb:535308",
-      "type": "movie",
-      "name": "Hala",
-      "ids": {
-        "tmdb": 535308
-      },
-      "overview": "Hala es una joven estadounidense de origen pakistaní que lucha por encontrar el equilibrio entre sus deseos, la tradición y la religión. En el proceso, Hala descubre un secreto que podría arruinar a su familia.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4CrVkK41bNKJORVrDMjMp9l5rvq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5lTfLC2XchpHohzf765XRhaTfB2.png"
     },
     {
       "id": "tmdb:13187",
@@ -575,6 +547,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/y7YgNZRBgSmsOGmcAc2RaagtjwW.png"
     },
     {
+      "id": "tmdb:535308",
+      "type": "movie",
+      "name": "Hala",
+      "ids": {
+        "tmdb": 535308
+      },
+      "overview": "Hala es una joven estadounidense de origen pakistaní que lucha por encontrar el equilibrio entre sus deseos, la tradición y la religión. En el proceso, Hala descubre un secreto que podría arruinar a su familia.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4CrVkK41bNKJORVrDMjMp9l5rvq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5lTfLC2XchpHohzf765XRhaTfB2.png"
+    },
+    {
+      "id": "tmdb:956842",
+      "type": "movie",
+      "name": "Fly Me to the Moon",
+      "ids": {
+        "tmdb": 956842
+      },
+      "overview": "Ambientada en el histórico alunizaje del Apolo 11, en 1969. Llamados para mejorar la imagen pública de la NASA, las chispas vuelan en todas las direcciones cuando la prodigio del marketing Kelly Jones causa estragos en la ya difícil tarea del director de lanzamiento Cole Davis. Cuando la Casa Blanca considera que la misión es demasiado importante para fracasar, Jones recibe la orden de simular un alunizaje falso como respaldo y comienza la verdadera cuenta atrás.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/a4ExqpqbUypBg4dHlF77wda3dxh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jN5sgesZYWaiXNAgGcESfoaAjNC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Ld7OWW3Z3pVfOXaOhpyf5ohyGY.png"
+    },
+    {
       "id": "tmdb:814340",
       "type": "movie",
       "name": "Bailando por la vida",
@@ -589,32 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ykLvtjNVuzXpNPXnJB0jHzaRSCw.png"
     },
     {
-      "id": "tmdb:664850",
+      "id": "tmdb:1059811",
       "type": "movie",
-      "name": "Estamos aquí: Notas para vivir en el planeta Tierra",
+      "name": "Flora y su hijo Max",
       "ids": {
-        "tmdb": 664850
+        "tmdb": 1059811
       },
-      "overview": "Esta producción descubre las maravillas de nuestro planeta en la víspera del Día de la Tierra, de la mano de un niño de 7 años cuando visita una misteriosa exposición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/qHbhZ44I5UJ9JUHRANwtjbwzXnX.jpg",
+      "overview": "Flora es una madre soltera que no sabe qué hacer con Max, su hijo adolescente rebelde. Mientras intenta que no se meta en líos, da con una guitarra acústica destartalada y un músico de Los Ángeles venido a menos, y esta crispada familia de Dublín encuentra así la armonía.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/tGuVSc4U2uAkMqq6tAOT912pght.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9u0acHF2AVoEIRbcCpZEU1KhCJd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3TV22sGlnBxvsGtGSJQAoyDRXLO.png"
-    },
-    {
-      "id": "tmdb:13479",
-      "type": "movie",
-      "name": "Es Acción de Gracias, Charlie Brown",
-      "ids": {
-        "tmdb": 13479
-      },
-      "overview": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yw4mgg0kauxbt2cXxWhNsQgJclS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vQXmO9JsVcvIDkTDTtecxeP1Ff3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6d3TG7W6xHFiVeTtLVMUEUibl5J.png"
     },
     {
       "id": "tmdb:766319",
@@ -645,32 +631,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/x3vAAJNAoXakRQHJOxwZcRV6b2t.png"
     },
     {
-      "id": "tmdb:13353",
+      "id": "tmdb:13479",
       "type": "movie",
-      "name": "Ésta es la gran calabaza, Charlie Brown",
+      "name": "Es Acción de Gracias, Charlie Brown",
       "ids": {
-        "tmdb": 13353
+        "tmdb": 13479
       },
-      "overview": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "overview": "Pavo, arándanos, pastel de calabaza... y la pandilla Peanuts para compartirlos. ¡Este va a ser el mejor Día de Acción de Gracias de todos los tiempos! La diversión comienza cuando Peppermint Patty se invita a sí misma y a sus amigos a la casa de Charlie Brown para una GRAN fiesta de pavo. ¡Caramba! Todo lo que nuestro héroe puede cocinar es cereal frío y tal vez tostadas. ¿Charlie Brown está condenado? No cuando Linus, Snoopy y Woodstock colaboran para salvar el Día (de Acción de Gracias). Con tan buenos amigos, Charlie Brown, y todos nosotros, tenemos muchas razones para estar agradecidos.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/meNnl4JiNFG0ilFPnGfV32Uu0Vl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yw4mgg0kauxbt2cXxWhNsQgJclS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i1ibVD1WdMNcut7l1gsa6GF7fyv.png"
     },
     {
-      "id": "tmdb:995133",
+      "id": "tmdb:37556",
       "type": "movie",
-      "name": "El niño, el topo, el zorro y el caballo",
+      "name": "Charlie Brown's Christmas Tales",
       "ids": {
-        "tmdb": 995133
+        "tmdb": 37556
       },
-      "overview": "Sé testigo del improbable vínculo entre cuatro amigos mientras exploran el significado de la bondad, el valor y la esperanza.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/jfkVV2RrD5tXAy8P0JLl90ELS0S.jpg",
+      "overview": "Tis the season for the cheer and charm of the Peanuts kids - and this delight special offers five segments full of unforgettable moments. Snoopy works as a bell-ringer to raise money and tries making peace with the ferocious cat next door. Linus strives to strike the right tone in his letter to Santa - and his friendship with an indecisive girl at school. Sally's idea about gift giving and the identity of Santa may be unusual - but her strange notion about how to obtain a Christmas tree surprisingly does the job. Lucy tries awfully hard to be nice...and still coax everyone around her to buy her presents. Charlie Brown and Sally wait up for Santa (a surprisingly short man), who spreads Christmas gift cheer further than they had thought. Make merry!",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/eFmnl8xmvbJOOSNsLJc45QLxw39.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tg3jXg3q7NCQ3nnsn5h6MCdIqG0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6KJxFUZHSbye7xtrQ52FuZ0KBWA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/n42sR1URvIcogqdZW9Kcx7XZwgu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/92tOQwzo8dNy4RrhJ69ZeY34u7D.png"
     },
     {
       "id": "tmdb:664416",
@@ -687,18 +673,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Whlgi1V1ckPui63hF8psZKyc3o.png"
     },
     {
-      "id": "tmdb:37556",
+      "id": "tmdb:13353",
       "type": "movie",
-      "name": "Charlie Brown's Christmas Tales",
+      "name": "Ésta es la gran calabaza, Charlie Brown",
       "ids": {
-        "tmdb": 37556
+        "tmdb": 13353
       },
-      "overview": "Tis the season for the cheer and charm of the Peanuts kids - and this delight special offers five segments full of unforgettable moments. Snoopy works as a bell-ringer to raise money and tries making peace with the ferocious cat next door. Linus strives to strike the right tone in his letter to Santa - and his friendship with an indecisive girl at school. Sally's idea about gift giving and the identity of Santa may be unusual - but her strange notion about how to obtain a Christmas tree surprisingly does the job. Lucy tries awfully hard to be nice...and still coax everyone around her to buy her presents. Charlie Brown and Sally wait up for Santa (a surprisingly short man), who spreads Christmas gift cheer further than they had thought. Make merry!",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/eFmnl8xmvbJOOSNsLJc45QLxw39.jpg",
+      "overview": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/n42sR1URvIcogqdZW9Kcx7XZwgu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/92tOQwzo8dNy4RrhJ69ZeY34u7D.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/meNnl4JiNFG0ilFPnGfV32Uu0Vl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png"
+    },
+    {
+      "id": "tmdb:51940",
+      "type": "movie",
+      "name": "Happy New Year, Charlie Brown",
+      "ids": {
+        "tmdb": 51940
+      },
+      "overview": "Es la noche de la fiesta de Nochevieja de Peppermint Patty, pero Charlie Brown tiene que escribir un informe sobre la guerra y la paz. Con la esperanza de unirse a la diversión para un baile especial con la Niña Pelirroja, intenta desesperadamente terminar a tiempo.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/bzkOg991CsVIakFmqSxUhQq2UbY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eE1U4ApVXb7VGV5MlhS06L9s9e5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8zn0MOQnjPj8ILwfOfRoI9wCL2U.png"
     }
   ]
 }
