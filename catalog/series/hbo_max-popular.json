@@ -85,20 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
-    },
-    {
       "id": "tmdb:60735",
       "type": "series",
       "name": "The Flash",
@@ -113,18 +99,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/46EOU3o8FQ1Up9hagnwmycdRHPj.png"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:1402",
       "type": "series",
-      "name": "Rick y Morty",
+      "name": "The Walking Dead",
       "ids": {
-        "tmdb": 60625
+        "tmdb": 1402
       },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "FROM",
+      "ids": {
+        "tmdb": 124364
+      },
+      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g3JFcuQpmzVzVgSvbrmRqkjuT84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kPQrUwdpoONe5jdOuHgQfRXyUf1.png"
     },
     {
       "id": "tmdb:18165",
@@ -141,6 +141,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+    },
+    {
       "id": "tmdb:1398",
       "type": "series",
       "name": "Los Soprano",
@@ -153,20 +167,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/3Lmu3KJBRhbkwL9sNfWiJJ6IFl9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "FROM",
-      "ids": {
-        "tmdb": 124364
-      },
-      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g3JFcuQpmzVzVgSvbrmRqkjuT84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kPQrUwdpoONe5jdOuHgQfRXyUf1.png"
     },
     {
       "id": "tmdb:283393",
@@ -197,20 +197,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
     },
     {
-      "id": "tmdb:31132",
-      "type": "series",
-      "name": "Historias corrientes",
-      "ids": {
-        "tmdb": 31132
-      },
-      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
-    },
-    {
       "id": "tmdb:126506",
       "type": "series",
       "name": "Smiling Friends",
@@ -225,6 +211,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/w6JoAgEyib3hz6bI6YWVswNHjp8.png"
     },
     {
+      "id": "tmdb:31132",
+      "type": "series",
+      "name": "Historias corrientes",
+      "ids": {
+        "tmdb": 31132
+      },
+      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
+    },
+    {
       "id": "tmdb:15260",
       "type": "series",
       "name": "Hora de aventuras",
@@ -237,20 +237,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qaNf7MO7Jfo9hUPC23mwfFgP3Uh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
-    },
-    {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
     },
     {
       "id": "tmdb:85552",
@@ -323,46 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tIWcnwZegcY5Ix2649P2hJOxcSx.png"
     },
     {
-      "id": "tmdb:12225",
+      "id": "tmdb:60622",
       "type": "series",
-      "name": "Peppa Pig",
+      "name": "Fargo",
       "ids": {
-        "tmdb": 12225
+        "tmdb": 60622
       },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:1418",
-      "type": "series",
-      "name": "Big Bang",
-      "ids": {
-        "tmdb": 1418
-      },
-      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a95VeB1t3CuNrsvBW5Mxhqc7jtt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
-    },
-    {
-      "id": "tmdb:45140",
-      "type": "series",
-      "name": "Teen Titans Go!",
-      "ids": {
-        "tmdb": 45140
-      },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
     },
     {
       "id": "tmdb:4419",
@@ -379,18 +337,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:1418",
       "type": "series",
-      "name": "La casa del dragón",
+      "name": "Big Bang",
       "ids": {
-        "tmdb": 94997
+        "tmdb": 1418
       },
-      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg",
+      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kSNBbAr6c7y8HVhHqF4e0qGOaXk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/a95VeB1t3CuNrsvBW5Mxhqc7jtt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:111803",
@@ -407,18 +379,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
     },
     {
-      "id": "tmdb:69050",
+      "id": "tmdb:45140",
       "type": "series",
-      "name": "Riverdale",
+      "name": "Teen Titans Go!",
       "ids": {
-        "tmdb": 69050
+        "tmdb": 45140
       },
-      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
       "id": "tmdb:4546",
@@ -435,18 +407,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
     },
     {
-      "id": "tmdb:105",
+      "id": "tmdb:69050",
       "type": "series",
-      "name": "Sexo en Nueva York",
+      "name": "Riverdale",
       "ids": {
-        "tmdb": 105
+        "tmdb": 69050
       },
-      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
     },
     {
       "id": "tmdb:37606",
@@ -477,6 +449,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     },
     {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "La casa del dragón",
+      "ids": {
+        "tmdb": 94997
+      },
+      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kSNBbAr6c7y8HVhHqF4e0qGOaXk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
+    },
+    {
       "id": "tmdb:69478",
       "type": "series",
       "name": "El cuento de la criada",
@@ -489,6 +475,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "series",
+      "name": "Sexo en Nueva York",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
+    },
+    {
+      "id": "tmdb:1940",
+      "type": "series",
+      "name": "Entourage: El séquito",
+      "ids": {
+        "tmdb": 1940
+      },
+      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
     },
     {
       "id": "tmdb:1395",
@@ -519,20 +533,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
-      "id": "tmdb:65763",
-      "type": "series",
-      "name": "The New Looney Tunes",
-      "ids": {
-        "tmdb": 65763
-      },
-      "overview": "En esta serie, los Looney Tunes dejan el mundo de la sitcom y vuelven a sus raíces cómicas del slapstick. Cada episodio de Wabbit contiene dos cortos, protagonizados por Bugs Bunny.\n\nOtros personajes, como Wile E. Coyote y Yosemite Sam, se presentan a molestarlo. Algunos personajes obtienen nuevas características: Wile E. Coyote es, por ejemplo, el vecino sabelotodo mientras que Taz trabaja como empleado en contabilidad, aunque reprime su verdadero yo.\n\nSe agregan nuevos personajes que vienen a ser amigos de Bugs, como Dientes la Ardilla y una versión infatil de Pie Grande.\n\nDe la misma forma, Bugs se enfrenta a nuevos villanos, pero no sin la ayuda de sus amigos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9UvNxytrlMzrSnFuC5mATbZIW9G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3mnb7BiQosDwunzCZ2KoU6x46pC.png"
-    },
-    {
       "id": "tmdb:46896",
       "type": "series",
       "name": "Los originales",
@@ -545,90 +545,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
-    },
-    {
-      "id": "tmdb:1940",
-      "type": "series",
-      "name": "Entourage: El séquito",
-      "ids": {
-        "tmdb": 1940
-      },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
-    },
-    {
-      "id": "tmdb:131378",
-      "type": "series",
-      "name": "Hora de aventuras: Fionna y Cake",
-      "ids": {
-        "tmdb": 131378
-      },
-      "overview": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jaeB5NtWZoknDKYMl3yYd85Okko.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2CB9MFbRgtTe095UALAu07m0tXo.png"
-    },
-    {
-      "id": "tmdb:10545",
-      "type": "series",
-      "name": "True Blood (Sangre fresca)",
-      "ids": {
-        "tmdb": 10545
-      },
-      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
-    },
-    {
-      "id": "tmdb:250307",
-      "type": "series",
-      "name": "The Pitt",
-      "ids": {
-        "tmdb": 250307
-      },
-      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
-    },
-    {
-      "id": "tmdb:31917",
-      "type": "series",
-      "name": "Pequeñas mentirosas",
-      "ids": {
-        "tmdb": 31917
-      },
-      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
-    },
-    {
-      "id": "tmdb:607",
-      "type": "series",
-      "name": "Las Supernenas",
-      "ids": {
-        "tmdb": 607
-      },
-      "overview": "El profesor Utonium es un ingeniero genético que siempre está experimentando. Una noche decide hacer realidad su sueño más anhelado: crear una niña perfecta. El resultado es espectacular: en vez de una niña ha creado a tres superheroínas.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/nGVE5Npcj41KuQW2NUCdHseop8I.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
     },
     {
       "id": "tmdb:71694",
@@ -645,6 +561,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/bMhxqWYzNqyG6bN4m6LOgypOTpn.png"
     },
     {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": "The Pitt",
+      "ids": {
+        "tmdb": 250307
+      },
+      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
+    },
+    {
+      "id": "tmdb:10545",
+      "type": "series",
+      "name": "True Blood (Sangre fresca)",
+      "ids": {
+        "tmdb": 10545
+      },
+      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
+    },
+    {
+      "id": "tmdb:607",
+      "type": "series",
+      "name": "Las Supernenas",
+      "ids": {
+        "tmdb": 607
+      },
+      "overview": "El profesor Utonium es un ingeniero genético que siempre está experimentando. Una noche decide hacer realidad su sueño más anhelado: crear una niña perfecta. El resultado es espectacular: en vez de una niña ha creado a tres superheroínas.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/nGVE5Npcj41KuQW2NUCdHseop8I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
+    },
+    {
       "id": "tmdb:47480",
       "type": "series",
       "name": "El Show de Tom y Jerry",
@@ -659,18 +617,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/zHNjEd5PTUuAlaqtjEVlcDiQwDw.png"
     },
     {
-      "id": "tmdb:34634",
+      "id": "tmdb:65763",
       "type": "series",
-      "name": "La fiebre del oro",
+      "name": "The New Looney Tunes",
       "ids": {
-        "tmdb": 34634
+        "tmdb": 65763
       },
-      "overview": "El oro es sinónimo de riqueza y lujo pero, como bien saben los espectadores de DMAX, detrás de la extracción del metal más preciado del mundo se esconden historias dramáticas y terribles, protagonizas por hombres que ponen sus cuerpos y sus mentes al límite para superar a los elementos y conseguir, finalmente, el preciado tesoro.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/Al6qqKb6F9lBafAZ0k8hIrZPQU8.jpg",
+      "overview": "En esta serie, los Looney Tunes dejan el mundo de la sitcom y vuelven a sus raíces cómicas del slapstick. Cada episodio de Wabbit contiene dos cortos, protagonizados por Bugs Bunny.\n\nOtros personajes, como Wile E. Coyote y Yosemite Sam, se presentan a molestarlo. Algunos personajes obtienen nuevas características: Wile E. Coyote es, por ejemplo, el vecino sabelotodo mientras que Taz trabaja como empleado en contabilidad, aunque reprime su verdadero yo.\n\nSe agregan nuevos personajes que vienen a ser amigos de Bugs, como Dientes la Ardilla y una versión infatil de Pie Grande.\n\nDe la misma forma, Bugs se enfrenta a nuevos villanos, pero no sin la ayuda de sus amigos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2IeM7AVmKI97yxkJwf7VKxLM62o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dhoW3tgHqolJ862K0xHpaylgGYm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9UvNxytrlMzrSnFuC5mATbZIW9G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3mnb7BiQosDwunzCZ2KoU6x46pC.png"
+    },
+    {
+      "id": "tmdb:76331",
+      "type": "series",
+      "name": "Succession",
+      "ids": {
+        "tmdb": 76331
+      },
+      "overview": "La serie gira en torno a la vida de la familia Roy. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9lkFo77V2h8FQs4VMQP5TGer6Ic.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
     },
     {
       "id": "tmdb:709",
@@ -687,18 +659,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
     },
     {
-      "id": "tmdb:2673",
+      "id": "tmdb:228305",
       "type": "series",
-      "name": "The O.C.",
+      "name": "Task",
       "ids": {
-        "tmdb": 2673
+        "tmdb": 228305
       },
-      "overview": "Ambientada en la idílica Newport Beach, del condado Orange de California. Esta serie trata sobre relaciones, rivalidades y traiciones entre maridos, esposas, padres, hijos y amigos.... La serie se centra en Ryan Atwood, un cauteloso e inteligente chico de 16 años que se traslada a la rica y privilegiada comunidad de Newport Beach, y donde pronto descubre que las familias relevantes de Orange County son tan provincianas como la gente con la que convivía en las calles del Barrio Chino. En Newport Beach, Ryan es acogido por Sandy Cohen, un idealista abogado defensor y su mujer Kirsten, el alma de la sociedad del Condado de Orange.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
+      "overview": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fPXnyN1IBEUNfz0Ato95cWfjNWZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/suFKHrqzU8DvV3eXvjjT4eENWm7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7OaoY7oonC1hnYumuYoj43YVJW3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mKJiOZ7LOU60rfIQeDrYcUcCH8S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hG6Dr7WnAYSW37cpY2SsML1AOYh.png"
+    },
+    {
+      "id": "tmdb:63401",
+      "type": "series",
+      "name": "Somos osos",
+      "ids": {
+        "tmdb": 63401
+      },
+      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
+    },
+    {
+      "id": "tmdb:131378",
+      "type": "series",
+      "name": "Hora de aventuras: Fionna y Cake",
+      "ids": {
+        "tmdb": 131378
+      },
+      "overview": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jaeB5NtWZoknDKYMl3yYd85Okko.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2CB9MFbRgtTe095UALAu07m0tXo.png"
     }
   ]
 }
