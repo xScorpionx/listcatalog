@@ -85,20 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
-      "id": "tmdb:60735",
-      "type": "series",
-      "name": "The Flash",
-      "ids": {
-        "tmdb": 60735
-      },
-      "overview": "Después de que un acelerador de partículas cause una extraña tormenta, al investigador científico de la policía, Barry Allen, le cae un rayo y entra en coma. Meses después despierta con el poder de moverse a súper velocidad permitiéndole ser el ángel de la guardia de Central City. Aunque al principio se siente entusiasmado con sus nuevos poderes, Barry descubre que no es el único “meta-humano” que se originó tras la explosión del acelerador – y no todo el mundo está usando sus nuevos poderes para el bien. Los compañeros del laboratorio STAR dedican su vida a ayudar a Barry a proteger a los inocentes. Por ahora, solo algunos amigos cercanos saben que Barry es, literalmente, el hombre más rápido del mundo, pero no pasará mucho hasta que el mundo conozca que ahora Barry Allen es … Flash.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/7ci4qqkBJorLxSBwTj28vwh0bU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Kkk81rrDaNQ1XcePQ8HZYQBZOJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/46EOU3o8FQ1Up9hagnwmycdRHPj.png"
-    },
-    {
       "id": "tmdb:1402",
       "type": "series",
       "name": "The Walking Dead",
@@ -111,6 +97,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
+    },
+    {
+      "id": "tmdb:60735",
+      "type": "series",
+      "name": "The Flash",
+      "ids": {
+        "tmdb": 60735
+      },
+      "overview": "Después de que un acelerador de partículas cause una extraña tormenta, al investigador científico de la policía, Barry Allen, le cae un rayo y entra en coma. Meses después despierta con el poder de moverse a súper velocidad permitiéndole ser el ángel de la guardia de Central City. Aunque al principio se siente entusiasmado con sus nuevos poderes, Barry descubre que no es el único “meta-humano” que se originó tras la explosión del acelerador – y no todo el mundo está usando sus nuevos poderes para el bien. Los compañeros del laboratorio STAR dedican su vida a ayudar a Barry a proteger a los inocentes. Por ahora, solo algunos amigos cercanos saben que Barry es, literalmente, el hombre más rápido del mundo, pero no pasará mucho hasta que el mundo conozca que ahora Barry Allen es … Flash.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/7ci4qqkBJorLxSBwTj28vwh0bU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6Kkk81rrDaNQ1XcePQ8HZYQBZOJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/46EOU3o8FQ1Up9hagnwmycdRHPj.png"
     },
     {
       "id": "tmdb:124364",
@@ -169,18 +169,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png"
     },
     {
-      "id": "tmdb:283393",
+      "id": "tmdb:126506",
       "type": "series",
-      "name": "Paul estadounidense",
+      "name": "Smiling Friends",
       "ids": {
-        "tmdb": 283393
+        "tmdb": 126506
       },
-      "overview": "Jake y Logan Paul presentan su nuevo proyecto: un reality show familiar que revela su vida detrás de las cámaras.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v9FrkLe3jqkMtAuYuezhjuhXHY8.jpg",
+      "overview": "Smiling Friends es una pequeña empresa dedicada a repartir felicidad por el mundo, donde sus trabajadores vivirán locas aventuras.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gktx7glkzEtdi9jxOJIt4YLTknW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1u0wC0XFHbpnwDSr2tlXZQ5Ugjc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/x8LU8b6p93IJDm7KCKIlyC3riz8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w6JoAgEyib3hz6bI6YWVswNHjp8.png"
     },
     {
       "id": "tmdb:65733",
@@ -197,18 +197,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
     },
     {
-      "id": "tmdb:126506",
+      "id": "tmdb:283393",
       "type": "series",
-      "name": "Smiling Friends",
+      "name": "Paul estadounidense",
       "ids": {
-        "tmdb": 126506
+        "tmdb": 283393
       },
-      "overview": "Smiling Friends es una pequeña empresa dedicada a repartir felicidad por el mundo, donde sus trabajadores vivirán locas aventuras.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
+      "overview": "Jake y Logan Paul presentan su nuevo proyecto: un reality show familiar que revela su vida detrás de las cámaras.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v9FrkLe3jqkMtAuYuezhjuhXHY8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x8LU8b6p93IJDm7KCKIlyC3riz8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w6JoAgEyib3hz6bI6YWVswNHjp8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gktx7glkzEtdi9jxOJIt4YLTknW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1u0wC0XFHbpnwDSr2tlXZQ5Ugjc.png"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria",
+      "ids": {
+        "tmdb": 85552
+      },
+      "overview": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
     },
     {
       "id": "tmdb:31132",
@@ -239,18 +253,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
     },
     {
-      "id": "tmdb:85552",
+      "id": "tmdb:60622",
       "type": "series",
-      "name": "Euphoria",
+      "name": "Fargo",
       "ids": {
-        "tmdb": 85552
+        "tmdb": 60622
       },
-      "overview": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
     },
     {
       "id": "tmdb:110492",
@@ -265,6 +279,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8RF2EUEt9uknaEa4Eh9SrW1eecY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/9arGKCxY19dTahbAd8ZuVKxMzYZ.png"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "La casa del dragón",
+      "ids": {
+        "tmdb": 94997
+      },
+      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kSNBbAr6c7y8HVhHqF4e0qGOaXk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
     },
     {
       "id": "tmdb:1705",
@@ -309,34 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/tIWcnwZegcY5Ix2649P2hJOxcSx.png"
     },
     {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/folpaqZX6XGV7v2cwqVY14Ne2yw.png"
-    },
-    {
-      "id": "tmdb:4419",
-      "type": "series",
-      "name": "Real Time with Bill Maher",
-      "ids": {
-        "tmdb": 4419
-      },
-      "overview": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educación, el medio ambiente y muchas otras.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wxdFuCHawKMIqDrY2ywsR34Gocx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
-    },
-    {
       "id": "tmdb:1418",
       "type": "series",
       "name": "Big Bang",
@@ -365,32 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
-      "id": "tmdb:111803",
+      "id": "tmdb:4419",
       "type": "series",
-      "name": "The White Lotus",
+      "name": "Real Time with Bill Maher",
       "ids": {
-        "tmdb": 111803
+        "tmdb": 4419
       },
-      "overview": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "overview": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educación, el medio ambiente y muchas otras.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o8VpYcGzP55ZQLSz27gQtaob9wu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
-    },
-    {
-      "id": "tmdb:45140",
-      "type": "series",
-      "name": "Teen Titans Go!",
-      "ids": {
-        "tmdb": 45140
-      },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wxdFuCHawKMIqDrY2ywsR34Gocx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
     },
     {
       "id": "tmdb:4546",
@@ -421,6 +407,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
     },
     {
+      "id": "tmdb:111803",
+      "type": "series",
+      "name": "The White Lotus",
+      "ids": {
+        "tmdb": 111803
+      },
+      "overview": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o8VpYcGzP55ZQLSz27gQtaob9wu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
+    },
+    {
+      "id": "tmdb:45140",
+      "type": "series",
+      "name": "Teen Titans Go!",
+      "ids": {
+        "tmdb": 45140
+      },
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+    },
+    {
       "id": "tmdb:37606",
       "type": "series",
       "name": "El asombroso mundo de Gumball",
@@ -449,32 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:41727",
       "type": "series",
-      "name": "La casa del dragón",
+      "name": "Banshee",
       "ids": {
-        "tmdb": 94997
+        "tmdb": 41727
       },
-      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg",
+      "overview": "Este western contemporáneo nos sumerge en la América profunda siguiendo la odisea de Lucas Hood, un ex convicto dispuesto a cualquier cosa para resolver los asuntos de su turbio pasado. La oscura vida de Lucas Hood se complica aún más cuando, tras salir de prisión, decide tomar la identidad del nuevo sheriff de Banshee, un pequeño pueblo situado en Pennsylvania que oculta más de lo que parece. Allí espera encontrarse con su antigua colega y amante Ana, al tiempo que huye de quienes lo persiguen desde hace años y lidia a su manera con las acciones del siniestro cacique del pueblo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kSNBbAr6c7y8HVhHqF4e0qGOaXk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
-    },
-    {
-      "id": "tmdb:69478",
-      "type": "series",
-      "name": "El cuento de la criada",
-      "ids": {
-        "tmdb": 69478
-      },
-      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8FWIPselZe0R6NQxz27XrQ9pqrx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
       "id": "tmdb:105",
@@ -491,18 +491,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
     },
     {
-      "id": "tmdb:1940",
+      "id": "tmdb:31917",
       "type": "series",
-      "name": "Entourage: El séquito",
+      "name": "Pequeñas mentirosas",
       "ids": {
-        "tmdb": 1940
+        "tmdb": 31917
       },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
     },
     {
       "id": "tmdb:1395",
@@ -519,18 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
     },
     {
-      "id": "tmdb:41727",
+      "id": "tmdb:1940",
       "type": "series",
-      "name": "Banshee",
+      "name": "Entourage: El séquito",
       "ids": {
-        "tmdb": 41727
+        "tmdb": 1940
       },
-      "overview": "Este western contemporáneo nos sumerge en la América profunda siguiendo la odisea de Lucas Hood, un ex convicto dispuesto a cualquier cosa para resolver los asuntos de su turbio pasado. La oscura vida de Lucas Hood se complica aún más cuando, tras salir de prisión, decide tomar la identidad del nuevo sheriff de Banshee, un pequeño pueblo situado en Pennsylvania que oculta más de lo que parece. Allí espera encontrarse con su antigua colega y amante Ana, al tiempo que huye de quienes lo persiguen desde hace años y lidia a su manera con las acciones del siniestro cacique del pueblo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
+      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8FWIPselZe0R6NQxz27XrQ9pqrx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
     },
     {
       "id": "tmdb:46896",
@@ -561,74 +561,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bMhxqWYzNqyG6bN4m6LOgypOTpn.png"
     },
     {
-      "id": "tmdb:250307",
+      "id": "tmdb:131378",
       "type": "series",
-      "name": "The Pitt",
+      "name": "Hora de aventuras: Fionna y Cake",
       "ids": {
-        "tmdb": 250307
+        "tmdb": 131378
       },
-      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+      "overview": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
-    },
-    {
-      "id": "tmdb:10545",
-      "type": "series",
-      "name": "True Blood (Sangre fresca)",
-      "ids": {
-        "tmdb": 10545
-      },
-      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
-    },
-    {
-      "id": "tmdb:607",
-      "type": "series",
-      "name": "Las Supernenas",
-      "ids": {
-        "tmdb": 607
-      },
-      "overview": "El profesor Utonium es un ingeniero genético que siempre está experimentando. Una noche decide hacer realidad su sueño más anhelado: crear una niña perfecta. El resultado es espectacular: en vez de una niña ha creado a tres superheroínas.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/nGVE5Npcj41KuQW2NUCdHseop8I.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
-    },
-    {
-      "id": "tmdb:47480",
-      "type": "series",
-      "name": "El Show de Tom y Jerry",
-      "ids": {
-        "tmdb": 47480
-      },
-      "overview": "Los icónicos representantes de la eterna lucha entre gato y ratón vuelven en esta nueva serie una mirada fresca sobre la serie clásica.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/n0bdwjahW09vy2DrZApu3v5pN67.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zHNjEd5PTUuAlaqtjEVlcDiQwDw.png"
-    },
-    {
-      "id": "tmdb:65763",
-      "type": "series",
-      "name": "The New Looney Tunes",
-      "ids": {
-        "tmdb": 65763
-      },
-      "overview": "En esta serie, los Looney Tunes dejan el mundo de la sitcom y vuelven a sus raíces cómicas del slapstick. Cada episodio de Wabbit contiene dos cortos, protagonizados por Bugs Bunny.\n\nOtros personajes, como Wile E. Coyote y Yosemite Sam, se presentan a molestarlo. Algunos personajes obtienen nuevas características: Wile E. Coyote es, por ejemplo, el vecino sabelotodo mientras que Taz trabaja como empleado en contabilidad, aunque reprime su verdadero yo.\n\nSe agregan nuevos personajes que vienen a ser amigos de Bugs, como Dientes la Ardilla y una versión infatil de Pie Grande.\n\nDe la misma forma, Bugs se enfrenta a nuevos villanos, pero no sin la ayuda de sus amigos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9UvNxytrlMzrSnFuC5mATbZIW9G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3mnb7BiQosDwunzCZ2KoU6x46pC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jaeB5NtWZoknDKYMl3yYd85Okko.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2CB9MFbRgtTe095UALAu07m0tXo.png"
     },
     {
       "id": "tmdb:76331",
@@ -645,18 +589,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
     },
     {
-      "id": "tmdb:709",
+      "id": "tmdb:69478",
       "type": "series",
-      "name": "Robot Chicken",
+      "name": "El cuento de la criada",
       "ids": {
-        "tmdb": 709
+        "tmdb": 69478
       },
-      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+    },
+    {
+      "id": "tmdb:607",
+      "type": "series",
+      "name": "Las Supernenas",
+      "ids": {
+        "tmdb": 607
+      },
+      "overview": "El profesor Utonium es un ingeniero genético que siempre está experimentando. Una noche decide hacer realidad su sueño más anhelado: crear una niña perfecta. El resultado es espectacular: en vez de una niña ha creado a tres superheroínas.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/nGVE5Npcj41KuQW2NUCdHseop8I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
+    },
+    {
+      "id": "tmdb:10545",
+      "type": "series",
+      "name": "True Blood (Sangre fresca)",
+      "ids": {
+        "tmdb": 10545
+      },
+      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
+    },
+    {
+      "id": "tmdb:65763",
+      "type": "series",
+      "name": "The New Looney Tunes",
+      "ids": {
+        "tmdb": 65763
+      },
+      "overview": "En esta serie, los Looney Tunes dejan el mundo de la sitcom y vuelven a sus raíces cómicas del slapstick. Cada episodio de Wabbit contiene dos cortos, protagonizados por Bugs Bunny.\n\nOtros personajes, como Wile E. Coyote y Yosemite Sam, se presentan a molestarlo. Algunos personajes obtienen nuevas características: Wile E. Coyote es, por ejemplo, el vecino sabelotodo mientras que Taz trabaja como empleado en contabilidad, aunque reprime su verdadero yo.\n\nSe agregan nuevos personajes que vienen a ser amigos de Bugs, como Dientes la Ardilla y una versión infatil de Pie Grande.\n\nDe la misma forma, Bugs se enfrenta a nuevos villanos, pero no sin la ayuda de sus amigos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9UvNxytrlMzrSnFuC5mATbZIW9G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3mnb7BiQosDwunzCZ2KoU6x46pC.png"
     },
     {
       "id": "tmdb:228305",
@@ -673,32 +659,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/hG6Dr7WnAYSW37cpY2SsML1AOYh.png"
     },
     {
-      "id": "tmdb:63401",
+      "id": "tmdb:250307",
       "type": "series",
-      "name": "Somos osos",
+      "name": "The Pitt",
       "ids": {
-        "tmdb": 63401
+        "tmdb": 250307
       },
-      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
+      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
     },
     {
-      "id": "tmdb:131378",
+      "id": "tmdb:47480",
       "type": "series",
-      "name": "Hora de aventuras: Fionna y Cake",
+      "name": "El Show de Tom y Jerry",
       "ids": {
-        "tmdb": 131378
+        "tmdb": 47480
       },
-      "overview": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
+      "overview": "Los icónicos representantes de la eterna lucha entre gato y ratón vuelven en esta nueva serie una mirada fresca sobre la serie clásica.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jaeB5NtWZoknDKYMl3yYd85Okko.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2CB9MFbRgtTe095UALAu07m0tXo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/n0bdwjahW09vy2DrZApu3v5pN67.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zHNjEd5PTUuAlaqtjEVlcDiQwDw.png"
+    },
+    {
+      "id": "tmdb:709",
+      "type": "series",
+      "name": "Robot Chicken",
+      "ids": {
+        "tmdb": 709
+      },
+      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
     }
   ]
 }
