@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:1481331",
+      "type": "movie",
+      "name": "Nahual",
+      "ids": {
+        "tmdb": 1481331
+      },
+      "overview": "La exótica escapada de Katia Montero se convierte en una pesadilla al ser poseída por un espíritu animal sediento de sangre. Encuentros eróticos, violencia y leyendas locales transforman el paraíso en un infierno en esta nueva versión de un escalofriante mito sudamericano.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:1248226",
       "type": "movie",
       "name": "Juegos de niños",
@@ -13,18 +25,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/gAR5CbKYuljOtJED1uipBLNSsiD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png"
-    },
-    {
-      "id": "tmdb:1481331",
-      "type": "movie",
-      "name": "Nahual",
-      "ids": {
-        "tmdb": 1481331
-      },
-      "overview": "La exótica escapada de Katia Montero se convierte en una pesadilla al ser poseída por un espíritu animal sediento de sangre. Encuentros eróticos, violencia y leyendas locales transforman el paraíso en un infierno en esta nueva versión de un escalofriante mito sudamericano.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-      "posterShape": "poster"
     },
     {
       "id": "tmdb:1280518",
@@ -79,20 +79,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/A6nBeHjhxHvSqr9YJ0BDd2MTZMu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kFMZLSkP7Jb8zPMP2AmZOXh4zkg.png"
-    },
-    {
-      "id": "tmdb:249616",
-      "type": "movie",
-      "name": "El virginiano",
-      "ids": {
-        "tmdb": 249616
-      },
-      "overview": "Cuando una escritora de la gran ciudad comienza a preguntar sobre las acciones de los ladrones de ganado, \"El Virginiano\" rápidamente defiende la brutal realidad que impera en el \"código del Oeste\".",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/sRiqkcMRMclHoDgCqyQsEZXZWIL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9xsjwhKHCWySYo7fg6eVBdUhIaa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aP58gyNkdPmADf5VuG2nKJ5HJX1.png"
     },
     {
       "id": "tmdb:1156594",
@@ -151,20 +137,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/zp04i9bv8WMfzr7IUFcdXWDiAi3.png"
     },
     {
-      "id": "tmdb:941109",
-      "type": "movie",
-      "name": "Juego sucio",
-      "ids": {
-        "tmdb": 941109
-      },
-      "overview": "Un experto ladrón lleva a cabo el mayor robo de su vida. Parker, junto a Grofield, Zen y un equipo experto, se ven involucrados en un golpe que los enfrenta a la mafia de Nueva York en esta arriesgada misión.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fpPFrlZI7h59u20xnm6UELHe1C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8FYBuJbhWVMUjYkUcebfGPPicQx.png"
-    },
-    {
       "id": "tmdb:1340828",
       "type": "movie",
       "name": "Mujercitas en Navidad",
@@ -179,6 +151,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/wHlyvJylmEDNXA42WhTjq2AVsMp.png"
     },
     {
+      "id": "tmdb:505953",
+      "type": "movie",
+      "name": "Amigos para siempre",
+      "ids": {
+        "tmdb": 505953
+      },
+      "overview": "Basada en el aclamado libro homónimo, Storm Boy es la historia de un joven que crece en la hermosa pero deshabitada costa del sur de Australia y que inesperadamente rescata a tres pelícanos huérfanos. Tras crear un vínculo cercano con ellos se verá en una peculiar situación con su padre pescador, con lo que su vida dará un nuevo e inesperado giro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/geQ8xR84vmv44NuYgjmhvHF5HNm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2XPCsiRp60tycZW0p9y4RCqrAYB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xBWPyeRRAXkBpSG7zFdj8KUhw3e.png"
+    },
+    {
+      "id": "tmdb:941109",
+      "type": "movie",
+      "name": "Juego sucio",
+      "ids": {
+        "tmdb": 941109
+      },
+      "overview": "Un experto ladrón lleva a cabo el mayor robo de su vida. Parker, junto a Grofield, Zen y un equipo experto, se ven involucrados en un golpe que los enfrenta a la mafia de Nueva York en esta arriesgada misión.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fpPFrlZI7h59u20xnm6UELHe1C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8FYBuJbhWVMUjYkUcebfGPPicQx.png"
+    },
+    {
       "id": "tmdb:75656",
       "type": "movie",
       "name": "Ahora me ves",
@@ -191,6 +191,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/sWJvXYEjQ5UHbhTvSjZGFPeABNe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/s12Cs0MCfu8Z4FnRumGrMHiLOTt.png"
+    },
+    {
+      "id": "tmdb:210577",
+      "type": "movie",
+      "name": "Perdida",
+      "ids": {
+        "tmdb": 210577
+      },
+      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cmUngRhFmFPnBfRDPvTD5HYfxeh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4SQBPeL24vtjmviI8j0r0uH5FYl.png"
     },
     {
       "id": "tmdb:1119878",
@@ -221,60 +235,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
     },
     {
-      "id": "tmdb:1301844",
+      "id": "tmdb:713711",
       "type": "movie",
-      "name": "Belén",
+      "name": "Conexión criminal",
       "ids": {
-        "tmdb": 1301844
+        "tmdb": 713711
       },
-      "overview": "En la provincia de Tucumán, Argentina, siguen Julieta, una joven acusada de infanticidio, y Soledad Deza, la audaz abogada que lo arriesga todo para asumir su caso altamente controvertido y que sienta precedentes. A medida que se desarrolla el juicio, la difícil situación de Julieta se convierte en un punto álgido en la batalla contra un sistema legal conservador, lo que provoca una oleada de indignación y una creciente ola de solidaridad que trasciende las fronteras.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/fto3pNhRmildPHJuF5UrAs6DXuK.jpg",
+      "overview": "Un trabajador social asignado al cuidado de la hija de una madre soltera interviene cuando el padre regresa de la cárcel y los atrae a una vida delictiva.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/znyk4uvq9eduQCVMOSDJwJBMRdF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e7gAfObWK1OaqwCUYPuRMSvo9aZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A8IrsqfDpgftB6JjaXvOJnHfDAN.png"
-    },
-    {
-      "id": "tmdb:291805",
-      "type": "movie",
-      "name": "Ahora me ves 2",
-      "ids": {
-        "tmdb": 291805
-      },
-      "overview": "Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha... Secuela de \"Ahora me ves\" del 2013.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/loz93oEcBvf0HHE4GvwkDwfrtPy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yUVdxlUCXlvGe5kEspq7wp4FDmR.png"
-    },
-    {
-      "id": "tmdb:210577",
-      "type": "movie",
-      "name": "Perdida",
-      "ids": {
-        "tmdb": 210577
-      },
-      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cmUngRhFmFPnBfRDPvTD5HYfxeh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4SQBPeL24vtjmviI8j0r0uH5FYl.png"
-    },
-    {
-      "id": "tmdb:2300",
-      "type": "movie",
-      "name": "Space Jam",
-      "ids": {
-        "tmdb": 2300
-      },
-      "overview": "Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los Nerdlucks cuentan con una poderosa arma secreta que los hace superiores: se han apoderado de las mejores cualidades de las estrellas de la NBA (Charles Barkley y Patrick Ewing). Pero también los Looney poseen un arma secreta: ¡Michael Jordan!",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/2yyw20gloVgbzR9a5B15GqPdqux.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fjT9y9WKwWClOMouSuuQWwjzPC4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8lytIg8a4cGBfxJhuOdNCYpP4sZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iSpvZ2YDtg27czpPNC87R0Qx8Xa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hvVYZXezSG2QAAd1Ixd183dMRID.png"
     },
     {
       "id": "tmdb:238",
@@ -291,45 +263,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
     },
     {
-      "id": "tmdb:866398",
+      "id": "tmdb:2300",
       "type": "movie",
-      "name": "Beekeeper: El protector",
+      "name": "Space Jam",
       "ids": {
-        "tmdb": 866398
+        "tmdb": 2300
       },
-      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "overview": "Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los Nerdlucks cuentan con una poderosa arma secreta que los hace superiores: se han apoderado de las mejores cualidades de las estrellas de la NBA (Charles Barkley y Patrick Ewing). Pero también los Looney poseen un arma secreta: ¡Michael Jordan!",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/2yyw20gloVgbzR9a5B15GqPdqux.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u5y8a5P3OL8dikgJdtyO3ZBrXmv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
-    },
-    {
-      "id": "tmdb:1198426",
-      "type": "movie",
-      "name": "Capitán Avispa",
-      "ids": {
-        "tmdb": 1198426
-      },
-      "overview": "En Avispatropolis, el intrépido capitán Avispa emerge como un protector ejemplar de la ciudad, cuyo coraje y convicciones siempre prevalecen sobre las fuerzas del mal. Su poder inquebrantable se nutre de una sinceridad absoluta, pues perdería su fuerza si se atreviera a tejer engaños. Solo en pos de causas nobles se permite desviarse de la verdad. Como es común en historias de este tipo, el capitán Avispa está rodeado de una constelación de amigos cercanos y archienemigos, cuyas historias tienen su origen en las canciones del artista.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4damV6u8Za9p03SH9jvKr3TwHQC.jpg"
-    },
-    {
-      "id": "tmdb:845781",
-      "type": "movie",
-      "name": "Red One",
-      "ids": {
-        "tmdb": 845781
-      },
-      "overview": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fjT9y9WKwWClOMouSuuQWwjzPC4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8lytIg8a4cGBfxJhuOdNCYpP4sZ.png"
     },
     {
       "id": "tmdb:8871",
@@ -346,6 +291,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
     },
     {
+      "id": "tmdb:291805",
+      "type": "movie",
+      "name": "Ahora me ves 2",
+      "ids": {
+        "tmdb": 291805
+      },
+      "overview": "Un año después de despistar al FBI y conseguir la admiración del público con sus espectáculos mentales, los cuatro jinetes vuelven a la luz pública, pero un nuevo enemigo se propone arruinar su golpe más espectacular y peligroso hasta la fecha... Secuela de \"Ahora me ves\" del 2013.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/loz93oEcBvf0HHE4GvwkDwfrtPy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yUVdxlUCXlvGe5kEspq7wp4FDmR.png"
+    },
+    {
+      "id": "tmdb:618588",
+      "type": "movie",
+      "name": "Arthur",
+      "ids": {
+        "tmdb": 618588
+      },
+      "overview": "Basada en una historia real. Michael White es el capitán de un equipo que participa en una carrera de 700 km durante 10 días por las selvas de la República Dominicana. Durante esta épica carrera de resistencia, un perro callejero se les une, recorriendo con ellos algunos de los terrenos más difíciles del planeta. A medida que el equipo se ve empujado al límite de su resistencia en la carrera, Arthur redefine lo que realmente significan la victoria, la lealtad y la amistad.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xiEgWrIP8oK2CeLQ2rn1XaTS7qU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/miBTSrLQ0a9cyROXyOdY03smJMb.png"
+    },
+    {
       "id": "tmdb:564",
       "type": "movie",
       "name": "La momia",
@@ -358,6 +331,61 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
+    },
+    {
+      "id": "tmdb:249616",
+      "type": "movie",
+      "name": "El virginiano",
+      "ids": {
+        "tmdb": 249616
+      },
+      "overview": "Cuando una escritora de la gran ciudad comienza a preguntar sobre las acciones de los ladrones de ganado, \"El Virginiano\" rápidamente defiende la brutal realidad que impera en el \"código del Oeste\".",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/sRiqkcMRMclHoDgCqyQsEZXZWIL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9xsjwhKHCWySYo7fg6eVBdUhIaa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aP58gyNkdPmADf5VuG2nKJ5HJX1.png"
+    },
+    {
+      "id": "tmdb:1198426",
+      "type": "movie",
+      "name": "Capitán Avispa",
+      "ids": {
+        "tmdb": 1198426
+      },
+      "overview": "En Avispatropolis, el intrépido capitán Avispa emerge como un protector ejemplar de la ciudad, cuyo coraje y convicciones siempre prevalecen sobre las fuerzas del mal. Su poder inquebrantable se nutre de una sinceridad absoluta, pues perdería su fuerza si se atreviera a tejer engaños. Solo en pos de causas nobles se permite desviarse de la verdad. Como es común en historias de este tipo, el capitán Avispa está rodeado de una constelación de amigos cercanos y archienemigos, cuyas historias tienen su origen en las canciones del artista.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4damV6u8Za9p03SH9jvKr3TwHQC.jpg"
+    },
+    {
+      "id": "tmdb:866398",
+      "type": "movie",
+      "name": "Beekeeper: El protector",
+      "ids": {
+        "tmdb": 866398
+      },
+      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u5y8a5P3OL8dikgJdtyO3ZBrXmv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
+    },
+    {
+      "id": "tmdb:845781",
+      "type": "movie",
+      "name": "Red One",
+      "ids": {
+        "tmdb": 845781
+      },
+      "overview": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
     },
     {
       "id": "tmdb:106646",
@@ -374,46 +402,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
-      "id": "tmdb:505953",
+      "id": "tmdb:749170",
       "type": "movie",
-      "name": "Amigos para siempre",
+      "name": "Jefes de Estado",
       "ids": {
-        "tmdb": 505953
+        "tmdb": 749170
       },
-      "overview": "Basada en el aclamado libro homónimo, Storm Boy es la historia de un joven que crece en la hermosa pero deshabitada costa del sur de Australia y que inesperadamente rescata a tres pelícanos huérfanos. Tras crear un vínculo cercano con ellos se verá en una peculiar situación con su padre pescador, con lo que su vida dará un nuevo e inesperado giro.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/geQ8xR84vmv44NuYgjmhvHF5HNm.jpg",
+      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2XPCsiRp60tycZW0p9y4RCqrAYB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xBWPyeRRAXkBpSG7zFdj8KUhw3e.png"
-    },
-    {
-      "id": "tmdb:39176",
-      "type": "movie",
-      "name": "El despertar",
-      "ids": {
-        "tmdb": 39176
-      },
-      "overview": "Un arqueólogo y su ayudante, una bella joven, encuentran después de una intensa búsqueda, la tumba de la faraona Kara. Cuando la abren, la esposa del arqueólogo, que siente celos de la ayudante de su marido y se encuentra embarazada, da a luz prematuramente una niña, por lo que se teme que la maldición de la faraona caiga sobre la recién nacida.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/9TramBdeUGJ6txuVdSsCKalVn9O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bq7ucrxyS6m3BFaR26BDlimnnHZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hlzjEGR46aObSmOgdH6itTpDGMv.png"
-    },
-    {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
     },
     {
       "id": "tmdb:1156593",
@@ -430,18 +430,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
     },
     {
-      "id": "tmdb:713711",
+      "id": "tmdb:1301844",
       "type": "movie",
-      "name": "Conexión criminal",
+      "name": "Belén",
       "ids": {
-        "tmdb": 713711
+        "tmdb": 1301844
       },
-      "overview": "Un trabajador social asignado al cuidado de la hija de una madre soltera interviene cuando el padre regresa de la cárcel y los atrae a una vida delictiva.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/znyk4uvq9eduQCVMOSDJwJBMRdF.jpg",
+      "overview": "En la provincia de Tucumán, Argentina, siguen Julieta, una joven acusada de infanticidio, y Soledad Deza, la audaz abogada que lo arriesga todo para asumir su caso altamente controvertido y que sienta precedentes. A medida que se desarrolla el juicio, la difícil situación de Julieta se convierte en un punto álgido en la batalla contra un sistema legal conservador, lo que provoca una oleada de indignación y una creciente ola de solidaridad que trasciende las fronteras.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fto3pNhRmildPHJuF5UrAs6DXuK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iSpvZ2YDtg27czpPNC87R0Qx8Xa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hvVYZXezSG2QAAd1Ixd183dMRID.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/e7gAfObWK1OaqwCUYPuRMSvo9aZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A8IrsqfDpgftB6JjaXvOJnHfDAN.png"
+    },
+    {
+      "id": "tmdb:39176",
+      "type": "movie",
+      "name": "El despertar",
+      "ids": {
+        "tmdb": 39176
+      },
+      "overview": "Un arqueólogo y su ayudante, una bella joven, encuentran después de una intensa búsqueda, la tumba de la faraona Kara. Cuando la abren, la esposa del arqueólogo, que siente celos de la ayudante de su marido y se encuentra embarazada, da a luz prematuramente una niña, por lo que se teme que la maldición de la faraona caiga sobre la recién nacida.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/9TramBdeUGJ6txuVdSsCKalVn9O.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bq7ucrxyS6m3BFaR26BDlimnnHZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hlzjEGR46aObSmOgdH6itTpDGMv.png"
     },
     {
       "id": "tmdb:547116",
@@ -455,48 +469,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/qHrXTNc4pzJ79VZ2JSw46HzAmwJ.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eJUbM1p8ADjJMPzvRQc1h35FSc3.jpg"
-    },
-    {
-      "id": "tmdb:1053008",
-      "type": "movie",
-      "name": "El luchador definitivo",
-      "ids": {
-        "tmdb": 1053008
-      },
-      "overview": "En el año 2046, donde existen los viajes en el tiempo y los combates a muerte son un deporte, un multimillonario realiza improbables peleas televisadas para descubrir al luchador definitivo: samuráis vs vikingos, caballeros vs policías, cowboys vs espartanos… Un policía de los 80 deberá participar en el programa y ganar todos los combates para poder regresar a su pasado.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/vmRtkq80lG1SO4wDscDUbuuoa3n.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2u0PRdGOcd4v3Zbb9JuZgpSBrtO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9sSKuD2X2FOaMUrUpLvYcRsgQxH.png"
-    },
-    {
-      "id": "tmdb:569094",
-      "type": "movie",
-      "name": "Spider-Man: Cruzando el Multiverso",
-      "ids": {
-        "tmdb": 569094
-      },
-      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dqW4XklqnMOopW9MMmT2lmLN3dT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
-    },
-    {
-      "id": "tmdb:749170",
-      "type": "movie",
-      "name": "Jefes de Estado",
-      "ids": {
-        "tmdb": 749170
-      },
-      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
     },
     {
       "id": "tmdb:680",
@@ -513,18 +485,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
-      "id": "tmdb:854",
+      "id": "tmdb:569094",
       "type": "movie",
-      "name": "La máscara",
+      "name": "Spider-Man: Cruzando el Multiverso",
       "ids": {
-        "tmdb": 854
+        "tmdb": 569094
       },
-      "overview": "Stanley es un ingenuo empleado de banca incapaz de enterarse de cuándo se aprovechan de él, al que su jefe mangonea, al que su casera humilla, y al que solamente su perro parece ser capaz de aguantar. Su amigo Charlie le invita a ir al cabaret Coco Bongo para intentar estimularle y conseguir que espabile, pero antes de que eso ocurra, aparece la bella Tina Carlyle, que entra en el banco para hablar con Stanley y de paso fotografiar la caja fuerte con una mini cámara. Es entonces cuando Stanley encuentra una máscara que le da grandes poderes y que también le quita todos sus miedos: ahora es libre de actuar como quiera.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
+      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vQ8xZZXFOrgRzW9AWKOUKTSO4YK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/epjWNX4THom04vDPv54MJtg8Uam.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dqW4XklqnMOopW9MMmT2lmLN3dT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
+    },
+    {
+      "id": "tmdb:1053008",
+      "type": "movie",
+      "name": "El luchador definitivo",
+      "ids": {
+        "tmdb": 1053008
+      },
+      "overview": "En el año 2046, donde existen los viajes en el tiempo y los combates a muerte son un deporte, un multimillonario realiza improbables peleas televisadas para descubrir al luchador definitivo: samuráis vs vikingos, caballeros vs policías, cowboys vs espartanos… Un policía de los 80 deberá participar en el programa y ganar todos los combates para poder regresar a su pasado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/vmRtkq80lG1SO4wDscDUbuuoa3n.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2u0PRdGOcd4v3Zbb9JuZgpSBrtO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9sSKuD2X2FOaMUrUpLvYcRsgQxH.png"
     },
     {
       "id": "tmdb:361743",
@@ -541,31 +527,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/w6dMatJzyyVtmE8JVGnNjviapnv.png"
     },
     {
-      "id": "tmdb:1478178",
+      "id": "tmdb:496243",
       "type": "movie",
-      "name": "Los bárbaros",
+      "name": "Parásitos",
       "ids": {
-        "tmdb": 1478178
+        "tmdb": 496243
       },
-      "overview": "Durante la crisis económica de 2008, cuatro jóvenes ocupan un edificio en construcción en busca de un hogar.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/xm6rilitqrlvnPThzJpLBSCreVg.jpg",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qlgjhx4lubpHpXZbAXinphCVJnk.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:652",
+      "id": "tmdb:808",
       "type": "movie",
-      "name": "Troya",
+      "name": "Shrek",
       "ids": {
-        "tmdb": 652
+        "tmdb": 808
       },
-      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:793511",
@@ -582,18 +569,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yvi8uv5926J4Z7oApaCpjArh6f3.png"
     },
     {
-      "id": "tmdb:496243",
+      "id": "tmdb:13",
       "type": "movie",
-      "name": "Parásitos",
+      "name": "Forrest Gump",
       "ids": {
-        "tmdb": 496243
+        "tmdb": 13
       },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tNVTWNa8cxZLw7aWvHzSDLyc7ig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kjUupFukLAkxM40so0YfRGY5aHo.png"
+    },
+    {
+      "id": "tmdb:652",
+      "type": "movie",
+      "name": "Troya",
+      "ids": {
+        "tmdb": 652
+      },
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
     },
     {
       "id": "tmdb:414906",
@@ -610,88 +611,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
     },
     {
-      "id": "tmdb:13",
+      "id": "tmdb:408866",
       "type": "movie",
-      "name": "Forrest Gump",
+      "name": "Re:Born",
       "ids": {
-        "tmdb": 13
+        "tmdb": 408866
       },
-      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+      "overview": "Un soldado de misterioso pasado decide volver a liberar la bestia que habita en su interior cuando tiene que proteger aquello que más quiere.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/y14VzRr1er9DNiJffToo763esMe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eEiwYvKkY1pTNkrWqKxBoGIUTdG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/czHRylptnr5WPVV3qqlPNHrXqIZ.png"
+    },
+    {
+      "id": "tmdb:360920",
+      "type": "movie",
+      "name": "El Grinch",
+      "ids": {
+        "tmdb": 360920
+      },
+      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
+    },
+    {
+      "id": "tmdb:98",
+      "type": "movie",
+      "name": "Gladiator",
+      "ids": {
+        "tmdb": 98
+      },
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+    },
+    {
+      "id": "tmdb:854",
+      "type": "movie",
+      "name": "La máscara",
+      "ids": {
+        "tmdb": 854
+      },
+      "overview": "Stanley es un ingenuo empleado de banca incapaz de enterarse de cuándo se aprovechan de él, al que su jefe mangonea, al que su casera humilla, y al que solamente su perro parece ser capaz de aguantar. Su amigo Charlie le invita a ir al cabaret Coco Bongo para intentar estimularle y conseguir que espabile, pero antes de que eso ocurra, aparece la bella Tina Carlyle, que entra en el banco para hablar con Stanley y de paso fotografiar la caja fuerte con una mini cámara. Es entonces cuando Stanley encuentra una máscara que le da grandes poderes y que también le quita todos sus miedos: ahora es libre de actuar como quiera.",
       "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tNVTWNa8cxZLw7aWvHzSDLyc7ig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kjUupFukLAkxM40so0YfRGY5aHo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vQ8xZZXFOrgRzW9AWKOUKTSO4YK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/epjWNX4THom04vDPv54MJtg8Uam.png"
     },
     {
-      "id": "tmdb:953",
+      "id": "tmdb:1028248",
       "type": "movie",
-      "name": "Madagascar",
+      "name": "As Good As Dead. Ahora más peligroso",
       "ids": {
-        "tmdb": 953
+        "tmdb": 1028248
       },
-      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
-    },
-    {
-      "id": "tmdb:603692",
-      "type": "movie",
-      "name": "John Wick 4",
-      "ids": {
-        "tmdb": 603692
-      },
-      "overview": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xesn2yqNvezKyMXon8Aam4QZane.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q7EtVuIqlDIjn3IEpXeq9sF6wDp.png"
-    },
-    {
-      "id": "tmdb:718930",
-      "type": "movie",
-      "name": "Bullet Train",
-      "ids": {
-        "tmdb": 718930
-      },
-      "overview": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
+      "overview": "Bryant (Michael Jai White), un hombre con un pasado misterioso, se muda a un pequeño pueblo fronterizo mexicano para empezar de nuevo y vivir una vida sencilla. Mientras está allí, se hace amigo de mala gana de un adolescente local con problemas que recientemente perdió a su madre y está siendo reclutado por la pandilla callejera local.",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/ybSIUt48PsM08F4UZwHdjL9ZVG2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/niTXgu5Ydz64KkanuPqkppfW5gI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r4CDjWzdPy22wWkKuFooIL9xbAw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cFMPkWazgX6dt7kZDXcWd4QgvH0.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mV4HOq4Q8QxigC4z0YvHWSjrs8H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/atHM5eeBUXQLw6zpulhW86mSoZA.png"
     },
     {
-      "id": "tmdb:1049171",
+      "id": "tmdb:269955",
       "type": "movie",
-      "name": "Perfetta illusione",
+      "name": "Obsessed",
       "ids": {
-        "tmdb": 1049171
+        "tmdb": 269955
       },
-      "overview": "Toni leads a normal life with his wife Paola but full of enthusiasm and passion. The chance meeting with the young and wealthy Chiara will rekindle in him the desire to redeem himself and to realize his secret dream: to become an artist. The paths of the three will intertwine in a dangerous love triangle that will change the course of their lives forever.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/2NwxiAJHZbp9nzxD3LuMewpWTnh.jpg",
+      "overview": "En 1969, el coronel Kim Jin Pyung luchó con valentía en la guerra de Vietnam. En un complejo de viviendas de la familia militar, el coronel Kim Jin Pyung se enamora de la esposa de su subordinado.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/fetCtoAvZShCk1nqAWZFuKZschR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v4qYzIO4qMyfUKuno37D6VUiLCp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9n58ZJIeTY4ip7sfciYzk4qjIX1.png"
-    },
-    {
-      "id": "tmdb:138843",
-      "type": "movie",
-      "name": "Expediente Warren: The Conjuring",
-      "ids": {
-        "tmdb": 138843
-      },
-      "overview": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mftGp3zFc6ScGK2avNcaG72guoo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iGBbWXmAIgpiWg9Mx2D2gLzbg4n.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pWbLmJ3xGqZgh3QlkcFqIId2r3W.png"
     }
   ]
 }
