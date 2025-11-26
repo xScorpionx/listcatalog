@@ -29,19 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/aJqB0sF204hfis86I5UbYctskV0.png"
     },
     {
-      "id": "tmdb:38004",
-      "type": "movie",
-      "name": "Después de medianoche",
-      "ids": {
-        "tmdb": 38004
-      },
-      "overview": "La mágica Mole Antonelliana (el cavernoso Museo de Cine de Turín, Italia) es el escenario de una historia de amor muy poco probable. Una noche fatídica, el tímido vigilante nocturno del museo, acude en ayuda de un encantador joven cocinero de comida rápida que huye de la policía. El ensueño reino del museo de personajes de películas mudas se convierte en un santuario para ella mientras espera el rescate de su novio diabólico.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/3KJByPl2MfMLuYfyBxDsRaOn7hK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gCFqwiG1p9OjFhJjmcCzTQJb8wz.jpg"
-    },
-    {
       "id": "tmdb:423",
       "type": "movie",
       "name": "El pianista",
@@ -54,6 +41,19 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
+    },
+    {
+      "id": "tmdb:38004",
+      "type": "movie",
+      "name": "Después de medianoche",
+      "ids": {
+        "tmdb": 38004
+      },
+      "overview": "La mágica Mole Antonelliana (el cavernoso Museo de Cine de Turín, Italia) es el escenario de una historia de amor muy poco probable. Una noche fatídica, el tímido vigilante nocturno del museo, acude en ayuda de un encantador joven cocinero de comida rápida que huye de la policía. El ensueño reino del museo de personajes de películas mudas se convierte en un santuario para ella mientras espera el rescate de su novio diabólico.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/3KJByPl2MfMLuYfyBxDsRaOn7hK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gCFqwiG1p9OjFhJjmcCzTQJb8wz.jpg"
     },
     {
       "id": "tmdb:301845",
@@ -69,47 +69,6 @@
       "backdrop": "https://image.tmdb.org/t/p/original/fpB6mNdhTG8vX3vjPLHGO6lKbiF.jpg"
     },
     {
-      "id": "tmdb:324786",
-      "type": "movie",
-      "name": "Hasta el último hombre",
-      "ids": {
-        "tmdb": 324786
-      },
-      "overview": "Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gQzf1YLUicwHyXyjYNMtk44VjgO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xxucMCBH6h3iJ0Jc8JtVFNnen65.png"
-    },
-    {
-      "id": "tmdb:676156",
-      "type": "movie",
-      "name": "The Warrant",
-      "ids": {
-        "tmdb": 676156
-      },
-      "overview": "Unos bandidos asesinan al Sr. Duvall. Todas las culpas recaen sobre el vigilante Clark Harrison. Tras cinco años en la cárcel, Harrison recupera la libertad y busca venganza.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/fAShmkZrxnKe9QvsBg869PmS2zL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6dmmvDXOLgNPF8wyQmrWRy0HGDt.jpg"
-    },
-    {
-      "id": "tmdb:60541",
-      "type": "movie",
-      "name": "La mujer de fuego",
-      "ids": {
-        "tmdb": 60541
-      },
-      "overview": "En una comarca ganadera del Medio Oeste americano se reproduce la eterna guerra entre vaqueros y ovejeros. Worl, un ovejero que pretende asentarse en el lugar, se ve obligado a abandonar sus tierras. El problema es que está ligado sentimentalmente a Connie, la hija del ranchero que lo ha expulsado. Con el apoyo del ayudante de Worl, Connie se enfrentará a su padre.",
-      "year": 1947,
-      "poster": "https://image.tmdb.org/t/p/w342/tIl2E4ZOewI9e1urPAIYqLB8FRm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ge7oUKdtVo9xnGxPg1buPdcPrfy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4u8imTS3pBixYL69eFDPocNTcxr.png"
-    },
-    {
       "id": "tmdb:160478",
       "type": "movie",
       "name": "Divinas palabras",
@@ -123,18 +82,17 @@
       "backdrop": "https://image.tmdb.org/t/p/original/iiyI5czLmfDMBhUXGrWfBrDLlRA.jpg"
     },
     {
-      "id": "tmdb:9769",
+      "id": "tmdb:676156",
       "type": "movie",
-      "name": "Lolita",
+      "name": "The Warrant",
       "ids": {
-        "tmdb": 9769
+        "tmdb": 676156
       },
-      "overview": "Humbert es un europeo culto, brillante y atractivo que se instala en una ciudad de Nueva Inglaterra como profesor. Una vez allí, se hospeda en casa de Charlotte, una voluptuosa viuda, que ve en Humbert la encarnación de sus fantasías provincianas. Pero Humbert oculta una herida envenenada: el recuerdo de un frustrado amor de adolescencia. Por eso, Lolita, la hija de Charlotte, se le aparece a Humbert como la materialización de sus sueños.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/3nTCYIR9kwBDAnbjNlf6IHMEHry.jpg",
+      "overview": "Unos bandidos asesinan al Sr. Duvall. Todas las culpas recaen sobre el vigilante Clark Harrison. Tras cinco años en la cárcel, Harrison recupera la libertad y busca venganza.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/fAShmkZrxnKe9QvsBg869PmS2zL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kYZbdtV7JKYjyCwFzh3ocoGnLnk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tzlgvs6dXNjk91U96PnVQzHf7A1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6dmmvDXOLgNPF8wyQmrWRy0HGDt.jpg"
     },
     {
       "id": "tmdb:28178",
@@ -151,6 +109,47 @@
       "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
     },
     {
+      "id": "tmdb:324786",
+      "type": "movie",
+      "name": "Hasta el último hombre",
+      "ids": {
+        "tmdb": 324786
+      },
+      "overview": "Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gQzf1YLUicwHyXyjYNMtk44VjgO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xxucMCBH6h3iJ0Jc8JtVFNnen65.png"
+    },
+    {
+      "id": "tmdb:18591",
+      "type": "movie",
+      "name": "La tabla de Flandes",
+      "ids": {
+        "tmdb": 18591
+      },
+      "overview": "Julia Darro, una joven restauradora de arte, comienza a restaurar la Tabla de Flandes, un famoso cuadro del siglo XV que muestra una partida de ajedrez inacabada. Al quitar algunas capas de pintura descubre una inscripción oculta. Intrigada, ella y una amiga solicitan permiso a Don Juan Belmonte, su dueño, para desvelar la inscripción, lo cual eleva el precio del cuadro.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/ejO1RlgGtNzTiFf7biNjlNuq7oy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yjOskYh5JJe8mWVnk0lM6eT5Sux.jpg"
+    },
+    {
+      "id": "tmdb:9769",
+      "type": "movie",
+      "name": "Lolita",
+      "ids": {
+        "tmdb": 9769
+      },
+      "overview": "Humbert es un europeo culto, brillante y atractivo que se instala en una ciudad de Nueva Inglaterra como profesor. Una vez allí, se hospeda en casa de Charlotte, una voluptuosa viuda, que ve en Humbert la encarnación de sus fantasías provincianas. Pero Humbert oculta una herida envenenada: el recuerdo de un frustrado amor de adolescencia. Por eso, Lolita, la hija de Charlotte, se le aparece a Humbert como la materialización de sus sueños.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/3nTCYIR9kwBDAnbjNlf6IHMEHry.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kYZbdtV7JKYjyCwFzh3ocoGnLnk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tzlgvs6dXNjk91U96PnVQzHf7A1.png"
+    },
+    {
       "id": "tmdb:429",
       "type": "movie",
       "name": "El bueno, el feo y el malo",
@@ -163,6 +162,45 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tEzlu5U9gQrE55XF1piXPZBtOrD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
+    },
+    {
+      "id": "tmdb:22916",
+      "type": "movie",
+      "name": "Elsa y Fred",
+      "ids": {
+        "tmdb": 22916
+      },
+      "overview": "Elsa, que tiene 82 años, es una mujer llena de vitalidad y con una imaginación desbordante. Alfredo, algo más joven que ella, ha sido siempre un hombre convencional, serio y responsable. Al quedar viudo, desconcertado y angustiado por la ausencia de su mujer, su hija lo anima a mudarse a un apartamento más pequeño. Es entonces cuando conoce a Elsa, que es vecina suya. A partir de ese momento, ella irrumpe en su vida como un torbellino dispuesta a demostrarle que el tiempo que le queda es precioso y debe disfrutarlo como le plazca.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/4xjfBIP8BCCkKDmSBlAfguUiW8N.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:109827",
+      "type": "movie",
+      "name": "La venganza",
+      "ids": {
+        "tmdb": 109827
+      },
+      "overview": "Tras pasar diez años encerrado por un crimen que no cometió, Juan queda en libertad.",
+      "year": 1958,
+      "poster": "https://image.tmdb.org/t/p/w342/AkJmtwKhgSKv1rWbpyYXn1Kof0L.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mcAB8meGSHMBzC9rV2M3IUWoDQy.jpg"
+    },
+    {
+      "id": "tmdb:60541",
+      "type": "movie",
+      "name": "La mujer de fuego",
+      "ids": {
+        "tmdb": 60541
+      },
+      "overview": "En una comarca ganadera del Medio Oeste americano se reproduce la eterna guerra entre vaqueros y ovejeros. Worl, un ovejero que pretende asentarse en el lugar, se ve obligado a abandonar sus tierras. El problema es que está ligado sentimentalmente a Connie, la hija del ranchero que lo ha expulsado. Con el apoyo del ayudante de Worl, Connie se enfrentará a su padre.",
+      "year": 1947,
+      "poster": "https://image.tmdb.org/t/p/w342/tIl2E4ZOewI9e1urPAIYqLB8FRm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ge7oUKdtVo9xnGxPg1buPdcPrfy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4u8imTS3pBixYL69eFDPocNTcxr.png"
     },
     {
       "id": "tmdb:220881",
@@ -179,6 +217,33 @@
       "logo": "https://image.tmdb.org/t/p/w500/3xNQviyJcH12ynU45N8zwlHQPVE.png"
     },
     {
+      "id": "tmdb:22613",
+      "type": "movie",
+      "name": "El forajido",
+      "ids": {
+        "tmdb": 22613
+      },
+      "overview": "Billy el Niño y Doc Holliday huyen del sheriff Pat Garret, que antes había sido su amigo. Los forajidos llevan consigo a la mestiza Río, que es la chica de Bill. Las peleas entre los dos amigos son constantes: cuando no es por los caballos es por Río.",
+      "year": 1943,
+      "poster": "https://image.tmdb.org/t/p/w342/gdNHBdbxOKwiLl16VuvfZW6aitU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aZp0M9AYjZdV71r2xVaLmluPB5Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gc3Z46MUMvVwM4WFNlGgWrX1v1S.png"
+    },
+    {
+      "id": "tmdb:2441",
+      "type": "movie",
+      "name": "Vacas",
+      "ids": {
+        "tmdb": 2441
+      },
+      "overview": "A lo largo de tres generaciones, dos familias de un pequeño valle guipuzcoano mantienen relaciones tortuosas, marcadas por la violencia y las pasiones. La historia comienza en Guipúzcoa, en 1875. En una trinchera carlista, durante la guerra, un aizkolari logra salvar la vida embadurnándose con sangre de uno de los muertos, y dejándose apilar con los cadáveres. La presencia de una vaca le produce una extraña sensación, que se volverá obsesiva.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/j9c3HPCwuPGfFNHzjt0taANaC78.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AkAGuWo1s92QE1vCRzWEZiJXscV.jpg"
+    },
+    {
       "id": "tmdb:36691",
       "type": "movie",
       "name": "Un hombre solitario",
@@ -193,57 +258,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/5AbDyXJWRDTMnT0jluvXFW7Gzxa.png"
     },
     {
-      "id": "tmdb:18591",
+      "id": "tmdb:105416",
       "type": "movie",
-      "name": "La tabla de Flandes",
+      "name": "Tamaño natural",
       "ids": {
-        "tmdb": 18591
+        "tmdb": 105416
       },
-      "overview": "Julia Darro, una joven restauradora de arte, comienza a restaurar la Tabla de Flandes, un famoso cuadro del siglo XV que muestra una partida de ajedrez inacabada. Al quitar algunas capas de pintura descubre una inscripción oculta. Intrigada, ella y una amiga solicitan permiso a Don Juan Belmonte, su dueño, para desvelar la inscripción, lo cual eleva el precio del cuadro.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/ejO1RlgGtNzTiFf7biNjlNuq7oy.jpg",
+      "overview": "Michel es un hombre maduro que tiene todo lo que puede desear: un buen trabajo, una esposa brillante y una amante joven y apasionada. Pero un día adquiere por capricho una muñeca hinchable que casi parece una mujer real. Así empieza a disfrutar de la sumisión y la docilidad que no puede encontrar en su esposa, llegando incluso a tener celos y a desconfiar de aquellos que puedan desearla o “mancillarla”.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/yHojlvPMm03RordCWz7Uu8fghfP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yjOskYh5JJe8mWVnk0lM6eT5Sux.jpg"
-    },
-    {
-      "id": "tmdb:3870",
-      "type": "movie",
-      "name": "Novecento",
-      "ids": {
-        "tmdb": 3870
-      },
-      "overview": "En el año 1901, en una finca en el norte de italia, nacen el mismo día el hijo de un terrateniente y el hijo de un bracero. La película narra la vida de ambos y sus respectivas familias durante ochenta años. La amistad de los protagonistas se verá nublada por sus diferentes actitudes frente al fascismo. Famoso drama que hace un complejo recorrido político y social por la Italia del siglo XX.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/5BeMiIveAXnmHvuZVkRpCeE0pWR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dWS059IIp8balYKqTPBreOihjkI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3GztY1oTo8dMdz9c6FEZxZo7WI6.png"
-    },
-    {
-      "id": "tmdb:109827",
-      "type": "movie",
-      "name": "La venganza",
-      "ids": {
-        "tmdb": 109827
-      },
-      "overview": "Tras pasar diez años encerrado por un crimen que no cometió, Juan queda en libertad.",
-      "year": 1958,
-      "poster": "https://image.tmdb.org/t/p/w342/AkJmtwKhgSKv1rWbpyYXn1Kof0L.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mcAB8meGSHMBzC9rV2M3IUWoDQy.jpg"
-    },
-    {
-      "id": "tmdb:212006",
-      "type": "movie",
-      "name": "Yellow Hair y Pecos Kid",
-      "ids": {
-        "tmdb": 212006
-      },
-      "overview": "El coronel Torres se embarca en la búsqueda del oro de los Tulapanes, y en su camino se encuentra con Yelow Hair, una mestiza de belleza rubia, y Pecos Kid, un texano criado por una tribu apache. Estos dos personajes conocen el lugar donde se encuentra escondido el preciado tesoro. Juntos, se ven inmersos en una emocionante aventura llena de peligros, traiciones y descubrimientos sorprendentes mientras persiguen la fortuna perdida. En esta historia repleta de intriga y acción, el destino de los personajes se entrelaza en su búsqueda común, enfrentándose a desafíos que pondrán a prueba su valentía y determinación.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/yftQf9jbyHXG2Qqt46n1resn5rM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eTCkRlZNpbZ4AKS2JpJkUD7MMvD.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/yfZOTmMxSQBe3TjrrFskPffvmLL.jpg"
     },
     {
       "id": "tmdb:148285",
@@ -260,33 +285,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/tq0K0j4Lr85ZoE1Mm9rzBkFWejj.png"
     },
     {
-      "id": "tmdb:22613",
-      "type": "movie",
-      "name": "El forajido",
-      "ids": {
-        "tmdb": 22613
-      },
-      "overview": "Billy el Niño y Doc Holliday huyen del sheriff Pat Garret, que antes había sido su amigo. Los forajidos llevan consigo a la mestiza Río, que es la chica de Bill. Las peleas entre los dos amigos son constantes: cuando no es por los caballos es por Río.",
-      "year": 1943,
-      "poster": "https://image.tmdb.org/t/p/w342/gdNHBdbxOKwiLl16VuvfZW6aitU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aZp0M9AYjZdV71r2xVaLmluPB5Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gc3Z46MUMvVwM4WFNlGgWrX1v1S.png"
-    },
-    {
-      "id": "tmdb:105416",
-      "type": "movie",
-      "name": "Tamaño natural",
-      "ids": {
-        "tmdb": 105416
-      },
-      "overview": "Michel es un hombre maduro que tiene todo lo que puede desear: un buen trabajo, una esposa brillante y una amante joven y apasionada. Pero un día adquiere por capricho una muñeca hinchable que casi parece una mujer real. Así empieza a disfrutar de la sumisión y la docilidad que no puede encontrar en su esposa, llegando incluso a tener celos y a desconfiar de aquellos que puedan desearla o “mancillarla”.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/yHojlvPMm03RordCWz7Uu8fghfP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yfZOTmMxSQBe3TjrrFskPffvmLL.jpg"
-    },
-    {
       "id": "tmdb:4286",
       "type": "movie",
       "name": "El inocente",
@@ -301,17 +299,44 @@
       "logo": "https://image.tmdb.org/t/p/w500/hXh9EZkSHrmmMtIf5i8vcmVCuE2.png"
     },
     {
-      "id": "tmdb:2441",
+      "id": "tmdb:3870",
       "type": "movie",
-      "name": "Vacas",
+      "name": "Novecento",
       "ids": {
-        "tmdb": 2441
+        "tmdb": 3870
       },
-      "overview": "A lo largo de tres generaciones, dos familias de un pequeño valle guipuzcoano mantienen relaciones tortuosas, marcadas por la violencia y las pasiones. La historia comienza en Guipúzcoa, en 1875. En una trinchera carlista, durante la guerra, un aizkolari logra salvar la vida embadurnándose con sangre de uno de los muertos, y dejándose apilar con los cadáveres. La presencia de una vaca le produce una extraña sensación, que se volverá obsesiva.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/j9c3HPCwuPGfFNHzjt0taANaC78.jpg",
+      "overview": "En el año 1901, en una finca en el norte de italia, nacen el mismo día el hijo de un terrateniente y el hijo de un bracero. La película narra la vida de ambos y sus respectivas familias durante ochenta años. La amistad de los protagonistas se verá nublada por sus diferentes actitudes frente al fascismo. Famoso drama que hace un complejo recorrido político y social por la Italia del siglo XX.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/5BeMiIveAXnmHvuZVkRpCeE0pWR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AkAGuWo1s92QE1vCRzWEZiJXscV.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/dWS059IIp8balYKqTPBreOihjkI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3GztY1oTo8dMdz9c6FEZxZo7WI6.png"
+    },
+    {
+      "id": "tmdb:212006",
+      "type": "movie",
+      "name": "Yellow Hair y Pecos Kid",
+      "ids": {
+        "tmdb": 212006
+      },
+      "overview": "El coronel Torres se embarca en la búsqueda del oro de los Tulapanes, y en su camino se encuentra con Yelow Hair, una mestiza de belleza rubia, y Pecos Kid, un texano criado por una tribu apache. Estos dos personajes conocen el lugar donde se encuentra escondido el preciado tesoro. Juntos, se ven inmersos en una emocionante aventura llena de peligros, traiciones y descubrimientos sorprendentes mientras persiguen la fortuna perdida. En esta historia repleta de intriga y acción, el destino de los personajes se entrelaza en su búsqueda común, enfrentándose a desafíos que pondrán a prueba su valentía y determinación.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/yftQf9jbyHXG2Qqt46n1resn5rM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eTCkRlZNpbZ4AKS2JpJkUD7MMvD.jpg"
+    },
+    {
+      "id": "tmdb:131147",
+      "type": "movie",
+      "name": "Corbari",
+      "ids": {
+        "tmdb": 131147
+      },
+      "overview": "La verdadera historia del partisano Silvio Corbari (Giuliano Gemma). Silvio forma una banda de partisanos en el norte de Italia, completamente independiente de la resistencia organizada italiana (CLN). Inés (Tina Aumont), deja a su marido para unirse a la banda y se convierte en la amante de Silvio. Silvio parece lograr crear una zona franca, su república personal, independiente de la Italia ocupada por los nazis, en un pequeño pueblo llamado Tregnano.",
+      "year": 1970,
+      "poster": "https://image.tmdb.org/t/p/w342/tmzl3l9We5mQR41gLsg8VeMWD9x.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b7K965neto4vYRnUQ7TuGo0NHlM.jpg"
     },
     {
       "id": "tmdb:28468",
@@ -328,144 +353,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/uUd2UeBzloBqnasdZGXjTvCF9Pt.png"
     },
     {
-      "id": "tmdb:747",
+      "id": "tmdb:1368",
       "type": "movie",
-      "name": "Zombies Party",
+      "name": "Acorralado",
       "ids": {
-        "tmdb": 747
+        "tmdb": 1368
       },
-      "overview": "La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local con su amigo íntimo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado. Shaun decide, finalmente, poner su vida en orden. Tiene que reconquistar el corazón de su novia, enmendar sus relaciones con su madre y enfrentarse a las responsabilidades de un adulto.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/g1UOD4SSLPUCzbRjMxUILVGtTw8.jpg",
+      "overview": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9RUPuWUcIcMOHrVJnDxC42wLkjV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tcK2zgZTEjfllsKVETwOPLrjV2k.png"
-    },
-    {
-      "id": "tmdb:10362",
-      "type": "movie",
-      "name": "Two Lovers",
-      "ids": {
-        "tmdb": 10362
-      },
-      "overview": "Leonard (Joaquin Phoenix) es un joven psicológicamente inestable que intenta recuperarse de su última crisis bajo la atenta mirada de sus padres. Inesperadamente entran en su vida dos mujeres: la encantadora y sencilla Sandra (Vinessa Shaw), hija del nuevo socio de su padre, y Michelle (Gwyneth Paltrow), una misteriosa vecina que parece no encajar en un barrio tan anodino.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/u9dZ84dD12cLLedJfRVHStKSHvh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fMfRgkQrU6Zwb5uJU91HNOPbfyy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7KJx19aPbnsGG94HmJyYWD3Z4ea.png"
-    },
-    {
-      "id": "tmdb:530385",
-      "type": "movie",
-      "name": "Midsommar",
-      "ids": {
-        "tmdb": 530385
-      },
-      "overview": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/a4Uwb4vnep76r1HRNduFgT9MRez.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vxKs0JLPT63lcYZTK8P6b3SaFff.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mjf2CyGrMqjUjsjXsaEsakBrOdA.png"
-    },
-    {
-      "id": "tmdb:27902",
-      "type": "movie",
-      "name": "Mi ligue en apuros",
-      "ids": {
-        "tmdb": 27902
-      },
-      "overview": "Jenny (Amanda Bynes) es una joven de 18 años que descubre entusiasmada que su estrella de rock favorita, Jason (Chris Carmack), se alojará en el resort tropical en el que ella está trabajando. Para estar cerca de él, se cuela como polizón en un exclusivo crucero, pero un tormenta intempestiva hace que Jason caiga al mar. Sin pensarlo, Jenny se lanza a salvarlo, con lo que ambos serán arrastrados a la deriva hasta una \"isla desierta\". Al poco tiempo, Jenny se dará cuenta de que la isla desierta en la que creía estar, en realidad es una playa a pocos metros del hotel, pero si se lo dice a Jason, perderá la oportunidad de estar cerca de su ídolo...",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/kzQNefqVaTDtjQvawreRL7BrsGQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/td9JcWGkhfJ7AtXvVUZKDkaTkAo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/epUsrEfgsK5MxhOqG3HNoXLR4lr.png"
-    },
-    {
-      "id": "tmdb:44741",
-      "type": "movie",
-      "name": "Malicia",
-      "ids": {
-        "tmdb": 44741
-      },
-      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
-    },
-    {
-      "id": "tmdb:13254",
-      "type": "movie",
-      "name": "Entre vivos y muertos",
-      "ids": {
-        "tmdb": 13254
-      },
-      "overview": "Casi rozando la bancarrota, el ex Lord Donald Brocklebank se ve obligado a vender la deslumbrante mansión donde vive junto a su esposa y a su esquizofrénico hijo James. Lady Nancy Brocklebank cae muy enferma y Donald ha de organizar todo para que una enfermera se haga cargo de su madre. James intenta por todos los medios demostrar a su padre que ya es un adulto responsable. Pero por accidente James deja fuera de la casa a la enfermera Mary, su madre empeora, sus nervios aumentan y el estado mental del joven comienza a mezclar peligrosamente realidad y ficción, adentrándose en una pesadilla infernal.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/fxdORa3kVs4wPtI0ZmdRSsjNHYn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zeZBKon9Sf0LsREbTQOAyfx9H4L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iyYJNudVDpxsTl3m6rMDGD1urV2.png"
-    },
-    {
-      "id": "tmdb:71",
-      "type": "movie",
-      "name": "Billy Elliot (Quiero bailar)",
-      "ids": {
-        "tmdb": 71
-      },
-      "overview": "En 1984, durante una huelga de mineros en el condado de Durham, se suceden los enfrentamientos entre piquetes y policía. Entre los mineros más exaltados están Tony y su padre. Éste se ha empeñado en que Billy, su hijo pequeño, reciba clases de boxeo. Pero, aunque el chico tiene un buen juego de piernas, carece por completo de pegada. Un día, en el gimnasio, Billy observa la clase de ballet de la señora Wilkinson, una mujer de carácter severo que lo anima a participar. A partir de ese momento, Billy se dedicará apasionadamente a la danza.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/lN6JppeFXbPFXFREickSSeHOjCz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/prOVafNMAiENqLnkAgekH4W6lq5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fKDu1S9pw98SjZYC62WrRczodMZ.png"
-    },
-    {
-      "id": "tmdb:9540",
-      "type": "movie",
-      "name": "Inseparables",
-      "ids": {
-        "tmdb": 9540
-      },
-      "overview": "Historia de dos gemelos idénticos, el encantador Elliot y el introvertido Beverly. Son las caras opuestas de una misma personalidad: comparten las mismas costumbres, el mismo apartamento y la misma mujer. Pero, cuando entra en sus vidas una mujer especial, el vínculo que une a los gemelos, se ve, por primera vez, amenazado. Y esta amenaza se traduce en el descenso a un abismo de perversión, drogas y locura.",
-      "year": 1988,
-      "poster": "https://image.tmdb.org/t/p/w342/1D0YPN2hgbATowuNIYGdKSZtHVq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lNzYey42aI5YYyZPGBZx68kzRqU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dTpZyduWXcFRUIMgAUj3h9Gyh50.png"
-    },
-    {
-      "id": "tmdb:11462",
-      "type": "movie",
-      "name": "Sospecha",
-      "ids": {
-        "tmdb": 11462
-      },
-      "overview": "Un atractivo vividor coincide en el tren con una joven ingenua que acabará teniendo que pagarle el billete. Más adelante, vuelven a encontrarse en una fiesta y, tras un breve romance, ella decide casarse con él, a pesar de la oposición de su padre. Considerada por todos, incluida su familia, una solterona, está empeñada en demostrarles que alguien la puede amar.",
-      "year": 1941,
-      "poster": "https://image.tmdb.org/t/p/w342/gcxGHzZX1B0dM0tEyxrJriVKZnS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i4TCgRtB2nOfm1LwLYZHZBAz4JF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vy6tJK5FBmhvm6rWW1shSu2876g.png"
-    },
-    {
-      "id": "tmdb:4012",
-      "type": "movie",
-      "name": "The Believer (El creyente)",
-      "ids": {
-        "tmdb": 4012
-      },
-      "overview": "Historia de un neo-nazi (Gosling) que también resulta ser judío. Danny Balint estudia en una escuela judía de Nueva York. Al mismo tiempo, su popularidad crece dentro de círculos neofascistas, hasta convertirse en un admirado líder. En su interior se desarrolla una personalidad paralela; por un lado, se está formando como rabino, estudiando la Torah y enseñando hebreo; y por el otro, ataca a los judíos... Judaísmo ortodoxo y antisemitismo radical se combinan en esta alabadísima producción premiada en Sundance, ópera prima del guionista Henry Bean (Internal Affairs, 1990).",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/bPWCXoRItooEDeDaGVouSGegiL4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aVkcdQqnwYcIiOLwF2h2p8ZV1pW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oc2fs23rD3oUaNPALBV4qYWy5qr.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/277Ct5pdW4WAbaBjYLwX2BEeZqk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png"
     },
     {
       "id": "tmdb:2330",
@@ -482,179 +381,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
     },
     {
-      "id": "tmdb:43896",
+      "id": "tmdb:10362",
       "type": "movie",
-      "name": "El delator",
+      "name": "Two Lovers",
       "ids": {
-        "tmdb": 43896
+        "tmdb": 10362
       },
-      "overview": "Irlanda 1922. Traición entre amigos para un conocido filme de Ford. Rodada en apenas 3 semanas. En el agitado Dublín de los años veinte, Gypo Nolan, un tipo sin oficio ni beneficio, expulsado del Ejército de Liberación Irlandés y con tendencia a empinar el codo, sueña con viajar a Estados Unidos en compañía de su novia, Katie, que se gana la vida como prostituta. Animado por la recompensa que ofrecen las autoridades, Gypo delata el paradero del activista Frankie McPhillip, un viejo amigo y compañero.",
-      "year": 1935,
-      "poster": "https://image.tmdb.org/t/p/w342/roq1R0B8MjHuzcCvq911F9iPBzG.jpg",
+      "overview": "Leonard (Joaquin Phoenix) es un joven psicológicamente inestable que intenta recuperarse de su última crisis bajo la atenta mirada de sus padres. Inesperadamente entran en su vida dos mujeres: la encantadora y sencilla Sandra (Vinessa Shaw), hija del nuevo socio de su padre, y Michelle (Gwyneth Paltrow), una misteriosa vecina que parece no encajar en un barrio tan anodino.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/u9dZ84dD12cLLedJfRVHStKSHvh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pZ5j451ilN0GPoeAUVPZOe75VG6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fMfRgkQrU6Zwb5uJU91HNOPbfyy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7KJx19aPbnsGG94HmJyYWD3Z4ea.png"
     },
     {
-      "id": "tmdb:136726",
+      "id": "tmdb:9540",
       "type": "movie",
-      "name": "La Celestina",
+      "name": "Inseparables",
       "ids": {
-        "tmdb": 136726
+        "tmdb": 9540
       },
-      "overview": "El joven noble Calisto se enamora de Melibea, la hija de un rico comerciante. El sirviente de Calisto, Sempronio, le sugiere ir con la hechizera Celestina para conseguir su amor.. Sin embargo su otro sirviente, Parmeno, sospecha de Celestina porque conoce sus trucos. Luego de que Celestina convence a Melibea del amor de Calisto y arreglar una reunion clandestina entre ellos, Calisto le da a Celestina una cara cadena de oro. Ambos sirvientes no estan satisfechos con las mujeres enviadas por Celestina y le demandan mas, comenzando una dramatica secuencia de eventos.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/qUDbwyhC19V8OgZgzOF45DHyt1f.jpg",
+      "overview": "Historia de dos gemelos idénticos, el encantador Elliot y el introvertido Beverly. Son las caras opuestas de una misma personalidad: comparten las mismas costumbres, el mismo apartamento y la misma mujer. Pero, cuando entra en sus vidas una mujer especial, el vínculo que une a los gemelos, se ve, por primera vez, amenazado. Y esta amenaza se traduce en el descenso a un abismo de perversión, drogas y locura.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/1D0YPN2hgbATowuNIYGdKSZtHVq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zsS0FYL914us0FcXxCQQuDzcfOz.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/lNzYey42aI5YYyZPGBZx68kzRqU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dTpZyduWXcFRUIMgAUj3h9Gyh50.png"
     },
     {
-      "id": "tmdb:1368",
+      "id": "tmdb:44741",
       "type": "movie",
-      "name": "Acorralado",
+      "name": "Malicia",
       "ids": {
-        "tmdb": 1368
+        "tmdb": 44741
       },
-      "overview": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
+      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/277Ct5pdW4WAbaBjYLwX2BEeZqk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png"
-    },
-    {
-      "id": "tmdb:58098",
-      "type": "movie",
-      "name": "Así reían",
-      "ids": {
-        "tmdb": 58098
-      },
-      "overview": "Historia de dos hermanos sicilianos emigrados a Turín. Giovanni, el mayor, acaricia un ambicioso proyecto, que aparentemente está muy lejos de sus posibilidades, pero está dispuesto a hacer lo que sea con tal de hacerlo realidad: desea que Pietro, su hermano pequeño, obtenga el título de maestro. El problema es que Pietro no quiere estudiar. (FILMAFFINITY)",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/5CSB3MXOp9r6Wm3lLuPaFidbAZS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/65VNZCMIKp2c5JMIQgL0MIqIwE5.jpg"
-    },
-    {
-      "id": "tmdb:37748",
-      "type": "movie",
-      "name": "800 balas",
-      "ids": {
-        "tmdb": 37748
-      },
-      "overview": "Almería, desierto de Tabernas, España, 2002. Texas Hollywood es un ruinoso y polvoriento poblado donde hace ya décadas que no se ruedan películas del Oeste. Allí malviven Julián Torralba y sus compañeros, veteranos especialistas de cine, recreando patéticas escenas de acción para solaz de los escasos turistas extranjeros que visitan la aislada región.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/yGMw9hg7amje8N2eoFKjJWu9FnB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6RqbTCV8FoDs0bl5Hwae8IhHbO3.jpg"
-    },
-    {
-      "id": "tmdb:37748",
-      "type": "movie",
-      "name": "800 balas",
-      "ids": {
-        "tmdb": 37748
-      },
-      "overview": "Almería, desierto de Tabernas, España, 2002. Texas Hollywood es un ruinoso y polvoriento poblado donde hace ya décadas que no se ruedan películas del Oeste. Allí malviven Julián Torralba y sus compañeros, veteranos especialistas de cine, recreando patéticas escenas de acción para solaz de los escasos turistas extranjeros que visitan la aislada región.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/yGMw9hg7amje8N2eoFKjJWu9FnB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6RqbTCV8FoDs0bl5Hwae8IhHbO3.jpg"
-    },
-    {
-      "id": "tmdb:1948",
-      "type": "movie",
-      "name": "Crank: Veneno en la sangre",
-      "ids": {
-        "tmdb": 1948
-      },
-      "overview": "Chev Chelios (Jason Statham), un asesino a sueldo de Los Ángeles, ha sido envenenado mientras dormía y que sólo le queda una hora de vida. La única oportunidad que tiene Chev de sobrevivir es mantenerse en movimiento para impedir que el veneno le llegue al corazón. El tiempo pasa y corre enloquecido por las calles de Los Ángeles para salvar a su novia y encontrar un antídoto que le salve la vida.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iWJDG98EjiuRso7PzQE8mYJeT2H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yAl3GZTLH5XOvD4LuBgjLeBgJ2.png"
-    },
-    {
-      "id": "tmdb:47796",
-      "type": "movie",
-      "name": "Mamma Roma",
-      "ids": {
-        "tmdb": 47796
-      },
-      "overview": "Mamma Roma es una prostituta que sueña con un bienestar pequeño-burgués. Tras la boda de su protector, se traslada con su hijo Héctor a un barrio decente, donde regenta un puesto de frutas en el mercadillo popular. Héctor es un muchacho de carácter débil e influenciable que se deja arrastrar por los amigos y se enamora de Bruna, una chica que lo inicia en los secretos del amor.",
-      "year": 1962,
-      "poster": "https://image.tmdb.org/t/p/w342/aMPxSiapchjZb73Lz7yNMdTi1cc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/neBdMl6Qm4jhnmQ94jSn97KG0Hw.png"
-    },
-    {
-      "id": "tmdb:131147",
-      "type": "movie",
-      "name": "Corbari",
-      "ids": {
-        "tmdb": 131147
-      },
-      "overview": "La verdadera historia del partisano Silvio Corbari (Giuliano Gemma). Silvio forma una banda de partisanos en el norte de Italia, completamente independiente de la resistencia organizada italiana (CLN). Inés (Tina Aumont), deja a su marido para unirse a la banda y se convierte en la amante de Silvio. Silvio parece lograr crear una zona franca, su república personal, independiente de la Italia ocupada por los nazis, en un pequeño pueblo llamado Tregnano.",
-      "year": 1970,
-      "poster": "https://image.tmdb.org/t/p/w342/tmzl3l9We5mQR41gLsg8VeMWD9x.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b7K965neto4vYRnUQ7TuGo0NHlM.jpg"
-    },
-    {
-      "id": "tmdb:22916",
-      "type": "movie",
-      "name": "Elsa y Fred",
-      "ids": {
-        "tmdb": 22916
-      },
-      "overview": "Elsa, que tiene 82 años, es una mujer llena de vitalidad y con una imaginación desbordante. Alfredo, algo más joven que ella, ha sido siempre un hombre convencional, serio y responsable. Al quedar viudo, desconcertado y angustiado por la ausencia de su mujer, su hija lo anima a mudarse a un apartamento más pequeño. Es entonces cuando conoce a Elsa, que es vecina suya. A partir de ese momento, ella irrumpe en su vida como un torbellino dispuesta a demostrarle que el tiempo que le queda es precioso y debe disfrutarlo como le plazca.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/4xjfBIP8BCCkKDmSBlAfguUiW8N.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:10002",
-      "type": "movie",
-      "name": "Mona Lisa",
-      "ids": {
-        "tmdb": 10002
-      },
-      "overview": "George es el chófer de una prostituta negra, alta y delgada, llamada Simone, cuyos clientes son hombres de negocios y árabes millonarios. Enamorado perdidamente de ella, George acepta buscar a una vieja amiga de Simone que se ha metido en un buen lío. Está dispuesto a ayudarlas aunque ello suponga enfrentarse a un chulo mafioso y a un obseso rey del porno que no deja de ser la sombra de su pasado. Pronto descubrirá algo que jamás podía imaginar, algo que podría destruir su propia vida.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/ujGy7HynYxh5FDA1klPY5lKteeA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7FDTlE1E7Jg88mtjrWgjTBMkUe0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bgw62J71DkiMOMOjr0fuQ8Mkd5Z.png"
-    },
-    {
-      "id": "tmdb:1787",
-      "type": "movie",
-      "name": "Las ciervas",
-      "ids": {
-        "tmdb": 1787
-      },
-      "overview": "Frederique, una lesbiana rica y de temperamento apático, recoge de la calle a Why, una joven artista callejera, y la lleva a vivir con ella a su casa de Saint Tropez. Durante algún tiempo son felices, pero en una fiesta Why comienza a sentirse atraída por Paul, un joven arquitecto que acaba seduciéndola. Frederique se enfurece y decide visitar a Paul para dejarle claro cuál es el precio de acostarse con Why.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/z05ezOQQjDq4UnVUeSDRBD4f13O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ylOk9eD57uChXuaXzCrsZtYvyCz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8Nh8pqHXBfsU0W87HPPZwEu3ron.png"
-    },
-    {
-      "id": "tmdb:8009",
-      "type": "movie",
-      "name": "Los inmortales",
-      "ids": {
-        "tmdb": 8009
-      },
-      "overview": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jXLmUqThGQNrM5Xcnrj77GtB6Fg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
     },
     {
       "id": "tmdb:42008",
@@ -671,18 +437,254 @@
       "logo": "https://image.tmdb.org/t/p/w500/tRykwKUTX2COz57tbNW3szlkD3J.png"
     },
     {
-      "id": "tmdb:27092",
+      "id": "tmdb:747",
       "type": "movie",
-      "name": "Plata quemada",
+      "name": "Zombies Party",
       "ids": {
-        "tmdb": 27092
+        "tmdb": 747
       },
-      "overview": "En Argentina, un criminal conocido como El Nene conoce a un español llamado Ángel en los baños públicos. Tras mantener relaciones sexuales, se convierten en inseparables a pesar de que Ángel escucha voces y sufre de esquizofrenia crónica, y pasan a ser conocidos como “Los Mellizos”. En 1965, la pareja participa en un atraco a un furgón blindado junto a un compañero conocido como El Cuervo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xYqOPnOrRNadXrQENVhwk5eaQZw.jpg",
+      "overview": "La vida de Shaun es un callejón sin salida. Se pasa la vida en la taberna local con su amigo íntimo Ed, discute con su madre y descuida a su novia, Liz. Cuando Liz le deja plantado. Shaun decide, finalmente, poner su vida en orden. Tiene que reconquistar el corazón de su novia, enmendar sus relaciones con su madre y enfrentarse a las responsabilidades de un adulto.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/g1UOD4SSLPUCzbRjMxUILVGtTw8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e1vl12A7x66UcHvLhhJ3M1NCw3K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f6Oda0AffnIdva5hvw9s1TF8nit.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9RUPuWUcIcMOHrVJnDxC42wLkjV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tcK2zgZTEjfllsKVETwOPLrjV2k.png"
+    },
+    {
+      "id": "tmdb:8009",
+      "type": "movie",
+      "name": "Los inmortales",
+      "ids": {
+        "tmdb": 8009
+      },
+      "overview": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/8af3tPdbKd9iDUqWb8R5dOXShtH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jXLmUqThGQNrM5Xcnrj77GtB6Fg.png"
+    },
+    {
+      "id": "tmdb:13254",
+      "type": "movie",
+      "name": "Entre vivos y muertos",
+      "ids": {
+        "tmdb": 13254
+      },
+      "overview": "Casi rozando la bancarrota, el ex Lord Donald Brocklebank se ve obligado a vender la deslumbrante mansión donde vive junto a su esposa y a su esquizofrénico hijo James. Lady Nancy Brocklebank cae muy enferma y Donald ha de organizar todo para que una enfermera se haga cargo de su madre. James intenta por todos los medios demostrar a su padre que ya es un adulto responsable. Pero por accidente James deja fuera de la casa a la enfermera Mary, su madre empeora, sus nervios aumentan y el estado mental del joven comienza a mezclar peligrosamente realidad y ficción, adentrándose en una pesadilla infernal.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/fxdORa3kVs4wPtI0ZmdRSsjNHYn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zeZBKon9Sf0LsREbTQOAyfx9H4L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iyYJNudVDpxsTl3m6rMDGD1urV2.png"
+    },
+    {
+      "id": "tmdb:1948",
+      "type": "movie",
+      "name": "Crank: Veneno en la sangre",
+      "ids": {
+        "tmdb": 1948
+      },
+      "overview": "Chev Chelios (Jason Statham), un asesino a sueldo de Los Ángeles, ha sido envenenado mientras dormía y que sólo le queda una hora de vida. La única oportunidad que tiene Chev de sobrevivir es mantenerse en movimiento para impedir que el veneno le llegue al corazón. El tiempo pasa y corre enloquecido por las calles de Los Ángeles para salvar a su novia y encontrar un antídoto que le salve la vida.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iWJDG98EjiuRso7PzQE8mYJeT2H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yAl3GZTLH5XOvD4LuBgjLeBgJ2.png"
+    },
+    {
+      "id": "tmdb:37327",
+      "type": "movie",
+      "name": "Caravana de paz",
+      "ids": {
+        "tmdb": 37327
+      },
+      "overview": "Travis y Sandy, dos jóvenes tratantes de caballos, aceptan la oferta de guiar a un grupo de mormones que pretenden instalarse en el Oeste, en el valle del río San Juan, para cultivar tierras fértiles. La caravana emprende un dificultoso viaje por parajes desérticos. Pronto se les unirá un trío de artistas ambulantes que se dirigen a California: se trata de una pareja madura y la joven Denver, de quien Travis no tarda en enamorarse. Pero su encuentro con los Clegg, forajidos a quienes persigue la justicia, los pondrá en graves apuros.",
+      "year": 1950,
+      "poster": "https://image.tmdb.org/t/p/w342/fVrDqPEzoQS3fyxSAjgDGysqzbE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kdYgSgFCGhnW1YYHC9Oqzr9Vnwh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oIxUmRlstMyewgWJRb9mY3MyPAf.png"
+    },
+    {
+      "id": "tmdb:530385",
+      "type": "movie",
+      "name": "Midsommar",
+      "ids": {
+        "tmdb": 530385
+      },
+      "overview": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/a4Uwb4vnep76r1HRNduFgT9MRez.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vxKs0JLPT63lcYZTK8P6b3SaFff.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mjf2CyGrMqjUjsjXsaEsakBrOdA.png"
+    },
+    {
+      "id": "tmdb:11462",
+      "type": "movie",
+      "name": "Sospecha",
+      "ids": {
+        "tmdb": 11462
+      },
+      "overview": "Un atractivo vividor coincide en el tren con una joven ingenua que acabará teniendo que pagarle el billete. Más adelante, vuelven a encontrarse en una fiesta y, tras un breve romance, ella decide casarse con él, a pesar de la oposición de su padre. Considerada por todos, incluida su familia, una solterona, está empeñada en demostrarles que alguien la puede amar.",
+      "year": 1941,
+      "poster": "https://image.tmdb.org/t/p/w342/gcxGHzZX1B0dM0tEyxrJriVKZnS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i4TCgRtB2nOfm1LwLYZHZBAz4JF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vy6tJK5FBmhvm6rWW1shSu2876g.png"
+    },
+    {
+      "id": "tmdb:135812",
+      "type": "movie",
+      "name": "Drácula 3D",
+      "ids": {
+        "tmdb": 135812
+      },
+      "overview": "Ambientada en la Transilvania del siglo XIX, Drácula 3D narra la historia de Jonathan Harker, un bibliotecario que viaja hasta Passo Borgo para trabajar en la gran biblioteca del castillo del Conde Drácula. El joven no tardará en descubrir las extrañas costumbres del Conde y de las mujeres que cohabitan con él. Pero los intereses de este misterioso hombre se dirigen principalmente a la mujer de Jonathan, Mina, una joven con la que cree estar unida a través de los tiempos. Su obsesión le llevará a propagar la muerte a su alrededor, hasta que sus intenciones y su naturaleza vampírica sea revelada.  En esta nueva versión del vampiro más conocido de la historia de la literatura y el cine, no faltan las grandes dosis de sangre y colmillos afilados.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/n1EsoM2cotsQRmvNnQJlOeC1jNe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3iGVvikWv7AeZqgXrULCNOiPq7X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r8DGUSh6FhoLANfPemg2ICj0IQf.png"
+    },
+    {
+      "id": "tmdb:27902",
+      "type": "movie",
+      "name": "Mi ligue en apuros",
+      "ids": {
+        "tmdb": 27902
+      },
+      "overview": "Jenny (Amanda Bynes) es una joven de 18 años que descubre entusiasmada que su estrella de rock favorita, Jason (Chris Carmack), se alojará en el resort tropical en el que ella está trabajando. Para estar cerca de él, se cuela como polizón en un exclusivo crucero, pero un tormenta intempestiva hace que Jason caiga al mar. Sin pensarlo, Jenny se lanza a salvarlo, con lo que ambos serán arrastrados a la deriva hasta una \"isla desierta\". Al poco tiempo, Jenny se dará cuenta de que la isla desierta en la que creía estar, en realidad es una playa a pocos metros del hotel, pero si se lo dice a Jason, perderá la oportunidad de estar cerca de su ídolo...",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/kzQNefqVaTDtjQvawreRL7BrsGQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/td9JcWGkhfJ7AtXvVUZKDkaTkAo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/epUsrEfgsK5MxhOqG3HNoXLR4lr.png"
+    },
+    {
+      "id": "tmdb:47796",
+      "type": "movie",
+      "name": "Mamma Roma",
+      "ids": {
+        "tmdb": 47796
+      },
+      "overview": "Mamma Roma es una prostituta que sueña con un bienestar pequeño-burgués. Tras la boda de su protector, se traslada con su hijo Héctor a un barrio decente, donde regenta un puesto de frutas en el mercadillo popular. Héctor es un muchacho de carácter débil e influenciable que se deja arrastrar por los amigos y se enamora de Bruna, una chica que lo inicia en los secretos del amor.",
+      "year": 1962,
+      "poster": "https://image.tmdb.org/t/p/w342/aMPxSiapchjZb73Lz7yNMdTi1cc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4OqoSolfhNesDAfv2zluIDVXiPR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/neBdMl6Qm4jhnmQ94jSn97KG0Hw.png"
+    },
+    {
+      "id": "tmdb:136726",
+      "type": "movie",
+      "name": "La Celestina",
+      "ids": {
+        "tmdb": 136726
+      },
+      "overview": "El joven noble Calisto se enamora de Melibea, la hija de un rico comerciante. El sirviente de Calisto, Sempronio, le sugiere ir con la hechizera Celestina para conseguir su amor.. Sin embargo su otro sirviente, Parmeno, sospecha de Celestina porque conoce sus trucos. Luego de que Celestina convence a Melibea del amor de Calisto y arreglar una reunion clandestina entre ellos, Calisto le da a Celestina una cara cadena de oro. Ambos sirvientes no estan satisfechos con las mujeres enviadas por Celestina y le demandan mas, comenzando una dramatica secuencia de eventos.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/qUDbwyhC19V8OgZgzOF45DHyt1f.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zsS0FYL914us0FcXxCQQuDzcfOz.jpg"
+    },
+    {
+      "id": "tmdb:10002",
+      "type": "movie",
+      "name": "Mona Lisa",
+      "ids": {
+        "tmdb": 10002
+      },
+      "overview": "George es el chófer de una prostituta negra, alta y delgada, llamada Simone, cuyos clientes son hombres de negocios y árabes millonarios. Enamorado perdidamente de ella, George acepta buscar a una vieja amiga de Simone que se ha metido en un buen lío. Está dispuesto a ayudarlas aunque ello suponga enfrentarse a un chulo mafioso y a un obseso rey del porno que no deja de ser la sombra de su pasado. Pronto descubrirá algo que jamás podía imaginar, algo que podría destruir su propia vida.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/ujGy7HynYxh5FDA1klPY5lKteeA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7FDTlE1E7Jg88mtjrWgjTBMkUe0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bgw62J71DkiMOMOjr0fuQ8Mkd5Z.png"
+    },
+    {
+      "id": "tmdb:25497",
+      "type": "movie",
+      "name": "Lunes tormentoso",
+      "ids": {
+        "tmdb": 25497
+      },
+      "overview": "Brendan trabaja como portero en un club de jazz, pero el negocio está en peligro debido a la presión ejercida por un mafioso americano que pretende comprar el local.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/32NLfyTYXWX8evgBTBKsQMjgEBU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1HFNGmvd33dEIiKkr7UOBl8u2OS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c3ZCtO688boggQAe910b3MyUXTp.png"
+    },
+    {
+      "id": "tmdb:58098",
+      "type": "movie",
+      "name": "Así reían",
+      "ids": {
+        "tmdb": 58098
+      },
+      "overview": "Historia de dos hermanos sicilianos emigrados a Turín. Giovanni, el mayor, acaricia un ambicioso proyecto, que aparentemente está muy lejos de sus posibilidades, pero está dispuesto a hacer lo que sea con tal de hacerlo realidad: desea que Pietro, su hermano pequeño, obtenga el título de maestro. El problema es que Pietro no quiere estudiar. (FILMAFFINITY)",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/5CSB3MXOp9r6Wm3lLuPaFidbAZS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/65VNZCMIKp2c5JMIQgL0MIqIwE5.jpg"
+    },
+    {
+      "id": "tmdb:4012",
+      "type": "movie",
+      "name": "The Believer (El creyente)",
+      "ids": {
+        "tmdb": 4012
+      },
+      "overview": "Historia de un neo-nazi (Gosling) que también resulta ser judío. Danny Balint estudia en una escuela judía de Nueva York. Al mismo tiempo, su popularidad crece dentro de círculos neofascistas, hasta convertirse en un admirado líder. En su interior se desarrolla una personalidad paralela; por un lado, se está formando como rabino, estudiando la Torah y enseñando hebreo; y por el otro, ataca a los judíos... Judaísmo ortodoxo y antisemitismo radical se combinan en esta alabadísima producción premiada en Sundance, ópera prima del guionista Henry Bean (Internal Affairs, 1990).",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/bPWCXoRItooEDeDaGVouSGegiL4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aVkcdQqnwYcIiOLwF2h2p8ZV1pW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oc2fs23rD3oUaNPALBV4qYWy5qr.png"
+    },
+    {
+      "id": "tmdb:141198",
+      "type": "movie",
+      "name": "Los energéticos",
+      "ids": {
+        "tmdb": 141198
+      },
+      "overview": "Dos hombres rústicos castellanos se enteran un día que en sus terrenos va a ser instalada una central nuclear. Temen por sus vidas, la de sus cabras y por sus terrenos. Van a protestar al alcalde del pueblo, pero no consiguen nada. Intentan un encierro político, que termina en fracaso, hasta que aparece en sus vidas un representante de los países exportadores de petróleo que les ayuda a difundir por el mundo su protesta. Pero su actitud desencadena una serie de intereses políticos encontrados entre la OPEP, la CIA, las Multinacionales y las fuerzas vivas del pueblo.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/3VezCbpNmPSUZDq7nm9uHe8viWZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5K2EFsMnOenQhaRDPN254n2iifr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sot0obAYGjbe3aAVjMz5zWotkuA.png"
+    },
+    {
+      "id": "tmdb:43896",
+      "type": "movie",
+      "name": "El delator",
+      "ids": {
+        "tmdb": 43896
+      },
+      "overview": "Irlanda 1922. Traición entre amigos para un conocido filme de Ford. Rodada en apenas 3 semanas. En el agitado Dublín de los años veinte, Gypo Nolan, un tipo sin oficio ni beneficio, expulsado del Ejército de Liberación Irlandés y con tendencia a empinar el codo, sueña con viajar a Estados Unidos en compañía de su novia, Katie, que se gana la vida como prostituta. Animado por la recompensa que ofrecen las autoridades, Gypo delata el paradero del activista Frankie McPhillip, un viejo amigo y compañero.",
+      "year": 1935,
+      "poster": "https://image.tmdb.org/t/p/w342/roq1R0B8MjHuzcCvq911F9iPBzG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pZ5j451ilN0GPoeAUVPZOe75VG6.png"
+    },
+    {
+      "id": "tmdb:9399",
+      "type": "movie",
+      "name": "Lionheart, el luchador",
+      "ids": {
+        "tmdb": 9399
+      },
+      "overview": "León Gualtier es un desertor en la Legión Extranjera que llega a los EE.UUy encuentra a su hermano entre la vida y la muerte y a su cuñada sin dinero para curar a su marido y mantener su hija. Para ganar el dinero necesario, Gualtier acepta para participar en peleas clandestinas.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wcuoz1EEzcSvlM4navzT6hSNNg7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1EPXHnuIsursiSQXrxMhNyP7fW9.png"
     }
   ]
 }
