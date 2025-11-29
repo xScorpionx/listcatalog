@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1291040",
+      "type": "movie",
+      "name": "Navidad sin Papá Noel",
+      "ids": {
+        "tmdb": 1291040
+      },
+      "overview": "Cuando Papá Noel, en plena crisis existencial, desaparece repentinamente en mitad de las fiestas navideñas, su mujer, Margaret, deberá esforzarse para salvar el día más especial del año.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v1LPPxQqnNtFOIgcW1E118Ii2Ic.jpg"
+    },
+    {
       "id": "tmdb:1522377",
       "type": "movie",
       "name": "Dos mundos, un deseo",
@@ -40,7 +53,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/dv9UrOoicRiMGkzr2oj2YwSFY2K.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lLFPw9TlYLJdyEAXcKTjvp9ihpz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7UMspo1CKeWprpbN5XHAqoKbYjY.png"
+      "logo": "https://image.tmdb.org/t/p/w500/v1rXdzSA2XV0n6IZ2znyTYobkvY.png"
     },
     {
       "id": "tmdb:1580286",
@@ -663,19 +676,6 @@
       "year": 2025,
       "poster": "https://image.tmdb.org/t/p/w342/y3L6mbIy9xAINExhYS5k9Z0dMdq.jpg",
       "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:1317931",
-      "type": "movie",
-      "name": "Infiltrada en el búnker",
-      "ids": {
-        "tmdb": 1317931
-      },
-      "overview": "La historia de una mujer que se infiltró durante dos años en un laboratorio farmacéutico para exponer los graves casos de maltrato animal en este centro.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/1hmZfIhKl84b4z40Vl9F06p4eWd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mwcWMaBq0qcJ0oQ7IaZ1wMcMbLW.jpg"
     }
   ]
 }
