@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:336806",
+      "type": "movie",
+      "name": "Después de esto",
+      "ids": {
+        "tmdb": 336806
+      },
+      "overview": "El joven John regresa a casa de su padre tras cumplir una condena en un reformatorio, anhelando darle un nuevo comienzo a su vida. Sin embargo, en su comunidad no ha sido perdonado. La presencia de John saca lo peor de quienes le rodean y poco a poco una atmósfera malsana va tomando forma. John se siente acosado, y la misma violencia que lo había llevado a la reclusión comienza a desatarse nuevamente.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/epslZjZd3t9ZvQSkwe4tS3NlB0o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2KBm2Q6NzwdtOH5Gav9WgkdHlpw.jpg"
+    },
+    {
       "id": "tmdb:965150",
       "type": "movie",
       "name": "Aftersun",
@@ -15,19 +28,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
     },
     {
-      "id": "tmdb:336806",
-      "type": "movie",
-      "name": "Después de esto",
-      "ids": {
-        "tmdb": 336806
-      },
-      "overview": "El joven John regresa a casa de su padre tras cumplir una condena en un reformatorio, anhelando darle un nuevo comienzo a su vida. Sin embargo, en su comunidad no ha sido perdonado. La presencia de John saca lo peor de quienes le rodean y poco a poco una atmósfera malsana va tomando forma. John se siente acosado, y la misma violencia que lo había llevado a la reclusión comienza a desatarse nuevamente.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/epslZjZd3t9ZvQSkwe4tS3NlB0o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2KBm2Q6NzwdtOH5Gav9WgkdHlpw.jpg"
-    },
-    {
       "id": "tmdb:1006161",
       "type": "movie",
       "name": "Blank Narcissus (Passion of the Swamp)",
@@ -39,33 +39,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/3GVQoDGJpyYPQm2y7fwpQive3A3.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/vLfCzgTjnhGskeUiJXOXH2bDI7M.jpg"
-    },
-    {
-      "id": "tmdb:31175",
-      "type": "movie",
-      "name": "Soul Kitchen",
-      "ids": {
-        "tmdb": 31175
-      },
-      "overview": "Zinos, un griego que posee un restaurante en Hamburgo, vive momentos críticos: su novia Nadine se ha ido a trabajar a Shanghai, su revolucionario cocinero está espantando a sus clientes y, para colmo, su disparatado hermano Illias acaba de salir de la cárcel; por si esto fuera poco, Zinos debe enfrentarse a los especuladores inmobiliarios que pretenden derribar su negocio para construir viviendas.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/mDd1pMikteLNE5vEHIDgYVfSfku.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tzCBj6duyr0h3Y2SACNprdL5WsB.jpg"
-    },
-    {
-      "id": "tmdb:662",
-      "type": "movie",
-      "name": "La jetée",
-      "ids": {
-        "tmdb": 662
-      },
-      "overview": "Un hombre se enfrenta a su pasado durante un experimento que intenta encontrar una solución a los problemas de un mundo postapocalíptico causados por una guerra mundial.",
-      "year": 1962,
-      "poster": "https://image.tmdb.org/t/p/w342/elGidsRHXkk8UyrtLbcMhaptDyp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qTM7lZVpGj8DPtMJbJdzNXjguJr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ChkVo7SsefF8RLyqmN5Va8uRu0.png"
     },
     {
       "id": "tmdb:5879",
@@ -82,6 +55,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
     },
     {
+      "id": "tmdb:38775",
+      "type": "movie",
+      "name": "Marea Nocturna",
+      "ids": {
+        "tmdb": 38775
+      },
+      "overview": "En el pequeño pueblo de una isla del océano Pacífico, el joven Johnny queda prendado de una mujer de cabello negro. Ella trabaja en una feria como una \"sirena\". Después de algunos extraños sucesos, Johnny empieza a creer que la chica pudiera ser una sirena real, que asesina en las noches de luna llena",
+      "year": 1961,
+      "poster": "https://image.tmdb.org/t/p/w342/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ir5cGVUusWCEnNNwwn4RrBRmc2G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fM88iScRatsSh6tMYDc5yvMJ1xk.png"
+    },
+    {
       "id": "tmdb:848818",
       "type": "movie",
       "name": "Flux Gourmet",
@@ -94,6 +81,33 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5nsS8KmpSLGiPvjGlBkOAhvDIPm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/crob8mqz38igwuhW34VXF5KdWCV.png"
+    },
+    {
+      "id": "tmdb:662",
+      "type": "movie",
+      "name": "La jetée",
+      "ids": {
+        "tmdb": 662
+      },
+      "overview": "Un hombre se enfrenta a su pasado durante un experimento que intenta encontrar una solución a los problemas de un mundo postapocalíptico causados por una guerra mundial.",
+      "year": 1962,
+      "poster": "https://image.tmdb.org/t/p/w342/elGidsRHXkk8UyrtLbcMhaptDyp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qTM7lZVpGj8DPtMJbJdzNXjguJr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ChkVo7SsefF8RLyqmN5Va8uRu0.png"
+    },
+    {
+      "id": "tmdb:31175",
+      "type": "movie",
+      "name": "Soul Kitchen",
+      "ids": {
+        "tmdb": 31175
+      },
+      "overview": "Zinos, un griego que posee un restaurante en Hamburgo, vive momentos críticos: su novia Nadine se ha ido a trabajar a Shanghai, su revolucionario cocinero está espantando a sus clientes y, para colmo, su disparatado hermano Illias acaba de salir de la cárcel; por si esto fuera poco, Zinos debe enfrentarse a los especuladores inmobiliarios que pretenden derribar su negocio para construir viviendas.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/mDd1pMikteLNE5vEHIDgYVfSfku.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tzCBj6duyr0h3Y2SACNprdL5WsB.jpg"
     },
     {
       "id": "tmdb:985",
@@ -110,18 +124,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/n4lvtF6CzOtluYu5BJxshPuuxq6.png"
     },
     {
-      "id": "tmdb:38775",
+      "id": "tmdb:53023",
       "type": "movie",
-      "name": "Marea Nocturna",
+      "name": "La felicidad",
       "ids": {
-        "tmdb": 38775
+        "tmdb": 53023
       },
-      "overview": "En el pequeño pueblo de una isla del océano Pacífico, el joven Johnny queda prendado de una mujer de cabello negro. Ella trabaja en una feria como una \"sirena\". Después de algunos extraños sucesos, Johnny empieza a creer que la chica pudiera ser una sirena real, que asesina en las noches de luna llena",
-      "year": 1961,
-      "poster": "https://image.tmdb.org/t/p/w342/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg",
+      "overview": "François es un joven carpintero casado y con dos hijos. A pesar de que su vida conyugal con Thérese es placentera, cuando conoce a Emilie, no puede evitar sentirse atraído por ella y acaban teniendo una aventura. El verdadero problema es que no consigue aclararse con sus sentimientos: ama a su mujer y también a su amante, pero no sabe a cuál de las dos ama más.",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w342/r6UYog9MruOe4X71AS57EhuJrFq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ir5cGVUusWCEnNNwwn4RrBRmc2G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fM88iScRatsSh6tMYDc5yvMJ1xk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n3SHf2SJmSdQt0YqFLsKdW5LsXa.png"
     },
     {
       "id": "tmdb:285463",
@@ -135,46 +149,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/lhhpYD8iJiSoFgvlgIK9Fnm5eaD.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/miUWodNo3WUKG3Gew5F3M0d4XXK.jpg"
-    },
-    {
-      "id": "tmdb:83430",
-      "type": "movie",
-      "name": "Altiplano",
-      "ids": {
-        "tmdb": 83430
-      },
-      "overview": "Grace es una fotógrafa de guerra que decide dejar su trabajo tras un violento accidente en Irak. Max es su marido, un cirujano belga especializado en cataratas que trabaja en una clínica oftalmológica en los Andes peruanos. No muy lejos de allí, los aldeanos de Turubamba enferman gravemente por los vertidos de mercurio de la mina local. La joven Saturnina pierde a su prometido, infectado por las aguas contaminadas. Sin saber las verdaderas causas de la epidemia, los aldeanos centran toda su furia en los médicos extranjeros, y en medio de una riña, Max es asesinado. Entonces, Grace comienza un peregrinaje hasta el lugar de los hechos. Por su parte, Saturnina toma medidas drásticas para protestar contra la interminable violencia que brota de su tierra y sus vecinos. Los destinos de Grace y Saturnina se cruzarán.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/6GDlXz4yA1T8csNklfDXBvFi5nb.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:24488",
-      "type": "movie",
-      "name": "Demonlover",
-      "ids": {
-        "tmdb": 24488
-      },
-      "overview": "Diane trabaja para el Volf Group, una multinacional que está a punto de comprar una firma japonesa (Tokyo Anime), que está revolucionando el mercado con sus dibujos animados porno en 3-D. Una de las dos compañías que se disputan los derechos de difusión por Internet del material recién adquirido por Volf contrata a Diane como espía industrial. La otra compañía está involucrada en varias websites ilegales dedicadas a la ultraviolencia y la pornografía. Diane pronto se verá sumergida en una trama de amenazas y enrevesados intereses.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/92xCcjJ3GcSoEMpYvzXEhr4BUnb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iv5ZHMglzn8I9qn1phdP8xSoHKs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AqdZdnLtojyB9FLeWJPLO1I9e0m.png"
-    },
-    {
-      "id": "tmdb:39356",
-      "type": "movie",
-      "name": "Boy",
-      "ids": {
-        "tmdb": 39356
-      },
-      "overview": "Es 1984 y Michael Jackson es el rey del pop- incluso en Waihau Bay, Nueva Zelanda. Aquí conocemos a Boy, un niño de 11 años que vive en una granja con su abuela, una cabra y sus hermano pequeño Rocky (que cree que tiene poderes). Poco después de que su abuela se vaya a un entierro durante una semana, el padre de Boy, Alamein, aparece de la nada. Habiendo imaginado una versión heróica de su padre, Boy descubre la realidad: un incompetente criminal de poca monta que sólo ha vuelto para recuperar el botín que enterró antes de entrar a la cárcel. Aquí es donde la cabra aparece...",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/jOcwOnCwTbCvJm7jAbeSo4Jgv0H.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p4keiuSSV4Vs3QideuXFPlGwRp4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8hrTKVcqKe0F5tVDldbhDIOjLqw.png"
     },
     {
       "id": "tmdb:1214504",
@@ -205,34 +179,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rD2hqQMY8Zvdas86v7rYjQ0aouY.png"
     },
     {
-      "id": "tmdb:892",
-      "type": "movie",
-      "name": "Delicatessen",
-      "ids": {
-        "tmdb": 892
-      },
-      "overview": "Esta comedia negra y surrealista nos cuenta acerca de un pequeño pueblo postapocalíptico, donde Clapet, el carnicero, alimenta a sus clientes con carne humana. Cuando su hija se enamora de su siguiente víctima, las cosas se empiezan a torcer.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/cACoQdccxToUn0PRC1yW81bZHOG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zMVwhccP78PLjYRoKikFiX7OdFc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3DCxPvg26ix2FHwXDiDlcUhADH1.png"
-    },
-    {
-      "id": "tmdb:31225",
-      "type": "movie",
-      "name": "Paris Is Burning",
-      "ids": {
-        "tmdb": 31225
-      },
-      "overview": "La película explora las 'Houses' del barrio neoyorquino de Harlem de finales de los 80. Una 'House' es una sociedad de gays y drag queens (drag queen en el sentido neoyorquino del término que incluye a las travestis), que tiene forma de banda callejera. Las 'Houses' están formadas por una 'mother' o madre y los y las 'children', hijos e hijas, la función de la madre es la de presidir la sociedad y aconsejar y mirar por sus integrantes. Los 'Balls' son los bailes que organizan las 'Houses' en los 'Ballrooms' (literalmente salones de baile) que se convierten en una especie de club para reunirse y competir entre sí. \"Paris is burning\" refleja el fenómeno de los 'balls' desde 1987 hasta 1989 cuando ya ha llamado la atención de los medios de comunicación y las industrias culturales perciben beneficios de lo que súbitamente es la nueva moda.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kK5Hf9EDI1pLMj3Mq0BA6xOsE8g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gKVKHbV6XkpNagA77HALW5QZqcA.png"
-    },
-    {
       "id": "tmdb:27064",
       "type": "movie",
       "name": "Mishima: Una vida en cuatro capítulos",
@@ -247,31 +193,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/g9QTeHmih9uM6Jrq8IdnJIe8hdk.png"
     },
     {
-      "id": "tmdb:921629",
+      "id": "tmdb:39356",
       "type": "movie",
-      "name": "The African Desperate",
+      "name": "Boy",
       "ids": {
-        "tmdb": 921629
+        "tmdb": 39356
       },
-      "overview": "It’s MFA grad Palace Bryant’s final 24 hours in art school, and she is not going to the graduation party! She needs to get back home to Chicago from Upstate New York, but that means surviving a hazy, hilarious, and hallucinatory odyssey, stumbling from academic critiques to backseat hookups.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/eJnpEwTA1RhnZCP5epnBf8O9vz6.jpg",
+      "overview": "Es 1984 y Michael Jackson es el rey del pop- incluso en Waihau Bay, Nueva Zelanda. Aquí conocemos a Boy, un niño de 11 años que vive en una granja con su abuela, una cabra y sus hermano pequeño Rocky (que cree que tiene poderes). Poco después de que su abuela se vaya a un entierro durante una semana, el padre de Boy, Alamein, aparece de la nada. Habiendo imaginado una versión heróica de su padre, Boy descubre la realidad: un incompetente criminal de poca monta que sólo ha vuelto para recuperar el botín que enterró antes de entrar a la cárcel. Aquí es donde la cabra aparece...",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/jOcwOnCwTbCvJm7jAbeSo4Jgv0H.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5SHoGyoOP50KwZVmEn6I8V31fqV.jpg"
-    },
-    {
-      "id": "tmdb:38810",
-      "type": "movie",
-      "name": "Canino",
-      "ids": {
-        "tmdb": 38810
-      },
-      "overview": "Un matrimonio con tres hijos vive en una mansión en las afueras de una ciudad. Los chicos, que nunca han salido de casa, son educados según los métodos que sus padres juzgan más apropiados y sin recibir ninguna influencia del exterior. Creen que los aviones son juguetes o que el mar es un tipo de silla forrada de cuero. La única persona que puede entrar en la casa es Christine, guardia de seguridad en la fábrica del padre.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/w6QztblXtDGXCWotvyQKgeBZah.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/grGi346IgTIje2bxkbxu5npiplw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ifaRUhvxyLqH0zH22gBOfm2TKKS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/p4keiuSSV4Vs3QideuXFPlGwRp4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8hrTKVcqKe0F5tVDldbhDIOjLqw.png"
     },
     {
       "id": "tmdb:558582",
@@ -288,113 +221,44 @@
       "logo": "https://image.tmdb.org/t/p/w500/7T7Mtd4OG5wc0r7QO4rEA92veP1.png"
     },
     {
-      "id": "tmdb:157823",
+      "id": "tmdb:83430",
       "type": "movie",
-      "name": "Night Moves",
+      "name": "Altiplano",
       "ids": {
-        "tmdb": 157823
+        "tmdb": 83430
       },
-      "overview": "Un drama centrado en tres ecologistas que que quieren volar una presa.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yTenAFsjaEv9ZL3DRiydRumojLL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iDh35Xm4Su4bNMKW8jW8RtClP3r.png"
+      "overview": "Grace es una fotógrafa de guerra que decide dejar su trabajo tras un violento accidente en Irak. Max es su marido, un cirujano belga especializado en cataratas que trabaja en una clínica oftalmológica en los Andes peruanos. No muy lejos de allí, los aldeanos de Turubamba enferman gravemente por los vertidos de mercurio de la mina local. La joven Saturnina pierde a su prometido, infectado por las aguas contaminadas. Sin saber las verdaderas causas de la epidemia, los aldeanos centran toda su furia en los médicos extranjeros, y en medio de una riña, Max es asesinado. Entonces, Grace comienza un peregrinaje hasta el lugar de los hechos. Por su parte, Saturnina toma medidas drásticas para protestar contra la interminable violencia que brota de su tierra y sus vecinos. Los destinos de Grace y Saturnina se cruzarán.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/6GDlXz4yA1T8csNklfDXBvFi5nb.jpg",
+      "posterShape": "poster"
     },
     {
-      "id": "tmdb:3176",
+      "id": "tmdb:1231206",
       "type": "movie",
-      "name": "Battle Royale",
+      "name": "Una alegoría urbana",
       "ids": {
-        "tmdb": 3176
+        "tmdb": 1231206
       },
-      "overview": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con “Battle Royale”. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/e9UQGoX2ZFNdrjLwEejMSMDSxmR.jpg",
+      "overview": "En una reinterpretación de la Alegoría de la caverna, un niño de 7 años llamado Jay logra liberarse de sus cadenas y escapar del mundo de sombras que siempre conoció. Al salir, descubre un mundo lleno de luz y verdad, enfrentándose a un dilema: ¿debería regresar para liberar a los demás o vivir en la libertad que tanto le ha costado encontrar?",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/pnsuZ46cNF659cnEQg2AOhaOm1S.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pmRtI4QvcBvXjw9mLOEAsV9Bq7i.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peHiTvVODUgHPD8UCy6MqQGwsbN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fgGKxmzJmCrN8pZwsIBbsQpSEov.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dp1cXilty23Vi3x2rHDo0B87dIN.png"
     },
     {
-      "id": "tmdb:107983",
+      "id": "tmdb:38810",
       "type": "movie",
-      "name": "Golem",
+      "name": "Canino",
       "ids": {
-        "tmdb": 107983
+        "tmdb": 38810
       },
-      "overview": "Adaptación polaca de la historia del Golem. En un futuro desolador, existe una tecnología avanzada, supervisada por doctores, cuyo objetivo es la mejora de la raza humana... (FA)",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/vvae3Jqex1PTGEq3s3PLvU9dPcF.jpg",
+      "overview": "Un matrimonio con tres hijos vive en una mansión en las afueras de una ciudad. Los chicos, que nunca han salido de casa, son educados según los métodos que sus padres juzgan más apropiados y sin recibir ninguna influencia del exterior. Creen que los aviones son juguetes o que el mar es un tipo de silla forrada de cuero. La única persona que puede entrar en la casa es Christine, guardia de seguridad en la fábrica del padre.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/w6QztblXtDGXCWotvyQKgeBZah.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mUShQuVUrLUtdGylu1IAkNOUW51.jpg"
-    },
-    {
-      "id": "tmdb:70588",
-      "type": "movie",
-      "name": "El mito de la adolescencia",
-      "ids": {
-        "tmdb": 70588
-      },
-      "overview": "Cuatro jóvenes buscan el amor en un suburbio de Detroit en el último fin de semana del verano.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6zIu3afpJjz5Js6S7GkDxpCJCYM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8t4iZodWAxVZ0agoaYPd0tTYYqz.jpg"
-    },
-    {
-      "id": "tmdb:111833",
-      "type": "movie",
-      "name": "Boro in the Box",
-      "ids": {
-        "tmdb": 111833
-      },
-      "overview": "From its epic conception to its film death, the fantasized and fictitious portrait of the film-maker Walerian Borowczyk : Boro-in-the-box discovers a cruel and obscene world, crosses commonplace and colorful adventures, from Poland to Paris, caressing erotic birds and organic cameras in a phantasmagorical alphabet primer.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/ybTme70iKysvxDyjk2LTiZAzp00.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yWgl7rgsxxH3KAdBz36RTlDIr47.jpg"
-    },
-    {
-      "id": "tmdb:10513",
-      "type": "movie",
-      "name": "Plan 9 del espacio exterior",
-      "ids": {
-        "tmdb": 10513
-      },
-      "overview": "En California, un anciano lamenta la pérdida de su esposa y al día siguiente también muere. Sin embargo, el soldado espacial Eros y su compañera Tanna usan un dispositivo eléctrico para resucitarlos a ambos y al fuerte inspector Clay que fue asesinado por la pareja. Su intención no es conquistar la Tierra sino evitar que la humanidad desarrolle la poderosa bomba \"Solobonita\" que amenazaría el universo. Cuando la población de Hollywood y Washington DC ve platillos voladores en el cielo, un coronel, un teniente de policía, un piloto comercial, su esposa y un policía intentan detener a los extraterrestres.",
-      "year": 1959,
-      "poster": "https://image.tmdb.org/t/p/w342/5i48EVX078yj0nClHE18zRX6X1h.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9pHCAT1ScILdkhY8ErfOma8W4kB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciwUeKXb326gvt77LlJngLNkllR.png"
-    },
-    {
-      "id": "tmdb:653665",
-      "type": "movie",
-      "name": "Farewell Amor",
-      "ids": {
-        "tmdb": 653665
-      },
-      "overview": "Reunited after a 17-year separation, Walter, an Angolan immigrant, is joined in the U.S. by his wife and teenage daughter. Now absolute strangers sharing a one-bedroom apartment, they discover a shared love of dance that may help overcome the emotional distance between them.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/evH5FR3TGbRDWfftpdpQf5jIq5T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z2d89yChkFDERFlqjkyKic88dIQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Fr70nkVg4ZveGMrcQZTazvU2Oj.png"
-    },
-    {
-      "id": "tmdb:525825",
-      "type": "movie",
-      "name": "Chained for Life",
-      "ids": {
-        "tmdb": 525825
-      },
-      "overview": "A beautiful actress struggles to connect with her disfigured co-star on the set of a European auteur's English-language debut.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/pwIHmLF9v5ufkvpd6fQUtpMIGT1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ArVVePX7EjZnHXt2EA9E8CqJUgM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6A2XWVEzuujfkfD9w3RhHwwuomZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/grGi346IgTIje2bxkbxu5npiplw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ifaRUhvxyLqH0zH22gBOfm2TKKS.png"
     },
     {
       "id": "tmdb:22501",
@@ -411,18 +275,127 @@
       "logo": "https://image.tmdb.org/t/p/w500/wdew2xdInMFOHKA2NkQJmUeDbwD.png"
     },
     {
-      "id": "tmdb:42732",
+      "id": "tmdb:107983",
       "type": "movie",
-      "name": "Bad Girls Go to Hell",
+      "name": "Golem",
       "ids": {
-        "tmdb": 42732
+        "tmdb": 107983
       },
-      "overview": "Después de que su marido se va a trabajar, Ellen es violada en su apartamento por el portero del edificio. No se trata de la primera vez que esto sucede. Ellen ataca al hombre y luego se da a la fuga. Sale a la carretera y así llega hasta la gran ciudad, donde se enfrenta a una serie de situaciones abusivas. Por fin encuentra a una mujer agradable para rentarle una habitación, pero el hijo de la mujer resulta ser un detective que descubre su identidad y la amenaza y chantajea.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/vfFT9V2EPHFCgvT6kpBP7MixNAe.jpg",
+      "overview": "Adaptación polaca de la historia del Golem. En un futuro desolador, existe una tecnología avanzada, supervisada por doctores, cuyo objetivo es la mejora de la raza humana... (FA)",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/vvae3Jqex1PTGEq3s3PLvU9dPcF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oolwV88WCsTv5Bbw48fUll9V4Nb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lCUIipfuy9U4fKNzDUvSUY3Y3Hm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mUShQuVUrLUtdGylu1IAkNOUW51.jpg"
+    },
+    {
+      "id": "tmdb:921629",
+      "type": "movie",
+      "name": "The African Desperate",
+      "ids": {
+        "tmdb": 921629
+      },
+      "overview": "It’s MFA grad Palace Bryant’s final 24 hours in art school, and she is not going to the graduation party! She needs to get back home to Chicago from Upstate New York, but that means surviving a hazy, hilarious, and hallucinatory odyssey, stumbling from academic critiques to backseat hookups.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/eJnpEwTA1RhnZCP5epnBf8O9vz6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5SHoGyoOP50KwZVmEn6I8V31fqV.jpg"
+    },
+    {
+      "id": "tmdb:24488",
+      "type": "movie",
+      "name": "Demonlover",
+      "ids": {
+        "tmdb": 24488
+      },
+      "overview": "Diane trabaja para el Volf Group, una multinacional que está a punto de comprar una firma japonesa (Tokyo Anime), que está revolucionando el mercado con sus dibujos animados porno en 3-D. Una de las dos compañías que se disputan los derechos de difusión por Internet del material recién adquirido por Volf contrata a Diane como espía industrial. La otra compañía está involucrada en varias websites ilegales dedicadas a la ultraviolencia y la pornografía. Diane pronto se verá sumergida en una trama de amenazas y enrevesados intereses.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/92xCcjJ3GcSoEMpYvzXEhr4BUnb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iv5ZHMglzn8I9qn1phdP8xSoHKs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AqdZdnLtojyB9FLeWJPLO1I9e0m.png"
+    },
+    {
+      "id": "tmdb:653665",
+      "type": "movie",
+      "name": "Farewell Amor",
+      "ids": {
+        "tmdb": 653665
+      },
+      "overview": "Reunited after a 17-year separation, Walter, an Angolan immigrant, is joined in the U.S. by his wife and teenage daughter. Now absolute strangers sharing a one-bedroom apartment, they discover a shared love of dance that may help overcome the emotional distance between them.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/evH5FR3TGbRDWfftpdpQf5jIq5T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/z2d89yChkFDERFlqjkyKic88dIQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Fr70nkVg4ZveGMrcQZTazvU2Oj.png"
+    },
+    {
+      "id": "tmdb:3176",
+      "type": "movie",
+      "name": "Battle Royale",
+      "ids": {
+        "tmdb": 3176
+      },
+      "overview": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con “Battle Royale”. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/e9UQGoX2ZFNdrjLwEejMSMDSxmR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pmRtI4QvcBvXjw9mLOEAsV9Bq7i.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peHiTvVODUgHPD8UCy6MqQGwsbN.png"
+    },
+    {
+      "id": "tmdb:157823",
+      "type": "movie",
+      "name": "Night Moves",
+      "ids": {
+        "tmdb": 157823
+      },
+      "overview": "Un drama centrado en tres ecologistas que que quieren volar una presa.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yTenAFsjaEv9ZL3DRiydRumojLL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iDh35Xm4Su4bNMKW8jW8RtClP3r.png"
+    },
+    {
+      "id": "tmdb:31225",
+      "type": "movie",
+      "name": "Paris Is Burning",
+      "ids": {
+        "tmdb": 31225
+      },
+      "overview": "La película explora las 'Houses' del barrio neoyorquino de Harlem de finales de los 80. Una 'House' es una sociedad de gays y drag queens (drag queen en el sentido neoyorquino del término que incluye a las travestis), que tiene forma de banda callejera. Las 'Houses' están formadas por una 'mother' o madre y los y las 'children', hijos e hijas, la función de la madre es la de presidir la sociedad y aconsejar y mirar por sus integrantes. Los 'Balls' son los bailes que organizan las 'Houses' en los 'Ballrooms' (literalmente salones de baile) que se convierten en una especie de club para reunirse y competir entre sí. \"Paris is burning\" refleja el fenómeno de los 'balls' desde 1987 hasta 1989 cuando ya ha llamado la atención de los medios de comunicación y las industrias culturales perciben beneficios de lo que súbitamente es la nueva moda.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kK5Hf9EDI1pLMj3Mq0BA6xOsE8g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gKVKHbV6XkpNagA77HALW5QZqcA.png"
+    },
+    {
+      "id": "tmdb:892",
+      "type": "movie",
+      "name": "Delicatessen",
+      "ids": {
+        "tmdb": 892
+      },
+      "overview": "Esta comedia negra y surrealista nos cuenta acerca de un pequeño pueblo postapocalíptico, donde Clapet, el carnicero, alimenta a sus clientes con carne humana. Cuando su hija se enamora de su siguiente víctima, las cosas se empiezan a torcer.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/cACoQdccxToUn0PRC1yW81bZHOG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zMVwhccP78PLjYRoKikFiX7OdFc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3DCxPvg26ix2FHwXDiDlcUhADH1.png"
+    },
+    {
+      "id": "tmdb:264352",
+      "type": "movie",
+      "name": "Radio Mary",
+      "ids": {
+        "tmdb": 264352
+      },
+      "overview": "Mary (Kate Lyn Sheil) lives alone. She is waiting for something to happen in her life. Riding the elevator to work, a strange man, Hayward, grabs her shoulder and speaks to her telepathically. “Do you believe in magic?” This triggers a nervous breakdown. After a visit to the emergency room, Mary goes to stay at her sister’s house, and goes into therapy. Mary can now hear people’s thoughts, and she starts hearing music that seems to be broadcast from her mind. Adapted by Gary Walkow from his novel of the same name.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/oUZWuzPxQpTFoDkzzTgt0Iwz2SC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/k44swSczAvs9HsFZoZO5m9On78w.jpg"
     },
     {
       "id": "tmdb:37485",
@@ -436,6 +409,46 @@
       "poster": "https://image.tmdb.org/t/p/w342/2YKtb9Umc788aLJyfnHgJQ3kOOm.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6zkiVqimS2HQY4IYQ5x48LaWNYA.jpg"
+    },
+    {
+      "id": "tmdb:10513",
+      "type": "movie",
+      "name": "Plan 9 del espacio exterior",
+      "ids": {
+        "tmdb": 10513
+      },
+      "overview": "En California, un anciano lamenta la pérdida de su esposa y al día siguiente también muere. Sin embargo, el soldado espacial Eros y su compañera Tanna usan un dispositivo eléctrico para resucitarlos a ambos y al fuerte inspector Clay que fue asesinado por la pareja. Su intención no es conquistar la Tierra sino evitar que la humanidad desarrolle la poderosa bomba \"Solobonita\" que amenazaría el universo. Cuando la población de Hollywood y Washington DC ve platillos voladores en el cielo, un coronel, un teniente de policía, un piloto comercial, su esposa y un policía intentan detener a los extraterrestres.",
+      "year": 1959,
+      "poster": "https://image.tmdb.org/t/p/w342/5i48EVX078yj0nClHE18zRX6X1h.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9pHCAT1ScILdkhY8ErfOma8W4kB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ciwUeKXb326gvt77LlJngLNkllR.png"
+    },
+    {
+      "id": "tmdb:586745",
+      "type": "movie",
+      "name": "Caprice",
+      "ids": {
+        "tmdb": 586745
+      },
+      "overview": "A girl finds herself inside a fashion magazine – Joanna Hogg's graduation piece at the National Film and Television School starring a then unknown Tilda Swinton.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/mP0OJJdZcik4rQHyFn6lR7Xa8Yh.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:42732",
+      "type": "movie",
+      "name": "Bad Girls Go to Hell",
+      "ids": {
+        "tmdb": 42732
+      },
+      "overview": "Después de que su marido se va a trabajar, Ellen es violada en su apartamento por el portero del edificio. No se trata de la primera vez que esto sucede. Ellen ataca al hombre y luego se da a la fuga. Sale a la carretera y así llega hasta la gran ciudad, donde se enfrenta a una serie de situaciones abusivas. Por fin encuentra a una mujer agradable para rentarle una habitación, pero el hijo de la mujer resulta ser un detective que descubre su identidad y la amenaza y chantajea.",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w342/vfFT9V2EPHFCgvT6kpBP7MixNAe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oolwV88WCsTv5Bbw48fUll9V4Nb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lCUIipfuy9U4fKNzDUvSUY3Y3Hm.png"
     },
     {
       "id": "tmdb:42234",
@@ -452,58 +465,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/93M10SONsLKJiFBNqyYWg8o24m6.png"
     },
     {
-      "id": "tmdb:1315091",
+      "id": "tmdb:525825",
       "type": "movie",
-      "name": "Akiplėša",
+      "name": "Chained for Life",
       "ids": {
-        "tmdb": 1315091
+        "tmdb": 525825
       },
-      "overview": "Marija y Kristina, dos adolescentes que sueñan con escapar de la desolación de su ciudad industrial, forman un vínculo único en una escuela de modelos local, donde la promesa de una vida mejor les empuja a idear formas cada vez más extremas de adaptar sus cuerpos jóvenes a imposibles estándares de belleza. Un relato sobre las inseguridades adolescentes en torno a la imagen corporal que se convirtió en la gran ganadora del pasado Festival Internacional de Cine de Locarno (Leopardo de Oro y premio a la mejor ópera prima).",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/knG84vSv8kRMeopgIcrTpsYYHSs.jpg",
+      "overview": "A beautiful actress struggles to connect with her disfigured co-star on the set of a European auteur's English-language debut.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/pwIHmLF9v5ufkvpd6fQUtpMIGT1.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sA1X5DMpeDNYyNlFwlXmsDsOClV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/69MDN01Wu49kUlMiPNfJv39oHUD.png"
-    },
-    {
-      "id": "tmdb:53023",
-      "type": "movie",
-      "name": "La felicidad",
-      "ids": {
-        "tmdb": 53023
-      },
-      "overview": "François es un joven carpintero casado y con dos hijos. A pesar de que su vida conyugal con Thérese es placentera, cuando conoce a Emilie, no puede evitar sentirse atraído por ella y acaban teniendo una aventura. El verdadero problema es que no consigue aclararse con sus sentimientos: ama a su mujer y también a su amante, pero no sabe a cuál de las dos ama más.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/r6UYog9MruOe4X71AS57EhuJrFq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wPliKFiYaUEYCWWIIFW9mxjiz0G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n3SHf2SJmSdQt0YqFLsKdW5LsXa.png"
-    },
-    {
-      "id": "tmdb:98514",
-      "type": "movie",
-      "name": "River of Grass",
-      "ids": {
-        "tmdb": 98514
-      },
-      "overview": "\"River of Grass\" tiene todos los elementos de una \"road movie\" convencional: un coche, una pistola, planes criminales y dos jóvenes amantes escapando de un padre furioso que además es un oficial de policía suspendido. Sin embargo, Kelly Reichardt ha tomado estos elementos comunes y creado una \"anti-road movie\", una película impasiva que tiene más de comedia existencialista que de drama criminal.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/i2s1L8AavAfKIcKf3ONhF3no405.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/euSgyVpsdatbHJokEr9LRlXFx87.jpg"
-    },
-    {
-      "id": "tmdb:123556",
-      "type": "movie",
-      "name": "Ok, Bien",
-      "ids": {
-        "tmdb": 123556
-      },
-      "overview": "Una serie de audiciones desmoralizadoras y un intenso taller de movimiento llevan a un actor en apuros hacia el límite.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/6sb6cWW0UkwH98i6ga8Vg4ByPAS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h241tP0QGQJ39KHEQMjDHLpL2Yb.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/ArVVePX7EjZnHXt2EA9E8CqJUgM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6A2XWVEzuujfkfD9w3RhHwwuomZ.png"
     },
     {
       "id": "tmdb:44479",
@@ -520,30 +493,31 @@
       "logo": "https://image.tmdb.org/t/p/w500/ylhcFyAMkVKMh6m9VLWu4bLxPwn.svg"
     },
     {
-      "id": "tmdb:67795",
+      "id": "tmdb:1315091",
       "type": "movie",
-      "name": "La casa de los monstruos cachondos",
+      "name": "Akiplėša",
       "ids": {
-        "tmdb": 67795
+        "tmdb": 1315091
       },
-      "overview": "Wolfman, Dracula y Frankenstein espían en una escuela de niñas en las montañas, donde la mayoría de las chicas pasan su tiempo tomando el sol desnuda, haciendo ejercicios de desnudos y clases de arte de desnudos. Los monstruos finalmente invaden la escuela ...",
-      "year": 1962,
-      "poster": "https://image.tmdb.org/t/p/w342/vMk57IXfVDm7aq81JmXZXSmhNjB.jpg",
+      "overview": "Marija y Kristina, dos adolescentes que sueñan con escapar de la desolación de su ciudad industrial, forman un vínculo único en una escuela de modelos local, donde la promesa de una vida mejor les empuja a idear formas cada vez más extremas de adaptar sus cuerpos jóvenes a imposibles estándares de belleza. Un relato sobre las inseguridades adolescentes en torno a la imagen corporal que se convirtió en la gran ganadora del pasado Festival Internacional de Cine de Locarno (Leopardo de Oro y premio a la mejor ópera prima).",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/knG84vSv8kRMeopgIcrTpsYYHSs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y7EZlFTgC27O5wDn9VCRoPhQrh2.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/sA1X5DMpeDNYyNlFwlXmsDsOClV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/69MDN01Wu49kUlMiPNfJv39oHUD.png"
     },
     {
-      "id": "tmdb:133470",
+      "id": "tmdb:123556",
       "type": "movie",
-      "name": "Florentina Hubaldo, CTE",
+      "name": "Ok, Bien",
       "ids": {
-        "tmdb": 133470
+        "tmdb": 123556
       },
-      "overview": "A young woman is held captive by her father and forced to become a prostitute. Meanwhile, two men embark on a personal quest for buried treasure. However, both groups of people show signs of debilitating illness.",
+      "overview": "Una serie de audiciones desmoralizadoras y un intenso taller de movimiento llevan a un actor en apuros hacia el límite.",
       "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/hsfF526fIYIJwnjis5cYA8AID73.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6sb6cWW0UkwH98i6ga8Vg4ByPAS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lZ6xE5Yt59YMwOs2jOYo4j9pdxV.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/h241tP0QGQJ39KHEQMjDHLpL2Yb.jpg"
     },
     {
       "id": "tmdb:309134",
@@ -559,55 +533,83 @@
       "backdrop": "https://image.tmdb.org/t/p/original/khmHWNOMrzZIIfQPE6UHP6hOQJc.jpg"
     },
     {
-      "id": "tmdb:264352",
+      "id": "tmdb:260236",
       "type": "movie",
-      "name": "Radio Mary",
+      "name": "Rocket Rain",
       "ids": {
-        "tmdb": 264352
+        "tmdb": 260236
       },
-      "overview": "Mary (Kate Lyn Sheil) lives alone. She is waiting for something to happen in her life. Riding the elevator to work, a strange man, Hayward, grabs her shoulder and speaks to her telepathically. “Do you believe in magic?” This triggers a nervous breakdown. After a visit to the emergency room, Mary goes to stay at her sister’s house, and goes into therapy. Mary can now hear people’s thoughts, and she starts hearing music that seems to be broadcast from her mind. Adapted by Gary Walkow from his novel of the same name.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/oUZWuzPxQpTFoDkzzTgt0Iwz2SC.jpg",
+      "overview": "A video artist working on his latest project, is unexpectedly visited by his long lost friend, Jansen. Jansen is having a troubled relationship with his wife. He escapes the city and meet him who has gone through a similar problem. During their awkward reunion, they became aware of how far apart they have grown, and at the same time unfolding each others breakdowns. Rocket Rain touches on the human longing for inner peace within the shifting values of contemporary Indonesian family. In a country where traditions are considered sacred, the concept of nature and social values are being mediated by the demands of modernity. Rocket Rain is a story of people who are trying to cope with this complexity of endless contradictions.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/2q9zjGM1l0pUcd1KiWj2roRS6Bn.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k44swSczAvs9HsFZoZO5m9On78w.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/v4HHj7mw1Rh9JDqwOMYjRdOUN47.jpg"
     },
     {
-      "id": "tmdb:10331",
+      "id": "tmdb:67795",
       "type": "movie",
-      "name": "La noche de los muertos vivientes",
+      "name": "La casa de los monstruos cachondos",
       "ids": {
-        "tmdb": 10331
+        "tmdb": 67795
       },
-      "overview": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
+      "overview": "Wolfman, Dracula y Frankenstein espían en una escuela de niñas en las montañas, donde la mayoría de las chicas pasan su tiempo tomando el sol desnuda, haciendo ejercicios de desnudos y clases de arte de desnudos. Los monstruos finalmente invaden la escuela ...",
+      "year": 1962,
+      "poster": "https://image.tmdb.org/t/p/w342/vMk57IXfVDm7aq81JmXZXSmhNjB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kDvSaVmij0mWHC61tEHuWs1eyLa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/y7EZlFTgC27O5wDn9VCRoPhQrh2.jpg"
     },
     {
-      "id": "tmdb:413797",
+      "id": "tmdb:1172244",
       "type": "movie",
-      "name": "Further Beyond",
+      "name": "Moon",
       "ids": {
-        "tmdb": 413797
+        "tmdb": 1172244
       },
-      "overview": "In their debut documentary Christine Molloy and Joe Lawlor take as their point of departure the compelling 18th Century figure, Ambrose O'Higgins, and attempt to retrace his remarkable journey from Ireland to Chile.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/2witiRKKSdYeSB3frv2BKBAjTn8.jpg",
-      "posterShape": "poster"
+      "overview": "Sarah, una apasionada de las artes marciales mixtas, acepta la propuesta de convertirse en la entrenadora personal de tres hermanas de una acaudalada familia en Jordania. Una vez en el país, no tarda en darse cuenta de que tras la apariencia de privilegio de los Al Farahadi se esconde una realidad mucho más inquietante. Premio Especial del Jurado en el Festival de Locarno.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/2lkU7he9G8YGQqs7jabsRy2rBbl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/arKl2Ycaz7JlUcaZOs9K1X7japr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1pOZzoMWayxs1ffnf1B1BT7EQgW.png"
     },
     {
-      "id": "tmdb:586745",
+      "id": "tmdb:848553",
       "type": "movie",
-      "name": "Caprice",
+      "name": "Los Huesos",
       "ids": {
-        "tmdb": 586745
+        "tmdb": 848553
       },
-      "overview": "A girl finds herself inside a fashion magazine – Joanna Hogg's graduation piece at the National Film and Television School starring a then unknown Tilda Swinton.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/mP0OJJdZcik4rQHyFn6lR7Xa8Yh.jpg",
-      "posterShape": "poster"
+      "overview": "Using human corpses and invoking the spirits of two damned Secretaries of State, a girl performs a ritual to free the kingdom of Chile from its feudal heritage.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/9SPhV2bC1ELSLZeYHLY4R7dCsKF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hlYBa7QgN5p2FLMFkUfTYkXTXDK.jpg"
+    },
+    {
+      "id": "tmdb:111833",
+      "type": "movie",
+      "name": "Boro in the Box",
+      "ids": {
+        "tmdb": 111833
+      },
+      "overview": "From its epic conception to its film death, the fantasized and fictitious portrait of the film-maker Walerian Borowczyk : Boro-in-the-box discovers a cruel and obscene world, crosses commonplace and colorful adventures, from Poland to Paris, caressing erotic birds and organic cameras in a phantasmagorical alphabet primer.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/ybTme70iKysvxDyjk2LTiZAzp00.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yWgl7rgsxxH3KAdBz36RTlDIr47.jpg"
+    },
+    {
+      "id": "tmdb:133470",
+      "type": "movie",
+      "name": "Florentina Hubaldo, CTE",
+      "ids": {
+        "tmdb": 133470
+      },
+      "overview": "A young woman is held captive by her father and forced to become a prostitute. Meanwhile, two men embark on a personal quest for buried treasure. However, both groups of people show signs of debilitating illness.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/hsfF526fIYIJwnjis5cYA8AID73.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lZ6xE5Yt59YMwOs2jOYo4j9pdxV.jpg"
     },
     {
       "id": "tmdb:30867",
@@ -623,59 +625,57 @@
       "backdrop": "https://image.tmdb.org/t/p/original/sO4a6w1zLdPAJquqxT1cicDJKam.jpg"
     },
     {
-      "id": "tmdb:260236",
+      "id": "tmdb:70588",
       "type": "movie",
-      "name": "Rocket Rain",
+      "name": "El mito de la adolescencia",
       "ids": {
-        "tmdb": 260236
+        "tmdb": 70588
       },
-      "overview": "A video artist working on his latest project, is unexpectedly visited by his long lost friend, Jansen. Jansen is having a troubled relationship with his wife. He escapes the city and meet him who has gone through a similar problem. During their awkward reunion, they became aware of how far apart they have grown, and at the same time unfolding each others breakdowns. Rocket Rain touches on the human longing for inner peace within the shifting values of contemporary Indonesian family. In a country where traditions are considered sacred, the concept of nature and social values are being mediated by the demands of modernity. Rocket Rain is a story of people who are trying to cope with this complexity of endless contradictions.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/2q9zjGM1l0pUcd1KiWj2roRS6Bn.jpg",
+      "overview": "Cuatro jóvenes buscan el amor en un suburbio de Detroit en el último fin de semana del verano.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6zIu3afpJjz5Js6S7GkDxpCJCYM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v4HHj7mw1Rh9JDqwOMYjRdOUN47.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/8t4iZodWAxVZ0agoaYPd0tTYYqz.jpg"
     },
     {
-      "id": "tmdb:33247",
+      "id": "tmdb:98514",
       "type": "movie",
-      "name": "Vivir hasta el fin",
+      "name": "River of Grass",
       "ids": {
-        "tmdb": 33247
+        "tmdb": 98514
       },
-      "overview": "Luke es un chapero gay. Jon es un crítico de cine. Ambos tienen el virus VIH del SIDA. Y ambos deciden embarcarse en un hedonista y peligroso viaje. Su lema: \"Fuck the world\" (que le jodan al mundo).",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/gWFLPTphg0BSoDgMCSC1zkzeRKe.jpg",
+      "overview": "\"River of Grass\" tiene todos los elementos de una \"road movie\" convencional: un coche, una pistola, planes criminales y dos jóvenes amantes escapando de un padre furioso que además es un oficial de policía suspendido. Sin embargo, Kelly Reichardt ha tomado estos elementos comunes y creado una \"anti-road movie\", una película impasiva que tiene más de comedia existencialista que de drama criminal.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/i2s1L8AavAfKIcKf3ONhF3no405.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vzCH76J3QBk2rj1lJhsg9p0E83l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/krKTFXsA1UEQUQO5Ln1mzRH7yZg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/euSgyVpsdatbHJokEr9LRlXFx87.jpg"
     },
     {
-      "id": "tmdb:1923",
+      "id": "tmdb:358511",
       "type": "movie",
-      "name": "Twin Peaks: Fuego camina conmigo",
+      "name": "Baby Bump",
       "ids": {
-        "tmdb": 1923
+        "tmdb": 358511
       },
-      "overview": "Precuela de la famosa serie televisiva. La fuente de los impulsos autodestructivos de Laura Palmer está en los abusos que sufre por parte de alguien muy cercano, quien sufre la posesión del diabólico BOB. Cuando Laura se da cuenta de que su mejor amiga, Donna Hayward, se encamina a su mismo sendero autodestructivo, tiene un ataque de lucidez que le permite prevenírselo.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/7TDqNMyueIMTrPsQBMap411eWLu.jpg",
+      "overview": "11-year-old Mickey House is no longer a child. But who is he? He doesn’t know. He’s friendless. He doesn’t understand his mother. He hates what’s happening to his body. Reality and imagination come together in a toxic mix. Events escalate to extremes… at home and at school. Mickey has to find the strength within him to put a stop to what’s begun. Where will his encounter with his own maturing body take him?",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/oYuJN6diy2vuZ6VqysrEoochsNe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zltPbRVViAYIWM19aiyMd6DP2kU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sVV9q6KwN21haETliul1WXNYFDh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vAZuQav545DYdvC30CtNUF6BkR6.jpg"
     },
     {
-      "id": "tmdb:1172244",
+      "id": "tmdb:42135",
       "type": "movie",
-      "name": "Moon",
+      "name": "Querelle",
       "ids": {
-        "tmdb": 1172244
+        "tmdb": 42135
       },
-      "overview": "Sarah, una apasionada de las artes marciales mixtas, acepta la propuesta de convertirse en la entrenadora personal de tres hermanas de una acaudalada familia en Jordania. Una vez en el país, no tarda en darse cuenta de que tras la apariencia de privilegio de los Al Farahadi se esconde una realidad mucho más inquietante. Premio Especial del Jurado en el Festival de Locarno.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/2lkU7he9G8YGQqs7jabsRy2rBbl.jpg",
+      "overview": "Querelle es un marinero que ejerce un enorme poder de fascinación y de seducción sobre las personas que conoce; posee un atractivo y una personalidad irresistibles. Cuando desembarca en Brest empieza a frecuentar un extraño prostíbulo. Ahí descubre que su hermano Robert es el amante de la dueña, Lysiane. Las reglas del local consisten en una tirada de dados contra Nono, el marido de Lysiane. Si ganas, tienes sexo con Lysiane y si pierdes, con Nono. Querelle pierde a propósito...",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/cNATtWnC7DJYOnbKTlHbQ58bVd9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/arKl2Ycaz7JlUcaZOs9K1X7japr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1pOZzoMWayxs1ffnf1B1BT7EQgW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cINtl1Bh47Ut4NhwLokLHQXgre0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xAsC13BFUzVL8un8wsfOkf0w0Ru.png"
     }
   ]
 }
