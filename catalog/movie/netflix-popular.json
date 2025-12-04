@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1062722",
-      "type": "movie",
-      "name": "Frankenstein",
-      "ids": {
-        "tmdb": 1062722
-      },
-      "overview": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wXjNt2xNGaMuOpI98OefVCknbGx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A2qs8jKKvTIuHSIJjB0CT6PQNbj.png"
-    },
-    {
       "id": "tmdb:1180831",
       "type": "movie",
       "name": "Trol 2",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/n9gs9F1ZYSZ0jaOHuJV2ewJbTmX.png"
+    },
+    {
+      "id": "tmdb:1062722",
+      "type": "movie",
+      "name": "Frankenstein",
+      "ids": {
+        "tmdb": 1062722
+      },
+      "overview": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wXjNt2xNGaMuOpI98OefVCknbGx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A2qs8jKKvTIuHSIJjB0CT6PQNbj.png"
     },
     {
       "id": "tmdb:803796",
@@ -71,6 +71,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/bVguGXEfFKC7bJgTY6uF3npze45.png"
     },
     {
+      "id": "tmdb:736526",
+      "type": "movie",
+      "name": "Trol",
+      "ids": {
+        "tmdb": 736526
+      },
+      "overview": "Las autoridades recurren a una audaz paleontóloga para evitar que un trol ancestral, al que ha despertado una explosión en las montañas de Noruega, siembre el caos.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/ntwVUjOOA2kpTkgng4OotBMhyUP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6dwd9BwbY17H25e8TTu0LTqKt73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/spgcI29qpaRW7ZyraOajde6xlki.png"
+    },
+    {
       "id": "tmdb:278",
       "type": "movie",
       "name": "Cadena perpetua",
@@ -99,6 +113,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/8NtbNeDZ1pfvYiqY3GR4IqqfsId.png"
     },
     {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T. el extraterrestre",
+      "ids": {
+        "tmdb": 601
+      },
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+    },
+    {
       "id": "tmdb:346364",
       "type": "movie",
       "name": "It (Eso)",
@@ -111,6 +139,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8E0WtqLYZyIfS3nuKnGYGi19x5m.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rR1a56IWF4dfEFJHhuYb8LYV9YJ.png"
+    },
+    {
+      "id": "tmdb:238",
+      "type": "movie",
+      "name": "El padrino",
+      "ids": {
+        "tmdb": 238
+      },
+      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/k0E1zn685h9RihffFMIiI9qBn2s.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
     },
     {
       "id": "tmdb:155",
@@ -141,34 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rFDlLskQVQTCmpY54z3GT3TgCuC.png"
     },
     {
-      "id": "tmdb:238",
-      "type": "movie",
-      "name": "El padrino",
-      "ids": {
-        "tmdb": 238
-      },
-      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k0E1zn685h9RihffFMIiI9qBn2s.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
-    },
-    {
-      "id": "tmdb:736526",
-      "type": "movie",
-      "name": "Trol",
-      "ids": {
-        "tmdb": 736526
-      },
-      "overview": "Las autoridades recurren a una audaz paleontóloga para evitar que un trol ancestral, al que ha despertado una explosión en las montañas de Noruega, siembre el caos.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/ntwVUjOOA2kpTkgng4OotBMhyUP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6dwd9BwbY17H25e8TTu0LTqKt73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/spgcI29qpaRW7ZyraOajde6xlki.png"
-    },
-    {
       "id": "tmdb:1072699",
       "type": "movie",
       "name": "Furioza 2",
@@ -181,20 +195,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7MIQ4VsYnpOEBh2oBbCOmVtJY4m.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dfo2VR1Zg6Gi7Dx1diTvWqiFAu8.png"
-    },
-    {
-      "id": "tmdb:1323475",
-      "type": "movie",
-      "name": "El encanto del champán",
-      "ids": {
-        "tmdb": 1323475
-      },
-      "overview": "Una directiva decidida va a París con la intención de adquirir una marca de champán antes de Navidad... y se enamora por accidente del heredero de este imperio burbujeante.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/yey6ihLZVwx2sjMXhObUyFusqyX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b80WkcdFBM01qFSeQscc6xtUA3Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oOHvDz7oKGZUMAw7JHvYa8BiUBX.png"
     },
     {
       "id": "tmdb:120",
@@ -211,20 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
     },
     {
-      "id": "tmdb:601",
-      "type": "movie",
-      "name": "E.T. el extraterrestre",
-      "ids": {
-        "tmdb": 601
-      },
-      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-    },
-    {
       "id": "tmdb:122",
       "type": "movie",
       "name": "El señor de los anillos: El retorno del rey",
@@ -237,34 +223,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
-    },
-    {
-      "id": "tmdb:1267319",
-      "type": "movie",
-      "name": "Mantis",
-      "ids": {
-        "tmdb": 1267319
-      },
-      "overview": "La sociedad secreta de asesinos a sueldo se sume en el caos y surge una nueva generación de asesinos. Sin las viejas reglas, ¿quién se atreverá a reclamar las sombras?",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v1vs4RJyqzckfxPjyWN5zN1dEgH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cZsvmKZ8jBkXNn2m8cBfy8HTF96.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aQermEPCqN5BgzUrcqxnlHPaXfi.png"
-    },
-    {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:1241634",
@@ -281,20 +239,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/Iq8QvFx27ia1n8wkxyRkLW8A1o.png"
     },
     {
-      "id": "tmdb:634649",
-      "type": "movie",
-      "name": "Spider-Man: No Way Home",
-      "ids": {
-        "tmdb": 634649
-      },
-      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
-    },
-    {
       "id": "tmdb:786892",
       "type": "movie",
       "name": "Furiosa: De la saga Mad Max",
@@ -309,18 +253,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/nhtoeOdgCKXPcHLtKQF7OREQOJu.png"
     },
     {
-      "id": "tmdb:1401318",
+      "id": "tmdb:442285",
       "type": "movie",
-      "name": "Una Navidad ex cepcional",
+      "name": "Le Rempart des Béguines",
       "ids": {
-        "tmdb": 1401318
+        "tmdb": 442285
       },
-      "overview": "Por Navidad, Kate y Everett solo piden un divorcio sin dramas y pasar unas últimas fiestas en familia, pero las nuevas pasiones y los sentimientos del pasado lo complican todo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/zbDmE67pbPRlP4WHlJvDtdFxnw1.jpg",
+      "overview": "Hélène, a fragile and romantic teenager, discovers that her father, a rich business man, has a mistress. Curious, she decides to go and meet this woman who is described as strange. At the first chance she has she goes to her house in the Ramparts of Béguines... from then on she goes back often, discovering a new world of artists and nightowls where she also experiences love in the arms of Tamara.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/ppKLGOs4usWfakdZxi3UZfhX3QQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bsPYWU27xxjuru7puL9MGx8NXAK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m96QXUX9nBjbmFVjFjYO0MZ5MXL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8XgOSbyHwefSskwS96KKSd1tBQr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m8kimp4B6C8Q4EaMZnReIUPFU0G.png"
+    },
+    {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
+      "id": "tmdb:1267319",
+      "type": "movie",
+      "name": "Mantis",
+      "ids": {
+        "tmdb": 1267319
+      },
+      "overview": "La sociedad secreta de asesinos a sueldo se sume en el caos y surge una nueva generación de asesinos. Sin las viejas reglas, ¿quién se atreverá a reclamar las sombras?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v1vs4RJyqzckfxPjyWN5zN1dEgH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cZsvmKZ8jBkXNn2m8cBfy8HTF96.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aQermEPCqN5BgzUrcqxnlHPaXfi.png"
+    },
+    {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "ids": {
+        "tmdb": 634649
+      },
+      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
+    },
+    {
+      "id": "tmdb:1323475",
+      "type": "movie",
+      "name": "El encanto del champán",
+      "ids": {
+        "tmdb": 1323475
+      },
+      "overview": "Una directiva decidida va a París con la intención de adquirir una marca de champán antes de Navidad... y se enamora por accidente del heredero de este imperio burbujeante.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/yey6ihLZVwx2sjMXhObUyFusqyX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b80WkcdFBM01qFSeQscc6xtUA3Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oOHvDz7oKGZUMAw7JHvYa8BiUBX.png"
+    },
+    {
+      "id": "tmdb:129",
+      "type": "movie",
+      "name": "El viaje de Chihiro",
+      "ids": {
+        "tmdb": 129
+      },
+      "overview": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7s12bBc9gB252PhwjrUtinT8xqj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
+    },
+    {
+      "id": "tmdb:858485",
+      "type": "movie",
+      "name": "ಕಾಂತಾರ",
+      "ids": {
+        "tmdb": 858485
+      },
+      "overview": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kXElm7wt2kAXEVwJqW4cFhP43nW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bEy6L5LCyHhXl4xIqgDn0fFDero.png"
+    },
+    {
+      "id": "tmdb:1290159",
+      "type": "movie",
+      "name": "Una casa llena de dinamita",
+      "ids": {
+        "tmdb": 1290159
+      },
+      "overview": "Cuando un misil sin identificar es lanzado contra EE. UU., se desata una carrera a contrarreloj por descubrir al responsable y decidir cómo responder.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ku4vTAnfTgO5oPPaHqyLtP39LrE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rK9XK9OwiSgEu7pH5C8gArYgvSN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mHv00FyC5M0hksGGjANt4hwgsVh.png"
     },
     {
       "id": "tmdb:438631",
@@ -337,18 +379,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
     },
     {
-      "id": "tmdb:1290159",
+      "id": "tmdb:1401318",
       "type": "movie",
-      "name": "Una casa llena de dinamita",
+      "name": "Una Navidad ex cepcional",
       "ids": {
-        "tmdb": 1290159
+        "tmdb": 1401318
       },
-      "overview": "Cuando un misil sin identificar es lanzado contra EE. UU., se desata una carrera a contrarreloj por descubrir al responsable y decidir cómo responder.",
+      "overview": "Por Navidad, Kate y Everett solo piden un divorcio sin dramas y pasar unas últimas fiestas en familia, pero las nuevas pasiones y los sentimientos del pasado lo complican todo.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/ku4vTAnfTgO5oPPaHqyLtP39LrE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/zbDmE67pbPRlP4WHlJvDtdFxnw1.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rK9XK9OwiSgEu7pH5C8gArYgvSN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mHv00FyC5M0hksGGjANt4hwgsVh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bsPYWU27xxjuru7puL9MGx8NXAK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m96QXUX9nBjbmFVjFjYO0MZ5MXL.png"
+    },
+    {
+      "id": "tmdb:546554",
+      "type": "movie",
+      "name": "Puñales por la espalda",
+      "ids": {
+        "tmdb": 546554
+      },
+      "overview": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xQtniQMRG0BIyUcvtWTBRtLV65l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sxHbXvVW81ydoKckURGbjx92z82.png"
+    },
+    {
+      "id": "tmdb:240",
+      "type": "movie",
+      "name": "El Padrino Parte II",
+      "ids": {
+        "tmdb": 240
+      },
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
+    },
+    {
+      "id": "tmdb:823464",
+      "type": "movie",
+      "name": "Godzilla y Kong: El nuevo imperio",
+      "ids": {
+        "tmdb": 823464
+      },
+      "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5uzu4Zo5AbJlOQIBAqeq1ecfmmm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7GQswKy5K1W3nYCwwQupNkuG3W8.svg"
+    },
+    {
+      "id": "tmdb:579974",
+      "type": "movie",
+      "name": "RRR",
+      "ids": {
+        "tmdb": 579974
+      },
+      "overview": "Un cuento de ficción sobre dos revolucionarios indios legendarios y su viaje lejos de casa antes de que comenzaran a luchar por su país en la década de 1920.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/ljHw5eIMnki3HekwkKwCCHsRSbH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hbHECFGS7IsBCA3DSC1dPgLm2Ig.png"
     },
     {
       "id": "tmdb:829557",
@@ -379,62 +477,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kjUupFukLAkxM40so0YfRGY5aHo.png"
     },
     {
-      "id": "tmdb:579974",
-      "type": "movie",
-      "name": "RRR",
-      "ids": {
-        "tmdb": 579974
-      },
-      "overview": "Un cuento de ficción sobre dos revolucionarios indios legendarios y su viaje lejos de casa antes de que comenzaran a luchar por su país en la década de 1920.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/ljHw5eIMnki3HekwkKwCCHsRSbH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hbHECFGS7IsBCA3DSC1dPgLm2Ig.png"
-    },
-    {
-      "id": "tmdb:823464",
-      "type": "movie",
-      "name": "Godzilla y Kong: El nuevo imperio",
-      "ids": {
-        "tmdb": 823464
-      },
-      "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5uzu4Zo5AbJlOQIBAqeq1ecfmmm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7GQswKy5K1W3nYCwwQupNkuG3W8.svg"
-    },
-    {
-      "id": "tmdb:240",
-      "type": "movie",
-      "name": "El Padrino Parte II",
-      "ids": {
-        "tmdb": 240
-      },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
-      "id": "tmdb:129",
-      "type": "movie",
-      "name": "El viaje de Chihiro",
-      "ids": {
-        "tmdb": 129
-      },
-      "overview": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7s12bBc9gB252PhwjrUtinT8xqj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
-    },
-    {
       "id": "tmdb:1571470",
       "type": "movie",
       "name": "Las Ratas: Una historia de 'The Witcher'",
@@ -447,48 +489,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6BCq4M3LRxDfcvfkZICYJdbh42h.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ljNoswChtssc0IUjrTV4ugJSTpB.png"
-    },
-    {
-      "id": "tmdb:1581099",
-      "type": "movie",
-      "name": "Kevin Hart: Acting My Age",
-      "ids": {
-        "tmdb": 1581099
-      },
-      "overview": "Older, wiser — and still hilarious. Kevin Hart opens up about his midlife mishaps, from intimacy pills to the perils of unexpected injuries.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pFCm7WLLpno4opmqqQS4GXZ8V7M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zyK0TM7tvSsFpPoZWeO90TnuDbu.png"
-    },
-    {
-      "id": "tmdb:10719",
-      "type": "movie",
-      "name": "Elf",
-      "ids": {
-        "tmdb": 10719
-      },
-      "overview": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k5XDfs6sSiJSXkPcbXveJJluLrV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87HZrFIhYFelEV6NrvRaBnczoGv.png"
-    },
-    {
-      "id": "tmdb:546554",
-      "type": "movie",
-      "name": "Puñales por la espalda",
-      "ids": {
-        "tmdb": 546554
-      },
-      "overview": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xQtniQMRG0BIyUcvtWTBRtLV65l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sxHbXvVW81ydoKckURGbjx92z82.png"
     },
     {
       "id": "tmdb:105",
@@ -505,32 +505,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
-      "id": "tmdb:858485",
+      "id": "tmdb:1414312",
       "type": "movie",
-      "name": "ಕಾಂತಾರ",
+      "name": "Fotógrafo de guerra: El hombre que captó la imagen",
       "ids": {
-        "tmdb": 858485
+        "tmdb": 1414312
       },
-      "overview": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+      "overview": "¿Cuál es el origen de la famosa foto de la guerra de Vietnam? Este documental investiga la autoría de una imagen que marcó una época.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/kZO3xC3GYEHvW2dFppe0CnCMImb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kXElm7wt2kAXEVwJqW4cFhP43nW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bEy6L5LCyHhXl4xIqgDn0fFDero.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/klOoAmzgGrcTx6WHJjoxSShJDL1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r4d55O7seg2uGGIXiS2mSBrP0mc.png"
     },
     {
-      "id": "tmdb:726208",
+      "id": "tmdb:10719",
       "type": "movie",
-      "name": "Voces",
+      "name": "Elf",
       "ids": {
-        "tmdb": 726208
+        "tmdb": 10719
       },
-      "overview": "Daniel (Rodolfo Sancho) y Sara (Belén Fabra) son un matrimonio con un hijo de 9 años, Eric (Lucas Blas), que acaban de trasladarse a un nuevo hogar. Sin embargo, no saben que esa propiedad es conocida en el vecindario como \"la casa de las voces\". Eric es el primero en percatarse de los extraños sonidos que se ocultan tras cada puerta y que intentan comunicarse con la familia. Pese a que al principio Daniel y Sara creen que se trata de un producto de la imaginación de su hijo, poco a poco comienzan a percibir también esos sucesos paranormales, convirtiéndolos en una realidad.  Este largometraje de terror, que trata el poder sugestivo de las psicofonías, está dirigida por Ángel Gómez.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/kB1jM3vsbkWBxLo4esCDvgrsZVj.jpg",
+      "overview": "Una Nochebuena, en un orfanato, un bebé gatea dentro del saco de regalos de Santa Claus y acaba en el taller de éste en el Polo Norte. Aunque allí es adoptado y educado como un elfo, al crecer, se hace tres veces más grande que los habitantes de la región. Parece claro que nunca encajará en el mundo de los elfos; lo que necesita es encontrar a su verdadera familia. Con esta intención viaja a Nueva York, donde descubrirá que la vida no consiste sólo en patinar y comer dulces; así que vuelve a sentirse otra vez fuera lugar. Consigue, no obstante, encontrar a su padre, Walter, un editor de libros infantiles adicto al trabajo y al dinero que figura en la lista negra de Santa Claus. Buddy también encuentra a una nueva madre y descubre que su hermanastro de diez años no cree en los elfos ni en Santa Claus ni en las Navidades. En realidad todo el mundo parece haber olvidado el verdadero significado de la Navidad.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1nYiKK1S8newWpHDZptfay60Kzr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l99Dx9okdgHqy91wqzormw2W7Iv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/k5XDfs6sSiJSXkPcbXveJJluLrV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87HZrFIhYFelEV6NrvRaBnczoGv.png"
     },
     {
       "id": "tmdb:121",
@@ -547,76 +547,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
     },
     {
-      "id": "tmdb:1561969",
-      "type": "movie",
-      "name": "Baramulla",
-      "ids": {
-        "tmdb": 1561969
-      },
-      "overview": "Un policía investiga secuestros de menores y descubre oscuros secretos, mientras los sucesos sobrenaturales amenazan a su familia y al tranquilo pueblo de Baramulla.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xpwNQAlF110ZWzY8T8fc1ii1k8C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3A92ILpm3TDNm4TIYh8CF4WzmOc.png"
-    },
-    {
-      "id": "tmdb:1414312",
-      "type": "movie",
-      "name": "Fotógrafo de guerra: El hombre que captó la imagen",
-      "ids": {
-        "tmdb": 1414312
-      },
-      "overview": "¿Cuál es el origen de la famosa foto de la guerra de Vietnam? Este documental investiga la autoría de una imagen que marcó una época.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/cnDf5hkhoAa810dWTSkBDYEkbcY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/klOoAmzgGrcTx6WHJjoxSShJDL1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/r4d55O7seg2uGGIXiS2mSBrP0mc.png"
-    },
-    {
-      "id": "tmdb:1455575",
-      "type": "movie",
-      "name": "Detrás del telón de 'Stranger Things: The First Shadow'",
-      "ids": {
-        "tmdb": 1455575
-      },
-      "overview": "Un vistazo detrás de las cámaras con el reparto y el equipo técnico de ‘Stranger Things: The First Shadow’, el premiado espectáculo en directo que amplía el universo Hawkins.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/siuBPHFg16AR9W1TYwrlmvPa3Kf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/igfo3Wt9QvXEGMPvkh8bRSel9r2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mqKaBa9D2TN4GxkNjSlLs1cuEsr.png"
-    },
-    {
-      "id": "tmdb:36648",
-      "type": "movie",
-      "name": "Blade Trinity",
-      "ids": {
-        "tmdb": 36648
-      },
-      "overview": "Durante años, Blade ha luchado contra los vampiros sin que el mundo supiera lo que sucedía en los bajos fondos. Pero ahora, tras caer en las redes del FBI, se ve forzado a salir a la luz del día para unir sus fuerzas con un clan de humanos cazadores de vampiros que nunca supo que existían, los Nightstalkers. Junto a Abigail y Hannibal, Blade sigue la pista de una Antigua criatura que lo está acechando el vampiro original: Drácula.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/8GiUVbr73cHe68d4ybpxDbeReZP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wPMxjiYw0NWKGrSDr7w6UOX0Z57.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pJEnnN2aeXKbJYSfAOWv3A0bYdF.png"
-    },
-    {
-      "id": "tmdb:438695",
-      "type": "movie",
-      "name": "¡Canta! 2",
-      "ids": {
-        "tmdb": 438695
-      },
-      "overview": "Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/1f7Ah1ZjkaChoo5NkSJRsRKxwVs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wxsodpswc6inEPDR695px2fN6oP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/woGQe4Hd3XQMrevHr1rYM1TmdDL.png"
-    },
-    {
       "id": "tmdb:748783",
       "type": "movie",
       "name": "Garfield: La película",
@@ -629,20 +559,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eRK0HQPGPIxIzKDnU7d9fktHb3l.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ctv7q97lJOxGaPZAloE0mZpJlR4.png"
-    },
-    {
-      "id": "tmdb:578",
-      "type": "movie",
-      "name": "Tiburón",
-      "ids": {
-        "tmdb": 578
-      },
-      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
     },
     {
       "id": "tmdb:1109086",
@@ -659,46 +575,130 @@
       "logo": "https://image.tmdb.org/t/p/w500/uMmMYDrrI5DTa9kZ2dJ6hx3eFtH.png"
     },
     {
-      "id": "tmdb:1355666",
+      "id": "tmdb:1561969",
       "type": "movie",
-      "name": "Los desenredos del amor",
+      "name": "Baramulla",
       "ids": {
-        "tmdb": 1355666
+        "tmdb": 1561969
       },
-      "overview": "Una adolescente enamoradiza planea conquistar al rompecorazones del instituto alisando su melena rizada... hasta que un nuevo alumno lo cambia todo.",
+      "overview": "Un policía investiga secuestros de menores y descubre oscuros secretos, mientras los sucesos sobrenaturales amenazan a su familia y al tranquilo pueblo de Baramulla.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/osrlCIHYOlqOJaDh7zAaeaqh1LF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gKhRY7mqC6n1yKx3dfp8g7dgagK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o37AJiWfPCj1FCULFWfsZvPNsRP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xpwNQAlF110ZWzY8T8fc1ii1k8C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3A92ILpm3TDNm4TIYh8CF4WzmOc.png"
     },
     {
-      "id": "tmdb:272",
+      "id": "tmdb:438695",
       "type": "movie",
-      "name": "Batman Begins",
+      "name": "¡Canta! 2",
       "ids": {
-        "tmdb": 272
+        "tmdb": 438695
       },
-      "overview": "¿Cómo cambia un hombre el mundo? Es una pregunta que obsesiona a Bruce Wayne al igual que el fantasma de sus padres, muertos a tiros ante sus ojos en las calles de Gotham una noche que cambió su vida para siempre. Atormentado por la culpa y la ira, el desilusionado heredero industrial desaparece de Gotham y viaja en secreto por el mundo, buscando los medios de luchar contra la injusticia y utilizar el miedo contra los que se aprovechan de los que tienen miedo. Con la ayuda de su leal mayordomo Alfred, el detective Jim Gordon - uno de los pocos buenos policías de las fuerzas del orden público de Gotham - y Lucius Fox, su aliado en la división de Ciencias Aplicadas de Wayne Enterprises, Bruce Wayne libera a su imponente alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y un despliegue de artefactos de alta tecnología para combatir las fuerzas siniestras que amenazan con destruir la ciudad.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/6yMWU1vWkOBbNRIwOxhetd2aHhO.jpg",
+      "overview": "Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/1f7Ah1ZjkaChoo5NkSJRsRKxwVs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/52WKPxxi9xJowv5Ejm3ke8j9P4H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wxsodpswc6inEPDR695px2fN6oP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/woGQe4Hd3XQMrevHr1rYM1TmdDL.png"
     },
     {
-      "id": "tmdb:1163258",
+      "id": "tmdb:1455575",
       "type": "movie",
-      "name": "12th Fail",
+      "name": "Detrás del telón de 'Stranger Things: The First Shadow'",
       "ids": {
-        "tmdb": 1163258
+        "tmdb": 1455575
       },
-      "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/aHMAF2nTZV1jxzdHQoAb61FmwBK.jpg",
+      "overview": "Un vistazo detrás de las cámaras con el reparto y el equipo técnico de ‘Stranger Things: The First Shadow’, el premiado espectáculo en directo que amplía el universo Hawkins.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/siuBPHFg16AR9W1TYwrlmvPa3Kf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mn6QCsrr9zABlOupwyS4zTWpI28.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nhnKWMtAdD31Wklbq4JR4IDWbHa.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/igfo3Wt9QvXEGMPvkh8bRSel9r2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mqKaBa9D2TN4GxkNjSlLs1cuEsr.png"
+    },
+    {
+      "id": "tmdb:769",
+      "type": "movie",
+      "name": "Uno de los nuestros",
+      "ids": {
+        "tmdb": 769
+      },
+      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
+    },
+    {
+      "id": "tmdb:578",
+      "type": "movie",
+      "name": "Tiburón",
+      "ids": {
+        "tmdb": 578
+      },
+      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
+    },
+    {
+      "id": "tmdb:1306525",
+      "type": "movie",
+      "name": "El elixir de la inmortalidad",
+      "ids": {
+        "tmdb": 1306525
+      },
+      "overview": "Un elixir revive a los muertos en un pueblo. Una familia con conflictos internos deberá unir fuerzas y luchar para sobrevivir cuando su ciudad natal peligra.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eAvV8ITNS4M8Zt8sxOK6g3XBLBr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fTRzKMvLINZiYhe8YnUXhEXJDzM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6wUzaWfjHi2AFiEM2TKoKvuBSMJ.png"
+    },
+    {
+      "id": "tmdb:250546",
+      "type": "movie",
+      "name": "Annabelle",
+      "ids": {
+        "tmdb": 250546
+      },
+      "overview": "John Form encuentra el regalo perfecto para su mujer embarazada, Mia: una preciosa e inusual muñeca vintage que lleva un vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho. Durante una espantosa noche la pareja ve como miembros de una secta satánica invaden su hogar y los atacan brutalmente. No sólo dejan sangre derramada y terror tras su visita…los miembros de la secta conjuran a un ente de tal maldad que nada de lo que han hecho se compara al siniestro camino a la maldición que ahora es… Annabelle.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/sFxgTJizaUUI3NByNT80oCVnkA2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6eBUOcKZiE60a0nRz2al8xMyUm7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/55yXzqRXL2pBuXuYEVUWBvit8VK.png"
+    },
+    {
+      "id": "tmdb:1299209",
+      "type": "movie",
+      "name": "El hijo de mil hombres",
+      "ids": {
+        "tmdb": 1299209
+      },
+      "overview": "En un pequeño pueblo, un pescador solitario que sueña con tener un hijo siente una luz etérea que lo conecta con otras personas y sus secretos mejor guardados.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/yfkecTToGVoq7hUE1xlay7ccM9e.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hRrOKs3bdxNvS78oFn99hQfVd5Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pKf2qOA2WUVABFfru1AI94GujMU.png"
+    },
+    {
+      "id": "tmdb:18785",
+      "type": "movie",
+      "name": "Resacón en Las Vegas",
+      "ids": {
+        "tmdb": 18785
+      },
+      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
     }
   ]
 }
