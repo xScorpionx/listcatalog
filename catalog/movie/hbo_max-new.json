@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tmdb:1592609",
+      "type": "movie",
+      "name": "Preguntas frecuentes",
+      "ids": {
+        "tmdb": 1592609
+      },
+      "overview": "S. writes to Juan, who is deeply asleep. She reflects on images and cinema, and a piece of advice from a director she admires challenges her and all her previous work. Determined to find an idea behind the images she has recorded so far, S. wanders among materials, her own archive of images and sounds, internet browser tabs, western films and Japanese short stories. S. compiles all these thoughts and findings into a letter, hoping to deliver it to Juan when he wakes up.",
+      "year": 2025
+    },
+    {
       "id": "tmdb:1580651",
       "type": "movie",
       "name": "The Shuffle",
@@ -64,6 +74,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/d95h41n95EZzslb52W48mRrfZN3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iobGE1NY2Vblftk8GehapA2R1aX.png"
+    },
+    {
+      "id": "tmdb:1548017",
+      "type": "movie",
+      "name": "La familia McMullen",
+      "ids": {
+        "tmdb": 1548017
+      },
+      "overview": "Una familia unida enfrenta los altibajos de la vida mientras lidian con desafíos personales y relaciones cambiantes. Sus lazos se ponen a prueba, revelando lo complejo del amor y la lealtad familiar.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fWI7zupeIy0XBAqSAQwdqCJThfJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6MsPDJmADbb0cOSDeQ1zN1lqU3M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eG7dMM772LUVfKyuc4I16LrMRg9.png"
     },
     {
       "id": "tmdb:1541013",
@@ -657,34 +681,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7xJyWvzb1vplnncajXzByj7KVOS.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q3FqzJkDZ1ieV6cCmPnHI0QDVKf.png"
-    },
-    {
-      "id": "tmdb:1386514",
-      "type": "movie",
-      "name": "Bill Maher: Is Anyone Else Seeing This?",
-      "ids": {
-        "tmdb": 1386514
-      },
-      "overview": "With his signature sardonic wit and unfiltered approach, acclaimed comedian Bill Maher offers up his scathing commentary on the hypocrisies of both conservative and liberal politics, as well as trends in modern parenting, sex and dating, and religion.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6MmkUf0tCZSkI9ml1c9d3DqmFwf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dI8nFMhmtbktwghyBGW4fsUFrdq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knldqSk9Bn73d48iwNzyijWLs57.png"
-    },
-    {
-      "id": "tmdb:1411287",
-      "type": "movie",
-      "name": "Hijos del éxtasis",
-      "ids": {
-        "tmdb": 1411287
-      },
-      "overview": "Un financiero británico y un retoño de la mafia compiten por el negocio del éxtasis en los años 90.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bwLC3uTycVbPnGfhJV8JBR8zJ3f.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mzwrfwZiOd0H6qeBZOlQJ2z5JiS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zZp0xCSqwLfytVamFCqJzKiZiWh.png"
     }
   ]
 }
