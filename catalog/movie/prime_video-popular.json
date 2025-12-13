@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:785663",
-      "type": "movie",
-      "name": "Old Henry",
-      "ids": {
-        "tmdb": 785663
-      },
-      "overview": "Un granjero viudo y su hijo acogen con cautela a un hombre misterioso y herido con una bolsa de dinero en efectivo. Cuando un grupo de hombres que dicen ser la ley viene por el dinero, el agricultor debe decidir en quién confiar. Al defender un asedio a su granja, el granjero revela un talento para el uso de armas que sorprende a todos y cuestionan su verdadera identidad.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/tlYJPYNkN8AmyPp8F0zjYbQgWEW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Jx7dM7HSdnkeChcvbaRCYYkMuK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bxCxeGwKhsr036FVLe5y9oOR0T8.png"
-    },
-    {
       "id": "tmdb:1083637",
       "type": "movie",
       "name": "Kantara 2",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bgTDsN8b7C1y6RmGu2GHKRvPZG7.png"
+    },
+    {
+      "id": "tmdb:785663",
+      "type": "movie",
+      "name": "Old Henry",
+      "ids": {
+        "tmdb": 785663
+      },
+      "overview": "Un granjero viudo y su hijo acogen con cautela a un hombre misterioso y herido con una bolsa de dinero en efectivo. Cuando un grupo de hombres que dicen ser la ley viene por el dinero, el agricultor debe decidir en quién confiar. Al defender un asedio a su granja, el granjero revela un talento para el uso de armas que sorprende a todos y cuestionan su verdadera identidad.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/tlYJPYNkN8AmyPp8F0zjYbQgWEW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6Jx7dM7HSdnkeChcvbaRCYYkMuK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bxCxeGwKhsr036FVLe5y9oOR0T8.png"
     },
     {
       "id": "tmdb:949709",
@@ -71,34 +71,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/engQHtbAob3uPPU88mucAcc9Ep8.png"
     },
     {
-      "id": "tmdb:1248226",
-      "type": "movie",
-      "name": "Juegos de niños",
-      "ids": {
-        "tmdb": 1248226
-      },
-      "overview": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/sWhglhFoGA0T7n5U6Yi0t8LBGjA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gAR5CbKYuljOtJED1uipBLNSsiD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png"
-    },
-    {
-      "id": "tmdb:1261825",
-      "type": "movie",
-      "name": "Oh. What. Fun.",
-      "ids": {
-        "tmdb": 1261825
-      },
-      "overview": "Claire Clauster es el nexo que mantiene unida a su caótica, aunque encantadora familia durante las vacaciones. Pero este año, tras planear una salida especial con ellos, cometen un error y la abandonan sola en casa. Harta y menospreciada, Claire emprende una aventura por su cuenta. Mientras su familia la busca, Claire descubre la magia de una Navidad atípica.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/uNmyZChmLKqxROmbsylj5sbzGUR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gnieSeoJ5shZamINHu5RnMetzOq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ejwZokujz6d3wb9SfzE6gLMmuCQ.png"
-    },
-    {
       "id": "tmdb:1255775",
       "type": "movie",
       "name": "Merv",
@@ -111,6 +83,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/yeQjxkAbExWnqWrhu9pApm5EYuz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/soEB2qzV4IuN2zEVHKjKWhU5WKg.png"
+    },
+    {
+      "id": "tmdb:1248226",
+      "type": "movie",
+      "name": "Juegos de niños",
+      "ids": {
+        "tmdb": 1248226
+      },
+      "overview": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/sWhglhFoGA0T7n5U6Yi0t8LBGjA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gAR5CbKYuljOtJED1uipBLNSsiD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png"
     },
     {
       "id": "tmdb:8871",
@@ -141,58 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
     },
     {
-      "id": "tmdb:1426968",
+      "id": "tmdb:1261825",
       "type": "movie",
-      "name": "Ya no quedan junglas",
+      "name": "Oh. What. Fun.",
       "ids": {
-        "tmdb": 1426968
+        "tmdb": 1261825
       },
-      "overview": "Theo, conocido como \"el Gentleman\", es un ex soldado estadounidense cuya existencia solitaria y miserable transcurre entre sus recuerdos de un pasado mejor con su difunta esposa y su habitual cita de los jueves con Olga, una prostituta a la que paga por conversar, recordando quién fue una vez y soñando con lo que podría haber sido. Cuando Olga es asesinada, busca una venganza brutal. El rastro de sangre que deja es seguido por Iborra, una inspectora de policía alcohólica, y Herodes, un despiadado asesino a sueldo. El cruce de estos personajes al límite tendrá un abrupto desenlace cuando el presente venga a cobrarse las deudas del pasado.",
+      "overview": "Claire Clauster es el nexo que mantiene unida a su caótica, aunque encantadora familia durante las vacaciones. Pero este año, tras planear una salida especial con ellos, cometen un error y la abandonan sola en casa. Harta y menospreciada, Claire emprende una aventura por su cuenta. Mientras su familia la busca, Claire descubre la magia de una Navidad atípica.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9aCPjtt0mxnMmdvdfCuCGDqxEg8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uNmyZChmLKqxROmbsylj5sbzGUR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/207ZYv4LZDoZMmiTIwna74LlP59.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p7YEbCVoK0KHUEEc6EPjiw1MdI5.png"
-    },
-    {
-      "id": "tmdb:541671",
-      "type": "movie",
-      "name": "Ballerina",
-      "ids": {
-        "tmdb": 541671
-      },
-      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1B7CXnNQbIqPMvYAZrvwEv9563R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
-    },
-    {
-      "id": "tmdb:1481331",
-      "type": "movie",
-      "name": "Nahual",
-      "ids": {
-        "tmdb": 1481331
-      },
-      "overview": "La exótica escapada de Katia Montero se convierte en una pesadilla al ser poseída por un espíritu animal sediento de sangre. Encuentros eróticos, violencia y leyendas locales transforman el paraíso en un infierno en esta nueva versión de un escalofriante mito sudamericano.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:1156594",
-      "type": "movie",
-      "name": "Culpa nuestra",
-      "ids": {
-        "tmdb": 1156594
-      },
-      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8WhlNrtQdyUBnKrw5WBJnsDn1HE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gnieSeoJ5shZamINHu5RnMetzOq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ejwZokujz6d3wb9SfzE6gLMmuCQ.png"
     },
     {
       "id": "tmdb:601",
@@ -209,6 +155,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
     },
     {
+      "id": "tmdb:1426968",
+      "type": "movie",
+      "name": "Ya no quedan junglas",
+      "ids": {
+        "tmdb": 1426968
+      },
+      "overview": "Theo, conocido como \"el Gentleman\", es un ex soldado estadounidense cuya existencia solitaria y miserable transcurre entre sus recuerdos de un pasado mejor con su difunta esposa y su habitual cita de los jueves con Olga, una prostituta a la que paga por conversar, recordando quién fue una vez y soñando con lo que podría haber sido. Cuando Olga es asesinada, busca una venganza brutal. El rastro de sangre que deja es seguido por Iborra, una inspectora de policía alcohólica, y Herodes, un despiadado asesino a sueldo. El cruce de estos personajes al límite tendrá un abrupto desenlace cuando el presente venga a cobrarse las deudas del pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9aCPjtt0mxnMmdvdfCuCGDqxEg8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/207ZYv4LZDoZMmiTIwna74LlP59.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p7YEbCVoK0KHUEEc6EPjiw1MdI5.png"
+    },
+    {
+      "id": "tmdb:1156594",
+      "type": "movie",
+      "name": "Culpa nuestra",
+      "ids": {
+        "tmdb": 1156594
+      },
+      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8WhlNrtQdyUBnKrw5WBJnsDn1HE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
+    },
+    {
+      "id": "tmdb:541671",
+      "type": "movie",
+      "name": "Ballerina",
+      "ids": {
+        "tmdb": 541671
+      },
+      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1B7CXnNQbIqPMvYAZrvwEv9563R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
+    },
+    {
+      "id": "tmdb:845781",
+      "type": "movie",
+      "name": "Red One",
+      "ids": {
+        "tmdb": 845781
+      },
+      "overview": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
+    },
+    {
+      "id": "tmdb:1481331",
+      "type": "movie",
+      "name": "Nahual",
+      "ids": {
+        "tmdb": 1481331
+      },
+      "overview": "La exótica escapada de Katia Montero se convierte en una pesadilla al ser poseída por un espíritu animal sediento de sangre. Encuentros eróticos, violencia y leyendas locales transforman el paraíso en un infierno en esta nueva versión de un escalofriante mito sudamericano.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:360920",
       "type": "movie",
       "name": "El Grinch",
@@ -221,18 +235,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
-    },
-    {
-      "id": "tmdb:1280518",
-      "type": "movie",
-      "name": "Laberinto de sombras",
-      "ids": {
-        "tmdb": 1280518
-      },
-      "overview": "Elena quedó ciega tras un accidente, desde entonces vive sola en una vieja casa familiar. Tras la llegada de dos extraños que pretenden robarle sus joyas y la aparición de extrañas fuerzas sobrenaturales convertirán la casa en un peligroso laberinto. El bien y el mal se enfrentarán hasta la muerte.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/565kBAr0hvgLbJKyAd3dUKk2xn0.jpg",
-      "posterShape": "poster"
     },
     {
       "id": "tmdb:1197306",
@@ -263,6 +265,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
     },
     {
+      "id": "tmdb:1280518",
+      "type": "movie",
+      "name": "Laberinto de sombras",
+      "ids": {
+        "tmdb": 1280518
+      },
+      "overview": "Elena quedó ciega tras un accidente, desde entonces vive sola en una vieja casa familiar. Tras la llegada de dos extraños que pretenden robarle sus joyas y la aparición de extrañas fuerzas sobrenaturales convertirán la casa en un peligroso laberinto. El bien y el mal se enfrentarán hasta la muerte.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/565kBAr0hvgLbJKyAd3dUKk2xn0.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:1119878",
       "type": "movie",
       "name": "Ice Road: Venganza",
@@ -275,6 +289,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ypZZ8IspcRuC9srzuaTU6O6BQBb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kEqs5aTSmmYc1DE1jCOcY573V0A.png"
+    },
+    {
+      "id": "tmdb:106646",
+      "type": "movie",
+      "name": "El lobo de Wall Street",
+      "ids": {
+        "tmdb": 106646
+      },
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
       "id": "tmdb:1522377",
@@ -291,34 +319,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/uZ9hrHpgyGPjjfWR4tVNfURn2ju.png"
     },
     {
-      "id": "tmdb:1237082",
-      "type": "movie",
-      "name": "31 Minutos: Calurosa Navidad",
-      "ids": {
-        "tmdb": 1237082
-      },
-      "overview": "Al periodista estrella de 31 Minutos, Juan Carlos Bodoque se le es encomendada la tarea de ir a recoger al Polo Norte los regalos de navidad de todo el pueblo de Titirilquén, sin embargo, la tentación al juego se hará presente en la misión de Bodoque. Mientras que Mario Hugo intenta montar un show navideño en el estudio de 31 minutos, pero todo termina saliendo mal.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/dv9UrOoicRiMGkzr2oj2YwSFY2K.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lLFPw9TlYLJdyEAXcKTjvp9ihpz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v1rXdzSA2XV0n6IZ2znyTYobkvY.png"
-    },
-    {
-      "id": "tmdb:845781",
-      "type": "movie",
-      "name": "Red One",
-      "ids": {
-        "tmdb": 845781
-      },
-      "overview": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
-    },
-    {
       "id": "tmdb:808",
       "type": "movie",
       "name": "Shrek",
@@ -333,6 +333,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
+      "id": "tmdb:1237082",
+      "type": "movie",
+      "name": "31 Minutos: Calurosa Navidad",
+      "ids": {
+        "tmdb": 1237082
+      },
+      "overview": "Al periodista estrella de 31 Minutos, Juan Carlos Bodoque se le es encomendada la tarea de ir a recoger al Polo Norte los regalos de navidad de todo el pueblo de Titirilquén, sin embargo, la tentación al juego se hará presente en la misión de Bodoque. Mientras que Mario Hugo intenta montar un show navideño en el estudio de 31 minutos, pero todo termina saliendo mal.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/dv9UrOoicRiMGkzr2oj2YwSFY2K.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lLFPw9TlYLJdyEAXcKTjvp9ihpz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v1rXdzSA2XV0n6IZ2znyTYobkvY.png"
+    },
+    {
+      "id": "tmdb:240",
+      "type": "movie",
+      "name": "El Padrino Parte II",
+      "ids": {
+        "tmdb": 240
+      },
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
+    },
+    {
       "id": "tmdb:1186350",
       "type": "movie",
       "name": "Marco",
@@ -341,24 +369,10 @@
       },
       "overview": "El hijo adoptivo de la familia Adattu, Marco, se embarca en una despiadada búsqueda de venganza después de que su hermano es brutalmente asesinado, encontrando solo traición, pérdida y una brutalidad inimaginable a cada paso.",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iImp6DKftYKQob1r0aDVHbAhR5G.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fyT1X8DGW3MlwXjdAoZFCc183fZ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zp04i9bv8WMfzr7IUFcdXWDiAi3.png"
-    },
-    {
-      "id": "tmdb:1305717",
-      "type": "movie",
-      "name": "Zona de caza",
-      "ids": {
-        "tmdb": 1305717
-      },
-      "overview": "Una madre que huye de su marido, relacionado con la mafia, encuentra refugio en casa de un vagabundo llamado Jake, pero cuando los hombres de su marido se acercan, Jake resulta ser más peligroso que cualquiera de los que ella huye.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/u6DNzvz4y3XS5QYqsvvauIx4Xvc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9fNYJSpHNPUc9DfgudeHbsg5E3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wcj1G9DnomUt2B2FlyzNxzEcpbU.png"
     },
     {
       "id": "tmdb:361743",
@@ -389,18 +403,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:941109",
+      "id": "tmdb:13",
       "type": "movie",
-      "name": "Juego sucio",
+      "name": "Forrest Gump",
       "ids": {
-        "tmdb": 941109
+        "tmdb": 13
       },
-      "overview": "Un experto ladrón lleva a cabo el mayor robo de su vida. Parker, junto a Grofield, Zen y un equipo experto, se ven involucrados en un golpe que los enfrenta a la mafia de Nueva York en esta arriesgada misión.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg",
+      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fpPFrlZI7h59u20xnm6UELHe1C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8FYBuJbhWVMUjYkUcebfGPPicQx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tNVTWNa8cxZLw7aWvHzSDLyc7ig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tcEgFz24Evw3CPdPTBi1EQv7IyC.png"
+    },
+    {
+      "id": "tmdb:1305717",
+      "type": "movie",
+      "name": "Zona de caza",
+      "ids": {
+        "tmdb": 1305717
+      },
+      "overview": "Una madre que huye de su marido, relacionado con la mafia, encuentra refugio en casa de un vagabundo llamado Jake, pero cuando los hombres de su marido se acercan, Jake resulta ser más peligroso que cualquiera de los que ella huye.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/u6DNzvz4y3XS5QYqsvvauIx4Xvc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/y9fNYJSpHNPUc9DfgudeHbsg5E3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wcj1G9DnomUt2B2FlyzNxzEcpbU.png"
     },
     {
       "id": "tmdb:603692",
@@ -417,6 +445,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7EtVuIqlDIjn3IEpXeq9sF6wDp.png"
     },
     {
+      "id": "tmdb:569094",
+      "type": "movie",
+      "name": "Spider-Man: Cruzando el Multiverso",
+      "ids": {
+        "tmdb": 569094
+      },
+      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dqW4XklqnMOopW9MMmT2lmLN3dT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
+    },
+    {
+      "id": "tmdb:941109",
+      "type": "movie",
+      "name": "Juego sucio",
+      "ids": {
+        "tmdb": 941109
+      },
+      "overview": "Un experto ladrón lleva a cabo el mayor robo de su vida. Parker, junto a Grofield, Zen y un equipo experto, se ven involucrados en un golpe que los enfrenta a la mafia de Nueva York en esta arriesgada misión.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fpPFrlZI7h59u20xnm6UELHe1C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8FYBuJbhWVMUjYkUcebfGPPicQx.png"
+    },
+    {
       "id": "tmdb:680",
       "type": "movie",
       "name": "Pulp Fiction",
@@ -429,20 +485,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
-    },
-    {
-      "id": "tmdb:106646",
-      "type": "movie",
-      "name": "El lobo de Wall Street",
-      "ids": {
-        "tmdb": 106646
-      },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
       "id": "tmdb:861451",
@@ -459,132 +501,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kFMZLSkP7Jb8zPMP2AmZOXh4zkg.png"
     },
     {
-      "id": "tmdb:13",
-      "type": "movie",
-      "name": "Forrest Gump",
-      "ids": {
-        "tmdb": 13
-      },
-      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tNVTWNa8cxZLw7aWvHzSDLyc7ig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kjUupFukLAkxM40so0YfRGY5aHo.png"
-    },
-    {
-      "id": "tmdb:564",
-      "type": "movie",
-      "name": "La momia",
-      "ids": {
-        "tmdb": 564
-      },
-      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
-    },
-    {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
-    },
-    {
-      "id": "tmdb:569094",
-      "type": "movie",
-      "name": "Spider-Man: Cruzando el Multiverso",
-      "ids": {
-        "tmdb": 569094
-      },
-      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dqW4XklqnMOopW9MMmT2lmLN3dT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
-    },
-    {
-      "id": "tmdb:1156593",
-      "type": "movie",
-      "name": "Culpa tuya",
-      "ids": {
-        "tmdb": 1156593
-      },
-      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2wN6xbmMPFVqnhQkoxNBTB5djFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
-    },
-    {
-      "id": "tmdb:240",
-      "type": "movie",
-      "name": "El Padrino Parte II",
-      "ids": {
-        "tmdb": 240
-      },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
-      "id": "tmdb:640",
-      "type": "movie",
-      "name": "Atrápame si puedes",
-      "ids": {
-        "tmdb": 640
-      },
-      "overview": "Frank Abagnale Jr. trabajó como médico, abogado y copiloto de una de las grandes líneas aéreas, todo ello antes de cumplir los dieciocho años. También fue un genial falsificador y sus habilidades le otorgaron una plaza en la historia. A la edad de 17 años, Frank Abagnale Jr. se convirtió en el ladrón de bancos de más éxito en la historia de Estados Unidos. El agente del FBI Carl Hanratty dedicó la mayor parte de su tiempo a perseguir a Frank para llevarle ante la justicia, pero Frank siempre estaba un paso por delante, retándole a continuar la caza.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v6xZRHhkRAuS5PS7PWiTy965Ril.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
-    },
-    {
-      "id": "tmdb:749170",
-      "type": "movie",
-      "name": "Jefes de Estado",
-      "ids": {
-        "tmdb": 749170
-      },
-      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
-    },
-    {
-      "id": "tmdb:105",
-      "type": "movie",
-      "name": "Regreso al futuro",
-      "ids": {
-        "tmdb": 105
-      },
-      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
-    },
-    {
       "id": "tmdb:98",
       "type": "movie",
       "name": "Gladiator",
@@ -597,6 +513,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+    },
+    {
+      "id": "tmdb:1118031",
+      "type": "movie",
+      "name": "Apocalipsis Z: el principio del fin",
+      "ids": {
+        "tmdb": 1118031
+      },
+      "overview": "Cuando una especie de rabia que transforma a la gente en criaturas agresivas se extiende por el planeta, Manel se aísla en casa con su gato, recurriendo a su ingenio para sobrevivir; pero pronto deberán salir a buscar comida, por tierra y por mar, sorteando muchos peligros.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/jaBToJ1DZcwn5wOsQeLOXFVlBLn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gwNm3D4hj1xQvEmfZh2Sssok3EU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dBOtMMLbTgjQw3FVv7nCCPinjiO.png"
     },
     {
       "id": "tmdb:508",
@@ -613,32 +543,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2XMBZCDjHRShdEhUC5btOJazCos.png"
     },
     {
-      "id": "tmdb:168259",
+      "id": "tmdb:749170",
       "type": "movie",
-      "name": "Fast & Furious 7",
+      "name": "Jefes de Estado",
       "ids": {
-        "tmdb": 168259
+        "tmdb": 749170
       },
-      "overview": "Ha pasado un año desde que el equipo de Dominic Torreto y Brian pudiera regresar finalmente a Estados Unidos, tras ser indultados. Desean adaptarse a una vida en la legalidad, pero el entorno ya no es el mismo. Dom intenta acercarse a Letty, y Brian lucha para acostumbrarse a la vida en una urbanización con Mia y su hijo. Ninguno de ellos imagina que un frío asesino británico, entrenado para realizar operaciones secretas, se cruzará en sus vidas para convertirse en su mayor enemigo.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/jP0DU7uNkpnelNvH1LI3MCHEFgz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uONm0y5H1P3VCOVIH7sOeD2Vc0S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3l3JKL4SmvKY8DmIMdgnSXTMJAZ.png"
-    },
-    {
-      "id": "tmdb:1265063",
-      "type": "movie",
-      "name": "Caza de brujas",
-      "ids": {
-        "tmdb": 1265063
-      },
-      "overview": "Una profesora universitaria se encuentra en una encrucijada personal y profesional cuando una estudiante estrella acusa a uno de sus compañeros de trabajo y un oscuro secreto de su pasado amenaza con salir a la luz.",
+      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/3pjS6bkDl8zBC6jp6KjBZzxyofY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6pqwX2yEi4BMdYM7nisENYH6MVi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2OwnQJqK4BXHtJwFwvLoDl0VXBB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
     },
     {
       "id": "tmdb:545611",
@@ -655,32 +571,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
     },
     {
-      "id": "tmdb:1096563",
+      "id": "tmdb:1156593",
       "type": "movie",
-      "name": "Lealtad rota",
+      "name": "Culpa tuya",
       "ids": {
-        "tmdb": 1096563
+        "tmdb": 1156593
       },
-      "overview": "Tras el asesinato del líder de una poderosa familia criminal, su hijo Grant busca venganza. Su mejor amigo, Ray, un agente federal, es la única persona que puede frenarlo antes de que se destruya a sí mismo y a la ciudad.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/59FFBARbcTO2jPhzzKuITmNC74k.jpg",
+      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nRZxCsZFiEuCdW8eBLGFXGXe0W6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1h4kVGL2JL5D2iFfnSyzM9mmfv5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2wN6xbmMPFVqnhQkoxNBTB5djFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
     },
     {
-      "id": "tmdb:807",
+      "id": "tmdb:564",
       "type": "movie",
-      "name": "Seven",
+      "name": "La momia",
       "ids": {
-        "tmdb": 807
+        "tmdb": 564
       },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
     },
     {
       "id": "tmdb:1734",
@@ -695,6 +611,90 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4bON0uGExy9u9VifNuKF6OZqqA.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/pj6XmRqroMzRoF7pUMeNT2Q4Kt.png"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "movie",
+      "name": "Regreso al futuro",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
+    },
+    {
+      "id": "tmdb:217",
+      "type": "movie",
+      "name": "Indiana Jones y el reino de la calavera de cristal",
+      "ids": {
+        "tmdb": 217
+      },
+      "overview": "Indiana Jones y el joven Mutt se proponen encontrar la Calavera de Cristal de Akator. Los agentes soviéticos tienen ese mismo objetivo. Liderados por la bella Irina Spalko, creen que el artilugio ayudará a su país a dominar el mundo si consiguen descifrar su secreto.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/caC98g0VyWVztBStLu46rpKlbGw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/72AYG1Muic6pDyzwi2QLGHVf5QX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqOjP9jcWl7e73JD69TRDqsvHgp.png"
+    },
+    {
+      "id": "tmdb:218",
+      "type": "movie",
+      "name": "Terminator",
+      "ids": {
+        "tmdb": 218
+      },
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
+    },
+    {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
+    },
+    {
+      "id": "tmdb:1735",
+      "type": "movie",
+      "name": "La momia: La tumba del emperador Dragón",
+      "ids": {
+        "tmdb": 1735
+      },
+      "overview": "Condenados por una bruja traidora a permanecer en muerte aparente para la eternidad, el despiadado emperador chino Dragón y sus diez mil guerreros han esperado en su amplia tumba de barro, olvidados de todos, durante cientos de años, cual ejército de terracota. Pero cuando el joven aventurero y arqueólogo Alex O'Connel es engañado para que despierte de su sueño eterno al temible gobernante, no le queda más remedio que pedir ayuda a las únicas personas que saben más que él acerca de los no muertos: sus padres.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lHPqioc5S7q9eSgJ9JggDddU67v.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wjlp1juvBFeztAZoqGC7wwqK5N.png"
+    },
+    {
+      "id": "tmdb:75656",
+      "type": "movie",
+      "name": "Ahora me ves",
+      "ids": {
+        "tmdb": 75656
+      },
+      "overview": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia. Ellos son 'los cuatro jinetes', un grupo formado por los mejores ilusionistas del mundo, dedicado a realizar grandes robos contra hombres de negocios corruptos. Su gran golpe es pasar desapercibidos para hacer llover el dinero robado a su público. En un mundo de magia y espectáculo, nada es lo que parece.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sWJvXYEjQ5UHbhTvSjZGFPeABNe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s12Cs0MCfu8Z4FnRumGrMHiLOTt.png"
     }
   ]
 }
