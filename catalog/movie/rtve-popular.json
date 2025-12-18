@@ -1,32 +1,18 @@
 {
   "metas": [
     {
-      "id": "tmdb:901563",
+      "id": "tmdb:524",
       "type": "movie",
-      "name": "Close",
+      "name": "Casino",
       "ids": {
-        "tmdb": 901563
+        "tmdb": 524
       },
-      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "overview": "Las Vegas, 1973. Sam \"Ace\" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/7x8lsyTB0G7OrLzQ7qxt3ywQ4OY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bvsJCFklBZmgHsSwzDk9ZToLDXl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6kPq7RUQ1F09Q0C5jfcC2lLorck.png"
-    },
-    {
-      "id": "tmdb:490132",
-      "type": "movie",
-      "name": "Green Book",
-      "ids": {
-        "tmdb": 490132
-      },
-      "overview": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en \"El libro verde\", una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uE0BjP0Vn8BgZeRDT8aZKQjoRMb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dfzHfMu3VeHbb1SW8nrQf7Pncru.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2AnMaPHpbmg6dQdhdtMwmICx8dO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xBLs1V4UnVR1Gf4UJUNodQvwgt.png"
     },
     {
       "id": "tmdb:810",
@@ -43,6 +29,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
     },
     {
+      "id": "tmdb:490132",
+      "type": "movie",
+      "name": "Green Book",
+      "ids": {
+        "tmdb": 490132
+      },
+      "overview": "Años 60. Cuando Tony Lip, un rudo italoamericano del Bronx, es contratado como chófer del virtuoso pianista negro Don Shirley durante una gira de conciertos por el Sur de Estados Unidos, deberá confiar en \"El libro verde\", una guía de los pocos establecimientos seguros para los afroamericanos, para encontrar alojamiento. Son dos personas que tendrán que hacer frente al racismo y los prejuicios, pero a las que la bondad y el sentido del humor unirán, obligándoles a dejar de lado las diferencias para sobrevivir y prosperar en el viaje de su vida.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uE0BjP0Vn8BgZeRDT8aZKQjoRMb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dfzHfMu3VeHbb1SW8nrQf7Pncru.png"
+    },
+    {
+      "id": "tmdb:901563",
+      "type": "movie",
+      "name": "Close",
+      "ids": {
+        "tmdb": 901563
+      },
+      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bvsJCFklBZmgHsSwzDk9ZToLDXl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6kPq7RUQ1F09Q0C5jfcC2lLorck.png"
+    },
+    {
       "id": "tmdb:969492",
       "type": "movie",
       "name": "Misión hostil",
@@ -55,34 +69,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
-    },
-    {
-      "id": "tmdb:258751",
-      "type": "movie",
-      "name": "Por un puñado de besos",
-      "ids": {
-        "tmdb": 258751
-      },
-      "overview": "Sol (Ana de Armas) y Dani (Martiño Rivas) han quedado para su primera cita. Pero su conversación no es la habitual. Meses atrás, los sueños de Sol, una hermosa y sensible chica de veintiún años, se quebraron trágicamente, aunque descubrió que el amor era para ella una necesidad y emprendió la búsqueda de un alma gemela con quien compartir todo el tiempo que fuera posible. Sin embargo, Dani esconde un secreto que puede hacer añicos las ilusiones de Sol. ¿Podrán un puñado de besos cambiar sus vidas para siempre?",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/ZB5VeGnqGkxHboEGJtb4OWlao5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zflINJjHNhqDHsPjC3yokDld7Fk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yVVj4m27j5IShratuYSt6ANS1M.png"
-    },
-    {
-      "id": "tmdb:524",
-      "type": "movie",
-      "name": "Casino",
-      "ids": {
-        "tmdb": 524
-      },
-      "overview": "Las Vegas, 1973. Sam \"Ace\" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/7x8lsyTB0G7OrLzQ7qxt3ywQ4OY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2AnMaPHpbmg6dQdhdtMwmICx8dO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xBLs1V4UnVR1Gf4UJUNodQvwgt.png"
     },
     {
       "id": "tmdb:76492",
@@ -127,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wS3yUVvChVF3alXONQ8EGrF0A6r.svg"
     },
     {
-      "id": "tmdb:785084",
-      "type": "movie",
-      "name": "La ballena (The Whale)",
-      "ids": {
-        "tmdb": 785084
-      },
-      "overview": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h6VOaBqE2ft8fLbixG02NWM6dxQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
-    },
-    {
       "id": "tmdb:326198",
       "type": "movie",
       "name": "A cambio de nada",
@@ -152,230 +124,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/f35lcG2u9zRS4TXL99jUU1w0Yb5.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/22DPOIaIM59LJ41w65b97mBFkM7.jpg"
-    },
-    {
-      "id": "tmdb:256917",
-      "type": "movie",
-      "name": "El maestro del agua",
-      "ids": {
-        "tmdb": 256917
-      },
-      "overview": "Primera Guerra Mundial. Un hombre australiano viaja hasta Turquía tras la Batalla de Gallipoli para buscar a sus tres hijos desaparecidos.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/izgxihtqAFM3Z9DGBNXrgCVa2xt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qYaMWWBqaRvNSZjM5O0oYIKofkL.png"
-    },
-    {
-      "id": "tmdb:395834",
-      "type": "movie",
-      "name": "Wind River",
-      "ids": {
-        "tmdb": 395834
-      },
-      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cukehwDevWqOkqI21cJXJvmfXaq.png"
-    },
-    {
-      "id": "tmdb:55787",
-      "type": "movie",
-      "name": "Agua para elefantes",
-      "ids": {
-        "tmdb": 55787
-      },
-      "overview": "En la época de la Gran Depresión, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar para el circo de los hermanos Benzini como veterinario y encargado de los animales. El joven se enamora de Marlena, una amazona que está casada con August, el dueño del circo, un hombre tan carismático como retorcido... Adaptación del aclamado best-seller homónimo de Sara Gruen",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/ujtG1bbCZzbTZpZJQ4utoy9zHmh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wKXG4BHHSthND21nv7EhjNFBTLk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eRvuix9DXnpVVuOyurzodu0lHlK.png"
-    },
-    {
-      "id": "tmdb:833417",
-      "type": "movie",
-      "name": "A tiempo completo",
-      "ids": {
-        "tmdb": 833417
-      },
-      "overview": "Julie hace un esfuerzo titánico para criar a sus dos hijos en las afueras de París y conservar al mismo tiempo su empleo en un hotel de lujo en el centro. Justo cuando consigue una entrevista para el trabajo que llevaba tiempo deseando, estalla una huelga general que paraliza todo el transporte público y pone en riesgo el delicado equilibrio que Julie había construido. Comienza entonces una carrera enloquecida contra el tiempo en la que Julie no puede permitirse flaquear.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/wLaMF5805iDZF2FWKTWx8AISNQb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/udOgJbklMOmolF2cmNvKhODyXeM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wzqc4BIPjXDBGtMu9mcEsMF4wzE.png"
-    },
-    {
-      "id": "tmdb:97128",
-      "type": "movie",
-      "name": "El ángel de Budapest",
-      "ids": {
-        "tmdb": 97128
-      },
-      "overview": "Budapest, 1944, en plena Segunda Guerra Mundial (1939-1945). Adolf Eichman dirige la deportación masiva de judíos húngaros al campo de exterminio de Auschwitz. Ángel Sanz-Briz (Zaragoza, 1910-Roma, 1980), un diplomático de la embajada española en Budapest, utilizó todos los medios a su alcance para salvar el mayor número de vidas posible. Para ello, emitió miles de visados y pasaportes que garantizaban la inmunidad de sus portadores, que llegaron a burlar en ocasiones a las autoridades alemanas y a sus colaboradores húngaros. Su actividad cesó cuando, en diciembre de 1944, le ordenaron regresar a España. Había logrado salvar a casi 5.000 judíos. Desde entonces, se le conoce como \"El Ángel de Budapest\". En 1989 el Yad Vashem nombró \"Justos entre las Naciones\" a él y sus descendientes.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/cE0Q8XZusyyYQVmy9OldKYT97jL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r07fNDevj9xwK7IqUSspkk98B7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4SVcDVivFdkD3AoIeLf3JNgFRgF.png"
-    },
-    {
-      "id": "tmdb:10747",
-      "type": "movie",
-      "name": "El fuera de la ley",
-      "ids": {
-        "tmdb": 10747
-      },
-      "overview": "A punto de finalizar la Guerra de Secesión, un grupo de unionistas, liderados por el sádico capitán Terrill, asesina a la familia de un granjero llamado Joseph Wales. Movido por el odio y el deseo de venganza, se une a un grupo de rebeldes. Poco después, finaliza la contienda, el ejército de la Unión ofrece la amnistía a todas las guerrillas y sus compañeros aceptan. La rabia y el dolor siguen vivos dentro de Wales, y no se rendirá tan fácilmente.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/5TzrWk1mSoavRcdkNEhVpKftICv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lXnxXEzKxYi9hInTphLfJGWZQ9Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ttzgVaYGkfwmlphldsXBqlQLrZY.png"
-    },
-    {
-      "id": "tmdb:232572",
-      "type": "movie",
-      "name": "Un paseo por el bosque",
-      "ids": {
-        "tmdb": 232572
-      },
-      "overview": "Tras pasar dos décadas en Inglaterra, Bill Bryson regresa a los Estados Unidos con el fin de emprender la gran aventura de su vida: escalar los Apalaches, atravesando algunos de los paisajes más bellos del continente. En este viaje cuenta con la ayuda de un viejo amigo, que es el único loco dispuesto a acompañarlo. El único problema es que tienen una idea muy distinta de lo que significa \"aventura\". Adaptación de las memorias de Bryson, un conocido escritor de libros de viajes.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/w5wLafcCD4nNtQLKdQLg4rhynEt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lGnIIPqdJOjXr9TEhDVLhoFmAEk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9gk99oCIpI3OFxYoAjuVJ05Dxlk.png"
-    },
-    {
-      "id": "tmdb:517839",
-      "type": "movie",
-      "name": "Border",
-      "ids": {
-        "tmdb": 517839
-      },
-      "overview": "Tina es una agente de aduanas reconocida por su eficiencia y por su extraordinario olfato. Da la impresión de poder oler la culpabilidad de un individuo. Pero cuando Vore, un hombre aparentemente sospechoso, pasa junto a ella, sus habilidades se ponen a prueba por primera vez. Tina sabe que Vore oculta algo, pero no logra identificar qué es.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/lc6unrBltbkwtFLA32TDThyHHJS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p0R80tKFz326Y8gARVZ1GR7zKhL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lS0jcIt9zmywThzuSqmIpdqsp7G.png"
-    },
-    {
-      "id": "tmdb:133698",
-      "type": "movie",
-      "name": "Llévame a la luna",
-      "ids": {
-        "tmdb": 133698
-      },
-      "overview": "Una exitosa mujer con suerte en el amor trata de romper la maldición de su familia: el primer matrimonio termina en divorcio; para evitarlo, decide buscar a alguien al azar con quien casarse y divorciarse, antes de casarse con su querido novio.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/7ttzH31CwFJwJ8rmRNTuiCCYPYH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eNxV00fWQR2XtAuPNKRADCcAQP9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/j9LefQP1XOVl30g8VFoiPbUlDnK.png"
-    },
-    {
-      "id": "tmdb:820722",
-      "type": "movie",
-      "name": "El buen patrón",
-      "ids": {
-        "tmdb": 820722
-      },
-      "overview": "Blanco, un carismático propietario de una empresa que fabrica balanzas industriales en una ciudad española de provincias, espera la inminente visita de una comisión que decidirá su destino y la obtención de un premio local a la Excelencia Empresarial: todo tiene que estar perfecto para la visita. Sin embargo, todo parece conspirar contra él. Trabajando a contrarreloj, Blanco intenta resolver los problemas de sus empleados, cruzando para ello todas las líneas imaginables, dando lugar a una inesperada y explosiva sucesión de acontecimientos de imprevisibles consecuencias.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/kfUBHRYmbzkIw7lQZ3ZcptbW3VI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kD7DjFdG5roRIh3zmkI6OagSdOC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cKvlaXixYi5NgM3jq5Bu61qRd1q.png"
-    },
-    {
-      "id": "tmdb:458",
-      "type": "movie",
-      "name": "Sissi emperatriz",
-      "ids": {
-        "tmdb": 458
-      },
-      "overview": "Tras su boda en Viena, Sissi empieza su nueva vida como Emperatriz de Austria, pero pronto la rigidez del protocolo se convierte para ella en un verdadero problema. Entre ella y Sofia, su suegra, nace un profundo resentimiento que estalla en el cumpleaños de la hija de Sissi: Sofia, apelando a una antigua tradición de la Corte, se opone a que la niña sea criada por su madre. Al final llegan a un acuerdo, por el que Sissi podrá educar a su hija si se compromete a cumplir sus obligaciones cortesanas.",
-      "year": 1956,
-      "poster": "https://image.tmdb.org/t/p/w342/wpC1rTd3su1NQoeKsWV1vtXDaqx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9wq9EFa9ExZU8Is056MhZ7IipiJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1JlJB9O3TVA12qhSQhG1gqahFYN.png"
-    },
-    {
-      "id": "tmdb:838240",
-      "type": "movie",
-      "name": "Robot Dreams",
-      "ids": {
-        "tmdb": 838240
-      },
-      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
-    },
-    {
-      "id": "tmdb:769466",
-      "type": "movie",
-      "name": "Un año, una noche",
-      "ids": {
-        "tmdb": 769466
-      },
-      "overview": "Ramón y Céline son una joven pareja que se encuentra en el local Bataclan de París la noche del 13 de noviembre de 2015. Durante el asalto terrorista, ambos logran, cada uno por su lado, entrar en el camerino de los músicos y refugiarse allí. Al salir ya no son los mismos. Y no saben si podrán volver a serlo... Adaptación cinematográfica basada en el libro “Paz, amor y Death metal”, de Ramón González, superviviente del atentado terrorista en la sala de conciertos Bataclan de París.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/1E3lYdfsiWRe3pJrSGnYWUpiZ2W.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fgGnr6ci86O10qG94ZcRmyli8NK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p9VShKg7O5JKmaS6vS1l4R3vvcw.png"
-    },
-    {
-      "id": "tmdb:1002338",
-      "type": "movie",
-      "name": "Operación Napoleón",
-      "ids": {
-        "tmdb": 1002338
-      },
-      "overview": "Una abogada se involucró en una conspiración internacional después de ser acusada de un asesinato que no cometió. La única posibilidad de supervivencia radica en descubrir el secreto de un viejo avión alemán de la Segunda Guerra Mundial, descubierto en el glaciar más grande de Islandia.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/icDJzeudwaF5XVQsC3BJkTMT1Zj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTAbBVd48ngNEfXrZhGAtNbRbto.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xGAMFw6GLOdTBkUSJTSMOB00Jlc.png"
-    },
-    {
-      "id": "tmdb:136400",
-      "type": "movie",
-      "name": "2 Guns",
-      "ids": {
-        "tmdb": 136400
-      },
-      "overview": "Un agente de la DEA, Bobby Trench, y un oficial de la Inteligencia Naval, Michael Stigman, consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/A0osDL7XE6v8pseLPoo1P6TaiDx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6YHuU2P12GJ1AaLYZK0JEGVGiGt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qVdyMfblci5t969k3EnNsOQ2MKk.png"
-    },
-    {
-      "id": "tmdb:762",
-      "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
-      "ids": {
-        "tmdb": 762
-      },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
       "id": "tmdb:302156",
@@ -406,144 +154,158 @@
       "logo": "https://image.tmdb.org/t/p/w500/7JS6pqNTUUKyMgBWF0HXJmDP0jd.png"
     },
     {
-      "id": "tmdb:571648",
+      "id": "tmdb:10747",
       "type": "movie",
-      "name": "Nido de víboras",
+      "name": "El fuera de la ley",
       "ids": {
-        "tmdb": 571648
+        "tmdb": 10747
       },
-      "overview": "El destino de un mediocre grupo de desgraciados comienza a converger lentamente mientras se desmorona. Joong Man va tirando a duras penas trabajando en una sauna y cuidando de su madre enferma, hasta que encuentra en el vestuario una bolsa llena de dinero.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/mlXH7vDmBifbjQgVBYb97UCseWd.jpg",
+      "overview": "A punto de finalizar la Guerra de Secesión, un grupo de unionistas, liderados por el sádico capitán Terrill, asesina a la familia de un granjero llamado Joseph Wales. Movido por el odio y el deseo de venganza, se une a un grupo de rebeldes. Poco después, finaliza la contienda, el ejército de la Unión ofrece la amnistía a todas las guerrillas y sus compañeros aceptan. La rabia y el dolor siguen vivos dentro de Wales, y no se rendirá tan fácilmente.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/5TzrWk1mSoavRcdkNEhVpKftICv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8SPp11OFAferF7GnK9ATMihIMWp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/u8Ft5cZZi9C9ioNQI5Hn6TFtfz2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lXnxXEzKxYi9hInTphLfJGWZQ9Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ttzgVaYGkfwmlphldsXBqlQLrZY.png"
     },
     {
-      "id": "tmdb:583",
+      "id": "tmdb:785084",
       "type": "movie",
-      "name": "La vida de Brian",
+      "name": "La ballena (The Whale)",
       "ids": {
-        "tmdb": 583
+        "tmdb": 785084
       },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
-      "id": "tmdb:916405",
-      "type": "movie",
-      "name": "The Quiet Girl",
-      "ids": {
-        "tmdb": 916405
-      },
-      "overview": "La Irlanda rural, 1981. Cáit es una reservada niña de nueve años que está desatendida por parte de su pobre, disfuncional y demasiado numerosa familia. Se enfrenta en silencio con dificultades en la escuela y en casa, y ha aprendido a pasar desapercibida para cuantos la rodean. Cuando llega el verano y se acerca la fecha del parto de su madre, Cáit es enviada a vivir con unos parientes lejanos. Sin saber cuándo volverá a casa, se queda en el hogar de unos desconocidos sin más pertenencias que la ropa que lleva puesta. Poco a poco, y gracias a los cuidados de la familia Kinsella, Cáit realiza notables progresos y descubre una nueva forma de vivir. Pero en esta casa donde reina el afecto y no parece haber secretos, ella descubre una dolorosa verdad.",
+      "overview": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/9vEKZUiWUzJUz5naLrho1BLs54g.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5aPcvlzyc3E7Z5idAcTu1H88cB7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mD6kaV5PmZNoHTMHDq3lBIh49y1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/h6VOaBqE2ft8fLbixG02NWM6dxQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
     },
     {
-      "id": "tmdb:606",
+      "id": "tmdb:258751",
       "type": "movie",
-      "name": "Memorias de África",
+      "name": "Por un puñado de besos",
       "ids": {
-        "tmdb": 606
+        "tmdb": 258751
       },
-      "overview": "A principios del siglo XX Karen Blixen (Streep), una mujer europea de gran coraje, llega a Kenia para dirigir una plantación de café junto a su marido (Brandauer), un mujeriego incorregible con el que no se ha casado por amor. Para su sorpresa, Karen se da cuenta de que poco a poco se está enamorando de la tierra, de sus gentes... y de Denys Finch-Hatton (Redford), un enigmático cazador aventurero.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/lovoT4KeD7iyKcDMFo8Y8lFtCle.jpg",
+      "overview": "Sol (Ana de Armas) y Dani (Martiño Rivas) han quedado para su primera cita. Pero su conversación no es la habitual. Meses atrás, los sueños de Sol, una hermosa y sensible chica de veintiún años, se quebraron trágicamente, aunque descubrió que el amor era para ella una necesidad y emprendió la búsqueda de un alma gemela con quien compartir todo el tiempo que fuera posible. Sin embargo, Dani esconde un secreto que puede hacer añicos las ilusiones de Sol. ¿Podrán un puñado de besos cambiar sus vidas para siempre?",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/ZB5VeGnqGkxHboEGJtb4OWlao5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/edTCI3sNlHdKfGBqYjKKIbE0dtZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/un1o4JCx3UWnmS6a6coR8CFDHfC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zflINJjHNhqDHsPjC3yokDld7Fk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yVVj4m27j5IShratuYSt6ANS1M.png"
     },
     {
-      "id": "tmdb:388399",
+      "id": "tmdb:55787",
       "type": "movie",
-      "name": "Día de patriotas",
+      "name": "Agua para elefantes",
       "ids": {
-        "tmdb": 388399
+        "tmdb": 55787
       },
-      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
+      "overview": "En la época de la Gran Depresión, un joven estudiante de veterinaria se ve obligado a dejar sus estudios tras la muerte de sus padres. Empieza entonces a trabajar para el circo de los hermanos Benzini como veterinario y encargado de los animales. El joven se enamora de Marlena, una amazona que está casada con August, el dueño del circo, un hombre tan carismático como retorcido... Adaptación del aclamado best-seller homónimo de Sara Gruen",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/ujtG1bbCZzbTZpZJQ4utoy9zHmh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wKXG4BHHSthND21nv7EhjNFBTLk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eRvuix9DXnpVVuOyurzodu0lHlK.png"
     },
     {
-      "id": "tmdb:4543",
+      "id": "tmdb:395834",
       "type": "movie",
-      "name": "El sentido de la vida",
+      "name": "Wind River",
       "ids": {
-        "tmdb": 4543
+        "tmdb": 395834
       },
-      "overview": "Conjunto de episodios que muestran de forma disparatada los momentos más importantes del ciclo de la vida. Desde el nacimiento a la muerte, pasando por asuntos como la filosofía, la historia o la medicina, todo tratado con el inconfundible humor de los populares cómicos ingleses.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/tlM66Ms9pCo89W3TzEPk6mKloAj.jpg",
+      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymzDL8lBi5uU6o2El8qs5pjtfh5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ctPbBpLJ2lW6a6VjVWgF4no4M2d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cukehwDevWqOkqI21cJXJvmfXaq.png"
     },
     {
-      "id": "tmdb:596054",
+      "id": "tmdb:133698",
       "type": "movie",
-      "name": "La odisea de los giles",
+      "name": "Llévame a la luna",
       "ids": {
-        "tmdb": 596054
+        "tmdb": 133698
       },
-      "overview": "En un pueblo del Noroeste de la provincia de Buenos Aires, un grupo de vecinos se organiza para recuperar la economía de la zona, pero cuando el Corralito se implementa en el país y sufren un fraude, sus esperanzas desaparecen. Ahora, se unirán para recuperar el dinero perdido y dar el golpe de sus vidas a su mayor enemigo.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
+      "overview": "Una exitosa mujer con suerte en el amor trata de romper la maldición de su familia: el primer matrimonio termina en divorcio; para evitarlo, decide buscar a alguien al azar con quien casarse y divorciarse, antes de casarse con su querido novio.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/7ttzH31CwFJwJ8rmRNTuiCCYPYH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lcyxmF0WqcRncw86MfAO4yBxGSI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7lAvHZDOifP67yR7wkROWaRHNRk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eNxV00fWQR2XtAuPNKRADCcAQP9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/j9LefQP1XOVl30g8VFoiPbUlDnK.png"
     },
     {
-      "id": "tmdb:821494",
+      "id": "tmdb:517839",
       "type": "movie",
-      "name": "La última película",
+      "name": "Border",
       "ids": {
-        "tmdb": 821494
+        "tmdb": 517839
       },
-      "overview": "Samay, un niño de nueve años que vive con su familia en un pueblo remoto de la India, descubre el cine por primera vez y queda absolutamente hipnotizado. Contra los deseos de su padre, vuelve al cine día tras día y se hace amigo del proyeccionista que, a cambio de su comida, le deja ver películas gratis. Rápidamente se da cuenta de que las historias se convierten en luz, la luz en películas y las películas en sueños. Contagiados por la emoción, Samay y su inquieta pandilla, investigan sin descanso para intentar captar la luz y proyectarla para lograr ver películas de 35 mm. Juntos, utilizan un truco innovador y logran con éxito fabricar un aparato de proyección. Sin embargo, perseguir tus sueños a menudo significa dejar atrás las cosas que amas.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/a7J4M7TH0IhOPWUWdJNRmZ8Qr50.jpg",
+      "overview": "Tina es una agente de aduanas reconocida por su eficiencia y por su extraordinario olfato. Da la impresión de poder oler la culpabilidad de un individuo. Pero cuando Vore, un hombre aparentemente sospechoso, pasa junto a ella, sus habilidades se ponen a prueba por primera vez. Tina sabe que Vore oculta algo, pero no logra identificar qué es.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/lc6unrBltbkwtFLA32TDThyHHJS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vnHLbCKhcMqCrCA5eIPR963qroO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dv5zmASp4zINyu7IAldqWk4gud3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/p0R80tKFz326Y8gARVZ1GR7zKhL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lS0jcIt9zmywThzuSqmIpdqsp7G.png"
     },
     {
-      "id": "tmdb:8346",
+      "id": "tmdb:838240",
       "type": "movie",
-      "name": "Mi gran boda griega",
+      "name": "Robot Dreams",
       "ids": {
-        "tmdb": 8346
+        "tmdb": 838240
       },
-      "overview": "Todos los miembros de la familia Portokalos están preocupados por Toula (Nia Vardalos). A sus treinta años sigue soltera y trabaja en el restaurante griego de sus padres. Pero es que Toula aspira a algo más y está dispuesta a conseguirlo; su familia, por desgracia, no. Lo único que necesitaba Toula para cambiar su vida eran unas cuantas clases de informática, un par de lentillas y adoptar otra actitud. Cuando empieza a trabajar en la agencia de viajes de su tía, un apuesto desconocido se siente atraído por ella. Es Ian Miller (John Corbett), un profesor de instituto alto, guapo y sin una gota de sangre griega.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9aSO7qn51SEjLkAaSYnMcpX8ziV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
-    },
-    {
-      "id": "tmdb:978870",
-      "type": "movie",
-      "name": "Última noche en Milán",
-      "ids": {
-        "tmdb": 978870
-      },
-      "overview": "La noche antes de jubilarse, el teniente de policía Franco Amore es llamado para investigar la escena del crimen donde mataron a su mejor amigo y compañero de toda la vida, Dino.",
+      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
       "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/g0caMsvQ53w8PpzcaE3fkDSwl8W.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oZKQWDz6wP1bLZgPKwpcloU34sx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vMROEEcxunWtldi9xMzY4dRcwqB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
+    },
+    {
+      "id": "tmdb:769466",
+      "type": "movie",
+      "name": "Un año, una noche",
+      "ids": {
+        "tmdb": 769466
+      },
+      "overview": "Ramón y Céline son una joven pareja que se encuentra en el local Bataclan de París la noche del 13 de noviembre de 2015. Durante el asalto terrorista, ambos logran, cada uno por su lado, entrar en el camerino de los músicos y refugiarse allí. Al salir ya no son los mismos. Y no saben si podrán volver a serlo... Adaptación cinematográfica basada en el libro “Paz, amor y Death metal”, de Ramón González, superviviente del atentado terrorista en la sala de conciertos Bataclan de París.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/1E3lYdfsiWRe3pJrSGnYWUpiZ2W.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fgGnr6ci86O10qG94ZcRmyli8NK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p9VShKg7O5JKmaS6vS1l4R3vvcw.png"
+    },
+    {
+      "id": "tmdb:232572",
+      "type": "movie",
+      "name": "Un paseo por el bosque",
+      "ids": {
+        "tmdb": 232572
+      },
+      "overview": "Tras pasar dos décadas en Inglaterra, Bill Bryson regresa a los Estados Unidos con el fin de emprender la gran aventura de su vida: escalar los Apalaches, atravesando algunos de los paisajes más bellos del continente. En este viaje cuenta con la ayuda de un viejo amigo, que es el único loco dispuesto a acompañarlo. El único problema es que tienen una idea muy distinta de lo que significa \"aventura\". Adaptación de las memorias de Bryson, un conocido escritor de libros de viajes.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/w5wLafcCD4nNtQLKdQLg4rhynEt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lGnIIPqdJOjXr9TEhDVLhoFmAEk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gk99oCIpI3OFxYoAjuVJ05Dxlk.png"
+    },
+    {
+      "id": "tmdb:458",
+      "type": "movie",
+      "name": "Sissi emperatriz",
+      "ids": {
+        "tmdb": 458
+      },
+      "overview": "Tras su boda en Viena, Sissi empieza su nueva vida como Emperatriz de Austria, pero pronto la rigidez del protocolo se convierte para ella en un verdadero problema. Entre ella y Sofia, su suegra, nace un profundo resentimiento que estalla en el cumpleaños de la hija de Sissi: Sofia, apelando a una antigua tradición de la Corte, se opone a que la niña sea criada por su madre. Al final llegan a un acuerdo, por el que Sissi podrá educar a su hija si se compromete a cumplir sus obligaciones cortesanas.",
+      "year": 1956,
+      "poster": "https://image.tmdb.org/t/p/w342/wpC1rTd3su1NQoeKsWV1vtXDaqx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9wq9EFa9ExZU8Is056MhZ7IipiJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1JlJB9O3TVA12qhSQhG1gqahFYN.png"
     },
     {
       "id": "tmdb:234200",
@@ -560,32 +322,172 @@
       "logo": "https://image.tmdb.org/t/p/w500/kNfzlO8lUAXYmOxqdKn9kDxzbK6.png"
     },
     {
-      "id": "tmdb:2313",
+      "id": "tmdb:820722",
       "type": "movie",
-      "name": "Secretos compartidos",
+      "name": "El buen patrón",
       "ids": {
-        "tmdb": 2313
+        "tmdb": 820722
       },
-      "overview": "La vida de Rafi (Uma Thurman), una divorciada de 37 años de Manhattan, da un vuelco cuando empieza a salir con un pintor mucho más joven que ella. A pesar de la atracción que siente por él, la diferencia de edad le plantea dudas que la llevan a buscar el consejo de su psicoanalista (Meryl Streep). Ésta, al principio, la escucha con gran naturalidad y la anima a seguir adelante; pero, cuando descubre que el novio de su paciente es su hijo Dave (Bryan Greensberg), su actitud cambiará radicalmente.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tHtVlL9616NFcxntpKUVHZAOOe7.jpg",
+      "overview": "Blanco, un carismático propietario de una empresa que fabrica balanzas industriales en una ciudad española de provincias, espera la inminente visita de una comisión que decidirá su destino y la obtención de un premio local a la Excelencia Empresarial: todo tiene que estar perfecto para la visita. Sin embargo, todo parece conspirar contra él. Trabajando a contrarreloj, Blanco intenta resolver los problemas de sus empleados, cruzando para ello todas las líneas imaginables, dando lugar a una inesperada y explosiva sucesión de acontecimientos de imprevisibles consecuencias.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/kfUBHRYmbzkIw7lQZ3ZcptbW3VI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ4O4sAigf2kz23jYKmUa9dHQcU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mctddxzNJh6PQLbsr9BHtcrmEmG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kD7DjFdG5roRIh3zmkI6OagSdOC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKvlaXixYi5NgM3jq5Bu61qRd1q.png"
     },
     {
-      "id": "tmdb:262543",
+      "id": "tmdb:256917",
       "type": "movie",
-      "name": "Autómata",
+      "name": "El maestro del agua",
       "ids": {
-        "tmdb": 262543
+        "tmdb": 256917
       },
-      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "overview": "Primera Guerra Mundial. Un hombre australiano viaja hasta Turquía tras la Batalla de Gallipoli para buscar a sus tres hijos desaparecidos.",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/izgxihtqAFM3Z9DGBNXrgCVa2xt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ixJQ8u7lnCO1j7ldHAOzv3UF5Hz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qYaMWWBqaRvNSZjM5O0oYIKofkL.png"
+    },
+    {
+      "id": "tmdb:136400",
+      "type": "movie",
+      "name": "2 Guns",
+      "ids": {
+        "tmdb": 136400
+      },
+      "overview": "Un agente de la DEA, Bobby Trench, y un oficial de la Inteligencia Naval, Michael Stigman, consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/A0osDL7XE6v8pseLPoo1P6TaiDx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6YHuU2P12GJ1AaLYZK0JEGVGiGt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qVdyMfblci5t969k3EnNsOQ2MKk.png"
+    },
+    {
+      "id": "tmdb:97128",
+      "type": "movie",
+      "name": "El ángel de Budapest",
+      "ids": {
+        "tmdb": 97128
+      },
+      "overview": "Budapest, 1944, en plena Segunda Guerra Mundial (1939-1945). Adolf Eichman dirige la deportación masiva de judíos húngaros al campo de exterminio de Auschwitz. Ángel Sanz-Briz (Zaragoza, 1910-Roma, 1980), un diplomático de la embajada española en Budapest, utilizó todos los medios a su alcance para salvar el mayor número de vidas posible. Para ello, emitió miles de visados y pasaportes que garantizaban la inmunidad de sus portadores, que llegaron a burlar en ocasiones a las autoridades alemanas y a sus colaboradores húngaros. Su actividad cesó cuando, en diciembre de 1944, le ordenaron regresar a España. Había logrado salvar a casi 5.000 judíos. Desde entonces, se le conoce como \"El Ángel de Budapest\". En 1989 el Yad Vashem nombró \"Justos entre las Naciones\" a él y sus descendientes.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/cE0Q8XZusyyYQVmy9OldKYT97jL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r07fNDevj9xwK7IqUSspkk98B7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4SVcDVivFdkD3AoIeLf3JNgFRgF.png"
+    },
+    {
+      "id": "tmdb:833417",
+      "type": "movie",
+      "name": "A tiempo completo",
+      "ids": {
+        "tmdb": 833417
+      },
+      "overview": "Julie hace un esfuerzo titánico para criar a sus dos hijos en las afueras de París y conservar al mismo tiempo su empleo en un hotel de lujo en el centro. Justo cuando consigue una entrevista para el trabajo que llevaba tiempo deseando, estalla una huelga general que paraliza todo el transporte público y pone en riesgo el delicado equilibrio que Julie había construido. Comienza entonces una carrera enloquecida contra el tiempo en la que Julie no puede permitirse flaquear.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/wLaMF5805iDZF2FWKTWx8AISNQb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/udOgJbklMOmolF2cmNvKhODyXeM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzqc4BIPjXDBGtMu9mcEsMF4wzE.png"
+    },
+    {
+      "id": "tmdb:762",
+      "type": "movie",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
+      "ids": {
+        "tmdb": 762
+      },
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
+    },
+    {
+      "id": "tmdb:571648",
+      "type": "movie",
+      "name": "Nido de víboras",
+      "ids": {
+        "tmdb": 571648
+      },
+      "overview": "El destino de un mediocre grupo de desgraciados comienza a converger lentamente mientras se desmorona. Joong Man va tirando a duras penas trabajando en una sauna y cuidando de su madre enferma, hasta que encuentra en el vestuario una bolsa llena de dinero.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/mlXH7vDmBifbjQgVBYb97UCseWd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8SPp11OFAferF7GnK9ATMihIMWp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/u8Ft5cZZi9C9ioNQI5Hn6TFtfz2.png"
+    },
+    {
+      "id": "tmdb:8346",
+      "type": "movie",
+      "name": "Mi gran boda griega",
+      "ids": {
+        "tmdb": 8346
+      },
+      "overview": "Todos los miembros de la familia Portokalos están preocupados por Toula (Nia Vardalos). A sus treinta años sigue soltera y trabaja en el restaurante griego de sus padres. Pero es que Toula aspira a algo más y está dispuesta a conseguirlo; su familia, por desgracia, no. Lo único que necesitaba Toula para cambiar su vida eran unas cuantas clases de informática, un par de lentillas y adoptar otra actitud. Cuando empieza a trabajar en la agencia de viajes de su tía, un apuesto desconocido se siente atraído por ella. Es Ian Miller (John Corbett), un profesor de instituto alto, guapo y sin una gota de sangre griega.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9aSO7qn51SEjLkAaSYnMcpX8ziV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
+    },
+    {
+      "id": "tmdb:1002338",
+      "type": "movie",
+      "name": "Operación Napoleón",
+      "ids": {
+        "tmdb": 1002338
+      },
+      "overview": "Una abogada se involucró en una conspiración internacional después de ser acusada de un asesinato que no cometió. La única posibilidad de supervivencia radica en descubrir el secreto de un viejo avión alemán de la Segunda Guerra Mundial, descubierto en el glaciar más grande de Islandia.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/icDJzeudwaF5XVQsC3BJkTMT1Zj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTAbBVd48ngNEfXrZhGAtNbRbto.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xGAMFw6GLOdTBkUSJTSMOB00Jlc.png"
+    },
+    {
+      "id": "tmdb:916405",
+      "type": "movie",
+      "name": "The Quiet Girl",
+      "ids": {
+        "tmdb": 916405
+      },
+      "overview": "La Irlanda rural, 1981. Cáit es una reservada niña de nueve años que está desatendida por parte de su pobre, disfuncional y demasiado numerosa familia. Se enfrenta en silencio con dificultades en la escuela y en casa, y ha aprendido a pasar desapercibida para cuantos la rodean. Cuando llega el verano y se acerca la fecha del parto de su madre, Cáit es enviada a vivir con unos parientes lejanos. Sin saber cuándo volverá a casa, se queda en el hogar de unos desconocidos sin más pertenencias que la ropa que lleva puesta. Poco a poco, y gracias a los cuidados de la familia Kinsella, Cáit realiza notables progresos y descubre una nueva forma de vivir. Pero en esta casa donde reina el afecto y no parece haber secretos, ella descubre una dolorosa verdad.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/9vEKZUiWUzJUz5naLrho1BLs54g.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5aPcvlzyc3E7Z5idAcTu1H88cB7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mD6kaV5PmZNoHTMHDq3lBIh49y1.png"
+    },
+    {
+      "id": "tmdb:583",
+      "type": "movie",
+      "name": "La vida de Brian",
+      "ids": {
+        "tmdb": 583
+      },
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Día de patriotas",
+      "ids": {
+        "tmdb": 388399
+      },
+      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
     },
     {
       "id": "tmdb:457",
@@ -616,6 +518,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/8TYPSiAwsvXRZajOyKLajqtVT4j.png"
     },
     {
+      "id": "tmdb:821494",
+      "type": "movie",
+      "name": "La última película",
+      "ids": {
+        "tmdb": 821494
+      },
+      "overview": "Samay, un niño de nueve años que vive con su familia en un pueblo remoto de la India, descubre el cine por primera vez y queda absolutamente hipnotizado. Contra los deseos de su padre, vuelve al cine día tras día y se hace amigo del proyeccionista que, a cambio de su comida, le deja ver películas gratis. Rápidamente se da cuenta de que las historias se convierten en luz, la luz en películas y las películas en sueños. Contagiados por la emoción, Samay y su inquieta pandilla, investigan sin descanso para intentar captar la luz y proyectarla para lograr ver películas de 35 mm. Juntos, utilizan un truco innovador y logran con éxito fabricar un aparato de proyección. Sin embargo, perseguir tus sueños a menudo significa dejar atrás las cosas que amas.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/a7J4M7TH0IhOPWUWdJNRmZ8Qr50.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vnHLbCKhcMqCrCA5eIPR963qroO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dv5zmASp4zINyu7IAldqWk4gud3.png"
+    },
+    {
+      "id": "tmdb:606",
+      "type": "movie",
+      "name": "Memorias de África",
+      "ids": {
+        "tmdb": 606
+      },
+      "overview": "A principios del siglo XX Karen Blixen (Streep), una mujer europea de gran coraje, llega a Kenia para dirigir una plantación de café junto a su marido (Brandauer), un mujeriego incorregible con el que no se ha casado por amor. Para su sorpresa, Karen se da cuenta de que poco a poco se está enamorando de la tierra, de sus gentes... y de Denys Finch-Hatton (Redford), un enigmático cazador aventurero.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/lovoT4KeD7iyKcDMFo8Y8lFtCle.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/edTCI3sNlHdKfGBqYjKKIbE0dtZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/un1o4JCx3UWnmS6a6coR8CFDHfC.png"
+    },
+    {
+      "id": "tmdb:2313",
+      "type": "movie",
+      "name": "Secretos compartidos",
+      "ids": {
+        "tmdb": 2313
+      },
+      "overview": "La vida de Rafi (Uma Thurman), una divorciada de 37 años de Manhattan, da un vuelco cuando empieza a salir con un pintor mucho más joven que ella. A pesar de la atracción que siente por él, la diferencia de edad le plantea dudas que la llevan a buscar el consejo de su psicoanalista (Meryl Streep). Ésta, al principio, la escucha con gran naturalidad y la anima a seguir adelante; pero, cuando descubre que el novio de su paciente es su hijo Dave (Bryan Greensberg), su actitud cambiará radicalmente.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/tHtVlL9616NFcxntpKUVHZAOOe7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aJ4O4sAigf2kz23jYKmUa9dHQcU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mctddxzNJh6PQLbsr9BHtcrmEmG.png"
+    },
+    {
       "id": "tmdb:583794",
       "type": "movie",
       "name": "La ley de Teherán",
@@ -628,6 +572,47 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ubn9Em9G2aFNtogNGCR6IoDBqM.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eK48iRd1ah70qKCqnrsoPtMAJ2p.png"
+    },
+    {
+      "id": "tmdb:621744",
+      "type": "movie",
+      "name": "Entre nosotras",
+      "ids": {
+        "tmdb": 621744
+      },
+      "overview": "Nina y Madeleine, dos mujeres jubiladas, están secretamente enamoradas desde hace décadas. Aunque de cara a los demás, no son más que dos vecinas, ellas vienen y van de una casa a la otra, compartiendo la ternura de una vida en común. Hasta que un día, su relación se da la vuelta a causa de un suceso inesperado.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/lATXHy7S9mQi9xqrHYzmTqfc734.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ym2xIbKKm46Xe6kxNnFOhAb79yN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z0VyA4f4hGwzphU8y7ayeH3laYA.png"
+    },
+    {
+      "id": "tmdb:602863",
+      "type": "movie",
+      "name": "Viva la vida",
+      "ids": {
+        "tmdb": 602863
+      },
+      "overview": "Juan decide poner su casa como aval en un negocio que parece prometedor. Desafortunadamente, el hombre acaba perdiéndola. Ana, su mujer, sigue viviendo en la opulencia sin saber lo que le ha ocurrido a su marido hasta que toda la familia se traslada a la casa de los padres de este. Una vez allí, la pareja lidiará con la nueva situación de formas diferentes: mientras Juan sigue empeñado en encontrar el negocio que cambie todo, Ana decide centrar sus esfuerzos en el negocio familiar de la fontanería y en algún que otor trabajo extra.  La cinta está dirigida por José Luis García Berlanga (Los cuatro músicos de Bremen, Barrios altos) y está protagonizada por Pablo Chiapella (La que se avecina, Perdona si te llamo amor), Laura Romero y Guillermo Montesinos (Cuéntame como pasó, Parada en el infierno).",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/aPKkXhMLxMRk7KGdU1MPCKr50jU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xHUlviCG6sXV620lauaJ9OadLUA.jpg"
+    },
+    {
+      "id": "tmdb:262543",
+      "type": "movie",
+      "name": "Autómata",
+      "ids": {
+        "tmdb": 262543
+      },
+      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
     },
     {
       "id": "tmdb:1633",
@@ -644,6 +629,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
     },
     {
+      "id": "tmdb:596054",
+      "type": "movie",
+      "name": "La odisea de los giles",
+      "ids": {
+        "tmdb": 596054
+      },
+      "overview": "En un pueblo del Noroeste de la provincia de Buenos Aires, un grupo de vecinos se organiza para recuperar la economía de la zona, pero cuando el Corralito se implementa en el país y sufren un fraude, sus esperanzas desaparecen. Ahora, se unirán para recuperar el dinero perdido y dar el golpe de sus vidas a su mayor enemigo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lcyxmF0WqcRncw86MfAO4yBxGSI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7lAvHZDOifP67yR7wkROWaRHNRk.png"
+    },
+    {
       "id": "tmdb:511424",
       "type": "movie",
       "name": "La canción del marinero",
@@ -658,31 +657,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/vhxvzfnxrFHzVDerQxE0KDfV4mq.png"
     },
     {
-      "id": "tmdb:602863",
+      "id": "tmdb:978870",
       "type": "movie",
-      "name": "Viva la vida",
+      "name": "Última noche en Milán",
       "ids": {
-        "tmdb": 602863
+        "tmdb": 978870
       },
-      "overview": "Juan decide poner su casa como aval en un negocio que parece prometedor. Desafortunadamente, el hombre acaba perdiéndola. Ana, su mujer, sigue viviendo en la opulencia sin saber lo que le ha ocurrido a su marido hasta que toda la familia se traslada a la casa de los padres de este. Una vez allí, la pareja lidiará con la nueva situación de formas diferentes: mientras Juan sigue empeñado en encontrar el negocio que cambie todo, Ana decide centrar sus esfuerzos en el negocio familiar de la fontanería y en algún que otor trabajo extra.  La cinta está dirigida por José Luis García Berlanga (Los cuatro músicos de Bremen, Barrios altos) y está protagonizada por Pablo Chiapella (La que se avecina, Perdona si te llamo amor), Laura Romero y Guillermo Montesinos (Cuéntame como pasó, Parada en el infierno).",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/aPKkXhMLxMRk7KGdU1MPCKr50jU.jpg",
+      "overview": "La noche antes de jubilarse, el teniente de policía Franco Amore es llamado para investigar la escena del crimen donde mataron a su mejor amigo y compañero de toda la vida, Dino.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/g0caMsvQ53w8PpzcaE3fkDSwl8W.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xHUlviCG6sXV620lauaJ9OadLUA.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/oZKQWDz6wP1bLZgPKwpcloU34sx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vMROEEcxunWtldi9xMzY4dRcwqB.png"
     },
     {
-      "id": "tmdb:621744",
+      "id": "tmdb:999147",
       "type": "movie",
-      "name": "Entre nosotras",
+      "name": "La patria perdida",
       "ids": {
-        "tmdb": 621744
+        "tmdb": 999147
       },
-      "overview": "Nina y Madeleine, dos mujeres jubiladas, están secretamente enamoradas desde hace décadas. Aunque de cara a los demás, no son más que dos vecinas, ellas vienen y van de una casa a la otra, compartiendo la ternura de una vida en común. Hasta que un día, su relación se da la vuelta a causa de un suceso inesperado.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/lATXHy7S9mQi9xqrHYzmTqfc734.jpg",
+      "overview": "Serbia, 1996. Durante las manifestaciones estudiantiles contra el régimen de Milosević, Stefan, de 15 años, tiene que pasar por la revolución más dura de todas. Tiene que enfrentarse a su amada madre, portavoz y cómplice del gobierno corrupto contra el que se levantan sus amigos.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/rn7HvuLcQhji1E7CN4KjfzkiAqD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ym2xIbKKm46Xe6kxNnFOhAb79yN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z0VyA4f4hGwzphU8y7ayeH3laYA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pUHIwScKMyK83UjTC8lZSCgQGjn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vZA74Z1OAuTIX5665CsmLgAMS3H.png"
     },
     {
       "id": "tmdb:441701",
