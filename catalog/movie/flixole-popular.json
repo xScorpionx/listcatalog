@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:429",
-      "type": "movie",
-      "name": "El bueno, el feo y el malo",
-      "ids": {
-        "tmdb": 429
-      },
-      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tEzlu5U9gQrE55XF1piXPZBtOrD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
-    },
-    {
       "id": "tmdb:28178",
       "type": "movie",
       "name": "Siempre a tu lado",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+    },
+    {
+      "id": "tmdb:429",
+      "type": "movie",
+      "name": "El bueno, el feo y el malo",
+      "ids": {
+        "tmdb": 429
+      },
+      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tEzlu5U9gQrE55XF1piXPZBtOrD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
     },
     {
       "id": "tmdb:9769",
@@ -57,18 +57,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/xxucMCBH6h3iJ0Jc8JtVFNnen65.png"
     },
     {
-      "id": "tmdb:9886",
+      "id": "tmdb:678",
       "type": "movie",
-      "name": "Johnny Mnemonic",
+      "name": "Retorno al pasado",
       "ids": {
-        "tmdb": 9886
+        "tmdb": 678
       },
-      "overview": "Johnny, un joven del siglo XXI con chips implantados, se gana la vida transportando datos valiosos que almacena en su cerebro. Dos científicos lo contratan para que haga de mensajero de una información robada. Demasiado material para su capacidad de almacenaje, pero Johnny no duda en inyectarse una ampliación de memoria y cumplir con el encargo. Sin embargo, debe acabar el trabajo y deshacerse de ese material si no quiere morir a causa de la sobrecarga. La vida se le complica cuando una organización criminal desea hacerse con la información o, lo que es lo mismo, con su cabeza.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/olwvW2UMiZpgPOgU2H6wpu9KRh9.jpg",
+      "overview": "Jeff Bailey, un antiguo detective, regenta una gasolinera en un pequeño pueblo, donde lleva una vida tranquila y sencilla. Sus amores son la pesca y una jovencita con la que quiere casarse. Inesperadamente, recibe la visita de un viejo conocido que le anuncia que el jefe quiere verlo. Bailey se ve entonces obligado a contarle a su novia su turbio pasado.",
+      "year": 1947,
+      "poster": "https://image.tmdb.org/t/p/w342/lVrSynBqsFZVKbRKaaP0YQW2ccg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ytnE8v8sAdecDo9YMWgRoWJfYgU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pFFdAhHM80zzWPW84su8p2Y9LWR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4gqMB9qiVTOf66DFYzUCO6SuGYl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gL4dhdReVfIhfUQGuniWjEXR2vi.png"
+    },
+    {
+      "id": "tmdb:439",
+      "type": "movie",
+      "name": "La dolce vita",
+      "ids": {
+        "tmdb": 439
+      },
+      "overview": "Marcello Rubini es un desencantado periodista romano, en busca de celebridades, que se mueve con insatisfacción por las fiestas nocturnas que celebra la burguesía de la época. Merodea por distintos lugares de Roma, siempre rodeado de todo tipo de personajes, especialmente de la élite de la sociedad italiana. En una de sus salidas se entera de que Sylvia, una célebre diva del mundo del cine, llega a Roma, cree que ésta es una gran oportunidad para conseguir una gran noticia, y, en consecuencia, la perseguirá por las noches por diferentes lugares de la ciudad.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/zjtrLL2cFlBWnAL1z4qrokRU0ZT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iyPl8F0YTgxj1FvHjF0cOqlFCpk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nUWfWZzDLh6YSugJTUJXhb3kIa.png"
+    },
+    {
+      "id": "tmdb:204922",
+      "type": "movie",
+      "name": "No confíes en nadie",
+      "ids": {
+        "tmdb": 204922
+      },
+      "overview": "Christine sufre las secuelas de un terrible accidente: sólo tiene recuerdos durante un día. Cada mañana tiene que aprender a recordar su vida junto a su marido Ben y a recuperar todos los momentos que su memoria elimina mientras duerme. Un día Christine se da cuenta de que algo en la imagen que va formando su vida no encaja en el rompecabezas.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/89btN5XPSFzMBWvCkpMsw9sAMr2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Qf366kUqyfGkB7Q3vqlB8I0VIR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5aZ35Lwu74Moe3S3JMZRvYtVw7L.png"
     },
     {
       "id": "tmdb:28468",
@@ -113,466 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9Q4N5NPn0IGMul6gpWwOj7rijWp.png"
     },
     {
-      "id": "tmdb:403",
+      "id": "tmdb:9886",
       "type": "movie",
-      "name": "Paseando a Miss Daisy",
+      "name": "Johnny Mnemonic",
       "ids": {
-        "tmdb": 403
+        "tmdb": 9886
       },
-      "overview": "Miss Daisy (Jessica Tandy), una antipática profesora jubilada de 72 años, decide comprarse un coche. Su hijo, temiendo un posible caos circulatorio o, peor aún, un accidente, contrata a un chófer negro para que conduzca el vehículo. Al principio, la anciana y el tranquilo conductor no se llevan demasiado bien.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/ffg0xZcdZvcRvjauf86YJFa2q2A.jpg",
+      "overview": "Johnny, un joven del siglo XXI con chips implantados, se gana la vida transportando datos valiosos que almacena en su cerebro. Dos científicos lo contratan para que haga de mensajero de una información robada. Demasiado material para su capacidad de almacenaje, pero Johnny no duda en inyectarse una ampliación de memoria y cumplir con el encargo. Sin embargo, debe acabar el trabajo y deshacerse de ese material si no quiere morir a causa de la sobrecarga. La vida se le complica cuando una organización criminal desea hacerse con la información o, lo que es lo mismo, con su cabeza.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/olwvW2UMiZpgPOgU2H6wpu9KRh9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/45zOLYLSTndb4c72BqkX4LIl9Y3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qtsoliIhL80GWlmioQ1uULHCTwY.png"
-    },
-    {
-      "id": "tmdb:204922",
-      "type": "movie",
-      "name": "No confíes en nadie",
-      "ids": {
-        "tmdb": 204922
-      },
-      "overview": "Christine sufre las secuelas de un terrible accidente: sólo tiene recuerdos durante un día. Cada mañana tiene que aprender a recordar su vida junto a su marido Ben y a recuperar todos los momentos que su memoria elimina mientras duerme. Un día Christine se da cuenta de que algo en la imagen que va formando su vida no encaja en el rompecabezas.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/89btN5XPSFzMBWvCkpMsw9sAMr2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Qf366kUqyfGkB7Q3vqlB8I0VIR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5aZ35Lwu74Moe3S3JMZRvYtVw7L.png"
-    },
-    {
-      "id": "tmdb:25376",
-      "type": "movie",
-      "name": "El secreto de sus ojos",
-      "ids": {
-        "tmdb": 25376
-      },
-      "overview": "Argentina. Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pLmMJrMeFLT766X2V15eA9FhEjP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mxr9Gaur6qtlAU8jyxhqUa8YFvx.png"
-    },
-    {
-      "id": "tmdb:5156",
-      "type": "movie",
-      "name": "Ladrón de bicicletas",
-      "ids": {
-        "tmdb": 5156
-      },
-      "overview": "En la Roma de la posguerra, un obrero sin empleo consigue un sencillo trabajo pegando carteles a condición de que posea una bicicleta. Obra maestra del neorrealismo italiano que forma junto con \"Umberto D.\" y \"Miracolo a Milano\" la famosa trilogía de De Sica.",
-      "year": 1948,
-      "poster": "https://image.tmdb.org/t/p/w342/sGtsVXiAo6Qdim50JI9oWg2OMYv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kcirw5ZVgSvsG59ESoiCvoAyK4b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uSfZtsnmBPkVzsS8PzECyLhmRYt.png"
-    },
-    {
-      "id": "tmdb:22705",
-      "type": "movie",
-      "name": "Transgressing",
-      "ids": {
-        "tmdb": 22705
-      },
-      "overview": "Carla es una joven atractiva y despreocupada de Venecia, que va a Londres para buscar un piso que compartir con su amante Matteo. En Londres, Moira, una funcionaria del estado, seduce a Carla... y ella es cautivada... Carla decide no decir nada a Matteo, y comienza a mentirle. Matteo se pone muy celoso, se imagina aventuras eróticas de Carla y abandona su viaje a Londres. Tarde o temprano, Matteo realmente va a Londres donde se enfrenta a Carla... cuyas revelaciones le hacen despertar...",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/poa998sFasJX2XQtCTLiXvis6aE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/haqFVSBvaWR6ZfKKDHkpxp9eYbh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bWX37ZIsatTGVTGnIccjAjHyd0X.png"
-    },
-    {
-      "id": "tmdb:144069",
-      "type": "movie",
-      "name": "La criada",
-      "ids": {
-        "tmdb": 144069
-      },
-      "overview": "Anna (Guerin), la hermosa esposa de un abogado, se siente abandonada por este, por lo que decide irse unos días con su sirvienta (Michelsen) al pueblo natal de esta. A partir de este momento comenzará una extraña relación entre ellas.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/s9pXocmKhkvLazafoL0oUGIn3Me.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p2bq3g5YfkWIKCjV5i289brZsJR.jpg"
-    },
-    {
-      "id": "tmdb:26165",
-      "type": "movie",
-      "name": "Juana la Loca",
-      "ids": {
-        "tmdb": 26165
-      },
-      "overview": "Isabel la Católica envía a su hija Juana a Flandes para que se case con Felipe el Hermoso. Se trata de un matrimonio de carácter político que sirve para sellar y garantizar una alianza dinástica entre los Reyes Católicos y el emperador de Alemania Maximiliano I, con el fin de aislar a Francia. Siguiendo la misma política, se había concertado el matrimonio de Catalina y Enrique VIII de Inglaterra. Sin embargo, Juana, locamente enamorada de su marido, no podía soportar sus infidelidades; su amor desmedido por él desembocaba frecuentemente en terribles y enfermizos ataques de celos. Esta situación unida a las intrigas de la corte contribuyeron a deteriorar la relación matrimonial",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/kgPW2uIIzkIKEIvrU7WKprJgVsI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvQyyz2kfy8uBDKLwe2WnBhfrnH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lzZq8l1WiQHUjbd96BAmWW1f7BF.png"
-    },
-    {
-      "id": "tmdb:20345",
-      "type": "movie",
-      "name": "El pájaro de las plumas de cristal",
-      "ids": {
-        "tmdb": 20345
-      },
-      "overview": "Sam Dalmas, un joven escritor americano, está a punto de marcharse de Roma para volver a Estados Unidos. La noche antes de su marcha asiste a la agresión de Monica Ranieri: alguien la apuñala y desaparece en la oscuridad. El comisario Morosini es encargado de la investigación e informa a Sam de la posible presencia de un asesino en serie en la ciudad: la misma persona que ya ha matado con arma blanca a tres chicas podría haber intentado apuñalar a Monica. Sam decide aplazar su marcha e investigar por su cuenta…",
-      "year": 1970,
-      "poster": "https://image.tmdb.org/t/p/w342/xSZdOoF2NSkjnW73DxbX50VBoZq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/20C581cqNZryOCxihqrDKd6Ef0w.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jcX5cDLlAqSlNfwpfoojA0jAmTm.png"
-    },
-    {
-      "id": "tmdb:96190",
-      "type": "movie",
-      "name": "¡Por fin solos!",
-      "ids": {
-        "tmdb": 96190
-      },
-      "overview": "Arturo está casado con Elena y tiene cuatro hijos ya mayores. Cuatro maravillosos hijos, la alegría de cualquier padre. Sólo que aún viven en casa. Arturo es escritor y ése es un trabajo que requiere paz, silencio y concentración, precisamente lo que no existe en casa de Arturo. Su editor, que es también amigo y confidente, le abre los ojos: lo que sucede es que tiene al enemigo dentro de casa. Debe iniciar la reconquista del territorio perdido y convencer a sus hijos de que deben empezar una nueva vida fuera del hogar familiar. En complicidad con Elena, Arturo decide emprender una especie de guerra de guerrillas contra los invasores, cortándoles los suministros de alimentación y las fuentes de energía. Pero los chicos no se dan por vencidos fácilmente.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/AtaTil1EEuSGH3k64MHxaRFf933.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i252NXIIyu6aldAFoCN0N89aNPY.jpg"
-    },
-    {
-      "id": "tmdb:616803",
-      "type": "movie",
-      "name": "Atrapada en las profundidades",
-      "ids": {
-        "tmdb": 616803
-      },
-      "overview": "Las hermanastras Ida y Tuva sufren un accidente durante una sesión de buceo invernal en el norte de Noruega. Tuva queda atrapada a 30 metros de profundidad e Ida tendrá que poner a prueba sus habilidades para manejar la crisis. Sin ayuda del mundo exterior las hermanas deben resolver la situación por sus propios medios.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/AidObUi3HgGzeImeuhJiSHTJKLo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Rkug9cDjRzSZbkZvFJuua5ghfA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x0nENDmNgB5551viXkkMvxQsvuA.png"
-    },
-    {
-      "id": "tmdb:5176",
-      "type": "movie",
-      "name": "El tren de las 3:10",
-      "ids": {
-        "tmdb": 5176
-      },
-      "overview": "Remake del film de 1957 \"El Tren de las 3:10\", de Delmer Daves. Dan Evans es un típico ranchero de un pueblo de Arizona y veterano de la Guerra de Secesión que, para aliviar sus penurias económicas, decide escoltar al peligroso forajido Ben Wade mientras llega el tren que tiene que llevarlo ante la justicia. Pero no todo saldrá bien y la violencia no tardará en aparecer: durante ese tiempo se inicia una dramática lucha psicológica entre ambos hombres mientras las compañeros del forajido intentan liberarle.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/etmnvALqhRmG8oa061VUODSUiwK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/n3Er87cxpAKHNxef7bCqEwZicD7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rXohNmo6iK8LjTJCYxOYmnMVGeB.png"
-    },
-    {
-      "id": "tmdb:44114",
-      "type": "movie",
-      "name": "Castillos de cartón",
-      "ids": {
-        "tmdb": 44114
-      },
-      "overview": "\"Castillos de cartón\" es la historia del triángulo amoroso de tres estudiantes de Bellas Artes. María José estudia pintura en la Facultad de Bellas Artes de una gran ciudad. Una mañana, mientras prepara un lienzo para clase, Jaime, uno de sus compañeros, dibuja su retrato sin que ella se dé cuenta. Junto a él, admirando su capacidad para el dibujo, está Marcos, el alumno de más talento de su promoción. María José espera que Jaime le regale el retrato, pero después de mostrárselo él, inesperadamente, se lo guarda. María José, Jaime y Marcos compartirán su pasión por la pintura y algo más, una historia de amor que durará hasta que la época de aprendizaje termine y deban enfrentarse al mundo real.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/s8d75Wu4UI7Mj3oLkN1YLlbR5qw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gRLLj1qQwERu3EOApCiCYCz5fK4.jpg"
-    },
-    {
-      "id": "tmdb:144274",
-      "type": "movie",
-      "name": "Al servicio de la mujer española",
-      "ids": {
-        "tmdb": 144274
-      },
-      "overview": "Irene (Marilina Ross) es locutora de un consultorio sentimental. Un día escribe \"Soledad\", que en realidad es un hombre (Adolfo Marsillach), y tras varias visicitudes deciden conocerse personalmente.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/xgvo71rDlgr5w6tASu7FWaWgvyD.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:678",
-      "type": "movie",
-      "name": "Retorno al pasado",
-      "ids": {
-        "tmdb": 678
-      },
-      "overview": "Jeff Bailey, un antiguo detective, regenta una gasolinera en un pequeño pueblo, donde lleva una vida tranquila y sencilla. Sus amores son la pesca y una jovencita con la que quiere casarse. Inesperadamente, recibe la visita de un viejo conocido que le anuncia que el jefe quiere verlo. Bailey se ve entonces obligado a contarle a su novia su turbio pasado.",
-      "year": 1947,
-      "poster": "https://image.tmdb.org/t/p/w342/lVrSynBqsFZVKbRKaaP0YQW2ccg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4gqMB9qiVTOf66DFYzUCO6SuGYl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gL4dhdReVfIhfUQGuniWjEXR2vi.png"
-    },
-    {
-      "id": "tmdb:287948",
-      "type": "movie",
-      "name": "Transporter legacy",
-      "ids": {
-        "tmdb": 287948
-      },
-      "overview": "En los bajos fondos de Francia, Frank Martin (Ed Skrein) es conocido como «Transporter», el mejor conductor y mercenario que se puede comprar con dinero. Frank se rige por tres simples reglas: sin nombres, sin preguntas y sin renegociaciones, y transporta cualquier cosa por el precio adecuado. Hasta que conoce a la misteriosa mujer fatal llamada Anna (Loan Chabanol), que lidera un grupo de mortíferos asaltantes y que no se detendrá ante nada con tal de acabar con una despiadada banda rusa de traficantes humanos. Anna sabe que Frank es el mejor en su trabajo y, para asegurarse su colaboración, mantiene rehén a su padre (Ray Stevenson). Ahora, padre e hijo se verán obligados a trabajar con Anna para llevar a esta peligrosa banda ante la justicia.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a4bZTOtKE3bVUMtFnRshQ06sPV4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/adhVywytbACAS1ohePjpDHLoJsk.png"
-    },
-    {
-      "id": "tmdb:335216",
-      "type": "movie",
-      "name": "Dulces horas",
-      "ids": {
-        "tmdb": 335216
-      },
-      "overview": "Juan, convencido de que su vida está marcada por la influencia del recuerdo, decide reconstruir minuciosamente su pasado...",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/ubwDNRoLHM6ON2pMtLM4PLsguee.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uQQ9U0co9whx8FGKASvXW7woLP0.jpg"
-    },
-    {
-      "id": "tmdb:257025",
-      "type": "movie",
-      "name": "Carta de amor de un asesino",
-      "ids": {
-        "tmdb": 257025
-      },
-      "overview": "Un hombre ha entrado en un bar y, a sangre fria, ha disparado un revólver sobre cuatro clientes que bebían en la barra. Cometido el cuádruple asesinato, huye. Al día siguiente toda la ciudad habla del caso y de que el asesino continúa sin ser localizado por la policía. Blanca, la directora de la Biblioteca Municipal, recibe una carta de Antonio, un socio del centro, al que ella no recuerda. La confiesa su apasionado amor, e insinúa cierta relación entre sus sentimientos y el crimen que acaba de cometer.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/lf18N0E2t6GrRVDBQmDf6dKA0iE.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:136939",
-      "type": "movie",
-      "name": "Vamos por la parejita",
-      "ids": {
-        "tmdb": 136939
-      },
-      "overview": "Hace muchos años que Juan desea tener un hijo varón. Tiene siete hijas, de las casadas no le han dado más que nietas, por lo que vive angustiado rodeado de un mundo femenino y, en plena locura, decide mantener relaciones con una viuda que le promete tener un hijo, puesto que toda su descendencia anterior han sido varones.",
-      "year": 1969,
-      "poster": "https://image.tmdb.org/t/p/w342/stNpVSMZtA7uiXwXRCdjrcS3pk7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rx0Suawp6WEJQMCxitq8AxpOuQs.jpg"
-    },
-    {
-      "id": "tmdb:10316",
-      "type": "movie",
-      "name": "Los idus de marzo",
-      "ids": {
-        "tmdb": 10316
-      },
-      "overview": "Stephen Meyers es un idealista y brillante comunicador. Es el segundo de a bordo de la campaña presidencial del gobernador Mike Morris, en quien confía ciegamente. Durante las primarias de Ohio, Tom Duffy, el jefe de campaña del máximo oponente de Morris, ofrece a Meyers un puesto de trabajo. Al mismo tiempo, las negociaciones de Morris para conseguir el apoyo adicional de un senador de Carolina del Sur se estancan. Y la joven becaria Molly Sterns capta la atención de Stephen. Los republicanos guardan varios ases bajo la manga, Meyers puede haberse confiado en exceso y Molly guarda un secreto. ¿Qué es más importante: la carrera, la victoria o la verdad?",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/q0kIH8jo6wlILNozAkcNOFqEuZO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nBr2QKJP9z2qh93GwikuUGZnN02.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hr0Y0nwr04ErKGj0NUvcTohELKr.png"
-    },
-    {
-      "id": "tmdb:36102",
-      "type": "movie",
-      "name": "Almas sin conciencia",
-      "ids": {
-        "tmdb": 36102
-      },
-      "overview": "Tres estafadores que operan en Roma, Augusto, Roberto y Picasso, preparan un golpe con la ayuda de otro timador, conocido con el sobrenombre de \"El Barón\". Éste les espera en una solitaria carretera para entregarles las instrucciones. El trío llega a una casa de campo donde, aprovechándose de la buena fe de unas pobres mujeres, les estafan cerca de medio millón de liras.",
-      "year": 1955,
-      "poster": "https://image.tmdb.org/t/p/w342/aRlA9tE6ZhiFIKf9aAYOHZ7xanR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tzb3epsqaSJMiBwKtK4GtW25ryq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AbTWTyIhTg04tui8IkRLIxq0ZSM.png"
-    },
-    {
-      "id": "tmdb:37347",
-      "type": "movie",
-      "name": "Fort Apache",
-      "ids": {
-        "tmdb": 37347
-      },
-      "overview": "Owen Thursday, general durante la Guerra civil (1861-1865) y recientemente degradado, llega a Fort Apache como teniente coronel acompañado de su bella hija Philadelphia para hacerse cargo del mando. Fort Apache, situado en medio del desierto, es un puesto militar fronterizo y sus soldados estan curtidos en las luchas contra los apaches mescaleros.",
-      "year": 1948,
-      "poster": "https://image.tmdb.org/t/p/w342/cYzS9G8zrrm5NjONCuuxbTzDYsk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/us52FnxXY6H6V7q62ZiEnO5bE97.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gYwetaZojb2lsBCU8qGwXs9eZPv.png"
-    },
-    {
-      "id": "tmdb:12648",
-      "type": "movie",
-      "name": "Agentes secretos",
-      "ids": {
-        "tmdb": 12648
-      },
-      "overview": "Un agente secreto, viajando a tierras exóticas, cambiando de identidad, encabezando misiones altamente confidenciales...  aunque, por debajo de la excitación y el peligro, él trata con una existencia solitaria. Cada misión nueva es un juego más peligroso.  \"Agentes secretos\" nos lleva a un viaje por África y Beirut, a elegantes capitales como París y Ginebra, donde la lujuria, las drogas,  redes de contrabando, sofisticados chips de ordenador y asesinatos están a la orden del día.  Cuando el poder y el dinero están involucrados ¿En quién se puede confiar?",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/jPYIxkwxQLi5Kx25WElsgzG79Q8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ux4HpKKilst54SDiw4DPQAdGT3R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wHGltle5HIWjaaRgzih7tm85jWg.png"
-    },
-    {
-      "id": "tmdb:269",
-      "type": "movie",
-      "name": "Al final de la escapada",
-      "ids": {
-        "tmdb": 269
-      },
-      "overview": "Michel Poiccard es un ex-figurante de cine admirador de Bogart. Tras robar un coche en Marsella para ir a París, mata fortuitamente a un motorista de la policía. Sin remordimiento alguno por lo que acaba de hacer, prosigue el viaje. En París, tras robar dinero a una amiga, busca a Patricia, una joven burguesa americana, que aspira a ser escritora y vende el New York Herald Tribune por los Campos Elíseos; sueña también con matricularse en la Sorbona y escribir algún día en ese periódico. En Europa cree haber hallado la libertad que no conoció en América. Lo que Michel ignora es que la policía lo está buscando por la muerte del motorista.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/s5Ok06Q4M2cWAZGqtR5Au8o64YJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/npZS2cKv8FQnooVm6GNXNRzHBJD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/otRbKDIjgNRRSPdZhPx3oXh6kFE.png"
-    },
-    {
-      "id": "tmdb:212304",
-      "type": "movie",
-      "name": "El dinero tiene miedo",
-      "ids": {
-        "tmdb": 212304
-      },
-      "overview": "Juan es un pícaro que convence a dos amigos para que le confíen su dinero, asegurándoles que lo va a colocar en Suiza en muy buenas condiciones, pero su plan tropezará con ciertas dificultades.",
-      "year": 1970,
-      "poster": "https://image.tmdb.org/t/p/w342/eEueNv6e3E9UidRaPwiVBNUofd6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aZnjQo6WesMnRrmA3wiKOZ65Lbj.jpg"
-    },
-    {
-      "id": "tmdb:136394",
-      "type": "movie",
-      "name": "¡Viva la muerte... tuya!",
-      "ids": {
-        "tmdb": 136394
-      },
-      "overview": "Dmitri Vassilovich Orlowsky, un príncipe ruso, corre tras la pista de un tesoro sepultado en la región de Piedras Negras, en México. El único que puede ayudarle a localizar el oro es un tal Lozoya, un bandido que posee el mapa del escondite. Pero éste se encuentra en la prisión de Yuma en espera de ser ahorcado. (FILMAFFINITY)",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/yNIxRhDTb35KG97MSHe57GVlYsk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1QGmmOwGT05kYgFyhev48tMdTdP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wmAAHWxxZl9W9RNdyzezPz9UH4T.png"
-    },
-    {
-      "id": "tmdb:530385",
-      "type": "movie",
-      "name": "Midsommar",
-      "ids": {
-        "tmdb": 530385
-      },
-      "overview": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/a4Uwb4vnep76r1HRNduFgT9MRez.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vxKs0JLPT63lcYZTK8P6b3SaFff.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mjf2CyGrMqjUjsjXsaEsakBrOdA.png"
-    },
-    {
-      "id": "tmdb:263472",
-      "type": "movie",
-      "name": "Toc, toc",
-      "ids": {
-        "tmdb": 263472
-      },
-      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
-    },
-    {
-      "id": "tmdb:104607",
-      "type": "movie",
-      "name": "Calle Mayor",
-      "ids": {
-        "tmdb": 104607
-      },
-      "overview": "Una pequeña ciudad de España, octubre de 1955. Isabel, una soñadora de treinta y cinco años que se siente fracasada porque aún no se ha casado, se convierte en el nuevo objetivo de un grupo de bromistas sin alma.",
-      "year": 1956,
-      "poster": "https://image.tmdb.org/t/p/w342/ngp7v632ATVqJGmnN3xttfAO2n8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9VmjgkbgSe7oLLR8rrHAGPvJBZX.jpg"
-    },
-    {
-      "id": "tmdb:149863",
-      "type": "movie",
-      "name": "Usted puede ser un asesino",
-      "ids": {
-        "tmdb": 149863
-      },
-      "overview": "Dos amigos planean un fin de semana de juerga mientras sus esposas van a un chalet en la montaña; pero todo se complica cuando un cadáver aparece en la despensa, aparentemente de la nada.",
-      "year": 1961,
-      "poster": "https://image.tmdb.org/t/p/w342/9UIiSinBmUS9zKwclH3wHGJUR68.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8JuBcpnL24A07EkLGoM3jNNSTWO.jpg"
-    },
-    {
-      "id": "tmdb:107620",
-      "type": "movie",
-      "name": "Historias de la televisión",
-      "ids": {
-        "tmdb": 107620
-      },
-      "overview": "Felipe, hijo del guarda de un zoológico, es un incansable profesional de todos los concursos televisivos. Katy es una muchacha que sueña con llegar a ser una cantante famosa y que, seleccionada para un concurso de televisión de ritmos modernos, se enfrenta al problema de que en esa competición sólo pueden actuar los cantantes que ya son famosos. Felipe y Katy se ven unidos por el destino en un concurso, en el que el primer premio consiste en un piso y un pasaje doble para la luna de miel. Una vez en los platós de Televisión Española, serán testigos y protagonistas de una serie interminable de embrollos.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/1oCkjYcebRzvoKxi09OAHohtpMy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fjiWwNDi9NKV7QBRff1rNiEX6Bn.jpg"
-    },
-    {
-      "id": "tmdb:38086",
-      "type": "movie",
-      "name": "Soldados de Salamina",
-      "ids": {
-        "tmdb": 38086
-      },
-      "overview": "La profesora Lola Sánchez investiga la verdad de los hechos vividos por Rafael Sánchez Mazas, uno de los fundadores de Falange Española, durante la guerra civil española.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/ycEljLoDhSHPFCHyLnlrP4dodBQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/liLlOyBGOVdOcJ7rnLJAvaJJI8W.jpg"
-    },
-    {
-      "id": "tmdb:27578",
-      "type": "movie",
-      "name": "Los mercenarios",
-      "ids": {
-        "tmdb": 27578
-      },
-      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
-    },
-    {
-      "id": "tmdb:11616",
-      "type": "movie",
-      "name": "Dos supersuperesbirros",
-      "ids": {
-        "tmdb": 11616
-      },
-      "overview": "Rosco Frazer (Terence Hill) es un simpático viajero que vagabundea por las autopistas y casi es atropellado por un enorme camión conducido por dos tipos fuertes. Doug O'Riordan (Bud Spencer), un gigante barbudo, acaba de salir de prisión y está disfrutando de su comida en un área de descanso, cuando Rosco descubre al camión aparcado allí... Con la ayuda de Doug, Rosco consigue vengarse de los dos tipos. A partir de ahí se desencadenarán una serie de acontecimientos que les llevarán a ser tomados primero por ladrones y luego por agentes especiales de viaje en misión extraordinaria.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/kG4BXlUzKpDJAwVu2mkuQ105Qg3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/djG2enBnfuQzzXW5eEw0zHQH1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nQPDiUZ2CUNZo6qCy65b9hHkbQE.png"
-    },
-    {
-      "id": "tmdb:107287",
-      "type": "movie",
-      "name": "Ana y los lobos",
-      "ids": {
-        "tmdb": 107287
-      },
-      "overview": "José, autoritario, coleccionista de trajes militares, pobre de espíritu. Fernando, perseguidor incansable de la unión mística con Dios. Juan, escritor de cartas enloquecidamente eróticas. La madre hidrópica, nostálgica de antiguos esplendores. Las niñas que, entre juegos, encuentran muñecas enterradas y torturadas. Y en medio de esta atmósfera tan extraña e inquietante está Ana, la institutriz inglesa de 25 años.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/fQfIptcPR8AC0UjXMGjkRGtkjVF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eBvxAUWjl7vbuQMUDflNLhMiM2G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uX8ozog4yTqDLLVhT7pWxvW6rzN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ytnE8v8sAdecDo9YMWgRoWJfYgU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pFFdAhHM80zzWPW84su8p2Y9LWR.png"
     },
     {
       "id": "tmdb:423",
@@ -589,32 +169,169 @@
       "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
     },
     {
-      "id": "tmdb:432991",
+      "id": "tmdb:616803",
       "type": "movie",
-      "name": "Demonios tus ojos",
+      "name": "Atrapada en las profundidades",
       "ids": {
-        "tmdb": 432991
+        "tmdb": 616803
       },
-      "overview": "Oliver (Julio Perillán), un joven director de cine asentado en Los Ángeles, descubre una noche en una web erótica que la protagonista de uno de los explícitos vídeos es su hermana pequeña, Aurora (Ivana Baquero). Sorprendido y confuso, decide viajar a Madrid, tras varios años sin visitar a su familia. Comienza así una búsqueda obsesiva de respuestas, un viaje íntimo hacia la turbación y la verdad de la imagen, una historia de dominación y manipulación, sobre los límites de la moral y la pérdida de la inocencia vital y audiovisual.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/sjnPtdzi2ACgC4uTjkEFQ8CeF4O.jpg",
+      "overview": "Las hermanastras Ida y Tuva sufren un accidente durante una sesión de buceo invernal en el norte de Noruega. Tuva queda atrapada a 30 metros de profundidad e Ida tendrá que poner a prueba sus habilidades para manejar la crisis. Sin ayuda del mundo exterior las hermanas deben resolver la situación por sus propios medios.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/AidObUi3HgGzeImeuhJiSHTJKLo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kpHaITlfUH3ygsBv5Tv41Hexiv3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aeifxnoFWdqzCSfPT8NKWNCjBAX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6Rkug9cDjRzSZbkZvFJuua5ghfA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x0nENDmNgB5551viXkkMvxQsvuA.png"
     },
     {
-      "id": "tmdb:2330",
+      "id": "tmdb:144069",
       "type": "movie",
-      "name": "Taxi Express",
+      "name": "La criada",
       "ids": {
-        "tmdb": 2330
+        "tmdb": 144069
       },
-      "overview": "Daniel, un joven repartidor de pizzas, consigue hacer realidad uno de sus sueños: obtener la licencia de taxi. Pero un encuentro fortuito con Emilien le pone en un aprieto: para conservar su licencia de taxi, han de detener a una banda que está desmantelando los bancos del país.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/hJGTeFfEVzYGhB84YFU67B3VG4F.jpg",
+      "overview": "Anna (Guerin), la hermosa esposa de un abogado, se siente abandonada por este, por lo que decide irse unos días con su sirvienta (Michelsen) al pueblo natal de esta. A partir de este momento comenzará una extraña relación entre ellas.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/s9pXocmKhkvLazafoL0oUGIn3Me.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/148xS3PsuxDHT3VCcj3dzdU1lj3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/p2bq3g5YfkWIKCjV5i289brZsJR.jpg"
+    },
+    {
+      "id": "tmdb:22705",
+      "type": "movie",
+      "name": "Transgressing",
+      "ids": {
+        "tmdb": 22705
+      },
+      "overview": "Carla es una joven atractiva y despreocupada de Venecia, que va a Londres para buscar un piso que compartir con su amante Matteo. En Londres, Moira, una funcionaria del estado, seduce a Carla... y ella es cautivada... Carla decide no decir nada a Matteo, y comienza a mentirle. Matteo se pone muy celoso, se imagina aventuras eróticas de Carla y abandona su viaje a Londres. Tarde o temprano, Matteo realmente va a Londres donde se enfrenta a Carla... cuyas revelaciones le hacen despertar...",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/poa998sFasJX2XQtCTLiXvis6aE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/haqFVSBvaWR6ZfKKDHkpxp9eYbh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bWX37ZIsatTGVTGnIccjAjHyd0X.png"
+    },
+    {
+      "id": "tmdb:37347",
+      "type": "movie",
+      "name": "Fort Apache",
+      "ids": {
+        "tmdb": 37347
+      },
+      "overview": "Owen Thursday, general durante la Guerra civil (1861-1865) y recientemente degradado, llega a Fort Apache como teniente coronel acompañado de su bella hija Philadelphia para hacerse cargo del mando. Fort Apache, situado en medio del desierto, es un puesto militar fronterizo y sus soldados estan curtidos en las luchas contra los apaches mescaleros.",
+      "year": 1948,
+      "poster": "https://image.tmdb.org/t/p/w342/cYzS9G8zrrm5NjONCuuxbTzDYsk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/us52FnxXY6H6V7q62ZiEnO5bE97.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gYwetaZojb2lsBCU8qGwXs9eZPv.png"
+    },
+    {
+      "id": "tmdb:20345",
+      "type": "movie",
+      "name": "El pájaro de las plumas de cristal",
+      "ids": {
+        "tmdb": 20345
+      },
+      "overview": "Sam Dalmas, un joven escritor americano, está a punto de marcharse de Roma para volver a Estados Unidos. La noche antes de su marcha asiste a la agresión de Monica Ranieri: alguien la apuñala y desaparece en la oscuridad. El comisario Morosini es encargado de la investigación e informa a Sam de la posible presencia de un asesino en serie en la ciudad: la misma persona que ya ha matado con arma blanca a tres chicas podría haber intentado apuñalar a Monica. Sam decide aplazar su marcha e investigar por su cuenta…",
+      "year": 1970,
+      "poster": "https://image.tmdb.org/t/p/w342/xSZdOoF2NSkjnW73DxbX50VBoZq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/20C581cqNZryOCxihqrDKd6Ef0w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jcX5cDLlAqSlNfwpfoojA0jAmTm.png"
+    },
+    {
+      "id": "tmdb:5156",
+      "type": "movie",
+      "name": "Ladrón de bicicletas",
+      "ids": {
+        "tmdb": 5156
+      },
+      "overview": "En la Roma de la posguerra, un obrero sin empleo consigue un sencillo trabajo pegando carteles a condición de que posea una bicicleta. Obra maestra del neorrealismo italiano que forma junto con \"Umberto D.\" y \"Miracolo a Milano\" la famosa trilogía de De Sica.",
+      "year": 1948,
+      "poster": "https://image.tmdb.org/t/p/w342/sGtsVXiAo6Qdim50JI9oWg2OMYv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kcirw5ZVgSvsG59ESoiCvoAyK4b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uSfZtsnmBPkVzsS8PzECyLhmRYt.png"
+    },
+    {
+      "id": "tmdb:269",
+      "type": "movie",
+      "name": "Al final de la escapada",
+      "ids": {
+        "tmdb": 269
+      },
+      "overview": "Michel Poiccard es un ex-figurante de cine admirador de Bogart. Tras robar un coche en Marsella para ir a París, mata fortuitamente a un motorista de la policía. Sin remordimiento alguno por lo que acaba de hacer, prosigue el viaje. En París, tras robar dinero a una amiga, busca a Patricia, una joven burguesa americana, que aspira a ser escritora y vende el New York Herald Tribune por los Campos Elíseos; sueña también con matricularse en la Sorbona y escribir algún día en ese periódico. En Europa cree haber hallado la libertad que no conoció en América. Lo que Michel ignora es que la policía lo está buscando por la muerte del motorista.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/s5Ok06Q4M2cWAZGqtR5Au8o64YJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/npZS2cKv8FQnooVm6GNXNRzHBJD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/otRbKDIjgNRRSPdZhPx3oXh6kFE.png"
+    },
+    {
+      "id": "tmdb:11616",
+      "type": "movie",
+      "name": "Dos supersuperesbirros",
+      "ids": {
+        "tmdb": 11616
+      },
+      "overview": "Rosco Frazer (Terence Hill) es un simpático viajero que vagabundea por las autopistas y casi es atropellado por un enorme camión conducido por dos tipos fuertes. Doug O'Riordan (Bud Spencer), un gigante barbudo, acaba de salir de prisión y está disfrutando de su comida en un área de descanso, cuando Rosco descubre al camión aparcado allí... Con la ayuda de Doug, Rosco consigue vengarse de los dos tipos. A partir de ahí se desencadenarán una serie de acontecimientos que les llevarán a ser tomados primero por ladrones y luego por agentes especiales de viaje en misión extraordinaria.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/kG4BXlUzKpDJAwVu2mkuQ105Qg3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/djG2enBnfuQzzXW5eEw0zHQH1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nQPDiUZ2CUNZo6qCy65b9hHkbQE.png"
+    },
+    {
+      "id": "tmdb:257025",
+      "type": "movie",
+      "name": "Carta de amor de un asesino",
+      "ids": {
+        "tmdb": 257025
+      },
+      "overview": "Un hombre ha entrado en un bar y, a sangre fria, ha disparado un revólver sobre cuatro clientes que bebían en la barra. Cometido el cuádruple asesinato, huye. Al día siguiente toda la ciudad habla del caso y de que el asesino continúa sin ser localizado por la policía. Blanca, la directora de la Biblioteca Municipal, recibe una carta de Antonio, un socio del centro, al que ella no recuerda. La confiesa su apasionado amor, e insinúa cierta relación entre sus sentimientos y el crimen que acaba de cometer.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/lf18N0E2t6GrRVDBQmDf6dKA0iE.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:287948",
+      "type": "movie",
+      "name": "Transporter legacy",
+      "ids": {
+        "tmdb": 287948
+      },
+      "overview": "En los bajos fondos de Francia, Frank Martin (Ed Skrein) es conocido como «Transporter», el mejor conductor y mercenario que se puede comprar con dinero. Frank se rige por tres simples reglas: sin nombres, sin preguntas y sin renegociaciones, y transporta cualquier cosa por el precio adecuado. Hasta que conoce a la misteriosa mujer fatal llamada Anna (Loan Chabanol), que lidera un grupo de mortíferos asaltantes y que no se detendrá ante nada con tal de acabar con una despiadada banda rusa de traficantes humanos. Anna sabe que Frank es el mejor en su trabajo y, para asegurarse su colaboración, mantiene rehén a su padre (Ray Stevenson). Ahora, padre e hijo se verán obligados a trabajar con Anna para llevar a esta peligrosa banda ante la justicia.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/a4bZTOtKE3bVUMtFnRshQ06sPV4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/adhVywytbACAS1ohePjpDHLoJsk.png"
+    },
+    {
+      "id": "tmdb:12648",
+      "type": "movie",
+      "name": "Agentes secretos",
+      "ids": {
+        "tmdb": 12648
+      },
+      "overview": "Un agente secreto, viajando a tierras exóticas, cambiando de identidad, encabezando misiones altamente confidenciales...  aunque, por debajo de la excitación y el peligro, él trata con una existencia solitaria. Cada misión nueva es un juego más peligroso.  \"Agentes secretos\" nos lleva a un viaje por África y Beirut, a elegantes capitales como París y Ginebra, donde la lujuria, las drogas,  redes de contrabando, sofisticados chips de ordenador y asesinatos están a la orden del día.  Cuando el poder y el dinero están involucrados ¿En quién se puede confiar?",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/jPYIxkwxQLi5Kx25WElsgzG79Q8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ux4HpKKilst54SDiw4DPQAdGT3R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wHGltle5HIWjaaRgzih7tm85jWg.png"
+    },
+    {
+      "id": "tmdb:27578",
+      "type": "movie",
+      "name": "Los mercenarios",
+      "ids": {
+        "tmdb": 27578
+      },
+      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
       "id": "tmdb:11778",
@@ -631,18 +348,112 @@
       "logo": "https://image.tmdb.org/t/p/w500/cL2QLs4onrWBaggd01r6asL5gEc.png"
     },
     {
-      "id": "tmdb:439",
+      "id": "tmdb:14452",
       "type": "movie",
-      "name": "La dolce vita",
+      "name": "Cazador de asesinos",
       "ids": {
-        "tmdb": 439
+        "tmdb": 14452
       },
-      "overview": "Marcello Rubini es un desencantado periodista romano, en busca de celebridades, que se mueve con insatisfacción por las fiestas nocturnas que celebra la burguesía de la época. Merodea por distintos lugares de Roma, siempre rodeado de todo tipo de personajes, especialmente de la élite de la sociedad italiana. En una de sus salidas se entera de que Sylvia, una célebre diva del mundo del cine, llega a Roma, cree que ésta es una gran oportunidad para conseguir una gran noticia, y, en consecuencia, la perseguirá por las noches por diferentes lugares de la ciudad.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/zjtrLL2cFlBWnAL1z4qrokRU0ZT.jpg",
+      "overview": "Jacob Stillwell, un importante detective de homicidos conocido por sus violentos métodos para impartir justicia, viaja a Memphis con la intención de investigar unos asesinatos en serie.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/rlM1reI1eqbB4T5goQKijXurAJu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iyPl8F0YTgxj1FvHjF0cOqlFCpk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nUWfWZzDLh6YSugJTUJXhb3kIa.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xU7ncrxKxhK4Bop6EIf6K1UTFRu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aJqB0sF204hfis86I5UbYctskV0.png"
+    },
+    {
+      "id": "tmdb:263472",
+      "type": "movie",
+      "name": "Toc, toc",
+      "ids": {
+        "tmdb": 263472
+      },
+      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
+    },
+    {
+      "id": "tmdb:189320",
+      "type": "movie",
+      "name": "El túnel",
+      "ids": {
+        "tmdb": 189320
+      },
+      "overview": "Juan Pablo Castell (Peter Weller) es un artista de reconocida reputación que vive en Buenos Aires, la capital de Argentina. Durante una exposición de sus cuadros descubre a una misteriosa mujer,  María Iribarne (Jane Seymour), que se ha quedado deslumbrada ante una de las obras de arte. Casualmente, esa obra es una de las favoritas de Castell y no puede evitar sentirse intensamente atraído por la chica que acaba de conocer, pero al acercarse a ella, ésta desaparece. Desde ese momento, la mujer se convierte en una obsesión para el pintor y hace todo lo que está al alcance de su mano para conseguirla.  Cuando por fin se vuelve a encontrar con ella, un amor sin límites surge entre los dos, pero lo que no saben es que su relación no será necesariamente un camino de rosas.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/5P9aHCKF0DmzTlGHCcvx4omjPzA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tr8vi2plOm1wRHUoAEQBL2mvW5l.jpg"
+    },
+    {
+      "id": "tmdb:11477",
+      "type": "movie",
+      "name": "La comunidad",
+      "ids": {
+        "tmdb": 11477
+      },
+      "overview": "En un viejo edificio del centro de Madrid, Julia, una avispada vendedora de pisos, encuentra 300 millones de pesetas bajo una baldosa en la casa de un vecino fallecido. Sin embargo a Julia no le quedará más remedio que sortear la ira de toda una comunidad de vecinos dispuestos a repartirse el codiciado botín.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/exNxxEar6sfJLG0BCbo4sF7gs6b.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/91qnX0F0Bk8jBTH5ZERz4LnH3fv.jpg"
+    },
+    {
+      "id": "tmdb:44114",
+      "type": "movie",
+      "name": "Castillos de cartón",
+      "ids": {
+        "tmdb": 44114
+      },
+      "overview": "\"Castillos de cartón\" es la historia del triángulo amoroso de tres estudiantes de Bellas Artes. María José estudia pintura en la Facultad de Bellas Artes de una gran ciudad. Una mañana, mientras prepara un lienzo para clase, Jaime, uno de sus compañeros, dibuja su retrato sin que ella se dé cuenta. Junto a él, admirando su capacidad para el dibujo, está Marcos, el alumno de más talento de su promoción. María José espera que Jaime le regale el retrato, pero después de mostrárselo él, inesperadamente, se lo guarda. María José, Jaime y Marcos compartirán su pasión por la pintura y algo más, una historia de amor que durará hasta que la época de aprendizaje termine y deban enfrentarse al mundo real.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/s8d75Wu4UI7Mj3oLkN1YLlbR5qw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gRLLj1qQwERu3EOApCiCYCz5fK4.jpg"
+    },
+    {
+      "id": "tmdb:14807",
+      "type": "movie",
+      "name": "El largo viernes santo",
+      "ids": {
+        "tmdb": 14807
+      },
+      "overview": "Harold Shand, un gángster inglés bien establecido, está a punto de cerrar un lucrativo negocio con la mafia estadounidense. Pero cuando una serie de bombas empiezan a estallar en distintos puntos de Londres, todo parece ir mal. Amigos y miembros de su banda van muriendo a la vez que la relativa calma de los últimos diez años se rompe en mil pedazos. Un misterioso sindicato intenta involucrarle por lo que Harold tendrá que averiguar quiénes son y qué es lo que quieren pero por el camino dejará un rastro sangriento en su recorrido hacia la verdad.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/o9Jno4xm7voankIpuVA4V6mex2a.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/FYfMU95ViWJ4drQKbcEvlq0rJO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Q6NDyA0xVydlPjG4oxuxvLoAvS.png"
+    },
+    {
+      "id": "tmdb:530385",
+      "type": "movie",
+      "name": "Midsommar",
+      "ids": {
+        "tmdb": 530385
+      },
+      "overview": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/a4Uwb4vnep76r1HRNduFgT9MRez.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vxKs0JLPT63lcYZTK8P6b3SaFff.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mjf2CyGrMqjUjsjXsaEsakBrOdA.png"
+    },
+    {
+      "id": "tmdb:104607",
+      "type": "movie",
+      "name": "Calle Mayor",
+      "ids": {
+        "tmdb": 104607
+      },
+      "overview": "Una pequeña ciudad de España, octubre de 1955. Isabel, una soñadora de treinta y cinco años que se siente fracasada porque aún no se ha casado, se convierte en el nuevo objetivo de un grupo de bromistas sin alma.",
+      "year": 1956,
+      "poster": "https://image.tmdb.org/t/p/w342/ngp7v632ATVqJGmnN3xttfAO2n8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9VmjgkbgSe7oLLR8rrHAGPvJBZX.jpg"
     },
     {
       "id": "tmdb:391",
@@ -659,32 +470,219 @@
       "logo": "https://image.tmdb.org/t/p/w500/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png"
     },
     {
-      "id": "tmdb:28067",
+      "id": "tmdb:212304",
       "type": "movie",
-      "name": "El buque maldito",
+      "name": "El dinero tiene miedo",
       "ids": {
-        "tmdb": 28067
+        "tmdb": 212304
       },
-      "overview": "Por motivos promocionales, una pareja de bellas modelos es enviada a alta mar, en una lancha motora. Sin embargo, la embarcación no tarda en desaparecer inexplicablemente. La pareja que dirige la agencia, un ayudante, un científico y otra modelo, amiga de las otras, acuden al punto donde desapareció la lancha, y topa con un decrépito buque medieval, poblado de esqueléticos y sanguinarios monjes templarios.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/gGewrxJIhsZ0q6GET6plNUzRKCe.jpg",
+      "overview": "Juan es un pícaro que convence a dos amigos para que le confíen su dinero, asegurándoles que lo va a colocar en Suiza en muy buenas condiciones, pero su plan tropezará con ciertas dificultades.",
+      "year": 1970,
+      "poster": "https://image.tmdb.org/t/p/w342/eEueNv6e3E9UidRaPwiVBNUofd6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5i0QWhFbea888YOsZ5ACOuq7TO8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3aN5BfBuTbIOPwFkPEKcYvIQAOS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aZnjQo6WesMnRrmA3wiKOZ65Lbj.jpg"
     },
     {
-      "id": "tmdb:4176",
+      "id": "tmdb:335216",
       "type": "movie",
-      "name": "Asesinato en el Orient Express",
+      "name": "Dulces horas",
       "ids": {
-        "tmdb": 4176
+        "tmdb": 335216
       },
-      "overview": "La investigación de un asesinato perpetrado durante un viaje en el legendario Orient Express conducida por del famoso detective Hercule Poirot para encontrar al culpable, tropieza con grandes dificultades, pues los ilustres pasajeros disponen de una coartada que parece excluirles como sospechosos.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mxqvVIP3gcAgnLZgfCJzlOnkZj3.jpg",
+      "overview": "Juan, convencido de que su vida está marcada por la influencia del recuerdo, decide reconstruir minuciosamente su pasado...",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/ubwDNRoLHM6ON2pMtLM4PLsguee.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nVdUdUXyHII9mvZ3bf43RhhTLk0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rq13Ezvvbj3PPFacJEyiX8a7eNl.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uQQ9U0co9whx8FGKASvXW7woLP0.jpg"
+    },
+    {
+      "id": "tmdb:1368",
+      "type": "movie",
+      "name": "Acorralado",
+      "ids": {
+        "tmdb": 1368
+      },
+      "overview": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/277Ct5pdW4WAbaBjYLwX2BEeZqk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png"
+    },
+    {
+      "id": "tmdb:432991",
+      "type": "movie",
+      "name": "Demonios tus ojos",
+      "ids": {
+        "tmdb": 432991
+      },
+      "overview": "Oliver (Julio Perillán), un joven director de cine asentado en Los Ángeles, descubre una noche en una web erótica que la protagonista de uno de los explícitos vídeos es su hermana pequeña, Aurora (Ivana Baquero). Sorprendido y confuso, decide viajar a Madrid, tras varios años sin visitar a su familia. Comienza así una búsqueda obsesiva de respuestas, un viaje íntimo hacia la turbación y la verdad de la imagen, una historia de dominación y manipulación, sobre los límites de la moral y la pérdida de la inocencia vital y audiovisual.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/sjnPtdzi2ACgC4uTjkEFQ8CeF4O.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kpHaITlfUH3ygsBv5Tv41Hexiv3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aeifxnoFWdqzCSfPT8NKWNCjBAX.png"
+    },
+    {
+      "id": "tmdb:282925",
+      "type": "movie",
+      "name": "Violettes impériales",
+      "ids": {
+        "tmdb": 282925
+      },
+      "overview": "Durante un paseo por el Sacromonte, la gitana Violeta leyó en la mano de la joven Eugenia de Montijo su futuro como emperatriz. Algún tiempo después, Violeta se establece en Paris como doncella personal de la Emperatriz de Francia. En la corte vive Don Juan de Ayala, un primo de Eugenia que intenta seducir a la hermosa gitana.",
+      "year": 1952,
+      "poster": "https://image.tmdb.org/t/p/w342/dLJ0FISqEIPF2kl2MgDXCcZYmPA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v5qaQ5P1ZDcNRIdlDQSlcLYTpq1.jpg"
+    },
+    {
+      "id": "tmdb:95999",
+      "type": "movie",
+      "name": "La banda de Jaider",
+      "ids": {
+        "tmdb": 95999
+      },
+      "overview": "Tras años en prisión, una banda de malhechores son deportados de Baviera y llegan libres como emigrantes a Estados Unidos. Allí matan a un indio por accidente y realizan trabajos variopintos, como limpiar letrinas, hasta que consiguen instalarse en una casa abandonada junto a una mujer india que encuentran por el camino. Un día alguien les propondrá perpetrar un robo... (FILMAFFINITY)",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/cYevjLq7ushjPuHwzERx79I0jLt.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:160019",
+      "type": "movie",
+      "name": "En la línea del enemigo",
+      "ids": {
+        "tmdb": 160019
+      },
+      "overview": "James Carter, un antiguo oficial de la marina, es llamado de nuevo a la acción cuando unos terroristas secuestran un submarino americano que lleva armas nucleares. Esta peligrosa situación comienza cuando el submarino contesta a una llamada de auxilio de unos refugiados yugoslavos después de una terrible tormenta. Una vez a bordo, los marineros rescatados, resultan ser terroristas altamente entrenados. La misión de Carter será entrar secretamente en el submarino, sabotearlo y reducir a los secuestradores.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/gIlvyDLiQbEpBa75FQpALoePT79.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/saOfQ42Qp4FDWmCUoRUfswyZTK.jpg"
+    },
+    {
+      "id": "tmdb:144274",
+      "type": "movie",
+      "name": "Al servicio de la mujer española",
+      "ids": {
+        "tmdb": 144274
+      },
+      "overview": "Irene (Marilina Ross) es locutora de un consultorio sentimental. Un día escribe \"Soledad\", que en realidad es un hombre (Adolfo Marsillach), y tras varias visicitudes deciden conocerse personalmente.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/xgvo71rDlgr5w6tASu7FWaWgvyD.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:13653",
+      "type": "movie",
+      "name": "El aura",
+      "ids": {
+        "tmdb": 13653
+      },
+      "overview": "Un introvertido taxidermista tiene una extraña afición: planificar en su mente atracos perfectos, infalibles gracias a su inteligencia, que él considera superior. El azar hace que un día por fin tenga la oportunidad de llevar a cabo su fantasía, aunque el hecho de sufrir de epilepsia vaya a jugar en su contra.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/1mHxd9DQLVTLJzWQObgsuewn2kx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/t3sDgby379FKie9tf2wJ1ZLqPxr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ag6YGEGdJGT83vMDyMgasMgPEDx.png"
+    },
+    {
+      "id": "tmdb:16307",
+      "type": "movie",
+      "name": "El hombre de mimbre",
+      "ids": {
+        "tmdb": 16307
+      },
+      "overview": "Una carta que hace sospechar que una joven desaparecida ha sido asesinada lleva al sargento Howie de Scotland Yard hasta Summerisle, una isla en la costa de Inglaterra. Allí el inspector se entera de que hay una especie de culto pagano, y conoce a Lord Summerisle, el líder religioso de la isla.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/qeNitlsX0CMxj4of9UM9cVuvUIN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/actEgAPKXCZDCC8bSFor0d54IPk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/luytE1Gywcw1CB8JIgEqUfAMtUD.png"
+    },
+    {
+      "id": "tmdb:1370",
+      "type": "movie",
+      "name": "Rambo III",
+      "ids": {
+        "tmdb": 1370
+      },
+      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rH3kVoa5d1ShIAsyPYBwmZQCccu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
+    },
+    {
+      "id": "tmdb:403",
+      "type": "movie",
+      "name": "Paseando a Miss Daisy",
+      "ids": {
+        "tmdb": 403
+      },
+      "overview": "Miss Daisy (Jessica Tandy), una antipática profesora jubilada de 72 años, decide comprarse un coche. Su hijo, temiendo un posible caos circulatorio o, peor aún, un accidente, contrata a un chófer negro para que conduzca el vehículo. Al principio, la anciana y el tranquilo conductor no se llevan demasiado bien.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/ffg0xZcdZvcRvjauf86YJFa2q2A.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/45zOLYLSTndb4c72BqkX4LIl9Y3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qtsoliIhL80GWlmioQ1uULHCTwY.png"
+    },
+    {
+      "id": "tmdb:2330",
+      "type": "movie",
+      "name": "Taxi Express",
+      "ids": {
+        "tmdb": 2330
+      },
+      "overview": "Daniel, un joven repartidor de pizzas, consigue hacer realidad uno de sus sueños: obtener la licencia de taxi. Pero un encuentro fortuito con Emilien le pone en un aprieto: para conservar su licencia de taxi, han de detener a una banda que está desmantelando los bancos del país.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/hJGTeFfEVzYGhB84YFU67B3VG4F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/148xS3PsuxDHT3VCcj3dzdU1lj3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
+    },
+    {
+      "id": "tmdb:581387",
+      "type": "movie",
+      "name": "Alerta roja",
+      "ids": {
+        "tmdb": 581387
+      },
+      "overview": "El volcán en la montaña Baekdu hace erupción repentinamente, causando varios terremotos tanto en Corea del Norte como en el Sur. El caos reina en la península de Corea cuando se predicen más erupciones. Para prevenir un desastre mayor, Jeon Yoo-kyung (Jeon Hye-jin) planea una operación basada en la teoría del profesor Kang Bong-rae (Ma Dong-seok), quien ha estudiado la montaña Baekdu y sus posibles erupciones. Jo In-chang (Ha Jung-woo) es el capitán del equipo de fuerzas especiales y es asignado a la operación que mantiene el destino de ambas Coreas en la balanza. Él contacta a Lee Joon-pyeong (Lee Byung-hun), un espía norcoreano para realizar la operación conjuntamente. Mientras, su esposa embarazada, Choi Ji-young (Bae Suzy), está sola en Seúl intentando sobrevivir en medio del desastre.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/A3BP44EvnJIIhyNVwPT0IpvNAoc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jpiw4h4VeSXlPjn6cLzSEeT6vDE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hFRsvlEMDiG1Wb6MJpIT8gigGey.png"
+    },
+    {
+      "id": "tmdb:31453",
+      "type": "movie",
+      "name": "Doble identidad",
+      "ids": {
+        "tmdb": 31453
+      },
+      "overview": "Un médico estadounidense, que se encuentra en Chechenia por motivos laborales, es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá buscarse la vida para sobrevivir en un país en el que no puede acudir a nadie en busca de su ayuda.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/nC33TDDr8KqoSuUjL86MBGdT1At.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gVScP3DqVug0VzFfFkoPEkOmXcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w0lqnXN2r2O44zT6fVDvRf4FDo5.png"
+    },
+    {
+      "id": "tmdb:23404",
+      "type": "movie",
+      "name": "Ataque terrorista",
+      "ids": {
+        "tmdb": 23404
+      },
+      "overview": "Un concierto benéfico en Moscú se vuelve sangriento cuando terroristas armados toman como rehenes al Presidente de Rusia, a sus dos hijas y a la pop-star Venus. Pero la ayuda de Joe, batería de un grupo de rock, junto a un agente de seguridad federal ruso, está en camino. Nuestros hérores están claramente superados en número, y además las cosas no son tan simples como parecen cuando los fantasmas de la vieja Unión Soviética vienen a perturbar el presente...",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/zncZEZl1PhNySnRaftfFifbGZFj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tMvo4vJFEHKPuXFexjlUUlZOLTe.jpg"
     }
   ]
 }
