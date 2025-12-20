@@ -31,7 +31,7 @@
     {
       "id": "tmdb:949709",
       "type": "movie",
-      "name": "El Secuestro",
+      "name": "El secuestro",
       "ids": {
         "tmdb": 949709
       },
@@ -41,20 +41,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/w6AUMkwUzecLJ4uxKeiFrrYaUjY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/9e0NxOE8nhuXuerSjMlh3KbX8C1.png"
-    },
-    {
-      "id": "tmdb:601",
-      "type": "movie",
-      "name": "E.T. el extraterrestre",
-      "ids": {
-        "tmdb": 601
-      },
-      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
     },
     {
       "id": "tmdb:1196573",
@@ -85,6 +71,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/fGeAOyZ7UujTPtUJhn9hSNDiubA.png"
     },
     {
+      "id": "tmdb:8871",
+      "type": "movie",
+      "name": "El Grinch",
+      "ids": {
+        "tmdb": 8871
+      },
+      "overview": "Cada año, en Navidad, los lugareños perturban su pacífica soledad con celebraciones cada vez más desmesuradas, luminosas y ruidosas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciéndose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quién, una dulce niña llamada Cindy-Lou, desbordante de espíritu navideño, planea con sus amigos atrapar a Papá Noel durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche mágica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho más perversas.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
+    },
+    {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T. el extraterrestre",
+      "ids": {
+        "tmdb": 601
+      },
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+    },
+    {
+      "id": "tmdb:1010581",
+      "type": "movie",
+      "name": "Culpa mía",
+      "ids": {
+        "tmdb": 1010581
+      },
+      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ytp4DLPaWryo8rrTNBSYPIOJfDw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
+    },
+    {
       "id": "tmdb:1166133",
       "type": "movie",
       "name": "Bramayugam",
@@ -113,32 +141,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/soEB2qzV4IuN2zEVHKjKWhU5WKg.png"
     },
     {
-      "id": "tmdb:8871",
+      "id": "tmdb:106646",
+      "type": "movie",
+      "name": "El lobo de Wall Street",
+      "ids": {
+        "tmdb": 106646
+      },
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+    },
+    {
+      "id": "tmdb:1248226",
+      "type": "movie",
+      "name": "Juegos de niños",
+      "ids": {
+        "tmdb": 1248226
+      },
+      "overview": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/sWhglhFoGA0T7n5U6Yi0t8LBGjA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gAR5CbKYuljOtJED1uipBLNSsiD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png"
+    },
+    {
+      "id": "tmdb:360920",
       "type": "movie",
       "name": "El Grinch",
       "ids": {
-        "tmdb": 8871
+        "tmdb": 360920
       },
-      "overview": "Cada año, en Navidad, los lugareños perturban su pacífica soledad con celebraciones cada vez más desmesuradas, luminosas y ruidosas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciéndose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quién, una dulce niña llamada Cindy-Lou, desbordante de espíritu navideño, planea con sus amigos atrapar a Papá Noel durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche mágica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho más perversas.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
+      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
-    },
-    {
-      "id": "tmdb:1010581",
-      "type": "movie",
-      "name": "Culpa mía",
-      "ids": {
-        "tmdb": 1010581
-      },
-      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ytp4DLPaWryo8rrTNBSYPIOJfDw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
     },
     {
       "id": "tmdb:346698",
@@ -169,18 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
     },
     {
-      "id": "tmdb:106646",
+      "id": "tmdb:1156594",
       "type": "movie",
-      "name": "El lobo de Wall Street",
+      "name": "Culpa nuestra",
       "ids": {
-        "tmdb": 106646
+        "tmdb": 1156594
       },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8WhlNrtQdyUBnKrw5WBJnsDn1HE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
     },
     {
       "id": "tmdb:845781",
@@ -195,48 +237,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
-    },
-    {
-      "id": "tmdb:1248226",
-      "type": "movie",
-      "name": "Juegos de niños",
-      "ids": {
-        "tmdb": 1248226
-      },
-      "overview": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/sWhglhFoGA0T7n5U6Yi0t8LBGjA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gAR5CbKYuljOtJED1uipBLNSsiD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png"
-    },
-    {
-      "id": "tmdb:749170",
-      "type": "movie",
-      "name": "Jefes de Estado",
-      "ids": {
-        "tmdb": 749170
-      },
-      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
-    },
-    {
-      "id": "tmdb:121",
-      "type": "movie",
-      "name": "El señor de los anillos: Las dos torres",
-      "ids": {
-        "tmdb": 121
-      },
-      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
     },
     {
       "id": "tmdb:569094",
@@ -267,74 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
     },
     {
-      "id": "tmdb:360920",
+      "id": "tmdb:121",
       "type": "movie",
-      "name": "El Grinch",
+      "name": "El señor de los anillos: Las dos torres",
       "ids": {
-        "tmdb": 360920
+        "tmdb": 121
       },
-      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
-    },
-    {
-      "id": "tmdb:1156594",
-      "type": "movie",
-      "name": "Culpa nuestra",
-      "ids": {
-        "tmdb": 1156594
-      },
-      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8WhlNrtQdyUBnKrw5WBJnsDn1HE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
-    },
-    {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
-      "id": "tmdb:122",
-      "type": "movie",
-      "name": "El señor de los anillos: El retorno del rey",
-      "ids": {
-        "tmdb": 122
-      },
-      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
-    },
-    {
-      "id": "tmdb:11324",
-      "type": "movie",
-      "name": "La isla siniestra",
-      "ids": {
-        "tmdb": 11324
-      },
-      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/oemYX0Do8bxqVHtfCJA9c32Q5w5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
     },
     {
       "id": "tmdb:291805",
@@ -365,6 +309,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
     },
     {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
+      "id": "tmdb:122",
+      "type": "movie",
+      "name": "El señor de los anillos: El retorno del rey",
+      "ids": {
+        "tmdb": 122
+      },
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
+    },
+    {
       "id": "tmdb:98",
       "type": "movie",
       "name": "Gladiator",
@@ -377,62 +349,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
-    },
-    {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "The Batman",
-      "ids": {
-        "tmdb": 414906
-      },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
-    },
-    {
-      "id": "tmdb:882569",
-      "type": "movie",
-      "name": "El pacto",
-      "ids": {
-        "tmdb": 882569
-      },
-      "overview": "Sigue al sargento John Kinley, uno de los únicos sobrevivientes en su último periodo de servicio en Afganistán, y como decide regresar a zona de guerra para recuperar a su amigo Ahmed y su familia.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nq7NbZtNfIHyL1NXPV1EiG4XQ7u.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qdlCyLgm1cVagOwgUfwQoneUj1n.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fViIdmDrMYOBR7d8h4VIUddWLZE.png"
-    },
-    {
-      "id": "tmdb:49521",
-      "type": "movie",
-      "name": "El hombre de acero",
-      "ids": {
-        "tmdb": 49521
-      },
-      "overview": "Un niño descubre que posee poderes extraordinarios y que no pertenece a este planeta. En su juventud, viaja para descubrir sus orígenes y las razones por las cuales ha sido enviado a la Tierra. Pero el héroe que lleva dentro tiene que emerger para que pueda salvar al mundo de la aniquilación y convertirse en el símbolo de esperanza para la humanidad.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v31OCpzVBpQovxZN4MWbGOQcHio.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kwyAkKZUGx9c2f9U53dYEOHJvPT.png"
-    },
-    {
-      "id": "tmdb:594767",
-      "type": "movie",
-      "name": "¡Shazam! La furia de los dioses",
-      "ids": {
-        "tmdb": 594767
-      },
-      "overview": "Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir \"¡Shazam!\", se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/xCxwaQeoIr4FcjlPgHfzog0x4B8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c7DA7jQbJja82SWCEDtnOC5GM1L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/olaeom2G4yy7V4WwXXDDiTfP9Lj.png"
     },
     {
       "id": "tmdb:75656",
@@ -449,18 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/s12Cs0MCfu8Z4FnRumGrMHiLOTt.png"
     },
     {
-      "id": "tmdb:496243",
+      "id": "tmdb:882569",
       "type": "movie",
-      "name": "Parásitos",
+      "name": "El pacto",
       "ids": {
-        "tmdb": 496243
+        "tmdb": 882569
       },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "overview": "Sigue al sargento John Kinley, uno de los únicos sobrevivientes en su último periodo de servicio en Afganistán, y como decide regresar a zona de guerra para recuperar a su amigo Ahmed y su familia.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/nq7NbZtNfIHyL1NXPV1EiG4XQ7u.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qdlCyLgm1cVagOwgUfwQoneUj1n.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fViIdmDrMYOBR7d8h4VIUddWLZE.png"
     },
     {
       "id": "tmdb:1119878",
@@ -477,32 +393,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/kEqs5aTSmmYc1DE1jCOcY573V0A.png"
     },
     {
-      "id": "tmdb:1426968",
+      "id": "tmdb:496243",
       "type": "movie",
-      "name": "Ya no quedan junglas",
+      "name": "Parásitos",
       "ids": {
-        "tmdb": 1426968
+        "tmdb": 496243
       },
-      "overview": "Theo, conocido como \"el Gentleman\", es un ex soldado estadounidense cuya existencia solitaria y miserable transcurre entre sus recuerdos de un pasado mejor con su difunta esposa y su habitual cita de los jueves con Olga, una prostituta a la que paga por conversar, recordando quién fue una vez y soñando con lo que podría haber sido. Cuando Olga es asesinada, busca una venganza brutal. El rastro de sangre que deja es seguido por Iborra, una inspectora de policía alcohólica, y Herodes, un despiadado asesino a sueldo. El cruce de estos personajes al límite tendrá un abrupto desenlace cuando el presente venga a cobrarse las deudas del pasado.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9aCPjtt0mxnMmdvdfCuCGDqxEg8.jpg",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/207ZYv4LZDoZMmiTIwna74LlP59.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p7YEbCVoK0KHUEEc6EPjiw1MdI5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:1186350",
+      "id": "tmdb:749170",
       "type": "movie",
-      "name": "Marco",
+      "name": "Jefes de Estado",
       "ids": {
-        "tmdb": 1186350
+        "tmdb": 749170
       },
-      "overview": "El hijo adoptivo de la familia Adattu, Marco, se embarca en una despiadada búsqueda de venganza después de que su hermano es brutalmente asesinado, encontrando solo traición, pérdida y una brutalidad inimaginable a cada paso.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
+      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fyT1X8DGW3MlwXjdAoZFCc183fZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zp04i9bv8WMfzr7IUFcdXWDiAi3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
+    },
+    {
+      "id": "tmdb:11324",
+      "type": "movie",
+      "name": "La isla siniestra",
+      "ids": {
+        "tmdb": 11324
+      },
+      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/oemYX0Do8bxqVHtfCJA9c32Q5w5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
+    },
+    {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
     },
     {
       "id": "tmdb:508",
@@ -519,100 +463,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/2XMBZCDjHRShdEhUC5btOJazCos.png"
     },
     {
-      "id": "tmdb:866398",
+      "id": "tmdb:1186350",
       "type": "movie",
-      "name": "Beekeeper: El protector",
+      "name": "Marco",
       "ids": {
-        "tmdb": 866398
+        "tmdb": 1186350
       },
-      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "overview": "El hijo adoptivo de la familia Adattu, Marco, se embarca en una despiadada búsqueda de venganza después de que su hermano es brutalmente asesinado, encontrando solo traición, pérdida y una brutalidad inimaginable a cada paso.",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u5y8a5P3OL8dikgJdtyO3ZBrXmv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fyT1X8DGW3MlwXjdAoZFCc183fZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zp04i9bv8WMfzr7IUFcdXWDiAi3.png"
     },
     {
-      "id": "tmdb:1481331",
+      "id": "tmdb:49521",
       "type": "movie",
-      "name": "Nahual",
+      "name": "El hombre de acero",
       "ids": {
-        "tmdb": 1481331
+        "tmdb": 49521
       },
-      "overview": "La exótica escapada de Katia Montero se convierte en una pesadilla al ser poseída por un espíritu animal sediento de sangre. Encuentros eróticos, violencia y leyendas locales transforman el paraíso en un infierno en esta nueva versión de un escalofriante mito sudamericano.",
+      "overview": "Un niño descubre que posee poderes extraordinarios y que no pertenece a este planeta. En su juventud, viaja para descubrir sus orígenes y las razones por las cuales ha sido enviado a la Tierra. Pero el héroe que lleva dentro tiene que emerger para que pueda salvar al mundo de la aniquilación y convertirse en el símbolo de esperanza para la humanidad.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v31OCpzVBpQovxZN4MWbGOQcHio.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kwyAkKZUGx9c2f9U53dYEOHJvPT.png"
+    },
+    {
+      "id": "tmdb:1426968",
+      "type": "movie",
+      "name": "Ya no quedan junglas",
+      "ids": {
+        "tmdb": 1426968
+      },
+      "overview": "Theo, conocido como \"el Gentleman\", es un ex soldado estadounidense cuya existencia solitaria y miserable transcurre entre sus recuerdos de un pasado mejor con su difunta esposa y su habitual cita de los jueves con Olga, una prostituta a la que paga por conversar, recordando quién fue una vez y soñando con lo que podría haber sido. Cuando Olga es asesinada, busca una venganza brutal. El rastro de sangre que deja es seguido por Iborra, una inspectora de policía alcohólica, y Herodes, un despiadado asesino a sueldo. El cruce de estos personajes al límite tendrá un abrupto desenlace cuando el presente venga a cobrarse las deudas del pasado.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:1261825",
-      "type": "movie",
-      "name": "Oh. What. Fun.",
-      "ids": {
-        "tmdb": 1261825
-      },
-      "overview": "Claire Clauster es el nexo que mantiene unida a su caótica, aunque encantadora familia durante las vacaciones. Pero este año, tras planear una salida especial con ellos, cometen un error y la abandonan sola en casa. Harta y menospreciada, Claire emprende una aventura por su cuenta. Mientras su familia la busca, Claire descubre la magia de una Navidad atípica.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/uNmyZChmLKqxROmbsylj5sbzGUR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9aCPjtt0mxnMmdvdfCuCGDqxEg8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gnieSeoJ5shZamINHu5RnMetzOq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ejwZokujz6d3wb9SfzE6gLMmuCQ.png"
-    },
-    {
-      "id": "tmdb:1522377",
-      "type": "movie",
-      "name": "Dos mundos, un deseo",
-      "ids": {
-        "tmdb": 1522377
-      },
-      "overview": "Bilge y Can comienzan a escucharse telepáticamente veintiún años después de aquel encuentro mágico en el hospital infantil. Lo que parece ser un milagro termina siendo un secreto oculto, ya que el destino les reserva mucho más a pesar del tiempo: una aventura emocionante y una historia de amor épica.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/z3TOm0laEXLGPoH3VmzTYyHu1YR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kKWZq6M76mJM98U0HdpaxBRnPuD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uZ9hrHpgyGPjjfWR4tVNfURn2ju.png"
-    },
-    {
-      "id": "tmdb:464052",
-      "type": "movie",
-      "name": "Wonder Woman 1984",
-      "ids": {
-        "tmdb": 464052
-      },
-      "overview": "En 1984, en plena guerra fría, Diana Prince, conocida como Wonder Woman se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/jIIjsExCEv6lsfQGHTXDPk3Q0M5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/stdWMcy5LiRyNgebDYXygksX7Jp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/crmRQB7WxsNU12rV4jLaIUBhbO5.png"
-    },
-    {
-      "id": "tmdb:1156593",
-      "type": "movie",
-      "name": "Culpa tuya",
-      "ids": {
-        "tmdb": 1156593
-      },
-      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2wN6xbmMPFVqnhQkoxNBTB5djFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
-    },
-    {
-      "id": "tmdb:807",
-      "type": "movie",
-      "name": "Seven",
-      "ids": {
-        "tmdb": 807
-      },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/207ZYv4LZDoZMmiTIwna74LlP59.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p7YEbCVoK0KHUEEc6EPjiw1MdI5.png"
     },
     {
       "id": "tmdb:105",
@@ -629,44 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
-      "id": "tmdb:1280518",
+      "id": "tmdb:866398",
       "type": "movie",
-      "name": "Laberinto de sombras",
+      "name": "Beekeeper: El protector",
       "ids": {
-        "tmdb": 1280518
+        "tmdb": 866398
       },
-      "overview": "Elena quedó ciega tras un accidente, desde entonces vive sola en una vieja casa familiar. Tras la llegada de dos extraños que pretenden robarle sus joyas y la aparición de extrañas fuerzas sobrenaturales convertirán la casa en un peligroso laberinto. El bien y el mal se enfrentarán hasta la muerte.",
+      "overview": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/565kBAr0hvgLbJKyAd3dUKk2xn0.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:209112",
-      "type": "movie",
-      "name": "Batman vs Superman: El amanecer de la justicia",
-      "ids": {
-        "tmdb": 209112
-      },
-      "overview": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/102haOX6LB8yNtsq8YRmeCnPQRF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
-    },
-    {
-      "id": "tmdb:575264",
-      "type": "movie",
-      "name": "Misión: Imposible - Sentencia mortal parte uno",
-      "ids": {
-        "tmdb": 575264
-      },
-      "overview": "Ethan Hunt y la IMF emprenden la misión más peligrosa a la que nunca se han enfrentado: rastrear una nueva y aterradora arma que amenaza a toda la humanidad antes de que caiga en las manos de un enemigo todopoderoso y misterioso.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lw1xaKo2qqTNlHPMbKK4ZVib4ON.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oYqZ43RXHV4F9a8TTjMK29dF8iK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/u5y8a5P3OL8dikgJdtyO3ZBrXmv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kU7iTzvZ1GbQZMpWsP6wcqhZNoj.png"
     },
     {
       "id": "tmdb:941109",
@@ -683,18 +547,154 @@
       "logo": "https://image.tmdb.org/t/p/w500/8FYBuJbhWVMUjYkUcebfGPPicQx.png"
     },
     {
-      "id": "tmdb:1305717",
+      "id": "tmdb:1261825",
       "type": "movie",
-      "name": "Zona de caza",
+      "name": "Oh. What. Fun.",
       "ids": {
-        "tmdb": 1305717
+        "tmdb": 1261825
       },
-      "overview": "Una madre que huye de su marido, relacionado con la mafia, encuentra refugio en casa de un vagabundo llamado Jake, pero cuando los hombres de su marido se acercan, Jake resulta ser más peligroso que cualquiera de los que ella huye.",
+      "overview": "Claire Clauster es el nexo que mantiene unida a su caótica, aunque encantadora familia durante las vacaciones. Pero este año, tras planear una salida especial con ellos, cometen un error y la abandonan sola en casa. Harta y menospreciada, Claire emprende una aventura por su cuenta. Mientras su familia la busca, Claire descubre la magia de una Navidad atípica.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/u6DNzvz4y3XS5QYqsvvauIx4Xvc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/uNmyZChmLKqxROmbsylj5sbzGUR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9fNYJSpHNPUc9DfgudeHbsg5E3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wcj1G9DnomUt2B2FlyzNxzEcpbU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gnieSeoJ5shZamINHu5RnMetzOq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ejwZokujz6d3wb9SfzE6gLMmuCQ.png"
+    },
+    {
+      "id": "tmdb:1481331",
+      "type": "movie",
+      "name": "Nahual",
+      "ids": {
+        "tmdb": 1481331
+      },
+      "overview": "La exótica escapada de Katia Montero se convierte en una pesadilla al ser poseída por un espíritu animal sediento de sangre. Encuentros eróticos, violencia y leyendas locales transforman el paraíso en un infierno en esta nueva versión de un escalofriante mito sudamericano.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:1522377",
+      "type": "movie",
+      "name": "Dos mundos, un deseo",
+      "ids": {
+        "tmdb": 1522377
+      },
+      "overview": "Bilge y Can comienzan a escucharse telepáticamente veintiún años después de aquel encuentro mágico en el hospital infantil. Lo que parece ser un milagro termina siendo un secreto oculto, ya que el destino les reserva mucho más a pesar del tiempo: una aventura emocionante y una historia de amor épica.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/z3TOm0laEXLGPoH3VmzTYyHu1YR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kKWZq6M76mJM98U0HdpaxBRnPuD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uZ9hrHpgyGPjjfWR4tVNfURn2ju.png"
+    },
+    {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "ids": {
+        "tmdb": 807
+      },
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+    },
+    {
+      "id": "tmdb:1156593",
+      "type": "movie",
+      "name": "Culpa tuya",
+      "ids": {
+        "tmdb": 1156593
+      },
+      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2wN6xbmMPFVqnhQkoxNBTB5djFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
+    },
+    {
+      "id": "tmdb:575264",
+      "type": "movie",
+      "name": "Misión: Imposible - Sentencia mortal parte uno",
+      "ids": {
+        "tmdb": 575264
+      },
+      "overview": "Ethan Hunt y la IMF emprenden la misión más peligrosa a la que nunca se han enfrentado: rastrear una nueva y aterradora arma que amenaza a toda la humanidad antes de que caiga en las manos de un enemigo todopoderoso y misterioso.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lw1xaKo2qqTNlHPMbKK4ZVib4ON.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oYqZ43RXHV4F9a8TTjMK29dF8iK.png"
+    },
+    {
+      "id": "tmdb:1280518",
+      "type": "movie",
+      "name": "Laberinto de sombras",
+      "ids": {
+        "tmdb": 1280518
+      },
+      "overview": "Elena quedó ciega tras un accidente, desde entonces vive sola en una vieja casa familiar. Tras la llegada de dos extraños que pretenden robarle sus joyas y la aparición de extrañas fuerzas sobrenaturales convertirán la casa en un peligroso laberinto. El bien y el mal se enfrentarán hasta la muerte.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/565kBAr0hvgLbJKyAd3dUKk2xn0.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:594767",
+      "type": "movie",
+      "name": "¡Shazam! La furia de los dioses",
+      "ids": {
+        "tmdb": 594767
+      },
+      "overview": "Billy Batson y sus hermanos adoptivos, que se transforman en superhéroes al decir \"¡Shazam!\", se ven obligados a volver a la acción y luchar contra las Hijas de Atlas, a quienes deben evitar que use un arma que podría destruir el mundo.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/xCxwaQeoIr4FcjlPgHfzog0x4B8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c7DA7jQbJja82SWCEDtnOC5GM1L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/olaeom2G4yy7V4WwXXDDiTfP9Lj.png"
+    },
+    {
+      "id": "tmdb:28178",
+      "type": "movie",
+      "name": "Siempre a tu lado",
+      "ids": {
+        "tmdb": 28178
+      },
+      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+    },
+    {
+      "id": "tmdb:209112",
+      "type": "movie",
+      "name": "Batman vs Superman: El amanecer de la justicia",
+      "ids": {
+        "tmdb": 209112
+      },
+      "overview": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/mS3t9puIjLKgoex82cu9d6G0835.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/102haOX6LB8yNtsq8YRmeCnPQRF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
+    },
+    {
+      "id": "tmdb:953",
+      "type": "movie",
+      "name": "Madagascar",
+      "ids": {
+        "tmdb": 953
+      },
+      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
     }
   ]
 }
