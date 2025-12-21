@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tmdb:1422096",
+      "type": "movie",
+      "name": "Good Boy",
+      "ids": {
+        "tmdb": 1422096
+      },
+      "overview": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9sj7sBK5fI7HwECOmSbpBgcYNbC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fTtyO2VvXfOyjaJHHlcHjVQdIr6.png"
+    },
+    {
+      "id": "tmdb:1342341",
+      "type": "movie",
+      "name": "Capitán Diente de Sable y la Condesa de Grel",
+      "ids": {
+        "tmdb": 1342341
+      },
+      "overview": "Raven y Pinky son dos amigos inseparables que navegan bajo las órdenes del temido Capitán Diente de Sable, el rey de los siete mares. Pero su amistad será puesta a prueba cuando la astuta Sibylla, condesa de Grel, ataca el barco pirata, roba el valioso mascarón de proa y secuestra a Pinky. Lo que parece un simple acto de pillaje es en realidad el primer paso de un plan mucho más ambicioso: capturar al Capitán Diente de Sable y convertirse en la reina de los siete mares. Con el destino de su amigo y de su hogar en juego, Raven se une al capitán y a su tripulación en una épica y fantàstica travesía para frustrar los planes de la condesa.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/2FEJ0fQsF4pCrem4aTNPbuX3oZ1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eL8fgEK8mgDcJZRHzuxbLwevCcr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fGeAOyZ7UujTPtUJhn9hSNDiubA.png"
+    },
+    {
       "id": "tmdb:8871",
       "type": "movie",
       "name": "El Grinch",
@@ -29,20 +57,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
     },
     {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
       "id": "tmdb:98",
       "type": "movie",
       "name": "Gladiator",
@@ -57,6 +71,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
       "id": "tmdb:823219",
       "type": "movie",
       "name": "Flow, un mundo que salvar",
@@ -69,6 +97,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
+    },
+    {
+      "id": "tmdb:10403",
+      "type": "movie",
+      "name": "El juego de Hollywood",
+      "ids": {
+        "tmdb": 10403
+      },
+      "overview": "Griffin Mill, productor cinematográfico de Hollywood, recibe amenazas escritas de un guionista al que rechazó un proyecto. Intentan llegar a un acuerdo, pero tras una terrible discusión, Griffin lo mata. Dada la crisis económica por la que atraviesan los estudios, estos harán todo lo posible para que eluda la responsabilidad de los hechos.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/bwEunuhDYLXsHzRDLz0aDBe1XoA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6kecAVmCQpQ3jKJqqodkPf08pFs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5RNMlGNSCkRRnrFwM2xXJp3VCrG.png"
     },
     {
       "id": "tmdb:694",
@@ -99,17 +141,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:1387190",
+      "id": "tmdb:198915",
       "type": "movie",
-      "name": "El primer asesinato",
+      "name": "Los golfos",
       "ids": {
-        "tmdb": 1387190
+        "tmdb": 198915
       },
-      "overview": "Dinamarca, 1927. El ambicioso agente de policía Otto Himmelstrup dirige la recién creada Unidad Especial, encargada de ayudar a la policía local a resolver crímenes especialmente difíciles. Cuando se encuentra un cadáver en una casa de verano incendiada en Esbjerg, Otto y su equipo comienzan a desentrañar un misterioso asesinato, que revela luchas de poder y corrupción entre la élite de la ciudad.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/7OSDlAgpXRNTdecXArA0S75y2aN.jpg",
+      "overview": "Un grupo de amigos que sobreviven penosamente en los arrabales de Madrid cometen pequeños delitos con el propósito de financiar el debut como torero de uno de ellos.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/j5r2H4KqokTowdqR2hF2NC6pSEO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oIFTRgcZZWMUVnMSWGdpLV1MBZB.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/oOKt0b5BBYZmCekNiIK23PMMklk.jpg"
     },
     {
       "id": "tmdb:1292681",
@@ -123,6 +165,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/ejZSw4ZLxDznr7XvQdFjDpE7JDl.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nmd0YlH0niIDCB6tFKYDFR1Ysxg.jpg"
+    },
+    {
+      "id": "tmdb:1387190",
+      "type": "movie",
+      "name": "El primer asesinato",
+      "ids": {
+        "tmdb": 1387190
+      },
+      "overview": "Dinamarca, 1927. El ambicioso agente de policía Otto Himmelstrup dirige la recién creada Unidad Especial, encargada de ayudar a la policía local a resolver crímenes especialmente difíciles. Cuando se encuentra un cadáver en una casa de verano incendiada en Esbjerg, Otto y su equipo comienzan a desentrañar un misterioso asesinato, que revela luchas de poder y corrupción entre la élite de la ciudad.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/7OSDlAgpXRNTdecXArA0S75y2aN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oIFTRgcZZWMUVnMSWGdpLV1MBZB.jpg"
     },
     {
       "id": "tmdb:508",
@@ -139,18 +194,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2XMBZCDjHRShdEhUC5btOJazCos.png"
     },
     {
-      "id": "tmdb:1128916",
+      "id": "tmdb:807",
       "type": "movie",
-      "name": "On the Go",
+      "name": "Seven",
       "ids": {
-        "tmdb": 1128916
+        "tmdb": 807
       },
-      "overview": "Ser o no ser madre, esa es la cuestión. Milagros (37) estira una juventud sin preocupaciones en sus últimos años de fertilidad mientras que Jonathan (24) busca consuelo a un abandono en su adicción a Grindr. Milagros huye de su cita de inseminación monoparental. Jonathan provoca un encuentro con un amor de infancia. La carretera y la amistad alivian la desorientación que provoca la engañosa libertad de principios de siglo XXI. Una delirante road movie llena de música, donde una misteriosa sirena con una corona mágica guiará el viaje.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/cTnsQaiUq1hR6bOfIw6uBYCGktN.jpg",
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oM6cBi3d8haI9eflRzZUr3JAJqe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cSghey78N7S3oe10iOROZ8HTyjD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     },
     {
       "id": "tmdb:105",
@@ -167,32 +222,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
-      "id": "tmdb:807",
+      "id": "tmdb:1128916",
       "type": "movie",
-      "name": "Seven",
+      "name": "On the Go",
       "ids": {
-        "tmdb": 807
+        "tmdb": 1128916
       },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "overview": "Ser o no ser madre, esa es la cuestión. Milagros (37) estira una juventud sin preocupaciones en sus últimos años de fertilidad mientras que Jonathan (24) busca consuelo a un abandono en su adicción a Grindr. Milagros huye de su cita de inseminación monoparental. Jonathan provoca un encuentro con un amor de infancia. La carretera y la amistad alivian la desorientación que provoca la engañosa libertad de principios de siglo XXI. Una delirante road movie llena de música, donde una misteriosa sirena con una corona mágica guiará el viaje.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/cTnsQaiUq1hR6bOfIw6uBYCGktN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
-    },
-    {
-      "id": "tmdb:933260",
-      "type": "movie",
-      "name": "La sustancia",
-      "ids": {
-        "tmdb": 933260
-      },
-      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oM6cBi3d8haI9eflRzZUr3JAJqe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cSghey78N7S3oe10iOROZ8HTyjD.png"
     },
     {
       "id": "tmdb:769",
@@ -209,76 +250,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
     },
     {
-      "id": "tmdb:30484",
-      "type": "movie",
-      "name": "La reina guerrera",
-      "ids": {
-        "tmdb": 30484
-      },
-      "overview": "Berenice (Sybil Danníng), la esposa del emperador romano, descubre la promiscua realidad de las calles de Pompeya. Indignada, Berenice decide, a riesgo de su propia vida, luchar para acabar con tan injusta situación, que incluye la humillación a la que condenan los hombres a las mujeres, vendiéndolas en cada esquina, rebajándolas a lo más indigno. Una pelea para la que se armará con sus poderes y que iniciará con la liberación de una joven que descubre cautiva.",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/P0j17mJRpSIZOglbtPkakHSD1S.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nSwJG7ODK6v03hlyiJj6mn045dK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gBSmbOIRotN0Ox7elnKtyDPUloQ.png"
-    },
-    {
-      "id": "tmdb:111",
-      "type": "movie",
-      "name": "El precio del poder",
-      "ids": {
-        "tmdb": 111
-      },
-      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
-    },
-    {
-      "id": "tmdb:28178",
-      "type": "movie",
-      "name": "Siempre a tu lado",
-      "ids": {
-        "tmdb": 28178
-      },
-      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
-    },
-    {
-      "id": "tmdb:578",
-      "type": "movie",
-      "name": "Tiburón",
-      "ids": {
-        "tmdb": 578
-      },
-      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
-    },
-    {
-      "id": "tmdb:1585",
-      "type": "movie",
-      "name": "¡Qué bello es vivir!",
-      "ids": {
-        "tmdb": 1585
-      },
-      "overview": "Es la vigilia de Navidad en Bedford falls, NY, y George Bailey está planeando suicidarse. Pero un ángel es enviado para detenerle en su intento. Él le enseñará a George las cosas maravillosas de su juventud, cómo salvó la vida de su hermano y la de otros que, gracias a haber conocido a George, son felices. Así, nuestro amigo descubrirá que... ¡La vida es realmente un tesoro maravilloso que debemos disfrutar!",
-      "year": 1946,
-      "poster": "https://image.tmdb.org/t/p/w342/63W4MsB8e5whhPNyxhRVTzSsCje.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
-    },
-    {
       "id": "tmdb:78",
       "type": "movie",
       "name": "Blade Runner",
@@ -293,74 +264,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
     },
     {
-      "id": "tmdb:497",
+      "id": "tmdb:933260",
       "type": "movie",
-      "name": "La milla verde",
+      "name": "La sustancia",
       "ids": {
-        "tmdb": 497
+        "tmdb": 933260
       },
-      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/umunWbkQ6xMWlGOpp4Tt0QuhMSz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rr2nQMagxwQ3P37FLF3P3teYvtj.png"
-    },
-    {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
-    },
-    {
-      "id": "tmdb:843",
-      "type": "movie",
-      "name": "Deseando amar",
-      "ids": {
-        "tmdb": 843
-      },
-      "overview": "Hong Kong, 1962. Chow, redactor jefe de un diario local, se muda con su mujer a un edificio habitado principalmente por gentes de Shanghai. Allí conoce a Li-zhen, una joven que acaba de instalarse en el mismo edificio con su esposo. Ella es secretaria de una empresa de exportación y su marido está continuamente de viaje de negocios. Como la mujer de Chow también está casi siempre fuera de casa, Li-zhen y Chow pasan cada vez más tiempo juntos y se hacen muy amigos. Un día, ambos descubrirán que sus respectivos cónyuges los están traicionando.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/57iJR6wTAGmH3FEyFJcDca8ljYi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ek3uOFtrCYry0UzFaCTc9TB6QpG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ta3mZgHYQC394qq3zYXjuj3ASP5.png"
-    },
-    {
-      "id": "tmdb:290098",
-      "type": "movie",
-      "name": "La doncella",
-      "ids": {
-        "tmdb": 290098
-      },
-      "overview": "Corea, década de 1930, durante la colonización japonesa. Una joven llamada Sookee es contratada como doncella de una rica mujer japonesa, Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano. Sookee guarda un secreto y con la ayuda de un estafador que se hace pasar por un conde japonés, planea algo para Hideko.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/1CJWo3mJwNEi0RsSZyxbgVFOj8B.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lkW05VRHaCW85CqcldLQ1qPXVEu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
-    },
-    {
-      "id": "tmdb:424",
-      "type": "movie",
-      "name": "La lista de Schindler",
-      "ids": {
-        "tmdb": 424
-      },
-      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3f92DMBTFqr3wgXpfxzrb0qv8nG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
       "id": "tmdb:4348",
@@ -377,18 +292,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
     },
     {
-      "id": "tmdb:249397",
+      "id": "tmdb:111",
       "type": "movie",
-      "name": "Nymphomaniac. Volumen 2",
+      "name": "El precio del poder",
       "ids": {
-        "tmdb": 249397
+        "tmdb": 111
       },
-      "overview": "Historia de una ninfómana contada por ella misma. Una fría noche invernal, un viejo solterón encuentra en un callejón a una joven herida y casi inconsciente. Después de recogerla y cuidarla, siente curiosidad por saber cómo pudo haber llegado a semejante situación; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg",
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pewD5JT9KBwgp7NRicVpsmwKND7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vTfOIqem7QTT0AGzzHHcGWT1geh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
+    },
+    {
+      "id": "tmdb:1585",
+      "type": "movie",
+      "name": "¡Qué bello es vivir!",
+      "ids": {
+        "tmdb": 1585
+      },
+      "overview": "Es la vigilia de Navidad en Bedford falls, NY, y George Bailey está planeando suicidarse. Pero un ángel es enviado para detenerle en su intento. Él le enseñará a George las cosas maravillosas de su juventud, cómo salvó la vida de su hermano y la de otros que, gracias a haber conocido a George, son felices. Así, nuestro amigo descubrirá que... ¡La vida es realmente un tesoro maravilloso que debemos disfrutar!",
+      "year": 1946,
+      "poster": "https://image.tmdb.org/t/p/w342/63W4MsB8e5whhPNyxhRVTzSsCje.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
+    },
+    {
+      "id": "tmdb:497",
+      "type": "movie",
+      "name": "La milla verde",
+      "ids": {
+        "tmdb": 497
+      },
+      "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/umunWbkQ6xMWlGOpp4Tt0QuhMSz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rr2nQMagxwQ3P37FLF3P3teYvtj.png"
+    },
+    {
+      "id": "tmdb:578",
+      "type": "movie",
+      "name": "Tiburón",
+      "ids": {
+        "tmdb": 578
+      },
+      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
+    },
+    {
+      "id": "tmdb:218",
+      "type": "movie",
+      "name": "Terminator",
+      "ids": {
+        "tmdb": 218
+      },
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
     },
     {
       "id": "tmdb:14035",
@@ -405,18 +376,158 @@
       "logo": "https://image.tmdb.org/t/p/w500/n2ji2rXgtGkT4GTTHxNP2fHiXyX.png"
     },
     {
-      "id": "tmdb:13189",
+      "id": "tmdb:843",
       "type": "movie",
-      "name": "Un cuento de navidad",
+      "name": "Deseando amar",
       "ids": {
-        "tmdb": 13189
+        "tmdb": 843
       },
-      "overview": "Ebenezer Scrooge es un hombre mezquino y desalmado. El día de Navidad se presentan en su casa los fantasmas de las Navidades Pasadas, Presentes y Futuras, que lo obligan a contemplar no sólo los errores que ha cometido, sino las consecuencias que su conducta tendrá en el futuro. Esa visión cambia el corazón del viejo Scrooge que intentará reparar todo el mal que ha hecho antes de que sea demasiado tarde. Adaptación televisiva del famoso relato del escritor inglés Charles Dickens.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/uRTI1i5X7UfTjOu6hW4SWcwVas3.jpg",
+      "overview": "Hong Kong, 1962. Chow, redactor jefe de un diario local, se muda con su mujer a un edificio habitado principalmente por gentes de Shanghai. Allí conoce a Li-zhen, una joven que acaba de instalarse en el mismo edificio con su esposo. Ella es secretaria de una empresa de exportación y su marido está continuamente de viaje de negocios. Como la mujer de Chow también está casi siempre fuera de casa, Li-zhen y Chow pasan cada vez más tiempo juntos y se hacen muy amigos. Un día, ambos descubrirán que sus respectivos cónyuges los están traicionando.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/57iJR6wTAGmH3FEyFJcDca8ljYi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jTD3h28MwnSlH4gY0DdsN2vyidQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y0uTa08INmSD0q1Vafw5V5YMjdH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ek3uOFtrCYry0UzFaCTc9TB6QpG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ta3mZgHYQC394qq3zYXjuj3ASP5.png"
+    },
+    {
+      "id": "tmdb:30484",
+      "type": "movie",
+      "name": "La reina guerrera",
+      "ids": {
+        "tmdb": 30484
+      },
+      "overview": "Berenice (Sybil Danníng), la esposa del emperador romano, descubre la promiscua realidad de las calles de Pompeya. Indignada, Berenice decide, a riesgo de su propia vida, luchar para acabar con tan injusta situación, que incluye la humillación a la que condenan los hombres a las mujeres, vendiéndolas en cada esquina, rebajándolas a lo más indigno. Una pelea para la que se armará con sus poderes y que iniciará con la liberación de una joven que descubre cautiva.",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/P0j17mJRpSIZOglbtPkakHSD1S.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nSwJG7ODK6v03hlyiJj6mn045dK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gBSmbOIRotN0Ox7elnKtyDPUloQ.png"
+    },
+    {
+      "id": "tmdb:28501",
+      "type": "movie",
+      "name": "El péndulo de la muerte",
+      "ids": {
+        "tmdb": 28501
+      },
+      "overview": "Francis Barnard llega a un siniestro castillo para averiguar la causa de la muerte de su hermana Elizabeth, esposa del atormentado Nicolás Medina, hijo de un cruel inquisidor español.",
+      "year": 1961,
+      "poster": "https://image.tmdb.org/t/p/w342/8o9BzlUUsKIjt8j1F7WMAiBtRq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hnGMKGdqDHKzSXv55851TyrbAxC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ezO7ZOpYwrsYtjXUHjJ6JN4RNNO.png"
+    },
+    {
+      "id": "tmdb:28178",
+      "type": "movie",
+      "name": "Siempre a tu lado",
+      "ids": {
+        "tmdb": 28178
+      },
+      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+    },
+    {
+      "id": "tmdb:424",
+      "type": "movie",
+      "name": "La lista de Schindler",
+      "ids": {
+        "tmdb": 424
+      },
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3f92DMBTFqr3wgXpfxzrb0qv8nG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
+    },
+    {
+      "id": "tmdb:62",
+      "type": "movie",
+      "name": "2001: una odisea del espacio",
+      "ids": {
+        "tmdb": 62
+      },
+      "overview": "Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. Por último, HAL 9000, una máquina de inteligencia artificial, es la encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA.",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9yTOU2SvTfAEHDPEG5qraLoe4MI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
+    },
+    {
+      "id": "tmdb:290098",
+      "type": "movie",
+      "name": "La doncella",
+      "ids": {
+        "tmdb": 290098
+      },
+      "overview": "Corea, década de 1930, durante la colonización japonesa. Una joven llamada Sookee es contratada como doncella de una rica mujer japonesa, Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano. Sookee guarda un secreto y con la ayuda de un estafador que se hace pasar por un conde japonés, planea algo para Hideko.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/1CJWo3mJwNEi0RsSZyxbgVFOj8B.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lkW05VRHaCW85CqcldLQ1qPXVEu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
+    },
+    {
+      "id": "tmdb:450314",
+      "type": "movie",
+      "name": "Condorito: la película",
+      "ids": {
+        "tmdb": 450314
+      },
+      "overview": "El pajarraco más querido de Pelotillehue emprenderá, junto a su tenaz sobrino Coné, una peligrosa aventura para rescatar a su desaparecida suegra Doña Tremebunda, abducida misteriosamente por una banda alienígena. Lo que no ha tomado en cuenta es que, mientras intenta reparar el error con la madre de Yayita, ésta será tentada románticamente por el insistente Pepe Cortisona. Adaptación cinematográfica del famoso cómic chileno de Pepo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/14p0SmUxbh7bpJk2Xa4k6QlaUgO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ctrBBPZ2cPV2NsEQdeXz24X9trW.png"
+    },
+    {
+      "id": "tmdb:396535",
+      "type": "movie",
+      "name": "Train to Busan",
+      "ids": {
+        "tmdb": 396535
+      },
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6B9HaZYBG1ugyd5g6at6F3n4wOw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
+    },
+    {
+      "id": "tmdb:249397",
+      "type": "movie",
+      "name": "Nymphomaniac. Volumen 2",
+      "ids": {
+        "tmdb": 249397
+      },
+      "overview": "Historia de una ninfómana contada por ella misma. Una fría noche invernal, un viejo solterón encuentra en un callejón a una joven herida y casi inconsciente. Después de recogerla y cuidarla, siente curiosidad por saber cómo pudo haber llegado a semejante situación; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pewD5JT9KBwgp7NRicVpsmwKND7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vTfOIqem7QTT0AGzzHHcGWT1geh.png"
+    },
+    {
+      "id": "tmdb:110415",
+      "type": "movie",
+      "name": "Rompenieves",
+      "ids": {
+        "tmdb": 110415
+      },
+      "overview": "Un experimento para solucionar el calentamiento global acabó con la mayoría de vida existente en el planeta. El último tren llamado Snowpiercer (Rompenieves) se mueve en círculos por el mundo, a través de un desierto de hielo y nieve. Los últimos supervivientes de la Tierra se amontonan en sus vagones. El joven Curtis (Chris Evans) iniciará una revolución desde los vagones de cola.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/bjOZwED8BWum5KZsW6vntdsWp1o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xmJuhEgcUAbujUCmPVbM166IrBQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/233abhqwFtzGhcWStY4eonwpVnn.png"
     },
     {
       "id": "tmdb:38",
@@ -447,46 +558,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/aYc1jT45C3tQO6XfBrLjkVjUqKr.png"
     },
     {
-      "id": "tmdb:62",
+      "id": "tmdb:185",
       "type": "movie",
-      "name": "2001: una odisea del espacio",
+      "name": "La naranja mecánica",
       "ids": {
-        "tmdb": 62
+        "tmdb": 185
       },
-      "overview": "Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. Por último, HAL 9000, una máquina de inteligencia artificial, es la encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+      "overview": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9yTOU2SvTfAEHDPEG5qraLoe4MI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
-    },
-    {
-      "id": "tmdb:396535",
-      "type": "movie",
-      "name": "Train to Busan",
-      "ids": {
-        "tmdb": 396535
-      },
-      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6B9HaZYBG1ugyd5g6at6F3n4wOw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
-    },
-    {
-      "id": "tmdb:809",
-      "type": "movie",
-      "name": "Shrek 2",
-      "ids": {
-        "tmdb": 809
-      },
-      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f43VdMWKwuDOW1eo7REXHkSLx4Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
     },
     {
       "id": "tmdb:792",
@@ -503,76 +586,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/104cnXJEg5405iAVQj3m5Id1LZZ.png"
     },
     {
-      "id": "tmdb:1700",
-      "type": "movie",
-      "name": "Misery",
-      "ids": {
-        "tmdb": 1700
-      },
-      "overview": "Un escritor llamado Paul Sheldon lleva años malgastando su talento con unas románticas historias, de gran éxito comercial, cuya protagonista es una mujer llamada Misery. Decidido a acabar con esta situación, mata al personaje y se refugia en Colorado para escribir una novela seria. Terminado su trabajo, emprende el regreso, pero en una carretera de montaña, pierde el control de su coche y sufre un grave accidente. Annie Wilkes, una brusca e impetuosa mujer, gran admiradora suya, lo rescata, se lo lleva a su casa y lo cuida con esmero. Obsesionada con el personaje de Misery, retiene a Sheldon para obligarlo a escribir una nueva historia en la que resucite al personaje.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/fehKf1zn2IKa8pMwc71LeDzHjk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rZcwHqkhr9hrdGqssT8XTTHHyPK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6TKso3hgsXII5Xitut4oSqZXZqm.png"
-    },
-    {
-      "id": "tmdb:397243",
-      "type": "movie",
-      "name": "La autopsia de Jane Doe",
-      "ids": {
-        "tmdb": 397243
-      },
-      "overview": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2PGOY4IhPVx6bX877dUQE4n1WkJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8U8dMwDXUU5JwUCOyFR4in9d992.png"
-    },
-    {
-      "id": "tmdb:185",
-      "type": "movie",
-      "name": "La naranja mecánica",
-      "ids": {
-        "tmdb": 185
-      },
-      "overview": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f43VdMWKwuDOW1eo7REXHkSLx4Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
-    },
-    {
-      "id": "tmdb:979",
-      "type": "movie",
-      "name": "Irreversible",
-      "ids": {
-        "tmdb": 979
-      },
-      "overview": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9mkFblgXMi6g95FKQ7WVd4Dwj2e.png"
-    },
-    {
-      "id": "tmdb:12208",
-      "type": "movie",
-      "name": "Casino Royale",
-      "ids": {
-        "tmdb": 12208
-      },
-      "overview": "James Bond, en su dorado retiro, se deja convencer por una delegación de las grandes potencias para participar en una investigación sobre la SMERSH, una misteriosa organización internacional que pretende acabar con la estabilidad mundial.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/yDqq99AIXTpl8lpKQjhk0Xspgsp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l7ILQ9mp9sUpLInQisU5mb3gxdV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87cswd9MDZhzW87tXxWahtQhbWp.png"
-    },
-    {
       "id": "tmdb:345",
       "type": "movie",
       "name": "Eyes Wide Shut",
@@ -585,34 +598,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
-    },
-    {
-      "id": "tmdb:11051",
-      "type": "movie",
-      "name": "La última tentación de Cristo",
-      "ids": {
-        "tmdb": 11051
-      },
-      "overview": "Jesús, un carpintero de Nazaret, decide atender la constante llamada de Dios. Pero cuando está a punto de completar su misión, debe hacer frente a la mayor de las tentaciones y realizar un sacrificio para salvar a todos los hombres.",
-      "year": 1988,
-      "poster": "https://image.tmdb.org/t/p/w342/su4LK5bzWazBRyc5bHlG85inTXx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v3Our3np1vLqfgbgzBfwwZZHe86.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tiimtLwLcDyq9Sxu2mzWs0DernZ.png"
-    },
-    {
-      "id": "tmdb:389",
-      "type": "movie",
-      "name": "12 hombres sin piedad",
-      "ids": {
-        "tmdb": 389
-      },
-      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
     },
     {
       "id": "tmdb:17898",
@@ -629,74 +614,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/gUJXxJrMYc972WwKRIw6DmLTsYh.png"
     },
     {
-      "id": "tmdb:531428",
+      "id": "tmdb:13189",
       "type": "movie",
-      "name": "Retrato de una mujer en llamas",
+      "name": "Un cuento de navidad",
       "ids": {
-        "tmdb": 531428
+        "tmdb": 13189
       },
-      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
+      "overview": "Ebenezer Scrooge es un hombre mezquino y desalmado. El día de Navidad se presentan en su casa los fantasmas de las Navidades Pasadas, Presentes y Futuras, que lo obligan a contemplar no sólo los errores que ha cometido, sino las consecuencias que su conducta tendrá en el futuro. Esa visión cambia el corazón del viejo Scrooge que intentará reparar todo el mal que ha hecho antes de que sea demasiado tarde. Adaptación televisiva del famoso relato del escritor inglés Charles Dickens.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/uRTI1i5X7UfTjOu6hW4SWcwVas3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uLy5XjP5NKyqanqlTJJ7C58cpw0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jTD3h28MwnSlH4gY0DdsN2vyidQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y0uTa08INmSD0q1Vafw5V5YMjdH.png"
     },
     {
-      "id": "tmdb:254",
+      "id": "tmdb:397243",
       "type": "movie",
-      "name": "King Kong",
+      "name": "La autopsia de Jane Doe",
       "ids": {
-        "tmdb": 254
+        "tmdb": 397243
       },
-      "overview": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
+      "overview": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4QRjnMYg3PyATd96bb2kXGvE96S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bLl02c4vewuscZ7CRo2xUc1uJud.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2PGOY4IhPVx6bX877dUQE4n1WkJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8U8dMwDXUU5JwUCOyFR4in9d992.png"
     },
     {
-      "id": "tmdb:110415",
+      "id": "tmdb:1700",
       "type": "movie",
-      "name": "Rompenieves",
+      "name": "Misery",
       "ids": {
-        "tmdb": 110415
+        "tmdb": 1700
       },
-      "overview": "Un experimento para solucionar el calentamiento global acabó con la mayoría de vida existente en el planeta. El último tren llamado Snowpiercer (Rompenieves) se mueve en círculos por el mundo, a través de un desierto de hielo y nieve. Los últimos supervivientes de la Tierra se amontonan en sus vagones. El joven Curtis (Chris Evans) iniciará una revolución desde los vagones de cola.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/bjOZwED8BWum5KZsW6vntdsWp1o.jpg",
+      "overview": "Un escritor llamado Paul Sheldon lleva años malgastando su talento con unas románticas historias, de gran éxito comercial, cuya protagonista es una mujer llamada Misery. Decidido a acabar con esta situación, mata al personaje y se refugia en Colorado para escribir una novela seria. Terminado su trabajo, emprende el regreso, pero en una carretera de montaña, pierde el control de su coche y sufre un grave accidente. Annie Wilkes, una brusca e impetuosa mujer, gran admiradora suya, lo rescata, se lo lleva a su casa y lo cuida con esmero. Obsesionada con el personaje de Misery, retiene a Sheldon para obligarlo a escribir una nueva historia en la que resucite al personaje.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/fehKf1zn2IKa8pMwc71LeDzHjk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xmJuhEgcUAbujUCmPVbM166IrBQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/233abhqwFtzGhcWStY4eonwpVnn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rZcwHqkhr9hrdGqssT8XTTHHyPK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6TKso3hgsXII5Xitut4oSqZXZqm.png"
     },
     {
-      "id": "tmdb:15515",
+      "id": "tmdb:809",
       "type": "movie",
-      "name": "Simbad y la princesa",
+      "name": "Shrek 2",
       "ids": {
-        "tmdb": 15515
+        "tmdb": 809
       },
-      "overview": "Simbad emprende un peligroso viaje lleno de aventuras hacia la misteriosa isla del Coloso, con la intención de romper el maleficio lanzado por un diabólico mago contra la princesa de la que está enamorado. Para salvarla, deberá luchar contra innumerables monstruos míticos como el Cíclope devorador de hombres, un esqueleto que maneja un sable, un feroz pájaro bicéfalo llamado el Roc y un dragón que lanza llamaradas de fuego por la boca.",
-      "year": 1958,
-      "poster": "https://image.tmdb.org/t/p/w342/53K55u9HiEgBl8janP05U6NAZGo.jpg",
+      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1EmJZvq6YV6MClxUhEPnT5xcUs8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlD5eKfnL6m38O2Cy9WAFwqJEFL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
-      "id": "tmdb:519465",
+      "id": "tmdb:10949",
       "type": "movie",
-      "name": "Reina de corazones",
+      "name": "Oliver Twist",
       "ids": {
-        "tmdb": 519465
+        "tmdb": 10949
       },
-      "overview": "Annie es una exitosa abogada que vive en una casa de estilo modernista con sus dos hijas y su marido Peter, un reputado físico. La aparición de Gustav, un hijo que pertenece a una relación previa de Peter, pone patas arriba la armonía que reina en la vida de Annie. Lo que en un principio parece ser un movimiento liberador para ella, pronto se convierte en una historia de poder y traición que tendrá consecuencias devastadoras en su vida.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dnbZXUwp7ZGNZnPeBxXA1HHxsab.jpg",
+      "overview": "Inglaterra, siglo XIX. Famosa adaptación de la novela homónima de Charles Dickens. Oliver es un niño huérfano al que su madre, una joven soltera, abandonó a las puertas de un orfanato. Para librarse de él, el malvado director de la institución, decide venderlo a un empresario como aprendiz de su taller. Cansado de los malos tratos que recibe, huye y acaba uniéndose a un grupo de pequeños rateros que viven bajo la férula de un viejo tiránico.",
+      "year": 1948,
+      "poster": "https://image.tmdb.org/t/p/w342/zEkA7FKK3nenSl8mxhvhqC2euar.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zr9HEaVyaUJcb4J3wLUBdSaEimE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xYuUaDE58uvEqqbAhwDRpp24Nr.png"
+    },
+    {
+      "id": "tmdb:979",
+      "type": "movie",
+      "name": "Irreversible",
+      "ids": {
+        "tmdb": 979
+      },
+      "overview": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9mkFblgXMi6g95FKQ7WVd4Dwj2e.png"
     }
   ]
 }
