@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1252037",
+      "type": "movie",
+      "name": "Der Tiger (El tanque)",
+      "ids": {
+        "tmdb": 1252037
+      },
+      "overview": "Frente oriental, 1943: la dotación alemana de un tanque Tiger se embarca en una peligrosa misión tras las líneas enemigas. A medida que atraviesan la mortífera tierra de nadie, deberán enfrentarse al enemigo y a sus propios fantasmas del pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iqPUwI03NVnyrXmd0hiN4Au93hv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aRuwGYnsmbtFN2aCZq3oZHuMm8b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s59T17D3Bm6pJ93G5l8iXDgQanR.png"
+    },
+    {
       "id": "tmdb:1083637",
       "type": "movie",
       "name": "Kantara 2",
@@ -13,20 +27,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bgTDsN8b7C1y6RmGu2GHKRvPZG7.png"
-    },
-    {
-      "id": "tmdb:1010581",
-      "type": "movie",
-      "name": "Culpa mía",
-      "ids": {
-        "tmdb": 1010581
-      },
-      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ytp4DLPaWryo8rrTNBSYPIOJfDw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
     },
     {
       "id": "tmdb:628847",
@@ -43,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/hOkmoR0Uwt5sczy0e5wgstUcYeS.png"
     },
     {
+      "id": "tmdb:1010581",
+      "type": "movie",
+      "name": "Culpa mía",
+      "ids": {
+        "tmdb": 1010581
+      },
+      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ytp4DLPaWryo8rrTNBSYPIOJfDw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
+    },
+    {
       "id": "tmdb:14320",
       "type": "movie",
       "name": "Cadenas rotas",
@@ -55,20 +69,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/gl2NO8fcwIaH0eEGc5bJkMzoKod.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uQSgQ9ZNiIXJOEmZN8VGxRMShVH.png"
-    },
-    {
-      "id": "tmdb:8871",
-      "type": "movie",
-      "name": "El Grinch",
-      "ids": {
-        "tmdb": 8871
-      },
-      "overview": "Cada año, en Navidad, los lugareños perturban su pacífica soledad con celebraciones cada vez más desmesuradas, luminosas y ruidosas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciéndose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quién, una dulce niña llamada Cindy-Lou, desbordante de espíritu navideño, planea con sus amigos atrapar a Papá Noel durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche mágica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho más perversas.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
     },
     {
       "id": "tmdb:1248226",
@@ -85,18 +85,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4XQyjOv5Y0EbYDdB1p3sMRH7uWv.png"
     },
     {
-      "id": "tmdb:120",
+      "id": "tmdb:1197306",
       "type": "movie",
-      "name": "El señor de los anillos: La comunidad del anillo",
+      "name": "A Working Man",
       "ids": {
-        "tmdb": 120
+        "tmdb": 1197306
       },
-      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uz3PYuJFmLn01uVaIlWdzk6sWtC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
     },
     {
       "id": "tmdb:541671",
@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
     },
     {
-      "id": "tmdb:1197306",
-      "type": "movie",
-      "name": "A Working Man",
-      "ids": {
-        "tmdb": 1197306
-      },
-      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uz3PYuJFmLn01uVaIlWdzk6sWtC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
-    },
-    {
       "id": "tmdb:1379963",
       "type": "movie",
       "name": "Dímelo bajito",
@@ -139,6 +125,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/1Qa9pqG9tyPCY5ur8SVMGIB6yWn.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/a4srrym62lCdGgNCwW2SwZVHg8j.png"
+    },
+    {
+      "id": "tmdb:120",
+      "type": "movie",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "ids": {
+        "tmdb": 120
+      },
+      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
+    },
+    {
+      "id": "tmdb:8871",
+      "type": "movie",
+      "name": "El Grinch",
+      "ids": {
+        "tmdb": 8871
+      },
+      "overview": "Cada año, en Navidad, los lugareños perturban su pacífica soledad con celebraciones cada vez más desmesuradas, luminosas y ruidosas. Cuando los Quién declaran que ese año van a preparar una Navidad el triple de grande, el Grinch se da cuenta de que solo hay un modo de recuperar algo de paz y silencio: robar la Navidad. Para ello, decide hacerse pasar por Santa Claus en Nochebuena, haciéndose con un reno muy peculiar para tirar de su trineo. Mientras tanto, en Villa Quién, una dulce niña llamada Cindy-Lou, desbordante de espíritu navideño, planea con sus amigos atrapar a Papá Noel durante su visita en Nochebuena para darle las gracias por ayudar a su trabajadora madre. Sin embargo, a medida que se acerca la noche mágica, sus buenas intenciones amenazan con chocar con las del Grinch, mucho más perversas.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
+    },
+    {
+      "id": "tmdb:949709",
+      "type": "movie",
+      "name": "El secuestro",
+      "ids": {
+        "tmdb": 949709
+      },
+      "overview": "Gao Haojun, un experto en seguridad internacional, es secuestrado por hombres armados en el primer vuelo del avión A380, y su hija ciega es una de los rehenes encubiertos, un hecho que él desconoce.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/v8ySgr4CE45SrrIt4PqqYc1diW6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w6AUMkwUzecLJ4uxKeiFrrYaUjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9e0NxOE8nhuXuerSjMlh3KbX8C1.png"
     },
     {
       "id": "tmdb:122",
@@ -155,34 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
     },
     {
-      "id": "tmdb:121",
-      "type": "movie",
-      "name": "El señor de los anillos: Las dos torres",
-      "ids": {
-        "tmdb": 121
-      },
-      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
-    },
-    {
-      "id": "tmdb:845781",
-      "type": "movie",
-      "name": "Red One",
-      "ids": {
-        "tmdb": 845781
-      },
-      "overview": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
-    },
-    {
       "id": "tmdb:808",
       "type": "movie",
       "name": "Shrek",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
-      "id": "tmdb:601",
+      "id": "tmdb:121",
       "type": "movie",
-      "name": "E.T. el extraterrestre",
+      "name": "El señor de los anillos: Las dos torres",
       "ids": {
-        "tmdb": 601
+        "tmdb": 121
       },
-      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aeI3FHtqYPgVNRNCFds7lUBgr4d.png"
     },
     {
       "id": "tmdb:569094",
@@ -239,32 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jXD508N2VDuaWs1yRtfA9FB8E1E.png"
     },
     {
-      "id": "tmdb:949709",
+      "id": "tmdb:496243",
       "type": "movie",
-      "name": "El secuestro",
+      "name": "Parásitos",
       "ids": {
-        "tmdb": 949709
+        "tmdb": 496243
       },
-      "overview": "Gao Haojun, un experto en seguridad internacional, es secuestrado por hombres armados en el primer vuelo del avión A380, y su hija ciega es una de los rehenes encubiertos, un hecho que él desconoce.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/v8ySgr4CE45SrrIt4PqqYc1diW6.jpg",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w6AUMkwUzecLJ4uxKeiFrrYaUjY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9e0NxOE8nhuXuerSjMlh3KbX8C1.png"
-    },
-    {
-      "id": "tmdb:1119878",
-      "type": "movie",
-      "name": "Ice Road: Venganza",
-      "ids": {
-        "tmdb": 1119878
-      },
-      "overview": "El camionero del hielo Mike McCann, cumpliendo el último deseo de su hermano, viaja a Nepal para esparcir sus cenizas en el monte Everest. En un autobús turístico que atraviesa el territorio de la tristemente célebre Ruta al Cielo, Mike y su guía se topan con un grupo de mercenarios y deberán luchar para salvar sus vidas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5Wb1sOZvFulzzJE5JDWCnFSCvJ5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ypZZ8IspcRuC9srzuaTU6O6BQBb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kEqs5aTSmmYc1DE1jCOcY573V0A.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
       "id": "tmdb:1156594",
@@ -281,32 +267,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
     },
     {
-      "id": "tmdb:496243",
+      "id": "tmdb:845781",
       "type": "movie",
-      "name": "Parásitos",
+      "name": "Red One",
       "ids": {
-        "tmdb": 496243
+        "tmdb": 845781
       },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "overview": "Tras el secuestro de Papá Noel (nombre en clave: RED ONE), el Jefe de Seguridad del Polo Norte (Dwayne Johnson) debe formar equipo con el cazarrecompensas más infame del mundo (Chris Evans) en una misión trotamundos llena de acción para salvar la Navidad.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2MWJEFwQi7GF9rPZDnai4eIQMO1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1a40h3dCiDlonF2St05dnMXGs71.png"
     },
     {
-      "id": "tmdb:1042834",
+      "id": "tmdb:1119878",
       "type": "movie",
-      "name": "Edén",
+      "name": "Ice Road: Venganza",
       "ids": {
-        "tmdb": 1042834
+        "tmdb": 1119878
       },
-      "overview": "En 1932, un grupo de europeos busca una nueva vida en una isla deshabitada del archipiélago de las Galápagos. Ellos y quienes les siguen creen haber encontrado el paraíso, pero descubren que el infierno son los demás.",
+      "overview": "El camionero del hielo Mike McCann, cumpliendo el último deseo de su hermano, viaja a Nepal para esparcir sus cenizas en el monte Everest. En un autobús turístico que atraviesa el territorio de la tristemente célebre Ruta al Cielo, Mike y su guía se topan con un grupo de mercenarios y deberán luchar para salvar sus vidas.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/ljeWnqoxhW0CR2QEoIrWDRghSUk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5Wb1sOZvFulzzJE5JDWCnFSCvJ5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7LH0AzPdQiM1WlDGaHKAl5kCFTu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/doefxasnXlMJuSzwhIfqWeOYngo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ypZZ8IspcRuC9srzuaTU6O6BQBb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kEqs5aTSmmYc1DE1jCOcY573V0A.png"
+    },
+    {
+      "id": "tmdb:8316",
+      "type": "movie",
+      "name": "La condesa",
+      "ids": {
+        "tmdb": 8316
+      },
+      "overview": "Reino de Hungría, siglo XVII. A medida que envejece, la poderosa condesa Erzsébet Báthory (1560-1614), cegada por la pasión que siente por un hombre más joven, sucumbe a la loca ilusión de que la sangre la mantendrá joven y hermosa para siempre.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/nnksbKPiwDZS5x9O64OU94hJ15g.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w1kShva9ltxozY2UePgBjXjedvI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZoopUiqJKhoaGDTfJq8tu9QTee.png"
     },
     {
       "id": "tmdb:1196573",
@@ -323,18 +323,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/engQHtbAob3uPPU88mucAcc9Ep8.png"
     },
     {
-      "id": "tmdb:360920",
+      "id": "tmdb:1042834",
       "type": "movie",
-      "name": "El Grinch",
+      "name": "Edén",
       "ids": {
-        "tmdb": 360920
+        "tmdb": 1042834
       },
-      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "overview": "En 1932, un grupo de europeos busca una nueva vida en una isla deshabitada del archipiélago de las Galápagos. Ellos y quienes les siguen creen haber encontrado el paraíso, pero descubren que el infierno son los demás.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/ljeWnqoxhW0CR2QEoIrWDRghSUk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7LH0AzPdQiM1WlDGaHKAl5kCFTu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/doefxasnXlMJuSzwhIfqWeOYngo.png"
+    },
+    {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T. el extraterrestre",
+      "ids": {
+        "tmdb": 601
+      },
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
     },
     {
       "id": "tmdb:438631",
@@ -379,34 +393,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
-      "id": "tmdb:75656",
-      "type": "movie",
-      "name": "Ahora me ves",
-      "ids": {
-        "tmdb": 75656
-      },
-      "overview": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia. Ellos son 'los cuatro jinetes', un grupo formado por los mejores ilusionistas del mundo, dedicado a realizar grandes robos contra hombres de negocios corruptos. Su gran golpe es pasar desapercibidos para hacer llover el dinero robado a su público. En un mundo de magia y espectáculo, nada es lo que parece.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uVZGbacrkTQ233b18kUBH5RVEVm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/s12Cs0MCfu8Z4FnRumGrMHiLOTt.png"
-    },
-    {
-      "id": "tmdb:8316",
-      "type": "movie",
-      "name": "La condesa",
-      "ids": {
-        "tmdb": 8316
-      },
-      "overview": "Reino de Hungría, siglo XVII. A medida que envejece, la poderosa condesa Erzsébet Báthory (1560-1614), cegada por la pasión que siente por un hombre más joven, sucumbe a la loca ilusión de que la sangre la mantendrá joven y hermosa para siempre.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/nnksbKPiwDZS5x9O64OU94hJ15g.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w1kShva9ltxozY2UePgBjXjedvI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZoopUiqJKhoaGDTfJq8tu9QTee.png"
-    },
-    {
       "id": "tmdb:1106289",
       "type": "movie",
       "name": "El último encargo",
@@ -435,46 +421,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/xVdAIoMsR1OOcfOCXUYVgLGq5o.png"
     },
     {
-      "id": "tmdb:106646",
+      "id": "tmdb:360920",
       "type": "movie",
-      "name": "El lobo de Wall Street",
+      "name": "El Grinch",
       "ids": {
-        "tmdb": 106646
+        "tmdb": 360920
       },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
+    },
+    {
+      "id": "tmdb:75656",
+      "type": "movie",
+      "name": "Ahora me ves",
+      "ids": {
+        "tmdb": 75656
+      },
+      "overview": "Un equipo del FBI debe enfrentarse a una banda de criminales expertos en magia. Ellos son 'los cuatro jinetes', un grupo formado por los mejores ilusionistas del mundo, dedicado a realizar grandes robos contra hombres de negocios corruptos. Su gran golpe es pasar desapercibidos para hacer llover el dinero robado a su público. En un mundo de magia y espectáculo, nada es lo que parece.",
       "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
-    },
-    {
-      "id": "tmdb:749170",
-      "type": "movie",
-      "name": "Jefes de Estado",
-      "ids": {
-        "tmdb": 749170
-      },
-      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
-    },
-    {
-      "id": "tmdb:1166133",
-      "type": "movie",
-      "name": "Bramayugam",
-      "ids": {
-        "tmdb": 1166133
-      },
-      "overview": "Thevan, un cantante folclórico de la casta Paanan, tiene un encuentro fatídico cuando escapa de la esclavitud, lo que lo lleva a descubrir una antigua tradición que altera su destino.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ubuky9o9zypoGCbYntwZBwBIXCc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a2H0rJIrGHTvnddkKaDRkBqigfj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uVZGbacrkTQ233b18kUBH5RVEVm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s12Cs0MCfu8Z4FnRumGrMHiLOTt.png"
     },
     {
       "id": "tmdb:1186350",
@@ -491,32 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zp04i9bv8WMfzr7IUFcdXWDiAi3.png"
     },
     {
-      "id": "tmdb:807",
+      "id": "tmdb:870028",
       "type": "movie",
-      "name": "Seven",
+      "name": "El contable 2",
       "ids": {
-        "tmdb": 807
+        "tmdb": 870028
       },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "overview": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/jcV9YfjBRo6occxqeWtEiyWwMoG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
-    },
-    {
-      "id": "tmdb:20766",
-      "type": "movie",
-      "name": "La Carretera",
-      "ids": {
-        "tmdb": 20766
-      },
-      "overview": "El planeta ha sido arrasado por un misterioso cataclismo y, en medio de la desolación, un padre y su hijo se dirigen hacia la costa en busca de un lugar seguro donde asentarse. Durante el viaje se cruzarán con otros supervivientes: unos se han vuelto locos, otros se han convertido en caníbales.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/wKU6IcJsWP2rPmMg6DiOT2anNnB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r2LrZ97fsF3JLJC68LyCf8cMV3l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tDw6O7iHKcIejgz03GCvbRTMowr.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6yNfpmeDmG0NSmZLooQ5TZbZW81.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/npx5Ad1csHYx0FuAA8iVfrXfj52.png"
     },
     {
       "id": "tmdb:291805",
@@ -533,18 +491,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yUVdxlUCXlvGe5kEspq7wp4FDmR.png"
     },
     {
-      "id": "tmdb:98",
+      "id": "tmdb:1166133",
       "type": "movie",
-      "name": "Gladiator",
+      "name": "Bramayugam",
       "ids": {
-        "tmdb": 98
+        "tmdb": 1166133
       },
-      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "overview": "Thevan, un cantante folclórico de la casta Paanan, tiene un encuentro fatídico cuando escapa de la esclavitud, lo que lo lleva a descubrir una antigua tradición que altera su destino.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/snQLwRrfQAl5YFKVefZq9Lbscki.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ubuky9o9zypoGCbYntwZBwBIXCc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a2H0rJIrGHTvnddkKaDRkBqigfj.png"
+    },
+    {
+      "id": "tmdb:106646",
+      "type": "movie",
+      "name": "El lobo de Wall Street",
+      "ids": {
+        "tmdb": 106646
+      },
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
       "id": "tmdb:603692",
@@ -561,6 +533,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7EtVuIqlDIjn3IEpXeq9sF6wDp.png"
     },
     {
+      "id": "tmdb:1144443",
+      "type": "movie",
+      "name": "Sigue mi voz",
+      "ids": {
+        "tmdb": 1144443
+      },
+      "overview": "Tras una crisis de salud que la mantiene en casa 76 días seguidos, Klara no hace otra cosa que escuchar su programa de radio favorito, \"Sigue Mi Voz\". Pero un día se pregunta: ¿es posible enamorarse de alguien a quien ha oído en la radio, pero nunca ha conocido? ¿Puede realmente sentir algo por Kang, el presentador del programa de radio, superará sus miedos y saldrá de nuevo al mundo?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/saNidIuqNyFSkCoW60cybQg3tL3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xhsC3f7bud0Kx3SJI9YlGgILwhf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rC5UGs9BvuxFNu8TzaDvuATDm8J.png"
+    },
+    {
       "id": "tmdb:1241436",
       "type": "movie",
       "name": "Warfare: Tiempo de guerra",
@@ -573,20 +559,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8sEY83GUjbF60geBjAyUIkhDsOr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cRHC3tyxV7hEOrnjNhRaIvaMZ1C.png"
-    },
-    {
-      "id": "tmdb:280",
-      "type": "movie",
-      "name": "Terminator 2: El juicio final",
-      "ids": {
-        "tmdb": 280
-      },
-      "overview": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AdGf9iVmwI8QLGOk7SxNVu0Bqb5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/J7vIMfYlrTepIGhUX4IrniPyxU.png"
     },
     {
       "id": "tmdb:4348",
@@ -603,18 +575,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
     },
     {
-      "id": "tmdb:1255775",
+      "id": "tmdb:280",
       "type": "movie",
-      "name": "Merv",
+      "name": "Terminator 2: El juicio final",
       "ids": {
-        "tmdb": 1255775
+        "tmdb": 280
       },
-      "overview": "Cuando su querido perro Merv pierde la chispa tras su separación, Anna y Russ se ven obligados a aceptar el acuerdo de crianza compartida más incómodo del mundo. Con la esperanza de sacar a Merv de su depresión, Russ lo lleva de escapada a Florida, pero Anna aparece inesperadamente. Mientras Merv recupera el ánimo, parece que curar el corazón roto de su perro despierta otras chispas entre ellos.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/p1ipWHTrzsmd3QTidbQXY2ZCcUk.jpg",
+      "overview": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yeQjxkAbExWnqWrhu9pApm5EYuz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/soEB2qzV4IuN2zEVHKjKWhU5WKg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/AdGf9iVmwI8QLGOk7SxNVu0Bqb5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/J7vIMfYlrTepIGhUX4IrniPyxU.png"
     },
     {
       "id": "tmdb:18785",
@@ -631,18 +603,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
     },
     {
-      "id": "tmdb:652",
+      "id": "tmdb:749170",
       "type": "movie",
-      "name": "Troya",
+      "name": "Jefes de Estado",
       "ids": {
-        "tmdb": 652
+        "tmdb": 749170
       },
-      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "overview": "El primer ministro del Reino Unido y el presidente de EE. UU. tienen una rivalidad pública que pone en riesgo la alianza entre sus países. Pero cuando se convierten en el blanco de un poderoso enemigo, se ven obligados a confiar el uno en el otro. Aliados con Noel, una agente del MI6, intenta frustrar una conspiración que amenaza al mundo libre.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/2CSdwqOUMH23cEBodqAJynMFz7c.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1xDev1aS6juHOuhpOIKKlczEdrW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2VLbTs11eF3Ecw7coArU1oEGj1G.png"
+    },
+    {
+      "id": "tmdb:98",
+      "type": "movie",
+      "name": "Gladiator",
+      "ids": {
+        "tmdb": 98
+      },
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
       "id": "tmdb:941109",
@@ -659,32 +645,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/8FYBuJbhWVMUjYkUcebfGPPicQx.png"
     },
     {
-      "id": "tmdb:5255",
+      "id": "tmdb:1305717",
       "type": "movie",
-      "name": "Polar Express",
+      "name": "Zona de caza",
       "ids": {
-        "tmdb": 5255
+        "tmdb": 1305717
       },
-      "overview": "Esta es la historia de un jovencito en la víspera de Navidad quien aborda un poderoso y mágico tren que se dirige al hogar de Papá Noel, en el Polo Norte. Lo que se desarrolla es una aventura que sigue al dubitativo niño, quien toma un tren extraordinario al Polo Norte; durante este viaje, se embarca en una experiencia de autodescubrimiento que le muestra que las maravillas de la vida nunca se desvanecen para quienes creen.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/ja6QGEUkP8t3wjjoHYvpRStomlT.jpg",
+      "overview": "Una madre que huye de su marido, relacionado con la mafia, encuentra refugio en casa de un vagabundo llamado Jake, pero cuando los hombres de su marido se acercan, Jake resulta ser más peligroso que cualquiera de los que ella huye.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/u6DNzvz4y3XS5QYqsvvauIx4Xvc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5JfDtF6NJ8kShj153hRPiUCq1bW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vElEYlOkh84RVLh1ak73IURAb2J.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/y9fNYJSpHNPUc9DfgudeHbsg5E3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wcj1G9DnomUt2B2FlyzNxzEcpbU.png"
     },
     {
-      "id": "tmdb:1156593",
+      "id": "tmdb:20766",
       "type": "movie",
-      "name": "Culpa tuya",
+      "name": "La Carretera",
       "ids": {
-        "tmdb": 1156593
+        "tmdb": 20766
       },
-      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+      "overview": "El planeta ha sido arrasado por un misterioso cataclismo y, en medio de la desolación, un padre y su hijo se dirigen hacia la costa en busca de un lugar seguro donde asentarse. Durante el viaje se cruzarán con otros supervivientes: unos se han vuelto locos, otros se han convertido en caníbales.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/wKU6IcJsWP2rPmMg6DiOT2anNnB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2wN6xbmMPFVqnhQkoxNBTB5djFR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/r2LrZ97fsF3JLJC68LyCf8cMV3l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tDw6O7iHKcIejgz03GCvbRTMowr.png"
     },
     {
       "id": "tmdb:11324",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
+    },
+    {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "ids": {
+        "tmdb": 807
+      },
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     }
   ]
 }

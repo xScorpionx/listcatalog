@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1920",
-      "type": "series",
-      "name": "Twin Peaks",
-      "ids": {
-        "tmdb": 1920
-      },
-      "overview": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/frgw31E00tK2bYBeVjbjpHrJwyU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png"
-    },
-    {
       "id": "tmdb:57775",
       "type": "series",
       "name": "ちびまる子ちゃん",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cqeeBvjpXu28JerXBItA73z5tqU.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/r8vAZh4KLhTQ9TvU30Og5P5EXi6.png"
+    },
+    {
+      "id": "tmdb:1920",
+      "type": "series",
+      "name": "Twin Peaks",
+      "ids": {
+        "tmdb": 1920
+      },
+      "overview": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/frgw31E00tK2bYBeVjbjpHrJwyU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png"
     },
     {
       "id": "tmdb:3902",
@@ -141,20 +141,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/tKhdwK9EEllVcwFbAQANzeXphuI.png"
     },
     {
-      "id": "tmdb:1998",
-      "type": "series",
-      "name": "Luz de luna",
-      "ids": {
-        "tmdb": 1998
-      },
-      "overview": "La guapa e inteligente Maddie Hayes (Cybill Shepherd) y el simpático caradura David Addison (Bruce Willis) forman una encantadora pareja de investigadores privados, pero la jefa es ella. Popular serie de televisión con mucho humor, un poco de intriga, tensión sexual entre los protagonistas y un estilo sofisticado y elegante.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/tXHXhsuAU8B2mJs4AkEpsYzk75.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zBl0VK0uvnvpUhGH6wYfx9C808f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gXi1NpNXXjtXN8nMixJj5vA1kWj.png"
-    },
-    {
       "id": "tmdb:35753",
       "type": "series",
       "name": "Zero no Tsukaima",
@@ -197,18 +183,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3siDplIEzv3Is4xouxX19VaVspt.png"
     },
     {
-      "id": "tmdb:251597",
+      "id": "tmdb:1998",
       "type": "series",
-      "name": "Bookish",
+      "name": "Luz de luna",
       "ids": {
-        "tmdb": 251597
+        "tmdb": 1998
       },
-      "overview": "En el Londres de 1946, hay una librería que lleva el nombre de su excéntrico propietario: Book. Antiguo espía militar reconvertido en detective poco convencional, Gabriel Book (Mark Gatiss) disfruta ayudando a la policía a resolver sus casos más complejos. Cuando Jack, un joven con un pasado como exconvicto, es enviado a trabajar a la librería, no tarda en sospechar que su llegada no fue en absoluto casual. ¿Podría estar su pasado irremediablemente entrelazado?",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
+      "overview": "La guapa e inteligente Maddie Hayes (Cybill Shepherd) y el simpático caradura David Addison (Bruce Willis) forman una encantadora pareja de investigadores privados, pero la jefa es ella. Popular serie de televisión con mucho humor, un poco de intriga, tensión sexual entre los protagonistas y un estilo sofisticado y elegante.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/tXHXhsuAU8B2mJs4AkEpsYzk75.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h0nkCUMCjYEGpDJfe0n4pRx7gLk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jqh8ArccrJZR5l70T90skCgvwYW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zBl0VK0uvnvpUhGH6wYfx9C808f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gXi1NpNXXjtXN8nMixJj5vA1kWj.png"
     },
     {
       "id": "tmdb:4396",
@@ -267,6 +253,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/98k2unYRV6GRUE0icVSSZdl4vr9.png"
     },
     {
+      "id": "tmdb:251597",
+      "type": "series",
+      "name": "Bookish",
+      "ids": {
+        "tmdb": 251597
+      },
+      "overview": "En el Londres de 1946, hay una librería que lleva el nombre de su excéntrico propietario: Book. Antiguo espía militar reconvertido en detective poco convencional, Gabriel Book (Mark Gatiss) disfruta ayudando a la policía a resolver sus casos más complejos. Cuando Jack, un joven con un pasado como exconvicto, es enviado a trabajar a la librería, no tarda en sospechar que su llegada no fue en absoluto casual. ¿Podría estar su pasado irremediablemente entrelazado?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h0nkCUMCjYEGpDJfe0n4pRx7gLk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jqh8ArccrJZR5l70T90skCgvwYW.png"
+    },
+    {
       "id": "tmdb:243140",
       "type": "series",
       "name": "¡Oye, Tonbo!",
@@ -309,20 +309,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/5aorUFo7DoAQusNW2ltFq9vrpS3.png"
     },
     {
-      "id": "tmdb:87542",
-      "type": "series",
-      "name": "Darkness: La huella del crimen",
-      "ids": {
-        "tmdb": 87542
-      },
-      "overview": "La desaparición de una adolescente sirve de motor de arranque de este oscuro thriller criminal que nos sumerge en los recovecos más oscuros y extremos de la mente humana. Una serie intensa que le habla a tu mente y golpea tu corazón.\n\nEl detective Jan Michelsen está investigando la desaparición de Julie, una joven de 17 años cuyo rastro se perdió de noche en Greve, un suburbio de Copenhague.  Tras medio año de trabajo, Jan es el único que cree que la chica sigue viva. Haber encontrado un caso sin resolver similar, en el que una adolescente llamada Natasha desapareció de camino a casa tras una fiesta, le lleva a pensar que hay un asesino en serie detrás de los dos sucesos. Junto a la criminóloga Louise Bergstein se adentrará en una investigación repleta de contradicciones y detalles escabrosos.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/iCemgvCUNpcak58yJkflgBGkpe6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfKruLVM7XOmQ0FTjZXyKqgnSlH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCTVt7CKYIg7jbo2px7qnu9Df8Z.png"
-    },
-    {
       "id": "tmdb:29452",
       "type": "series",
       "name": "Heidi",
@@ -335,6 +321,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mrHB56Y6sraDUOFDz91FBDmLltL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3EmQDSETXrYEAJ646jLglGurYvs.png"
+    },
+    {
+      "id": "tmdb:87542",
+      "type": "series",
+      "name": "Darkness: La huella del crimen",
+      "ids": {
+        "tmdb": 87542
+      },
+      "overview": "La desaparición de una adolescente sirve de motor de arranque de este oscuro thriller criminal que nos sumerge en los recovecos más oscuros y extremos de la mente humana. Una serie intensa que le habla a tu mente y golpea tu corazón.\n\nEl detective Jan Michelsen está investigando la desaparición de Julie, una joven de 17 años cuyo rastro se perdió de noche en Greve, un suburbio de Copenhague.  Tras medio año de trabajo, Jan es el único que cree que la chica sigue viva. Haber encontrado un caso sin resolver similar, en el que una adolescente llamada Natasha desapareció de camino a casa tras una fiesta, le lleva a pensar que hay un asesino en serie detrás de los dos sucesos. Junto a la criminóloga Louise Bergstein se adentrará en una investigación repleta de contradicciones y detalles escabrosos.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/iCemgvCUNpcak58yJkflgBGkpe6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gfKruLVM7XOmQ0FTjZXyKqgnSlH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCTVt7CKYIg7jbo2px7qnu9Df8Z.png"
     },
     {
       "id": "tmdb:3714",
@@ -379,46 +379,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hgv2GT3rLIO0GNzAb5SwUML4cOi.png"
     },
     {
-      "id": "tmdb:218351",
+      "id": "tmdb:19521",
       "type": "series",
-      "name": "The Gold",
+      "name": "El maravilloso viaje de Nils Holgersson",
       "ids": {
-        "tmdb": 218351
+        "tmdb": 19521
       },
-      "overview": "El 26 de noviembre de 1983, seis hombres armados roban oro por valor de 26 millones de libras del depósito de seguridad de Brink's-Mat y tratan de deshacerse de los lingotes.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg",
+      "overview": "Las divertidas aventuras de Nils Holgersson, un travieso muchacho que va a emprender un fabuloso viaje por los cielos, tierras y mares de la hermosa Suecia, del cual habrá de regresar muy cambiado por fuera y, sobre todo, por dentro. Magia y aventura, sueños y leyenda, paisajes maravillosos y animales extraordinarios, sensaciones de altura, velocidad, poder y libertad. Todo en esta producción animada por el prestigioso estudio de animación, el Studio Pierrot.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/nwlcv4fmYV2v4t41RFXXPvFY2GR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/M6Y0Q5HSffNZ7hXm6z6VC8iRAb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bcScLzf14GB077rVCPaSI7jTJGH.png"
-    },
-    {
-      "id": "tmdb:94137",
-      "type": "series",
-      "name": "Exit",
-      "ids": {
-        "tmdb": 94137
-      },
-      "overview": "La salida se basa en las historias reales de cuatro hombres de treinta y tantos años que se convirtieron en multimillonarios antes de los treinta y un años. Intentando escapar de sus obligaciones, expectativas y familias, emplean drogas, prostitutas y su propio conjunto moral.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/l4Vb8N6rP3TABM0jKqWSaOVqwDX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1H23aEoWTHGxbpFWObHHPeF1rJc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qzxquN4X0wyVxORaCDLCraRnP7s.png"
-    },
-    {
-      "id": "tmdb:90447",
-      "type": "series",
-      "name": "Hotel del Luna",
-      "ids": {
-        "tmdb": 90447
-      },
-      "overview": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/k3Us0Tn2nqfmIOW2WCAQSSNRSbb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a0XrZI6BuXGa0t0Y0M0DJS5b7Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qRRPtZm31wOS4pFm0nj97zUocHw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6WT8BcXJdg7ddDDU4v8UAF2VYHj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTMEan0rpNmlhCQbVd8kPPZRDBF.png"
     },
     {
       "id": "tmdb:106841",
@@ -435,6 +407,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/oT0MaNhJEhusLeqvcygMw1wKqLD.png"
     },
     {
+      "id": "tmdb:90447",
+      "type": "series",
+      "name": "Hotel del Luna",
+      "ids": {
+        "tmdb": 90447
+      },
+      "overview": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/k3Us0Tn2nqfmIOW2WCAQSSNRSbb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/a0XrZI6BuXGa0t0Y0M0DJS5b7Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qRRPtZm31wOS4pFm0nj97zUocHw.png"
+    },
+    {
       "id": "tmdb:2632",
       "type": "series",
       "name": "Érase una vez... El cuerpo humano",
@@ -447,6 +433,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kVsguImL0MMW8nJ9FkAgBNBdVFf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1sh5iRnU6N9O7QpkNllwI3rlpIg.png"
+    },
+    {
+      "id": "tmdb:218351",
+      "type": "series",
+      "name": "The Gold",
+      "ids": {
+        "tmdb": 218351
+      },
+      "overview": "El 26 de noviembre de 1983, seis hombres armados roban oro por valor de 26 millones de libras del depósito de seguridad de Brink's-Mat y tratan de deshacerse de los lingotes.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/9JY9Gza4HQhXjIPXg9uSy8FeiSM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/M6Y0Q5HSffNZ7hXm6z6VC8iRAb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bcScLzf14GB077rVCPaSI7jTJGH.png"
     },
     {
       "id": "tmdb:8853",
@@ -463,32 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/yloKLgeYHRgc9tS931Odx0VPTfp.png"
     },
     {
-      "id": "tmdb:88408",
+      "id": "tmdb:94137",
       "type": "series",
-      "name": "The New Pope",
+      "name": "Exit",
       "ids": {
-        "tmdb": 88408
+        "tmdb": 94137
       },
-      "overview": "Mientras el Papa Pío XIII se cuelga entre la vida y la muerte en coma, el aristócrata inglés moderado encantador y sofisticado Sir John Brannox se coloca en el trono papal y adopta el nombre de Juan Pablo III. Una secuela de \"El joven papa\".",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/rYjykBwLClPb0WeUP94f3EHZA4k.jpg",
+      "overview": "La salida se basa en las historias reales de cuatro hombres de treinta y tantos años que se convirtieron en multimillonarios antes de los treinta y un años. Intentando escapar de sus obligaciones, expectativas y familias, emplean drogas, prostitutas y su propio conjunto moral.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/l4Vb8N6rP3TABM0jKqWSaOVqwDX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hFdKojjQ5hwrBCudqIOuEV0eIm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cRMmsjzYyBujbgkeIr7XXUKzlJt.png"
-    },
-    {
-      "id": "tmdb:19521",
-      "type": "series",
-      "name": "El maravilloso viaje de Nils Holgersson",
-      "ids": {
-        "tmdb": 19521
-      },
-      "overview": "Las divertidas aventuras de Nils Holgersson, un travieso muchacho que va a emprender un fabuloso viaje por los cielos, tierras y mares de la hermosa Suecia, del cual habrá de regresar muy cambiado por fuera y, sobre todo, por dentro. Magia y aventura, sueños y leyenda, paisajes maravillosos y animales extraordinarios, sensaciones de altura, velocidad, poder y libertad. Todo en esta producción animada por el prestigioso estudio de animación, el Studio Pierrot.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/nwlcv4fmYV2v4t41RFXXPvFY2GR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6WT8BcXJdg7ddDDU4v8UAF2VYHj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sTMEan0rpNmlhCQbVd8kPPZRDBF.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1H23aEoWTHGxbpFWObHHPeF1rJc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzxquN4X0wyVxORaCDLCraRnP7s.png"
     },
     {
       "id": "tmdb:13881",
@@ -503,6 +489,62 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qPqV2eYI6Yi1Z3vHbCh2FubXR6X.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sxF0DY6oV5f82O3XGw9X9ue5N0O.png"
+    },
+    {
+      "id": "tmdb:4267",
+      "type": "series",
+      "name": "El reino",
+      "ids": {
+        "tmdb": 4267
+      },
+      "overview": "El Reino es el hospital tecnológicamente más avanzado de Dinamarca, un reluciente bastión de la ciencia médica. Sin embargo, una serie de sucesos extraños comienza a debilitar la fe del personal en la ciencia: una ambulancia fantasma llega todas las noches, pero desaparece; las voces resuenan en el hueco del ascensor; y el feto de una doctora embarazada parece estar desarrollándose mucho más rápido de lo que es natural.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/9ARGfO7lZUOCuextaaqmTNR438h.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g0ptJiKXoxkSDb7libKSc3cdwIS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peW9cqNxGbEN5xUrQyiAZHAh0TB.png"
+    },
+    {
+      "id": "tmdb:88408",
+      "type": "series",
+      "name": "The New Pope",
+      "ids": {
+        "tmdb": 88408
+      },
+      "overview": "Mientras el Papa Pío XIII se cuelga entre la vida y la muerte en coma, el aristócrata inglés moderado encantador y sofisticado Sir John Brannox se coloca en el trono papal y adopta el nombre de Juan Pablo III. Una secuela de \"El joven papa\".",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/rYjykBwLClPb0WeUP94f3EHZA4k.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hFdKojjQ5hwrBCudqIOuEV0eIm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cRMmsjzYyBujbgkeIr7XXUKzlJt.png"
+    },
+    {
+      "id": "tmdb:62699",
+      "type": "series",
+      "name": "The Young Pope",
+      "ids": {
+        "tmdb": 62699
+      },
+      "overview": "El cónclave acaba de elegir a Lenny Belardo nuevo Papa de la Santa Iglesia Romana. Un Papa bastante atípico: no sólo por su edad o porque es el primer italoamericano en alzarse con el trono de Pedro, sino también por sus ideas reaccionarias, muy próximas al oscurantismo, que Lenny impone a la fuerza desde las primeras semanas de su papado. Estas ideas podrían cambiar drásticamente la imagen de una de las instituciones más antiguas que existen. Pero Lenny es también un hombre frágil, atormentado por su pasado y por una relación con la fe extremadamente problemática.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/pH3u38DXGoeGUU86ZwJrFGBEPiQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dsJbktyPnMzMKlVxPh4Xf2VRz81.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Awx7qSo8ObyLxAzzLWRJXVkSCN.png"
+    },
+    {
+      "id": "tmdb:5402",
+      "type": "series",
+      "name": "Érase una vez... los inventores",
+      "ids": {
+        "tmdb": 5402
+      },
+      "overview": "Érase una vez... los inventores (en francés: Il était une fois... les Découvreurs) fue una serie de televisión animada francesa de 26 episodios con una duración de unos 25 minutos. Fue creada por Albert Barillé en los estudios Procidis y difundida por Canal+ a partir de enero de 1994. También participaron en la realización de esta serie Bélgica, Canadá, España, Italia, Japón, Noruega, Países Bajos, Suecia y Suiza.\n\nOfrece el fascinante mundo de los inventos y sus protagonistas. Una obra educativa y muy entretenida, una colección imprescindible que viaja a través del tiempo para adentrarse en el apasionante universo del saber y los grandes descubrimientos históricos.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/nnVFenlHCAzTa81mJNqV6a4PxlH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fKF5CL3LXZ6sOeOgQp8W9eMseQr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mbfoOB5zt0jnEg4xl4XSczUDhng.png"
     },
     {
       "id": "tmdb:53721",
@@ -533,76 +575,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wfkYPlwAn0IlacoFHhdC6XTjww4.png"
     },
     {
-      "id": "tmdb:62699",
-      "type": "series",
-      "name": "The Young Pope",
-      "ids": {
-        "tmdb": 62699
-      },
-      "overview": "El cónclave acaba de elegir a Lenny Belardo nuevo Papa de la Santa Iglesia Romana. Un Papa bastante atípico: no sólo por su edad o porque es el primer italoamericano en alzarse con el trono de Pedro, sino también por sus ideas reaccionarias, muy próximas al oscurantismo, que Lenny impone a la fuerza desde las primeras semanas de su papado. Estas ideas podrían cambiar drásticamente la imagen de una de las instituciones más antiguas que existen. Pero Lenny es también un hombre frágil, atormentado por su pasado y por una relación con la fe extremadamente problemática.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/pH3u38DXGoeGUU86ZwJrFGBEPiQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dsJbktyPnMzMKlVxPh4Xf2VRz81.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Awx7qSo8ObyLxAzzLWRJXVkSCN.png"
-    },
-    {
-      "id": "tmdb:5150",
-      "type": "series",
-      "name": "La vuelta al mundo de Willy Fog",
-      "ids": {
-        "tmdb": 5150
-      },
-      "overview": "Willy Fog es un millonario británico que apuesta que será capaz de dar la vuelta al mundo en solo ochenta días.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/6rmBEYXSYXEYqpYqzWvEldpWIEs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g3ZQcP5bpwco1BsuCYu9zau4Fwg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jJNs0PbI7fUDoc00GX9H3AwhmsU.png"
-    },
-    {
-      "id": "tmdb:4267",
-      "type": "series",
-      "name": "El reino",
-      "ids": {
-        "tmdb": 4267
-      },
-      "overview": "El Reino es el hospital tecnológicamente más avanzado de Dinamarca, un reluciente bastión de la ciencia médica. Sin embargo, una serie de sucesos extraños comienza a debilitar la fe del personal en la ciencia: una ambulancia fantasma llega todas las noches, pero desaparece; las voces resuenan en el hueco del ascensor; y el feto de una doctora embarazada parece estar desarrollándose mucho más rápido de lo que es natural.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/9ARGfO7lZUOCuextaaqmTNR438h.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g0ptJiKXoxkSDb7libKSc3cdwIS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peW9cqNxGbEN5xUrQyiAZHAh0TB.png"
-    },
-    {
-      "id": "tmdb:69342",
-      "type": "series",
-      "name": "Seiren",
-      "ids": {
-        "tmdb": 69342
-      },
-      "overview": "El anime estará formado por un conjunto de arcos argumentales de cuatro capítulos cada uno, centrados respectivamente en cada protagonista: Hikari Tsuneki, Touru Miyamae y Kyouko Touno. Las historias de amor tendrán lugar en el verano del segundo año de instituto de las chicas. A Shouichi, el protagonista, le provoca ansiedad la idea de crecer, y su tutora lo llama para hablar de sus planes de futuro. Shouichi conoce a varias chicas y se encamina hacia un porvenir incierto.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/thSofF8CfOBllCYhuP8RFg4PkHB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i2ypkPT6pk8zPbnLbQN32ssATDS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4p33LLmcVqYRDk7rTQWohvo5yFv.png"
-    },
-    {
-      "id": "tmdb:86941",
-      "type": "series",
-      "name": "La sangre helada",
-      "ids": {
-        "tmdb": 86941
-      },
-      "overview": "Henry Drax es un arponero y asesino brutal cuya amoralidad ha sido moldeada para adaptarse a la dureza de su mundo, que zarpará en una expedición de caza de ballenas al Ártico con Patrick Sumner, un ex cirujano del ejército deshonrado que se inscribe como médico del barco. Con la esperanza de escapar de los horrores de su pasado, Sumner se encuentra en un viaje desafortunado con un psicópata asesino. En busca de la redención, su historia se convierte en una dura lucha por la supervivencia en el páramo ártico.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ofcBXiho8eSfL4O14FH7yZxKw28.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/79dWl2vL1ESxhb4tPotW50UDa0l.svg"
-    },
-    {
       "id": "tmdb:5341",
       "type": "series",
       "name": "D'Artacán y los tres mosqueperros",
@@ -615,34 +587,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/juEqGPmRFYd5iBGS4ID2qOnXPv9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/6wRuUu8W5pCDByouEbLlllaqRRf.png"
-    },
-    {
-      "id": "tmdb:66407",
-      "type": "series",
-      "name": "Don Quijote de la Mancha",
-      "ids": {
-        "tmdb": 66407
-      },
-      "overview": "Adaptación en dibujos animados de la inmortal obra de Miguel de Cervantes. 39 episodios que relatan las aventuras del hidalgo Don Quijote (voz de Fernando Fernán-Gómez) y su fiel escudero Sancho Panza",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/4DWPzIiCrQq8tnEHvjIRdwjzahQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Atbbpa72R3wV6WtfFKMLiQoIdlH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nvxITS7ao1960dUGB1dMNurQEdL.png"
-    },
-    {
-      "id": "tmdb:5402",
-      "type": "series",
-      "name": "Érase una vez... los inventores",
-      "ids": {
-        "tmdb": 5402
-      },
-      "overview": "Érase una vez... los inventores (en francés: Il était une fois... les Découvreurs) fue una serie de televisión animada francesa de 26 episodios con una duración de unos 25 minutos. Fue creada por Albert Barillé en los estudios Procidis y difundida por Canal+ a partir de enero de 1994. También participaron en la realización de esta serie Bélgica, Canadá, España, Italia, Japón, Noruega, Países Bajos, Suecia y Suiza.\n\nOfrece el fascinante mundo de los inventos y sus protagonistas. Una obra educativa y muy entretenida, una colección imprescindible que viaja a través del tiempo para adentrarse en el apasionante universo del saber y los grandes descubrimientos históricos.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/nnVFenlHCAzTa81mJNqV6a4PxlH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fKF5CL3LXZ6sOeOgQp8W9eMseQr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mbfoOB5zt0jnEg4xl4XSczUDhng.png"
     },
     {
       "id": "tmdb:62495",
@@ -659,17 +603,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/9cFExlV7rOYZcqxV9dSf2C0Sc3p.png"
     },
     {
-      "id": "tmdb:66730",
+      "id": "tmdb:5150",
       "type": "series",
-      "name": "Divine Gate",
+      "name": "La vuelta al mundo de Willy Fog",
       "ids": {
-        "tmdb": 66730
+        "tmdb": 5150
       },
-      "overview": "La leyenda de la puerta divina es una historia contada a los niños pequeños que representa la fusión del mundo viviente, el cielo y el inframundo. \"Adaptadores\": personas que nacen con habilidades elementales únicas dotado a ellos a partir de la unión de estos mundos-formaron el Consejo Mundial, una organización que controla el caos de la Puerta al presentar su leyenda como nada más que un mito. Estos adaptadores se entrenan en una academia especial de propiedad del Consejo Mundial que permite a los estudiantes a mejorar sus habilidades. \n\nAoto, un adolescente con poderes excepcionales de agua y un pasado trágico, rechaza la oferta de unirse a la academia en numerosas ocasiones, hasta que se presionó con éxito por el usuario energético viento Midori y el usuario incendios obstinada Akane. Juntos, con el Consejo Mundial y su misterioso líder Arthur, buscan la puerta con la esperanza de descubrir la verdad. Sin embargo, con el fin de alcanzar sus objetivos, deben unirse y superar su propia desesperación al tratar con el mal detrás de la escena.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/fHjODQq2sOK9kGhO09XtBgToxzQ.jpg",
+      "overview": "Willy Fog es un millonario británico que apuesta que será capaz de dar la vuelta al mundo en solo ochenta días.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/6rmBEYXSYXEYqpYqzWvEldpWIEs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rkh47tXNa0hmRE10mG5OxOuDhTe.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/g3ZQcP5bpwco1BsuCYu9zau4Fwg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jJNs0PbI7fUDoc00GX9H3AwhmsU.png"
+    },
+    {
+      "id": "tmdb:66407",
+      "type": "series",
+      "name": "Don Quijote de la Mancha",
+      "ids": {
+        "tmdb": 66407
+      },
+      "overview": "Adaptación en dibujos animados de la inmortal obra de Miguel de Cervantes. 39 episodios que relatan las aventuras del hidalgo Don Quijote (voz de Fernando Fernán-Gómez) y su fiel escudero Sancho Panza",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/4DWPzIiCrQq8tnEHvjIRdwjzahQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Atbbpa72R3wV6WtfFKMLiQoIdlH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nvxITS7ao1960dUGB1dMNurQEdL.png"
+    },
+    {
+      "id": "tmdb:69342",
+      "type": "series",
+      "name": "Seiren",
+      "ids": {
+        "tmdb": 69342
+      },
+      "overview": "El anime estará formado por un conjunto de arcos argumentales de cuatro capítulos cada uno, centrados respectivamente en cada protagonista: Hikari Tsuneki, Touru Miyamae y Kyouko Touno. Las historias de amor tendrán lugar en el verano del segundo año de instituto de las chicas. A Shouichi, el protagonista, le provoca ansiedad la idea de crecer, y su tutora lo llama para hablar de sus planes de futuro. Shouichi conoce a varias chicas y se encamina hacia un porvenir incierto.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/thSofF8CfOBllCYhuP8RFg4PkHB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i2ypkPT6pk8zPbnLbQN32ssATDS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4p33LLmcVqYRDk7rTQWohvo5yFv.png"
     },
     {
       "id": "tmdb:64840",
@@ -686,17 +659,45 @@
       "logo": "https://image.tmdb.org/t/p/w500/qNt92egljrq8BI1qY6zqiisc5CY.png"
     },
     {
-      "id": "tmdb:224916",
+      "id": "tmdb:66730",
       "type": "series",
-      "name": "Power Play",
+      "name": "Divine Gate",
       "ids": {
-        "tmdb": 224916
+        "tmdb": 66730
       },
-      "overview": "Narra la increíble historia de Gro Harlem Brundtland, a finales de los años 70 era una joven doctora en favor del aborto hasta que, al impresionar el gobierno a su alrededor, va ascendiendo de rango hasta convertirse en la primera mujer Primera Ministra de Noruega en 1981.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/18t0KvANUj3dR9NfDYKBrtqFJHn.jpg",
+      "overview": "La leyenda de la puerta divina es una historia contada a los niños pequeños que representa la fusión del mundo viviente, el cielo y el inframundo. \"Adaptadores\": personas que nacen con habilidades elementales únicas dotado a ellos a partir de la unión de estos mundos-formaron el Consejo Mundial, una organización que controla el caos de la Puerta al presentar su leyenda como nada más que un mito. Estos adaptadores se entrenan en una academia especial de propiedad del Consejo Mundial que permite a los estudiantes a mejorar sus habilidades. \n\nAoto, un adolescente con poderes excepcionales de agua y un pasado trágico, rechaza la oferta de unirse a la academia en numerosas ocasiones, hasta que se presionó con éxito por el usuario energético viento Midori y el usuario incendios obstinada Akane. Juntos, con el Consejo Mundial y su misterioso líder Arthur, buscan la puerta con la esperanza de descubrir la verdad. Sin embargo, con el fin de alcanzar sus objetivos, deben unirse y superar su propia desesperación al tratar con el mal detrás de la escena.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/fHjODQq2sOK9kGhO09XtBgToxzQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gZEhVCCEArYCxyXPQkwmHMvr5EJ.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/rkh47tXNa0hmRE10mG5OxOuDhTe.jpg"
+    },
+    {
+      "id": "tmdb:86941",
+      "type": "series",
+      "name": "La sangre helada",
+      "ids": {
+        "tmdb": 86941
+      },
+      "overview": "Henry Drax es un arponero y asesino brutal cuya amoralidad ha sido moldeada para adaptarse a la dureza de su mundo, que zarpará en una expedición de caza de ballenas al Ártico con Patrick Sumner, un ex cirujano del ejército deshonrado que se inscribe como médico del barco. Con la esperanza de escapar de los horrores de su pasado, Sumner se encuentra en un viaje desafortunado con un psicópata asesino. En busca de la redención, su historia se convierte en una dura lucha por la supervivencia en el páramo ártico.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ofcBXiho8eSfL4O14FH7yZxKw28.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/79dWl2vL1ESxhb4tPotW50UDa0l.svg"
+    },
+    {
+      "id": "tmdb:92388",
+      "type": "series",
+      "name": "Total Control",
+      "ids": {
+        "tmdb": 92388
+      },
+      "overview": "Después de un dramático suceso, Alex Irving, una mujer indígena carismática y contradictoria, se convierte en el centro de la atención mediática en Australia. La Primera Ministra Rachel Anderson, muy discutida, ve en ella un mina de oro publicitaria y le ofrece un puesto como senadora. Pero Alex no se va a conformar con ser un adorno y pretende cambiar las cosas desde su nueva posición, lo que la llevará a ser traicionada y a iniciar una venganza que amenaza con hacer colapsar el sistema político.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/sfWVQRIoDrfIcY2cmhpLgSZoLia.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b8XiR5IGuNCi6sZ2aDk05ViunqY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xafiEJ2LwnXJZZLrdWEsuEI1PQS.png"
     }
   ]
 }
