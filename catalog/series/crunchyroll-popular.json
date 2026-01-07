@@ -43,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/s4c20xXgSDjbYAcpKchuWRU3zuR.png"
     },
     {
+      "id": "tmdb:256721",
+      "type": "series",
+      "name": "Gachiakuta",
+      "ids": {
+        "tmdb": 256721
+      },
+      "overview": "En una ciudad flotante donde los ricos se deshacen de su basura y de las personas, a Ludo lo acusan de asesinato y lo arrojan al Abismo, un infierno habitado por las bestias de la basura. Para sobrevivir, deberá hacer uso de un nuevo poder y unirse a los Limpiadores. El objetivo de Ludo no es solo acabar con los monstruos, sino también con aquellos que lo arrojaron al Infierno.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qjPSJeXyg6QXf27mcmxGW1HEsF8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ccEM7BBPoBky3bvtJuxkDYNVPae.png"
+    },
+    {
       "id": "tmdb:127532",
       "type": "series",
       "name": "Solo Leveling",
@@ -55,20 +69,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8s1Cym5F7EesthvaLMDvi6DpMK5.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/soogvWTvbW2YVpZwUz0SgPBKiVa.png"
-    },
-    {
-      "id": "tmdb:83121",
-      "type": "series",
-      "name": "Kaguya-sama wa Kokurasetai",
-      "ids": {
-        "tmdb": 83121
-      },
-      "overview": "Kaguya es hija de una familia muy importante y millonaria. Shirogane es también hijo de buena familia y presidente del consejo. Ambos son admirados por todos en la Academia Shuchiin, y ambos están enamorados el uno del otro, pero no se rebajarán a admitirlo y ambos intentan que sea el otro el que declare primero su amor.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/A6txuwvCMxm9bGX6RE95Wm7FreF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aTVDzcCpulobekDsVjT1dnG2pnx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png"
     },
     {
       "id": "tmdb:209867",
@@ -99,18 +99,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     },
     {
-      "id": "tmdb:256721",
+      "id": "tmdb:30983",
       "type": "series",
-      "name": "Gachiakuta",
+      "name": "Detective Conan",
       "ids": {
-        "tmdb": 256721
+        "tmdb": 30983
       },
-      "overview": "En una ciudad flotante donde los ricos se deshacen de su basura y de las personas, a Ludo lo acusan de asesinato y lo arrojan al Abismo, un infierno habitado por las bestias de la basura. Para sobrevivir, deberá hacer uso de un nuevo poder y unirse a los Limpiadores. El objetivo de Ludo no es solo acabar con los monstruos, sino también con aquellos que lo arrojaron al Infierno.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg",
+      "overview": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan...",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/ibd5jpPu2oxup9ecU8xvwlRZF0O.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qjPSJeXyg6QXf27mcmxGW1HEsF8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ccEM7BBPoBky3bvtJuxkDYNVPae.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kbxIwkmVfkDvL4mq2V7WbyZAVFy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vX0VEwZViadujTUGcL0EU5orV8p.png"
+    },
+    {
+      "id": "tmdb:83121",
+      "type": "series",
+      "name": "Kaguya-sama wa Kokurasetai",
+      "ids": {
+        "tmdb": 83121
+      },
+      "overview": "Kaguya es hija de una familia muy importante y millonaria. Shirogane es también hijo de buena familia y presidente del consejo. Ambos son admirados por todos en la Academia Shuchiin, y ambos están enamorados el uno del otro, pero no se rebajarán a admitirlo y ambos intentan que sea el otro el que declare primero su amor.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/A6txuwvCMxm9bGX6RE95Wm7FreF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aTVDzcCpulobekDsVjT1dnG2pnx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png"
     },
     {
       "id": "tmdb:220542",
@@ -125,20 +139,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/oJKTo78TqipTWZEhqNPbB3KlbWG.png"
-    },
-    {
-      "id": "tmdb:30983",
-      "type": "series",
-      "name": "Detective Conan",
-      "ids": {
-        "tmdb": 30983
-      },
-      "overview": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan...",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/ibd5jpPu2oxup9ecU8xvwlRZF0O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kbxIwkmVfkDvL4mq2V7WbyZAVFy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vX0VEwZViadujTUGcL0EU5orV8p.png"
     },
     {
       "id": "tmdb:249907",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9F7daAmibx8ZHTE17CdM5FAwiHE.png"
     },
     {
-      "id": "tmdb:223911",
+      "id": "tmdb:101172",
       "type": "series",
-      "name": "Renegade Immortal",
+      "name": "Tun Shi Xing Kong",
       "ids": {
-        "tmdb": 223911
+        "tmdb": 101172
       },
-      "overview": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de la familia. A pesar de su bajo potencial de cultivo, Wang Lin intentará convertirse en un inmortal para enorgullecer a sus padres.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/6AVM12M6UunFmX0bSmP2o4N5Bnt.jpg",
+      "overview": "Año 2056. Luo Feng es un joven de 18 años que a pesar de su corta edad y ser extremadamente pobre, logra sobresalir entre las personas de su edad siendo incluso el mejor de su escuela especializada en combate, es élite en diferentes tipos de pelea, y usará todas sus habilidades de entrenamiento para ser parte de estos Luchadores, existencias que incluso en rangos mayores son conocidas como Dioses de la Guerra.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/3iPt9bIPNYmhqQ3BVU4plRkkDbf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/abFaM9zZfz9DFhD8trRnvHtjSLm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7UbWiDZEToMYMBH1X4wei0zCeIo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/55IjfY12ExzDOK01QJk4nOzfFpu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lVv0rM49IGGWgPYszYQcEQqXtB5.png"
     },
     {
       "id": "tmdb:45790",
@@ -225,6 +225,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/kNtCppfedimcdRw5sGUK8eFjhsi.png"
     },
     {
+      "id": "tmdb:223911",
+      "type": "series",
+      "name": "Renegade Immortal",
+      "ids": {
+        "tmdb": 223911
+      },
+      "overview": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de la familia. A pesar de su bajo potencial de cultivo, Wang Lin intentará convertirse en un inmortal para enorgullecer a sus padres.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/6AVM12M6UunFmX0bSmP2o4N5Bnt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/abFaM9zZfz9DFhD8trRnvHtjSLm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7UbWiDZEToMYMBH1X4wei0zCeIo.png"
+    },
+    {
+      "id": "tmdb:285166",
+      "type": "series",
+      "name": "Jack-of-All-Trades, Party of None",
+      "ids": {
+        "tmdb": 285166
+      },
+      "overview": "La historia sigue a Orun Dura, un aventurero que es expulsado del grupo de aventureros del Héroe por Oliver, su amigo de la infancia y líder del grupo. Oliver se burla de Orun por carecer de habilidad y ser un \"aprendiz de todo, maestro de nada\", a pesar de que Orun cambió de ser un espadachín a un encantador para apoyar al grupo. Abatido y sin rumbo, Orun se va para demostrar su valía como aventurero en solitario, esforzándose por convertirse en el \"aprendiz de todo\" más fuerte para proteger a sus amigos y oponerse a la injusticia.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/rbh55bFult3aQW1WsbilSieBS13.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fj3VXZYuot7z3mOVHfCmxI5OFlp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Lk0Pu080zCWDLyPvYe1Dx2mP13.png"
+    },
+    {
       "id": "tmdb:94664",
       "type": "series",
       "name": "Mushoku Tensei Jobless Reincarnation",
@@ -237,34 +265,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8hKunCjzL8jfiturHHZfRPfdaLA.png"
-    },
-    {
-      "id": "tmdb:31910",
-      "type": "series",
-      "name": "Naruto Shippuden",
-      "ids": {
-        "tmdb": 31910
-      },
-      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
-    },
-    {
-      "id": "tmdb:101172",
-      "type": "series",
-      "name": "Tun Shi Xing Kong",
-      "ids": {
-        "tmdb": 101172
-      },
-      "overview": "Año 2056. Luo Feng es un joven de 18 años que a pesar de su corta edad y ser extremadamente pobre, logra sobresalir entre las personas de su edad siendo incluso el mejor de su escuela especializada en combate, es élite en diferentes tipos de pelea, y usará todas sus habilidades de entrenamiento para ser parte de estos Luchadores, existencias que incluso en rangos mayores son conocidas como Dioses de la Guerra.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/3iPt9bIPNYmhqQ3BVU4plRkkDbf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/55IjfY12ExzDOK01QJk4nOzfFpu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lVv0rM49IGGWgPYszYQcEQqXtB5.png"
     },
     {
       "id": "tmdb:46004",
@@ -281,6 +281,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/psRecKsob4RT56ajUL6J6HISplJ.svg"
     },
     {
+      "id": "tmdb:31910",
+      "type": "series",
+      "name": "Naruto Shippuden",
+      "ids": {
+        "tmdb": 31910
+      },
+      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
+    },
+    {
       "id": "tmdb:65931",
       "type": "series",
       "name": "Bungou Stray Dogs",
@@ -293,20 +307,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uNspfOv7QaTyRh0bwB4K6719XfN.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8eAseEGBalNf4x7EazLoyuGrr9P.png"
-    },
-    {
-      "id": "tmdb:285166",
-      "type": "series",
-      "name": "Jack-of-All-Trades, Party of None",
-      "ids": {
-        "tmdb": 285166
-      },
-      "overview": "La historia sigue a Orun Dura, un aventurero que es expulsado del grupo de aventureros del Héroe por Oliver, su amigo de la infancia y líder del grupo. Oliver se burla de Orun por carecer de habilidad y ser un \"aprendiz de todo, maestro de nada\", a pesar de que Orun cambió de ser un espadachín a un encantador para apoyar al grupo. Abatido y sin rumbo, Orun se va para demostrar su valía como aventurero en solitario, esforzándose por convertirse en el \"aprendiz de todo\" más fuerte para proteger a sus amigos y oponerse a la injusticia.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/rbh55bFult3aQW1WsbilSieBS13.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fj3VXZYuot7z3mOVHfCmxI5OFlp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Lk0Pu080zCWDLyPvYe1Dx2mP13.png"
     },
     {
       "id": "tmdb:38464",
@@ -337,20 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wFe5m9XtZHf7m9D1R29LrhAmatr.png"
     },
     {
-      "id": "tmdb:45247",
-      "type": "series",
-      "name": "Chihayafuru",
-      "ids": {
-        "tmdb": 45247
-      },
-      "overview": "Toda su vida Chihaya ha soñado con ver a su hermana mayor convertirse en la modelo Nº1 de Japón. Eso hasta que un estudiante nuevo llamado Arata le explica que un sueño es aquel en el cual uno mismo trabaja. Esta afirmación cambia el pensamiento de Chihaya y gracias a el descubre su verdadero sueño y pasión, el \"Karuta\" un juego de cartas tradicional de Japón. Ella descubre que tiene un talento innato para este juego y ahora su sueño será ser la mejor jugadora del mundo.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/x1yYnCaK8gLnLgQSnd9IGoapHbx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e1R4kNrWvSfb8AVViMp0okVJfuk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7WmBNHUH5ZFFpIxBvHvG937fDMi.png"
-    },
-    {
       "id": "tmdb:46437",
       "type": "series",
       "name": "Kingdom",
@@ -379,18 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/frZHsrVO7BjhfoHeWRBebKTU5u7.png"
     },
     {
-      "id": "tmdb:45782",
+      "id": "tmdb:207468",
       "type": "series",
-      "name": "Sword Art Online",
+      "name": "Kaiju No. 8",
       "ids": {
-        "tmdb": 45782
+        "tmdb": 207468
       },
-      "overview": "En \"Sword Art Online\", 10,000 jugadores quedan atrapados en un MMORPG donde morir en el juego significa morir en la vida real. Kirito, un jugador solitario, se asocia con la guerrera Asuna para intentar escapar del mundo virtual y completar el juego.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+      "overview": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsatKuTodTjj3EHQytcgsnbZ5qb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/twrWwjBFKExNAsEs2BRgbMjU0qv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg"
     },
     {
       "id": "tmdb:1429",
@@ -407,18 +393,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png"
     },
     {
-      "id": "tmdb:67063",
+      "id": "tmdb:45247",
       "type": "series",
-      "name": "The OutCast",
+      "name": "Chihayafuru",
       "ids": {
-        "tmdb": 67063
+        "tmdb": 45247
       },
-      "overview": "El protagonista, Cho Soran, lleva una vida de estudiante muy normal hasta que se ve involucrado en un terrible incidente que ocurre en un pequeño pueblo. Según pasaba por el cementerio, Cho se ve asaltado por unos zombis, y pensando que van a por él, una misteriosa chica con una espada le salva y desaparece de repente. Este extraño encuentro cambiará por completo el destino de nuestro héroe.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/i3Vg5SKaWWNjMvK3CsuK5itIrzG.jpg",
+      "overview": "Toda su vida Chihaya ha soñado con ver a su hermana mayor convertirse en la modelo Nº1 de Japón. Eso hasta que un estudiante nuevo llamado Arata le explica que un sueño es aquel en el cual uno mismo trabaja. Esta afirmación cambia el pensamiento de Chihaya y gracias a el descubre su verdadero sueño y pasión, el \"Karuta\" un juego de cartas tradicional de Japón. Ella descubre que tiene un talento innato para este juego y ahora su sueño será ser la mejor jugadora del mundo.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/x1yYnCaK8gLnLgQSnd9IGoapHbx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xl9RSkZEqeqBIYbNiPzUX0Pd7Kp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jKuWHJM1H0cJ2whFCfLgdt6Y7q1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/e1R4kNrWvSfb8AVViMp0okVJfuk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7WmBNHUH5ZFFpIxBvHvG937fDMi.png"
+    },
+    {
+      "id": "tmdb:45782",
+      "type": "series",
+      "name": "Sword Art Online",
+      "ids": {
+        "tmdb": 45782
+      },
+      "overview": "En \"Sword Art Online\", 10,000 jugadores quedan atrapados en un MMORPG donde morir en el juego significa morir en la vida real. Kirito, un jugador solitario, se asocia con la guerrera Asuna para intentar escapar del mundo virtual y completar el juego.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/9m8bFIXPg26taNrFSXGwEORVACD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fsatKuTodTjj3EHQytcgsnbZ5qb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/twrWwjBFKExNAsEs2BRgbMjU0qv.png"
     },
     {
       "id": "tmdb:60863",
@@ -435,62 +435,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wyL5cbJw5hosM9D7c7z5cWAeThC.png"
     },
     {
-      "id": "tmdb:98123",
-      "type": "series",
-      "name": "The Daily Life of the Immortal King",
-      "ids": {
-        "tmdb": 98123
-      },
-      "overview": "Wang Ling ha desarrollado habilidades increíbles desde una edad temprana. Sin embargo, para llevar una vida ordinaria, decide limitar sus poderes en un talismán. Desafortunadamente, su tranquilidad se ve amenazada cuando tiene que participar en una competencia cuando ingresa a la escuela secundaria.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/jDXRZNFqR3IZ3J35Bi2kbCYozxe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1BwooKLb3YStqLKThacUX9l8K5e.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cm6vMurCOSNHUGsvA9VEje4tMC1.png"
-    },
-    {
-      "id": "tmdb:207468",
-      "type": "series",
-      "name": "Kaiju No. 8",
-      "ids": {
-        "tmdb": 207468
-      },
-      "overview": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg"
-    },
-    {
-      "id": "tmdb:213402",
-      "type": "series",
-      "name": "Campfire Cooking in Another World with My Absurd Skill",
-      "ids": {
-        "tmdb": 213402
-      },
-      "overview": "Tsuyoshi Mukoda es un oficinista cualquiera al que de repente transportan a otro mundo. La habilidad única que obtiene al llegar a este nuevo mundo es una que parece un tanto inútil, “Supermercado Online”. Al inicio Mukoda está muy deprimido, ¡pero resulta que toda la comida moderna que puede proporcionar a este nuevo mundo con su nueva habilidad tiene algunos efectos increíbles!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uLhdhKiqYbHo3jG0YwLFaJCYoZs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tT9mSFA0hmjzmCM3vMWgrlaJxH5.png"
-    },
-    {
-      "id": "tmdb:114410",
-      "type": "series",
-      "name": "Chainsaw Man",
-      "ids": {
-        "tmdb": 114410
-      },
-      "overview": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.\n\nCuando una traición provoca la muerte de Denji, Pochita hace un contrato con él y Denji revive como \"Chainsaw Man\", un ser humano con el corazón de un demonio.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8X3AdUA5q3owusAXOiCOn3FwXUa.png"
-    },
-    {
       "id": "tmdb:198182",
       "type": "series",
       "name": "Trono del Sello",
@@ -505,18 +449,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/3Yal4enrCbP9QjxNnTrnJ49lUTx.png"
     },
     {
-      "id": "tmdb:96316",
+      "id": "tmdb:67063",
       "type": "series",
-      "name": "Rent-a-Girlfriend",
+      "name": "The OutCast",
       "ids": {
-        "tmdb": 96316
+        "tmdb": 67063
       },
-      "overview": "Kazuya Kinoshita es un joven universitario de 20 años que tras conseguir novia, pudo besarla, ¡pero lo dejó tras solo un mes! \"Maldita sea, no quiero tener que volver a pasar por eso\". Desesperado, recurre a un método muy particular para tener por fin una cita: solicitar una novia de alquiler. Cuando llega al punto de encuentro le espera una chica: \"Eres Kazuya, ¿verdad?\". Es una chica preciosa de pelo negro y largo que le sonríe con ternura. La chica es Chizuru Mizuhara. ¡Y de esa cita de alquiler nace algo real! Una comedia romántica repleta de amor y emoción da comienzo.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/1xhXRBPBwbTYj8AsUHFdhSjj1z7.jpg",
+      "overview": "El protagonista, Cho Soran, lleva una vida de estudiante muy normal hasta que se ve involucrado en un terrible incidente que ocurre en un pequeño pueblo. Según pasaba por el cementerio, Cho se ve asaltado por unos zombis, y pensando que van a por él, una misteriosa chica con una espada le salva y desaparece de repente. Este extraño encuentro cambiará por completo el destino de nuestro héroe.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/i3Vg5SKaWWNjMvK3CsuK5itIrzG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gOnjVWuWHBQ2ONdZDvz15hA0CMu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eTBVLxqDvkMuJZTi3rYSlXaZyVv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rWNpYzK7thiNRuiCvnzxjsW5Vp5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jKuWHJM1H0cJ2whFCfLgdt6Y7q1.png"
+    },
+    {
+      "id": "tmdb:98123",
+      "type": "series",
+      "name": "The Daily Life of the Immortal King",
+      "ids": {
+        "tmdb": 98123
+      },
+      "overview": "Wang Ling ha desarrollado habilidades increíbles desde una edad temprana. Sin embargo, para llevar una vida ordinaria, decide limitar sus poderes en un talismán. Desafortunadamente, su tranquilidad se ve amenazada cuando tiene que participar en una competencia cuando ingresa a la escuela secundaria.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/jDXRZNFqR3IZ3J35Bi2kbCYozxe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1BwooKLb3YStqLKThacUX9l8K5e.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cm6vMurCOSNHUGsvA9VEje4tMC1.png"
     },
     {
       "id": "tmdb:240411",
@@ -533,20 +491,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/A9jO4m2vVmvuEhTMf6E6sK16kMp.png"
     },
     {
-      "id": "tmdb:240125",
-      "type": "series",
-      "name": "Trillion Game",
-      "ids": {
-        "tmdb": 240125
-      },
-      "overview": "Haru y Gaku, dos antiguos compañeros de clase, están dispuestos a hacer cualquier cosa para alcanzar el éxito. Y para ellos el éxito implica ganar un billón de dólares. Para conseguirlo, tendrán que sacar el máximo partido a sus habilidades personales. Haru es un orador muy persuasivo y seguro de sí mismo, capaz de conectar con cualquiera, mientras que Gaku, aunque torpe, es un experto programador. ¿Bastará la combinación de sus talentos para hacer su sueño realidad?",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/pL4nFHx4lChRXLrJzRX0sAl8SfG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a4p0sdEWqYre8DLEqqX4o99Q3lj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4cOIaH5orzFvqFix4Cmk5YUfEeB.png"
-    },
-    {
       "id": "tmdb:205050",
       "type": "series",
       "name": "Shangri-La Frontier",
@@ -561,46 +505,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/tb6GwZGs0Qn1kGA5kd12hAUF1QN.png"
     },
     {
-      "id": "tmdb:210879",
+      "id": "tmdb:76757",
       "type": "series",
-      "name": "Rurouni Kenshin",
+      "name": "Golden Kamuy",
       "ids": {
-        "tmdb": 210879
+        "tmdb": 76757
       },
-      "overview": "Readaptación de la serie manga principal.\n\nHace ciento cuarenta años en Kioto, con la llegada de los \"Barcos Negros\" estadounidenses, surgió un guerrero que, derribando hombres con su espada ensangrentada, se ganó el nombre de Hitokiri, ¡asesino! Su espada asesina ayudó a cerrar la turbulenta era de Bakumatsu y abrió la era progresiva conocida como Meiji. Luego desapareció y, con el correr de los años, se convirtió en leyenda.",
+      "overview": "Saichi Sugimoto es un duro soldado que participa en la guerra ruso-japonesa y que se ganó el apodo de \"Sugimoto el Inmortal\". Los honores en combate de poco le sirven cuando es expulsado del ejército por cierto incidente, pero tiene un objetivo que cumplir, una promesa que mantener, y para ello necesitará dinero. Su primera idea para conseguirlo será unirse a la reciente fiebre del oro de Hokkaido y probar suerte, pero el destino le preparaba un reto más interesante y a la par, más rentable. Cuando un extraño hombre le cuenta la historia de cómo un ladrón robó una gran cantidad de oro a un grupo de Ainu para posteriormente esconder su botín, los ojos se le iluminan. ¿Será una historia falsa? El hombre le dice que la única forma de encontrar el oro robado es localizar a una serie de hombres que estuvieron en prisión con el ladrón y que llevan las pistas tatuadas en sus propios cuerpos. Pero Hokkaido es una región dura y su naturaleza implacable, así que cuando todavía está decidiendo si tal historia es algo más que un cuento chino, tendrá que luchar por proteger su vida de un enorme oso... y quien aparecerá a su rescate es una chica Ainu que parece saber algo sobre la historia que le contó el viejo.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/KjatL82mrWDogOlswIxwdrpe2n.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fhpM17dZpyos5mBoO09OEnadelU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bAFrS2j4KQcwH7NWK9CEkaHh64C.png"
+    },
+    {
+      "id": "tmdb:213402",
+      "type": "series",
+      "name": "Campfire Cooking in Another World with My Absurd Skill",
+      "ids": {
+        "tmdb": 213402
+      },
+      "overview": "Tsuyoshi Mukoda es un oficinista cualquiera al que de repente transportan a otro mundo. La habilidad única que obtiene al llegar a este nuevo mundo es una que parece un tanto inútil, “Supermercado Online”. Al inicio Mukoda está muy deprimido, ¡pero resulta que toda la comida moderna que puede proporcionar a este nuevo mundo con su nueva habilidad tiene algunos efectos increíbles!",
       "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/cXc3yiQ5RrimzfucovjO83RTrnq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ckAuEQnV0lfhqqxPsH8vulpxF1o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8xSKn92xvfAPktsiUGD1aLdRYWj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uLhdhKiqYbHo3jG0YwLFaJCYoZs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tT9mSFA0hmjzmCM3vMWgrlaJxH5.png"
     },
     {
-      "id": "tmdb:72517",
+      "id": "tmdb:96316",
       "type": "series",
-      "name": "Classroom of the Elite",
+      "name": "Rent-a-Girlfriend",
       "ids": {
-        "tmdb": 72517
+        "tmdb": 96316
       },
-      "overview": "Kiyotaka Ayanokouji ingresa a la prestigiosa Academia Tokyo Koudo Ikusei, pero es asignado a la Clase 1-D, donde están los estudiantes con problemas. La escuela otorga puntos mensuales equivalentes a 100,000 yenes y permite una libertad inusual en las clases, ocultando un sistema más complejo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+      "overview": "Kazuya Kinoshita es un joven universitario de 20 años que tras conseguir novia, pudo besarla, ¡pero lo dejó tras solo un mes! \"Maldita sea, no quiero tener que volver a pasar por eso\". Desesperado, recurre a un método muy particular para tener por fin una cita: solicitar una novia de alquiler. Cuando llega al punto de encuentro le espera una chica: \"Eres Kazuya, ¿verdad?\". Es una chica preciosa de pelo negro y largo que le sonríe con ternura. La chica es Chizuru Mizuhara. ¡Y de esa cita de alquiler nace algo real! Una comedia romántica repleta de amor y emoción da comienzo.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/1xhXRBPBwbTYj8AsUHFdhSjj1z7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f4cuDOnd8cprtJ2IrTP6eRSbg5E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/498mpf7DuhKW1wVKQfXuclMy5GP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gOnjVWuWHBQ2ONdZDvz15hA0CMu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eTBVLxqDvkMuJZTi3rYSlXaZyVv.png"
     },
     {
-      "id": "tmdb:67075",
+      "id": "tmdb:114410",
       "type": "series",
-      "name": "Mob Psycho 100",
+      "name": "Chainsaw Man",
       "ids": {
-        "tmdb": 67075
+        "tmdb": 114410
       },
-      "overview": "Kageyama Shigeo, más conocido por el apodo \"Mob\", parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+      "overview": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.\n\nCuando una traición provoca la muerte de Denji, Pochita hace un contrato con él y Denji revive como \"Chainsaw Man\", un ser humano con el corazón de un demonio.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zSjERIOum3Ntwgu5a0kLmRCs70g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8X3AdUA5q3owusAXOiCOn3FwXUa.png"
+    },
+    {
+      "id": "tmdb:26867",
+      "type": "series",
+      "name": "Mushi-Shi",
+      "ids": {
+        "tmdb": 26867
+      },
+      "overview": "Como Mushishi o experto en Mushis, Ginko recorre el mundo ayudando a aquellos cuyas vidas se han visto trastornadas, de una forma u otra, al entrar en contacto con estas criaturas extrañas. Los Mushis habitan, en ocasiones, en los seres humanos, parasitándolos. A cambio, pueden otorgar habilidades extraordinarias a su anfitrión.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/1EdA21TRBXJU5aBP4EHkOMF2tNx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5vgt2Sclapt3qBkhheYbZBt9Lvf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xFiCp8wraCYN2l2aYJPI4hLxniT.png"
     },
     {
       "id": "tmdb:69500",
@@ -631,18 +603,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/s6wIb5zul4md6vfJdR4bEHP5abu.png"
     },
     {
-      "id": "tmdb:26867",
+      "id": "tmdb:204832",
       "type": "series",
-      "name": "Mushi-Shi",
+      "name": "MASHLE: MAGIC AND MUSCLES",
       "ids": {
-        "tmdb": 26867
+        "tmdb": 204832
       },
-      "overview": "Como Mushishi o experto en Mushis, Ginko recorre el mundo ayudando a aquellos cuyas vidas se han visto trastornadas, de una forma u otra, al entrar en contacto con estas criaturas extrañas. Los Mushis habitan, en ocasiones, en los seres humanos, parasitándolos. A cambio, pueden otorgar habilidades extraordinarias a su anfitrión.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/1EdA21TRBXJU5aBP4EHkOMF2tNx.jpg",
+      "overview": "Este es un mundo de magia.\n\nEste es un mundo en el que todos usan la magia habitualmente.\n\nEn un bosque profundo y oscuro de este mundo de magia, hay un chico que se ejercita a diario.\n\nSu nombre es Mash Burnedead y tiene un secreto: no puede usar magia.\n\nLo único que quería era vivir tranquilo con su familia, pero cuando un día intentan matarlo por no poder usar magia, las cosas se salen de control y acaba inscrito en una escuela mágica, donde su objetivo será convertirse en el \"Iluminado Divino\", el alumno más formidable, el elegido de Dios.\n\n¿Podrán sus poderosos músculos derrotar a los más brillantes usuarios de magia?\n\n¡Se alza el telón de esta historia de magia y fantasía peculiar en el que la fuerza puede con la magia!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/yORTvQOQTZzZ9JRIpRH4QaIaQBm.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5vgt2Sclapt3qBkhheYbZBt9Lvf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xFiCp8wraCYN2l2aYJPI4hLxniT.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bGebBe1NuLRgQfDAMzzAPcskanE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f1iybcTUUU0QnPwvFjJvChxss6b.png"
+    },
+    {
+      "id": "tmdb:72517",
+      "type": "series",
+      "name": "Classroom of the Elite",
+      "ids": {
+        "tmdb": 72517
+      },
+      "overview": "Kiyotaka Ayanokouji ingresa a la prestigiosa Academia Tokyo Koudo Ikusei, pero es asignado a la Clase 1-D, donde están los estudiantes con problemas. La escuela otorga puntos mensuales equivalentes a 100,000 yenes y permite una libertad inusual en las clases, ocultando un sistema más complejo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f4cuDOnd8cprtJ2IrTP6eRSbg5E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/498mpf7DuhKW1wVKQfXuclMy5GP.png"
+    },
+    {
+      "id": "tmdb:67075",
+      "type": "series",
+      "name": "Mob Psycho 100",
+      "ids": {
+        "tmdb": 67075
+      },
+      "overview": "Kageyama Shigeo, más conocido por el apodo \"Mob\", parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zSjERIOum3Ntwgu5a0kLmRCs70g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
     },
     {
       "id": "tmdb:60761",
@@ -659,18 +659,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fbjBgKKQZkg8OnFkCiBqRHwnsqh.png"
     },
     {
-      "id": "tmdb:76757",
+      "id": "tmdb:20111",
       "type": "series",
-      "name": "Golden Kamuy",
+      "name": "Mobile Suit Gundam SEED",
       "ids": {
-        "tmdb": 76757
+        "tmdb": 20111
       },
-      "overview": "Saichi Sugimoto es un duro soldado que participa en la guerra ruso-japonesa y que se ganó el apodo de \"Sugimoto el Inmortal\". Los honores en combate de poco le sirven cuando es expulsado del ejército por cierto incidente, pero tiene un objetivo que cumplir, una promesa que mantener, y para ello necesitará dinero. Su primera idea para conseguirlo será unirse a la reciente fiebre del oro de Hokkaido y probar suerte, pero el destino le preparaba un reto más interesante y a la par, más rentable. Cuando un extraño hombre le cuenta la historia de cómo un ladrón robó una gran cantidad de oro a un grupo de Ainu para posteriormente esconder su botín, los ojos se le iluminan. ¿Será una historia falsa? El hombre le dice que la única forma de encontrar el oro robado es localizar a una serie de hombres que estuvieron en prisión con el ladrón y que llevan las pistas tatuadas en sus propios cuerpos. Pero Hokkaido es una región dura y su naturaleza implacable, así que cuando todavía está decidiendo si tal historia es algo más que un cuento chino, tendrá que luchar por proteger su vida de un enorme oso... y quien aparecerá a su rescate es una chica Ainu que parece saber algo sobre la historia que le contó el viejo.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/KjatL82mrWDogOlswIxwdrpe2n.jpg",
+      "overview": "En el año 70 de la era cósmica, la colonia espacial de Junius 7 es destruida por un ataque nuclear. Es así como empieza la guerra entre ZAFT (Zodiac Alliance for Fredom Treaty) un ejercito compuesto por los habitantes de las colonias, conocidos como coordinadores, humanos mejorados genéticamente, siendo más fuertes e inteligentes; y la alianza terrestre. Un año después los naturales, humanos sin modificaciones genéticas, inician la creación de Mobile Suits capaces de vencer a los Mobiles Suits de ZAFT, sin embargo son descubiertos. Kira un joven coordinador que vive en una colonia espacial de la nación neutral de ORB, vive la invasión y destrucción de su hogar por parte de ZAFT y descubriendo que su mejor amigo de la infancia, Athrun, se convirtió en un soldado de ZAFT. Kira decide proteger a sus amigos piloteando el Gundam, sin embargo eso significaría una cosa: tendrá que pelear contra los coordinadores, entre los cuales se encuentra Athrun.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/srIoODNJa9HeRdc59ZPHzEdmH75.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fhpM17dZpyos5mBoO09OEnadelU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bAFrS2j4KQcwH7NWK9CEkaHh64C.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1KbY8VUg93aKKcPkYoffGUeyxIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Rn2d1IWrPlNXNkNrSkKO21YbcX.png"
     },
     {
       "id": "tmdb:60833",
@@ -687,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tK4F1w52DDEZs4imUXOTSYQJId4.png"
     },
     {
-      "id": "tmdb:204832",
+      "id": "tmdb:45857",
       "type": "series",
-      "name": "MASHLE: MAGIC AND MUSCLES",
+      "name": "Katekyo Hitman Reborn!",
       "ids": {
-        "tmdb": 204832
+        "tmdb": 45857
       },
-      "overview": "Este es un mundo de magia.\n\nEste es un mundo en el que todos usan la magia habitualmente.\n\nEn un bosque profundo y oscuro de este mundo de magia, hay un chico que se ejercita a diario.\n\nSu nombre es Mash Burnedead y tiene un secreto: no puede usar magia.\n\nLo único que quería era vivir tranquilo con su familia, pero cuando un día intentan matarlo por no poder usar magia, las cosas se salen de control y acaba inscrito en una escuela mágica, donde su objetivo será convertirse en el \"Iluminado Divino\", el alumno más formidable, el elegido de Dios.\n\n¿Podrán sus poderosos músculos derrotar a los más brillantes usuarios de magia?\n\n¡Se alza el telón de esta historia de magia y fantasía peculiar en el que la fuerza puede con la magia!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/yORTvQOQTZzZ9JRIpRH4QaIaQBm.jpg",
+      "overview": "Tsuna es un estudiante de instituto bastante tímido y que es un fracaso en absolutamente todo: los estudios, los deportes y socializando con los demás. Pero todo cambia de repente cuando ante Tsuna aparece un bebé que dice llamarse Reborn y ser un Tutor Mafioso enviado por la Familia Vongola, una poderosa Familia de la mafia italiana. Reborn acude a Tsuna para entrenarlo como ¡el décimo jefe de los Vongola!",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bGebBe1NuLRgQfDAMzzAPcskanE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f1iybcTUUU0QnPwvFjJvChxss6b.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h3RxtFf7fqSzVxaGwcRqXg8Lx8L.png"
     }
   ]
 }
