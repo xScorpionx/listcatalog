@@ -43,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
     },
     {
+      "id": "tmdb:60622",
+      "type": "series",
+      "name": "Fargo",
+      "ids": {
+        "tmdb": 60622
+      },
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
+    },
+    {
       "id": "tmdb:200875",
       "type": "series",
       "name": "It: Bienvenidos a Derry",
@@ -57,18 +71,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png"
     },
     {
-      "id": "tmdb:60622",
+      "id": "tmdb:1402",
       "type": "series",
-      "name": "Fargo",
+      "name": "The Walking Dead",
       "ids": {
-        "tmdb": 60622
+        "tmdb": 1402
       },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2h535cxMHIWPkLKPcX2D669BlLo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
       "id": "tmdb:1668",
@@ -85,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "\"The Walking Dead\" está ambientada en un futuro apocalíptico con la Tierra devastada por el efecto de un cataclismo, que ha provocado la mutación en zombies de la mayor parte de los habitantes del planeta. La serie, explora las dificultades de los protagonistas para sobrevivir en un mundo poblado por el horror, así como las relaciones personales que se establecen entre ellos, en ocasiones también una amenaza para su supervivencia.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
-    },
-    {
       "id": "tmdb:60735",
       "type": "series",
       "name": "The Flash",
@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/46EOU3o8FQ1Up9hagnwmycdRHPj.png"
     },
     {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick y Morty",
-      "ids": {
-        "tmdb": 60625
-      },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
-    },
-    {
       "id": "tmdb:15260",
       "type": "series",
       "name": "Hora de aventuras",
@@ -139,6 +125,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qaNf7MO7Jfo9hUPC23mwfFgP3Uh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
       "id": "tmdb:18165",
@@ -169,6 +169,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/sHF6y7btA03TqE1tVQJq3JJzQA3.svg"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "FROM",
+      "ids": {
+        "tmdb": 124364
+      },
+      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g3JFcuQpmzVzVgSvbrmRqkjuT84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kPQrUwdpoONe5jdOuHgQfRXyUf1.png"
+    },
+    {
       "id": "tmdb:65733",
       "type": "series",
       "name": "Doraemon, el gato cósmico",
@@ -195,20 +209,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "FROM",
-      "ids": {
-        "tmdb": 124364
-      },
-      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g3JFcuQpmzVzVgSvbrmRqkjuT84.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kPQrUwdpoONe5jdOuHgQfRXyUf1.png"
     },
     {
       "id": "tmdb:1398",
@@ -267,6 +267,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     },
     {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "La casa del dragón",
+      "ids": {
+        "tmdb": 94997
+      },
+      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kSNBbAr6c7y8HVhHqF4e0qGOaXk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
+    },
+    {
       "id": "tmdb:111803",
       "type": "series",
       "name": "The White Lotus",
@@ -309,34 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/tIWcnwZegcY5Ix2649P2hJOxcSx.png"
     },
     {
-      "id": "tmdb:94997",
-      "type": "series",
-      "name": "La casa del dragón",
-      "ids": {
-        "tmdb": 94997
-      },
-      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kSNBbAr6c7y8HVhHqF4e0qGOaXk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
-    },
-    {
-      "id": "tmdb:105",
-      "type": "series",
-      "name": "Sexo en Nueva York",
-      "ids": {
-        "tmdb": 105
-      },
-      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
-    },
-    {
       "id": "tmdb:1418",
       "type": "series",
       "name": "Big Bang",
@@ -357,26 +343,12 @@
       "ids": {
         "tmdb": 46648
       },
-      "overview": "True Detective es una serie de televisión estadounidense dramática de género policíaco, protagonizada en su primera temporada por los actores estadounidenses Matthew McConaughey y Woody Harrelson; la serie se estrenó en Estados Unidos y América Latina el 12 de enero de 2014 por HBO. La serie sigue un formato de antología, así queen cada temporada contará una historia diferente con un elenco de personajes distintos.",
+      "overview": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
       "year": 2014,
       "poster": "https://image.tmdb.org/t/p/w342/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/48KPyUFUpcwWsqPvSkS61M0FtHo.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
-    },
-    {
-      "id": "tmdb:69050",
-      "type": "series",
-      "name": "Riverdale",
-      "ids": {
-        "tmdb": 69050
-      },
-      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
     },
     {
       "id": "tmdb:250307",
@@ -393,6 +365,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
     },
     {
+      "id": "tmdb:69050",
+      "type": "series",
+      "name": "Riverdale",
+      "ids": {
+        "tmdb": 69050
+      },
+      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "series",
+      "name": "Sexo en Nueva York",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
+    },
+    {
       "id": "tmdb:69478",
       "type": "series",
       "name": "El cuento de la criada",
@@ -405,34 +405,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
-    },
-    {
-      "id": "tmdb:100088",
-      "type": "series",
-      "name": "The Last of Us",
-      "ids": {
-        "tmdb": 100088
-      },
-      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nvUfKNPSXamOdUd3JaYr3kTaHe8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
-    },
-    {
-      "id": "tmdb:4419",
-      "type": "series",
-      "name": "Real Time with Bill Maher",
-      "ids": {
-        "tmdb": 4419
-      },
-      "overview": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educación, el medio ambiente y muchas otras.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wxdFuCHawKMIqDrY2ywsR34Gocx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
     },
     {
       "id": "tmdb:4546",
@@ -449,6 +421,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
     },
     {
+      "id": "tmdb:4419",
+      "type": "series",
+      "name": "Real Time with Bill Maher",
+      "ids": {
+        "tmdb": 4419
+      },
+      "overview": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educación, el medio ambiente y muchas otras.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wxdFuCHawKMIqDrY2ywsR34Gocx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
+    },
+    {
+      "id": "tmdb:100088",
+      "type": "series",
+      "name": "The Last of Us",
+      "ids": {
+        "tmdb": 100088
+      },
+      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nvUfKNPSXamOdUd3JaYr3kTaHe8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
+    },
+    {
       "id": "tmdb:85552",
       "type": "series",
       "name": "Euphoria",
@@ -461,20 +461,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
-    },
-    {
-      "id": "tmdb:2808",
-      "type": "series",
-      "name": "Totally Spies !",
-      "ids": {
-        "tmdb": 2808
-      },
-      "overview": "Clover, Alex y Sam tres chicas adolescentes de Beverly Hills que se convierten en agentes secretas internacionales para la Organización Mundial de Protección Humana.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/2WXQCzpkqwfkUR0vHe9fMWQ6niy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/s3acJGBPPEQQK1WwxiGq0SQ8txW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1MBWwB8gHl6F05DuccNQ4u2uK61.png"
     },
     {
       "id": "tmdb:1395",
@@ -505,20 +491,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
-      "id": "tmdb:95057",
-      "type": "series",
-      "name": "Superman y Lois",
-      "ids": {
-        "tmdb": 95057
-      },
-      "overview": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/totfXyBQW9zrN8aCx6wsOkJjqni.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bdkk7wEEolDCvR8LG5lfVr0ZUGR.png"
-    },
-    {
       "id": "tmdb:46896",
       "type": "series",
       "name": "Los originales",
@@ -533,18 +505,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
     },
     {
-      "id": "tmdb:31917",
+      "id": "tmdb:2808",
       "type": "series",
-      "name": "Pequeñas mentirosas",
+      "name": "Totally Spies !",
       "ids": {
-        "tmdb": 31917
+        "tmdb": 2808
       },
-      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
+      "overview": "Clover, Alex y Sam tres chicas adolescentes de Beverly Hills que se convierten en agentes secretas internacionales para la Organización Mundial de Protección Humana.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/2WXQCzpkqwfkUR0vHe9fMWQ6niy.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/s3acJGBPPEQQK1WwxiGq0SQ8txW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1MBWwB8gHl6F05DuccNQ4u2uK61.png"
+    },
+    {
+      "id": "tmdb:95057",
+      "type": "series",
+      "name": "Superman y Lois",
+      "ids": {
+        "tmdb": 95057
+      },
+      "overview": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/totfXyBQW9zrN8aCx6wsOkJjqni.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bdkk7wEEolDCvR8LG5lfVr0ZUGR.png"
     },
     {
       "id": "tmdb:2673",
@@ -561,46 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7OaoY7oonC1hnYumuYoj43YVJW3.png"
     },
     {
-      "id": "tmdb:110492",
+      "id": "tmdb:31917",
       "type": "series",
-      "name": "El Pacificador",
+      "name": "Pequeñas mentirosas",
       "ids": {
-        "tmdb": 110492
+        "tmdb": 31917
       },
-      "overview": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/t7NakS7qZekeXSocv6jcyd5on7A.jpg",
+      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8RF2EUEt9uknaEa4Eh9SrW1eecY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9arGKCxY19dTahbAd8ZuVKxMzYZ.png"
-    },
-    {
-      "id": "tmdb:61175",
-      "type": "series",
-      "name": "Steven Universe",
-      "ids": {
-        "tmdb": 61175
-      },
-      "overview": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1vOPSoIEgYSyU4dS0QXyXv83jaU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
-    },
-    {
-      "id": "tmdb:71694",
-      "type": "series",
-      "name": "Snowfall",
-      "ids": {
-        "tmdb": 71694
-      },
-      "overview": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/y7ntzl7msiaS6o7dvDbNG7XFYcR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1Ujlcsc48vHL0GRbBSR0HdlO17O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bMhxqWYzNqyG6bN4m6LOgypOTpn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
     },
     {
       "id": "tmdb:76331",
@@ -617,18 +575,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
     },
     {
-      "id": "tmdb:87108",
+      "id": "tmdb:110492",
       "type": "series",
-      "name": "Chernobyl",
+      "name": "El Pacificador",
       "ids": {
-        "tmdb": 87108
+        "tmdb": 110492
       },
-      "overview": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "overview": "La historia de origen de Peacemaker, un hombre que cree en la paz a cualquier precio, no importa cuántas personas tenga que matar para conseguirla.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/t7NakS7qZekeXSocv6jcyd5on7A.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8RF2EUEt9uknaEa4Eh9SrW1eecY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9arGKCxY19dTahbAd8ZuVKxMzYZ.png"
+    },
+    {
+      "id": "tmdb:71694",
+      "type": "series",
+      "name": "Snowfall",
+      "ids": {
+        "tmdb": 71694
+      },
+      "overview": "Retrata los comienzos de la epidemia de la cocaína y del crack en Los Ángeles de principios de los 80, y sus radicales impactos en la cultura tal y como la conocemos. La historia sigue a numerosos personajes: Franklin Saint, un joven emprendedor de la calle en búsqueda del poder; Gustavo Zapata, un luchador mejicano reconvertido en gangster; Teddy McDonald, un policía de la CIA que escapa de un oscuro pasado y empieza una operación por su cuenta para fundar los Nicaraguan Contras y Lucia Villanueva, la hija de un narcotraficante mejicano.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/y7ntzl7msiaS6o7dvDbNG7XFYcR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1Ujlcsc48vHL0GRbBSR0HdlO17O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bMhxqWYzNqyG6bN4m6LOgypOTpn.png"
+    },
+    {
+      "id": "tmdb:61175",
+      "type": "series",
+      "name": "Steven Universe",
+      "ids": {
+        "tmdb": 61175
+      },
+      "overview": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1vOPSoIEgYSyU4dS0QXyXv83jaU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
     },
     {
       "id": "tmdb:4229",
@@ -643,6 +629,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kOsMiFpRLfLblykfTyrenHgip89.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3uD97eczEvKoGZz9aE8J6l6QVNI.png"
+    },
+    {
+      "id": "tmdb:63401",
+      "type": "series",
+      "name": "Somos osos",
+      "ids": {
+        "tmdb": 63401
+      },
+      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
     },
     {
       "id": "tmdb:34634",
@@ -673,6 +673,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/3VPFenMcMidio7WCjDRYXUZgNW2.png"
     },
     {
+      "id": "tmdb:87108",
+      "type": "series",
+      "name": "Chernobyl",
+      "ids": {
+        "tmdb": 87108
+      },
+      "overview": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lwG78tb6wZoKE1UgrfqhK2JydTh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
+    },
+    {
       "id": "tmdb:243875",
       "type": "series",
       "name": "El primer matrimonio de Georgie y Mandy",
@@ -685,20 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fIhXD6m9LJgC7yDMOHMpYgkYAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png"
-    },
-    {
-      "id": "tmdb:607",
-      "type": "series",
-      "name": "Las Supernenas",
-      "ids": {
-        "tmdb": 607
-      },
-      "overview": "El profesor Utonium es un ingeniero genético que siempre está experimentando. Una noche decide hacer realidad su sueño más anhelado: crear una niña perfecta. El resultado es espectacular: en vez de una niña ha creado a tres superheroínas.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/nGVE5Npcj41KuQW2NUCdHseop8I.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
     }
   ]
 }
