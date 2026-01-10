@@ -29,6 +29,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/1oiOZxgAvJbCpw6FIK3eUCfmipY.png"
     },
     {
+      "id": "tmdb:95479",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "ids": {
+        "tmdb": 95479
+      },
+      "overview": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+    },
+    {
       "id": "tmdb:71712",
       "type": "series",
       "name": "The Good Doctor",
@@ -71,20 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
     },
     {
-      "id": "tmdb:1407",
-      "type": "series",
-      "name": "Homeland",
-      "ids": {
-        "tmdb": 1407
-      },
-      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
-    },
-    {
       "id": "tmdb:1408",
       "type": "series",
       "name": "House",
@@ -95,8 +95,22 @@
       "year": 2004,
       "poster": "https://image.tmdb.org/t/p/w342/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hQwkcklTOP8roNAE6wvAErKil04.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/AvzQTmocCNTeicH1K3v6pzS1NYb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png"
+    },
+    {
+      "id": "tmdb:46952",
+      "type": "series",
+      "name": "The Blacklist",
+      "ids": {
+        "tmdb": 46952
+      },
+      "overview": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xKXrb9kDBhwC4udRbdXzJLR7p0D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
     },
     {
       "id": "tmdb:1396",
@@ -113,18 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
     },
     {
-      "id": "tmdb:46952",
+      "id": "tmdb:1407",
       "type": "series",
-      "name": "The Blacklist",
+      "name": "Homeland",
       "ids": {
-        "tmdb": 46952
+        "tmdb": 1407
       },
-      "overview": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xKXrb9kDBhwC4udRbdXzJLR7p0D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     },
     {
       "id": "tmdb:60622",
@@ -155,20 +169,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
-      "id": "tmdb:57532",
-      "type": "series",
-      "name": "La Patrulla Canina",
-      "ids": {
-        "tmdb": 57532
-      },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
       "id": "tmdb:2316",
       "type": "series",
       "name": "The Office",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
-      "id": "tmdb:95479",
+      "id": "tmdb:57532",
       "type": "series",
-      "name": "Jujutsu Kaisen",
+      "name": "La Patrulla Canina",
       "ids": {
-        "tmdb": 95479
+        "tmdb": 57532
       },
-      "overview": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
       "id": "tmdb:60572",
@@ -281,6 +281,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
     },
     {
+      "id": "tmdb:71790",
+      "type": "series",
+      "name": "S.W.A.T.: Los hombres de Harrelson",
+      "ids": {
+        "tmdb": 71790
+      },
+      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
+    },
+    {
       "id": "tmdb:93405",
       "type": "series",
       "name": "El juego del calamar",
@@ -309,20 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
-      "id": "tmdb:71790",
-      "type": "series",
-      "name": "S.W.A.T.: Los hombres de Harrelson",
-      "ids": {
-        "tmdb": 71790
-      },
-      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
-    },
-    {
       "id": "tmdb:60574",
       "type": "series",
       "name": "Peaky Blinders",
@@ -335,76 +335,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
-    },
-    {
-      "id": "tmdb:46296",
-      "type": "series",
-      "name": "Spartacus",
-      "ids": {
-        "tmdb": 46296
-      },
-      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
-    },
-    {
-      "id": "tmdb:71912",
-      "type": "series",
-      "name": "The Witcher",
-      "ids": {
-        "tmdb": 71912
-      },
-      "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A9PsaBXeO0OeTDlx1P5AFo0NG39.png"
-    },
-    {
-      "id": "tmdb:37680",
-      "type": "series",
-      "name": "Suits: la clave del éxito",
-      "ids": {
-        "tmdb": 37680
-      },
-      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía. Entre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de corte de derecho. El azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter. La inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un sólo título universitario.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/o7IXNuLjKv475y8XWipkvolSPS4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
-    },
-    {
-      "id": "tmdb:238458",
-      "type": "series",
-      "name": "Cashman",
-      "ids": {
-        "tmdb": 238458
-      },
-      "overview": "Un hombre común hereda el don de una fuerza descomunal, pero un enemigo busca arrebatárselo. Lo peor es que cada vez que usa su superpoder, su cartera se resiente.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/h73FVzJZlgo0ZrHNqLl0swAzwHm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oL6qmTvpCCPHCYKqB8VRdhYt1Wf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1iFO05YKpPtTFUTtOhUeurrYOjZ.png"
-    },
-    {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:120089",
@@ -421,6 +351,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
     },
     {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
+      "id": "tmdb:37680",
+      "type": "series",
+      "name": "Suits: la clave del éxito",
+      "ids": {
+        "tmdb": 37680
+      },
+      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía. Entre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de corte de derecho. El azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter. La inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un sólo título universitario.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/o7IXNuLjKv475y8XWipkvolSPS4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
+    },
+    {
+      "id": "tmdb:71912",
+      "type": "series",
+      "name": "The Witcher",
+      "ids": {
+        "tmdb": 71912
+      },
+      "overview": "Geralt, un brujo que se dedica a cazar monstruos genéticamente modificados, busca su lugar en un mundo donde a menudo los humanos demuestran ser peores que las bestias.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/gvn0m0LCIslrURjSo7UG5Rx6mV2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A9PsaBXeO0OeTDlx1P5AFo0NG39.png"
+    },
+    {
       "id": "tmdb:38693",
       "type": "series",
       "name": "LEGO Ninjago: Maestros del Spinjitzu",
@@ -433,34 +405,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4cheoeXg8iQb2NH8OWRFcNp3wS2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7MSskBZ9qhIthuhqCBiBLpIyo7h.png"
-    },
-    {
-      "id": "tmdb:119051",
-      "type": "series",
-      "name": "Miércoles",
-      "ids": {
-        "tmdb": 119051
-      },
-      "overview": "Miércoles Addams, lista, sarcástica y un poco muerta por dentro, investiga una oleada de asesinatos mientras hace amigos —y enemigos— en la Academia Nunca Más.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/bNKwoYqkCXfIhhr5Jz8slrsw32r.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zChTpZTxgxcAibXi0I2pEusRQCl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zxyB1cF3R8vUyB8bh5LNzqhSnUU.png"
-    },
-    {
-      "id": "tmdb:78191",
-      "type": "series",
-      "name": "You",
-      "ids": {
-        "tmdb": 78191
-      },
-      "overview": "Cuando un brillante administrador de librería se cruza con un aspirante a escritor, utiliza Internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo rápidamente se convierte en obsesión mientras quita silenciosamente y estratégicamente cada obstáculo, y persona, en su camino.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ijXRctzwrcLZZmKPskToK9jiUsf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
     },
     {
       "id": "tmdb:1400",
@@ -477,18 +421,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/5vkwGaERx7T3osv9yuzllFODMZM.png"
     },
     {
-      "id": "tmdb:220150",
+      "id": "tmdb:12225",
       "type": "series",
-      "name": "Horizontes Pokémon",
+      "name": "Peppa Pig",
       "ids": {
-        "tmdb": 220150
+        "tmdb": 12225
       },
-      "overview": "¡Acompaña a Liko y Rod en sus increíbles aventuras mientras desvelan los misterios que les rodean y conocen a Friede, Capitán Pikachu y Amethio, entre otros!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2RwGhjr0KLTdgQMxGikB5Omfkb3.jpg",
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w1gCEpUvhQiWBEJqASQvgBnvbK0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+    },
+    {
+      "id": "tmdb:78191",
+      "type": "series",
+      "name": "You",
+      "ids": {
+        "tmdb": 78191
+      },
+      "overview": "Cuando un brillante administrador de librería se cruza con un aspirante a escritor, utiliza Internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo rápidamente se convierte en obsesión mientras quita silenciosamente y estratégicamente cada obstáculo, y persona, en su camino.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ijXRctzwrcLZZmKPskToK9jiUsf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
+    },
+    {
+      "id": "tmdb:46260",
+      "type": "series",
+      "name": "Naruto",
+      "ids": {
+        "tmdb": 46260
+      },
+      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
+    },
+    {
+      "id": "tmdb:119051",
+      "type": "series",
+      "name": "Miércoles",
+      "ids": {
+        "tmdb": 119051
+      },
+      "overview": "Miércoles Addams, lista, sarcástica y un poco muerta por dentro, investiga una oleada de asesinatos mientras hace amigos —y enemigos— en la Academia Nunca Más.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/bNKwoYqkCXfIhhr5Jz8slrsw32r.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zChTpZTxgxcAibXi0I2pEusRQCl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zxyB1cF3R8vUyB8bh5LNzqhSnUU.png"
     },
     {
       "id": "tmdb:71728",
@@ -503,6 +489,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+    },
+    {
+      "id": "tmdb:220150",
+      "type": "series",
+      "name": "Horizontes Pokémon",
+      "ids": {
+        "tmdb": 220150
+      },
+      "overview": "¡Acompaña a Liko y Rod en sus increíbles aventuras mientras desvelan los misterios que les rodean y conocen a Friede, Capitán Pikachu y Amethio, entre otros!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2RwGhjr0KLTdgQMxGikB5Omfkb3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w1gCEpUvhQiWBEJqASQvgBnvbK0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
+    },
+    {
+      "id": "tmdb:259731",
+      "type": "series",
+      "name": "Él y ella",
+      "ids": {
+        "tmdb": 259731
+      },
+      "overview": "Un matrimonio formado por un inspector de policía y una periodista compite para resolver un caso de asesinato en el que ambos ven al otro como el principal sospechoso.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/sVl7GPi1aGX5wnNsBZDf93hu9gU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1YGM6ZGUtrIuPigPqDOioZZVaOZ.png"
+    },
+    {
+      "id": "tmdb:238458",
+      "type": "series",
+      "name": "Cashman",
+      "ids": {
+        "tmdb": 238458
+      },
+      "overview": "Un hombre común hereda el don de una fuerza descomunal, pero un enemigo busca arrebatárselo. Lo peor es que cada vez que usa su superpoder, su cartera se resiente.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/h73FVzJZlgo0ZrHNqLl0swAzwHm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oL6qmTvpCCPHCYKqB8VRdhYt1Wf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1iFO05YKpPtTFUTtOhUeurrYOjZ.png"
     },
     {
       "id": "tmdb:42009",
@@ -531,20 +559,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bzKbPud46Jf1YtCDYUyVN222I5U.png"
-    },
-    {
-      "id": "tmdb:37606",
-      "type": "series",
-      "name": "El asombroso mundo de Gumball",
-      "ids": {
-        "tmdb": 37606
-      },
-      "overview": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6o3Tthb72w0jyGMcwgmQfFp9KZF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     },
     {
       "id": "tmdb:1855",
@@ -589,32 +603,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
     },
     {
-      "id": "tmdb:245684",
+      "id": "tmdb:37606",
       "type": "series",
-      "name": "Guerra de cucharas blancas contra negras",
+      "name": "El asombroso mundo de Gumball",
       "ids": {
-        "tmdb": 245684
+        "tmdb": 37606
       },
-      "overview": "Ochenta cocineros aficionados con el don del sabor se enfrentan a veinte chefs de talla mundial en una dura competición culinaria de cien contendientes.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/cnBtzNehw0G85HqmCXd9xVqG4bL.jpg",
+      "overview": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Apo2p8VlZKtuhysk5F31A8cpvNt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iWwbwIFuqIYv51ucsn0nrMO4899.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6o3Tthb72w0jyGMcwgmQfFp9KZF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     },
     {
-      "id": "tmdb:60059",
+      "id": "tmdb:48891",
       "type": "series",
-      "name": "Better Call Saul",
+      "name": "Brooklyn Nine-Nine",
       "ids": {
-        "tmdb": 60059
+        "tmdb": 48891
       },
-      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "overview": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/A3SymGlOHefSKbz1bCOz56moupS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aNsrgElf0fiKBSR8cWWEL6XUTte.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png"
+    },
+    {
+      "id": "tmdb:15226",
+      "type": "series",
+      "name": "C.I.D",
+      "ids": {
+        "tmdb": 15226
+      },
+      "overview": "Un equipo de hombres y mujeres comprometidos con la investigación de crímenes lo arriesgará todo para resolver los más oscuros casos de Bombay.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/26uEr3docGiJVEDlqepAjf99Vlq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hRjxW43vXpHZEKoT0g7zbQUgwwd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mX37jrDHYdHwuthLzSnVDEOnNU6.png"
     },
     {
       "id": "tmdb:45140",
@@ -645,20 +673,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1qjjdSXXmDSnBZ5o7DAfbTgwd2d.png"
     },
     {
-      "id": "tmdb:15226",
-      "type": "series",
-      "name": "C.I.D",
-      "ids": {
-        "tmdb": 15226
-      },
-      "overview": "Un equipo de hombres y mujeres comprometidos con la investigación de crímenes lo arriesgará todo para resolver los más oscuros casos de Bombay.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/26uEr3docGiJVEDlqepAjf99Vlq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hRjxW43vXpHZEKoT0g7zbQUgwwd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mX37jrDHYdHwuthLzSnVDEOnNU6.png"
-    },
-    {
       "id": "tmdb:46298",
       "type": "series",
       "name": "Hunter × Hunter",
@@ -673,32 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
     },
     {
-      "id": "tmdb:48891",
+      "id": "tmdb:56570",
       "type": "series",
-      "name": "Brooklyn Nine-Nine",
+      "name": "Outlander",
       "ids": {
-        "tmdb": 48891
+        "tmdb": 56570
       },
-      "overview": "El detective Jake Peralta y el capitán Ray Holt encabezan esta comedia sobre conflictos generacionales en una comisaría de Nueva York. Uno es un detective que no se toma en serio las reglas de sus superiores, mientras que el otro es un inspector empeñado en que madure de una vez y trabaje conforme a las normas del departamento.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+      "overview": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aNsrgElf0fiKBSR8cWWEL6XUTte.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png"
-    },
-    {
-      "id": "tmdb:91239",
-      "type": "series",
-      "name": "Los Bridgerton",
-      "ids": {
-        "tmdb": 91239
-      },
-      "overview": "Ambientada en la alta sociedad londinense de principios del siglo XIX, la historia se centra en la familia Bridgerton, formada por varios hermanos y hermanas que se debaten entre el amor, el deber y la vocación. Cada temporada refleja la vida amorosa de un hermano Bridgerton, empezando por Daphne y siguiendo por Anthony, Colin y Benedict.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/4Yo1Yxj9uXxTeXBJPDAIU2SRy7Z.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sspQooyeMMkDfRzVzi6YrSRuJkQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A9S8mk45IKWVND45fjWmHtJPwFf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6vOKcczU3HUzigeSpqfl7CSjyMv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/719jwF5q5QCxdZpIN5q7NUQtaj2.png"
     }
   ]
 }
