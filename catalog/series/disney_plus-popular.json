@@ -99,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png"
     },
     {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
-    },
-    {
       "id": "tmdb:1402",
       "type": "series",
       "name": "The Walking Dead",
@@ -139,6 +125,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6Hn6KmuafmJFmw7dnNKTqiibtNL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
+    },
+    {
+      "id": "tmdb:2316",
+      "type": "series",
+      "name": "The Office",
+      "ids": {
+        "tmdb": 2316
+      },
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
       "id": "tmdb:4607",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iAtC7dmE9CKFCWTp4TXV7tc0ig5.png"
     },
     {
-      "id": "tmdb:65334",
+      "id": "tmdb:2288",
       "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "name": "Prison Break",
       "ids": {
-        "tmdb": 65334
+        "tmdb": 2288
       },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wgdJFhAsDB1DVbCjrD5L1PkqlxE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
     },
     {
       "id": "tmdb:1973",
@@ -225,6 +225,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
+    },
+    {
       "id": "tmdb:75219",
       "type": "series",
       "name": "9-1-1",
@@ -237,34 +251,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ygOaYjqTeGZEHprKh2lWzPc1RdO.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png"
-    },
-    {
-      "id": "tmdb:2288",
-      "type": "series",
-      "name": "Prison Break",
-      "ids": {
-        "tmdb": 2288
-      },
-      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wgdJFhAsDB1DVbCjrD5L1PkqlxE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
-    },
-    {
-      "id": "tmdb:2710",
-      "type": "series",
-      "name": "Colgados en Filadelfia",
-      "ids": {
-        "tmdb": 2710
-      },
-      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
     },
     {
       "id": "tmdb:1419",
@@ -281,20 +267,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
     },
     {
-      "id": "tmdb:1403",
-      "type": "series",
-      "name": "Marvel Agentes de S.H.I.E.L.D.",
-      "ids": {
-        "tmdb": 1403
-      },
-      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
-    },
-    {
       "id": "tmdb:1413",
       "type": "series",
       "name": "American Horror Story",
@@ -307,20 +279,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
-    },
-    {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:71728",
@@ -351,6 +309,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/j3mAw57sf2zI0RzBdcm2M9CEF1e.png"
     },
     {
+      "id": "tmdb:2710",
+      "type": "series",
+      "name": "Colgados en Filadelfia",
+      "ids": {
+        "tmdb": 2710
+      },
+      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tq71OmrEiVuwcwmZtI8vUzmXC2p.png"
+    },
+    {
+      "id": "tmdb:1403",
+      "type": "series",
+      "name": "Marvel Agentes de S.H.I.E.L.D.",
+      "ids": {
+        "tmdb": 1403
+      },
+      "overview": "El agente Phil Coulson, de la película \"Los vengadores\", regresa para liderar a un pequeño grupo de agentes altamente capacitados en el campo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dW0qrzdW0XaxuK8hCVXLOh9H0Hl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+    },
+    {
       "id": "tmdb:30984",
       "type": "series",
       "name": "Bleach",
@@ -379,34 +379,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
     },
     {
-      "id": "tmdb:90",
-      "type": "series",
-      "name": "Mayday Catástrofes Aéreas",
-      "ids": {
-        "tmdb": 90
-      },
-      "overview": "Cada episodio se centra en un desastre aéreo, primero dando al público la sensación de estar en el avión y luego explicando por qué se produjo el accidente. La serie brinda a los tele-espectadores tanto la sensación visceral del desastre como la explicación racional de lo que sucedió y qué derivó la industria de la aviación como aprendizaje a raíz del accidente.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/egIbwNWZ5LC3ecyS09IW9nL9cco.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
-    },
-    {
-      "id": "tmdb:32726",
-      "type": "series",
-      "name": "Bob's Burgers",
-      "ids": {
-        "tmdb": 32726
-      },
-      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
-    },
-    {
       "id": "tmdb:1409",
       "type": "series",
       "name": "Hijos de la anarquía",
@@ -421,18 +393,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
-      "id": "tmdb:82728",
+      "id": "tmdb:90",
       "type": "series",
-      "name": "Bluey",
+      "name": "Mayday Catástrofes Aéreas",
       "ids": {
-        "tmdb": 82728
+        "tmdb": 90
       },
-      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
+      "overview": "Cada episodio se centra en un desastre aéreo, primero dando al público la sensación de estar en el avión y luego explicando por qué se produjo el accidente. La serie brinda a los tele-espectadores tanto la sensación visceral del desastre como la explicación racional de lo que sucedió y qué derivó la industria de la aviación como aprendizaje a raíz del accidente.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/egIbwNWZ5LC3ecyS09IW9nL9cco.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
+    },
+    {
+      "id": "tmdb:4194",
+      "type": "series",
+      "name": "Star Wars: The Clone Wars",
+      "ids": {
+        "tmdb": 4194
+      },
+      "overview": "La escasa tropa Jedi lucha por mantener la libertad y devolver la paz a la Galaxia frente al aparentemente interminable ejército droide, clones diseñados genéticamente. A través de cientos de planetas, los Caballeros Jedi y los Separatistas combaten por el futuro de la Galaxia, pero el número de planetas que van cayendo en manos del Lado Oscuro cada vez es mayor a causa de los movimientos de los Separatistas. El terrible conflicto se agrava porque nuestros héroes se ven absorbidos por la confusión de guerra, mientras el Conde Dooku, el asesino Asajj Ventress, su maestro Darth Sidious, el General Grievous y una amplia galería de enemigos nunca antes visto también conspiran y se unen para derrotarlos.\n\nLa historias de la serie 'Star Wars: The clone wars' transcurre entre el \"Episodio II: El ataque de los clones' y el \"Episodio III: La venganza de los Sith\" de la saga Star Wars.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/jAbECCJ8n7Rr25p2Y7MXPGMdoSR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vkhMmRYetDfcjW8oEz8HbDSQnfQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png"
     },
     {
       "id": "tmdb:1100",
@@ -449,18 +435,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
     },
     {
-      "id": "tmdb:211288",
+      "id": "tmdb:4586",
       "type": "series",
-      "name": "Tracker",
+      "name": "Las chicas Gilmore",
       "ids": {
-        "tmdb": 211288
+        "tmdb": 4586
       },
-      "overview": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w7EPJ3cI8vcaopcYb48yt1TJGvO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
       "id": "tmdb:1104",
@@ -477,46 +463,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
     },
     {
-      "id": "tmdb:4586",
+      "id": "tmdb:211288",
       "type": "series",
-      "name": "Las chicas Gilmore",
+      "name": "Tracker",
       "ids": {
-        "tmdb": 4586
+        "tmdb": 211288
       },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "overview": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/w7EPJ3cI8vcaopcYb48yt1TJGvO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png"
     },
     {
-      "id": "tmdb:74016",
+      "id": "tmdb:32726",
       "type": "series",
-      "name": "The Resident",
+      "name": "Bob's Burgers",
       "ids": {
-        "tmdb": 74016
+        "tmdb": 32726
       },
-      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
-    },
-    {
-      "id": "tmdb:4194",
-      "type": "series",
-      "name": "Star Wars: The Clone Wars",
-      "ids": {
-        "tmdb": 4194
-      },
-      "overview": "La escasa tropa Jedi lucha por mantener la libertad y devolver la paz a la Galaxia frente al aparentemente interminable ejército droide, clones diseñados genéticamente. A través de cientos de planetas, los Caballeros Jedi y los Separatistas combaten por el futuro de la Galaxia, pero el número de planetas que van cayendo en manos del Lado Oscuro cada vez es mayor a causa de los movimientos de los Separatistas. El terrible conflicto se agrava porque nuestros héroes se ven absorbidos por la confusión de guerra, mientras el Conde Dooku, el asesino Asajj Ventress, su maestro Darth Sidious, el General Grievous y una amplia galería de enemigos nunca antes visto también conspiran y se unen para derrotarlos.\n\nLa historias de la serie 'Star Wars: The clone wars' transcurre entre el \"Episodio II: El ataque de los clones' y el \"Episodio III: La venganza de los Sith\" de la saga Star Wars.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/jAbECCJ8n7Rr25p2Y7MXPGMdoSR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vkhMmRYetDfcjW8oEz8HbDSQnfQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
     },
     {
       "id": "tmdb:4556",
@@ -547,18 +519,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
     },
     {
-      "id": "tmdb:615",
+      "id": "tmdb:74016",
       "type": "series",
-      "name": "Futurama",
+      "name": "The Resident",
       "ids": {
-        "tmdb": 615
+        "tmdb": 74016
       },
-      "overview": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
+    },
+    {
+      "id": "tmdb:82728",
+      "type": "series",
+      "name": "Bluey",
+      "ids": {
+        "tmdb": 82728
+      },
+      "overview": "Bluey es una perrita de seis años incansable. Esta pastor ganadero australiano azul convierte el día a día con su familia en una aventura extraordinaria y desarrolla así tanto su imaginación como su capacidad mental, física y emocional.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/mspONkqgKmRuwc2wOYqs1MdwZNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6kVosC1wgVXJghUrPYBMoo9MA5D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uFYNVaPt6dz1PH6tZ4vfdyOnKS.png"
+    },
+    {
+      "id": "tmdb:226637",
+      "type": "series",
+      "name": "High Potential",
+      "ids": {
+        "tmdb": 226637
+      },
+      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
+    },
+    {
+      "id": "tmdb:1417",
+      "type": "series",
+      "name": "Glee",
+      "ids": {
+        "tmdb": 1417
+      },
+      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
+    },
+    {
+      "id": "tmdb:83867",
+      "type": "series",
+      "name": "Andor",
+      "ids": {
+        "tmdb": 83867
+      },
+      "overview": "Ambientada cinco años antes de los eventos de la película Rogue One,​ la serie sigue al espía Cassian Andor durante los años de formación de la Alianza Rebelde.​ La serie muestra la transformación de Andor, un ladrón que se convierte en revolucionario y finalmente se une a la Rebelión contra el Imperio Galáctico.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xwuSAZHLsalFcOut36SDvBPDhZO.png"
     },
     {
       "id": "tmdb:615",
@@ -589,32 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
     },
     {
-      "id": "tmdb:83867",
+      "id": "tmdb:239526",
       "type": "series",
-      "name": "Andor",
+      "name": "Sueños de libertad",
       "ids": {
-        "tmdb": 83867
+        "tmdb": 239526
       },
-      "overview": "Ambientada cinco años antes de los eventos de la película Rogue One,​ la serie sigue al espía Cassian Andor durante los años de formación de la Alianza Rebelde.​ La serie muestra la transformación de Andor, un ladrón que se convierte en revolucionario y finalmente se une a la Rebelión contra el Imperio Galáctico.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",
+      "overview": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/nlZZPRCQo1H4e32wsQll2VWxEDt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fwq1fK4HZyi1agPrWZCW6xQWle1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xwuSAZHLsalFcOut36SDvBPDhZO.png"
-    },
-    {
-      "id": "tmdb:39272",
-      "type": "series",
-      "name": "Érase una vez",
-      "ids": {
-        "tmdb": 39272
-      },
-      "overview": "Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/oE6VlG1ntyCaMdlPVRtsPQja3hf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dqbAkknuuxqCpQaeG9d6GBrEKm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4gb0fNHbQhBgRN6KnP8sVdSh9CM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xNkiZwybtfAsqnt30D5dTMZki7b.png"
     },
     {
       "id": "tmdb:33907",
@@ -631,20 +645,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     },
     {
-      "id": "tmdb:1417",
-      "type": "series",
-      "name": "Glee",
-      "ids": {
-        "tmdb": 1417
-      },
-      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
-    },
-    {
       "id": "tmdb:1420",
       "type": "series",
       "name": "New Girl",
@@ -659,18 +659,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ibfGyA8sPLTjycPsPUSywEWPOc2.png"
     },
     {
-      "id": "tmdb:239526",
+      "id": "tmdb:39272",
       "type": "series",
-      "name": "Sueños de libertad",
+      "name": "Érase una vez",
       "ids": {
-        "tmdb": 239526
+        "tmdb": 39272
       },
-      "overview": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/nlZZPRCQo1H4e32wsQll2VWxEDt.jpg",
+      "overview": "Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/oE6VlG1ntyCaMdlPVRtsPQja3hf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4gb0fNHbQhBgRN6KnP8sVdSh9CM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xNkiZwybtfAsqnt30D5dTMZki7b.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dqbAkknuuxqCpQaeG9d6GBrEKm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
     },
     {
       "id": "tmdb:82856",
@@ -687,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/umNJYUzgeOilCwFzp341ysKBgL8.svg"
     },
     {
-      "id": "tmdb:14814",
+      "id": "tmdb:2122",
       "type": "series",
-      "name": "Las Kardashian",
+      "name": "El rey de la colina",
       "ids": {
-        "tmdb": 14814
+        "tmdb": 2122
       },
-      "overview": "La princesa de los tabloides Kim Kardashian y su familia peculiar incluyendo a su padrastro Bruce Jenner, su madre Kris Jenner, su hermana mayor Kourtney Kardashian, sus hermanos pequeños Khloé y Rob Kardashian y sus medias hermanas pequeñas Kendall y Kylie Jenner, son el tema de esta serie de realidad que relata la vida doméstica y frecuentemente caótica.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/h4GJOGloecCnu7bqGtZtfVXseIe.jpg",
+      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6kZDzcaRyyCKTLO7EEoOAuxiohU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ug6Fw8GRAbDJ5gAQChbVCqyQABZ.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
     }
   ]
 }
