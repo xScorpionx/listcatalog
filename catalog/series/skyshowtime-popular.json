@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png"
     },
     {
-      "id": "tmdb:549",
-      "type": "series",
-      "name": "Ley y orden",
-      "ids": {
-        "tmdb": 549
-      },
-      "overview": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/vcr8xAdptafbIiU16alUgVak6aM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/PqeJexSiDOHGxIQ7NyUFcmfkWA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png"
-    },
-    {
       "id": "tmdb:1408",
       "type": "series",
       "name": "House",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/AvzQTmocCNTeicH1K3v6pzS1NYb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png"
+    },
+    {
+      "id": "tmdb:549",
+      "type": "series",
+      "name": "Ley y orden",
+      "ids": {
+        "tmdb": 549
+      },
+      "overview": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/vcr8xAdptafbIiU16alUgVak6aM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/PqeJexSiDOHGxIQ7NyUFcmfkWA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png"
     },
     {
       "id": "tmdb:1405",
@@ -71,20 +71,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
     },
     {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
-    },
-    {
       "id": "tmdb:73586",
       "type": "series",
       "name": "Yellowstone",
@@ -99,18 +85,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
     },
     {
-      "id": "tmdb:57532",
+      "id": "tmdb:2316",
       "type": "series",
-      "name": "La Patrulla Canina",
+      "name": "The Office",
       "ids": {
-        "tmdb": 57532
+        "tmdb": 2316
       },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+    },
+    {
+      "id": "tmdb:157741",
+      "type": "series",
+      "name": "Landman: Un negocio crudo",
+      "ids": {
+        "tmdb": 157741
+      },
+      "overview": "Ambientada en las proverbiales ciudades en auge del oeste de Texas, se trata de un drama sobre la búsqueda de la fortuna en el mundo de las plataformas petrolíferas basada en el podcast 'Boomtown', una historia de clases, con matones y multimillonarios salvajes que impulsan un boom tan grande que está cambiando nuestro clima, nuestra economía y nuestra geopolítica.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vgu4oTMEAxTxYHenLgcGwT0M9Vp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/u9OYFeRfRACdmY0kQyalcMQkBqf.png"
     },
     {
       "id": "tmdb:37680",
@@ -125,6 +125,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
+    },
+    {
+      "id": "tmdb:57532",
+      "type": "series",
+      "name": "La Patrulla Canina",
+      "ids": {
+        "tmdb": 57532
+      },
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/af1QjAHAlGnlwzUQK12gnbwULiq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
       "id": "tmdb:58841",
@@ -167,20 +181,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7Zat1iwhZCZjHpVbrKv7k657K7V.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uGbXiqbgvxpz33n1jJn4AfctFgV.png"
-    },
-    {
-      "id": "tmdb:157741",
-      "type": "series",
-      "name": "Landman: Un negocio crudo",
-      "ids": {
-        "tmdb": 157741
-      },
-      "overview": "Ambientada en las proverbiales ciudades en auge del oeste de Texas, se trata de un drama sobre la búsqueda de la fortuna en el mundo de las plataformas petrolíferas basada en el podcast 'Boomtown', una historia de clases, con matones y multimillonarios salvajes que impulsan un boom tan grande que está cambiando nuestro clima, nuestra economía y nuestra geopolítica.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/hGbYOuUVoxfXa96pmNLFJ9a7U5T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vgu4oTMEAxTxYHenLgcGwT0M9Vp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/u9OYFeRfRACdmY0kQyalcMQkBqf.png"
     },
     {
       "id": "tmdb:873",
@@ -323,20 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qcHsx14gWcY04ETZH3SmJzvgoXW.png"
     },
     {
-      "id": "tmdb:247718",
-      "type": "series",
-      "name": "Tierra de mafiosos",
-      "ids": {
-        "tmdb": 247718
-      },
-      "overview": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dLRj0AbsKJoKXh01nJnHMpRLUkZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eEupFv8QIGVB7Z7a2QvECrlsvzu.png"
-    },
-    {
       "id": "tmdb:484",
       "type": "series",
       "name": "Se ha escrito un crimen",
@@ -349,6 +335,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8Qh3UOHe0kYmqkgfC7gpH88WQa2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/pZ0ih7nmelVYyKT9HK0DKsmy0Vh.png"
+    },
+    {
+      "id": "tmdb:247718",
+      "type": "series",
+      "name": "Tierra de mafiosos",
+      "ids": {
+        "tmdb": 247718
+      },
+      "overview": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dLRj0AbsKJoKXh01nJnHMpRLUkZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eEupFv8QIGVB7Z7a2QvECrlsvzu.png"
     },
     {
       "id": "tmdb:33907",
@@ -393,34 +393,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/2P3grUAMSp83H9Z1yLTNDq6zMq5.png"
     },
     {
-      "id": "tmdb:67198",
-      "type": "series",
-      "name": "Star Trek: Discovery",
-      "ids": {
-        "tmdb": 67198
-      },
-      "overview": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fDRuFtqgfAkB8BjgWeVSPAcLaD9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/71KyuHqsiZKrfhzg9AZxtX1DTRx.png"
-    },
-    {
-      "id": "tmdb:61852",
-      "type": "series",
-      "name": "Henry Danger",
-      "ids": {
-        "tmdb": 61852
-      },
-      "overview": "Henry Hart consigue un trabajo de medio tiempo como Kid Danger, un compañero de lucha del super héroe anticrimen Capitán Man/Ray. A pesar de que Ray le dijo a Henry que mantuviera el secreto sobre su trabajo, también lo tiene que hacer con sus mejores amigos Charlotte y Jasper. Sus padres y su hermana menor Piper no saben sobre su secreto. Una tienda llamada \"Junk'n'Stuff\", tiene una guarida secreta escondida debajo, donde Ray hace su trabajo. Pero capítulos adelante la historia cambia un poco, ya que Charlotte descubre que su amigo Henry es Kid Danger, entonces él se lo cuenta a Ray el cual lo despidió, y más adelante por una hazaña heroica, lo recontrata y contrata a Charlotte, desde entonces los dos trabajan para Capitán Man. Luego de que Jasper descubriera el secreto de Henry, el show dio un giro inesperado, ya que Capitán Man contrató a Jasper como empleado en \"Junk'n'Stuff\", de igual manera como ayudante de Kid Danger y Capitán Man en la capicueva.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/onddStWYELFaz4BbV8kavU11oCo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/or9vQ5o4b0Fbd2uCiPTq4EqSC7D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png"
-    },
-    {
       "id": "tmdb:62852",
       "type": "series",
       "name": "Billions",
@@ -463,34 +435,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/uMyilUty0yeyJMEkCOGtpqTj7jt.png"
     },
     {
-      "id": "tmdb:52814",
-      "type": "series",
-      "name": "Halo",
-      "ids": {
-        "tmdb": 52814
-      },
-      "overview": "En el siglo 26, la humanidad tiene que lidiar con una amenaza alienígena conocida como the Covenant (El Pacto). Halo tejerá historias personales repletas de acción, aventura y una enriquecedora visión del futuro. La serie es una historia independiente inspirada en la franquicia del videojuego.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/m8tW2ssuqib10BUlUZfbYlfqEfd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/haA7Vfgsc1Y04VTH2iD58ODz16i.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jrbnYVeSqZ24xiFKY5wR0AUjw8X.png"
-    },
-    {
-      "id": "tmdb:68073",
-      "type": "series",
-      "name": "Una casa de locos",
-      "ids": {
-        "tmdb": 68073
-      },
-      "overview": "Lincoln Loud es un niño de 11 años que vive con sus 10 hermanas. Con la ayuda de su mejor amigo Clyde encontrarán la manera de divertirse cada día",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/aT1gWS2ZLxi0eFlcywA4hNt8TN3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/36iVELhma9MawHkdMDPNRX8onEu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yBJ4MGs2TFBIgvzVekRVecDNDo.png"
-    },
-    {
       "id": "tmdb:5371",
       "type": "series",
       "name": "iCarly",
@@ -503,34 +447,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/e50cOSOZAlshvaYuE22LecYfSKg.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bRSEJEXEl0EKn1X8FoMG7rAeCMs.svg"
-    },
-    {
-      "id": "tmdb:86848",
-      "type": "series",
-      "name": "Evil",
-      "ids": {
-        "tmdb": 86848
-      },
-      "overview": "Una psicóloga algo escéptica se une a un aprendiz de reverendo y a un constructor para investigar supuestos milagros, posesiones demoníacas y otros sucesos extraordinarios para comprobar si tras ellos existe algún tipo de explicación científica o si, por el contrario, se trata realmente de eventos sobrenaturales.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h50NN9RNjRQrQAoXw7qNIETeZVL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n3DqQ0g7F3qmDRE4Enmhr9eFAZe.png"
-    },
-    {
-      "id": "tmdb:14814",
-      "type": "series",
-      "name": "Las Kardashian",
-      "ids": {
-        "tmdb": 14814
-      },
-      "overview": "La princesa de los tabloides Kim Kardashian y su familia peculiar incluyendo a su padrastro Bruce Jenner, su madre Kris Jenner, su hermana mayor Kourtney Kardashian, sus hermanos pequeños Khloé y Rob Kardashian y sus medias hermanas pequeñas Kendall y Kylie Jenner, son el tema de esta serie de realidad que relata la vida doméstica y frecuentemente caótica.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/h4GJOGloecCnu7bqGtZtfVXseIe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6kZDzcaRyyCKTLO7EEoOAuxiohU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ug6Fw8GRAbDJ5gAQChbVCqyQABZ.svg"
     },
     {
       "id": "tmdb:4630",
@@ -547,6 +463,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/iQjlugxGoUlaRn3Vy7v5SsSu9iZ.png"
     },
     {
+      "id": "tmdb:67198",
+      "type": "series",
+      "name": "Star Trek: Discovery",
+      "ids": {
+        "tmdb": 67198
+      },
+      "overview": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fDRuFtqgfAkB8BjgWeVSPAcLaD9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/71KyuHqsiZKrfhzg9AZxtX1DTRx.png"
+    },
+    {
       "id": "tmdb:1516",
       "type": "series",
       "name": "El equipo A",
@@ -561,46 +491,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/hKbbG3fbF6BVwHnhHEUaRF3hF2N.png"
     },
     {
-      "id": "tmdb:62560",
+      "id": "tmdb:52814",
       "type": "series",
-      "name": "Mr. Robot",
+      "name": "Halo",
       "ids": {
-        "tmdb": 62560
+        "tmdb": 52814
       },
-      "overview": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oB9XeZRZKe8DSPCfwezbwPXJ9LD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l9PqAU71v8Z7X8D5vGR0ZJl9WYe.svg"
-    },
-    {
-      "id": "tmdb:157744",
-      "type": "series",
-      "name": "1923",
-      "ids": {
-        "tmdb": 157744
-      },
-      "overview": "Sigue a una nueva generación de la familia Dutton a principios del siglo XX cuando las pandemias, la sequía histórica, el fin de la Prohibición y la Gran Depresión plagan el oeste montañoso y los Dutton que lo llaman hogar.",
+      "overview": "En el siglo 26, la humanidad tiene que lidiar con una amenaza alienígena conocida como the Covenant (El Pacto). Halo tejerá historias personales repletas de acción, aventura y una enriquecedora visión del futuro. La serie es una historia independiente inspirada en la franquicia del videojuego.",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/aE7pMhO58iCn9CdU1VYcyTfKr1o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/m8tW2ssuqib10BUlUZfbYlfqEfd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3L9orcC9otVw99yDn6qXXF8stAC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2hlc1DvGiDx8L0tmkSepEn5tpzb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/haA7Vfgsc1Y04VTH2iD58ODz16i.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jrbnYVeSqZ24xiFKY5wR0AUjw8X.png"
     },
     {
-      "id": "tmdb:7869",
+      "id": "tmdb:86848",
       "type": "series",
-      "name": "Los pingüinos de Madagascar",
+      "name": "Evil",
       "ids": {
-        "tmdb": 7869
+        "tmdb": 86848
       },
-      "overview": "Los pingüinos llevan sus misiones en su hábitat en el Parque Central. Aparecen Julien, el rey de los lémures, y sus súbditos Maurice y Mort, sus nuevos vecinos, que constituyen la exhibición de lémures en el zoológico. Ahora los pingüinos deben mantener las cosas bajo control, a menudo a pesar de las payasadas de los lémures así como auxiliar en labores poco comunes o aventuras fuera de lo común. Skipper rara vez llama al Rey Julien por su nombre, dirigiéndose a él siempre como \"Cola anillada\" (por ser un lemur de cola anillada).",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/tW2JWu0RmdsSNYeiEtET6RqYOqx.jpg",
+      "overview": "Una psicóloga algo escéptica se une a un aprendiz de reverendo y a un constructor para investigar supuestos milagros, posesiones demoníacas y otros sucesos extraordinarios para comprobar si tras ellos existe algún tipo de explicación científica o si, por el contrario, se trata realmente de eventos sobrenaturales.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yAyif3EX7jtQu00k060PyVhSoir.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z0KmZo7YDQam5cs3VT05PCG0IoV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/h50NN9RNjRQrQAoXw7qNIETeZVL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n3DqQ0g7F3qmDRE4Enmhr9eFAZe.png"
+    },
+    {
+      "id": "tmdb:68073",
+      "type": "series",
+      "name": "Una casa de locos",
+      "ids": {
+        "tmdb": 68073
+      },
+      "overview": "Lincoln Loud es un niño de 11 años que vive con sus 10 hermanas. Con la ayuda de su mejor amigo Clyde encontrarán la manera de divertirse cada día",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/aT1gWS2ZLxi0eFlcywA4hNt8TN3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yBJ4MGs2TFBIgvzVekRVecDNDo.png"
     },
     {
       "id": "tmdb:1639",
@@ -617,6 +547,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/AqHUTKJ6UTb4CAU48SqDbxoyFUg.png"
     },
     {
+      "id": "tmdb:61852",
+      "type": "series",
+      "name": "Henry Danger",
+      "ids": {
+        "tmdb": 61852
+      },
+      "overview": "Henry Hart consigue un trabajo de medio tiempo como Kid Danger, un compañero de lucha del super héroe anticrimen Capitán Man/Ray. A pesar de que Ray le dijo a Henry que mantuviera el secreto sobre su trabajo, también lo tiene que hacer con sus mejores amigos Charlotte y Jasper. Sus padres y su hermana menor Piper no saben sobre su secreto. Una tienda llamada \"Junk'n'Stuff\", tiene una guarida secreta escondida debajo, donde Ray hace su trabajo. Pero capítulos adelante la historia cambia un poco, ya que Charlotte descubre que su amigo Henry es Kid Danger, entonces él se lo cuenta a Ray el cual lo despidió, y más adelante por una hazaña heroica, lo recontrata y contrata a Charlotte, desde entonces los dos trabajan para Capitán Man. Luego de que Jasper descubriera el secreto de Henry, el show dio un giro inesperado, ya que Capitán Man contrató a Jasper como empleado en \"Junk'n'Stuff\", de igual manera como ayudante de Kid Danger y Capitán Man en la capicueva.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/onddStWYELFaz4BbV8kavU11oCo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/or9vQ5o4b0Fbd2uCiPTq4EqSC7D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png"
+    },
+    {
+      "id": "tmdb:157744",
+      "type": "series",
+      "name": "1923",
+      "ids": {
+        "tmdb": 157744
+      },
+      "overview": "Sigue a una nueva generación de la familia Dutton a principios del siglo XX cuando las pandemias, la sequía histórica, el fin de la Prohibición y la Gran Depresión plagan el oeste montañoso y los Dutton que lo llaman hogar.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/aE7pMhO58iCn9CdU1VYcyTfKr1o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3L9orcC9otVw99yDn6qXXF8stAC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2hlc1DvGiDx8L0tmkSepEn5tpzb.png"
+    },
+    {
+      "id": "tmdb:4616",
+      "type": "series",
+      "name": "Xena, la princesa guerrera",
+      "ids": {
+        "tmdb": 4616
+      },
+      "overview": "Xena (Lucy Lawless) es una bella guerrera cuyos orígenes se remontan a la antigua Grecia. Siempre acompañada de su fiel amiga Gabrielle (Renée O'Connor) y de su poderoso disco mágico, protagoniza numerosas aventuras que la llevan a recorrer distintas regiones en su eterna lucha contra el mal.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/3SRTblGC16nuyFVvGKIkIVxN89S.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/j8gCDq7WoauDFYhurwWLUK9dXQW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Yecxwq3z6oY4lejKbPYPuxNEHe.png"
+    },
+    {
+      "id": "tmdb:62560",
+      "type": "series",
+      "name": "Mr. Robot",
+      "ids": {
+        "tmdb": 62560
+      },
+      "overview": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oB9XeZRZKe8DSPCfwezbwPXJ9LD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l9PqAU71v8Z7X8D5vGR0ZJl9WYe.svg"
+    },
+    {
       "id": "tmdb:1215",
       "type": "series",
       "name": "Californication",
@@ -629,6 +615,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8XpOKc07mbrv5OGXj7Q4ZzcMRmZ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/9Dl7G0FqQoX0KJiiVmQBoBy3pXf.png"
+    },
+    {
+      "id": "tmdb:14814",
+      "type": "series",
+      "name": "Las Kardashian",
+      "ids": {
+        "tmdb": 14814
+      },
+      "overview": "La princesa de los tabloides Kim Kardashian y su familia peculiar incluyendo a su padrastro Bruce Jenner, su madre Kris Jenner, su hermana mayor Kourtney Kardashian, sus hermanos pequeños Khloé y Rob Kardashian y sus medias hermanas pequeñas Kendall y Kylie Jenner, son el tema de esta serie de realidad que relata la vida doméstica y frecuentemente caótica.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/h4GJOGloecCnu7bqGtZtfVXseIe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6kZDzcaRyyCKTLO7EEoOAuxiohU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ug6Fw8GRAbDJ5gAQChbVCqyQABZ.svg"
     },
     {
       "id": "tmdb:1972",
@@ -645,32 +645,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/n76bY0c89EJYsDzRqELZrLh2Bnb.png"
     },
     {
-      "id": "tmdb:103516",
+      "id": "tmdb:7869",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
+      "name": "Los pingüinos de Madagascar",
       "ids": {
-        "tmdb": 103516
+        "tmdb": 7869
       },
-      "overview": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "overview": "Los pingüinos llevan sus misiones en su hábitat en el Parque Central. Aparecen Julien, el rey de los lémures, y sus súbditos Maurice y Mort, sus nuevos vecinos, que constituyen la exhibición de lémures en el zoológico. Ahora los pingüinos deben mantener las cosas bajo control, a menudo a pesar de las payasadas de los lémures así como auxiliar en labores poco comunes o aventuras fuera de lo común. Skipper rara vez llama al Rey Julien por su nombre, dirigiéndose a él siempre como \"Cola anillada\" (por ser un lemur de cola anillada).",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/tW2JWu0RmdsSNYeiEtET6RqYOqx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
-    },
-    {
-      "id": "tmdb:79680",
-      "type": "series",
-      "name": "Snowpiercer: Rompenieves",
-      "ids": {
-        "tmdb": 79680
-      },
-      "overview": "En un futuro en el que la Tierra ha quedado cubierta por hielos perpetuos, los pocos supervivientes humanos se han refugiado en un tren que recorre el planeta sin parar nunca. Ahí, los pasajeros se han repartido siguiendo un estricto sistema de clases en el que los más pudientes se encuentran en los vagones de la cabeza y los más pobres están en la cola y deben alimentar el motor del tren.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/zPP3OtYGOrFJgdapPcJBqlQanlm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/TadxUcXtHtftrINVFfg2KQtLBP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ndJyZsNgq4G5xR1dqsqRHqHlwCS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yAyif3EX7jtQu00k060PyVhSoir.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z0KmZo7YDQam5cs3VT05PCG0IoV.png"
     },
     {
       "id": "tmdb:2384",
@@ -687,18 +673,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/aMqlBYGE4vunYcxW85cTNNbniga.png"
     },
     {
-      "id": "tmdb:4616",
+      "id": "tmdb:90462",
       "type": "series",
-      "name": "Xena, la princesa guerrera",
+      "name": "Chucky",
       "ids": {
-        "tmdb": 4616
+        "tmdb": 90462
       },
-      "overview": "Xena (Lucy Lawless) es una bella guerrera cuyos orígenes se remontan a la antigua Grecia. Siempre acompañada de su fiel amiga Gabrielle (Renée O'Connor) y de su poderoso disco mágico, protagoniza numerosas aventuras que la llevan a recorrer distintas regiones en su eterna lucha contra el mal.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/3SRTblGC16nuyFVvGKIkIVxN89S.jpg",
+      "overview": "Después de que un muñeco vintage de Chucky aparece en una venta de patio suburbana, una ciudad estadounidense se ve sumida en el caos, luego de que una serie de crímenes horribles comienzan a exponer las hipocresías y los secretos de la ciudad.\n\nMientras tanto, la llegada de enemigos y aliados del pasado de Chucky amenaza con exponer la verdad detrás de los acontecimientos así como los orígenes no contados del malvado muñeco.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/fDPo0qqRLX5VkeprfJB19ZeBTsR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j8gCDq7WoauDFYhurwWLUK9dXQW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Yecxwq3z6oY4lejKbPYPuxNEHe.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/crecNGEQqWI37ugk0jvW4Qwt3pR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wQDG83JXnWS5k9JTJ3ZKvPXD25v.svg"
+    },
+    {
+      "id": "tmdb:103516",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "ids": {
+        "tmdb": 103516
+      },
+      "overview": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fEQbvO2gtPY2JFuFPZDp1qlGsCt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
     }
   ]
 }
