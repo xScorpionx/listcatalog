@@ -169,18 +169,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
     },
     {
-      "id": "tmdb:1315988",
+      "id": "tmdb:889737",
       "type": "movie",
-      "name": "Mikaela",
+      "name": "Joker: Folie à Deux",
       "ids": {
-        "tmdb": 1315988
+        "tmdb": 889737
       },
-      "overview": "Víspera de Reyes. Una tormenta de nieve sin precedentes asola España. En medio del caos de una autopista colapsada, un grupo de atracadores aprovecha la oportunidad para asaltar un furgón blindado. A escasos metros se encuentra Leo (Antonio Resines), un policía en las últimas que no tiene nada que perder. Con la ayuda inesperada de una joven, juntos tratarán de evitar que la banda huya con el botín en una persecución a contrarreloj en medio del temporal.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/wnTNpOoqjqOLj2oIoGE9MnPFa4o.jpg",
+      "overview": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9gyvjlB0i8dMtrhj2WYoUrpZrq1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gMcBOZsHcQUNhLclJe2Gf3xT2BN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/76QHcf7rJGrHby9RkSFC78fI1la.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png"
+    },
+    {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:680",
@@ -197,33 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
-      "id": "tmdb:962920",
-      "type": "movie",
-      "name": "El fotógrafo y el cartero: El crimen de Cabezas",
-      "ids": {
-        "tmdb": 962920
-      },
-      "overview": "El crimen del fotógrafo José Luis Cabezas, en el verano de 1997, conmociona a la Argentina y termina develando un entramado mafioso en el que los poderes políticos y económicos no parecen estar ajenos.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/gH3Nd6A2CvonVRXZUKV58p5enQC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b3cc3IlIiZuXbcuLF0HX5ZJ7fd9.jpg"
-    },
-    {
-      "id": "tmdb:889737",
-      "type": "movie",
-      "name": "Joker: Folie à Deux",
-      "ids": {
-        "tmdb": 889737
-      },
-      "overview": "Tras crear el caos, Arthur Fleck ha sido internado en Arkham a la espera de juicio por sus crímenes como Joker. Mientras lidia con su doble identidad, Arthur no sólo se topa con el amor verdadero, sino que también descubre la música que siempre ha estado dentro de él.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/i90gQD1ogdrX2EE2bYCtYSuqjRV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/76QHcf7rJGrHby9RkSFC78fI1la.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qP5nYukWHaZDJ3ciZU1J9EgVYnn.png"
-    },
-    {
       "id": "tmdb:122",
       "type": "movie",
       "name": "El señor de los anillos: El retorno del rey",
@@ -236,20 +223,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
-    },
-    {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:155",
@@ -294,18 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
     },
     {
-      "id": "tmdb:329865",
+      "id": "tmdb:346698",
       "type": "movie",
-      "name": "La llegada",
+      "name": "Barbie",
       "ids": {
-        "tmdb": 329865
+        "tmdb": 346698
       },
-      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pM7CmKdtkOb9N0kK9XJZAft8Zuv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
       "id": "tmdb:129",
@@ -322,32 +295,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
     },
     {
-      "id": "tmdb:346698",
+      "id": "tmdb:962920",
       "type": "movie",
-      "name": "Barbie",
+      "name": "El fotógrafo y el cartero: El crimen de Cabezas",
       "ids": {
-        "tmdb": 346698
+        "tmdb": 962920
       },
-      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "overview": "El crimen del fotógrafo José Luis Cabezas, en el verano de 1997, conmociona a la Argentina y termina develando un entramado mafioso en el que los poderes políticos y económicos no parecen estar ajenos.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/gH3Nd6A2CvonVRXZUKV58p5enQC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
-    },
-    {
-      "id": "tmdb:121",
-      "type": "movie",
-      "name": "El señor de los anillos: Las dos torres",
-      "ids": {
-        "tmdb": 121
-      },
-      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/b3cc3IlIiZuXbcuLF0HX5ZJ7fd9.jpg"
     },
     {
       "id": "tmdb:985939",
@@ -364,32 +322,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/10sQbSra5PTAPSfcgBBqtu4IRci.png"
     },
     {
-      "id": "tmdb:80278",
+      "id": "tmdb:121",
       "type": "movie",
-      "name": "Lo imposible",
+      "name": "El señor de los anillos: Las dos torres",
       "ids": {
-        "tmdb": 80278
+        "tmdb": 121
       },
-      "overview": "María, Henry y sus tres hijos comienzan sus vacaciones de invierno en Tailandia en busca de unos días en un paraiso tropical. Pero en la mañana del 26 de Diciembre, mientras disfrutan de sus relajantes vacaciones en la piscina tras la celebración de la Navidad y Nochebuena, un terrible rugido emerge del centro de la tierra. Mientras María se paraliza de miedo, un inmenso muro de agua oscura corre por los jardines del hotel hacia ella. Largometraje sobre el tsunami que azotó el sudeste asiático en 2004.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/oTtdBrZOaczS4ZcBJ0ZCzG65A4L.jpg",
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aQBd185Wg0fhne5VvkVBVdFoTNl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2xlXhokqomLdFyAOXkMPzMpKWpQ.png"
-    },
-    {
-      "id": "tmdb:546554",
-      "type": "movie",
-      "name": "Puñales por la espalda",
-      "ids": {
-        "tmdb": 546554
-      },
-      "overview": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xQtniQMRG0BIyUcvtWTBRtLV65l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sxHbXvVW81ydoKckURGbjx92z82.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
     },
     {
       "id": "tmdb:105",
@@ -406,32 +350,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
-      "id": "tmdb:414906",
+      "id": "tmdb:546554",
       "type": "movie",
-      "name": "The Batman",
+      "name": "Puñales por la espalda",
       "ids": {
-        "tmdb": 414906
+        "tmdb": 546554
       },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "overview": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xQtniQMRG0BIyUcvtWTBRtLV65l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sxHbXvVW81ydoKckURGbjx92z82.png"
     },
     {
-      "id": "tmdb:228150",
+      "id": "tmdb:1315988",
       "type": "movie",
-      "name": "Corazones de acero",
+      "name": "Mikaela",
       "ids": {
-        "tmdb": 228150
+        "tmdb": 1315988
       },
-      "overview": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+      "overview": "Víspera de Reyes. Una tormenta de nieve sin precedentes asola España. En medio del caos de una autopista colapsada, un grupo de atracadores aprovecha la oportunidad para asaltar un furgón blindado. A escasos metros se encuentra Leo (Antonio Resines), un policía en las últimas que no tiene nada que perder. Con la ayuda inesperada de una joven, juntos tratarán de evitar que la banda huya con el botín en una persecución a contrarreloj en medio del temporal.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/wnTNpOoqjqOLj2oIoGE9MnPFa4o.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ooW8yLFeY4ib2BPUt9Nu5RTUXU3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sNBXNQONchRWJKA7Q3FfMgxfxgG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9gyvjlB0i8dMtrhj2WYoUrpZrq1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMcBOZsHcQUNhLclJe2Gf3xT2BN.png"
     },
     {
       "id": "tmdb:475557",
@@ -448,16 +392,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
     },
     {
-      "id": "tmdb:337610",
+      "id": "tmdb:228150",
       "type": "movie",
-      "name": "Un Lugar En El Cine",
+      "name": "Corazones de acero",
       "ids": {
-        "tmdb": 337610
+        "tmdb": 228150
       },
-      "overview": "Un Cineasta Griego, Theo Angelopoulos, Emprende Un Viaje Desde Atenas Hasta Ostia, La Playa Romana Donde Pier Paolo Pasolini Fue Asesinado.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/1W9CrRYf6RHF9FmO2SIHUTDKzeg.jpg",
-      "posterShape": "poster"
+      "overview": "Abril de 1945. Al mando del veterano sargento Wardaddy, un pelotón de cinco soldados americanos a bordo de un carro de combate -el Fury- ha de luchar contra un ejército nazi al borde de la desesperación, pues los alemanes saben que su derrota estaba ya cantada por aquel entonces.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/kbtH5G8L8REzy72LkLmKYoBVaGv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ooW8yLFeY4ib2BPUt9Nu5RTUXU3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sNBXNQONchRWJKA7Q3FfMgxfxgG.png"
     },
     {
       "id": "tmdb:807",
@@ -474,60 +420,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     },
     {
-      "id": "tmdb:1599078",
+      "id": "tmdb:80278",
       "type": "movie",
-      "name": "Marcello Hernández: American Boy",
+      "name": "Lo imposible",
       "ids": {
-        "tmdb": 1599078
+        "tmdb": 80278
       },
-      "overview": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+      "overview": "María, Henry y sus tres hijos comienzan sus vacaciones de invierno en Tailandia en busca de unos días en un paraiso tropical. Pero en la mañana del 26 de Diciembre, mientras disfrutan de sus relajantes vacaciones en la piscina tras la celebración de la Navidad y Nochebuena, un terrible rugido emerge del centro de la tierra. Mientras María se paraliza de miedo, un inmenso muro de agua oscura corre por los jardines del hotel hacia ella. Largometraje sobre el tsunami que azotó el sudeste asiático en 2004.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/oTtdBrZOaczS4ZcBJ0ZCzG65A4L.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2Aq8LHxxaTqlcj9uqJSM9baiRBy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7fsdqL7DTZFivV0qydtDZlbgMcw.png"
-    },
-    {
-      "id": "tmdb:1241983",
-      "type": "movie",
-      "name": "Sueños de trenes",
-      "ids": {
-        "tmdb": 1241983
-      },
-      "overview": "Un leñador introvertido pero afable se topa con el amor y la pérdida durante una época de cambios colosales en los EE. UU. de principios del siglo XX.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/aKvcYAt8VwZ246FM1HmXvYEV6gA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h4AMrQsgeORxDyGbmeOL2oXWgjI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bVguGXEfFKC7bJgTY6uF3npze45.png"
-    },
-    {
-      "id": "tmdb:240",
-      "type": "movie",
-      "name": "El Padrino Parte II",
-      "ids": {
-        "tmdb": 240
-      },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
-      "id": "tmdb:628756",
-      "type": "movie",
-      "name": "American Factory: A Conversation with the Obamas",
-      "ids": {
-        "tmdb": 628756
-      },
-      "overview": "Barack y Michelle Obama hablan con los directores Steven Bognar y Julia Reichert sobre el documental y la importancia de contar historias.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/rVoVRToKaxpdkUEJFIf46rWNVHR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ohqVKA7K0xGIPCGr4giWB3io0J6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gWjFeOm97pmXblAJUa6jikEPLfm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aQBd185Wg0fhne5VvkVBVdFoTNl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2xlXhokqomLdFyAOXkMPzMpKWpQ.png"
     },
     {
       "id": "tmdb:829557",
@@ -544,18 +448,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/afT1IcVDzyqE6RUlCPnuzEI4ZS3.png"
     },
     {
-      "id": "tmdb:18785",
+      "id": "tmdb:953",
       "type": "movie",
-      "name": "Resacón en Las Vegas",
+      "name": "Madagascar",
       "ids": {
-        "tmdb": 18785
+        "tmdb": 953
       },
-      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
+    },
+    {
+      "id": "tmdb:240",
+      "type": "movie",
+      "name": "El Padrino Parte II",
+      "ids": {
+        "tmdb": 240
+      },
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
+    },
+    {
+      "id": "tmdb:1599078",
+      "type": "movie",
+      "name": "Marcello Hernández: American Boy",
+      "ids": {
+        "tmdb": 1599078
+      },
+      "overview": "Filmed in Miami, Hernández's special features his comedic take on his first-generation American upbringing before a local audience.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/qPTc7XVWYHldMn7UmYvGXWXv4I9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2Aq8LHxxaTqlcj9uqJSM9baiRBy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7fsdqL7DTZFivV0qydtDZlbgMcw.png"
+    },
+    {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
     },
     {
       "id": "tmdb:769",
@@ -572,18 +518,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
     },
     {
-      "id": "tmdb:4935",
+      "id": "tmdb:109439",
       "type": "movie",
-      "name": "El castillo ambulante",
+      "name": "Resacón 3",
       "ids": {
-        "tmdb": 4935
+        "tmdb": 109439
       },
-      "overview": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+      "overview": "Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte está echada. Tercera entrega de la franquicia iniciada en 2009 con 'Resacón en Las Vegas'.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dVb6pHnBS66heliAxFV47vMXcG3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vzmjYJKnVIFruR1k6JiROvc6yrU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yiMIdASg7dBiMFUBeIZdmqYoUDJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVBLvL9K5dIKvhK376iO74agvz8.png"
     },
     {
       "id": "tmdb:489",
@@ -600,46 +546,100 @@
       "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
     },
     {
-      "id": "tmdb:661374",
+      "id": "tmdb:810693",
       "type": "movie",
-      "name": "Puñales por la espalda: El misterio de Glass Onion",
+      "name": "Jujutsu Kaisen 0",
       "ids": {
-        "tmdb": 661374
+        "tmdb": 810693
       },
-      "overview": "Cuando el multimillonario Miles Bron invita a algunos de sus allegados a una escapada a su isla griega privada, pronto queda claro que no todo es perfecto en el paraíso. Y cuando alguien aparece muerto, ¿quién mejor que Benoit Blanc para desentrañar todas las capas del misterio?",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/yXGsWQURm614onIpb3iBcp1iLz8.jpg",
+      "overview": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oUsK6rHnxFFqCyN2VHo4NBeGQ6x.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v6nkwWDnXwN0PFDs9EZBCViT6To.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fh4H92nhTUJTONXVRUHIpOGsHnK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4clQNTdrIUFJAFTIpguGwO2ldgi.png"
     },
     {
-      "id": "tmdb:4348",
+      "id": "tmdb:1241983",
       "type": "movie",
-      "name": "Orgullo y prejuicio",
+      "name": "Sueños de trenes",
       "ids": {
-        "tmdb": 4348
+        "tmdb": 1241983
       },
-      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "overview": "Un leñador introvertido pero afable se topa con el amor y la pérdida durante una época de cambios colosales en los EE. UU. de principios del siglo XX.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/aKvcYAt8VwZ246FM1HmXvYEV6gA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/h4AMrQsgeORxDyGbmeOL2oXWgjI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bVguGXEfFKC7bJgTY6uF3npze45.png"
     },
     {
-      "id": "tmdb:10192",
+      "id": "tmdb:18785",
       "type": "movie",
-      "name": "Shrek, Felices para siempre",
+      "name": "Resacón en Las Vegas",
       "ids": {
-        "tmdb": 10192
+        "tmdb": 18785
       },
-      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
+    },
+    {
+      "id": "tmdb:329865",
+      "type": "movie",
+      "name": "La llegada",
+      "ids": {
+        "tmdb": 329865
+      },
+      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pM7CmKdtkOb9N0kK9XJZAft8Zuv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png"
+    },
+    {
+      "id": "tmdb:974036",
+      "type": "movie",
+      "name": "Ángeles cotidianos",
+      "ids": {
+        "tmdb": 974036
+      },
+      "overview": "Inspirada en la historia real de una peluquera que, sin ayuda de nadie, intentó reunir a toda una comunidad para ayudar a un padre viudo a intentar salvar la vida de su pequeña hija gravemente enferma.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/x1jkzJGnerhMrweZsoCVgefPQ0L.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yFvfEDzXJLbXQh3grDwvEPR9EZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jeD4GN1uEjv3bsv0WwYmcXj72PQ.png"
+    },
+    {
+      "id": "tmdb:337610",
+      "type": "movie",
+      "name": "Un Lugar En El Cine",
+      "ids": {
+        "tmdb": 337610
+      },
+      "overview": "Un Cineasta Griego, Theo Angelopoulos, Emprende Un Viaje Desde Atenas Hasta Ostia, La Playa Romana Donde Pier Paolo Pasolini Fue Asesinado.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/1W9CrRYf6RHF9FmO2SIHUTDKzeg.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:11324",
+      "type": "movie",
+      "name": "Shutter Island",
+      "ids": {
+        "tmdb": 11324
+      },
+      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/56utveUWJwmG12YU7c2zKw6pbRZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
     },
     {
       "id": "tmdb:76341",
@@ -656,6 +656,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/4YdkDF2Topc44pVKdClyeXZEqBg.png"
     },
     {
+      "id": "tmdb:297762",
+      "type": "movie",
+      "name": "Wonder Woman",
+      "ids": {
+        "tmdb": 297762
+      },
+      "overview": "Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible, fue criada en una isla paradisíaca protegida, hasta que un día, un piloto norteamericano, que tuvo un accidente y acabó en sus costas, le habló de un gran conflicto existente en el mundo, la Primera Guerra Mundial. Diana decidió salir de la isla, convencida de que podía detener la terrible amenaza. Ahora lucha como Wonder Woman, junto a los hombres, en la guerra que acabará con todas las guerras y descubre todos sus poderes y su verdadero destino.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/yjzHtHSAPDdRQejnTyFbifX2gef.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vQQZdDTifjEzM4aLZ4vXvIvQaO2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1cm8ANRoeWxhOtKGdufz92dYlFE.png"
+    },
+    {
       "id": "tmdb:12153",
       "type": "movie",
       "name": "Dos rubias de pelo en pecho",
@@ -670,32 +684,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bBnlr4bgl3UOUcKAyuzVzoRFUN8.png"
     },
     {
-      "id": "tmdb:205416",
+      "id": "tmdb:661374",
       "type": "movie",
-      "name": "Défense de savoir",
+      "name": "Puñales por la espalda: El misterio de Glass Onion",
       "ids": {
-        "tmdb": 205416
+        "tmdb": 661374
       },
-      "overview": "When a woman is accused of murder, the investigation slowly reveals numerous political connections. Laubret, the court-appointed defense lawyer, does everything in his power to expose the truth.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/4DFUawea0nkBxpkvI5lUgugxgxW.jpg",
+      "overview": "Cuando el multimillonario Miles Bron invita a algunos de sus allegados a una escapada a su isla griega privada, pronto queda claro que no todo es perfecto en el paraíso. Y cuando alguien aparece muerto, ¿quién mejor que Benoit Blanc para desentrañar todas las capas del misterio?",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/yXGsWQURm614onIpb3iBcp1iLz8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2jnQmzGRLiwGaWsCjPlTRFEnOCa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/41jY0ybOlB739NPnMKqqi8PfLlT.png"
-    },
-    {
-      "id": "tmdb:109439",
-      "type": "movie",
-      "name": "Resacón 3",
-      "ids": {
-        "tmdb": 109439
-      },
-      "overview": "Tras la inesperada muerte de su padre, Alan (Zach Galifianakas) es llevado por sus amigos Phil (Bradley Cooper), Stu (Ed Helms) y Doug (Justin Bartha) a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal? Pues que cuando estos chicos salen a la carretera, y sobre todo cuando aparece Chow (Ken Jeong)... la suerte está echada. Tercera entrega de la franquicia iniciada en 2009 con 'Resacón en Las Vegas'.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yiMIdASg7dBiMFUBeIZdmqYoUDJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVBLvL9K5dIKvhK376iO74agvz8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oUsK6rHnxFFqCyN2VHo4NBeGQ6x.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v6nkwWDnXwN0PFDs9EZBCViT6To.png"
     }
   ]
 }
