@@ -95,22 +95,8 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/tzWTlNgABb5ygczD8fxoXznTB1o.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b31msP8Vqfx2KeXxnjmvdeGlyyH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/2wJuDl0c2G0uHmPRTg5c8AtcOKj.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1YGM6ZGUtrIuPigPqDOioZZVaOZ.png"
-    },
-    {
-      "id": "tmdb:1405",
-      "type": "series",
-      "name": "Dexter",
-      "ids": {
-        "tmdb": 1405
-      },
-      "overview": "Serie de suspense que narra la historia de un hombre extraño llamado Dexter Morgan. Cuando era niño, Dexter fue maltratado y abandonado por sus padres, ahora es un exitoso e importante forense patológico... pero bajo su carismática personalidad, se esconde una terrible verdad. Dexter ha canalizado sus innatas necesidades homicidas en una segunda profesión que guarda celosamente en secreto: buscar, dar caza y asesinar brutalmente a despiadados criminales.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5PBWovhpRsUeLMGBZIkacr9dp24.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
     },
     {
       "id": "tmdb:1407",
@@ -125,6 +111,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
+    },
+    {
+      "id": "tmdb:1405",
+      "type": "series",
+      "name": "Dexter",
+      "ids": {
+        "tmdb": 1405
+      },
+      "overview": "Dexter Morgan, un analista de patrones de salpicaduras de sangre de la Policía Metropolitana de Miami, también lleva una vida secreta como asesino en serie, persiguiendo a criminales que han escapado a la justicia.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5PBWovhpRsUeLMGBZIkacr9dp24.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
     },
     {
       "id": "tmdb:46952",
@@ -155,20 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
     },
     {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
-    },
-    {
       "id": "tmdb:1402",
       "type": "series",
       "name": "The Walking Dead",
@@ -181,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
+    },
+    {
+      "id": "tmdb:60622",
+      "type": "series",
+      "name": "Fargo",
+      "ids": {
+        "tmdb": 60622
+      },
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
     },
     {
       "id": "tmdb:44217",
@@ -267,20 +267,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
     },
     {
-      "id": "tmdb:4656",
-      "type": "series",
-      "name": "Raw",
-      "ids": {
-        "tmdb": 4656
-      },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
-    },
-    {
       "id": "tmdb:71912",
       "type": "series",
       "name": "The Witcher",
@@ -293,6 +279,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xnzNSuExUTFYNUTsbpT8LIoi6mh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/A9PsaBXeO0OeTDlx1P5AFo0NG39.png"
+    },
+    {
+      "id": "tmdb:4656",
+      "type": "series",
+      "name": "Raw",
+      "ids": {
+        "tmdb": 4656
+      },
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
       "id": "tmdb:71790",
@@ -309,6 +309,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
     },
     {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
       "id": "tmdb:60572",
       "type": "series",
       "name": "Pokémon",
@@ -323,18 +337,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ntOG7xpbVfh7hZQGLr7y76nuIVX.png"
     },
     {
-      "id": "tmdb:46296",
+      "id": "tmdb:80240",
       "type": "series",
-      "name": "Spartacus",
+      "name": "La Reina del Flow",
       "ids": {
-        "tmdb": 46296
+        "tmdb": 80240
       },
-      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "overview": "La serie se desarrolla en el seductor ambiente del reggaeton, género que se ha tomado al mundo. Esta es la historia de Yeimy Montoya, una talentosa joven compositora que paga una injusta condena en una prisión de Nueva York tras ser engañada por Charly, el hombre que ama y que posteriormente le roba sus canciones, con las que logra alcanzar la fama y convertirse en una estrella. El único deseo de Yeimy es salir a cobrar venganza contra todos aquellos que acabaron con su vida y su familia.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/qlRBltGj1G728IPoLtfy1sV67H2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/amNr6Bo0ukgwW5NIS5pMPoDakrw.png"
+    },
+    {
+      "id": "tmdb:120089",
+      "type": "series",
+      "name": "SPY x FAMILY",
+      "ids": {
+        "tmdb": 120089
+      },
+      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
     },
     {
       "id": "tmdb:60625",
@@ -365,34 +393,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
-      "id": "tmdb:120089",
-      "type": "series",
-      "name": "SPY x FAMILY",
-      "ids": {
-        "tmdb": 120089
-      },
-      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
-    },
-    {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
       "id": "tmdb:71728",
       "type": "series",
       "name": "El joven Sheldon",
@@ -405,20 +405,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
-    },
-    {
-      "id": "tmdb:93405",
-      "type": "series",
-      "name": "El juego del calamar",
-      "ids": {
-        "tmdb": 93405
-      },
-      "overview": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g8ycl0j14uesH7CgqQfEyVPOLNz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2SFOnw4Tmw84Obmf6I1cv46300W.png"
     },
     {
       "id": "tmdb:1400",
@@ -463,18 +449,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
     },
     {
-      "id": "tmdb:245684",
+      "id": "tmdb:65334",
       "type": "series",
-      "name": "Guerra de cucharas blancas contra negras",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
       "ids": {
-        "tmdb": 245684
+        "tmdb": 65334
       },
-      "overview": "Ochenta cocineros aficionados con el don del sabor se enfrentan a veinte chefs de talla mundial en una dura competición culinaria de cien contendientes.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/cnBtzNehw0G85HqmCXd9xVqG4bL.jpg",
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Apo2p8VlZKtuhysk5F31A8cpvNt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iWwbwIFuqIYv51ucsn0nrMO4899.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
+    },
+    {
+      "id": "tmdb:93405",
+      "type": "series",
+      "name": "El juego del calamar",
+      "ids": {
+        "tmdb": 93405
+      },
+      "overview": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g8ycl0j14uesH7CgqQfEyVPOLNz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2SFOnw4Tmw84Obmf6I1cv46300W.png"
     },
     {
       "id": "tmdb:119051",
@@ -533,6 +533,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/A9S8mk45IKWVND45fjWmHtJPwFf.png"
     },
     {
+      "id": "tmdb:245684",
+      "type": "series",
+      "name": "Guerra de cucharas blancas contra negras",
+      "ids": {
+        "tmdb": 245684
+      },
+      "overview": "Ochenta cocineros aficionados con el don del sabor se enfrentan a veinte chefs de talla mundial en una dura competición culinaria de cien contendientes.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/cnBtzNehw0G85HqmCXd9xVqG4bL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Apo2p8VlZKtuhysk5F31A8cpvNt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iWwbwIFuqIYv51ucsn0nrMO4899.png"
+    },
+    {
       "id": "tmdb:62117",
       "type": "series",
       "name": "Younger",
@@ -561,18 +575,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
-      "id": "tmdb:70523",
+      "id": "tmdb:46298",
       "type": "series",
-      "name": "Dark",
+      "name": "Hunter × Hunter",
       "ids": {
-        "tmdb": 70523
+        "tmdb": 46298
       },
-      "overview": "Tras la desaparición de un niño, cuatro familias desesperadas tratan de entender lo ocurrido a medida que van desvelando un retorcido misterio que abarca tres décadas.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/hRP7N2uI0pokxnkcMFONoOZnxbv.jpg",
+      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bzKbPud46Jf1YtCDYUyVN222I5U.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
     },
     {
       "id": "tmdb:48891",
@@ -587,6 +601,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aNsrgElf0fiKBSR8cWWEL6XUTte.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png"
+    },
+    {
+      "id": "tmdb:70523",
+      "type": "series",
+      "name": "Dark",
+      "ids": {
+        "tmdb": 70523
+      },
+      "overview": "Tras la desaparición de un niño, cuatro familias desesperadas tratan de entender lo ocurrido a medida que van desvelando un retorcido misterio que abarca tres décadas.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/hRP7N2uI0pokxnkcMFONoOZnxbv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xWp8VB2Bt6mvVTTSXt0kFRy0A9b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bzKbPud46Jf1YtCDYUyVN222I5U.png"
+    },
+    {
+      "id": "tmdb:209867",
+      "type": "series",
+      "name": "Frieren: Tras finalizar el viaje",
+      "ids": {
+        "tmdb": 209867
+      },
+      "overview": "La maga Frieren formaba parte del grupo del héroe Himmel, quienes derrotaron al Rey Demonio tras un viaje de 10 años y devolvieron la paz al reino. Frieren es una elfa de más de mil años de vida, así que al despedirse de Himmel y sus compañeros promete que regresará para verlos y parte de viaje sola. Al cabo de cincuenta años, Frieren cumple su promesa y acude a visitar a Himmel y al resto. Aunque ella no ha cambiado, Himmel y los demás han envejecido y están en el final de sus vidas. Cuando Himmel muere, Frieren se arrepiente de no haber pasado más tiempo a su lado conociéndolo, así que emprende un viaje para conocer mejor a sus antiguos compañeros, a las personas y descubrir más del mundo.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/v7i3yNKxsDwB5IG9ElWgOGPieE8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9873hKCWHK6QBPQ4sPhpZs5E52T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
+    },
+    {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
       "id": "tmdb:38693",
@@ -617,76 +673,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     },
     {
-      "id": "tmdb:46298",
-      "type": "series",
-      "name": "Hunter × Hunter",
-      "ids": {
-        "tmdb": 46298
-      },
-      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
-    },
-    {
-      "id": "tmdb:4586",
-      "type": "series",
-      "name": "Las chicas Gilmore",
-      "ids": {
-        "tmdb": 4586
-      },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
-    },
-    {
-      "id": "tmdb:209867",
-      "type": "series",
-      "name": "Frieren: Tras finalizar el viaje",
-      "ids": {
-        "tmdb": 209867
-      },
-      "overview": "La maga Frieren formaba parte del grupo del héroe Himmel, quienes derrotaron al Rey Demonio tras un viaje de 10 años y devolvieron la paz al reino. Frieren es una elfa de más de mil años de vida, así que al despedirse de Himmel y sus compañeros promete que regresará para verlos y parte de viaje sola. Al cabo de cincuenta años, Frieren cumple su promesa y acude a visitar a Himmel y al resto. Aunque ella no ha cambiado, Himmel y los demás han envejecido y están en el final de sus vidas. Cuando Himmel muere, Frieren se arrepiente de no haber pasado más tiempo a su lado conociéndolo, así que emprende un viaje para conocer mejor a sus antiguos compañeros, a las personas y descubrir más del mundo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/v7i3yNKxsDwB5IG9ElWgOGPieE8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9873hKCWHK6QBPQ4sPhpZs5E52T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
-    },
-    {
-      "id": "tmdb:220150",
-      "type": "series",
-      "name": "Horizontes Pokémon",
-      "ids": {
-        "tmdb": 220150
-      },
-      "overview": "¡Acompaña a Liko y Rod en sus increíbles aventuras mientras desvelan los misterios que les rodean y conocen a Friede, Capitán Pikachu y Amethio, entre otros!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2RwGhjr0KLTdgQMxGikB5Omfkb3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w1gCEpUvhQiWBEJqASQvgBnvbK0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
-    },
-    {
-      "id": "tmdb:45790",
-      "type": "series",
-      "name": "JoJo's Bizarre Adventure",
-      "ids": {
-        "tmdb": 45790
-      },
-      "overview": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iZwAxspYlszZBBBGHu05EvUZNem.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kNtCppfedimcdRw5sGUK8eFjhsi.png"
-    },
-    {
       "id": "tmdb:76669",
       "type": "series",
       "name": "Élite",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/advVsq1Jrm9X5OUshBuMR3WK6m9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/fiGleG2W4ZFZPHWECbqOtQsi5Vg.png"
+    },
+    {
+      "id": "tmdb:74016",
+      "type": "series",
+      "name": "The Resident",
+      "ids": {
+        "tmdb": 74016
+      },
+      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8LoNdY86qEZiaYDfvLqEuVEfczP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
     }
   ]
 }
