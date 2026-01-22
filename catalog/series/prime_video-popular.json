@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/pJlFBsMjVIBCtmx1xYzfxUbnkP1.png"
     },
     {
-      "id": "tmdb:106379",
-      "type": "series",
-      "name": "Fallout",
-      "ids": {
-        "tmdb": 106379
-      },
-      "overview": "Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kyhbjHomRagzpNEeyKSssbkPWan.png"
-    },
-    {
       "id": "tmdb:240459",
       "type": "series",
       "name": "Spartacus: La Casa de Ashur",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/vQrCtWkkoPSuRuVtsYCAFZUP1dw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bG50Usf7hKEaOsv3bxKtFNaSHbg.png"
+    },
+    {
+      "id": "tmdb:106379",
+      "type": "series",
+      "name": "Fallout",
+      "ids": {
+        "tmdb": 106379
+      },
+      "overview": "Basado en una de las sagas de videojuegos más importantes de todos los tiempos, Fallout es la historia de los que tienen y de los que no tienen en un mundo en el que prácticamente no queda nada para tener. 200 años después del apocalipsis, los apacibles habitantes de los refugios de lujo se ven obligados a regresar al infierno irradiado que dejaron sus antepasados - y se sorprenden al descubrir que les espera un universo increíblemente complejo, alegremente extraño y muy violento. De los productores ejecutivos Jonathan Nolan y Lisa Joy, los creadores de Westworld, protagonizada por Ella Purnell, Aaron Moten, Walton Goggins y más.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3p9qtUVGjmdEera4c3O7n67Q1Bj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kyhbjHomRagzpNEeyKSssbkPWan.png"
     },
     {
       "id": "tmdb:71712",
@@ -155,18 +155,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
     },
     {
-      "id": "tmdb:18165",
+      "id": "tmdb:2316",
       "type": "series",
-      "name": "Crónicas vampíricas",
+      "name": "The Office",
       "ids": {
-        "tmdb": 18165
+        "tmdb": 2316
       },
-      "overview": "\"Crónicas Vampíricas\" cuenta la historia de dos hermanos vampiros obsesionados con la misma chica en un pequeño pueblo, donde seres sobrenaturales viven en secreto entre sus residentes.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rKNnzmOA1REgxODY5wVe5UEr70w.jpg",
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
       "id": "tmdb:5920",
@@ -183,18 +183,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/sHF6y7btA03TqE1tVQJq3JJzQA3.svg"
     },
     {
-      "id": "tmdb:2316",
+      "id": "tmdb:1911",
       "type": "series",
-      "name": "The Office",
+      "name": "Bones",
       "ids": {
-        "tmdb": 2316
+        "tmdb": 1911
       },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "overview": "Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.",
       "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2qZCr4aePuDnbA4pBbCMDwbJDsP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
+    },
+    {
+      "id": "tmdb:18165",
+      "type": "series",
+      "name": "Crónicas vampíricas",
+      "ids": {
+        "tmdb": 18165
+      },
+      "overview": "\"Crónicas Vampíricas\" cuenta la historia de dos hermanos vampiros obsesionados con la misma chica en un pequeño pueblo, donde seres sobrenaturales viven en secreto entre sus residentes.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rKNnzmOA1REgxODY5wVe5UEr70w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
       "id": "tmdb:60574",
@@ -209,20 +223,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/b6r9HMojy7NxOwFsLwLzrsIYsxu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
-    },
-    {
-      "id": "tmdb:1911",
-      "type": "series",
-      "name": "Bones",
-      "ids": {
-        "tmdb": 1911
-      },
-      "overview": "Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2qZCr4aePuDnbA4pBbCMDwbJDsP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
       "id": "tmdb:37680",
@@ -281,18 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png"
     },
     {
-      "id": "tmdb:61859",
+      "id": "tmdb:57532",
       "type": "series",
-      "name": "El infiltrado",
+      "name": "La Patrulla Canina",
       "ids": {
-        "tmdb": 61859
+        "tmdb": 57532
       },
-      "overview": "El exsoldado británico Jonathan Pine es reclutado por la agente Burr, de los servicios de inteligencia, para infiltrarse en la red de un traficante de armas internacional liderada por Richard Onslow Roper.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/zAuGnEqncIljEc4ZUMp0j6C5SCh.jpg",
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8tNQs3KhgbCIbvkoSSTsJF9j85h.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bbrwN2nik4tyvyoJinglYkRUf9S.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
       "id": "tmdb:58841",
@@ -309,48 +309,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png"
     },
     {
-      "id": "tmdb:873",
-      "type": "series",
-      "name": "Colombo",
-      "ids": {
-        "tmdb": 873
-      },
-      "overview": "El teniente Colombo es un desaliñado y aparentemente despistado detective de policía que, a primera vista, suele ser considerado torpe e inofensivo. Lleva siempre gabardina y un puro mientras investiga y resuelve los casos más sorprendentes.",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/10AFO1tXhQWXrqPyyeSzk3E2ciu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sBixdckzjH1DwEcIREgP16kZHy2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8KvmDUZrkSsT8Yz1mSHcCzdY33p.png"
-    },
-    {
-      "id": "tmdb:120089",
-      "type": "series",
-      "name": "SPY x FAMILY",
-      "ids": {
-        "tmdb": 120089
-      },
-      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
-    },
-    {
-      "id": "tmdb:57532",
-      "type": "series",
-      "name": "La Patrulla Canina",
-      "ids": {
-        "tmdb": 57532
-      },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
       "id": "tmdb:1973",
       "type": "series",
       "name": "24",
@@ -363,20 +321,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
-    },
-    {
-      "id": "tmdb:269",
-      "type": "series",
-      "name": "One Tree Hill",
-      "ids": {
-        "tmdb": 269
-      },
-      "overview": "Los protagonistas son dos adolescentes con vidas paralelas, aunque muy diferentes, que viven en un pueblo de Carolina del Norte. Los une un oscuro secreto: son hijos del mismo padre. Después de crecer en ambientes muy distintos, de repente, sus vidas se cruzan.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hbto4yhvXWBKxtJ6SzcNWLljVgE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Yd8GfQ4JwrKSNtGpnrpHvYpPy2.png"
     },
     {
       "id": "tmdb:71728",
@@ -393,18 +337,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
-      "id": "tmdb:1695",
+      "id": "tmdb:269",
       "type": "series",
-      "name": "Monk",
+      "name": "One Tree Hill",
       "ids": {
-        "tmdb": 1695
+        "tmdb": 269
       },
-      "overview": "Serie de TV (2002-2009). 8 temporadas. 125 episodios. Adrian Monk (Tony Shalhoub) es un ex-policía de San Francisco que se hizo famoso por los métodos poco convencionales con los que resolvía los casos más complicados. Pero el asesinato de su esposa le convirtió en un maníaco obsesionado por todo lo que le rodea (gérmenes, alturas, multitudes, espacios cerrados, alimentos...), lo que hizo que fuera expulsado del cuerpo. Ahora Adrian es un detective privado que necesita ayuda hasta para ordenar el cajón de los calcetines, sencilla tarea que su complicada mente puede convertir en un reto angustioso. Afortunadamente para él, cuenta con la incondicional ayuda de Sharona (Bitty Schram), su enfermera, que es quien le ayuda tanto para poder enfrentarse a la vida diaria como en los casos que tienen en jaque a la policía. Su ex-jefe, por mucho que le pese, acude a Monk en muchas ocasiones para que aporte una visión alternativa, ya que sus neurosis le ayudan a desentramar crímenes aparentemente irresolubles desde una perspectiva distinta. ",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+      "overview": "Los protagonistas son dos adolescentes con vidas paralelas, aunque muy diferentes, que viven en un pueblo de Carolina del Norte. Los une un oscuro secreto: son hijos del mismo padre. Después de crecer en ambientes muy distintos, de repente, sus vidas se cruzan.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zPNfVB7kpVYxZuChbxbzRqV36fV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pIOqR6IchhSOmaIZIyDGW9QB982.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/hbto4yhvXWBKxtJ6SzcNWLljVgE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Yd8GfQ4JwrKSNtGpnrpHvYpPy2.png"
+    },
+    {
+      "id": "tmdb:120089",
+      "type": "series",
+      "name": "SPY x FAMILY",
+      "ids": {
+        "tmdb": 120089
+      },
+      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jRO2tHRuI1KHn1f2TouXTsuDSer.png"
+    },
+    {
+      "id": "tmdb:873",
+      "type": "series",
+      "name": "Colombo",
+      "ids": {
+        "tmdb": 873
+      },
+      "overview": "El teniente Colombo es un desaliñado y aparentemente despistado detective de policía que, a primera vista, suele ser considerado torpe e inofensivo. Lleva siempre gabardina y un puro mientras investiga y resuelve los casos más sorprendentes.",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/10AFO1tXhQWXrqPyyeSzk3E2ciu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sBixdckzjH1DwEcIREgP16kZHy2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8KvmDUZrkSsT8Yz1mSHcCzdY33p.png"
     },
     {
       "id": "tmdb:108978",
@@ -421,20 +393,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wUhXD6ENFxqof72PL2etaYmpFj6.png"
     },
     {
-      "id": "tmdb:76479",
-      "type": "series",
-      "name": "The Boys",
-      "ids": {
-        "tmdb": 76479
-      },
-      "overview": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A5kLEslYD3IJrSnnEZL0TfQAQlJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
-    },
-    {
       "id": "tmdb:41956",
       "type": "series",
       "name": "Crimen en el paraíso",
@@ -449,46 +407,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/2h4iLrnHx2QXTBAWIenT0C2m9kV.png"
     },
     {
-      "id": "tmdb:1412",
+      "id": "tmdb:76479",
       "type": "series",
-      "name": "Arrow",
+      "name": "The Boys",
       "ids": {
-        "tmdb": 1412
+        "tmdb": 76479
       },
-      "overview": "Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado. Por otra parte, trata de ocultar la verdad acerca de en quién se ha convertido mientras trata de enmendar los errores que cometió en el pasado y de reconciliarse con su ex novia, Laurel Lance. Mientras trata de volver a contactar a las personas de su pasado jugando el papel del mujeriego adinerado, despreocupado y descuidado que solía ser, ayudado por su fiel chofer y guardaespaldas John Diggle, crea en secreto el personaje de un justiciero encapuchado, un vigilante que lucha contra los males de la sociedad tratando de darle a su ciudad la gloria que antes tenía; complicando esta misión.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+      "overview": "La serie tiene lugar en un mundo en el que los superhéroes representan el lado oscuro de la celebridad y la fama. Un grupo de vigilantes que se hacen llamar \"The Boys\" decide hacer todo lo posible por frenar a los superhéroes que están perjudicando a la sociedad, independientemente de los riesgos que ello conlleva.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4o0keepwKfyYoziJOmRZS24Omqa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jUu02PexmdU5xAeDYsv1huceChE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/A5kLEslYD3IJrSnnEZL0TfQAQlJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
     },
     {
-      "id": "tmdb:48866",
+      "id": "tmdb:61859",
       "type": "series",
-      "name": "Los 100",
+      "name": "El infiltrado",
       "ids": {
-        "tmdb": 48866
+        "tmdb": 61859
       },
-      "overview": "Situada 97 años después de una guerra nuclear que ha destruido la civilización, los supervivientes de una nave espacial, que han sobrevivido durante 3 generaciones en el espacio, envían 100 delincuentes juveniles \"para testear\" las condiciones de la Tierra, con la esperanza de eventualmente volver a poblar el planeta. El grupo de jóvenes tratará de sobrevivir en un entorno desconocido y hostil a pesar de las brechas que se abren entre ellos, unos partidarios de seguir en conexión con la nave, otros a favor de empezar de cero sin depender de nadie. Mientras, en la nave, las luchas por el poder político se recrudecen, llevando a los dirigentes a situaciones extremas y difíciles decisiones.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/7zzHG46UG43IkfdEVKuCo2L84eM.jpg",
+      "overview": "El exsoldado británico Jonathan Pine es reclutado por la agente Burr, de los servicios de inteligencia, para infiltrarse en la red de un traficante de armas internacional liderada por Richard Onslow Roper.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/zAuGnEqncIljEc4ZUMp0j6C5SCh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zuCWcHCIEllJGRFRKDgdg8sCHE6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7h2L7K3RpcMry8mVsX4GVFFHspb.png"
-    },
-    {
-      "id": "tmdb:30983",
-      "type": "series",
-      "name": "Detective Conan",
-      "ids": {
-        "tmdb": 30983
-      },
-      "overview": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan...",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kbxIwkmVfkDvL4mq2V7WbyZAVFy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vX0VEwZViadujTUGcL0EU5orV8p.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8tNQs3KhgbCIbvkoSSTsJF9j85h.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bbrwN2nik4tyvyoJinglYkRUf9S.png"
     },
     {
       "id": "tmdb:790",
@@ -505,74 +449,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/11hvIfeTR8adcbNgg7eQachswtV.png"
     },
     {
-      "id": "tmdb:225171",
+      "id": "tmdb:48866",
       "type": "series",
-      "name": "Pluribus",
+      "name": "Los 100",
       "ids": {
-        "tmdb": 225171
+        "tmdb": 48866
       },
-      "overview": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+      "overview": "Situada 97 años después de una guerra nuclear que ha destruido la civilización, los supervivientes de una nave espacial, que han sobrevivido durante 3 generaciones en el espacio, envían 100 delincuentes juveniles \"para testear\" las condiciones de la Tierra, con la esperanza de eventualmente volver a poblar el planeta. El grupo de jóvenes tratará de sobrevivir en un entorno desconocido y hostil a pesar de las brechas que se abren entre ellos, unos partidarios de seguir en conexión con la nave, otros a favor de empezar de cero sin depender de nadie. Mientras, en la nave, las luchas por el poder político se recrudecen, llevando a los dirigentes a situaciones extremas y difíciles decisiones.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/7zzHG46UG43IkfdEVKuCo2L84eM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9llnS02cACQrYcBOsYM0zma8Pzc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qUMaG3ZB32GXtXMMjz7pkxehz26.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zuCWcHCIEllJGRFRKDgdg8sCHE6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7h2L7K3RpcMry8mVsX4GVFFHspb.png"
     },
     {
-      "id": "tmdb:484",
+      "id": "tmdb:1412",
       "type": "series",
-      "name": "Se ha escrito un crimen",
+      "name": "Arrow",
       "ids": {
-        "tmdb": 484
+        "tmdb": 1412
       },
-      "overview": "Tras la muerte de su marido, Jessica Fletcher (Angela Lansbury), una profesora de inglés, empieza a escribir novelas de misterio y, además, a resolver numerosos casos de asesinato, gran parte de ellos ocurridos en Cabot Cove, lugar de residencia de la protagonista. Serie inspirada en el personaje de Miss Marple de Agatha Christie.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/jto8lXA6E6EpVqn91KYAyNS5wUZ.jpg",
+      "overview": "Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado. Por otra parte, trata de ocultar la verdad acerca de en quién se ha convertido mientras trata de enmendar los errores que cometió en el pasado y de reconciliarse con su ex novia, Laurel Lance. Mientras trata de volver a contactar a las personas de su pasado jugando el papel del mujeriego adinerado, despreocupado y descuidado que solía ser, ayudado por su fiel chofer y guardaespaldas John Diggle, crea en secreto el personaje de un justiciero encapuchado, un vigilante que lucha contra los males de la sociedad tratando de darle a su ciudad la gloria que antes tenía; complicando esta misión.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8Qh3UOHe0kYmqkgfC7gpH88WQa2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pZ0ih7nmelVYyKT9HK0DKsmy0Vh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4o0keepwKfyYoziJOmRZS24Omqa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jUu02PexmdU5xAeDYsv1huceChE.png"
     },
     {
-      "id": "tmdb:67384",
+      "id": "tmdb:1695",
       "type": "series",
-      "name": "Goliat",
+      "name": "Monk",
       "ids": {
-        "tmdb": 67384
+        "tmdb": 1695
       },
-      "overview": "Antaño un abogado poderoso, Billy McBride ahora es un abogado acabado y arruinado, que pasa más tiempo en el bar que en el juzgado. Acepta a regañadientes el caso de una muerte por negligencia contra el cliente más importante del bufete que ayudó a fundar y, con su heterogéneo equipo, descubre una gran y mortal conspiración, y se enfrenta a vida o muerte en un juicio contra el poderoso Goliat.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg",
+      "overview": "Serie de TV (2002-2009). 8 temporadas. 125 episodios. Adrian Monk (Tony Shalhoub) es un ex-policía de San Francisco que se hizo famoso por los métodos poco convencionales con los que resolvía los casos más complicados. Pero el asesinato de su esposa le convirtió en un maníaco obsesionado por todo lo que le rodea (gérmenes, alturas, multitudes, espacios cerrados, alimentos...), lo que hizo que fuera expulsado del cuerpo. Ahora Adrian es un detective privado que necesita ayuda hasta para ordenar el cajón de los calcetines, sencilla tarea que su complicada mente puede convertir en un reto angustioso. Afortunadamente para él, cuenta con la incondicional ayuda de Sharona (Bitty Schram), su enfermera, que es quien le ayuda tanto para poder enfrentarse a la vida diaria como en los casos que tienen en jaque a la policía. Su ex-jefe, por mucho que le pese, acude a Monk en muchas ocasiones para que aporte una visión alternativa, ya que sus neurosis le ayudan a desentramar crímenes aparentemente irresolubles desde una perspectiva distinta. ",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z9fa2NotLnwgrmUfgYEuoOBSrjt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zW52DvNsp2FOuPc0q3ZnKeiTNNG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zPNfVB7kpVYxZuChbxbzRqV36fV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pIOqR6IchhSOmaIZIyDGW9QB982.svg"
     },
     {
-      "id": "tmdb:12225",
+      "id": "tmdb:30983",
       "type": "series",
-      "name": "Peppa Pig",
+      "name": "Detective Conan",
       "ids": {
-        "tmdb": 12225
+        "tmdb": 30983
       },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "overview": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan...",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kbxIwkmVfkDvL4mq2V7WbyZAVFy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vX0VEwZViadujTUGcL0EU5orV8p.png"
     },
     {
       "id": "tmdb:62650",
@@ -589,46 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png"
     },
     {
-      "id": "tmdb:1395",
+      "id": "tmdb:67384",
       "type": "series",
-      "name": "Gossip Girl",
+      "name": "Goliat",
       "ids": {
-        "tmdb": 1395
+        "tmdb": 67384
       },
-      "overview": "Los niños pijos de un instituto privado de Manhattan se salen siempre con la suya, hasta que una bloguera anónima, llamada la Reina Cotilla, espía sus movimientos.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
+      "overview": "Antaño un abogado poderoso, Billy McBride ahora es un abogado acabado y arruinado, que pasa más tiempo en el bar que en el juzgado. Acepta a regañadientes el caso de una muerte por negligencia contra el cliente más importante del bufete que ayudó a fundar y, con su heterogéneo equipo, descubre una gran y mortal conspiración, y se enfrenta a vida o muerte en un juicio contra el poderoso Goliat.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f1oditpv2BaFLO1fWv3E5JzjQGv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
-    },
-    {
-      "id": "tmdb:39793",
-      "type": "series",
-      "name": "¡Llama a la comadrona!",
-      "ids": {
-        "tmdb": 39793
-      },
-      "overview": "Drama ambientado en el East End  de Londres durante la década de 1950, basado en las memorias de la comadrona Jennifer Worth.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/iutwQKZ23yMTnaSN7fdMj2t8vvr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6b7SmEv7P7fCkTJuozhWXZ3jvsh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/joPKGGFLSG4LzjYn2OSWrKW3sLQ.png"
-    },
-    {
-      "id": "tmdb:73375",
-      "type": "series",
-      "name": "Jack Ryan de Tom Clancy",
-      "ids": {
-        "tmdb": 73375
-      },
-      "overview": "Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/1Wz730VjE6Yee9ywb5ReXXe1GBZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mWbobAAdNU53rD2JPOlA1yaJnOf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x0GiVTZzmFSmuEMrLdPnmbAkROO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/z9fa2NotLnwgrmUfgYEuoOBSrjt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zW52DvNsp2FOuPc0q3ZnKeiTNNG.png"
     },
     {
       "id": "tmdb:84773",
@@ -645,32 +547,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/bFb2je479dZpxYMFwxX44c0hliD.png"
     },
     {
-      "id": "tmdb:85077",
+      "id": "tmdb:12225",
       "type": "series",
-      "name": "The Chosen (Los elegidos)",
+      "name": "Peppa Pig",
       "ids": {
-        "tmdb": 85077
+        "tmdb": 12225
       },
-      "overview": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wxDOmX1LcZTDvEeNqr4U4lrtxiy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mYvxHGbDE4aWzG4CDIjStI5jIQS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
-      "id": "tmdb:4586",
+      "id": "tmdb:484",
       "type": "series",
-      "name": "Las chicas Gilmore",
+      "name": "Se ha escrito un crimen",
       "ids": {
-        "tmdb": 4586
+        "tmdb": 484
       },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "overview": "Tras la muerte de su marido, Jessica Fletcher (Angela Lansbury), una profesora de inglés, empieza a escribir novelas de misterio y, además, a resolver numerosos casos de asesinato, gran parte de ellos ocurridos en Cabot Cove, lugar de residencia de la protagonista. Serie inspirada en el personaje de Miss Marple de Agatha Christie.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/jto8lXA6E6EpVqn91KYAyNS5wUZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8Qh3UOHe0kYmqkgfC7gpH88WQa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pZ0ih7nmelVYyKT9HK0DKsmy0Vh.png"
+    },
+    {
+      "id": "tmdb:73375",
+      "type": "series",
+      "name": "Jack Ryan de Tom Clancy",
+      "ids": {
+        "tmdb": 73375
+      },
+      "overview": "Cuando el analista de la CIA, Jack Ryan, se tropieza con una serie de transferencias bancarias sospechosas, su búsqueda de respuestas lo saca de la seguridad de su escritorio y lo catapulta hacia un juego mortal del gato y el ratón por toda Europa y Oriente Medio, donde se encuentra a un terrorista que prepara un ataque masivo contra Estados Unidos y sus aliados.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/1Wz730VjE6Yee9ywb5ReXXe1GBZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mWbobAAdNU53rD2JPOlA1yaJnOf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x0GiVTZzmFSmuEMrLdPnmbAkROO.png"
     },
     {
       "id": "tmdb:1705",
@@ -687,6 +603,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
     },
     {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
       "id": "tmdb:280948",
       "type": "series",
       "name": "Fiebre de primavera",
@@ -699,6 +629,76 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ba2U131mP5D9ZAeYPunV1vXOwo4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rJhX84hAR3srvSucEvesJJNqZic.png"
+    },
+    {
+      "id": "tmdb:85077",
+      "type": "series",
+      "name": "The Chosen (Los elegidos)",
+      "ids": {
+        "tmdb": 85077
+      },
+      "overview": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/sADRlqLn9na8p7S1mLWMOU04uit.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wxDOmX1LcZTDvEeNqr4U4lrtxiy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mYvxHGbDE4aWzG4CDIjStI5jIQS.png"
+    },
+    {
+      "id": "tmdb:194766",
+      "type": "series",
+      "name": "El verano en que me enamoré",
+      "ids": {
+        "tmdb": 194766
+      },
+      "overview": "Una serie basada en el superventas del New York Times. En verano, Belly y su familia van a la casa de la playa de los Fisher en Cousins. Todos los veranos son iguales... hasta que Belly cumple 16 años. Las relaciones se cuestionarán, se revelarán dolorosas verdades, y Belly cambiará para siempre. Es el verano del primer amor, del primer desamor y del crecimiento: es el verano en que se pone guapa.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/wDeFJIE5chr2P8iKW6HjyHKNm8x.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4mgNJ3YbBH7aD4MroeBehyjsA5c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3UifAsW2VwhCQmX3sG3ivZdHWy3.png"
+    },
+    {
+      "id": "tmdb:33907",
+      "type": "series",
+      "name": "Downton Abbey",
+      "ids": {
+        "tmdb": 33907
+      },
+      "overview": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/7HgDYRYjym4BwbhKaqTQq771SKb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/LSgYUpbBrEuRoF4vohjWNO9Rq3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
+    },
+    {
+      "id": "tmdb:1395",
+      "type": "series",
+      "name": "Gossip Girl",
+      "ids": {
+        "tmdb": 1395
+      },
+      "overview": "Los niños pijos de un instituto privado de Manhattan se salen siempre con la suya, hasta que una bloguera anónima, llamada la Reina Cotilla, espía sus movimientos.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/fmegxZBz7GF8k4eme4ZJXXGI0TO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f1oditpv2BaFLO1fWv3E5JzjQGv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/28s1CA4zX9bgEiwftiZejlvXPE5.png"
+    },
+    {
+      "id": "tmdb:46260",
+      "type": "series",
+      "name": "Naruto",
+      "ids": {
+        "tmdb": 46260
+      },
+      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
     }
   ]
 }

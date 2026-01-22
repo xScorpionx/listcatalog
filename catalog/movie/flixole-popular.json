@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1587",
+      "type": "movie",
+      "name": "¿A quién ama Gilbert Grape?",
+      "ids": {
+        "tmdb": 1587
+      },
+      "overview": "Gilbert es un chico del pequeño pueblo de Endora atrapado allí por las obligaciones familiares. Tras el suicidio de su padre, debe hacerse cargo de su hermano menor, que es deficiente, de sus dos hermanas y de una madre obesa que pesa más de 200 kilos. Su aburrida vida transcurre entre el colmado donde trabaja, su familia y la relación que mantiene con una mujer casada. La llegada al pueblo de una joven optimista llamada Becky cambiará su rutina.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/1W9WHcWBD08V3SxpDpxESODDpde.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tSwCQWsMfI3Hrcghw4tBDvtR9yM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hT23Ud6IuP47zRFuj9BzPdNvVRw.png"
+    },
+    {
       "id": "tmdb:429",
       "type": "movie",
       "name": "El bueno, el feo y el malo",
@@ -27,33 +41,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
-    },
-    {
-      "id": "tmdb:1587",
-      "type": "movie",
-      "name": "¿A quién ama Gilbert Grape?",
-      "ids": {
-        "tmdb": 1587
-      },
-      "overview": "Gilbert es un chico del pequeño pueblo de Endora atrapado allí por las obligaciones familiares. Tras el suicidio de su padre, debe hacerse cargo de su hermano menor, que es deficiente, de sus dos hermanas y de una madre obesa que pesa más de 200 kilos. Su aburrida vida transcurre entre el colmado donde trabaja, su familia y la relación que mantiene con una mujer casada. La llegada al pueblo de una joven optimista llamada Becky cambiará su rutina.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/1W9WHcWBD08V3SxpDpxESODDpde.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tSwCQWsMfI3Hrcghw4tBDvtR9yM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hT23Ud6IuP47zRFuj9BzPdNvVRw.png"
-    },
-    {
-      "id": "tmdb:1237601",
-      "type": "movie",
-      "name": "Papeles",
-      "ids": {
-        "tmdb": 1237601
-      },
-      "overview": "Ana Méndez, directora jurídica del bufete número dos del mundo en venta de sociedades offshore, se enfrenta a un acontecimiento catastrófico. Se han filtrado 11,8 millones de documentos; es el mayor hackeo digital de la historia de la humanidad: LOS PANAMA PAPERS. Devastada por los acontecimientos, Ana resulta arruinada y emocionalmente rota. Desde ahí, debe remontar su vida.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5MFmmUiRRuVXMaR8Ah3GWimVYXQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yfDv8UUKaRzB0Po6H4yXxZWfJi.jpg"
     },
     {
       "id": "tmdb:9769",
@@ -84,6 +71,33 @@
       "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
     },
     {
+      "id": "tmdb:28178",
+      "type": "movie",
+      "name": "Siempre a tu lado",
+      "ids": {
+        "tmdb": 28178
+      },
+      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+    },
+    {
+      "id": "tmdb:1237601",
+      "type": "movie",
+      "name": "Papeles",
+      "ids": {
+        "tmdb": 1237601
+      },
+      "overview": "Ana Méndez, directora jurídica del bufete número dos del mundo en venta de sociedades offshore, se enfrenta a un acontecimiento catastrófico. Se han filtrado 11,8 millones de documentos; es el mayor hackeo digital de la historia de la humanidad: LOS PANAMA PAPERS. Devastada por los acontecimientos, Ana resulta arruinada y emocionalmente rota. Desde ahí, debe remontar su vida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5MFmmUiRRuVXMaR8Ah3GWimVYXQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yfDv8UUKaRzB0Po6H4yXxZWfJi.jpg"
+    },
+    {
       "id": "tmdb:530385",
       "type": "movie",
       "name": "Midsommar",
@@ -112,18 +126,31 @@
       "logo": "https://image.tmdb.org/t/p/w500/1O92r8CnyvdEgeda7rOZDYEWNAG.png"
     },
     {
-      "id": "tmdb:28178",
+      "id": "tmdb:60854",
       "type": "movie",
-      "name": "Siempre a tu lado",
+      "name": "El crack dos",
       "ids": {
-        "tmdb": 28178
+        "tmdb": 60854
       },
-      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+      "overview": "El detective privado Germán Areta el Piojo investiga la vida de un hombre gay que aparentemente ha abandonado a su pareja. Cuando ambos aparecen muertos, parece que uno mató al otro antes de suicidarse, pero Areta no está convencido.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/cGzRNSPbGS0WkG3KvqfYGCl4iGo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wd8Bw3MFpbfgCncRmhZexb7Udmx.jpg"
+    },
+    {
+      "id": "tmdb:1721",
+      "type": "movie",
+      "name": "¡Más fuerte, muchachos!",
+      "ids": {
+        "tmdb": 1721
+      },
+      "overview": "Salud y Plata son dos pilotos de avión que operan sobre la selva amazónica y que son capaces de hacer casi cualquier cosa por el precio adecuado. Un hombre de negocios les paga este precio para que se deshagan de un avión en la selva y así poder cobrar el seguro. Pero sus problemas empiezan cuando el avión se estrella de verdad y ellos se topan con una colonia de peligrosos mineros que extraen esmeraldas de contrabando.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/xZqxHHKuD3fttn3jdayk4Cu8Zd0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vKTDuGkwPz92PD6FJryJKS9kbh8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bMErxgghlfektFxL7t6LbfNSp8U.png"
     },
     {
       "id": "tmdb:37347",
@@ -168,6 +195,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png"
     },
     {
+      "id": "tmdb:92607",
+      "type": "movie",
+      "name": "El seductor",
+      "ids": {
+        "tmdb": 92607
+      },
+      "overview": "Cosme, un chico de quince años, vive con sus padres y su hermana en un chalet adosado. La monotonía de su vida cambia cuando se enamora de su vecina Merche, una hermosa mujer que tiene casi veinte años más que él.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/oY3fFfApzhKgYEcLsKruqQQzdoa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cbqBM7Mb2nPFSMX3Dlhg2gBNK4E.jpg"
+    },
+    {
+      "id": "tmdb:136726",
+      "type": "movie",
+      "name": "La Celestina",
+      "ids": {
+        "tmdb": 136726
+      },
+      "overview": "El joven noble Calisto se enamora de Melibea, la hija de un rico comerciante. El sirviente de Calisto, Sempronio, le sugiere ir con la hechizera Celestina para conseguir su amor.. Sin embargo su otro sirviente, Parmeno, sospecha de Celestina porque conoce sus trucos. Luego de que Celestina convence a Melibea del amor de Calisto y arreglar una reunion clandestina entre ellos, Calisto le da a Celestina una cara cadena de oro. Ambos sirvientes no estan satisfechos con las mujeres enviadas por Celestina y le demandan mas, comenzando una dramatica secuencia de eventos.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/qUDbwyhC19V8OgZgzOF45DHyt1f.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zsS0FYL914us0FcXxCQQuDzcfOz.jpg"
+    },
+    {
       "id": "tmdb:27578",
       "type": "movie",
       "name": "Los mercenarios",
@@ -182,43 +235,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:60854",
+      "id": "tmdb:87906",
       "type": "movie",
-      "name": "El crack dos",
+      "name": "Tuareg",
       "ids": {
-        "tmdb": 60854
+        "tmdb": 87906
       },
-      "overview": "El detective privado Germán Areta el Piojo investiga la vida de un hombre gay que aparentemente ha abandonado a su pareja. Cuando ambos aparecen muertos, parece que uno mató al otro antes de suicidarse, pero Areta no está convencido.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/cGzRNSPbGS0WkG3KvqfYGCl4iGo.jpg",
+      "overview": "Adaptación de la novela homónima de Alberto Vázquez Figueroa. Gacel es el jefe de la última tribu tuareg. Para él, el desierto no tiene ningún secreto. Un día da asilo a un anciano y a su acompañante.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/bsAi8Fe2jQFpIVUatpXs80I1GIA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wd8Bw3MFpbfgCncRmhZexb7Udmx.jpg"
-    },
-    {
-      "id": "tmdb:176707",
-      "type": "movie",
-      "name": "Una rosa de Francia",
-      "ids": {
-        "tmdb": 176707
-      },
-      "overview": "En Cuba, Simón (Perugorría), un criminal muy seductor, traslada en su viejo barco emigrantes clandestinos a Nueva York y después los abandona a su suerte en un islote. En una ocasión, una patrullera norteamericana descubre el barco e inicia su persecución hasta penetrar en aguas territoriales cubanas. Andrés (Álex González), un joven marinero, le salva la vida a Simón, pero resulta herido. Simón le estará siempre agradecido, a pesar de que Andrés se enamora de Marie (Ana de Armas), una adolescente que está bajo su protección. El conflicto está servido. Marie y Andrés intentarán huir de Cuba a Nueva York, pero Simón hará todo lo posible para impedirlo.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/tMGZp0VDTy4e27gBDLfsiRgZ4gY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tDclBrrUXS7XamuPeYr9GUHnKyv.jpg"
-    },
-    {
-      "id": "tmdb:92607",
-      "type": "movie",
-      "name": "El seductor",
-      "ids": {
-        "tmdb": 92607
-      },
-      "overview": "Cosme, un chico de quince años, vive con sus padres y su hermana en un chalet adosado. La monotonía de su vida cambia cuando se enamora de su vecina Merche, una hermosa mujer que tiene casi veinte años más que él.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/oY3fFfApzhKgYEcLsKruqQQzdoa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cbqBM7Mb2nPFSMX3Dlhg2gBNK4E.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/x3cvKynZ3gvmWsXQxO5gGN15eYZ.jpg"
     },
     {
       "id": "tmdb:1369",
@@ -235,18 +262,85 @@
       "logo": "https://image.tmdb.org/t/p/w500/uUTS5ZTXFLNszIG8B2yzvXpHdWf.png"
     },
     {
-      "id": "tmdb:1370",
+      "id": "tmdb:77451",
       "type": "movie",
-      "name": "Rambo III",
+      "name": "Las cosas del querer",
       "ids": {
-        "tmdb": 1370
+        "tmdb": 77451
       },
-      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
-      "year": 1988,
-      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+      "overview": "Cuando acaba la Guerra Civil Española, un cantante homosexual (Manuel Bandera), un pianista (Ángel de Andrés López) y su novia (Ángela Molina) se unen para formar un grupo, que se hará famoso y cosechará éxitos por toda la geografía española. Su brillante trayectoria les llevará de nuevo a Madrid, donde llegarán sus peores momentos; la aristocracia de la capital, aburrida y en busca de fuertes emociones, no perdona y se lanza contra Mario por su condición de homosexual, mientras la madre de Pepita conspira para separarla de su novio pianista…",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/7k0fjD9deRAVBUvVXyMrpf7jDbh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rH3kVoa5d1ShIAsyPYBwmZQCccu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cbiS8ApI5VqYXxgARk8aLaHOku3.jpg"
+    },
+    {
+      "id": "tmdb:176707",
+      "type": "movie",
+      "name": "Una rosa de Francia",
+      "ids": {
+        "tmdb": 176707
+      },
+      "overview": "En Cuba, Simón (Perugorría), un criminal muy seductor, traslada en su viejo barco emigrantes clandestinos a Nueva York y después los abandona a su suerte en un islote. En una ocasión, una patrullera norteamericana descubre el barco e inicia su persecución hasta penetrar en aguas territoriales cubanas. Andrés (Álex González), un joven marinero, le salva la vida a Simón, pero resulta herido. Simón le estará siempre agradecido, a pesar de que Andrés se enamora de Marie (Ana de Armas), una adolescente que está bajo su protección. El conflicto está servido. Marie y Andrés intentarán huir de Cuba a Nueva York, pero Simón hará todo lo posible para impedirlo.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/tMGZp0VDTy4e27gBDLfsiRgZ4gY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tDclBrrUXS7XamuPeYr9GUHnKyv.jpg"
+    },
+    {
+      "id": "tmdb:217250",
+      "type": "movie",
+      "name": "La primera dama",
+      "ids": {
+        "tmdb": 217250
+      },
+      "overview": "Biografía de Dolly Payne (Ginger Rogers), la esposa de James Madison, el cuarto Presidente de los Estados Unidos. A Dolly la cortejan dos líderes políticos: Madison (Burgess Meredith) y Aaron Burr (David Niven). Ella coquetea con los dos, llegando incluso a enfrentarlos, no sólo por motivos sentimentales, sino porque desea contribuir a la construcción del país. Tras ejercer su influencia sobre Burr, ayudará a Thomas Jefferson a llegar a la presidencia de Estados Unidos (1801-1809). Cuando Madison (1809-1817) gana las elecciones presidenciales se convierte en la Primera Dama.",
+      "year": 1946,
+      "poster": "https://image.tmdb.org/t/p/w342/gvBBh0yx0MZy8S42HGyUEiQ00dY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/z6T4jZdvi9ZJohilWcojAahiCVs.jpg"
+    },
+    {
+      "id": "tmdb:581387",
+      "type": "movie",
+      "name": "Alerta roja",
+      "ids": {
+        "tmdb": 581387
+      },
+      "overview": "El volcán en la montaña Baekdu hace erupción repentinamente, causando varios terremotos tanto en Corea del Norte como en el Sur. El caos reina en la península de Corea cuando se predicen más erupciones. Para prevenir un desastre mayor, Jeon Yoo-kyung (Jeon Hye-jin) planea una operación basada en la teoría del profesor Kang Bong-rae (Ma Dong-seok), quien ha estudiado la montaña Baekdu y sus posibles erupciones. Jo In-chang (Ha Jung-woo) es el capitán del equipo de fuerzas especiales y es asignado a la operación que mantiene el destino de ambas Coreas en la balanza. Él contacta a Lee Joon-pyeong (Lee Byung-hun), un espía norcoreano para realizar la operación conjuntamente. Mientras, su esposa embarazada, Choi Ji-young (Bae Suzy), está sola en Seúl intentando sobrevivir en medio del desastre.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/A3BP44EvnJIIhyNVwPT0IpvNAoc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jpiw4h4VeSXlPjn6cLzSEeT6vDE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hFRsvlEMDiG1Wb6MJpIT8gigGey.png"
+    },
+    {
+      "id": "tmdb:19794",
+      "type": "movie",
+      "name": "Un trabajo embarazoso",
+      "ids": {
+        "tmdb": 19794
+      },
+      "overview": "Una joven finge estar embarazada para evitar ser despedida del trabajo. Cuando además su \"estado\" le proporciona un tratamiento especial por parte de los que le rodean, continúa con el engaño durante todo el tiempo... Thea (Lindsay Lohan) es secretaria en una importante editorial. Cuando su jefe, Jerry, oye cómo se burla de él delante de sus compañeros, él quiere despedirla, pero Thea se deja llevar por el pánico y le dice que está embarazada. El ardid funciona ya que, ante la imposibilidad de despedir a una embarazada, logra salvar su empleo, pero además, sus previamente malintencionados compañeros de oficina le preparan bizcochos, su casero le baja el alquiler y empieza lograr el respeto en el trabajo que lleva tanto tiempo buscando ¿Pero, hasta que punto llegará Thea para mantener el engaño?",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/hnjwIN02CQiy5mG75TXMjaap2fT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3PtBe2d9JsA2mUDte6M2RMLysaW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sdUInRqUveHfkGxMP2xyF9sl3Il.png"
+    },
+    {
+      "id": "tmdb:21043",
+      "type": "movie",
+      "name": "El método",
+      "ids": {
+        "tmdb": 21043
+      },
+      "overview": "Siete aspirantes a un puesto ejecutivo se presentan a la prueba de selección de personal de una empresa multinacional, situada en un rascacielos de Madrid. Sus personalidades son de lo más dispar: el triunfador, el agresivo, la mujer insegura, el crítico, el indeciso. En un clima de tensa competitividad, el miedo y las dudas se irán apoderando de los participantes, que caen en un estado de paranoia tal que llegan a sospechar que están siendo observados por cámaras o que, entre ellos, puede haber un psicólogo infiltrado que ya los está evaluando. Esta atmósfera claustrofóbica pone de manifiesto la falta de escrúpulos de los aspirantes.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/uIxB03i67S2V3uBAk5KiaIM7Kj8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8J7IL5w28ZWUZY6080S1GSpvS7t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/odQatnqJ8HoI2N2FeU5HQZkxd16.png"
     },
     {
       "id": "tmdb:8689",
@@ -277,212 +371,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/lEsTgmINOJcCFM6o8XdUbaGsPNX.png"
     },
     {
-      "id": "tmdb:1721",
-      "type": "movie",
-      "name": "¡Más fuerte, muchachos!",
-      "ids": {
-        "tmdb": 1721
-      },
-      "overview": "Salud y Plata son dos pilotos de avión que operan sobre la selva amazónica y que son capaces de hacer casi cualquier cosa por el precio adecuado. Un hombre de negocios les paga este precio para que se deshagan de un avión en la selva y así poder cobrar el seguro. Pero sus problemas empiezan cuando el avión se estrella de verdad y ellos se topan con una colonia de peligrosos mineros que extraen esmeraldas de contrabando.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/xZqxHHKuD3fttn3jdayk4Cu8Zd0.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vKTDuGkwPz92PD6FJryJKS9kbh8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bMErxgghlfektFxL7t6LbfNSp8U.png"
-    },
-    {
-      "id": "tmdb:402",
-      "type": "movie",
-      "name": "Instinto básico",
-      "ids": {
-        "tmdb": 402
-      },
-      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/7iUhPh6B5C4T1osYDzoUchjb3i4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
-    },
-    {
-      "id": "tmdb:22705",
-      "type": "movie",
-      "name": "Transgressing",
-      "ids": {
-        "tmdb": 22705
-      },
-      "overview": "Carla es una joven atractiva y despreocupada de Venecia, que va a Londres para buscar un piso que compartir con su amante Matteo. En Londres, Moira, una funcionaria del estado, seduce a Carla... y ella es cautivada... Carla decide no decir nada a Matteo, y comienza a mentirle. Matteo se pone muy celoso, se imagina aventuras eróticas de Carla y abandona su viaje a Londres. Tarde o temprano, Matteo realmente va a Londres donde se enfrenta a Carla... cuyas revelaciones le hacen despertar...",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/poa998sFasJX2XQtCTLiXvis6aE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/haqFVSBvaWR6ZfKKDHkpxp9eYbh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bWX37ZIsatTGVTGnIccjAjHyd0X.png"
-    },
-    {
-      "id": "tmdb:217250",
-      "type": "movie",
-      "name": "La primera dama",
-      "ids": {
-        "tmdb": 217250
-      },
-      "overview": "Biografía de Dolly Payne (Ginger Rogers), la esposa de James Madison, el cuarto Presidente de los Estados Unidos. A Dolly la cortejan dos líderes políticos: Madison (Burgess Meredith) y Aaron Burr (David Niven). Ella coquetea con los dos, llegando incluso a enfrentarlos, no sólo por motivos sentimentales, sino porque desea contribuir a la construcción del país. Tras ejercer su influencia sobre Burr, ayudará a Thomas Jefferson a llegar a la presidencia de Estados Unidos (1801-1809). Cuando Madison (1809-1817) gana las elecciones presidenciales se convierte en la Primera Dama.",
-      "year": 1946,
-      "poster": "https://image.tmdb.org/t/p/w342/gvBBh0yx0MZy8S42HGyUEiQ00dY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z6T4jZdvi9ZJohilWcojAahiCVs.jpg"
-    },
-    {
-      "id": "tmdb:21043",
-      "type": "movie",
-      "name": "El método",
-      "ids": {
-        "tmdb": 21043
-      },
-      "overview": "Siete aspirantes a un puesto ejecutivo se presentan a la prueba de selección de personal de una empresa multinacional, situada en un rascacielos de Madrid. Sus personalidades son de lo más dispar: el triunfador, el agresivo, la mujer insegura, el crítico, el indeciso. En un clima de tensa competitividad, el miedo y las dudas se irán apoderando de los participantes, que caen en un estado de paranoia tal que llegan a sospechar que están siendo observados por cámaras o que, entre ellos, puede haber un psicólogo infiltrado que ya los está evaluando. Esta atmósfera claustrofóbica pone de manifiesto la falta de escrúpulos de los aspirantes.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/uIxB03i67S2V3uBAk5KiaIM7Kj8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8J7IL5w28ZWUZY6080S1GSpvS7t.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/odQatnqJ8HoI2N2FeU5HQZkxd16.png"
-    },
-    {
-      "id": "tmdb:43011",
-      "type": "movie",
-      "name": "Sodoma y Gomorra",
-      "ids": {
-        "tmdb": 43011
-      },
-      "overview": "Lot, sobrino del patriarca Abraham, se traslada con su familia, sus criados y sus rebaños a vivir a Sodoma, una ciudad situada a la orilla del mar Muerto, próxima a Gomorra. Pronto Lot y su gente se contagian de los vicios que corrompen a los habitantes de la ciudad y, al matar al príncipe que ha ultrajado a sus hijas, es condenado a prisión. Allí, Dios le revela que va a destruir Gomorra.",
-      "year": 1962,
-      "poster": "https://image.tmdb.org/t/p/w342/2rpxb63C00h7RAreBIk4FjRvpKC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/BqwlThcwEv0WeT6hE51mfOt4Sl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gfCYqJIb8nvttiO9Hhmmd7Pk4vc.png"
-    },
-    {
-      "id": "tmdb:77451",
-      "type": "movie",
-      "name": "Las cosas del querer",
-      "ids": {
-        "tmdb": 77451
-      },
-      "overview": "Cuando acaba la Guerra Civil Española, un cantante homosexual (Manuel Bandera), un pianista (Ángel de Andrés López) y su novia (Ángela Molina) se unen para formar un grupo, que se hará famoso y cosechará éxitos por toda la geografía española. Su brillante trayectoria les llevará de nuevo a Madrid, donde llegarán sus peores momentos; la aristocracia de la capital, aburrida y en busca de fuertes emociones, no perdona y se lanza contra Mario por su condición de homosexual, mientras la madre de Pepita conspira para separarla de su novio pianista…",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/7k0fjD9deRAVBUvVXyMrpf7jDbh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cbiS8ApI5VqYXxgARk8aLaHOku3.jpg"
-    },
-    {
-      "id": "tmdb:136726",
-      "type": "movie",
-      "name": "La Celestina",
-      "ids": {
-        "tmdb": 136726
-      },
-      "overview": "El joven noble Calisto se enamora de Melibea, la hija de un rico comerciante. El sirviente de Calisto, Sempronio, le sugiere ir con la hechizera Celestina para conseguir su amor.. Sin embargo su otro sirviente, Parmeno, sospecha de Celestina porque conoce sus trucos. Luego de que Celestina convence a Melibea del amor de Calisto y arreglar una reunion clandestina entre ellos, Calisto le da a Celestina una cara cadena de oro. Ambos sirvientes no estan satisfechos con las mujeres enviadas por Celestina y le demandan mas, comenzando una dramatica secuencia de eventos.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/qUDbwyhC19V8OgZgzOF45DHyt1f.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zsS0FYL914us0FcXxCQQuDzcfOz.jpg"
-    },
-    {
-      "id": "tmdb:49890",
-      "type": "movie",
-      "name": "Los niños de San Judas",
-      "ids": {
-        "tmdb": 49890
-      },
-      "overview": "Irlanda, 1939. Al reformatorio católico de San Judas llega un nuevo profesor (Aidan Quinn) cuyos métodos chocan frontalmente con los del resto del profesorado, encabezado por el hermano John (Iain Glen), que no duda en tratar violentamente a los alumnos. Es la historia de un hombre que no duda en rebelarse y luchar contra el férreo régimen del reformatorio. Su vida es un dramático viaje, desde las destruidas calles del Madrid de la Guerra civil al limitado mundo de un reformatorio. Basada en hechos reales.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mr2580RRk2p4WhH8280m24PYUyv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5Ai3oOMhvLgRdBF7HbB2BC4fhf2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/28SVLyBQQXDdJMqrlW17SWZcR8d.png"
-    },
-    {
-      "id": "tmdb:432991",
-      "type": "movie",
-      "name": "Demonios tus ojos",
-      "ids": {
-        "tmdb": 432991
-      },
-      "overview": "Oliver (Julio Perillán), un joven director de cine asentado en Los Ángeles, descubre una noche en una web erótica que la protagonista de uno de los explícitos vídeos es su hermana pequeña, Aurora (Ivana Baquero). Sorprendido y confuso, decide viajar a Madrid, tras varios años sin visitar a su familia. Comienza así una búsqueda obsesiva de respuestas, un viaje íntimo hacia la turbación y la verdad de la imagen, una historia de dominación y manipulación, sobre los límites de la moral y la pérdida de la inocencia vital y audiovisual.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/sjnPtdzi2ACgC4uTjkEFQ8CeF4O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kpHaITlfUH3ygsBv5Tv41Hexiv3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aeifxnoFWdqzCSfPT8NKWNCjBAX.png"
-    },
-    {
-      "id": "tmdb:87906",
-      "type": "movie",
-      "name": "Tuareg",
-      "ids": {
-        "tmdb": 87906
-      },
-      "overview": "Adaptación de la novela homónima de Alberto Vázquez Figueroa. Gacel es el jefe de la última tribu tuareg. Para él, el desierto no tiene ningún secreto. Un día da asilo a un anciano y a su acompañante.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/bsAi8Fe2jQFpIVUatpXs80I1GIA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x3cvKynZ3gvmWsXQxO5gGN15eYZ.jpg"
-    },
-    {
-      "id": "tmdb:263472",
-      "type": "movie",
-      "name": "Toc, toc",
-      "ids": {
-        "tmdb": 263472
-      },
-      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
-    },
-    {
-      "id": "tmdb:41446",
-      "type": "movie",
-      "name": "Scream 4",
-      "ids": {
-        "tmdb": 41446
-      },
-      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iUTq54gSisd43xyX6LG9zUHeIE3.png"
-    },
-    {
-      "id": "tmdb:10851",
-      "type": "movie",
-      "name": "Revolver",
-      "ids": {
-        "tmdb": 10851
-      },
-      "overview": "Jake Green (Jason Statham) es un hábil jugador que tiene la mala suerte de desplumar a Dorothy Macha (Ray Liotta), un mafioso local. La jugada le saldrá cara, ya que Macha no parará hasta vengarse de él.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/gD60YicJodbPu5xBlTfEjXiTJyT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cG16olNZTg5JE9b59mAQYoVAOhr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Ibn9ytp0Oh6aYKS01AVyZB9X6r.png"
-    },
-    {
-      "id": "tmdb:44741",
-      "type": "movie",
-      "name": "Malicia",
-      "ids": {
-        "tmdb": 44741
-      },
-      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
-    },
-    {
       "id": "tmdb:145373",
       "type": "movie",
       "name": "Django: si quieres vivir, dispara",
@@ -495,34 +383,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7ewOFIdH4014vzYnEkksvjo7wp1.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jT32I04IePL4jj5aT9qijUJ89Cy.png"
-    },
-    {
-      "id": "tmdb:8286",
-      "type": "movie",
-      "name": "La mujer infiel",
-      "ids": {
-        "tmdb": 8286
-      },
-      "overview": "Cuando Charles Desvallées empieza a sospechar que su mujer lo está traicionando con otro hombre, contrata un detective privado para que la siga y averigüe quién es el amante. Una vez confirmada la infidelidad y descubierta la identidad de su rival, el celoso marido prepara su venganza...",
-      "year": 1969,
-      "poster": "https://image.tmdb.org/t/p/w342/iW6vKgCwl1aiWnMkqxOUFmBA8yA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1Q8AKdjbaHQUU8xk7CpXFSOXFn3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aA5W0YPUVbuuEaA8JGGTWeUgL8K.png"
-    },
-    {
-      "id": "tmdb:75900",
-      "type": "movie",
-      "name": "Mi semana con Marilyn",
-      "ids": {
-        "tmdb": 75900
-      },
-      "overview": "Londres, 1956. El genial actor y director de cine Laurence Olivier está a punto de comenzar el rodaje de su próxima película, estrenada en 1957 como «El príncipe y la corista», protagonizada por Marilyn Monroe. El joven Colin Clark, que sueña con hacer carrera en el mundo del cine, consigue un trabajo en el plató como tercer ayudante de dirección.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/oOdCpQa0sulVMsknNF22J52aRzi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qN0VzHMT0aYSrYbFf8GzFoLD5ty.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mlxMFYm1E5sxw87uo0Lew5VLY8c.png"
     },
     {
       "id": "tmdb:747",
@@ -539,20 +399,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/tcK2zgZTEjfllsKVETwOPLrjV2k.png"
     },
     {
-      "id": "tmdb:501630",
-      "type": "movie",
-      "name": "Mi mejor verano",
-      "ids": {
-        "tmdb": 501630
-      },
-      "overview": "Inspirada en hechos reales, la trama gira en torno a Jamie (Joey King), una chica de 16 años, y su familia, la cual se tambalea cuando su calculadora abuela desvela una serie de secretos en su lecho de muerte. Así, Jamie que ha comenzado su camino en el amor se ve inmersa en una crisis familiar que desembocará en un hecho inesperado.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xQOWevnfzEhAfn1vj5Dro9ahXWD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wcWQfmRq74L0J1Ef5fM8LRwBdUF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQK140juPPVFkfajO1YWPo72MVQ.png"
-    },
-    {
       "id": "tmdb:329065",
       "type": "movie",
       "name": "El rediezcubrimiento de México",
@@ -566,101 +412,18 @@
       "backdrop": "https://image.tmdb.org/t/p/original/dFZSoSCDp5nma6pl0iUlXUEPOBU.jpg"
     },
     {
-      "id": "tmdb:581387",
+      "id": "tmdb:12245",
       "type": "movie",
-      "name": "Alerta roja",
+      "name": "Los crímenes de Oxford",
       "ids": {
-        "tmdb": 581387
+        "tmdb": 12245
       },
-      "overview": "El volcán en la montaña Baekdu hace erupción repentinamente, causando varios terremotos tanto en Corea del Norte como en el Sur. El caos reina en la península de Corea cuando se predicen más erupciones. Para prevenir un desastre mayor, Jeon Yoo-kyung (Jeon Hye-jin) planea una operación basada en la teoría del profesor Kang Bong-rae (Ma Dong-seok), quien ha estudiado la montaña Baekdu y sus posibles erupciones. Jo In-chang (Ha Jung-woo) es el capitán del equipo de fuerzas especiales y es asignado a la operación que mantiene el destino de ambas Coreas en la balanza. Él contacta a Lee Joon-pyeong (Lee Byung-hun), un espía norcoreano para realizar la operación conjuntamente. Mientras, su esposa embarazada, Choi Ji-young (Bae Suzy), está sola en Seúl intentando sobrevivir en medio del desastre.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/A3BP44EvnJIIhyNVwPT0IpvNAoc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jpiw4h4VeSXlPjn6cLzSEeT6vDE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hFRsvlEMDiG1Wb6MJpIT8gigGey.png"
-    },
-    {
-      "id": "tmdb:39412",
-      "type": "movie",
-      "name": "Emmanuelle 3: Adiós Emmanuelle",
-      "ids": {
-        "tmdb": 39412
-      },
-      "overview": "Emmanuelle y su marido arquitecto continúan con su estilo de vida amoral en las Seychelles. Pero cuando un romance causal entre ella y un director de cine comienzan, su marido muestra signos muy tradicionales de los celos.",
-      "year": 1977,
-      "poster": "https://image.tmdb.org/t/p/w342/bnF3rXUwwtiRB2W83pqcXwOH848.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bl2ye7MJeBqGjSidhS32DzWSg24.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/24eXWcHlDvmC5WBivaOGioY3OQH.png"
-    },
-    {
-      "id": "tmdb:53932",
-      "type": "movie",
-      "name": "Las edades de Lulú",
-      "ids": {
-        "tmdb": 53932
-      },
-      "overview": "Adaptación de la novela homónima de Almudena Grandes. Lulú es una chica de quince años que sucumbe a los atractivos de Pablo, un amigo de la familia. Después de esta experiencia, Lulú alimenta durante mucho tiempo el deseo por ese hombre, que volverá a entrar en su vida años más tarde, prolongando así el juego amoroso de la niñez. Pablo crea para ella un mundo aparte, un universo privado donde el tiempo carece de valor. Pero pronto ese mundo idealizado se quebrará, cuando Lulú, con treinta años, se adentre en el universo de los deseos prohibidos.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/zwQrgqrMSqidARZrquEjQ10T8bX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AqYp8OychJTIS4N3ZsqJ3RnKBtu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e5jPFGqNe63pHGhcAaI0ECb3YVZ.png"
-    },
-    {
-      "id": "tmdb:4286",
-      "type": "movie",
-      "name": "El inocente",
-      "ids": {
-        "tmdb": 4286
-      },
-      "overview": "Tullio Hermil (Giancarlo Giannini) es un hombre culto y acomodado entregado a los placeres de la vida. Entre la honorable práctica de la esgrima, la lectura y el placer carnal con su amante Teresa Raffo (Jennifer O'Neill) mantiene a su esposa Juliana (Laura Antonelli) al margen de su vida. Juliana se debate entre el murmullo social y el reconocimiento de su marido. Totalmente rechazada encuentra en un joven escritor, Filippo d'Arborio (Marc Porel) el consuelo y queda embarazada. Esto despierta en Tullio, cuyo compromiso con Juliana es inexistente, los celos y la pasión carnal correspondida entonces por su mujer, que aún cree en su matrimonio, La esperanza de Julia en esta nueva pasión le crea sentimientos contradictorios. Tullio pretende eliminar todo rastro de la relación de su mujer pero finalmente el nacimiento del niño desencadena una tormenta de pasiones y sentimientos.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/603sb3nND0fR3TIQMa0B9zmdmVV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j1R4wGpgfgY219Z7cDDZQJOM6TI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hXh9EZkSHrmmMtIf5i8vcmVCuE2.png"
-    },
-    {
-      "id": "tmdb:8889",
-      "type": "movie",
-      "name": "La mujer del anarquista",
-      "ids": {
-        "tmdb": 8889
-      },
-      "overview": "Narra la historia de amor entre Manuela (María Valverde), una mujer apasionada y adelantada a su tiempo, y su marido Justo (Juan Diego Botto), abogado y líder anarquista. Es el final de la Guerra Civil Española, y Manuela espera el retorno de Justo, a quien quiere por encima de la revolución y sus ideales. En medio del infierno de la guerra, su amor por él es lo que la mantiene viva, y lo que le hará remover cielo y tierra hasta intentar encontrarlo.",
+      "overview": "Un joven americano que estudia en Oxford descubre el cuerpo sin vida de su casera, una mujer que en su juventud había formado parte del equipo que descifró el Código Enigma de la Segunda Guerra Mundial (1939-1945). Poco después, un profesor de lógica de la universidad recibe una nota en la que se advierte que ése es el primero de una serie de asesinatos. El estudiante y el profesor deciden investigar el caso, utilizando códigos matemáticos, para encontrar el patrón que sigue este asesino en serie. Basada en el libro \"Oxford Murders\" (Crímenes Imperceptibles), de Guillermo Martínez.",
       "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/sAbmd8MNFBQKu9zUpeRQskz0dG4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/yH5K4Xuk7jqBammH1djFuk0xTvg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/98Z1WTtxWDp5Yqpfi4DEannok4y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/10uf4aXCc6LTh3DcUUOu2PbyDHF.png"
-    },
-    {
-      "id": "tmdb:96581",
-      "type": "movie",
-      "name": "Makinavaja, el último choriso",
-      "ids": {
-        "tmdb": 96581
-      },
-      "overview": "Makinavaja y su amigo Popeye son dos delincuentes de los barrios bajos de Barcelona que día a día intentan salir adelante en un mundo lleno de injusticias.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/1sGYzCBjgRMOKefySoGlJeppp2n.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cb8CYYaLuNpxesQ3HJMidcbLSgt.jpg"
-    },
-    {
-      "id": "tmdb:51857",
-      "type": "movie",
-      "name": "Cría cuervos",
-      "ids": {
-        "tmdb": 51857
-      },
-      "overview": "Ana, una niña de ocho años que vive en Madrid con su abuela y sus dos hermanas, llora la muerte de su madre.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/kbe6KjerFbvXaQvLkwa8KCoUlDJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sc600L1efonWcAm1HDA6WMAAmn0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bWbIUF93zqtXjX4DlSoDVuahM1L.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nFL4UCgI3Trx4VxVcyFjtdNP444.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eJZmMJO2PMOz6Ou82YtNYGOQGJa.png"
     },
     {
       "id": "tmdb:62395",
@@ -675,6 +438,239 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/1EoZR0hGuuFIGlxcwChgS3qcCY6.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jTrDJJmfVWLou1mlIjbfXQfQgE4.png"
+    },
+    {
+      "id": "tmdb:1370",
+      "type": "movie",
+      "name": "Rambo III",
+      "ids": {
+        "tmdb": 1370
+      },
+      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rH3kVoa5d1ShIAsyPYBwmZQCccu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
+    },
+    {
+      "id": "tmdb:49890",
+      "type": "movie",
+      "name": "Los niños de San Judas",
+      "ids": {
+        "tmdb": 49890
+      },
+      "overview": "Irlanda, 1939. Al reformatorio católico de San Judas llega un nuevo profesor (Aidan Quinn) cuyos métodos chocan frontalmente con los del resto del profesorado, encabezado por el hermano John (Iain Glen), que no duda en tratar violentamente a los alumnos. Es la historia de un hombre que no duda en rebelarse y luchar contra el férreo régimen del reformatorio. Su vida es un dramático viaje, desde las destruidas calles del Madrid de la Guerra civil al limitado mundo de un reformatorio. Basada en hechos reales.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mr2580RRk2p4WhH8280m24PYUyv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5Ai3oOMhvLgRdBF7HbB2BC4fhf2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/28SVLyBQQXDdJMqrlW17SWZcR8d.png"
+    },
+    {
+      "id": "tmdb:158050",
+      "type": "movie",
+      "name": "Apache Kid",
+      "ids": {
+        "tmdb": 158050
+      },
+      "overview": "Apache Kid, una historia de amor, guerra, de sentimientos y de odio. Inspirado en una historia real, la de un joven irlandés criado por los apaches del Colorado. Después de la masacre de una caravana por una banda de forajidos, la única mujer que sobrevive, da a luz a un niño antes de morir, que es recogido por el jefe de los apaches y crece con su hijo Black Woolf (Lobo Negro). Al cabo de los años Apache Kid vuelve al mundo de sus padres, pero las experiencias que vive con los blancos son tan duras y miserables, que le hacen volver al pueblo indio, convirtiéndose en jefe y luchando heroicamente por su pueblo.",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/7Fc9OI1eczZXBeo3BZjW7TEx9fK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/69TmGXTjAscghwTBfywKYxn9qYo.jpg"
+    },
+    {
+      "id": "tmdb:501630",
+      "type": "movie",
+      "name": "Mi mejor verano",
+      "ids": {
+        "tmdb": 501630
+      },
+      "overview": "Inspirada en hechos reales, la trama gira en torno a Jamie (Joey King), una chica de 16 años, y su familia, la cual se tambalea cuando su calculadora abuela desvela una serie de secretos en su lecho de muerte. Así, Jamie que ha comenzado su camino en el amor se ve inmersa en una crisis familiar que desembocará en un hecho inesperado.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xQOWevnfzEhAfn1vj5Dro9ahXWD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wcWQfmRq74L0J1Ef5fM8LRwBdUF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQK140juPPVFkfajO1YWPo72MVQ.png"
+    },
+    {
+      "id": "tmdb:43011",
+      "type": "movie",
+      "name": "Sodoma y Gomorra",
+      "ids": {
+        "tmdb": 43011
+      },
+      "overview": "Lot, sobrino del patriarca Abraham, se traslada con su familia, sus criados y sus rebaños a vivir a Sodoma, una ciudad situada a la orilla del mar Muerto, próxima a Gomorra. Pronto Lot y su gente se contagian de los vicios que corrompen a los habitantes de la ciudad y, al matar al príncipe que ha ultrajado a sus hijas, es condenado a prisión. Allí, Dios le revela que va a destruir Gomorra.",
+      "year": 1962,
+      "poster": "https://image.tmdb.org/t/p/w342/2rpxb63C00h7RAreBIk4FjRvpKC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/BqwlThcwEv0WeT6hE51mfOt4Sl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gfCYqJIb8nvttiO9Hhmmd7Pk4vc.png"
+    },
+    {
+      "id": "tmdb:10851",
+      "type": "movie",
+      "name": "Revolver",
+      "ids": {
+        "tmdb": 10851
+      },
+      "overview": "Jake Green (Jason Statham) es un hábil jugador que tiene la mala suerte de desplumar a Dorothy Macha (Ray Liotta), un mafioso local. La jugada le saldrá cara, ya que Macha no parará hasta vengarse de él.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/gD60YicJodbPu5xBlTfEjXiTJyT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cG16olNZTg5JE9b59mAQYoVAOhr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Ibn9ytp0Oh6aYKS01AVyZB9X6r.png"
+    },
+    {
+      "id": "tmdb:8286",
+      "type": "movie",
+      "name": "La mujer infiel",
+      "ids": {
+        "tmdb": 8286
+      },
+      "overview": "Cuando Charles Desvallées empieza a sospechar que su mujer lo está traicionando con otro hombre, contrata un detective privado para que la siga y averigüe quién es el amante. Una vez confirmada la infidelidad y descubierta la identidad de su rival, el celoso marido prepara su venganza...",
+      "year": 1969,
+      "poster": "https://image.tmdb.org/t/p/w342/iW6vKgCwl1aiWnMkqxOUFmBA8yA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1Q8AKdjbaHQUU8xk7CpXFSOXFn3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aA5W0YPUVbuuEaA8JGGTWeUgL8K.png"
+    },
+    {
+      "id": "tmdb:95403",
+      "type": "movie",
+      "name": "Las 7 magnificas",
+      "ids": {
+        "tmdb": 95403
+      },
+      "overview": "En 1850, una caravana de colonos que pretende atravesar el desierto de Arizona para llegar a un territorio civilizado, es atacada por los indios. Siete mujeres sobreviven a la matanza y se esconden en una cueva. Pero el dilema que se les presenta es terrible: morir de hambre y sed o continuar su viaje, exponiéndose a nuevos ataques de los indios.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/617O5BrhVtTIWW5wzMORYQL1dcF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gOKXxM1tzRQTItoTwlsmMOxa31X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mGh9OHZHcvsNCvvOFwF5vsnThWJ.png"
+    },
+    {
+      "id": "tmdb:41446",
+      "type": "movie",
+      "name": "Scream 4",
+      "ids": {
+        "tmdb": 41446
+      },
+      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iUTq54gSisd43xyX6LG9zUHeIE3.png"
+    },
+    {
+      "id": "tmdb:80507",
+      "type": "movie",
+      "name": "¡Vaya par de gemelos!",
+      "ids": {
+        "tmdb": 80507
+      },
+      "overview": "Pedro y Lucas son dos hermanos que han seguido caminos muy distintos. Lucas está casado con Mariana, la propietaria de una pequeña tienda de comestibles, en la él que trabaja como mozo de carga. Pedro, aunque su mujer es muy tacaña, vive como un duque porque se ha inventado un hijo natural que vive en Madrid. Con el pretexto de mantenerlo consigue de su mujer todo el dinero que quiere.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/xWQ7t3LXXN7q8701mwebZKQGsoR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4IKuQ4Avz0maijXKWUEgQE52KcW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wtI2DgNwPmPrNx63OqQOFuKxZqQ.png"
+    },
+    {
+      "id": "tmdb:223418",
+      "type": "movie",
+      "name": "Oklahoma John",
+      "ids": {
+        "tmdb": 223418
+      },
+      "overview": "Edward, un poderoso ranchero, ejerce como un auténtico cacique sobre un pueblo cercano a la frontera mejicana. La llegada de Oklahoma Jones, nuevo sheriff, no es de su agrado. El nuevo representante de la ley hace frente a Jimmy, el hijo del cacique y a su compinche.",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w342/6vIA2Vmxo5veYP8GlYslVikN4KT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iIDexScNATjyFeKjIVTicyUQPa4.jpg"
+    },
+    {
+      "id": "tmdb:22705",
+      "type": "movie",
+      "name": "Transgressing",
+      "ids": {
+        "tmdb": 22705
+      },
+      "overview": "Carla es una joven atractiva y despreocupada de Venecia, que va a Londres para buscar un piso que compartir con su amante Matteo. En Londres, Moira, una funcionaria del estado, seduce a Carla... y ella es cautivada... Carla decide no decir nada a Matteo, y comienza a mentirle. Matteo se pone muy celoso, se imagina aventuras eróticas de Carla y abandona su viaje a Londres. Tarde o temprano, Matteo realmente va a Londres donde se enfrenta a Carla... cuyas revelaciones le hacen despertar...",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/poa998sFasJX2XQtCTLiXvis6aE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/haqFVSBvaWR6ZfKKDHkpxp9eYbh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bWX37ZIsatTGVTGnIccjAjHyd0X.png"
+    },
+    {
+      "id": "tmdb:44741",
+      "type": "movie",
+      "name": "Malicia",
+      "ids": {
+        "tmdb": 44741
+      },
+      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
+    },
+    {
+      "id": "tmdb:402",
+      "type": "movie",
+      "name": "Instinto básico",
+      "ids": {
+        "tmdb": 402
+      },
+      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/7iUhPh6B5C4T1osYDzoUchjb3i4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
+    },
+    {
+      "id": "tmdb:276943",
+      "type": "movie",
+      "name": "Marta y alrededores",
+      "ids": {
+        "tmdb": 276943
+      },
+      "overview": "Marta y sus amigos treintañeros se reúnen en casa de Julio para ayudarle a pintarla. Los amigos hablan de los temas que les preocupan, sintiéndose en el final de la juventud. Aparece la nostalgia, recordando tiempos pasados sin preocupaciones y sin responsabilidades. Es inevitable que algo de pesimismo inunde el ambiente. Salen a relucir problemas, temores y algunas expectativas de futuro.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/h5S0iS1qGQoEcZCcZGaflOSWGSU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tGkLriGRMDGqT3CKZks3RFhC2Fs.jpg"
+    },
+    {
+      "id": "tmdb:89297",
+      "type": "movie",
+      "name": "El portero",
+      "ids": {
+        "tmdb": 89297
+      },
+      "overview": "Ramiro Forteza es un portero de Primera División a quien la Guerra Civil y los rigores de la posguerra han obligado a ganarse la vida por los pueblos, desafiando a los lugareños a que le marquen goles de penalti. Una noche, llega a un pueblo asturiano y conoce a Manuela, una joven viuda con un hijo, que sobrevive cosiendo para Úrsula, la esposa de Andrade, el sargento de la Guardia Civil. Pero las exhibiciones de Forteza y su relación con Manuela atraen la atención del sargento Andrade, que le hará una propuesta relacionada con los maquis que implicará al portero en el conflicto entre los dos bandos.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/gadm0a5z6p5JySNUbSG0jrM2u1J.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:263472",
+      "type": "movie",
+      "name": "Toc, toc",
+      "ids": {
+        "tmdb": 263472
+      },
+      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
     },
     {
       "id": "tmdb:4012",
