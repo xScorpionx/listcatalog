@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1595481",
+      "type": "movie",
+      "name": "Secuestros: Elizabeth Smart",
+      "ids": {
+        "tmdb": 1595481
+      },
+      "overview": "Este documental relata el desgarrador secuestro de Elizabeth Smart a los 14 años de su casa en Utah a través de sus propias palabras y de material hasta ahora inédito.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gBVup7f8OA604vT1x83l75C4EOC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pC5vg4ZUAzw410WQ5qofKdJ2uN8.png"
+    },
+    {
       "id": "tmdb:1306368",
       "type": "movie",
       "name": "El botín",
@@ -26,7 +40,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/kepiMVDrjSvNM9afWewWxlWXXK6.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/iKFZFt8Z3RIwQHrIkmzULdKlYIi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/og1ZX0KkZyCpzUwy3mps1blEORV.png"
+      "logo": "https://image.tmdb.org/t/p/w500/X1V5XDl4nWmkO8pbHiNBP2tbn.png"
     },
     {
       "id": "tmdb:1610413",
@@ -671,20 +685,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oH6Pan7upyAPY8sGSJ1WmYmTcuL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jvYXTpk05OnwdScNOglYwvXZB9P.png"
-    },
-    {
-      "id": "tmdb:1564346",
-      "type": "movie",
-      "name": "El caso Eloá: Un secuestro en directo",
-      "ids": {
-        "tmdb": 1564346
-      },
-      "overview": "El caso de una adolescente secuestrada por su exnovio en uno de los secuestros más impactantes de todo Brasil.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/rgJOFaaZaAKTRQwZBUeLF6jY9qQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/190eSIqQgXLg9gbr9EjulBV7rR6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1E2mA05llGPqTHbUw1efRScK4Hp.png"
     }
   ]
 }
