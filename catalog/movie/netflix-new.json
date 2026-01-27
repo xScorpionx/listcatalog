@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1599090",
+      "type": "movie",
+      "name": "Rascacielos en vivo",
+      "ids": {
+        "tmdb": 1599090
+      },
+      "overview": "Sin cuerdas. Sin miedo. El legendario escalador en solitario Alex Honnold lo arriesga todo en un ascenso en vivo por uno de los rascacielos más altos del mundo en Taipéi, Taiwán.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/rXFbddDZvUcg2y5LSP24C7KCzW4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b8n6P1mxH9oA91YodDrjoScAvuD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xMpZ2JpqqUpf9BN3U7VWOjIyxzc.png"
+    },
+    {
       "id": "tmdb:1443762",
       "type": "movie",
       "name": "El falsificador",
@@ -550,7 +564,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/s6N5CSXd9KL9npreIeOqVDzYVmb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6MX31AmTCD7zsyBQlOLE3CGlWgZ.png"
+      "logo": "https://image.tmdb.org/t/p/w500/mVAPQB033NXoB7yVyAlQHRalN56.png"
     },
     {
       "id": "tmdb:1074048",
@@ -675,20 +689,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/lOxrMeq9dVN3YF6zmpgF3alfFGu.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lNAOnmoEFG1cavz3eo4eFmFHsW3.jpg"
-    },
-    {
-      "id": "tmdb:1363282",
-      "type": "movie",
-      "name": "El misterio de la familia Carman",
-      "ids": {
-        "tmdb": 1363282
-      },
-      "overview": "En este documental, el dramático rescate de un joven en el mar desemboca en acusaciones de haber asesinado a dos miembros de su adinerada familia de Nueva Inglaterra.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/kehV1PgXItaiPJS9o3YZPIVJcPT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yk1MkS1o07N3DiB73Y5B7NI51d4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ua5vZz3uKLCUZUWWNB0vaFCdBpf.png"
     }
   ]
 }
