@@ -54,7 +54,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/4Yo1Yxj9uXxTeXBJPDAIU2SRy7Z.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/sspQooyeMMkDfRzVzi6YrSRuJkQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A9S8mk45IKWVND45fjWmHtJPwFf.png"
+      "logo": "https://image.tmdb.org/t/p/w500/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png"
     },
     {
       "id": "tmdb:1408",
@@ -169,20 +169,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
-    },
-    {
       "id": "tmdb:2316",
       "type": "series",
       "name": "The Office",
@@ -195,6 +181,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+    },
+    {
+      "id": "tmdb:60622",
+      "type": "series",
+      "name": "Fargo",
+      "ids": {
+        "tmdb": 60622
+      },
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
     },
     {
       "id": "tmdb:209867",
@@ -281,20 +281,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
     },
     {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
       "id": "tmdb:73586",
       "type": "series",
       "name": "Yellowstone",
@@ -321,6 +307,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:57532",
@@ -379,18 +379,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/b4ZhunEpCI8NsPP4UeUs3spN6U.svg"
     },
     {
-      "id": "tmdb:1400",
+      "id": "tmdb:4656",
       "type": "series",
-      "name": "Seinfeld",
+      "name": "Raw",
       "ids": {
-        "tmdb": 1400
+        "tmdb": 4656
       },
-      "overview": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio. Batió todos los récords de audiencia que se pusieron por delante, y aún hoy en día sus reposiciones siguen contando con innumerables seguidores, no en vano \"Seinfeld\" es una verdadera leyenda de la televisión americana. \"Media hora acerca de nada\", así definió Jerry Seinfeld su teleserie cuando la presentó a los ejecutivos de la NBC, a comienzos de 1990. Contra todo pronóstico, ellos aceptaron. No en vano Seinfeld era ya por entonces uno de los cómicos más populares de Estados Unidos. ¿Su secreto? Sacar punta a las rutinas de cada día hasta convertirlas en reflexiones filosóficas dignas de figurar en un tratado sobre las grandezas y las miserias humanas.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kR3rCBnJsq99siYlWhtLxG7XVpH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5vkwGaERx7T3osv9yuzllFODMZM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
       "id": "tmdb:259731",
@@ -407,20 +407,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1YGM6ZGUtrIuPigPqDOioZZVaOZ.png"
     },
     {
-      "id": "tmdb:4656",
-      "type": "series",
-      "name": "Raw",
-      "ids": {
-        "tmdb": 4656
-      },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
-    },
-    {
       "id": "tmdb:60625",
       "type": "series",
       "name": "Rick y Morty",
@@ -433,6 +419,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+    },
+    {
+      "id": "tmdb:1400",
+      "type": "series",
+      "name": "Seinfeld",
+      "ids": {
+        "tmdb": 1400
+      },
+      "overview": "El cómico Jerry Seinfeld y sus excéntricos amigos (Constanza, Kramer y Elaine) viven en Nueva York y les pasan innumerables peripecias en esta genial comedia de situación donde la menor excusa sirve para regalarnos un delirante episodio. Batió todos los récords de audiencia que se pusieron por delante, y aún hoy en día sus reposiciones siguen contando con innumerables seguidores, no en vano \"Seinfeld\" es una verdadera leyenda de la televisión americana. \"Media hora acerca de nada\", así definió Jerry Seinfeld su teleserie cuando la presentó a los ejecutivos de la NBC, a comienzos de 1990. Contra todo pronóstico, ellos aceptaron. No en vano Seinfeld era ya por entonces uno de los cómicos más populares de Estados Unidos. ¿Su secreto? Sacar punta a las rutinas de cada día hasta convertirlas en reflexiones filosóficas dignas de figurar en un tratado sobre las grandezas y las miserias humanas.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kR3rCBnJsq99siYlWhtLxG7XVpH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5vkwGaERx7T3osv9yuzllFODMZM.png"
+    },
+    {
+      "id": "tmdb:60059",
+      "type": "series",
+      "name": "Better Call Saul",
+      "ids": {
+        "tmdb": 60059
+      },
+      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
     },
     {
       "id": "tmdb:71912",
@@ -463,34 +477,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
     },
     {
-      "id": "tmdb:60059",
-      "type": "series",
-      "name": "Better Call Saul",
-      "ids": {
-        "tmdb": 60059
-      },
-      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
-    },
-    {
-      "id": "tmdb:120089",
-      "type": "series",
-      "name": "SPY x FAMILY",
-      "ids": {
-        "tmdb": 120089
-      },
-      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hbZ7fVgxEg50plxtQHpVyXAppCq.png"
-    },
-    {
       "id": "tmdb:15226",
       "type": "series",
       "name": "C.I.D",
@@ -519,6 +505,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/2SFOnw4Tmw84Obmf6I1cv46300W.png"
     },
     {
+      "id": "tmdb:308482",
+      "type": "series",
+      "name": "Taskaree: La red del contrabando",
+      "ids": {
+        "tmdb": 308482
+      },
+      "overview": "Un agente de aduanas y su equipo se enfrentan a un famoso contrabandista que dirige una poderosa organización criminal, pero una serie de obstáculos inesperados amenazan su misión.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/4ZTtFT94oCwC09yt8vQ1mEFwEeV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5WOikKpCZ5H0zEzVDeE6eJwA8BH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/crVdvsVBeNKBNGqKNG6lUxxdFGw.png"
+    },
+    {
       "id": "tmdb:71728",
       "type": "series",
       "name": "El joven Sheldon",
@@ -533,18 +533,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
-      "id": "tmdb:308482",
+      "id": "tmdb:120089",
       "type": "series",
-      "name": "Taskaree: La red del contrabando",
+      "name": "SPY x FAMILY",
       "ids": {
-        "tmdb": 308482
+        "tmdb": 120089
       },
-      "overview": "Un agente de aduanas y su equipo se enfrentan a un famoso contrabandista que dirige una poderosa organización criminal, pero una serie de obstáculos inesperados amenazan su misión.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/4ZTtFT94oCwC09yt8vQ1mEFwEeV.jpg",
+      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5WOikKpCZ5H0zEzVDeE6eJwA8BH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/crVdvsVBeNKBNGqKNG6lUxxdFGw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hbZ7fVgxEg50plxtQHpVyXAppCq.png"
     },
     {
       "id": "tmdb:80240",
@@ -589,60 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fiGleG2W4ZFZPHWECbqOtQsi5Vg.png"
     },
     {
-      "id": "tmdb:12225",
+      "id": "tmdb:119051",
       "type": "series",
-      "name": "Peppa Pig",
+      "name": "Miércoles",
       "ids": {
-        "tmdb": 12225
+        "tmdb": 119051
       },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "overview": "Miércoles Addams, lista, sarcástica y un poco muerta por dentro, investiga misterios retorcidos mientras hace amigos —y enemigos— en la Academia Nunca Más.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/bNKwoYqkCXfIhhr5Jz8slrsw32r.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:4586",
-      "type": "series",
-      "name": "Las chicas Gilmore",
-      "ids": {
-        "tmdb": 4586
-      },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
-    },
-    {
-      "id": "tmdb:220150",
-      "type": "series",
-      "name": "Horizontes Pokémon",
-      "ids": {
-        "tmdb": 220150
-      },
-      "overview": "¡Acompaña a Liko y Rod en sus increíbles aventuras mientras desvelan los misterios que les rodean y conocen a Friede, Capitán Pikachu y Amethio, entre otros!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2RwGhjr0KLTdgQMxGikB5Omfkb3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w1gCEpUvhQiWBEJqASQvgBnvbK0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
-    },
-    {
-      "id": "tmdb:281401",
-      "type": "series",
-      "name": "Bailando sobre hielo",
-      "ids": {
-        "tmdb": 281401
-      },
-      "overview": "Una exbailarina sobre hielo vuelve a la pista con un nuevo y emocionante compañero mientras aún siente algo por su antigua pareja: su primer amor.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eaW3LlrEekMpcIA7KYzta0wnCZ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ohoPwJsSxmbotGEfkLo8CuBcs4N.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zChTpZTxgxcAibXi0I2pEusRQCl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zxyB1cF3R8vUyB8bh5LNzqhSnUU.png"
     },
     {
       "id": "tmdb:46298",
@@ -659,6 +617,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
     },
     {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
+      "id": "tmdb:281401",
+      "type": "series",
+      "name": "Bailando sobre hielo",
+      "ids": {
+        "tmdb": 281401
+      },
+      "overview": "Una exbailarina sobre hielo vuelve a la pista con un nuevo y emocionante compañero mientras aún siente algo por su antigua pareja: su primer amor.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eaW3LlrEekMpcIA7KYzta0wnCZ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ohoPwJsSxmbotGEfkLo8CuBcs4N.png"
+    },
+    {
       "id": "tmdb:74016",
       "type": "series",
       "name": "The Resident",
@@ -673,18 +659,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
     },
     {
-      "id": "tmdb:229891",
+      "id": "tmdb:12225",
       "type": "series",
-      "name": "¿Cómo se traduce este amor?",
+      "name": "Peppa Pig",
       "ids": {
-        "tmdb": 229891
+        "tmdb": 12225
       },
-      "overview": "Una artista y su intérprete viajan por varios países grabando un programa mientras sus emociones se desvanecen entre subtítulos invisibles. ¿Logrará el amor hacerse entender?",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kn4RmKUMA1C7oBU9JOesEz6ZXG9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/myyJ5871XfTpX7qlprZjm00pjsU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+    },
+    {
+      "id": "tmdb:220150",
+      "type": "series",
+      "name": "Horizontes Pokémon",
+      "ids": {
+        "tmdb": 220150
+      },
+      "overview": "¡Acompaña a Liko y Rod en sus increíbles aventuras mientras desvelan los misterios que les rodean y conocen a Friede, Capitán Pikachu y Amethio, entre otros!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2RwGhjr0KLTdgQMxGikB5Omfkb3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w1gCEpUvhQiWBEJqASQvgBnvbK0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p9D5HAq90bV1wVMRt1FoBEhMia7.png"
     },
     {
       "id": "tmdb:48891",

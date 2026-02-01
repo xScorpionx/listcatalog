@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1613335",
+      "type": "movie",
+      "name": "Milagro olímpico: El equipo de hockey sobre hielo de 1980",
+      "ids": {
+        "tmdb": 1613335
+      },
+      "overview": "En las Olimpiadas de 1980, un equipo de hockey logra una hazaña heroica e inesperada. A través de material inédito y entrevistas, este documental narra el icónico triunfo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/8OJwUijlkq2fJDrHsB97T7Sf0Wh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hGhxY1jdrgA1AzeHK79iJgPRMaf.jpg"
+    },
+    {
       "id": "tmdb:1602705",
       "type": "movie",
       "name": "Una carta a mi juventud",
@@ -24,7 +37,8 @@
       "overview": "Comedian Udom Taephanich shares candid stories from his chaotic life, from superstition and dark rituals to his time in Korea.",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/FEnl9oWLFmkBe0H5hNzYCENCy6.jpg",
-      "posterShape": "poster"
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4qTFzhQNJAXfPHTgLZYo26ejyLo.jpg"
     },
     {
       "id": "tmdb:1599087",
@@ -232,6 +246,20 @@
       "poster": "https://image.tmdb.org/t/p/w342/xIaurEQj8ACjqvX0paGlSfWV20c.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cA0zbeQddfzEp2tUsh9K3MRFXI9.jpg"
+    },
+    {
+      "id": "tmdb:1448170",
+      "type": "movie",
+      "name": "ఛాంపియన్",
+      "ids": {
+        "tmdb": 1448170
+      },
+      "overview": "An aspiring football star desperately seeks a way to travel to England to play for a famous team, but his journey leads him to a village waging a bloody conflict.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mC8s4ZUt1bTAL3OAlZGSSEs3Ieo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lpi4D78RsCA0cZoDr5U2q6ZvBTb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wSoIwB9ySiWHjw295dlAsidiNyj.png"
     },
     {
       "id": "tmdb:1588965",
@@ -659,34 +687,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7dZmYichfKoi29z745DvvEtWbDl.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/z33KAMGchnjQ5Y3luREkSI2ntE2.png"
-    },
-    {
-      "id": "tmdb:1070186",
-      "type": "movie",
-      "name": "എക്കോ",
-      "ids": {
-        "tmdb": 1070186
-      },
-      "overview": "In the misty hills of Kaattukunnu, an aging woman and her servant boy struggle to survive the ghosts of the past, as the hunt for Kuriachan — a legendary dog breeder and outlaw — blurs the line between myth, memory, and vengeance, revealing that even in absence, he still rules the hills.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1NegG8bZRn3Fc1wluAbMeR19rym.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LJA5wR99CvpT1a0QFFdOMO7Hh6.png"
-    },
-    {
-      "id": "tmdb:1585058",
-      "type": "movie",
-      "name": "A comer con los Kapoor",
-      "ids": {
-        "tmdb": 1585058
-      },
-      "overview": "Este especial permite conocer de una forma única a los Kapoor, la primera familia del cine hindi, a través de una tarde de conversación, nostalgia y delicias caseras.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/pdgk3I0JOnU4YZmhGfWtf2Ln5XY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/exq4Twtx4bEVaDb2BE3xhYXNAdx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/moRzEzJD4kxyLCIdggZJ0zsw3il.png"
     }
   ]
 }
