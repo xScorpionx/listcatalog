@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:312795",
+      "type": "series",
+      "name": "ESTA DUPLICADA",
+      "ids": {
+        "tmdb": 312795
+      },
+      "overview": "Una epidemia de insomnio sume a Estocolmo en el caos. Christian, el ministro de Sanidad, se encuentra sumido en problemas políticos y personales cuando descubre que la fuerza siniestra se propaga por la ciudad, provocando un caos devastador.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/qdloAjbyKdQvnG4lukT35bKgFlv.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:309400",
       "type": "series",
       "name": "Wake",
@@ -667,20 +679,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/80vPZUO21yYohgbfXVY9MWfKqRB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bFOO17c2LkeKHLS6H5vX1Cv3G31.png"
-    },
-    {
-      "id": "tmdb:247662",
-      "type": "series",
-      "name": "Hotel Costiera",
-      "ids": {
-        "tmdb": 247662
-      },
-      "overview": "El exmarine Daniel De Luca regresa a Italia, la tierra de su infancia, y se dedica a resolver problemas en uno de los hoteles más lujosos del mundo, situado en la espectacular costa de Positano.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3mCp14plnJZNhl71Syu2OK1b8Ga.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWDxgO9ookDkqfxQiW5Z0r9kPYa.png"
     }
   ]
 }
