@@ -57,6 +57,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mZX5gaq3zLWw8aqy4nNoViyXAtM.png"
     },
     {
+      "id": "tmdb:30983",
+      "type": "series",
+      "name": "Detective Conan",
+      "ids": {
+        "tmdb": 30983
+      },
+      "overview": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan...",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/bN5aLS0MfaVI7hNcluC8Y9pfwQ0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kbxIwkmVfkDvL4mq2V7WbyZAVFy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mliYec9AVYK8Mv1R9c5vldVJSdO.png"
+    },
+    {
       "id": "tmdb:46260",
       "type": "series",
       "name": "Naruto",
@@ -69,20 +83,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
-    },
-    {
-      "id": "tmdb:220542",
-      "type": "series",
-      "name": "Los diarios de la boticaria",
-      "ids": {
-        "tmdb": 220542
-      },
-      "overview": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oJKTo78TqipTWZEhqNPbB3KlbWG.png"
     },
     {
       "id": "tmdb:46298",
@@ -99,18 +99,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/g0xsPFayB2vXiRubeTe4T5PT8GZ.png"
     },
     {
-      "id": "tmdb:30983",
+      "id": "tmdb:65942",
       "type": "series",
-      "name": "Detective Conan",
+      "name": "Re:Zero - Empezar de cero en un mundo diferente",
       "ids": {
-        "tmdb": 30983
+        "tmdb": 65942
       },
-      "overview": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y es envenenado. Sin embargo, el veneno no lo mata, sino que por accidente, lo encoge y lo convierte en un niño de apenas 6 años. Atrapado en este cuerpo, Shinichi, bajo el seudónimo de Conan Edogawa, deberá resolver los casos más difíciles mientras intenta encontrar un antídoto que lo devuelva a la normalidad y hacer lo posible para que su amiga, Ran Mouri, no sospeche quién es realmente el sabiondo Conan...",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/bN5aLS0MfaVI7hNcluC8Y9pfwQ0.jpg",
+      "overview": "Subaru Natsuki es un estudiante corriente de preparatoria que conoce a una hermosa chica de pelo plateado de otro mundo que lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Subaru no quiere que la chica resulte herida, con lo que jura acabar con cualquier enemigo, con cualquier destino que le aguarde, siempre por protegerla.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kbxIwkmVfkDvL4mq2V7WbyZAVFy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mliYec9AVYK8Mv1R9c5vldVJSdO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1ybC4eQa3ESK9D1uRIy7inoS43l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bbMoSaLgiV7uSwlfrYSFsOcS18j.png"
+    },
+    {
+      "id": "tmdb:220542",
+      "type": "series",
+      "name": "Los diarios de la boticaria",
+      "ids": {
+        "tmdb": 220542
+      },
+      "overview": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/bYPACmBf5Nomw3I2IEGGTNwgvWj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lgI2UIRCFTq99dpSl8VhWGHqrWV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oJKTo78TqipTWZEhqNPbB3KlbWG.png"
     },
     {
       "id": "tmdb:127532",
@@ -127,18 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/soogvWTvbW2YVpZwUz0SgPBKiVa.png"
     },
     {
-      "id": "tmdb:65942",
+      "id": "tmdb:98123",
       "type": "series",
-      "name": "Re:Zero - Empezar de cero en un mundo diferente",
+      "name": "The Daily Life of the Immortal King",
       "ids": {
-        "tmdb": 65942
+        "tmdb": 98123
       },
-      "overview": "Subaru Natsuki es un estudiante corriente de preparatoria que conoce a una hermosa chica de pelo plateado de otro mundo que lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Subaru no quiere que la chica resulte herida, con lo que jura acabar con cualquier enemigo, con cualquier destino que le aguarde, siempre por protegerla.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+      "overview": "Wang Ling ha desarrollado habilidades increíbles desde una edad temprana. Sin embargo, para llevar una vida ordinaria, decide limitar sus poderes en un talismán. Desafortunadamente, su tranquilidad se ve amenazada cuando tiene que participar en una competencia cuando ingresa a la escuela secundaria.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/jDXRZNFqR3IZ3J35Bi2kbCYozxe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1ybC4eQa3ESK9D1uRIy7inoS43l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bbMoSaLgiV7uSwlfrYSFsOcS18j.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1BwooKLb3YStqLKThacUX9l8K5e.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cm6vMurCOSNHUGsvA9VEje4tMC1.png"
     },
     {
       "id": "tmdb:45790",
@@ -153,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/iZwAxspYlszZBBBGHu05EvUZNem.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kNtCppfedimcdRw5sGUK8eFjhsi.png"
+    },
+    {
+      "id": "tmdb:31910",
+      "type": "series",
+      "name": "Naruto Shippuden",
+      "ids": {
+        "tmdb": 31910
+      },
+      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
     },
     {
       "id": "tmdb:45247",
@@ -183,34 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/8hKunCjzL8jfiturHHZfRPfdaLA.png"
     },
     {
-      "id": "tmdb:31910",
-      "type": "series",
-      "name": "Naruto Shippuden",
-      "ids": {
-        "tmdb": 31910
-      },
-      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
-    },
-    {
-      "id": "tmdb:98123",
-      "type": "series",
-      "name": "The Daily Life of the Immortal King",
-      "ids": {
-        "tmdb": 98123
-      },
-      "overview": "Wang Ling ha desarrollado habilidades increíbles desde una edad temprana. Sin embargo, para llevar una vida ordinaria, decide limitar sus poderes en un talismán. Desafortunadamente, su tranquilidad se ve amenazada cuando tiene que participar en una competencia cuando ingresa a la escuela secundaria.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/jDXRZNFqR3IZ3J35Bi2kbCYozxe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1BwooKLb3YStqLKThacUX9l8K5e.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cm6vMurCOSNHUGsvA9VEje4tMC1.png"
-    },
-    {
       "id": "tmdb:65931",
       "type": "series",
       "name": "Bungou Stray Dogs",
@@ -223,6 +223,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uNspfOv7QaTyRh0bwB4K6719XfN.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8eAseEGBalNf4x7EazLoyuGrr9P.png"
+    },
+    {
+      "id": "tmdb:63926",
+      "type": "series",
+      "name": "One Punch Man",
+      "ids": {
+        "tmdb": 63926
+      },
+      "overview": "La historia tiene lugar en una de las metrópolis ficticias de la Tierra, la Ciudad Z en Japón. El mundo está lleno de extraños monstruos que misteriosamente aparecen y causan muchos desastres. Saitama, el protagonista, es un poderoso superhéroe que derrota fácilmente a los monstruos u otros villanos con un único golpe. Debido a esto, Saitama ha encontrado aburrida su fuerza y siempre está tratando de encontrar rivales más poderosos que le puedan igualar.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/xY3E9JNLwwQvkNk4TcvvAu9pAOe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s4c20xXgSDjbYAcpKchuWRU3zuR.png"
     },
     {
       "id": "tmdb:45782",
@@ -253,20 +267,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/s0HuOCcFghgVrwo6c8LXe0PhvHG.png"
     },
     {
-      "id": "tmdb:63926",
-      "type": "series",
-      "name": "One Punch Man",
-      "ids": {
-        "tmdb": 63926
-      },
-      "overview": "La historia tiene lugar en una de las metrópolis ficticias de la Tierra, la Ciudad Z en Japón. El mundo está lleno de extraños monstruos que misteriosamente aparecen y causan muchos desastres. Saitama, el protagonista, es un poderoso superhéroe que derrota fácilmente a los monstruos u otros villanos con un único golpe. Debido a esto, Saitama ha encontrado aburrida su fuerza y siempre está tratando de encontrar rivales más poderosos que le puedan igualar.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/xY3E9JNLwwQvkNk4TcvvAu9pAOe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t9futsXE3RhY9ielKHjA6oDAhrL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/s4c20xXgSDjbYAcpKchuWRU3zuR.png"
-    },
-    {
       "id": "tmdb:73833",
       "type": "series",
       "name": "The Ancient Magus' Bride (Mahou Tsukai no Yome)",
@@ -279,34 +279,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6RsvEFTSKUgjfG8vI299qrycZY4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/s6wIb5zul4md6vfJdR4bEHP5abu.png"
-    },
-    {
-      "id": "tmdb:60863",
-      "type": "series",
-      "name": "Haikyuu!! Los ases del vóley",
-      "ids": {
-        "tmdb": 60863
-      },
-      "overview": "Un hecho fortuito desencadena el amor de Shouyou Hinata por el voleibol. Su club no tenía ningún miembro, pero de algún modo perseveró y finalmente realizó su primer y último partido regular de la escuela secundaria, donde fue aniquilado por Tobio Kageyama, un jugador superestrella conocido como \"Rey de la Corte.\" ¡Jurando venganza, Hinata ingresa en el club de voleibol Karasuno, de secundaria alta, solo para volver a encontrarse cara a cara con su odiado rival, Kageyama!",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dYzln2iDCMEfUNTJKmRa6rrPxiQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wyL5cbJw5hosM9D7c7z5cWAeThC.png"
-    },
-    {
-      "id": "tmdb:69500",
-      "type": "series",
-      "name": "Natsume Yujin-cho",
-      "ids": {
-        "tmdb": 69500
-      },
-      "overview": "Natsume es un chico que ha tenido una vida difícil desde pequeño, puesto que puede ver espíritus llamados Youkai, un buen día algunos de esos espíritus empiezan a atacarle pidiéndole \"El Libro de los Amigos\" éste libro, es un diario que le dejó su abuela Reiko que también podía ver los espíritus perfectamente. Ésta fue quien encerró el nombre de muchos de los Youkai, impidiendo así que pudiesen ser libres. Natsume, junto con su amigo y guardaespaldas, decidirá ayudar a los Youkai y liberarlos devolviéndoles su nombre.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/4IAX5fgsyj9SnV2sqEh5JfuOvUo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ejxQidcVJwgjzHUYcg09c3WiXvw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5yXuwShhyHfEc5u3YTgjDIDIw6V.png"
     },
     {
       "id": "tmdb:83121",
@@ -323,6 +295,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png"
     },
     {
+      "id": "tmdb:223911",
+      "type": "series",
+      "name": "Renegade Immortal",
+      "ids": {
+        "tmdb": 223911
+      },
+      "overview": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de la familia. A pesar de su bajo potencial de cultivo, Wang Lin intentará convertirse en un inmortal para enorgullecer a sus padres.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/6AVM12M6UunFmX0bSmP2o4N5Bnt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/abFaM9zZfz9DFhD8trRnvHtjSLm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7UbWiDZEToMYMBH1X4wei0zCeIo.png"
+    },
+    {
       "id": "tmdb:203737",
       "type": "series",
       "name": "Oshi no Ko",
@@ -335,6 +321,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/9IGVU3v1rVXz66fZQlN7pw4HBDr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lxzrNYYgM51CtUAeXWzF5OMxiCF.png"
+    },
+    {
+      "id": "tmdb:69500",
+      "type": "series",
+      "name": "Natsume Yujin-cho",
+      "ids": {
+        "tmdb": 69500
+      },
+      "overview": "Natsume es un chico que ha tenido una vida difícil desde pequeño, puesto que puede ver espíritus llamados Youkai, un buen día algunos de esos espíritus empiezan a atacarle pidiéndole \"El Libro de los Amigos\" éste libro, es un diario que le dejó su abuela Reiko que también podía ver los espíritus perfectamente. Ésta fue quien encerró el nombre de muchos de los Youkai, impidiendo así que pudiesen ser libres. Natsume, junto con su amigo y guardaespaldas, decidirá ayudar a los Youkai y liberarlos devolviéndoles su nombre.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/4IAX5fgsyj9SnV2sqEh5JfuOvUo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ejxQidcVJwgjzHUYcg09c3WiXvw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5yXuwShhyHfEc5u3YTgjDIDIw6V.png"
+    },
+    {
+      "id": "tmdb:60863",
+      "type": "series",
+      "name": "Haikyuu!! Los ases del vóley",
+      "ids": {
+        "tmdb": 60863
+      },
+      "overview": "Un hecho fortuito desencadena el amor de Shouyou Hinata por el voleibol. Su club no tenía ningún miembro, pero de algún modo perseveró y finalmente realizó su primer y último partido regular de la escuela secundaria, donde fue aniquilado por Tobio Kageyama, un jugador superestrella conocido como \"Rey de la Corte.\" ¡Jurando venganza, Hinata ingresa en el club de voleibol Karasuno, de secundaria alta, solo para volver a encontrarse cara a cara con su odiado rival, Kageyama!",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/k8YZ296JIxo6qr3rS7fxGGJyY4H.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dYzln2iDCMEfUNTJKmRa6rrPxiQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wyL5cbJw5hosM9D7c7z5cWAeThC.png"
     },
     {
       "id": "tmdb:1429",
@@ -351,60 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png"
     },
     {
-      "id": "tmdb:85991",
+      "id": "tmdb:101172",
       "type": "series",
-      "name": "Fruits Basket",
+      "name": "Tun Shi Xing Kong",
       "ids": {
-        "tmdb": 85991
+        "tmdb": 101172
       },
-      "overview": "Después de una tragedia familiar, Tooru Honda, estudiante de secundaria de 16 años, toma el asunto en sus manos y se muda ... ¡a una tienda de campaña! Desafortunadamente para ella, lanza su nuevo hogar en terrenos privados pertenecientes al misterioso clan Souma, y ​​no pasa mucho tiempo antes de que los propietarios descubran su secreto. Pero, como Tooru se entera rápidamente cuando la familia se ofrece a acogerla, los Soumas tienen su propio secreto: cuando son abrazados por el sexo opuesto, ¡se convierten en los animales del zodiaco chino!",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/9TGNcvMm91QXmnnCCYYqnYK0bK7.jpg",
+      "overview": "Año 2056. Luo Feng es un joven de 18 años que a pesar de su corta edad y ser extremadamente pobre, logra sobresalir entre las personas de su edad siendo incluso el mejor de su escuela especializada en combate, es élite en diferentes tipos de pelea, y usará todas sus habilidades de entrenamiento para ser parte de estos Luchadores, existencias que incluso en rangos mayores son conocidas como Dioses de la Guerra.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/3iPt9bIPNYmhqQ3BVU4plRkkDbf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jgjbmjHY9M0c6XhBg1nqiVDD9I2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dTz8V2Pwt8bzPtvDKO4DEZcQbQB.png"
-    },
-    {
-      "id": "tmdb:223911",
-      "type": "series",
-      "name": "Renegade Immortal",
-      "ids": {
-        "tmdb": 223911
-      },
-      "overview": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de la familia. A pesar de su bajo potencial de cultivo, Wang Lin intentará convertirse en un inmortal para enorgullecer a sus padres.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/6AVM12M6UunFmX0bSmP2o4N5Bnt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/abFaM9zZfz9DFhD8trRnvHtjSLm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7UbWiDZEToMYMBH1X4wei0zCeIo.png"
-    },
-    {
-      "id": "tmdb:67075",
-      "type": "series",
-      "name": "Mob Psycho 100",
-      "ids": {
-        "tmdb": 67075
-      },
-      "overview": "Kageyama Shigeo, más conocido por el apodo \"Mob\", parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zSjERIOum3Ntwgu5a0kLmRCs70g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
-    },
-    {
-      "id": "tmdb:60761",
-      "type": "series",
-      "name": "Ace of the Diamond",
-      "ids": {
-        "tmdb": 60761
-      },
-      "overview": "Eijun es un lanzador zurdo cuyos lanzamientos suelen ser erráticos. Su cuerpo tiene una enorme capacidad de flexibilidad, lo que le permite cambiar la trayectoria de su lanzamiento en el momento preciso que va al bateador. A raíz de que su estilo de juego carece de control, sus lanzamientos cambian de dirección súbitamente antes de que el bateador pueda impactar la bola. Sin embargo, esta condición hace que sus lanzamientos sean muy difíciles para sus rivales, la mayoría de los receptores no saben predecir la dirección que tomará la bola. Inicialmente ha sido muy inconsistente en sus lanzamientos. Su conocimiento sobre béisbol raya en lo mediocre, pero se esfuerza por mejorar y quiere ser el lanzador número 1 de la preparatoria Seidou.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fbjBgKKQZkg8OnFkCiBqRHwnsqh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/55IjfY12ExzDOK01QJk4nOzfFpu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lVv0rM49IGGWgPYszYQcEQqXtB5.png"
     },
     {
       "id": "tmdb:46004",
@@ -421,18 +393,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/psRecKsob4RT56ajUL6J6HISplJ.svg"
     },
     {
-      "id": "tmdb:210879",
+      "id": "tmdb:85991",
       "type": "series",
-      "name": "Rurouni Kenshin",
+      "name": "Fruits Basket",
       "ids": {
-        "tmdb": 210879
+        "tmdb": 85991
       },
-      "overview": "Readaptación de la serie manga principal.\n\nHace ciento cuarenta años en Kioto, con la llegada de los \"Barcos Negros\" estadounidenses, surgió un guerrero que, derribando hombres con su espada ensangrentada, se ganó el nombre de Hitokiri, ¡asesino! Su espada asesina ayudó a cerrar la turbulenta era de Bakumatsu y abrió la era progresiva conocida como Meiji. Luego desapareció y, con el correr de los años, se convirtió en leyenda.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
+      "overview": "Después de una tragedia familiar, Tooru Honda, estudiante de secundaria de 16 años, toma el asunto en sus manos y se muda ... ¡a una tienda de campaña! Desafortunadamente para ella, lanza su nuevo hogar en terrenos privados pertenecientes al misterioso clan Souma, y ​​no pasa mucho tiempo antes de que los propietarios descubran su secreto. Pero, como Tooru se entera rápidamente cuando la familia se ofrece a acogerla, los Soumas tienen su propio secreto: cuando son abrazados por el sexo opuesto, ¡se convierten en los animales del zodiaco chino!",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/9TGNcvMm91QXmnnCCYYqnYK0bK7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ckAuEQnV0lfhqqxPsH8vulpxF1o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8xSKn92xvfAPktsiUGD1aLdRYWj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jgjbmjHY9M0c6XhBg1nqiVDD9I2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dTz8V2Pwt8bzPtvDKO4DEZcQbQB.png"
+    },
+    {
+      "id": "tmdb:20111",
+      "type": "series",
+      "name": "Mobile Suit Gundam SEED",
+      "ids": {
+        "tmdb": 20111
+      },
+      "overview": "En el año 70 de la era cósmica, la colonia espacial de Junius 7 es destruida por un ataque nuclear. Es así como empieza la guerra entre ZAFT (Zodiac Alliance for Fredom Treaty) un ejercito compuesto por los habitantes de las colonias, conocidos como coordinadores, humanos mejorados genéticamente, siendo más fuertes e inteligentes; y la alianza terrestre. Un año después los naturales, humanos sin modificaciones genéticas, inician la creación de Mobile Suits capaces de vencer a los Mobiles Suits de ZAFT, sin embargo son descubiertos. Kira un joven coordinador que vive en una colonia espacial de la nación neutral de ORB, vive la invasión y destrucción de su hogar por parte de ZAFT y descubriendo que su mejor amigo de la infancia, Athrun, se convirtió en un soldado de ZAFT. Kira decide proteger a sus amigos piloteando el Gundam, sin embargo eso significaría una cosa: tendrá que pelear contra los coordinadores, entre los cuales se encuentra Athrun.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/rWgdDIq4JeaI36KdmLPkYcQjBQ3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1KbY8VUg93aKKcPkYoffGUeyxIG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Rn2d1IWrPlNXNkNrSkKO21YbcX.png"
+    },
+    {
+      "id": "tmdb:67075",
+      "type": "series",
+      "name": "Mob Psycho 100",
+      "ids": {
+        "tmdb": 67075
+      },
+      "overview": "Kageyama Shigeo, más conocido por el apodo \"Mob\", parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zSjERIOum3Ntwgu5a0kLmRCs70g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
     },
     {
       "id": "tmdb:131041",
@@ -463,60 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/wFe5m9XtZHf7m9D1R29LrhAmatr.png"
     },
     {
-      "id": "tmdb:38464",
+      "id": "tmdb:210879",
       "type": "series",
-      "name": "Blue Exorcist",
+      "name": "Rurouni Kenshin",
       "ids": {
-        "tmdb": 38464
+        "tmdb": 210879
       },
-      "overview": "Este mundo se compone de dos dimensiones unidas como una sola, justo como un espejo. El primero es el mundo en el que los humanos viven, Assiah. El otro es el mundo de los demonios, Gehenna (infierno). Por lo general, los viajes entre ambos, y de hecho cualquier tipo de contacto entre los dos, es imposible. Sin embargo, los demonios pueden pasar a este mundo por poseer cualquier cosa que exista dentro de este. Satanás es el dios de los demonios, pero hay una cosa que no tiene, y eso es una sustancia en el mundo humano que sea lo suficientemente podeerosa para contenerle a él. Con este fin creó a Rin, su hijo de una mujer humana, pero debera su hijo estar deacuerdo con sus planes O se convertirá en algo más … Un exorcista.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/kpNoqNmElzGUEcEoZyfFwvYXMsR.jpg",
+      "overview": "Readaptación de la serie manga principal.\n\nHace ciento cuarenta años en Kioto, con la llegada de los \"Barcos Negros\" estadounidenses, surgió un guerrero que, derribando hombres con su espada ensangrentada, se ganó el nombre de Hitokiri, ¡asesino! Su espada asesina ayudó a cerrar la turbulenta era de Bakumatsu y abrió la era progresiva conocida como Meiji. Luego desapareció y, con el correr de los años, se convirtió en leyenda.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zs8PQJi3b98DXDjLmYcKHctTIoA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xwuurUmMt8RVmwlpdYW4g3IWRgN.png"
-    },
-    {
-      "id": "tmdb:101172",
-      "type": "series",
-      "name": "Tun Shi Xing Kong",
-      "ids": {
-        "tmdb": 101172
-      },
-      "overview": "Año 2056. Luo Feng es un joven de 18 años que a pesar de su corta edad y ser extremadamente pobre, logra sobresalir entre las personas de su edad siendo incluso el mejor de su escuela especializada en combate, es élite en diferentes tipos de pelea, y usará todas sus habilidades de entrenamiento para ser parte de estos Luchadores, existencias que incluso en rangos mayores son conocidas como Dioses de la Guerra.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/3iPt9bIPNYmhqQ3BVU4plRkkDbf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/55IjfY12ExzDOK01QJk4nOzfFpu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lVv0rM49IGGWgPYszYQcEQqXtB5.png"
-    },
-    {
-      "id": "tmdb:97617",
-      "type": "series",
-      "name": "The Misfit of Demon King Academy",
-      "ids": {
-        "tmdb": 97617
-      },
-      "overview": "Hace 2000 años, en su vida anterior, a medida que la guerra entre humanos y demonios se desató, el Rey Demonio de la Tiranía, Anos Voldigoad, finalmente se cansó de los combates constantes y decidió que la única manera de lograr la paz era construyendo muros entre las cuatro razas, con la esperanza de que olvidaran su rencor después de mil años más o menos. Así formó un acuerdo con el héroe Kanon, el Gran Espíritu Reno y la Milicia Dios de la Creación y se sacrificó para proporcionar suficiente magia para la causa, diciendo que se reencarnaría después de 2000 años. Pasados los 2000 años, Anos se reencarna y se inscribe en la academia en la que entrenan los candidatos a nuevo Rey Demonio.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/xBNR7V4s5b0qQfRCiyEvIC5PS6v.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nDcItKCXfKFkveiyTwWuCcQxj5A.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yh0RuAyuTVLqjmUdSOACDBY5N10.png"
-    },
-    {
-      "id": "tmdb:114410",
-      "type": "series",
-      "name": "Chainsaw Man",
-      "ids": {
-        "tmdb": 114410
-      },
-      "overview": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.\n\nCuando una traición provoca la muerte de Denji, Pochita hace un contrato con él y Denji revive como \"Chainsaw Man\", un ser humano con el corazón de un demonio.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8X3AdUA5q3owusAXOiCOn3FwXUa.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ckAuEQnV0lfhqqxPsH8vulpxF1o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8xSKn92xvfAPktsiUGD1aLdRYWj.png"
     },
     {
       "id": "tmdb:46437",
@@ -533,18 +491,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/njxcMoizy5vstTcBK9Sm4BnYaZB.png"
     },
     {
-      "id": "tmdb:20111",
+      "id": "tmdb:38464",
       "type": "series",
-      "name": "Mobile Suit Gundam SEED",
+      "name": "Blue Exorcist",
       "ids": {
-        "tmdb": 20111
+        "tmdb": 38464
       },
-      "overview": "En el año 70 de la era cósmica, la colonia espacial de Junius 7 es destruida por un ataque nuclear. Es así como empieza la guerra entre ZAFT (Zodiac Alliance for Fredom Treaty) un ejercito compuesto por los habitantes de las colonias, conocidos como coordinadores, humanos mejorados genéticamente, siendo más fuertes e inteligentes; y la alianza terrestre. Un año después los naturales, humanos sin modificaciones genéticas, inician la creación de Mobile Suits capaces de vencer a los Mobiles Suits de ZAFT, sin embargo son descubiertos. Kira un joven coordinador que vive en una colonia espacial de la nación neutral de ORB, vive la invasión y destrucción de su hogar por parte de ZAFT y descubriendo que su mejor amigo de la infancia, Athrun, se convirtió en un soldado de ZAFT. Kira decide proteger a sus amigos piloteando el Gundam, sin embargo eso significaría una cosa: tendrá que pelear contra los coordinadores, entre los cuales se encuentra Athrun.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/rWgdDIq4JeaI36KdmLPkYcQjBQ3.jpg",
+      "overview": "Este mundo se compone de dos dimensiones unidas como una sola, justo como un espejo. El primero es el mundo en el que los humanos viven, Assiah. El otro es el mundo de los demonios, Gehenna (infierno). Por lo general, los viajes entre ambos, y de hecho cualquier tipo de contacto entre los dos, es imposible. Sin embargo, los demonios pueden pasar a este mundo por poseer cualquier cosa que exista dentro de este. Satanás es el dios de los demonios, pero hay una cosa que no tiene, y eso es una sustancia en el mundo humano que sea lo suficientemente podeerosa para contenerle a él. Con este fin creó a Rin, su hijo de una mujer humana, pero debera su hijo estar deacuerdo con sus planes O se convertirá en algo más … Un exorcista.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/kpNoqNmElzGUEcEoZyfFwvYXMsR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1KbY8VUg93aKKcPkYoffGUeyxIG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Rn2d1IWrPlNXNkNrSkKO21YbcX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zs8PQJi3b98DXDjLmYcKHctTIoA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xwuurUmMt8RVmwlpdYW4g3IWRgN.png"
+    },
+    {
+      "id": "tmdb:60761",
+      "type": "series",
+      "name": "Ace of the Diamond",
+      "ids": {
+        "tmdb": 60761
+      },
+      "overview": "Eijun es un lanzador zurdo cuyos lanzamientos suelen ser erráticos. Su cuerpo tiene una enorme capacidad de flexibilidad, lo que le permite cambiar la trayectoria de su lanzamiento en el momento preciso que va al bateador. A raíz de que su estilo de juego carece de control, sus lanzamientos cambian de dirección súbitamente antes de que el bateador pueda impactar la bola. Sin embargo, esta condición hace que sus lanzamientos sean muy difíciles para sus rivales, la mayoría de los receptores no saben predecir la dirección que tomará la bola. Inicialmente ha sido muy inconsistente en sus lanzamientos. Su conocimiento sobre béisbol raya en lo mediocre, pero se esfuerza por mejorar y quiere ser el lanzador número 1 de la preparatoria Seidou.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fbjBgKKQZkg8OnFkCiBqRHwnsqh.png"
     },
     {
       "id": "tmdb:13916",
@@ -561,46 +533,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8UX1i5i49GN7cXKkIvCGmaxfqJm.png"
     },
     {
-      "id": "tmdb:207468",
+      "id": "tmdb:43865",
       "type": "series",
-      "name": "Kaiju No. 8",
+      "name": "Psycho-Pass",
       "ids": {
-        "tmdb": 207468
+        "tmdb": 43865
       },
-      "overview": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
+      "overview": "En un futuro próximo, es posible medir de forma instantánea el estado mental de una persona, la personalidad y la probabilidad de que dicha persona vaya a cometer delitos gracias a un escáner psico-somático que realiza un escaneo de las funciones del cerebro y de las demás funciones biológicas y químicas del cuerpo, determinando el Psycho-Pass, un número asociado a un color en cada persona. Cuando esta probabilidad, medida como el índice de \"Coeficiente de Criminalidad\", es demasiado alta, es decir, posee un color muy oscuro y un número muy elevado, los individuos son perseguidos y detenidos con fuerza letal, si es necesario.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg"
-    },
-    {
-      "id": "tmdb:97525",
-      "type": "series",
-      "name": "To Your Eternity",
-      "ids": {
-        "tmdb": 97525
-      },
-      "overview": "Un ser inmortal llega a la Tierra sin emociones ni identidad, adoptando formas de quienes lo rodean. Desde una roca hasta un lobo y finalmente un niño solitario, comienza un viaje eterno en busca de experiencias y significado.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lLSaesumAlhdmmpdUPldH2Vk4kC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oWyEoVEHlX5BtpWmgsFR4nCptvf.png"
-    },
-    {
-      "id": "tmdb:240411",
-      "type": "series",
-      "name": "DAN DA DAN",
-      "ids": {
-        "tmdb": 240411
-      },
-      "overview": "Cuando Momo, una estudiante de instituto de una familia de médiums espirituales, conoce a su compañero de clase Okarun, un friki del ocultismo, discuten: Momo cree en los fantasmas pero no en los extraterrestres, y Okarun cree en los extraterrestres pero no en los fantasmas. Cuando resulta que ambos fenómenos son reales, en Momo surge un poder oculto y en Okarun el poder de una maldición. Juntos, deberán desafiar a las fuerzas paranormales que amenazan su mundo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ndkmPUErYaQIhd2wfOW3SMYfwFE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A9jO4m2vVmvuEhTMf6E6sK16kMp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7tNvXRsm3uuaoRJbcW21RTZ7tLM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dkBUHaz9MkK7d0GnT7WLg28HSsD.png"
     },
     {
       "id": "tmdb:256721",
@@ -617,6 +561,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/uRBkAzaPRGOxga7FF6ldGZK83Ek.png"
     },
     {
+      "id": "tmdb:114410",
+      "type": "series",
+      "name": "Chainsaw Man",
+      "ids": {
+        "tmdb": 114410
+      },
+      "overview": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.\n\nCuando una traición provoca la muerte de Denji, Pochita hace un contrato con él y Denji revive como \"Chainsaw Man\", un ser humano con el corazón de un demonio.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/yVtx7Xn9UxNJqvG2BkvhCcmed9S.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sbvHiKrb86zi2RSeos8MkoURTDi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8X3AdUA5q3owusAXOiCOn3FwXUa.png"
+    },
+    {
       "id": "tmdb:30977",
       "type": "series",
       "name": "Toaru Kagaku no Railgun",
@@ -631,18 +589,101 @@
       "logo": "https://image.tmdb.org/t/p/w500/rOg2TuM47RQUGx2Cz30b7dNdmu7.png"
     },
     {
-      "id": "tmdb:76075",
+      "id": "tmdb:240411",
       "type": "series",
-      "name": "Yuru Camp",
+      "name": "DAN DA DAN",
       "ids": {
-        "tmdb": 76075
+        "tmdb": 240411
       },
-      "overview": "Nadeshiko es una estudiante de preparatoria que se ha mudado de Shizuoka a Yamanashi y que decide ir a ver el famoso Monte Fuji que aparece en los billetes de mil yenes. Aunque consigue llegar en bicicleta hasta Motosu, se ve obligada a volver atrás debido al mal tiempo. Habiendo sido incapaz de poder ver con sus propios ojos su objetivo, acaba desmayándose. Cuando despierta ya es de noche y está en un sitio que no reconoce y no sabe cómo regresar a casa. Por suerte Nadeshiko se encuentra con Rin, una chica que está acampando ella sola y quien la salva.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/1c5xBDBQQwa1bvX5fibAeymReGg.jpg",
+      "overview": "Cuando Momo, una estudiante de instituto de una familia de médiums espirituales, conoce a su compañero de clase Okarun, un friki del ocultismo, discuten: Momo cree en los fantasmas pero no en los extraterrestres, y Okarun cree en los extraterrestres pero no en los fantasmas. Cuando resulta que ambos fenómenos son reales, en Momo surge un poder oculto y en Okarun el poder de una maldición. Juntos, deberán desafiar a las fuerzas paranormales que amenazan su mundo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bRy34qLcu7RH2RlGNRZotxmUstV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nGRiIMlOcg2fqlxauIkJbnfd4Hj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ndkmPUErYaQIhd2wfOW3SMYfwFE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A9jO4m2vVmvuEhTMf6E6sK16kMp.png"
+    },
+    {
+      "id": "tmdb:97525",
+      "type": "series",
+      "name": "To Your Eternity",
+      "ids": {
+        "tmdb": 97525
+      },
+      "overview": "Un ser inmortal llega a la Tierra sin emociones ni identidad, adoptando formas de quienes lo rodean. Desde una roca hasta un lobo y finalmente un niño solitario, comienza un viaje eterno en busca de experiencias y significado.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lLSaesumAlhdmmpdUPldH2Vk4kC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oWyEoVEHlX5BtpWmgsFR4nCptvf.png"
+    },
+    {
+      "id": "tmdb:207468",
+      "type": "series",
+      "name": "Kaiju No. 8",
+      "ids": {
+        "tmdb": 207468
+      },
+      "overview": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg"
+    },
+    {
+      "id": "tmdb:35442",
+      "type": "series",
+      "name": "Cardfight!! Vanguard",
+      "ids": {
+        "tmdb": 35442
+      },
+      "overview": "Aichi Sendou is a timid third-year middle school student who has always lived his life looking backwards rather than forward. However, he has a card called \"Blaster Blade\" that was given to him when he was little, which is the sole thing that sustains him. Then Toshiki Kai, a cool-hearted high schooler, introduces Aichi to a card game called \"Vanguard\". When participants battle they picture they are on a planet called \"Clay\", and since Vanguard features a never before seen game system it has become popular around the world. Aichi immediately likes Vanguard, so he begins to play it with his friends Misaki Togura and Kamui Katsuragi, and others like his new rival Kai (who is one of the best Vanguard players). Aichi plays every day and he strives with all his soul and heart to play better, so when he battles Kai, Kai will recognize Aichi's worth.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/mm0ULBbs9XrHq4OAE8VUa84wvgi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/onMxnKRirgrcAbL58eVjxkEBtAb.jpg"
+    },
+    {
+      "id": "tmdb:97617",
+      "type": "series",
+      "name": "The Misfit of Demon King Academy",
+      "ids": {
+        "tmdb": 97617
+      },
+      "overview": "Hace 2000 años, en su vida anterior, a medida que la guerra entre humanos y demonios se desató, el Rey Demonio de la Tiranía, Anos Voldigoad, finalmente se cansó de los combates constantes y decidió que la única manera de lograr la paz era construyendo muros entre las cuatro razas, con la esperanza de que olvidaran su rencor después de mil años más o menos. Así formó un acuerdo con el héroe Kanon, el Gran Espíritu Reno y la Milicia Dios de la Creación y se sacrificó para proporcionar suficiente magia para la causa, diciendo que se reencarnaría después de 2000 años. Pasados los 2000 años, Anos se reencarna y se inscribe en la academia en la que entrenan los candidatos a nuevo Rey Demonio.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/xBNR7V4s5b0qQfRCiyEvIC5PS6v.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nDcItKCXfKFkveiyTwWuCcQxj5A.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yh0RuAyuTVLqjmUdSOACDBY5N10.png"
+    },
+    {
+      "id": "tmdb:20695",
+      "type": "series",
+      "name": "Yu-Gi-Oh! 5D's",
+      "ids": {
+        "tmdb": 20695
+      },
+      "overview": "Yu-Gi-Oh! 5D's se desarrolla en la Ciudad de Nueva Domino algún tiempo después de los hechos relativos a Yugi Muto y Jaden Yuki (posiblemente en el año 2021). Una nueva forma de duelo, \"Turbo Duelo\", (Duelo Montado) tiene lugar en motocicletas llamado \"Corredores de Duelo\" y utilizando la carta mágica de campo Mundo de Velocidad. Mientras que el duelo normal todavía existe, los Turbo Duelo se han convertido en una forma popular de entretenimiento para los espectadores que verlos en los estadios diseñados especialmente para esto parecidos a los estadios que La Corporación Kaiba posee.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/1fareX2gQVmpcxoPFHLAHu3ljld.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ttoa5FhoyByvDBgNk4DtIMcxFin.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ueuyYQQcje2mmgf5p8Ssf0AZi1.png"
+    },
+    {
+      "id": "tmdb:204832",
+      "type": "series",
+      "name": "MASHLE: MAGIC AND MUSCLES",
+      "ids": {
+        "tmdb": 204832
+      },
+      "overview": "Este es un mundo de magia.\n\nEste es un mundo en el que todos usan la magia habitualmente.\n\nEn un bosque profundo y oscuro de este mundo de magia, hay un chico que se ejercita a diario.\n\nSu nombre es Mash Burnedead y tiene un secreto: no puede usar magia.\n\nLo único que quería era vivir tranquilo con su familia, pero cuando un día intentan matarlo por no poder usar magia, las cosas se salen de control y acaba inscrito en una escuela mágica, donde su objetivo será convertirse en el \"Iluminado Divino\", el alumno más formidable, el elegido de Dios.\n\n¿Podrán sus poderosos músculos derrotar a los más brillantes usuarios de magia?\n\n¡Se alza el telón de esta historia de magia y fantasía peculiar en el que la fuerza puede con la magia!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/yORTvQOQTZzZ9JRIpRH4QaIaQBm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bGebBe1NuLRgQfDAMzzAPcskanE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f1iybcTUUU0QnPwvFjJvChxss6b.png"
     },
     {
       "id": "tmdb:249907",
@@ -657,47 +698,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6RriaOG7kanuHjs4unVnXyvFrMv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8kLSoUMrRGWTUIEkJu0258ni7Hq.png"
-    },
-    {
-      "id": "tmdb:96316",
-      "type": "series",
-      "name": "Rent-a-Girlfriend",
-      "ids": {
-        "tmdb": 96316
-      },
-      "overview": "Kazuya Kinoshita es un joven universitario de 20 años que tras conseguir novia, pudo besarla, ¡pero lo dejó tras solo un mes! \"Maldita sea, no quiero tener que volver a pasar por eso\". Desesperado, recurre a un método muy particular para tener por fin una cita: solicitar una novia de alquiler. Cuando llega al punto de encuentro le espera una chica: \"Eres Kazuya, ¿verdad?\". Es una chica preciosa de pelo negro y largo que le sonríe con ternura. La chica es Chizuru Mizuhara. ¡Y de esa cita de alquiler nace algo real! Una comedia romántica repleta de amor y emoción da comienzo.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/1xhXRBPBwbTYj8AsUHFdhSjj1z7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gOnjVWuWHBQ2ONdZDvz15hA0CMu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eTBVLxqDvkMuJZTi3rYSlXaZyVv.png"
-    },
-    {
-      "id": "tmdb:123249",
-      "type": "series",
-      "name": "My Dress-Up Darling",
-      "ids": {
-        "tmdb": 123249
-      },
-      "overview": "Gojo Wakana, un estudiante que sueña con hacer muñecas Hina, se une a Marin Kitagawa, la chica popular de su clase, cuando ella comparte un secreto que los acerca.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/5qk1GjRczsJQLChZZvVdH9i37nW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q7UdZU8DPp4NOup52yKQ13Bfr00.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/u33mrARoD4XgjVOzj61iMgCGClI.png"
-    },
-    {
-      "id": "tmdb:35442",
-      "type": "series",
-      "name": "Cardfight!! Vanguard",
-      "ids": {
-        "tmdb": 35442
-      },
-      "overview": "Aichi Sendou is a timid third-year middle school student who has always lived his life looking backwards rather than forward. However, he has a card called \"Blaster Blade\" that was given to him when he was little, which is the sole thing that sustains him. Then Toshiki Kai, a cool-hearted high schooler, introduces Aichi to a card game called \"Vanguard\". When participants battle they picture they are on a planet called \"Clay\", and since Vanguard features a never before seen game system it has become popular around the world. Aichi immediately likes Vanguard, so he begins to play it with his friends Misaki Togura and Kamui Katsuragi, and others like his new rival Kai (who is one of the best Vanguard players). Aichi plays every day and he strives with all his soul and heart to play better, so when he battles Kai, Kai will recognize Aichi's worth.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/mm0ULBbs9XrHq4OAE8VUa84wvgi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/onMxnKRirgrcAbL58eVjxkEBtAb.jpg"
     }
   ]
 }
