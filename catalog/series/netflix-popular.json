@@ -85,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
     },
     {
+      "id": "tmdb:4656",
+      "type": "series",
+      "name": "Raw",
+      "ids": {
+        "tmdb": 4656
+      },
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
+    },
+    {
       "id": "tmdb:1405",
       "type": "series",
       "name": "Dexter",
@@ -113,20 +127,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
     },
     {
-      "id": "tmdb:4656",
-      "type": "series",
-      "name": "Raw",
-      "ids": {
-        "tmdb": 4656
-      },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/pv5WNnLUo7mpT8k901Lo8UovrqI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
-    },
-    {
       "id": "tmdb:1911",
       "type": "series",
       "name": "Bones",
@@ -139,48 +139,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2qZCr4aePuDnbA4pBbCMDwbJDsP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
-    },
-    {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
-    },
-    {
-      "id": "tmdb:91239",
-      "type": "series",
-      "name": "Los Bridgerton",
-      "ids": {
-        "tmdb": 91239
-      },
-      "overview": "Ambientada en la alta sociedad londinense de principios del siglo XIX, la historia se centra en la familia Bridgerton, formada por varios hermanos y hermanas que se debaten entre el amor, el deber y la vocación. Cada temporada refleja la vida amorosa de un hermano Bridgerton, empezando por Daphne y siguiendo por Anthony, Colin y Benedict.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sspQooyeMMkDfRzVzi6YrSRuJkQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png"
-    },
-    {
-      "id": "tmdb:71712",
-      "type": "series",
-      "name": "The Good Doctor",
-      "ids": {
-        "tmdb": 71712
-      },
-      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
       "id": "tmdb:273977",
@@ -197,6 +155,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/qkYrkAP1VPtqcQ3RCaeTKav8XXo.png"
     },
     {
+      "id": "tmdb:2316",
+      "type": "series",
+      "name": "The Office",
+      "ids": {
+        "tmdb": 2316
+      },
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+    },
+    {
+      "id": "tmdb:71712",
+      "type": "series",
+      "name": "The Good Doctor",
+      "ids": {
+        "tmdb": 71712
+      },
+      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
+    },
+    {
+      "id": "tmdb:91239",
+      "type": "series",
+      "name": "Los Bridgerton",
+      "ids": {
+        "tmdb": 91239
+      },
+      "overview": "Ambientada en la alta sociedad londinense de principios del siglo XIX, la historia se centra en la familia Bridgerton, formada por varios hermanos y hermanas que se debaten entre el amor, el deber y la vocación. Cada temporada refleja la vida amorosa de un hermano Bridgerton, empezando por Daphne y siguiendo por Anthony, Colin y Benedict.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sspQooyeMMkDfRzVzi6YrSRuJkQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png"
+    },
+    {
+      "id": "tmdb:258462",
+      "type": "series",
+      "name": "En el barro",
+      "ids": {
+        "tmdb": 258462
+      },
+      "overview": "Cinco presas forjan un vínculo único tras un accidente mortal, pero la corrupción y las luchas de poder de la cárcel amenazan con separarlas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v8xHeTkIBOl51yRp0zcAu2VYhdZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kSNKCviNfWcSkQQp1G18P2NzCgr.png"
+    },
+    {
       "id": "tmdb:1402",
       "type": "series",
       "name": "The Walking Dead",
@@ -209,6 +223,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
+    },
+    {
+      "id": "tmdb:4629",
+      "type": "series",
+      "name": "Stargate SG-1",
+      "ids": {
+        "tmdb": 4629
+      },
+      "overview": "Stargate SG-1 es una serie televisiva estadounidense derivada del largometraje de ciencia ficción 'Stargate: Puerta a las Estrellas' (1994). Producida por los estudios Metro Goldwyn Mayer. Esta serie se centra en las vivencias y aventuras de un equipo de militares y científicos miembros de un proyecto ultra-secreto de las Fuerzas Aéreas de los Estados Unidos, que utiliza un ingenio extraterrestre (Stargate) para desplazarse a otros planetas de manera casi instantánea.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4drB6vv1lpwcnclwIeJc8MCGn1R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AllIGHcRvZX6tEobLIngEl1QaN9.png"
+    },
+    {
+      "id": "tmdb:63174",
+      "type": "series",
+      "name": "Lucifer",
+      "ids": {
+        "tmdb": 63174
+      },
+      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
     },
     {
       "id": "tmdb:60625",
@@ -239,20 +281,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
     },
     {
-      "id": "tmdb:63174",
-      "type": "series",
-      "name": "Lucifer",
-      "ids": {
-        "tmdb": 63174
-      },
-      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
-    },
-    {
       "id": "tmdb:1407",
       "type": "series",
       "name": "Homeland",
@@ -265,20 +293,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
-    },
-    {
-      "id": "tmdb:258462",
-      "type": "series",
-      "name": "En el barro",
-      "ids": {
-        "tmdb": 258462
-      },
-      "overview": "Cinco presas forjan un vínculo único tras un accidente mortal, pero la corrupción y las luchas de poder de la cárcel amenazan con separarlas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v8xHeTkIBOl51yRp0zcAu2VYhdZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kSNKCviNfWcSkQQp1G18P2NzCgr.png"
     },
     {
       "id": "tmdb:18165",
@@ -309,20 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/cMakaU4nbybkKOYhq47O8bFNRw2.png"
     },
     {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
       "id": "tmdb:209867",
       "type": "series",
       "name": "Frieren: Tras finalizar el viaje",
@@ -337,60 +337,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
     },
     {
-      "id": "tmdb:57532",
+      "id": "tmdb:65334",
       "type": "series",
-      "name": "La Patrulla Canina",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
       "ids": {
-        "tmdb": 57532
+        "tmdb": 65334
       },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
-      "id": "tmdb:73586",
-      "type": "series",
-      "name": "Yellowstone",
-      "ids": {
-        "tmdb": 73586
-      },
-      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
-    },
-    {
-      "id": "tmdb:60572",
-      "type": "series",
-      "name": "Pokémon",
-      "ids": {
-        "tmdb": 60572
-      },
-      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/uHmjnIbsb3Vjp4TQjaEdE7Ze4Jx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png"
-    },
-    {
-      "id": "tmdb:37680",
-      "type": "series",
-      "name": "Suits: la clave del éxito",
-      "ids": {
-        "tmdb": 37680
-      },
-      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía. Entre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de corte de derecho. El azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter. La inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un sólo título universitario.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/o7IXNuLjKv475y8XWipkvolSPS4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:116799",
@@ -407,32 +365,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/l0aG8zCDkug0oJ493noryrvPtgK.png"
     },
     {
-      "id": "tmdb:80240",
+      "id": "tmdb:37680",
       "type": "series",
-      "name": "La Reina del Flow",
+      "name": "Suits: la clave del éxito",
       "ids": {
-        "tmdb": 80240
+        "tmdb": 37680
       },
-      "overview": "La serie se desarrolla en el seductor ambiente del reggaeton, género que se ha tomado al mundo. Esta es la historia de Yeimy Montoya, una talentosa joven compositora que paga una injusta condena en una prisión de Nueva York tras ser engañada por Charly, el hombre que ama y que posteriormente le roba sus canciones, con las que logra alcanzar la fama y convertirse en una estrella. El único deseo de Yeimy es salir a cobrar venganza contra todos aquellos que acabaron con su vida y su familia.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía. Entre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de corte de derecho. El azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter. La inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un sólo título universitario.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/o7IXNuLjKv475y8XWipkvolSPS4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qlRBltGj1G728IPoLtfy1sV67H2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/amNr6Bo0ukgwW5NIS5pMPoDakrw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
     },
     {
-      "id": "tmdb:71790",
+      "id": "tmdb:73586",
       "type": "series",
-      "name": "S.W.A.T.: Los hombres de Harrelson",
+      "name": "Yellowstone",
       "ids": {
-        "tmdb": 71790
+        "tmdb": 73586
       },
-      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
+    },
+    {
+      "id": "tmdb:57532",
+      "type": "series",
+      "name": "La Patrulla Canina",
+      "ids": {
+        "tmdb": 57532
+      },
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
     },
     {
       "id": "tmdb:60059",
@@ -463,6 +435,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/5vkwGaERx7T3osv9yuzllFODMZM.png"
     },
     {
+      "id": "tmdb:60572",
+      "type": "series",
+      "name": "Pokémon",
+      "ids": {
+        "tmdb": 60572
+      },
+      "overview": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más pokemon pueda, y conseguir las medallas de gimnasio necesarias y así participar en la Liga Pokemon, ganarla y así estar un paso más cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocerá y hará nuevos amigos, como Brock o Misty, que le acompañarán y ayudarán para conseguir alcanzar su sueño.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/uHmjnIbsb3Vjp4TQjaEdE7Ze4Jx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2LRHRZorQeY1LHyP6BC3TJMWQz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png"
+    },
+    {
+      "id": "tmdb:71790",
+      "type": "series",
+      "name": "S.W.A.T.: Los hombres de Harrelson",
+      "ids": {
+        "tmdb": 71790
+      },
+      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
+    },
+    {
+      "id": "tmdb:80240",
+      "type": "series",
+      "name": "La Reina del Flow",
+      "ids": {
+        "tmdb": 80240
+      },
+      "overview": "La serie se desarrolla en el seductor ambiente del reggaeton, género que se ha tomado al mundo. Esta es la historia de Yeimy Montoya, una talentosa joven compositora que paga una injusta condena en una prisión de Nueva York tras ser engañada por Charly, el hombre que ama y que posteriormente le roba sus canciones, con las que logra alcanzar la fama y convertirse en una estrella. El único deseo de Yeimy es salir a cobrar venganza contra todos aquellos que acabaron con su vida y su familia.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qlRBltGj1G728IPoLtfy1sV67H2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/amNr6Bo0ukgwW5NIS5pMPoDakrw.png"
+    },
+    {
       "id": "tmdb:46296",
       "type": "series",
       "name": "Spartacus",
@@ -475,20 +489,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
-    },
-    {
-      "id": "tmdb:42009",
-      "type": "series",
-      "name": "Black Mirror",
-      "ids": {
-        "tmdb": 42009
-      },
-      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
     },
     {
       "id": "tmdb:60574",
@@ -505,20 +505,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/eKsi6bSHYJp6pGABTFjTp2uG8Ux.png"
     },
     {
-      "id": "tmdb:274776",
-      "type": "series",
-      "name": "Unfamiliar",
-      "ids": {
-        "tmdb": 274776
-      },
-      "overview": "Cuando el pasado alcanza a dos exespías, su mayor desafío no son las persecuciones en coche, los tiroteos ni las peleas: es decirse la verdad.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/OvNMzIOJIzDlouhZVqCHRE6HlL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q2HOSrA1wvzSRp0lK2hGpzDEyYF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ymAsaBIeAJhI7HscKoUdPX2zmzy.png"
-    },
-    {
       "id": "tmdb:71728",
       "type": "series",
       "name": "El joven Sheldon",
@@ -531,6 +517,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+    },
+    {
+      "id": "tmdb:42009",
+      "type": "series",
+      "name": "Black Mirror",
+      "ids": {
+        "tmdb": 42009
+      },
+      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
     },
     {
       "id": "tmdb:48891",
@@ -547,6 +547,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png"
     },
     {
+      "id": "tmdb:274776",
+      "type": "series",
+      "name": "Unfamiliar",
+      "ids": {
+        "tmdb": 274776
+      },
+      "overview": "Cuando el pasado alcanza a dos exespías, su mayor desafío no son las persecuciones en coche, los tiroteos ni las peleas: es decirse la verdad.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/OvNMzIOJIzDlouhZVqCHRE6HlL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q2HOSrA1wvzSRp0lK2hGpzDEyYF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ymAsaBIeAJhI7HscKoUdPX2zmzy.png"
+    },
+    {
       "id": "tmdb:69050",
       "type": "series",
       "name": "Riverdale",
@@ -561,34 +575,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/vjZDll2t9OTpe14TgH9xo6SmMz7.png"
     },
     {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:1424",
-      "type": "series",
-      "name": "Orange Is the New Black",
-      "ids": {
-        "tmdb": 1424
-      },
-      "overview": "Las consecuencias de un antiguo delito le pasan factura a una rica neoyorquina que acaba en una cárcel para mujeres. Allí hace amistades y algún que otro enemigo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g17igfc19jAjeE56D51DpaXsdMo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ho41qmKw6gGyiWCJPE7syKfwQCr.png"
-    },
-    {
       "id": "tmdb:502",
       "type": "series",
       "name": "Barrio Sésamo",
@@ -601,6 +587,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pXVlStpKX5xh04UPgDafRjtNi3j.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/b4ZhunEpCI8NsPP4UeUs3spN6U.svg"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:71912",
@@ -631,18 +631,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2SFOnw4Tmw84Obmf6I1cv46300W.png"
     },
     {
-      "id": "tmdb:4586",
+      "id": "tmdb:1424",
       "type": "series",
-      "name": "Las chicas Gilmore",
+      "name": "Orange Is the New Black",
       "ids": {
-        "tmdb": 4586
+        "tmdb": 1424
       },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "overview": "Las consecuencias de un antiguo delito le pasan factura a una rica neoyorquina que acaba en una cárcel para mujeres. Allí hace amistades y algún que otro enemigo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/g17igfc19jAjeE56D51DpaXsdMo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ho41qmKw6gGyiWCJPE7syKfwQCr.png"
     },
     {
       "id": "tmdb:78191",
@@ -659,6 +659,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
     },
     {
+      "id": "tmdb:61222",
+      "type": "series",
+      "name": "BoJack Horseman",
+      "ids": {
+        "tmdb": 61222
+      },
+      "overview": "Conoce al caballo más querido de los 90… veinte años después. Vive en Los Ángeles donde humanos y animales antropomórficos coexisten, BoJack Horseman es la historia de un hombre (bueno, un caballo-hombre) que llegó muy rápido a la cima y ahora tiene que averiguar qué hacer.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2vyRUFoCya3iwpnvWEqJ14ObwBp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8czXfVg26ohZB41TijcXkMcbedc.png"
+    },
+    {
       "id": "tmdb:45140",
       "type": "series",
       "name": "Teen Titans Go!",
@@ -673,32 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
-      "id": "tmdb:120089",
+      "id": "tmdb:4586",
       "type": "series",
-      "name": "SPY x FAMILY",
+      "name": "Las chicas Gilmore",
       "ids": {
-        "tmdb": 120089
+        "tmdb": 4586
       },
-      "overview": "El espía \"Twilight\" recibe la misión de infiltrarse en la familia de un líder político. Para ello, crea una falsa familia con una hija que lee mentes y una esposa asesina, mientras ocultan sus secretos y viven juntos en una aventura peligrosa para mantener la paz mundial.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hbZ7fVgxEg50plxtQHpVyXAppCq.png"
-    },
-    {
-      "id": "tmdb:65494",
-      "type": "series",
-      "name": "The Crown",
-      "ids": {
-        "tmdb": 65494
-      },
-      "overview": "Drama sobre las rivalidades políticas y los romances acaecidos durante el reinado de Isabel II, así como de los eventos que moldearían la segunda mitad del siglo XX.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/1ZMVKJoWK5KfxaQA8BwpfOEYKKy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ydmbGy4e0NbL0Tn21CNRrhwJ8T6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/63ILiGjBJ9Q3D8yFft1cndPh8sl.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     }
   ]
 }
