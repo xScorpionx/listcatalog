@@ -42,20 +42,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
-    },
-    {
       "id": "tmdb:808",
       "type": "movie",
       "name": "Shrek",
@@ -70,6 +56,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
+      "id": "tmdb:218",
+      "type": "movie",
+      "name": "Terminator",
+      "ids": {
+        "tmdb": 218
+      },
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
+    },
+    {
       "id": "tmdb:769",
       "type": "movie",
       "name": "Uno de los nuestros",
@@ -82,20 +82,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
-    },
-    {
-      "id": "tmdb:1212742",
-      "type": "movie",
-      "name": "La ley de Jenny Pen",
-      "ids": {
-        "tmdb": 1212742
-      },
-      "overview": "Confinado en una apartada residencia de ancianos y atrapado en su cuerpo, que ha sufrido un derrame cerebral, un ex juez debe detener a un anciano psicópata que emplea a una marioneta infantil para abusar de los residentes de la residencia con consecuencias mortales.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5JclbA9aFQmkipu2S2b80FfwRPj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wbDS5Jr9iGKURHUNIZSC7YJs53d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3s8Gcuz415wNrNYmgTWokuTQICd.png"
     },
     {
       "id": "tmdb:807",
@@ -138,6 +124,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
+    },
+    {
+      "id": "tmdb:1212742",
+      "type": "movie",
+      "name": "La ley de Jenny Pen",
+      "ids": {
+        "tmdb": 1212742
+      },
+      "overview": "Confinado en una apartada residencia de ancianos y atrapado en su cuerpo, que ha sufrido un derrame cerebral, un ex juez debe detener a un anciano psicópata que emplea a una marioneta infantil para abusar de los residentes de la residencia con consecuencias mortales.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5JclbA9aFQmkipu2S2b80FfwRPj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wbDS5Jr9iGKURHUNIZSC7YJs53d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3s8Gcuz415wNrNYmgTWokuTQICd.png"
     },
     {
       "id": "tmdb:497",
@@ -210,18 +210,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
     },
     {
-      "id": "tmdb:823219",
+      "id": "tmdb:28",
       "type": "movie",
-      "name": "Flow, un mundo que salvar",
+      "name": "Apocalypse Now",
       "ids": {
-        "tmdb": 823219
+        "tmdb": 28
       },
-      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
+      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
       "id": "tmdb:694",
@@ -238,32 +238,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
     },
     {
-      "id": "tmdb:28",
+      "id": "tmdb:823219",
       "type": "movie",
-      "name": "Apocalypse Now",
+      "name": "Flow, un mundo que salvar",
       "ids": {
-        "tmdb": 28
+        "tmdb": 823219
       },
-      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
     },
     {
-      "id": "tmdb:78",
+      "id": "tmdb:396535",
       "type": "movie",
-      "name": "Blade Runner",
+      "name": "Train to Busan",
       "ids": {
-        "tmdb": 78
+        "tmdb": 396535
       },
-      "overview": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pudWZ8z7Rq8MHIddKY3XuH0sAig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
     },
     {
       "id": "tmdb:111",
@@ -294,20 +294,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
     },
     {
-      "id": "tmdb:1456349",
-      "type": "movie",
-      "name": "Un simple accidente",
-      "ids": {
-        "tmdb": 1456349
-      },
-      "overview": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qyeTL52iQJQN6FrCaVRkiuzJDDp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8vsNZLJBom3gePGpwyAKy9eWpaZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eS0ffjBm5mfeESgrHsnOB5hIivZ.png"
-    },
-    {
       "id": "tmdb:290098",
       "type": "movie",
       "name": "La doncella",
@@ -322,60 +308,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
-      "id": "tmdb:539",
+      "id": "tmdb:78",
       "type": "movie",
-      "name": "Psicosis",
+      "name": "Blade Runner",
       "ids": {
-        "tmdb": 539
+        "tmdb": 78
       },
-      "overview": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+      "overview": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4RxFaIOkQVLMnmnmTl8ZS4SIi0g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tbDsTlf1M37hAMPvfJwiDMP0tbl.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
     },
     {
-      "id": "tmdb:46738",
+      "id": "tmdb:166680",
       "type": "movie",
-      "name": "Incendies",
+      "name": "Avalancha",
       "ids": {
-        "tmdb": 46738
+        "tmdb": 166680
       },
-      "overview": "Jeanne y Simon Marwan son dos mellizos cuya madre, que lleva mucho tiempo sin hablar, está a punto de morir. Pero, antes del fatal desenlace, les da dos cartas que deben ser entregadas a un padre al que creían muerto y a un hermano cuya existencia desconocían. Ambos emprenderán un viaje al Líbano para localizarlos y encontrar respuestas a su existencia. Basada en una obra de teatro de Wajdi Mouawad.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/9NFEihPYnclTAQov0Z4RL01LSvQ.jpg",
+      "overview": "Unos turistas luchan por sobrevivir después de una avalancha de nieve caída en sus pistas de esquí. Sus vacaciones, entonces, se convierten en un juego de supervivencia.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/8IJ9ds4xTypbEmjJCFTiQ4ilrfE.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jDADVUZdWCTArACWXIdiedbfi1i.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/scSdtpKbReIasH0HSSpFNQPmmZa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/16vJ0g8oYpC58DT4uiRPUtVk6a7.png"
     },
     {
-      "id": "tmdb:396535",
+      "id": "tmdb:1456349",
       "type": "movie",
-      "name": "Train to Busan",
+      "name": "Un simple accidente",
       "ids": {
-        "tmdb": 396535
+        "tmdb": 1456349
       },
-      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
+      "overview": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qyeTL52iQJQN6FrCaVRkiuzJDDp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pudWZ8z7Rq8MHIddKY3XuH0sAig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
-    },
-    {
-      "id": "tmdb:62",
-      "type": "movie",
-      "name": "2001: una odisea del espacio",
-      "ids": {
-        "tmdb": 62
-      },
-      "overview": "Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. Por último, HAL 9000, una máquina de inteligencia artificial, es la encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9yTOU2SvTfAEHDPEG5qraLoe4MI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8vsNZLJBom3gePGpwyAKy9eWpaZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eS0ffjBm5mfeESgrHsnOB5hIivZ.png"
     },
     {
       "id": "tmdb:578",
@@ -392,18 +364,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
     },
     {
-      "id": "tmdb:110415",
+      "id": "tmdb:539",
       "type": "movie",
-      "name": "Rompenieves",
+      "name": "Psicosis",
       "ids": {
-        "tmdb": 110415
+        "tmdb": 539
       },
-      "overview": "Un experimento para solucionar el calentamiento global acabó con la mayoría de vida existente en el planeta. El último tren llamado Snowpiercer (Rompenieves) se mueve en círculos por el mundo, a través de un desierto de hielo y nieve. Los últimos supervivientes de la Tierra se amontonan en sus vagones. El joven Curtis (Chris Evans) iniciará una revolución desde los vagones de cola.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/bjOZwED8BWum5KZsW6vntdsWp1o.jpg",
+      "overview": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xmJuhEgcUAbujUCmPVbM166IrBQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/233abhqwFtzGhcWStY4eonwpVnn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4RxFaIOkQVLMnmnmTl8ZS4SIi0g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tbDsTlf1M37hAMPvfJwiDMP0tbl.png"
+    },
+    {
+      "id": "tmdb:62",
+      "type": "movie",
+      "name": "2001: una odisea del espacio",
+      "ids": {
+        "tmdb": 62
+      },
+      "overview": "Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. Por último, HAL 9000, una máquina de inteligencia artificial, es la encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA.",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9yTOU2SvTfAEHDPEG5qraLoe4MI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
+    },
+    {
+      "id": "tmdb:46738",
+      "type": "movie",
+      "name": "Incendies",
+      "ids": {
+        "tmdb": 46738
+      },
+      "overview": "Jeanne y Simon Marwan son dos mellizos cuya madre, que lleva mucho tiempo sin hablar, está a punto de morir. Pero, antes del fatal desenlace, les da dos cartas que deben ser entregadas a un padre al que creían muerto y a un hermano cuya existencia desconocían. Ambos emprenderán un viaje al Líbano para localizarlos y encontrar respuestas a su existencia. Basada en una obra de teatro de Wajdi Mouawad.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/9NFEihPYnclTAQov0Z4RL01LSvQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f3ATwil5vmUeTsogBaMEKbBYBth.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jDADVUZdWCTArACWXIdiedbfi1i.png"
     },
     {
       "id": "tmdb:4348",
@@ -420,20 +420,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
     },
     {
-      "id": "tmdb:38",
-      "type": "movie",
-      "name": "¡Olvídate de mí!",
-      "ids": {
-        "tmdb": 38
-      },
-      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kdQhNomrPtnWEfqn2ujafIRsgRg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lnCHPBafPTztZ3OFt3axPNqGjhE.png"
-    },
-    {
       "id": "tmdb:601",
       "type": "movie",
       "name": "E.T. el extraterrestre",
@@ -446,48 +432,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-    },
-    {
-      "id": "tmdb:545611",
-      "type": "movie",
-      "name": "Todo a la vez en todas partes",
-      "ids": {
-        "tmdb": 545611
-      },
-      "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/idNFfHarxVnMoiiVsk2PGA3trD7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
-    },
-    {
-      "id": "tmdb:389",
-      "type": "movie",
-      "name": "12 hombres sin piedad",
-      "ids": {
-        "tmdb": 389
-      },
-      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
-    },
-    {
-      "id": "tmdb:1091",
-      "type": "movie",
-      "name": "La cosa (El enigma de otro mundo)",
-      "ids": {
-        "tmdb": 1091
-      },
-      "overview": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wt4Ui4nxm6o4zUOE8ekM4SewlIz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
     },
     {
       "id": "tmdb:809",
@@ -504,18 +448,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
-      "id": "tmdb:9659",
+      "id": "tmdb:389",
       "type": "movie",
-      "name": "Mad Max: Salvajes de la autopista",
+      "name": "12 hombres sin piedad",
       "ids": {
-        "tmdb": 9659
+        "tmdb": 389
       },
-      "overview": "En las autopistas desiertas de una Australia desconocida, tiene lugar una guerra sin merced entre motoristas forajidos y policías Interceptor, que intentan triunfar sobre la gentuza al volante de coches con motores trucados. En un mundo en plena decadencia, la moral se difuminará en el escenario post apocalíptico donde lo único que tiene valor es el bien más preciado: la gasolina. La depravación, crueldad y salvajismo reinan en las bandas que no dudarán en perseguir y acabar con cualquiera que se ponga entre ellos y su ansia destruir y ser los amos de la carretera. Max se cruzará en su camino y lo que empieza como un acto de justicia no tardará en tornarse una lucha personal para acabar con ellos.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/vWa1DEwV5RbAOiuAm0WNXD3Aydw.jpg",
+      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uNb6fUyatM712597PSiD0oaVz8x.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Tc7cVledZvoGVLTAb7BUHiCgCd.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
     },
     {
       "id": "tmdb:5879",
@@ -532,18 +476,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
     },
     {
-      "id": "tmdb:5548",
+      "id": "tmdb:38",
       "type": "movie",
-      "name": "RoboCop",
+      "name": "¡Olvídate de mí!",
       "ids": {
-        "tmdb": 5548
+        "tmdb": 38
       },
-      "overview": "Parte del cuerpo de un policía asesinado, es utilizado para crear un «superpolicía» con cuerpo mecánico y cerebro humano. Aunque los científicos aseguran que el robot no tendrá remordimientos, éstos acabarán apareciendo en la memoria del humanoide.",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
+      "overview": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7ooQfn194Gz4YwJn3hQj8MPMWBQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kk3qw6QpkvnHItqDqAxQwnuednI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kdQhNomrPtnWEfqn2ujafIRsgRg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lnCHPBafPTztZ3OFt3axPNqGjhE.png"
+    },
+    {
+      "id": "tmdb:110415",
+      "type": "movie",
+      "name": "Rompenieves",
+      "ids": {
+        "tmdb": 110415
+      },
+      "overview": "Un experimento para solucionar el calentamiento global acabó con la mayoría de vida existente en el planeta. El último tren llamado Snowpiercer (Rompenieves) se mueve en círculos por el mundo, a través de un desierto de hielo y nieve. Los últimos supervivientes de la Tierra se amontonan en sus vagones. El joven Curtis (Chris Evans) iniciará una revolución desde los vagones de cola.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/bjOZwED8BWum5KZsW6vntdsWp1o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xmJuhEgcUAbujUCmPVbM166IrBQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/233abhqwFtzGhcWStY4eonwpVnn.png"
+    },
+    {
+      "id": "tmdb:545611",
+      "type": "movie",
+      "name": "Todo a la vez en todas partes",
+      "ids": {
+        "tmdb": 545611
+      },
+      "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/idNFfHarxVnMoiiVsk2PGA3trD7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
     },
     {
       "id": "tmdb:519465",
@@ -558,6 +530,76 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
+    },
+    {
+      "id": "tmdb:77",
+      "type": "movie",
+      "name": "Memento",
+      "ids": {
+        "tmdb": 77
+      },
+      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/neHrQLVfT3KPqvv30pNPyRb6chQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
+    },
+    {
+      "id": "tmdb:1091",
+      "type": "movie",
+      "name": "La cosa (El enigma de otro mundo)",
+      "ids": {
+        "tmdb": 1091
+      },
+      "overview": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wt4Ui4nxm6o4zUOE8ekM4SewlIz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
+    },
+    {
+      "id": "tmdb:1186350",
+      "type": "movie",
+      "name": "Marco",
+      "ids": {
+        "tmdb": 1186350
+      },
+      "overview": "El hijo adoptivo de la familia Adattu, Marco, se embarca en una despiadada búsqueda de venganza después de que su hermano es brutalmente asesinado, encontrando solo traición, pérdida y una brutalidad inimaginable a cada paso.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fyT1X8DGW3MlwXjdAoZFCc183fZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zp04i9bv8WMfzr7IUFcdXWDiAi3.png"
+    },
+    {
+      "id": "tmdb:600",
+      "type": "movie",
+      "name": "La chaqueta metálica",
+      "ids": {
+        "tmdb": 600
+      },
+      "overview": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jKRAqlVe1LWUIJ6hL9lkRn27rF9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fFrBwauqpdj4q2emU6VmErvqrG9.png"
+    },
+    {
+      "id": "tmdb:1018",
+      "type": "movie",
+      "name": "Mulholland Drive",
+      "ids": {
+        "tmdb": 1018
+      },
+      "overview": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/zQKnbazscP54i6iKHfdgYdmDsLv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/j7eEZdsdJ7UNQf4MU4jWILm1eZi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
     },
     {
       "id": "tmdb:249397",
@@ -588,88 +630,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
     },
     {
-      "id": "tmdb:600",
+      "id": "tmdb:9659",
       "type": "movie",
-      "name": "La chaqueta metálica",
+      "name": "Mad Max: Salvajes de la autopista",
       "ids": {
-        "tmdb": 600
+        "tmdb": 9659
       },
-      "overview": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
+      "overview": "En las autopistas desiertas de una Australia desconocida, tiene lugar una guerra sin merced entre motoristas forajidos y policías Interceptor, que intentan triunfar sobre la gentuza al volante de coches con motores trucados. En un mundo en plena decadencia, la moral se difuminará en el escenario post apocalíptico donde lo único que tiene valor es el bien más preciado: la gasolina. La depravación, crueldad y salvajismo reinan en las bandas que no dudarán en perseguir y acabar con cualquiera que se ponga entre ellos y su ansia destruir y ser los amos de la carretera. Max se cruzará en su camino y lo que empieza como un acto de justicia no tardará en tornarse una lucha personal para acabar con ellos.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/vWa1DEwV5RbAOiuAm0WNXD3Aydw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jKRAqlVe1LWUIJ6hL9lkRn27rF9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fFrBwauqpdj4q2emU6VmErvqrG9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uNb6fUyatM712597PSiD0oaVz8x.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Tc7cVledZvoGVLTAb7BUHiCgCd.png"
     },
     {
-      "id": "tmdb:665",
+      "id": "tmdb:254",
       "type": "movie",
-      "name": "Ben-Hur",
+      "name": "King Kong",
       "ids": {
-        "tmdb": 665
+        "tmdb": 254
       },
-      "overview": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas.",
-      "year": 1959,
-      "poster": "https://image.tmdb.org/t/p/w342/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
+      "overview": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xO2Nzx2mKwfZiLczcmDFQwMk4n5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gMzO2GVRtDtBNQuAbAIlAEeUePK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4QRjnMYg3PyATd96bb2kXGvE96S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bLl02c4vewuscZ7CRo2xUc1uJud.png"
     },
     {
-      "id": "tmdb:1949",
+      "id": "tmdb:510",
       "type": "movie",
-      "name": "Zodiac",
+      "name": "Alguien voló sobre el nido del cuco",
       "ids": {
-        "tmdb": 1949
+        "tmdb": 510
       },
-      "overview": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
+      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4eCdBQq6DQsmNWPgfbCs8Lse7Km.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
-    },
-    {
-      "id": "tmdb:979",
-      "type": "movie",
-      "name": "Irreversible",
-      "ids": {
-        "tmdb": 979
-      },
-      "overview": "Irreversible. Porque el tiempo lo destruye todo. Porque algunos actos son irreparables. Porque el hombre es un animal. Porque el deseo de venganza es un impulso natural. Porque la mayoría de los crímenes quedan sin castigo. Porque la pérdida del amado destruye como un rayo. Porque el amor es el origen de la vida. Porque toda la historia se escribe con esperma y sangre. Porque las premoniciones no modifican el curso de los acontecimientos. Porque el tiempo lo revela todo: lo mejor y lo peor.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/a6HvMOj2lVYnzqaNY6cX2hoCCXz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qhAfpaABdFhM8BpYyKuIEdpsAHM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9mkFblgXMi6g95FKQ7WVd4Dwj2e.png"
-    },
-    {
-      "id": "tmdb:63",
-      "type": "movie",
-      "name": "12 monos",
-      "ids": {
-        "tmdb": 63
-      },
-      "overview": "En el año 2035, un virus mortal ha arrasado la humanidad y los supervivientes viven bajo tierra. Un convicto llamado James Cole se ofrece como voluntario para viajar al pasado y averiguar el origen de la plaga. Su misión es encontrar al 'Ejército de los Doce Monos', una organización terrorista que se cree que liberó el virus. Sin embargo, su viaje se complica por los errores temporales, las visiones recurrentes y la duda sobre su propia cordura. Con la ayuda de una psiquiatra llamada Kathryn Railly y un loco llamado Jeffrey Goines, Cole intenta salvar el futuro antes de que sea demasiado tarde.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uY4Ix3ArT3p9tsoNKcQ4UkzcL0V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/inoIB8ScY82zpZmaKProMbUfinP.png"
-    },
-    {
-      "id": "tmdb:1018",
-      "type": "movie",
-      "name": "Mulholland Drive",
-      "ids": {
-        "tmdb": 1018
-      },
-      "overview": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/zQKnbazscP54i6iKHfdgYdmDsLv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j7eEZdsdJ7UNQf4MU4jWILm1eZi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1uHTJcL7fCxulnmK2fzUAIOvOHm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
     },
     {
       "id": "tmdb:41446",
@@ -686,18 +686,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
     },
     {
-      "id": "tmdb:289",
+      "id": "tmdb:5548",
       "type": "movie",
-      "name": "Casablanca",
+      "name": "RoboCop",
       "ids": {
-        "tmdb": 289
+        "tmdb": 5548
       },
-      "overview": "Durante la Segunda Guerra Mundial, Casablanca era una ciudad a la que llegaban huyendo del nazismo gentes de todas partes: llegar era fácil, pero salir era casi imposible, especialmente si el nombre del fugitivo figuraba en las listas de la Gestapo. En esta ocasión el principal objetivo de la policía secreta alemana es el líder checo y héroe de la resistencia Victor Laszlo, cuya única esperanza es Rick Blaine, propietario del 'Rick’s Café' y antiguo amante de su mujer, Ilsa. Cuando Ilsa se ofrece a quedarse a cambio de un visado para sacar a Laszlo del país, Rick deberá elegir entre su propia felicidad o el idealismo que rigió su vida en el pasado.",
-      "year": 1943,
-      "poster": "https://image.tmdb.org/t/p/w342/a7EjycGNSYw6QqJqDooD9eQGZ4r.jpg",
+      "overview": "Parte del cuerpo de un policía asesinado, es utilizado para crear un «superpolicía» con cuerpo mecánico y cerebro humano. Aunque los científicos aseguran que el robot no tendrá remordimientos, éstos acabarán apareciendo en la memoria del humanoide.",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tfNuePdHrP9fp6K2VTJwHKKJf8C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yUDMx9u3v93Yu8S4Aqj9IDmciUq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7ooQfn194Gz4YwJn3hQj8MPMWBQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kk3qw6QpkvnHItqDqAxQwnuednI.png"
     }
   ]
 }
