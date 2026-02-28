@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:270600",
+      "type": "series",
+      "name": "The Burbs",
+      "ids": {
+        "tmdb": 270600
+      },
+      "overview": "Sigue a una joven pareja que regresa a la casa de la infancia del marido. Su mundo se tambalea cuando unos nuevos vecinos se mudan a la casa de al lado, sacando a la luz viejos secretos del callejón sin salida, y nuevas amenazas mortales rompen la ilusión de su tranquilo vecindario.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/q1Ere9Lash2d6aOMStkRHfsixZC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q7c2ulS4iathI44V1Wr7LdeFvcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2ZijmuLmGHWIQmZjkGjcKSGeDP.png"
+    },
+    {
       "id": "tmdb:262793",
       "type": "series",
       "name": "Ponies",
@@ -27,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4CiG4DwMzXMF0F83st0g2A4lnV4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qbM1joUV2Nqd4YubU6eJOx31pa1.png"
+    },
+    {
+      "id": "tmdb:296523",
+      "type": "series",
+      "name": "Joven secuestrada",
+      "ids": {
+        "tmdb": 296523
+      },
+      "overview": "Lily, de 17 años, es secuestrada por un maestro de su confianza. Tras cinco años en cautiverio, escapa y regresa a casa para revelar años de abuso en un sótano, obligando a su familia a enfrentar el trauma en la lucha por reconstruir sus vidas.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/rsjOTVvak7CdBh2hDF3rmdH5GIh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/95z3mFo2KuHvnWPz2TaWLO3ioW8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/55HK0TLWnvVsfc2tCTUx5NnGOc.png"
     },
     {
       "id": "tmdb:246412",
@@ -658,34 +686,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wSTu7wAE0w3Z9wGWlHqf5cFHuv3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mTAo0IX8PDVargiAQiPBTM4ybJE.png"
-    },
-    {
-      "id": "tmdb:277970",
-      "type": "series",
-      "name": "Asesinas",
-      "ids": {
-        "tmdb": 277970
-      },
-      "overview": "Exploración de casos en los que todos los crímenes que se narran tienen un factor en común: han sido cometidos por mujeres.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5vD1uAvPVcPsHJakdyZnBiybsir.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/s9RXTQ5icgnhllTY1MYOmhzmODx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bVjYsnc6GsWpksOkF5XwEAEu12V.png"
-    },
-    {
-      "id": "tmdb:155543",
-      "type": "series",
-      "name": "Dostoevskij",
-      "ids": {
-        "tmdb": 155543
-      },
-      "overview": "En una tierra escasa e inhóspita, el policía Enzo Vitello, un hombre con un oscuro pasado, está obsesionado con \"Dostoievski\", un asesino en serie al que mata con una peculiaridad: junto al cadáver, el asesino deja siempre una carta con su desoladora y clarísima visión del mundo, de la vida y de la oscuridad que Vitello escucha resonar en él.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/zHYV58GsdFZ2R362ELIIg3iecpJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zciT59t3TAtrZFwLbNsEeJsEpha.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umzWcCZRvpdCvqzWrsVK6KmgRzO.png"
     }
   ]
 }
