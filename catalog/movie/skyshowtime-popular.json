@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:238",
-      "type": "movie",
-      "name": "El padrino",
-      "ids": {
-        "tmdb": 238
-      },
-      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k0E1zn685h9RihffFMIiI9qBn2s.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
-    },
-    {
       "id": "tmdb:575265",
       "type": "movie",
       "name": "Misión: Imposible - Sentencia final",
@@ -29,6 +15,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
     },
     {
+      "id": "tmdb:238",
+      "type": "movie",
+      "name": "El padrino",
+      "ids": {
+        "tmdb": 238
+      },
+      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/k0E1zn685h9RihffFMIiI9qBn2s.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
+    },
+    {
       "id": "tmdb:1234821",
       "type": "movie",
       "name": "Jurassic World: El renacer",
@@ -41,6 +41,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/bvZ4vdcVQEIDm5NLCb4ZxIn2WqN.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aSdhD1eDGbWN0sd6IedxFBEY4cc.png"
+    },
+    {
+      "id": "tmdb:4232",
+      "type": "movie",
+      "name": "Scream",
+      "ids": {
+        "tmdb": 4232
+      },
+      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/czEkFf928ItpF2A5iDCwdzVhNc2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
+    },
+    {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:1087192",
@@ -71,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
       "id": "tmdb:13",
       "type": "movie",
       "name": "Forrest Gump",
@@ -99,18 +113,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tcEgFz24Evw3CPdPTBi1EQv7IyC.png"
     },
     {
-      "id": "tmdb:4232",
+      "id": "tmdb:1007734",
       "type": "movie",
-      "name": "Scream",
+      "name": "Nadie 2",
       "ids": {
-        "tmdb": 4232
+        "tmdb": 1007734
       },
-      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+      "overview": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/czEkFf928ItpF2A5iDCwdzVhNc2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6Z2AR80mj3tSN5TD5PRyNCBMaZh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png"
     },
     {
       "id": "tmdb:1326878",
@@ -127,46 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jMbyH6kgI1u6nXXEo1y1JNTvBu6.png"
     },
     {
-      "id": "tmdb:240",
+      "id": "tmdb:216015",
       "type": "movie",
-      "name": "El Padrino Parte II",
+      "name": "Cincuenta sombras de Grey",
       "ids": {
-        "tmdb": 240
+        "tmdb": 216015
       },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
-      "id": "tmdb:939243",
-      "type": "movie",
-      "name": "Sonic 3: La película",
-      "ids": {
-        "tmdb": 939243
-      },
-      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sGeSOPC8QppZtD29PyujCmyIXdA.png"
-    },
-    {
-      "id": "tmdb:15854",
-      "type": "movie",
-      "name": "Kung Fu Panda: Los secretos de los cinco furiosos",
-      "ids": {
-        "tmdb": 15854
-      },
-      "overview": "Puede haber derrotado al feroz Tai Lung, pero Po, el Guerrero Dragón ahora ha de enfrentarse al mayor desafío de Shifu con la ayuda de Víbora, Tigresa, Mono, Grulla y Mantis. Los Secretos de los Cinco Furiosos por fin van a revelarse y vamos a descubrir que para convertirse en un maestro de kung fu se necesita mucho más que pies rápidos y puños certeros. Precuela que presenta a los personajes de Kung Fu Panda, desarrollada años antes de la primera película.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/pONYYC1KF9pmANUgceIV8d5kO33.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/763uBzxdX6f73OM6B9KVnjTMawa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dtlOGreUj6mZ0BQ9fqn1vm3MqXy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qrjPMgPrGcXgbknrBH8gHgNRiCP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
     },
     {
       "id": "tmdb:1035259",
@@ -183,46 +169,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
     },
     {
-      "id": "tmdb:402431",
+      "id": "tmdb:106646",
       "type": "movie",
-      "name": "Wicked",
+      "name": "El lobo de Wall Street",
       "ids": {
-        "tmdb": 402431
+        "tmdb": 106646
       },
-      "overview": "Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde Kansas. Elphaba es una joven incomprendida por su inusual color verde que aún no ha descubierto su verdadero poder. Glinda es una popular joven marcada por sus privilegios y su ambición que aún no ha descubierto su verdadera pasión. Las dos se conocen como estudiantes de la Universidad Shiz, en la fantástica Tierra de Oz, y forjan una insólita pero profunda amistad. La trama abarca los acontecimientos del primer acto del musical de Broadway.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jglW41Tl27WManfn00IqgPZFlGV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/haXR5xFAo89zRHcKkwEeunss7YV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
-      "id": "tmdb:216015",
+      "id": "tmdb:240",
       "type": "movie",
-      "name": "Cincuenta sombras de Grey",
+      "name": "El Padrino Parte II",
       "ids": {
-        "tmdb": 216015
+        "tmdb": 240
       },
-      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qrjPMgPrGcXgbknrBH8gHgNRiCP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
     },
     {
-      "id": "tmdb:98",
+      "id": "tmdb:15854",
       "type": "movie",
-      "name": "Gladiator",
+      "name": "Kung Fu Panda: Los secretos de los cinco furiosos",
       "ids": {
-        "tmdb": 98
+        "tmdb": 15854
       },
-      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "overview": "Puede haber derrotado al feroz Tai Lung, pero Po, el Guerrero Dragón ahora ha de enfrentarse al mayor desafío de Shifu con la ayuda de Víbora, Tigresa, Mono, Grulla y Mantis. Los Secretos de los Cinco Furiosos por fin van a revelarse y vamos a descubrir que para convertirse en un maestro de kung fu se necesita mucho más que pies rápidos y puños certeros. Precuela que presenta a los personajes de Kung Fu Panda, desarrollada años antes de la primera película.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/pONYYC1KF9pmANUgceIV8d5kO33.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/763uBzxdX6f73OM6B9KVnjTMawa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dtlOGreUj6mZ0BQ9fqn1vm3MqXy.png"
     },
     {
       "id": "tmdb:1184918",
@@ -239,6 +225,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/cBgbMZxdmcImD4Al8sq0pffOQ4T.png"
     },
     {
+      "id": "tmdb:939243",
+      "type": "movie",
+      "name": "Sonic 3: La película",
+      "ids": {
+        "tmdb": 939243
+      },
+      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sGeSOPC8QppZtD29PyujCmyIXdA.png"
+    },
+    {
       "id": "tmdb:16869",
       "type": "movie",
       "name": "Malditos bastardos",
@@ -253,46 +253,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
     },
     {
-      "id": "tmdb:106646",
+      "id": "tmdb:98",
       "type": "movie",
-      "name": "El lobo de Wall Street",
+      "name": "Gladiator",
       "ids": {
-        "tmdb": 106646
+        "tmdb": 98
       },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
-      "id": "tmdb:424",
+      "id": "tmdb:402431",
       "type": "movie",
-      "name": "La lista de Schindler",
+      "name": "Wicked",
       "ids": {
-        "tmdb": 424
+        "tmdb": 402431
       },
-      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "overview": "Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde Kansas. Elphaba es una joven incomprendida por su inusual color verde que aún no ha descubierto su verdadero poder. Glinda es una popular joven marcada por sus privilegios y su ambición que aún no ha descubierto su verdadera pasión. Las dos se conocen como estudiantes de la Universidad Shiz, en la fantástica Tierra de Oz, y forjan una insólita pero profunda amistad. La trama abarca los acontecimientos del primer acto del musical de Broadway.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3f92DMBTFqr3wgXpfxzrb0qv8nG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
-    },
-    {
-      "id": "tmdb:1071585",
-      "type": "movie",
-      "name": "M3GAN 2.0",
-      "ids": {
-        "tmdb": 1071585
-      },
-      "overview": "Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/93Tq99YbUESCa4aPnThnT9x6WCB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Wzn1bm9tjEa1xmTu9zz04wQdSb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jglW41Tl27WManfn00IqgPZFlGV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/haXR5xFAo89zRHcKkwEeunss7YV.png"
     },
     {
       "id": "tmdb:111",
@@ -309,18 +295,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
     },
     {
-      "id": "tmdb:9502",
+      "id": "tmdb:424",
       "type": "movie",
-      "name": "Kung Fu Panda",
+      "name": "La lista de Schindler",
       "ids": {
-        "tmdb": 9502
+        "tmdb": 424
       },
-      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gkpcd4k3IrkqIAqRBNLLjBHGYyr.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3f92DMBTFqr3wgXpfxzrb0qv8nG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
     },
     {
       "id": "tmdb:578",
@@ -337,6 +323,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mC7chprNBS4r3kWsbPc0ItmyfUG.png"
     },
     {
+      "id": "tmdb:1071585",
+      "type": "movie",
+      "name": "M3GAN 2.0",
+      "ids": {
+        "tmdb": 1071585
+      },
+      "overview": "Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/93Tq99YbUESCa4aPnThnT9x6WCB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Wzn1bm9tjEa1xmTu9zz04wQdSb.png"
+    },
+    {
       "id": "tmdb:37165",
       "type": "movie",
       "name": "El show de Truman",
@@ -349,6 +349,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hTIrQJ2kGCBlFdQnet59LOWee2G.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zBV3zFsIi1wRwN109vWf2UOoybG.png"
+    },
+    {
+      "id": "tmdb:9502",
+      "type": "movie",
+      "name": "Kung Fu Panda",
+      "ids": {
+        "tmdb": 9502
+      },
+      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gkpcd4k3IrkqIAqRBNLLjBHGYyr.png"
+    },
+    {
+      "id": "tmdb:4247",
+      "type": "movie",
+      "name": "Scary Movie",
+      "ids": {
+        "tmdb": 4247
+      },
+      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
     },
     {
       "id": "tmdb:1064213",
@@ -365,18 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
     },
     {
-      "id": "tmdb:558449",
+      "id": "tmdb:4233",
       "type": "movie",
-      "name": "Gladiator II",
+      "name": "Scream 2",
       "ids": {
-        "tmdb": 558449
+        "tmdb": 4233
       },
-      "overview": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg",
+      "overview": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película \"Stab\" (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/iCWp5oRMf7uGWqOCVfLOA5xLorZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oMJBJZ5N4J84Z56B6oYNc77C1wL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tVLUy0zp6akOrsq3OgctLxAp78g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jdAAwDh8O7IxvU7gO3pFpDQeXCf.png"
     },
     {
       "id": "tmdb:489",
@@ -393,6 +421,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
     },
     {
+      "id": "tmdb:313369",
+      "type": "movie",
+      "name": "La ciudad de las estrellas (La La Land)",
+      "ids": {
+        "tmdb": 313369
+      },
+      "overview": "Mia, una joven aspirante a actriz que compagina los castings con su trabajo de camarera, y Sebastian, un pianista de jazz que se gana la vida tocando en sórdidos tugurios, se enamoran. Pero la gran ambición por llegar a la cima en sus carreras artísticas amenaza con separarlos.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fMEvXOfp5fi7oUV8abUY6rCPZ5C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/12H6LnjRKTNaxtzKVt4pKAlY4TT.png"
+    },
+    {
+      "id": "tmdb:558449",
+      "type": "movie",
+      "name": "Gladiator II",
+      "ids": {
+        "tmdb": 558449
+      },
+      "overview": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oMJBJZ5N4J84Z56B6oYNc77C1wL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png"
+    },
+    {
       "id": "tmdb:10191",
       "type": "movie",
       "name": "Cómo entrenar a tu dragón",
@@ -405,20 +461,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dvNg4EzuhsSyNpVeMzHR3ep59sJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kApyKGMzbhUybpdBZf2GUZJC4my.png"
-    },
-    {
-      "id": "tmdb:809",
-      "type": "movie",
-      "name": "Shrek 2",
-      "ids": {
-        "tmdb": 809
-      },
-      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
       "id": "tmdb:384018",
@@ -435,32 +477,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nATRKWe94Og0Rc7nKMTnIXgftur.png"
     },
     {
-      "id": "tmdb:313369",
+      "id": "tmdb:809",
       "type": "movie",
-      "name": "La ciudad de las estrellas (La La Land)",
+      "name": "Shrek 2",
       "ids": {
-        "tmdb": 313369
+        "tmdb": 809
       },
-      "overview": "Mia, una joven aspirante a actriz que compagina los castings con su trabajo de camarera, y Sebastian, un pianista de jazz que se gana la vida tocando en sórdidos tugurios, se enamoran. Pero la gran ambición por llegar a la cima en sus carreras artísticas amenaza con separarlos.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg",
+      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fMEvXOfp5fi7oUV8abUY6rCPZ5C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/12H6LnjRKTNaxtzKVt4pKAlY4TT.png"
-    },
-    {
-      "id": "tmdb:4233",
-      "type": "movie",
-      "name": "Scream 2",
-      "ids": {
-        "tmdb": 4233
-      },
-      "overview": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película \"Stab\" (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/iCWp5oRMf7uGWqOCVfLOA5xLorZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tVLUy0zp6akOrsq3OgctLxAp78g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jdAAwDh8O7IxvU7gO3pFpDQeXCf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
       "id": "tmdb:810",
@@ -475,6 +503,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4uSRGXXU4kucRUbzd6X4lDZXeti.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
+    },
+    {
+      "id": "tmdb:4234",
+      "type": "movie",
+      "name": "Scream 3",
+      "ids": {
+        "tmdb": 4234
+      },
+      "overview": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dfCf1PvqQf9bVp6t8GNob6mPnCz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wkqfrcS97zJ7frm8oeBngTqXGO3.png"
+    },
+    {
+      "id": "tmdb:85",
+      "type": "movie",
+      "name": "En busca del arca perdida",
+      "ids": {
+        "tmdb": 85
+      },
+      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+      "year": 1981,
+      "poster": "https://image.tmdb.org/t/p/w342/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
+    },
+    {
+      "id": "tmdb:337167",
+      "type": "movie",
+      "name": "Cincuenta sombras liberadas",
+      "ids": {
+        "tmdb": 337167
+      },
+      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bWvDk4INHvqvlCg1DtDARgFF6Of.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wdUe8NgqRlb8IK6tyHhPRWdGgin.png"
     },
     {
       "id": "tmdb:857",
@@ -505,130 +575,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/6VZqlIPqWbHracrY3BxGfyrEN1I.png"
     },
     {
-      "id": "tmdb:337167",
+      "id": "tmdb:454626",
       "type": "movie",
-      "name": "Cincuenta sombras liberadas",
+      "name": "Sonic: La película",
       "ids": {
-        "tmdb": 337167
+        "tmdb": 454626
       },
-      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
+      "overview": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bWvDk4INHvqvlCg1DtDARgFF6Of.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wdUe8NgqRlb8IK6tyHhPRWdGgin.png"
-    },
-    {
-      "id": "tmdb:4247",
-      "type": "movie",
-      "name": "Scary Movie",
-      "ids": {
-        "tmdb": 4247
-      },
-      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
-    },
-    {
-      "id": "tmdb:10192",
-      "type": "movie",
-      "name": "Shrek, Felices para siempre",
-      "ids": {
-        "tmdb": 10192
-      },
-      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
-    },
-    {
-      "id": "tmdb:6977",
-      "type": "movie",
-      "name": "No es país para viejos",
-      "ids": {
-        "tmdb": 6977
-      },
-      "overview": "El veterano de la Guerra de Vietnam ahora cazador Llewellyn Moss descubre por casualidad una sangrienta escena en algún lugar de la frontera entre Texas y México, mientras estaba cazando algunos animales en el árido paisaje. Se trata de un negocio que se cerró mal entre contrabandistas de drogas y algunos hombres locales de la zona, provocando la muerte de varios de ellos. Además de los cuerpos y paquetes de heroína, Llewellyn descubre en una maleta algo más de dos millones de dólares. Cuando Llewellyn toma la maleta con el dinero, provoca una reacción en cadena de catastrófica violencia y una carrera sangrienta de los que quieren darle caza.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/wvi8k5fqjvVqTD573YX9eRLRo0F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3gqrxjbXUWI1fi3wCEtBIXqCeJN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zlBQtRXKCGmyqcVMNFYLw1eLPfd.png"
-    },
-    {
-      "id": "tmdb:4234",
-      "type": "movie",
-      "name": "Scream 3",
-      "ids": {
-        "tmdb": 4234
-      },
-      "overview": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dfCf1PvqQf9bVp6t8GNob6mPnCz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wkqfrcS97zJ7frm8oeBngTqXGO3.png"
-    },
-    {
-      "id": "tmdb:242",
-      "type": "movie",
-      "name": "El Padrino Parte III",
-      "ids": {
-        "tmdb": 242
-      },
-      "overview": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qx9FxELtC6cFIj6HdDJVJGuUOr2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
-    },
-    {
-      "id": "tmdb:85",
-      "type": "movie",
-      "name": "En busca del arca perdida",
-      "ids": {
-        "tmdb": 85
-      },
-      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
-      "year": 1981,
-      "poster": "https://image.tmdb.org/t/p/w342/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
-    },
-    {
-      "id": "tmdb:936108",
-      "type": "movie",
-      "name": "Pitufos",
-      "ids": {
-        "tmdb": 936108
-      },
-      "overview": "Película musical de animación centrada en las icónicas creaciones de Peyo. Cuando Papá Pitufo es secuestrado de forma misteriosa por los malvados brujos Razamel y Gargamel, Pitufina lleva a los Pitufos a una misión al mundo real para salvarle. Con la ayuda de nuevos amigos, los Pitufos deberán descubrir qué define su destino para salvar el universo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/zBdQclxQnEDOhDOjkKgKPW6jEHh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/11wxL3MWMuwWSGG7AKdHXfVG9E5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tPVrpSoD3asR8S4a9OW6ec3nOWQ.png"
-    },
-    {
-      "id": "tmdb:2105",
-      "type": "movie",
-      "name": "American Pie",
-      "ids": {
-        "tmdb": 2105
-      },
-      "overview": "Una legión de jóvenes inexpertos están intentando apuntarse un tanto con el sexo opuesto. Jim es como cualquier otro chico de su edad, un joven sano y vigoroso que también resulta ser virgen, el principal motivo de su galopante desesperación. Desde que sus padres le sorprendieron viendo películas pornográficas, las cosas han ido a peor. En casa, su bienintencionado padre extiende un celo mortificador en todo lo referente a la educación sexual de su hijo; en el colegio, las cosas no van mucho mejor: sus experiencias con una belleza perteneciente a un programa de intercambio tienen toda la pinta de fracasar. Así que su último recurso se llama Michelle, una integrante de la banda de música que resulta ser todo un prodigio.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/bOTrvXIrfVzZa00I2AXCCGI2Nqp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/RCGnFHiNxEdAJlPMHlC9NwgibP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6o0FQbAM12p3SQyVwTXfbuJqhel.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1NNFH01APbTRj3xbxRM3xqM3OuN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nNvtExR7duAslE6TN9ojx590jMC.png"
     },
     {
       "id": "tmdb:601",
@@ -659,6 +617,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
     },
     {
+      "id": "tmdb:10192",
+      "type": "movie",
+      "name": "Shrek, Felices para siempre",
+      "ids": {
+        "tmdb": 10192
+      },
+      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
+    },
+    {
+      "id": "tmdb:7131",
+      "type": "movie",
+      "name": "Van Helsing",
+      "ids": {
+        "tmdb": 7131
+      },
+      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/l5sFfVKqbaIHXJgzSH77viDRVpL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apbB4YyRatrO4MRLyWUXlXagR4K.png"
+    },
+    {
       "id": "tmdb:135397",
       "type": "movie",
       "name": "Jurassic World",
@@ -673,32 +659,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
     },
     {
-      "id": "tmdb:744",
+      "id": "tmdb:6977",
       "type": "movie",
-      "name": "Top Gun: Ídolos del aire",
+      "name": "No es país para viejos",
       "ids": {
-        "tmdb": 744
+        "tmdb": 6977
       },
-      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
+      "overview": "El veterano de la Guerra de Vietnam ahora cazador Llewellyn Moss descubre por casualidad una sangrienta escena en algún lugar de la frontera entre Texas y México, mientras estaba cazando algunos animales en el árido paisaje. Se trata de un negocio que se cerró mal entre contrabandistas de drogas y algunos hombres locales de la zona, provocando la muerte de varios de ellos. Además de los cuerpos y paquetes de heroína, Llewellyn descubre en una maleta algo más de dos millones de dólares. Cuando Llewellyn toma la maleta con el dinero, provoca una reacción en cadena de catastrófica violencia y una carrera sangrienta de los que quieren darle caza.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/wvi8k5fqjvVqTD573YX9eRLRo0F.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/SXErc0PwD7XCaNAbEK5AQEGRIx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfZCqteye4nQttmHszgxkqAMSTw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3gqrxjbXUWI1fi3wCEtBIXqCeJN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zlBQtRXKCGmyqcVMNFYLw1eLPfd.png"
     },
     {
-      "id": "tmdb:240832",
+      "id": "tmdb:82702",
       "type": "movie",
-      "name": "Lucy",
+      "name": "Cómo entrenar a tu dragón 2",
       "ids": {
-        "tmdb": 240832
+        "tmdb": 82702
       },
-      "overview": "Lucy, una joven obligada a ejercer de mula de una nueva y potente droga, adquiere de repente enormes poderes sobrenaturales cuando la bolsa de la droga se rompe y los narcóticos entran en contacto con su cuerpo. Entonces, su cerebro comienza a aumentar la capacidad de uso hasta poder ser utilizado al 100%, convirtiéndose en una máquina letal con habilidades extraordinarias.",
+      "overview": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/uy2TvHFwgKk6UzxxKnPsLkbQwTt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/djvT4EHxidT637UrDTQxshAFqd8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ax3ZZ1zY19ChEkZ45Ie7OxjTabt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kVXdBwzqiH4wduE6CvRTdstD81q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7GNN2OHNIQDNoD5oChjCBJcRku.png"
+    },
+    {
+      "id": "tmdb:2501",
+      "type": "movie",
+      "name": "The Bourne Identity: El caso Bourne",
+      "ids": {
+        "tmdb": 2501
+      },
+      "overview": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zYSIeVp10F9QkwtcKnRz7Fz1gpB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pwIkeCFNGTi0vdUWStha1rL2yUS.png"
     }
   ]
 }
