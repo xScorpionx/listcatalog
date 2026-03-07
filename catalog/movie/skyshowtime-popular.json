@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1234821",
-      "type": "movie",
-      "name": "Jurassic World: El renacer",
-      "ids": {
-        "tmdb": 1234821
-      },
-      "overview": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bvZ4vdcVQEIDm5NLCb4ZxIn2WqN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aSdhD1eDGbWN0sd6IedxFBEY4cc.png"
-    },
-    {
-      "id": "tmdb:238",
-      "type": "movie",
-      "name": "El padrino",
-      "ids": {
-        "tmdb": 238
-      },
-      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k0E1zn685h9RihffFMIiI9qBn2s.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
-    },
-    {
-      "id": "tmdb:13",
-      "type": "movie",
-      "name": "Forrest Gump",
-      "ids": {
-        "tmdb": 13
-      },
-      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tNVTWNa8cxZLw7aWvHzSDLyc7ig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tcEgFz24Evw3CPdPTBi1EQv7IyC.png"
-    },
-    {
       "id": "tmdb:4247",
       "type": "movie",
       "name": "Scary Movie",
@@ -55,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
+    },
+    {
+      "id": "tmdb:1234821",
+      "type": "movie",
+      "name": "Jurassic World: El renacer",
+      "ids": {
+        "tmdb": 1234821
+      },
+      "overview": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bvZ4vdcVQEIDm5NLCb4ZxIn2WqN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aSdhD1eDGbWN0sd6IedxFBEY4cc.png"
     },
     {
       "id": "tmdb:808",
@@ -71,18 +43,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
-      "id": "tmdb:575265",
+      "id": "tmdb:13",
       "type": "movie",
-      "name": "Misión: Imposible - Sentencia final",
+      "name": "Forrest Gump",
       "ids": {
-        "tmdb": 575265
+        "tmdb": 13
       },
-      "overview": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
+      "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dJoKAwAMhzDKbOYmQ44mZW4g9nX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tNVTWNa8cxZLw7aWvHzSDLyc7ig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tcEgFz24Evw3CPdPTBi1EQv7IyC.png"
     },
     {
       "id": "tmdb:824349",
@@ -99,18 +71,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/m4iE7YA3DRRFRfHKWXgNzzYgPWX.png"
     },
     {
-      "id": "tmdb:402431",
+      "id": "tmdb:238",
       "type": "movie",
-      "name": "Wicked",
+      "name": "El padrino",
       "ids": {
-        "tmdb": 402431
+        "tmdb": 238
       },
-      "overview": "Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde Kansas. Elphaba es una joven incomprendida por su inusual color verde que aún no ha descubierto su verdadero poder. Glinda es una popular joven marcada por sus privilegios y su ambición que aún no ha descubierto su verdadera pasión. Las dos se conocen como estudiantes de la Universidad Shiz, en la fantástica Tierra de Oz, y forjan una insólita pero profunda amistad. La trama abarca los acontecimientos del primer acto del musical de Broadway.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+      "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jglW41Tl27WManfn00IqgPZFlGV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/haXR5xFAo89zRHcKkwEeunss7YV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/k0E1zn685h9RihffFMIiI9qBn2s.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
+    },
+    {
+      "id": "tmdb:575265",
+      "type": "movie",
+      "name": "Misión: Imposible - Sentencia final",
+      "ids": {
+        "tmdb": 575265
+      },
+      "overview": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dJoKAwAMhzDKbOYmQ44mZW4g9nX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
     },
     {
       "id": "tmdb:594",
@@ -127,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/31LPPI1ZPB6DvC4amKqx3q89sxb.png"
     },
     {
-      "id": "tmdb:111",
-      "type": "movie",
-      "name": "El precio del poder",
-      "ids": {
-        "tmdb": 111
-      },
-      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
-    },
-    {
       "id": "tmdb:1087192",
       "type": "movie",
       "name": "Cómo entrenar a tu dragón",
@@ -155,18 +127,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM9COozSFJqIGXhNWiwuitxk6QP.png"
     },
     {
-      "id": "tmdb:16869",
+      "id": "tmdb:111",
       "type": "movie",
-      "name": "Malditos bastardos",
+      "name": "El precio del poder",
       "ids": {
-        "tmdb": 16869
+        "tmdb": 111
       },
-      "overview": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/zO4RPoYUv8S0na2K1Sff9wU3Sg2.jpg",
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t4pXMqWkYQdwSNS0V5UT6XX6goI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
+    },
+    {
+      "id": "tmdb:402431",
+      "type": "movie",
+      "name": "Wicked",
+      "ids": {
+        "tmdb": 402431
+      },
+      "overview": "Ambientada en la Tierra de Oz, mucho antes de la llegada de Dorothy Gale desde Kansas. Elphaba es una joven incomprendida por su inusual color verde que aún no ha descubierto su verdadero poder. Glinda es una popular joven marcada por sus privilegios y su ambición que aún no ha descubierto su verdadera pasión. Las dos se conocen como estudiantes de la Universidad Shiz, en la fantástica Tierra de Oz, y forjan una insólita pero profunda amistad. La trama abarca los acontecimientos del primer acto del musical de Broadway.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jglW41Tl27WManfn00IqgPZFlGV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/haXR5xFAo89zRHcKkwEeunss7YV.png"
     },
     {
       "id": "tmdb:744",
@@ -183,6 +169,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/wfZCqteye4nQttmHszgxkqAMSTw.png"
     },
     {
+      "id": "tmdb:16869",
+      "type": "movie",
+      "name": "Malditos bastardos",
+      "ids": {
+        "tmdb": 16869
+      },
+      "overview": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/zO4RPoYUv8S0na2K1Sff9wU3Sg2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/t4pXMqWkYQdwSNS0V5UT6XX6goI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
+    },
+    {
       "id": "tmdb:264660",
       "type": "movie",
       "name": "Ex Machina",
@@ -195,62 +195,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cRif2OfTTUXqBlF91JC0Hr6jfkR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/82ylrY3CHjZWq673KyfT0zWDzhY.png"
-    },
-    {
-      "id": "tmdb:8839",
-      "type": "movie",
-      "name": "Casper",
-      "ids": {
-        "tmdb": 8839
-      },
-      "overview": "La señora Crittenden contrata al doctor Harvey, para que libere la mansión de Whipstaff de los cuatro fantasmas que la habitan. Látigo, Tufo y Gordy no toleran a los mortales dentro de la casa y tienen un sentido del humor tan negro que ahuyenta a los más atrevidos. Su sobrino Casper, en cambio, es un joven amistoso que está harto de sus tíos. Harvey se presenta en la mansión con su hija Kat, una soñadora adolescente. Ella y Casper simpatizan inmediatamente, a pesar de que ambos tienen problemas para relacionarse. De Casper huye todo el mundo porque es un fantasma, y de Kat, en cuanto se enteran de la profesión de su padre. El fantasma y la joven son dos almas gemelas que entran en continuo conflicto con sus respectivos parientes por cualquier cosa.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7jRnqRTiE1WmPWN0zmMlF7s52Ap.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eNSxpyZO818EXRmgTVFrs4buWu7.png"
-    },
-    {
-      "id": "tmdb:680",
-      "type": "movie",
-      "name": "Pulp Fiction",
-      "ids": {
-        "tmdb": 680
-      },
-      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
-    },
-    {
-      "id": "tmdb:621",
-      "type": "movie",
-      "name": "Grease",
-      "ids": {
-        "tmdb": 621
-      },
-      "overview": "Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las vacaciones se acabaron y sus caminos se separaron. Al regresar al instituto Rydell, ambos vuelven a encontrarse de manera sorpresiva, pero el problema es que la imagen y actitud de Danny no es la misma que durante el verano: ya no es el encantador y atento chico que encandiló a Sandy, sino alguien engreído e insensible que sólo quiere presumir de duro delante de sus amigos.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/flSy0dexE82TiS6Si2FtulSHk8o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nfEILeo9gGBj3aeT2tzgHYm7GC4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f92CkhVfO3OkECUqhMXPbTFDszY.png"
-    },
-    {
-      "id": "tmdb:424",
-      "type": "movie",
-      "name": "La lista de Schindler",
-      "ids": {
-        "tmdb": 424
-      },
-      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3f92DMBTFqr3wgXpfxzrb0qv8nG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
     },
     {
       "id": "tmdb:453405",
@@ -267,32 +211,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/cAcpmSUx9iry60MsEdVHuy24tqD.png"
     },
     {
-      "id": "tmdb:13475",
+      "id": "tmdb:680",
       "type": "movie",
-      "name": "Star Trek",
+      "name": "Pulp Fiction",
       "ids": {
-        "tmdb": 13475
+        "tmdb": 680
       },
-      "overview": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero que, movido por la venganza, amenaza a toda la humanidad. Pero el destino de la galaxia está en manos de dos jóvenes rivales, que nacieron en mundos diferentes. Uno de ellos, Tiberius James Kirk, humano, busca emociones y es un líder nato. El otro, Spock, medio humano y medio vulcaniano, es menospreciado por los vulcanianos, por sus emociones humanas.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/koaCrE63a5ZVGjFSlh6vqFXJF3L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7uaXgLu3hkkS7ci0l0tc9SPHfER.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
-      "id": "tmdb:939243",
+      "id": "tmdb:424",
       "type": "movie",
-      "name": "Sonic 3: La película",
+      "name": "La lista de Schindler",
       "ids": {
-        "tmdb": 939243
+        "tmdb": 424
       },
-      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+      "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sGeSOPC8QppZtD29PyujCmyIXdA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3f92DMBTFqr3wgXpfxzrb0qv8nG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
+    },
+    {
+      "id": "tmdb:4248",
+      "type": "movie",
+      "name": "Scary Movie 2",
+      "ids": {
+        "tmdb": 4248
+      },
+      "overview": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/j5uRKwumod1RF1tCmZfuPHtG0cD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ye5diw1xr4yB69GP6FrB6qNMCKp.png"
     },
     {
       "id": "tmdb:1184918",
@@ -323,60 +281,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
     },
     {
-      "id": "tmdb:1175942",
+      "id": "tmdb:621",
       "type": "movie",
-      "name": "Los tipos malos 2",
+      "name": "Grease",
       "ids": {
-        "tmdb": 1175942
+        "tmdb": 621
       },
-      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "overview": "Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las vacaciones se acabaron y sus caminos se separaron. Al regresar al instituto Rydell, ambos vuelven a encontrarse de manera sorpresiva, pero el problema es que la imagen y actitud de Danny no es la misma que durante el verano: ya no es el encantador y atento chico que encandiló a Sandy, sino alguien engreído e insensible que sólo quiere presumir de duro delante de sus amigos.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/flSy0dexE82TiS6Si2FtulSHk8o.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uDj1JlcQK8ssCSr4J78Q0lLj5ew.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kcsudLBu2OKcdJrlkC2gFLU1DgU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nfEILeo9gGBj3aeT2tzgHYm7GC4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f92CkhVfO3OkECUqhMXPbTFDszY.png"
     },
     {
-      "id": "tmdb:75612",
+      "id": "tmdb:8839",
       "type": "movie",
-      "name": "Oblivion",
+      "name": "Casper",
       "ids": {
-        "tmdb": 75612
+        "tmdb": 8839
       },
-      "overview": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Onf4TW3mZn3oLeKVr9W4FGomQQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b7AGrCixCE9amigVPFRsFpeH6na.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qSdcZvMnaIsqXoBCqXJZpageQ7F.png"
-    },
-    {
-      "id": "tmdb:9614",
-      "type": "movie",
-      "name": "Terminagolf",
-      "ids": {
-        "tmdb": 9614
-      },
-      "overview": "Happy Gilmore era un fanático jugador de hockey y ahora no tiene objetivos en su vida. Cuando su novia le abandona y a su madre la echan del piso en el que vive por no pagar el alquiler, decide dedicarse a jugar al golf en torneos profesionales con la esperanza de reunir el suficiente dinero para cambiar su situación. Resulta que Happy tiene un potentísimo swing que manda la pelota a 400 yardas de distancia. Además, debido a su alocado temperamento, comienza a causar furor entre los medios de comunicación por sus extravagantes payasadas en los campos de golf.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/xkGHQdbvOm7PYNZoGUvIwSIMMcV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kqUOIuZkL7310xQZ9bqAAcuzEYI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M85cNazYWdDevCIvEaP275b2rE.png"
-    },
-    {
-      "id": "tmdb:9603",
-      "type": "movie",
-      "name": "Clueless (Fuera de onda)",
-      "ids": {
-        "tmdb": 9603
-      },
-      "overview": "La superficial, rica y socialmente exitosa Cher está en lo más alto de la escala de valores de su instituto de Beverly Hills. Viéndose a sí misma como una casamentera, Cher primero convence a dos profesores para que salgan juntos.",
+      "overview": "La señora Crittenden contrata al doctor Harvey, para que libere la mansión de Whipstaff de los cuatro fantasmas que la habitan. Látigo, Tufo y Gordy no toleran a los mortales dentro de la casa y tienen un sentido del humor tan negro que ahuyenta a los más atrevidos. Su sobrino Casper, en cambio, es un joven amistoso que está harto de sus tíos. Harvey se presenta en la mansión con su hija Kat, una soñadora adolescente. Ella y Casper simpatizan inmediatamente, a pesar de que ambos tienen problemas para relacionarse. De Casper huye todo el mundo porque es un fantasma, y de Kat, en cuanto se enteran de la profesión de su padre. El fantasma y la joven son dos almas gemelas que entran en continuo conflicto con sus respectivos parientes por cualquier cosa.",
       "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/2VDuwNrVXuD3UTlFDUXBx51E5tL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8mhEXI4smZcsOjSVnmHf7LKCN80.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/252ZKgSNNCey8W3Hs6rTtgUF3a4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7jRnqRTiE1WmPWN0zmMlF7s52Ap.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eNSxpyZO818EXRmgTVFrs4buWu7.png"
     },
     {
       "id": "tmdb:504608",
@@ -393,32 +323,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/sRFsXoNsZWPefcsz0DxOBcD0eC4.png"
     },
     {
-      "id": "tmdb:651586",
+      "id": "tmdb:9614",
       "type": "movie",
-      "name": "Superagente Makey",
+      "name": "Terminagolf",
       "ids": {
-        "tmdb": 651586
+        "tmdb": 9614
       },
-      "overview": "José Miguel \"Makey\" es un policía campechano que adora su trabajo en el barrio de Carabanchel y con un sentido de la responsabilidad y el honor desmesurado. Su vida da un vuelco cuando es degradado a agente de movilidad y destinado a la Costa del Sol debido a un error garrafal. Allí Makey se reencontrará con su hija con la que hace años que no se habla y se verá envuelto en una peligrosa trama de narcotráfico internacional. Makey está a punto de convertirse en el protagonista de las películas de acción con las que siempre ha soñado.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/1IjQJE90yB8WliDRb1N3EvEMsjr.jpg",
+      "overview": "Happy Gilmore era un fanático jugador de hockey y ahora no tiene objetivos en su vida. Cuando su novia le abandona y a su madre la echan del piso en el que vive por no pagar el alquiler, decide dedicarse a jugar al golf en torneos profesionales con la esperanza de reunir el suficiente dinero para cambiar su situación. Resulta que Happy tiene un potentísimo swing que manda la pelota a 400 yardas de distancia. Además, debido a su alocado temperamento, comienza a causar furor entre los medios de comunicación por sus extravagantes payasadas en los campos de golf.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/xkGHQdbvOm7PYNZoGUvIwSIMMcV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b5nA5dsAeuxctONYkEsER7h4dKy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tqx2cxHD1KtWxExUjv3QFTCvxYy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kqUOIuZkL7310xQZ9bqAAcuzEYI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M85cNazYWdDevCIvEaP275b2rE.png"
     },
     {
-      "id": "tmdb:4248",
+      "id": "tmdb:939243",
       "type": "movie",
-      "name": "Scary Movie 2",
+      "name": "Sonic 3: La película",
       "ids": {
-        "tmdb": 4248
+        "tmdb": 939243
       },
-      "overview": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j5uRKwumod1RF1tCmZfuPHtG0cD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ye5diw1xr4yB69GP6FrB6qNMCKp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sGeSOPC8QppZtD29PyujCmyIXdA.png"
+    },
+    {
+      "id": "tmdb:75612",
+      "type": "movie",
+      "name": "Oblivion",
+      "ids": {
+        "tmdb": 75612
+      },
+      "overview": "Un veterano asignado a extraer los recursos restantes de la Tierra comienza a cuestionar lo que sabe sobre su misión y sobre sí mismo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Onf4TW3mZn3oLeKVr9W4FGomQQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b7AGrCixCE9amigVPFRsFpeH6na.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gY4jBMVF5n0mxjiMNZcSXV7Oboo.png"
+    },
+    {
+      "id": "tmdb:1175942",
+      "type": "movie",
+      "name": "Los tipos malos 2",
+      "ids": {
+        "tmdb": 1175942
+      },
+      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uDj1JlcQK8ssCSr4J78Q0lLj5ew.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kcsudLBu2OKcdJrlkC2gFLU1DgU.png"
+    },
+    {
+      "id": "tmdb:1064213",
+      "type": "movie",
+      "name": "Anora",
+      "ids": {
+        "tmdb": 1064213
+      },
+      "overview": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ypTsorMoyUZWEz3xd9fwsqmw1uk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
     },
     {
       "id": "tmdb:1007734",
@@ -449,32 +421,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/eDRUdcXKWefWoYPCAjip63Hoje1.png"
     },
     {
-      "id": "tmdb:556678",
+      "id": "tmdb:9603",
       "type": "movie",
-      "name": "Emma.",
+      "name": "Clueless (Fuera de onda)",
       "ids": {
-        "tmdb": 556678
+        "tmdb": 9603
       },
-      "overview": "Guapa, inteligente y rica, la joven Emma Woodhouse es una reina sin rival en su pequeño pueblo. Nueva adaptación de la novela de Jane Austen publicada en 1815 sobre la vida de la joven Emma.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/hd5YQjsIPuLmZuvWfdv36apz8tE.jpg",
+      "overview": "La superficial, rica y socialmente exitosa Cher está en lo más alto de la escala de valores de su instituto de Beverly Hills. Viéndose a sí misma como una casamentera, Cher primero convence a dos profesores para que salgan juntos.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/2VDuwNrVXuD3UTlFDUXBx51E5tL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oz7RoRrNrqrT3KWG4ZSZ4f7D5aZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kvpUg5408c6HiJsL6UwaMEZRWek.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8mhEXI4smZcsOjSVnmHf7LKCN80.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/252ZKgSNNCey8W3Hs6rTtgUF3a4.png"
     },
     {
-      "id": "tmdb:8273",
+      "id": "tmdb:651586",
       "type": "movie",
-      "name": "American Pie ¡Menuda boda!",
+      "name": "Superagente Makey",
       "ids": {
-        "tmdb": 8273
+        "tmdb": 651586
       },
-      "overview": "Jim (Jason Biggs) le pide matrimonio a su novia Michelle (Alyson Hannigan) después de un incidente vergonzoso en un restaurante. Ella acepta, pero los problemas no terminan ahí para Jim. Ahora tiene que planear la boda con la ayuda de sus amigos Kevin y Finch, y evitar que Stifler, su grosero compañero de escuela, arruine la fiesta. Jim también se preocupa por caerle bien a los padres de Michelle y por aprender a bailar antes del gran día. Entre bromas pesadas, situaciones cómicas y momentos emotivos, Jim y Michelle intentan llegar al altar sanos y salvos.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg",
+      "overview": "José Miguel \"Makey\" es un policía campechano que adora su trabajo en el barrio de Carabanchel y con un sentido de la responsabilidad y el honor desmesurado. Su vida da un vuelco cuando es degradado a agente de movilidad y destinado a la Costa del Sol debido a un error garrafal. Allí Makey se reencontrará con su hija con la que hace años que no se habla y se verá envuelto en una peligrosa trama de narcotráfico internacional. Makey está a punto de convertirse en el protagonista de las películas de acción con las que siempre ha soñado.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/1IjQJE90yB8WliDRb1N3EvEMsjr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AjkSMZgoLkYakWrdsC6nCotJ4Y3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ffHWY7qju69by5q3e9evBKDMOM4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/b5nA5dsAeuxctONYkEsER7h4dKy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tqx2cxHD1KtWxExUjv3QFTCvxYy.png"
+    },
+    {
+      "id": "tmdb:13475",
+      "type": "movie",
+      "name": "Star Trek",
+      "ids": {
+        "tmdb": 13475
+      },
+      "overview": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero que, movido por la venganza, amenaza a toda la humanidad. Pero el destino de la galaxia está en manos de dos jóvenes rivales, que nacieron en mundos diferentes. Uno de ellos, Tiberius James Kirk, humano, busca emociones y es un líder nato. El otro, Spock, medio humano y medio vulcaniano, es menospreciado por los vulcanianos, por sus emociones humanas.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/koaCrE63a5ZVGjFSlh6vqFXJF3L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7uaXgLu3hkkS7ci0l0tc9SPHfER.png"
+    },
+    {
+      "id": "tmdb:216015",
+      "type": "movie",
+      "name": "Cincuenta sombras de Grey",
+      "ids": {
+        "tmdb": 216015
+      },
+      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qrjPMgPrGcXgbknrBH8gHgNRiCP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
+    },
+    {
+      "id": "tmdb:240",
+      "type": "movie",
+      "name": "El Padrino Parte II",
+      "ids": {
+        "tmdb": 240
+      },
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
+    },
+    {
+      "id": "tmdb:558449",
+      "type": "movie",
+      "name": "Gladiator II",
+      "ids": {
+        "tmdb": 558449
+      },
+      "overview": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oMJBJZ5N4J84Z56B6oYNc77C1wL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png"
+    },
+    {
+      "id": "tmdb:535544",
+      "type": "movie",
+      "name": "Downton Abbey",
+      "ids": {
+        "tmdb": 535544
+      },
+      "overview": "Año 1927. La familia Crawley y su carismática servidumbre se preparan para el momento más crucial de sus vidas. Una visita del rey y la reina de Inglaterra desatará una situación de escándalo, romance e intriga que pondrá en peligro el futuro de Downton... Continuación de la aclamada serie televisiva, 'Downton Abbey'.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/cSZ3S6mCN4gsTQoJztBdHEbDSuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ruroNdza1lZedxDjBkpOTyG2kFf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e5s697v3R0AJ3ohEU5ujPTTK9we.png"
+    },
+    {
+      "id": "tmdb:1035259",
+      "type": "movie",
+      "name": "Agárralo como puedas",
+      "ids": {
+        "tmdb": 1035259
+      },
+      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pUuMSzDBBXK6OBXlmhxJnHnrcej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
     },
     {
       "id": "tmdb:13183",
@@ -491,32 +547,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/k9lFXOoVKHCQePRVewYYcvvGK5G.png"
     },
     {
-      "id": "tmdb:1064213",
+      "id": "tmdb:1538",
       "type": "movie",
-      "name": "Anora",
+      "name": "Collateral",
       "ids": {
-        "tmdb": 1064213
+        "tmdb": 1538
       },
-      "overview": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
+      "overview": "Vincent es un frío y calculador asesino a sueldo que siempre va a por todas. Max es un taxista con muchos sueños y sin grandes resultados. En aquella noche fatídica, Max ha de llevar a Vincent a su próximo trabajo: una noche, cinco paradas, cinco golpes y una salida. Juntos, con sus vidas en choque continuo, ninguno de los dos volverá a ser el mismo. Esta noche todo va a cambiar...",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/cA7ul7L1kVzA9XJd11T0ln9E5iI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ypTsorMoyUZWEz3xd9fwsqmw1uk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dYVsBFfGLSCAZ9HqwOfkpgWUwTw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6PA1Amg4E5ZMK8kfNCl42fkToWg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9w4gPo5pgmXfdJjEOBD55p1O35i.png"
     },
     {
-      "id": "tmdb:216015",
+      "id": "tmdb:556678",
       "type": "movie",
-      "name": "Cincuenta sombras de Grey",
+      "name": "Emma.",
       "ids": {
-        "tmdb": 216015
+        "tmdb": 556678
       },
-      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "overview": "Guapa, inteligente y rica, la joven Emma Woodhouse es una reina sin rival en su pequeño pueblo. Nueva adaptación de la novela de Jane Austen publicada en 1815 sobre la vida de la joven Emma.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/hd5YQjsIPuLmZuvWfdv36apz8tE.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qrjPMgPrGcXgbknrBH8gHgNRiCP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oz7RoRrNrqrT3KWG4ZSZ4f7D5aZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kvpUg5408c6HiJsL6UwaMEZRWek.png"
+    },
+    {
+      "id": "tmdb:98",
+      "type": "movie",
+      "name": "Gladiator",
+      "ids": {
+        "tmdb": 98
+      },
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
       "id": "tmdb:954",
@@ -561,46 +631,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/j6pycC1CRNbKS8yVUOhZORfKuZ5.png"
     },
     {
-      "id": "tmdb:1035259",
+      "id": "tmdb:979660",
       "type": "movie",
-      "name": "Agárralo como puedas",
+      "name": "Freaky Tales",
       "ids": {
-        "tmdb": 1035259
+        "tmdb": 979660
       },
-      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+      "overview": "Cuatro historias interconectadas ambientadas en 1987 en Oakland, California, relatan el amor por la música, el cine, la gente, los lugares y los recuerdos más allá de nuestro universo conocido.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/z17yqLUxfyNUGE75uJxFPTCOmvV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pUuMSzDBBXK6OBXlmhxJnHnrcej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aGuWHXsr4d1MlL6wmG8qYxiCOGG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cjyqw29goBzKAZiXMEGnZhGRjKZ.png"
     },
     {
-      "id": "tmdb:39451",
+      "id": "tmdb:8273",
       "type": "movie",
-      "name": "Ahora los padres son ellos",
+      "name": "American Pie ¡Menuda boda!",
       "ids": {
-        "tmdb": 39451
+        "tmdb": 8273
       },
-      "overview": "Han tenido que pasar diez años, dos pequeños Fockers con su mujer, Pam (Polo) e incontables obstáculos para que Greg consiga finalmente entenderse con su exigente suegro Jack. Tras los problemas económicos, Greg consigue un segundo empleo en una compañía farmacéutica. Sin embargo, los recelos de Jack hacia su enfermero favorito regresan con más fuerza que nunca.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/wCQXPdbTIg5lvoWVvmqXnMBJzJ3.jpg",
+      "overview": "Jim (Jason Biggs) le pide matrimonio a su novia Michelle (Alyson Hannigan) después de un incidente vergonzoso en un restaurante. Ella acepta, pero los problemas no terminan ahí para Jim. Ahora tiene que planear la boda con la ayuda de sus amigos Kevin y Finch, y evitar que Stifler, su grosero compañero de escuela, arruine la fiesta. Jim también se preocupa por caerle bien a los padres de Michelle y por aprender a bailar antes del gran día. Entre bromas pesadas, situaciones cómicas y momentos emotivos, Jim y Michelle intentan llegar al altar sanos y salvos.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9UHc4I42zrYONGW5MgD5wKvrMly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t8lbMwc2CXYXuJqHYi0wY0M4tSh.png"
-    },
-    {
-      "id": "tmdb:11228",
-      "type": "movie",
-      "name": "(Daylight) Pánico en el túnel",
-      "ids": {
-        "tmdb": 11228
-      },
-      "overview": "Un camión que transporta sustancias peligrosas explota en el túnel Holland que une la isla de Manhattan con el continente. Las autoridades creen que hay supervivientes atrapados en el túnel pero no saben cómo rescatarlos. Además, las aguas del río Hudson están inundando el túnel, así que el tiempo apremia. Kit Matura, ex director del Servicio de Emergencia Médica, es el único que puede intentar el rescate porque conoce mejor que nadie las características del túnel.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/ui8gXzdzu8VO80PvGHLw0eouG2O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AoAu7hpnwIXSKNO5HPgnkSqMLQu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rB3ziYxYjd5EWxt3JuoimiOjpIg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/AjkSMZgoLkYakWrdsC6nCotJ4Y3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ffHWY7qju69by5q3e9evBKDMOM4.png"
     },
     {
       "id": "tmdb:2668",
@@ -617,20 +673,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/h3xHD8VB1ObGBZ76TZHLlvOJgRx.png"
     },
     {
-      "id": "tmdb:710295",
-      "type": "movie",
-      "name": "Hombre lobo",
-      "ids": {
-        "tmdb": 710295
-      },
-      "overview": "Blake es un hombre casado y padre de familia residente en San Francisco que hereda la remota casa donde creció en una zona rural de Oregón tras la desaparición de su propio padre, dado por muerto. En plena crisis de pareja con su enérgica esposa Charlotte, Blake la convence para tomarse un descanso de la gran ciudad y visitar la propiedad con su hija Ginger. Todo se tuerce cuando, de camino a la granja y en plena noche, la familia sufre el brutal ataque de un animal al que no consiguen ver y, en un intento desesperado por huir, se atrincheran dentro de la casa mientras la criatura merodea por la zona. Pero, con el paso de las horas, Blake comienza a comportarse de un modo extraño y a convertirse en algo irreconocible...",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6bYzhQ4DbuyEKmekOJosDBTfAyu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iHw5jjb9k4cTNiZJabhAfk6qBXR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwwjqwFOQMOvcrIDnLf0WzDsQtU.png"
-    },
-    {
       "id": "tmdb:447200",
       "type": "movie",
       "name": "El rascacielos",
@@ -645,60 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4tU6E8uDvbmz9g7kXeEHcTza7bB.png"
     },
     {
-      "id": "tmdb:240",
+      "id": "tmdb:4982",
       "type": "movie",
-      "name": "El Padrino Parte II",
+      "name": "American Gangster",
       "ids": {
-        "tmdb": 240
+        "tmdb": 4982
       },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "overview": "Nueva York, 1968. Frank Lucas es el taciturno chófer de un importante mafioso negro de Harlem. Cuando su jefe muere inesperadamente, Frank aprovecha la oportunidad para construir su propio imperio. Gracias a su talento, se convierte no sólo en el principal narcotraficante de la ciudad, inundando las calles con productos de mejor calidad y precio, sino también en un hombre público muy respetado. Richie Roberts, un policía incorruptible marginado por su honradez que conoce bien las calles, se da cuenta de que una persona ajena a los clanes trepa por la escalera del poder. Tanto Roberts como Lucas comparten un estricto código ético que les aparta de los demás y los convierte en dos figuras solitarias en lados opuestos de la ley. Cuando se encuentren, el enfrentamiento entre ellos será inevitable.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
-      "id": "tmdb:581726",
-      "type": "movie",
-      "name": "Infinite",
-      "ids": {
-        "tmdb": 581726
-      },
-      "overview": "Evan McCauley tiene habilidades que nunca aprendió y recuerdos de lugares que nunca ha visitado. Automedicado y al borde de un colapso mental, un grupo secreto que se hace llamar \"Infinitos\" acuden a su rescate, revelando que sus recuerdos son reales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l3OSraGBVQIZ5UaFlxpYsYnsxlB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y8EAwGUggdPGdeZULUOKAfoAibT.png"
-    },
-    {
-      "id": "tmdb:1538",
-      "type": "movie",
-      "name": "Collateral",
-      "ids": {
-        "tmdb": 1538
-      },
-      "overview": "Vincent es un frío y calculador asesino a sueldo que siempre va a por todas. Max es un taxista con muchos sueños y sin grandes resultados. En aquella noche fatídica, Max ha de llevar a Vincent a su próximo trabajo: una noche, cinco paradas, cinco golpes y una salida. Juntos, con sus vidas en choque continuo, ninguno de los dos volverá a ser el mismo. Esta noche todo va a cambiar...",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/cA7ul7L1kVzA9XJd11T0ln9E5iI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6PA1Amg4E5ZMK8kfNCl42fkToWg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9w4gPo5pgmXfdJjEOBD55p1O35i.png"
-    },
-    {
-      "id": "tmdb:535544",
-      "type": "movie",
-      "name": "Downton Abbey",
-      "ids": {
-        "tmdb": 535544
-      },
-      "overview": "Año 1927. La familia Crawley y su carismática servidumbre se preparan para el momento más crucial de sus vidas. Una visita del rey y la reina de Inglaterra desatará una situación de escándalo, romance e intriga que pondrá en peligro el futuro de Downton... Continuación de la aclamada serie televisiva, 'Downton Abbey'.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/cSZ3S6mCN4gsTQoJztBdHEbDSuD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ruroNdza1lZedxDjBkpOTyG2kFf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e5s697v3R0AJ3ohEU5ujPTTK9we.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hpPjmX5YqWht5rjHhHIyMjiV8oo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1VjOLfJ8GdFX6LWLc1ZWWDgXKOc.png"
     }
   ]
 }
