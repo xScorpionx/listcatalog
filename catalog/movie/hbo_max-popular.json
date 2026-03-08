@@ -1,34 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:157336",
-      "type": "movie",
-      "name": "Interstellar",
-      "ids": {
-        "tmdb": 157336
-      },
-      "overview": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6l5jO0mFAHCD9DDYTvNfsRveuhv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
-    },
-    {
-      "id": "tmdb:1061474",
-      "type": "movie",
-      "name": "Superman",
-      "ids": {
-        "tmdb": 1061474
-      },
-      "overview": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/HQorbRuFTBlTbV6stD8FrvERso.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2P25kW8Ij0oGPrwfUHessZl76LJ.png"
-    },
-    {
       "id": "tmdb:1054867",
       "type": "movie",
       "name": "Una batalla tras otra",
@@ -41,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hsxl8qWOIYbIt9XepIVR1awbXv3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qHtncEb6Zv9TXr40D2nn4xoy3ZI.png"
+    },
+    {
+      "id": "tmdb:157336",
+      "type": "movie",
+      "name": "Interstellar",
+      "ids": {
+        "tmdb": 157336
+      },
+      "overview": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6l5jO0mFAHCD9DDYTvNfsRveuhv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
     },
     {
       "id": "tmdb:1233413",
@@ -57,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bZJu9gI33snO5F0l7UoaRlLClhT.png"
     },
     {
-      "id": "tmdb:4232",
-      "type": "movie",
-      "name": "Scream",
-      "ids": {
-        "tmdb": 4232
-      },
-      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/czEkFf928ItpF2A5iDCwdzVhNc2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
-    },
-    {
       "id": "tmdb:4247",
       "type": "movie",
       "name": "Scary Movie",
@@ -85,18 +57,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
     },
     {
-      "id": "tmdb:27205",
+      "id": "tmdb:1061474",
       "type": "movie",
-      "name": "Origen",
+      "name": "Superman",
       "ids": {
-        "tmdb": 27205
+        "tmdb": 1061474
       },
-      "overview": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+      "overview": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d3ctC23USr9mibTKl8B553GJbJW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1kjEs8dAgF5Tem3cXjS7bHzoxop.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/HQorbRuFTBlTbV6stD8FrvERso.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2P25kW8Ij0oGPrwfUHessZl76LJ.png"
+    },
+    {
+      "id": "tmdb:4232",
+      "type": "movie",
+      "name": "Scream",
+      "ids": {
+        "tmdb": 4232
+      },
+      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/czEkFf928ItpF2A5iDCwdzVhNc2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
     },
     {
       "id": "tmdb:155",
@@ -113,32 +99,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
     },
     {
-      "id": "tmdb:346698",
+      "id": "tmdb:27205",
       "type": "movie",
-      "name": "Barbie",
+      "name": "Origen",
       "ids": {
-        "tmdb": 346698
+        "tmdb": 27205
       },
-      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "overview": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
-    },
-    {
-      "id": "tmdb:1078605",
-      "type": "movie",
-      "name": "Weapons",
-      "ids": {
-        "tmdb": 1078605
-      },
-      "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/amoUp4Th8pLpeE8Y6R8tMXbAg1S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2KMPlvfVDQcvzQdzUahdEXz2M2u.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/d3ctC23USr9mibTKl8B553GJbJW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1kjEs8dAgF5Tem3cXjS7bHzoxop.png"
     },
     {
       "id": "tmdb:324857",
@@ -155,18 +127,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/cCZ26gWTDyLadOmcFjug72jEo8H.png"
     },
     {
-      "id": "tmdb:807",
+      "id": "tmdb:22494",
       "type": "movie",
-      "name": "Seven",
+      "name": "Preguntas frecuentes sobre viajes en el tiempo",
       "ids": {
-        "tmdb": 807
+        "tmdb": 22494
       },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "overview": "Tres perdedores, un cínico y un par de frikis, uno de los cuales está obsesionado con los viajes en el tiempo, terminan la jornada en sus respectivos trabajos y van a un bar a charlar. Cuando este último va a pedir unas cervezas, en la barra se encuentra con una atractiva mujer (Anna Faris) que le dice que viene del futuro a arreglar una brecha temporal que está por ahí en alguna parte...",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/zQP41PkCcaKxftaqS2WpZhbYwGH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/27u18sLzk15LTAhw11wJlQMQ8MS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5y1W01IkQa9e6JGOWr8WSyT6fjT.png"
+    },
+    {
+      "id": "tmdb:1465528",
+      "type": "movie",
+      "name": "Querida Ms. - Una Revolución impresa",
+      "ids": {
+        "tmdb": 1465528
+      },
+      "overview": "Tres cineastas se sumergen profundamente en el legado histórico y complejo de la revista Ms. a través de la lente de algunas de sus portadas más icónicas, con imágenes de archivo nunca antes vistas y entrevistas atractivas con las poderosas mujeres que dieron forma a la revista en sus inicios hace más de cincuenta años",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/rUp4VCS4VlGvb6W2fZDGlBevQq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1a7HxVLS5MToeKNHH7C9NdGM9AT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cdhEr1CUzYH7ucn0fF3LdCN1Bk8.png"
+    },
+    {
+      "id": "tmdb:346698",
+      "type": "movie",
+      "name": "Barbie",
+      "ids": {
+        "tmdb": 346698
+      },
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
       "id": "tmdb:438631",
@@ -183,172 +183,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
     },
     {
-      "id": "tmdb:475557",
+      "id": "tmdb:634649",
       "type": "movie",
-      "name": "Joker",
+      "name": "Spider-Man: No Way Home",
       "ids": {
-        "tmdb": 475557
+        "tmdb": 634649
       },
-      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
-    },
-    {
-      "id": "tmdb:122",
-      "type": "movie",
-      "name": "El señor de los anillos: El retorno del rey",
-      "ids": {
-        "tmdb": 122
-      },
-      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
-    },
-    {
-      "id": "tmdb:11036",
-      "type": "movie",
-      "name": "El diario de Noa",
-      "ids": {
-        "tmdb": 11036
-      },
-      "overview": "En una residencia de ancianos, un hombre mayor lee a una mujer una historia de amor escrita en su viejo libro de notas. El libro cuenta la vida en los años 40 de Noah Calhoun y Allie Nelson, dos jóvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, pasaron un verano idílico juntos y profundamente enamorados, antes de ser separados, primero por sus padres, y más tarde por la Segunda Guerra Mundial.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/gFCnDKfsZWzyv9sweizVC4EWn06.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lJxdDxhj7en1Cz2neE17urbQtQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uvwkYTJGeW9q2bPqyCIV1yzznDr.png"
-    },
-    {
-      "id": "tmdb:674",
-      "type": "movie",
-      "name": "Harry Potter y el cáliz de fuego",
-      "ids": {
-        "tmdb": 674
-      },
-      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7RPxpmojq2sImOgKpcsX35Ksbvk.png"
-    },
-    {
-      "id": "tmdb:673",
-      "type": "movie",
-      "name": "Harry Potter y el prisionero de Azkaban",
-      "ids": {
-        "tmdb": 673
-      },
-      "overview": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m8XhUVtuCksm13QlPSYo0C2WviD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rd3MaMcrU6FFx0cYa53bgAbde2W.png"
-    },
-    {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "The Batman",
-      "ids": {
-        "tmdb": 414906
-      },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
-    },
-    {
-      "id": "tmdb:1124",
-      "type": "movie",
-      "name": "El truco final (El prestigio)",
-      "ids": {
-        "tmdb": 1124
-      },
-      "overview": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4vLKkGJB2htYiSFPbGTgfVc4EEY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png"
-    },
-    {
-      "id": "tmdb:945961",
-      "type": "movie",
-      "name": "Alien: Romulus",
-      "ids": {
-        "tmdb": 945961
-      },
-      "overview": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rzNc57SE0I4nV9qk73DMr51wLfW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wb2OPyCSGLy7Ca5RquWF3VfOJKx.png"
-    },
-    {
-      "id": "tmdb:78",
-      "type": "movie",
-      "name": "Blade Runner",
-      "ids": {
-        "tmdb": 78
-      },
-      "overview": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
-    },
-    {
-      "id": "tmdb:569094",
-      "type": "movie",
-      "name": "Spider-Man: Cruzando el Multiverso",
-      "ids": {
-        "tmdb": 569094
-      },
-      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jtjBbGR2fOEwv74EkwW3hkyvIGl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
-    },
-    {
-      "id": "tmdb:68734",
-      "type": "movie",
-      "name": "Argo",
-      "ids": {
-        "tmdb": 68734
-      },
-      "overview": "Irán, año 1979. Cuando la embajada de los Estados Unidos en Teherán es ocupada por seguidores del Ayatolá Jomeini para pedir la extradición del Sha de Persia, la CIA y el gobierno canadiense organizaron una operación para rescatar a seis diplomáticos estadounidenses que se habían refugiado en la casa del embajador de Canadá. Con este fin se recurrió a un experto en rescatar rehenes y se preparó el escenario para el rodaje de una película de ciencia-ficción, de título \"Argo\", en la que participaba un equipo de cazatalentos de Hollywood. La misión: ir a Teherán y hacer pasar a los diplomáticos por un equipo de filmación canadiense para traerlos de vuelta a casa.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/j1sBm1fZUhlFW5Qe0238H1LjDwA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7JIBNtF3xKt4FhhpDoouSj7nQuv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vsmC6332QWi5tlA5agpCp3ca9mP.png"
-    },
-    {
-      "id": "tmdb:594",
-      "type": "movie",
-      "name": "La terminal",
-      "ids": {
-        "tmdb": 594
-      },
-      "overview": "Viktor Navorski es un inmigrante balcánico que, al estallar la guerra en su país y quedar anulado su pasaporte, se encuentra involuntariamente exiliado en un aeropuerto de los Estados Unidos.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/GZHg5TMQpfNDjOWJ6zO2mO7ftS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tO0AgnQS0LXdjcI0RjSsNc8F23D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/31LPPI1ZPB6DvC4amKqx3q89sxb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
     },
     {
       "id": "tmdb:120",
@@ -365,116 +211,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
     },
     {
-      "id": "tmdb:4234",
+      "id": "tmdb:674",
       "type": "movie",
-      "name": "Scream 3",
+      "name": "Harry Potter y el cáliz de fuego",
       "ids": {
-        "tmdb": 4234
+        "tmdb": 674
       },
-      "overview": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg",
+      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dfCf1PvqQf9bVp6t8GNob6mPnCz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wkqfrcS97zJ7frm8oeBngTqXGO3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7RPxpmojq2sImOgKpcsX35Ksbvk.png"
     },
     {
-      "id": "tmdb:634649",
+      "id": "tmdb:807",
       "type": "movie",
-      "name": "Spider-Man: No Way Home",
+      "name": "Seven",
       "ids": {
-        "tmdb": 634649
+        "tmdb": 807
       },
-      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     },
     {
-      "id": "tmdb:496243",
+      "id": "tmdb:1078605",
       "type": "movie",
-      "name": "Parásitos",
+      "name": "Weapons",
       "ids": {
-        "tmdb": 496243
+        "tmdb": 1078605
       },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-    },
-    {
-      "id": "tmdb:18785",
-      "type": "movie",
-      "name": "Resacón en Las Vegas",
-      "ids": {
-        "tmdb": 18785
-      },
-      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
-    },
-    {
-      "id": "tmdb:696506",
-      "type": "movie",
-      "name": "Mickey 17",
-      "ids": {
-        "tmdb": 696506
-      },
-      "overview": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c2B2xGkqJ3Ytuq01ybNw09PfNH7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png"
-    },
-    {
-      "id": "tmdb:796",
-      "type": "movie",
-      "name": "Crueles intenciones",
-      "ids": {
-        "tmdb": 796
-      },
-      "overview": "Kathryn y Sebastian son dos hermanastros que viven Manhattan, estudiantes de bachillerato en un elitista instituto de Nueva York. Cada uno es más manipulador y más perverso que el otro, así que harán una singular apuesta. Sebastian debe cortejar a una chica virgen que ha encandilado al novio de Kathryn. Si Sebastian pierde, Kathryn se quedará con su Jaguar, pero si gana... la tendrá a ella.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/c4hIfeTlAjTcy2LRRcNXPMCyf0L.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTmEgvCUikntpBbAIrffzaEw3Pq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/krlYDuBf5Rl99XuZS3jwP8aFSrY.png"
-    },
-    {
-      "id": "tmdb:671",
-      "type": "movie",
-      "name": "Harry Potter y la piedra filosofal",
-      "ids": {
-        "tmdb": 671
-      },
-      "overview": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/omeA5Y581lHVTSDkvqDIzDytVNR.png"
-    },
-    {
-      "id": "tmdb:453405",
-      "type": "movie",
-      "name": "Géminis",
-      "ids": {
-        "tmdb": 453405
-      },
-      "overview": "Henry Bogan, un asesino a sueldo, pretende retirarse porque se siente viejo. Sin embargo, hay alguien que no está dispuesto a permitírselo porque tiene la misión de matarlo: un clon suyo más joven, más rápido y más fuerte.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1ysVcEev60lhEQasMFA8RCCfHyZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAcpmSUx9iry60MsEdVHuy24tqD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/amoUp4Th8pLpeE8Y6R8tMXbAg1S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2KMPlvfVDQcvzQdzUahdEXz2M2u.png"
     },
     {
       "id": "tmdb:950387",
@@ -491,60 +267,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
     },
     {
-      "id": "tmdb:680",
+      "id": "tmdb:414906",
       "type": "movie",
-      "name": "Pulp Fiction",
+      "name": "The Batman",
       "ids": {
-        "tmdb": 680
+        "tmdb": 414906
       },
-      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
     },
     {
-      "id": "tmdb:917496",
+      "id": "tmdb:11036",
       "type": "movie",
-      "name": "Bitelchús Bitelchús",
+      "name": "El diario de Noa",
       "ids": {
-        "tmdb": 917496
+        "tmdb": 11036
       },
-      "overview": "Tras una inesperada tragedia familiar, tres generaciones de la familia Deetz regresan a Winter River. La vida de Lydia, todavía atormentada por Bitelchús, da un vuelco cuando su rebelde hija adolescente, Astrid, descubre la misteriosa maqueta de la ciudad en el desván y el portal al Más Allá se abre accidentalmente. Con los problemas que se avecinan en ambos reinos, es sólo cuestión de tiempo que alguien diga el nombre de Bitelchús tres veces y el travieso demonio regrese para desatar su propio caos.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
+      "overview": "En una residencia de ancianos, un hombre mayor lee a una mujer una historia de amor escrita en su viejo libro de notas. El libro cuenta la vida en los años 40 de Noah Calhoun y Allie Nelson, dos jóvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, pasaron un verano idílico juntos y profundamente enamorados, antes de ser separados, primero por sus padres, y más tarde por la Segunda Guerra Mundial.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/gFCnDKfsZWzyv9sweizVC4EWn06.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nikhkqXzyty3GZspCPjrlbfIlM9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xmoffWxd0uf9OdESgpXUKhDqsxz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lJxdDxhj7en1Cz2neE17urbQtQJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uvwkYTJGeW9q2bPqyCIV1yzznDr.png"
     },
     {
-      "id": "tmdb:49026",
+      "id": "tmdb:122",
       "type": "movie",
-      "name": "El caballero oscuro: La leyenda renace",
+      "name": "El señor de los anillos: El retorno del rey",
       "ids": {
-        "tmdb": 49026
+        "tmdb": 122
       },
-      "overview": "Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg",
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vidqGAD9LbHnSBwRf3tOGBInxSv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
-    },
-    {
-      "id": "tmdb:4248",
-      "type": "movie",
-      "name": "Scary Movie 2",
-      "ids": {
-        "tmdb": 4248
-      },
-      "overview": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j5uRKwumod1RF1tCmZfuPHtG0cD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ye5diw1xr4yB69GP6FrB6qNMCKp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
     },
     {
       "id": "tmdb:693134",
@@ -561,46 +323,157 @@
       "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
     },
     {
-      "id": "tmdb:460465",
+      "id": "tmdb:70",
       "type": "movie",
-      "name": "Mortal Kombat",
+      "name": "Million Dollar Baby",
       "ids": {
-        "tmdb": 460465
+        "tmdb": 70
       },
-      "overview": "Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los reinos del malvado hechicero Shang Tsung.",
+      "overview": "Frankie Dunn, después de haber entrenado y representado a los mejores púgiles, regenta un gimnasio con la ayuda de Scrap, un ex-boxeador que, además, es su único amigo. Frankie es un hombre solitario y adusto que se refugia desde hace años en la religión buscando una redención que no llega. Un día, entra en su gimnasio Maggie Fitzgerald, una voluntariosa chica que quiere boxear y que está dispuesta a luchar denodadamente para conseguirlo. Pero lo que más desea y necesita es que alguien crea en ella. Frankie la rechaza alegando que es demasiado mayor y que, además, él no entrena a chicas. Pero Maggie no se rinde y se machaca cada día en el gimnasio, con el único apoyo de Scrap. Finalmente, convencido de la inquebrantable determinación de Maggie, Frankie decide entrenarla.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/3mNb5EaO5HfgrxZGx917c8kNp6E.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/efXetskp2hnswIIYHFXaHS0UlME.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tgKVn4ZCbHWc00BzShr9HsfTdGp.png"
+    },
+    {
+      "id": "tmdb:475557",
+      "type": "movie",
+      "name": "Joker",
+      "ids": {
+        "tmdb": 475557
+      },
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
+    },
+    {
+      "id": "tmdb:569094",
+      "type": "movie",
+      "name": "Spider-Man: Cruzando el Multiverso",
+      "ids": {
+        "tmdb": 569094
+      },
+      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jtjBbGR2fOEwv74EkwW3hkyvIGl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
+    },
+    {
+      "id": "tmdb:945961",
+      "type": "movie",
+      "name": "Alien: Romulus",
+      "ids": {
+        "tmdb": 945961
+      },
+      "overview": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rzNc57SE0I4nV9qk73DMr51wLfW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wb2OPyCSGLy7Ca5RquWF3VfOJKx.png"
+    },
+    {
+      "id": "tmdb:671",
+      "type": "movie",
+      "name": "Harry Potter y la piedra filosofal",
+      "ids": {
+        "tmdb": 671
+      },
+      "overview": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/omeA5Y581lHVTSDkvqDIzDytVNR.png"
+    },
+    {
+      "id": "tmdb:496243",
+      "type": "movie",
+      "name": "Parásitos",
+      "ids": {
+        "tmdb": 496243
+      },
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
+    },
+    {
+      "id": "tmdb:673",
+      "type": "movie",
+      "name": "Harry Potter y el prisionero de Azkaban",
+      "ids": {
+        "tmdb": 673
+      },
+      "overview": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/m8XhUVtuCksm13QlPSYo0C2WviD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rd3MaMcrU6FFx0cYa53bgAbde2W.png"
+    },
+    {
+      "id": "tmdb:4248",
+      "type": "movie",
+      "name": "Scary Movie 2",
+      "ids": {
+        "tmdb": 4248
+      },
+      "overview": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/j5uRKwumod1RF1tCmZfuPHtG0cD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ye5diw1xr4yB69GP6FrB6qNMCKp.png"
+    },
+    {
+      "id": "tmdb:1124",
+      "type": "movie",
+      "name": "El truco final (El prestigio)",
+      "ids": {
+        "tmdb": 1124
+      },
+      "overview": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4vLKkGJB2htYiSFPbGTgfVc4EEY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l8dyRmmIzS4rZi9rxIZxahWa0cy.png"
+    },
+    {
+      "id": "tmdb:680",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "ids": {
+        "tmdb": 680
+      },
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
+    },
+    {
+      "id": "tmdb:822100",
+      "type": "movie",
+      "name": "A Choice of Weapons: Inspired by Gordon Parks",
+      "ids": {
+        "tmdb": 822100
+      },
+      "overview": "Este documental narra la carrera estelar del hombre renacentista Gordon Parks desde el fotógrafo del personal de la revista LIFE, pasando por su desarrollo artístico fotografiando a los estadounidenses comunes, hasta su evolución como novelista y cineasta innovador.",
       "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/2acqTZDykiX8U4oDVBIsNcm5O2o.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vdLfTNJBOXZZFXzyXguo7QuGzhZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4EyEEBgMOrhg3TJfAgUGsY9Z2b2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qP34tR8SB1yoLeRGqZqPLLveHXk.png"
-    },
-    {
-      "id": "tmdb:308266",
-      "type": "movie",
-      "name": "Juego de armas",
-      "ids": {
-        "tmdb": 308266
-      },
-      "overview": "Historia de dos jóvenes a los que el Pentágono pagó 300 millones de dólares para armar a los aliados americanos en Afganistán",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/jwBcQXp7WgYgrcANpnuLCCfLpkK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7SiZaU2Lefp5DRDh42g3X7CVuZ2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/umcfCDUBPzgxK7909jQTJupNMeH.png"
-    },
-    {
-      "id": "tmdb:124905",
-      "type": "movie",
-      "name": "Godzilla",
-      "ids": {
-        "tmdb": 124905
-      },
-      "overview": "Gareth Edwards dirige este \"reboot\", que se sitúa antes en el tiempo que la película de 1998 dirigida por Roland Emmerich, que nos llevará a conocer los orígenes del famoso monstruo japonés gigante Godzilla.  Protagonizada por Bryan Cranston, ganador del Globo de Oro por Breaking Bad, que da vida a Joe Brody un científico que descubre que algo terrible está a punto de suceder cuando una serie de tsunamis comienzan a llegar a las costas, anticipando la llegada de numerosos monstruos de gran tamaño mientras el ejército intenta defenderse en vano.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dDeucnUrKU0MOk5CT22J0Pyfdik.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3eUn21Q2LPA4if0OtdvlyXFsBFh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wSsXu290G1M4x7AUBiwN4Nw6ZUb.jpg"
     },
     {
       "id": "tmdb:315635",
@@ -617,18 +490,186 @@
       "logo": "https://image.tmdb.org/t/p/w500/1AE40jRvQpvQczbgq0P0LkVZgBi.png"
     },
     {
-      "id": "tmdb:504608",
+      "id": "tmdb:917496",
       "type": "movie",
-      "name": "Rocketman",
+      "name": "Bitelchús Bitelchús",
       "ids": {
-        "tmdb": 504608
+        "tmdb": 917496
       },
-      "overview": "'Rocketman' es la historia de Elton John, desde sus años como niño prodigio del piano en la Royal Academy of Music hasta llegar a ser una superestrella de fama mundial gracias a su influyente y duradera asociación con su colaborador y letrista Bernie Taupin.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/nTjYNe0kd18PGjKudRqP8mgVido.jpg",
+      "overview": "Tras una inesperada tragedia familiar, tres generaciones de la familia Deetz regresan a Winter River. La vida de Lydia, todavía atormentada por Bitelchús, da un vuelco cuando su rebelde hija adolescente, Astrid, descubre la misteriosa maqueta de la ciudad en el desván y el portal al Más Allá se abre accidentalmente. Con los problemas que se avecinan en ambos reinos, es sólo cuestión de tiempo que alguien diga el nombre de Bitelchús tres veces y el travieso demonio regrese para desatar su propio caos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gbEAX7QKvsucTPO62fLwhVn8jz2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sRFsXoNsZWPefcsz0DxOBcD0eC4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nikhkqXzyty3GZspCPjrlbfIlM9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xmoffWxd0uf9OdESgpXUKhDqsxz.png"
+    },
+    {
+      "id": "tmdb:4234",
+      "type": "movie",
+      "name": "Scream 3",
+      "ids": {
+        "tmdb": 4234
+      },
+      "overview": "Después de los terroríficos acontecimientos que tuvieron lugar en la localidad de Woodsboro, Sidney vive alejada del mundo en una casita de las montañas, intentando olvidar el pasado. Se dedica a proporcionar apoyo moral a mujeres con problemas a través del teléfono; pero, un día, alguien la llama para informarla de los asesinatos que se están produciendo durante el rodaje de \"Puñaladas 3\", película basada en los hechos de los que ella fue protagonista.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/oc0nWpMJCN0SFr3xEkrNdymFfRS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dfCf1PvqQf9bVp6t8GNob6mPnCz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wkqfrcS97zJ7frm8oeBngTqXGO3.png"
+    },
+    {
+      "id": "tmdb:823464",
+      "type": "movie",
+      "name": "Godzilla y Kong: El nuevo imperio",
+      "ids": {
+        "tmdb": 823464
+      },
+      "overview": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5uzu4Zo5AbJlOQIBAqeq1ecfmmm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7GQswKy5K1W3nYCwwQupNkuG3W8.svg"
+    },
+    {
+      "id": "tmdb:78",
+      "type": "movie",
+      "name": "Blade Runner",
+      "ids": {
+        "tmdb": 78
+      },
+      "overview": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
+    },
+    {
+      "id": "tmdb:203801",
+      "type": "movie",
+      "name": "Operación U.N.C.L.E.",
+      "ids": {
+        "tmdb": 203801
+      },
+      "overview": "Guerra fría, años 60. Narra las aventuras de dos agentes secretos que se parecen más de lo que creen: Napoleon Solo, de la CIA, e Illya Kuryakin, del KGB. Ambos se ven obligados a olvidar sus diferencias y formar un equipo cuya misión será poner fin a una misteriosa organización criminal internacional que pretende desestabilizar el frágil equilibrio de poder provocado por la proliferación de las armas nucleares. La hija de un científico alemán desaparecido es la clave para infiltrarse en la organización, encontrar al científico y evitar una catástrofe mundial.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/pdkOcFgb2entKG6K3TqWhXVUnm2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3N38lWiTPMjaWxxB3Hx7qeHNKfb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cGpGupsOijIqxgUSI4IVHWBqBRh.png"
+    },
+    {
+      "id": "tmdb:49026",
+      "type": "movie",
+      "name": "El caballero oscuro: La leyenda renace",
+      "ids": {
+        "tmdb": 49026
+      },
+      "overview": "Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vidqGAD9LbHnSBwRf3tOGBInxSv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
+    },
+    {
+      "id": "tmdb:121",
+      "type": "movie",
+      "name": "El señor de los anillos: Las dos torres",
+      "ids": {
+        "tmdb": 121
+      },
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
+    },
+    {
+      "id": "tmdb:672",
+      "type": "movie",
+      "name": "Harry Potter y la cámara secreta",
+      "ids": {
+        "tmdb": 672
+      },
+      "overview": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fjN1i7uH4KDVbNmfBBZeuF98J83.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f79rol2Sf9xPhhTbgNeH6mhRNfL.png"
+    },
+    {
+      "id": "tmdb:574475",
+      "type": "movie",
+      "name": "Destino final: Lazos de sangre",
+      "ids": {
+        "tmdb": 574475
+      },
+      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5bDQlR7p31oAP4JvTriLbjfbCTm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hH2IlqoapbAAaRopv9HFiM9kkrh.png"
+    },
+    {
+      "id": "tmdb:18785",
+      "type": "movie",
+      "name": "Resacón en Las Vegas",
+      "ids": {
+        "tmdb": 18785
+      },
+      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
+    },
+    {
+      "id": "tmdb:68734",
+      "type": "movie",
+      "name": "Argo",
+      "ids": {
+        "tmdb": 68734
+      },
+      "overview": "Irán, año 1979. Cuando la embajada de los Estados Unidos en Teherán es ocupada por seguidores del Ayatolá Jomeini para pedir la extradición del Sha de Persia, la CIA y el gobierno canadiense organizaron una operación para rescatar a seis diplomáticos estadounidenses que se habían refugiado en la casa del embajador de Canadá. Con este fin se recurrió a un experto en rescatar rehenes y se preparó el escenario para el rodaje de una película de ciencia-ficción, de título \"Argo\", en la que participaba un equipo de cazatalentos de Hollywood. La misión: ir a Teherán y hacer pasar a los diplomáticos por un equipo de filmación canadiense para traerlos de vuelta a casa.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/j1sBm1fZUhlFW5Qe0238H1LjDwA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7JIBNtF3xKt4FhhpDoouSj7nQuv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vsmC6332QWi5tlA5agpCp3ca9mP.png"
+    },
+    {
+      "id": "tmdb:696506",
+      "type": "movie",
+      "name": "Mickey 17",
+      "ids": {
+        "tmdb": 696506
+      },
+      "overview": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c2B2xGkqJ3Ytuq01ybNw09PfNH7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tnUpAoM71kStcZfd9pRJVX0jb2p.png"
+    },
+    {
+      "id": "tmdb:453405",
+      "type": "movie",
+      "name": "Géminis",
+      "ids": {
+        "tmdb": 453405
+      },
+      "overview": "Henry Bogan, un asesino a sueldo, pretende retirarse porque se siente viejo. Sin embargo, hay alguien que no está dispuesto a permitírselo porque tiene la misión de matarlo: un clon suyo más joven, más rápido y más fuerte.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1ysVcEev60lhEQasMFA8RCCfHyZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cAcpmSUx9iry60MsEdVHuy24tqD.png"
     },
     {
       "id": "tmdb:297802",
@@ -645,60 +686,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9iY6EaEXo0f7aIoaw1YqKf185pq.png"
     },
     {
-      "id": "tmdb:694",
+      "id": "tmdb:59121",
       "type": "movie",
-      "name": "El resplandor",
+      "name": "El enemigo en casa",
       "ids": {
-        "tmdb": 694
+        "tmdb": 59121
       },
-      "overview": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/mm003Mj2e9kJRsrxiVdPn2BSBPh.jpg",
+      "overview": "El Coronel Casey descubre lo que parece ser loa  planes del general Lloyd para utilizar ejercicios militares falsos para ayudar a Jack Giddings en sus planes de eliminar al presidente de Foster de su cargo.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/2qEjb22Lg6xYRumlKc3crq6e3qp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kgT7VSHDxwPy62Km3Xcip87jBYe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
-    },
-    {
-      "id": "tmdb:462",
-      "type": "movie",
-      "name": "Erin Brockovich",
-      "ids": {
-        "tmdb": 462
-      },
-      "overview": "Erin Brockovich es una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores, pero todo cambiará cuando decida investigar el extraño caso de unos clientes que padecen una sospechosa enfermedad.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/4WiaVbWcRhVItfJc5ZNQUwJwigZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7QkRhSsTa1SVWaOMwB0GwSQY4kt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wFoPRgEg60SPZSVvubcGdYIlaYT.png"
-    },
-    {
-      "id": "tmdb:787699",
-      "type": "movie",
-      "name": "Wonka",
-      "ids": {
-        "tmdb": 787699
-      },
-      "overview": "Basada en el personaje que protagoniza \"Charlie y la fábrica de chocolate\", el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, \"Wonka\" cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/6eHcR7zwvNSvkOl9jbctU0lvZQ1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/arX5fqUH7t0TxiCDbDEPCeSqYk4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4MdzluUXHjgVRwRRNh5vSPq0TB5.png"
-    },
-    {
-      "id": "tmdb:75",
-      "type": "movie",
-      "name": "Mars Attacks!",
-      "ids": {
-        "tmdb": 75
-      },
-      "overview": "Parodia de los filmes de ciencia ficción de los años 50. Unos platillos volantes procedentes de Marte sobrevuelan todas las capitales del mundo. La población, aterrada, espera conocer sus intenciones. Al presidente de los Estados Unidos, su asesor científico le asegura que serán absolutamente pacíficas. Sin embargo, sus asesores militares le aconsejan que aniquile a los marcianos antes de que sea demasiado tarde.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/uNtD2Ci0sJSahFNtvxbVldqEpXx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4qFcUKlkcUj9V9Cbh1tyyLmg2rE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z82rHyDmqUYT7imb39kAOSD8Tjx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tIDRCxqfNmMXxbG34w21YzQlycR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oZZxrWGWG3Pn2ilI5OvwGmQfklT.png"
     }
   ]
 }

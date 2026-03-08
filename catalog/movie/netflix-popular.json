@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tmdb:1265609",
+      "type": "movie",
+      "name": "Máquina de guerra",
+      "ids": {
+        "tmdb": 1265609
+      },
+      "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aq2vbzxcG5K3SSLReMqO5TettmE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uMzy7fmKcVvd6nMwA7NmRXsgA84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/72I2CuBl7ArEgv4rijdnVvd3WOS.png"
+    },
+    {
+      "id": "tmdb:1426964",
+      "type": "movie",
+      "name": "Hermandad: Estado de terror",
+      "ids": {
+        "tmdb": 1426964
+      },
+      "overview": "En medio de una ola de violencia inédita que sacude São Paulo, una abogada ligada al mundo criminal debe pactar con la policía para salvar a su sobrina secuestrada.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kZTCrQMtOTvHZrrZB2cczsORHrl.png"
+    },
+    {
       "id": "tmdb:1389149",
       "type": "movie",
       "name": "Acusada",
@@ -13,20 +41,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/zflEB87zOxxNEjOq0zCNjMUV31.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mGf9g01RTgvEGXMl7WzO8RxaX6a.png"
-    },
-    {
-      "id": "tmdb:1244975",
-      "type": "movie",
-      "name": "Los huérfanos",
-      "ids": {
-        "tmdb": 1244975
-      },
-      "overview": "Dos amigos de la infancia deben superar sus diferencias cuando una vieja amiga muere en un sospechoso accidente de coche y su hija adolescente busca venganza.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/vPz9HVmzi9Lwllpmac4aKauwNlp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xzY15HIBMR1MPo9Me8OsaZShF9T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9BM0dGGWreoJFysiTxfrkAtXGZE.png"
     },
     {
       "id": "tmdb:1629382",
@@ -71,20 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mOTwXTjYJmgNFiL4KU5wWLkwNy9.png"
     },
     {
-      "id": "tmdb:1426964",
-      "type": "movie",
-      "name": "Hermandad: Estado de terror",
-      "ids": {
-        "tmdb": 1426964
-      },
-      "overview": "En medio de una ola de violencia inédita que sacude São Paulo, una abogada ligada al mundo criminal debe pactar con la policía para salvar a su sobrina secuestrada.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kZTCrQMtOTvHZrrZB2cczsORHrl.png"
-    },
-    {
       "id": "tmdb:803796",
       "type": "movie",
       "name": "Las guerreras k-pop",
@@ -99,18 +99,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9cM22kiLT7GthfbYj88mEBeKjqK.png"
     },
     {
-      "id": "tmdb:278",
+      "id": "tmdb:1244975",
       "type": "movie",
-      "name": "Cadena perpetua",
+      "name": "Los huérfanos",
       "ids": {
-        "tmdb": 278
+        "tmdb": 1244975
       },
-      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "overview": "Dos amigos de la infancia deben superar sus diferencias cuando una vieja amiga muere en un sospechoso accidente de coche y su hija adolescente busca venganza.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/vPz9HVmzi9Lwllpmac4aKauwNlp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ftNEUipZUPFMcj87Ffx8MlY1pJs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xzY15HIBMR1MPo9Me8OsaZShF9T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9BM0dGGWreoJFysiTxfrkAtXGZE.png"
     },
     {
       "id": "tmdb:4247",
@@ -127,18 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
     },
     {
-      "id": "tmdb:155",
+      "id": "tmdb:278",
       "type": "movie",
-      "name": "El caballero oscuro",
+      "name": "Cadena perpetua",
       "ids": {
-        "tmdb": 155
+        "tmdb": 278
       },
-      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uOmovkS2Kcx5DAJTyC1PXQbwuT6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ftNEUipZUPFMcj87Ffx8MlY1pJs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
     },
     {
       "id": "tmdb:1062722",
@@ -155,102 +155,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/A2qs8jKKvTIuHSIJjB0CT6PQNbj.png"
     },
     {
-      "id": "tmdb:808",
+      "id": "tmdb:155",
       "type": "movie",
-      "name": "Shrek",
+      "name": "El caballero oscuro",
       "ids": {
-        "tmdb": 808
+        "tmdb": 155
       },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
-      "id": "tmdb:1475372",
-      "type": "movie",
-      "name": "Shutter",
-      "ids": {
-        "tmdb": 1475372
-      },
-      "overview": "Darwin, a senior photographer who consistently uses a manual camera, is shocked to discover the appearance of a woman's shadow in every photo he takes. Soon, the woman's figure appears in real life, terrorizing him. Pia, Darwin's girlfriend, decides to investigate the woman's identity. It turns out the woman is Lilies, an outstanding student who once studied at their university. When Darwin's friends die one by one, Pia is convinced this is related to a 'sin' Darwin committed in the past.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/7GXs0b8ZyeZ5tTajITMMO0aZX4J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ey31jdHYSf30Es3VLYTjZJEWGde.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5sUdPbhy2cx3zzv5HeDyNjwFznH.png"
-    },
-    {
-      "id": "tmdb:1379912",
-      "type": "movie",
-      "name": "Uninvited",
-      "ids": {
-        "tmdb": 1379912
-      },
-      "overview": "Eva seeks revenge on billionaire Guilly for killing her daughter. Disguised, she attends his party with a vengeful plan.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/gchPjcZwTif6FEHEV7Z07i9PhOE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xk6bRbf2VKEdzOR3wHX7Wy6kwGY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9qXTHlnvI7YjAEMI4hrjDZzpPEx.png"
-    },
-    {
-      "id": "tmdb:824349",
-      "type": "movie",
-      "name": "Mediterráneo",
-      "ids": {
-        "tmdb": 824349
-      },
-      "overview": "Otoño 2015. Dos socorristas, Oscar y Gerard, viajan hasta Lesbos (Grecia) impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Al llegar descubren una realidad sobrecogedora: miles de personas arriesgan su vida cada día cruzando el mar en precarias embarcaciones y huyendo de conflictos armados. Sin embargo, nadie ejerce labores de rescate. Junto a Esther, Nico y otros miembros del equipo, lucharán por cumplir un cometido, dando apoyo a personas que lo necesitan. Para todos ellos, este viaje inicial supondrá una odisea que cambiará sus vidas.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/nyEljHUdujmIsi8w87Dc4QSBiD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3VKGhlCSXoGyYbPHzccv7XMujXn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m4iE7YA3DRRFRfHKWXgNzzYgPWX.png"
-    },
-    {
-      "id": "tmdb:1105832",
-      "type": "movie",
-      "name": "Simón",
-      "ids": {
-        "tmdb": 1105832
-      },
-      "overview": "Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/sllxb3Ydr9Rgjl1MuL7tT37ap35.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sb6YO8QwlJYJZCYroVWV0psNmXL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/r9Zon7NTkA70BuC90Uvf9mqXMXG.png"
-    },
-    {
-      "id": "tmdb:346698",
-      "type": "movie",
-      "name": "Barbie",
-      "ids": {
-        "tmdb": 346698
-      },
-      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
-    },
-    {
-      "id": "tmdb:697843",
-      "type": "movie",
-      "name": "Tyler Rake 2",
-      "ids": {
-        "tmdb": 697843
-      },
-      "overview": "Tras haber estado al borde de la muerte, el agente de élite Tyler Rake emprende una misión de alto riesgo: sacar de la cárcel a la familia de un despiadado gánster.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/ugO3UXyFx2fPUquxfRd7EP1bRC2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/s740KGCfBezTmGY0LgHPEhGRgPk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ewW2HKZt4O69M3EtlqIQjvZtHV6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uOmovkS2Kcx5DAJTyC1PXQbwuT6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
     },
     {
       "id": "tmdb:238",
@@ -267,18 +183,102 @@
       "logo": "https://image.tmdb.org/t/p/w500/gSDhcObC7ytBG7VNzcaGJki01iW.png"
     },
     {
-      "id": "tmdb:807",
+      "id": "tmdb:1180831",
       "type": "movie",
-      "name": "Seven",
+      "name": "Trol 2",
       "ids": {
-        "tmdb": 807
+        "tmdb": 1180831
       },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "overview": "Cuando un nuevo y peligroso trol amenaza con devastar su país, Nora, Andreas y el comandante Kris se embarcan en la misión más peligrosa de sus vidas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/AisyKEN1zLKRcAPpeJ5G5DaBhyw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/y0o5MAGciafy71JzyZWUg5CQShF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n9gs9F1ZYSZ0jaOHuJV2ewJbTmX.png"
+    },
+    {
+      "id": "tmdb:11011",
+      "type": "movie",
+      "name": "Niño rico",
+      "ids": {
+        "tmdb": 11011
+      },
+      "overview": "Ricky Ricón es el niño más rico del mundo; tiene su propio parque de atracciones, un Burguer en su casa y su profesora de gimnasia es la mismísima Claudia Schiffer. Richie tiene además el amor de sus padres, pero no es feliz; echa de menos jugar al béisbol en la calle con los chicos del barrio. Cuando sus padres desaparecen en el Triángulo de las Bermudas, el muchacho sospecha que detrás de la desaparición se encuentra Laurence Van Dogh, un ejecutivo de Industrias Richie que pretende hacerse con la compañía asesinando a sus padres. Sin embargo, Richie y su nueva pandilla de chiflados amiguetes no están dispuestos a rendirse a la primera... son capaces de cualquier travesura y la fuerza de la amistad es muy poderosa. Con su ayuda intentará liberar a sus padres y salvar la compañía",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/mnp39mPqGiPTP8jZmfaKrVfalMi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uSjYgfACRRXfdzll9P5OYB67T5f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1SvIoNoYI0xpxALrkQcywe09Y4R.png"
+    },
+    {
+      "id": "tmdb:448444",
+      "type": "movie",
+      "name": "The Death and Life of Marsha P. Johnson",
+      "ids": {
+        "tmdb": 448444
+      },
+      "overview": "Mientras enfrenta la ola de violencia contra las mujeres transgénero, la activista Victoria Cruz investiga la sospechosa muerte de su amiga Marsha P. Johnson en 1992.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/rI0u5804Ix4Ypv1WXxVFPyuyY2O.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fA16bfUd00jNbcdqheUTVnqcFBL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pfWELIcMxedHI8YAA0s9GATFkCH.png"
+    },
+    {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
+      "id": "tmdb:346698",
+      "type": "movie",
+      "name": "Barbie",
+      "ids": {
+        "tmdb": 346698
+      },
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
+    },
+    {
+      "id": "tmdb:1034716",
+      "type": "movie",
+      "name": "Gente que conocemos en vacaciones",
+      "ids": {
+        "tmdb": 1034716
+      },
+      "overview": "Poppy es un espíritu libre y a Alex le gusta planificarlo todo. Tras muchas vacaciones juntos, estos amigos tan diferentes se preguntan si serán la pareja perfecta.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/m7TvHygK01fDaIL1IDchcGUGB5d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/znRCwFEBPxoxLv2Mr9ee813t3ls.png"
+    },
+    {
+      "id": "tmdb:591",
+      "type": "movie",
+      "name": "El código Da Vinci",
+      "ids": {
+        "tmdb": 591
+      },
+      "overview": "El catedrático y afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años...",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/r5DHVCB5AV7B7GLmXMyA71Y4Yu4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/90n8AM7Nu0X8IFm68d5XaNJPpeu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7atZYzonCEiWXGDefQIYcVjhMrO.png"
     },
     {
       "id": "tmdb:438631",
@@ -295,187 +295,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
     },
     {
-      "id": "tmdb:475557",
-      "type": "movie",
-      "name": "Joker",
-      "ids": {
-        "tmdb": 475557
-      },
-      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
-    },
-    {
-      "id": "tmdb:449728",
-      "type": "movie",
-      "name": "Frun tillhanda",
-      "ids": {
-        "tmdb": 449728
-      },
-      "overview": "Ingrid Eriksson, a social worker, decides to find out something about the problems facing housemaids and gets herself a job as one at the home of John Willman's family. John's son, Åke, falls in love with her and numerous complications arise before the course of true love runs smoothly.",
-      "year": 1939,
-      "poster": "https://image.tmdb.org/t/p/w342/2NhZB7Wgz0UWbRemmvpycTwrdIF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aonKR2x2ybdinrVwiQaCDWNt7Ve.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tLLWZU3uRw2EsMbTAg8jbncOglj.png"
-    },
-    {
-      "id": "tmdb:503619",
-      "type": "movie",
-      "name": "El paquete",
-      "ids": {
-        "tmdb": 503619
-      },
-      "overview": "Un adolescente se corta el pene accidentalmente e intenta salvar su miembro con ayuda de sus amigos... antes de que sea demasiado tarde.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/9JZcc0EgHbvAwt9iFJIot4wNapY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a14CveXSjtFBRP1NkEyutegNrW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8DVpP3tXW07PJnuhCXAlzw9yhrA.png"
-    },
-    {
-      "id": "tmdb:122",
-      "type": "movie",
-      "name": "El señor de los anillos: El retorno del rey",
-      "ids": {
-        "tmdb": 122
-      },
-      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
-    },
-    {
-      "id": "tmdb:1434973",
-      "type": "movie",
-      "name": "La tregua",
-      "ids": {
-        "tmdb": 1434973
-      },
-      "overview": "Reyes y Salgado son dos militares que durante la guerra civil española lucharon en bandos contrarios, pero que deberán compartir el sufrimiento y la esperanza en un gulag soviético durante la Segunda Guerra Mundial.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/g1O3wEA0ZaigQG0RHx7zXeuWbSc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e67wGOmcKeMAATcLLEI4LZ8IgFJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vQ98OAerAJj4OyuFqcCCjj7A2x6.png"
-    },
-    {
-      "id": "tmdb:10992",
-      "type": "movie",
-      "name": "Como perros y gatos",
-      "ids": {
-        "tmdb": 10992
-      },
-      "overview": "Mr. Tinkles es un gato persa ansioso de poder y decide encabezar un masivo movimiento felino contra el mejor amigo del hombre, el perro. Los agentes caninos de primera, que han protegido siempre a la raza humana, se encuentran en apuros. Uno de los principales perros de campo se ha retirado del servicio y se han visto obligados a utilizar a un agente novato, un cachorro de Beagle llamado Lou que tendrá que demostrar su valía en el combate contra Mr. Tinkles y su ejército de soldados bien entrenados.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/ee8wZ0jIVS2w7BJvVxbyu9DgEh6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nD5nNHrqQcaLUxP91pjXspdvt1h.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vMhzd0izyuo96uj5lVUOWcEhViM.png"
-    },
-    {
-      "id": "tmdb:1528803",
-      "type": "movie",
-      "name": "The Ride",
-      "ids": {
-        "tmdb": 1528803
-      },
-      "overview": "Set in the roads of Manila, the rural, the sea, and the “underground”, the film tells the story of Leo, the son, forced to grant his dying mother’s request to accompany his estranged father, Barry, to come home.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/24vQbLVpQbzwC1EoHo1AMOACrRo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oVUhEnKaIyhyDTm1esrjsJfcMSQ.jpg"
-    },
-    {
-      "id": "tmdb:400387",
-      "type": "movie",
-      "name": "Riphagen, el carnicero holandés",
-      "ids": {
-        "tmdb": 400387
-      },
-      "overview": "Amsterdam, Países Bajos, 1944, durante la Segunda Guerra Mundial. Andries Riphagen, un poderoso jefe de los bajos fondos, ha hecho su fortuna poniendo sus muchos talentos criminales al servicio de los ocupantes nazis. Pero la larga batalla está a punto de terminar y los luchadores por la libertad, que han sido perseguidos y asesinados durante años, están abandonando sus escondites para cazar sin piedad a los que han colaborado con los asesinos.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/iFdCL80JBbdDFuRYGRDFw5l1BU5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5VSraHhuN5EeP2qxfF5aAvMmHIH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qPYwdTCttLF5Ur1chh7gvqTNBsz.png"
-    },
-    {
-      "id": "tmdb:1414312",
-      "type": "movie",
-      "name": "Fotógrafo de guerra: El hombre que captó la imagen",
-      "ids": {
-        "tmdb": 1414312
-      },
-      "overview": "¿Cuál es el origen de la famosa foto de la guerra de Vietnam? Este documental investiga la autoría de una imagen que marcó una época.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/kZO3xC3GYEHvW2dFppe0CnCMImb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/klOoAmzgGrcTx6WHJjoxSShJDL1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/r4d55O7seg2uGGIXiS2mSBrP0mc.png"
-    },
-    {
-      "id": "tmdb:1143183",
-      "type": "movie",
-      "name": "Rewind",
-      "ids": {
-        "tmdb": 1143183
-      },
-      "overview": "Mary loves John for as long as she can remember. But after years of marriage, John's priorities shift, leading to a strained relationship with Mary, which causes a tragic accident that takes away Mary's life. Until one day, John gets an extraordinary proposition - to rewind time and save the life of the woman he loves.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/i8UjdAwezeFHHR4opNb3LxDCQWC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gr7N3zCtXeUNCDnXa0DPKCq2bRQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Zn1dmMoLWSLB2VDAnC8XTi35Ct.png"
-    },
-    {
-      "id": "tmdb:1212121",
-      "type": "movie",
-      "name": "Homem com H",
-      "ids": {
-        "tmdb": 1212121
-      },
-      "overview": "Homem Com H se mueve entre las diferentes fases de la carrera del cantante Ney Matogrosso, pasando por su infancia, adolescencia, edad adulta y madurez. La película es un viaje a través del tiempo y sigue a un niño de orígenes humildes apasionados por la naturaleza, que se libera de la opresión y las figuras de autoridad, rompe los prejuicios y se convierte en uno de los artistas más influyentes de su generación.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/f5Q8H8GB5IK8uTIgfmR5RZzPI00.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/38byjV1A8WpA05xiXl0AXZCnCfv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ytuJ9PakicitovT2B2SIH8Jq0XR.png"
-    },
-    {
-      "id": "tmdb:281957",
-      "type": "movie",
-      "name": "El renacido",
-      "ids": {
-        "tmdb": 281957
-      },
-      "overview": "Durante una expedición en las tierras salvajes americanas, el legendario explorador Hugh Glass es brutalmente atacado por un oso y dado por muerto por los miembros de su propia partida de caza. En su cruzada por sobrevivir, Glass supera inimaginables tribulaciones, además de la traición de su confidente John Fitzgerald. Guiado por la pura determinación y el amor de su familia, Glass deberá superar un duro invierno mientras busca sin descanso un motivo para seguir adelante y encontrar la redención.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/k3Jh7J5GGMx1lmr7qmynRxOvOK5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w9kmJTZF65G1iPtJPqaAE39xyKV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nzYyHKLYv8o81LuVE7YwiL1ixk3.png"
-    },
-    {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "The Batman",
-      "ids": {
-        "tmdb": 414906
-      },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
-    },
-    {
       "id": "tmdb:1428862",
       "type": "movie",
       "name": "Cortafuego",
@@ -488,62 +307,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/sPHId2sgF9AQDxgjMflHXkAYzNk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/eORpfbqJkNBJwq9RjIFFFDTyxCy.png"
-    },
-    {
-      "id": "tmdb:413107",
-      "type": "movie",
-      "name": "De Held",
-      "ids": {
-        "tmdb": 413107
-      },
-      "overview": "After Sara Silverstein suddenly finds herself involved in a series of violent attacks she realizes she needs to unravel her father’s past in order to neutralize this threat.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/usqT2LiiDvHfhpcCP5oGtYc3gTQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m9lxt0nGSuIkNJI5pqaUUHb2eIT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qQ9vGT7JERlOqL9aqWQesgGfnTf.png"
-    },
-    {
-      "id": "tmdb:120",
-      "type": "movie",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "ids": {
-        "tmdb": 120
-      },
-      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
-    },
-    {
-      "id": "tmdb:228967",
-      "type": "movie",
-      "name": "The Interview",
-      "ids": {
-        "tmdb": 228967
-      },
-      "overview": "Dave Skylark, presentador de un conocido programa de entrevistas, y su productor, Aaron Rapoport, consiguen una entrevista exclusiva con Kim Jong-Un, dictador de Corea del Norte. Ante tal oportunidad, la CIA les pide un \"favorcillo\": asesinar a Kim. Pero lo cierto es que Dave y Aaron no son las personas más cualificadas para realizar un magnicidio.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qItAUKMSnng8fGUkoQDcHi561cF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6lhuQMWl9og77WmyQ7SGMmupQZd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uTbaNHx3Vdq2qUagKC3QwggFb9a.png"
-    },
-    {
-      "id": "tmdb:949",
-      "type": "movie",
-      "name": "Heat",
-      "ids": {
-        "tmdb": 949
-      },
-      "overview": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7AWZKrgFuLreAKt4ccpHVd3bntm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfd1ahFR6bbTE1M91h3o2gUsiYL.png"
     },
     {
       "id": "tmdb:634649",
@@ -560,6 +323,187 @@
       "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
     },
     {
+      "id": "tmdb:1243460",
+      "type": "movie",
+      "name": "El tour universitario con Joe",
+      "ids": {
+        "tmdb": 1243460
+      },
+      "overview": "En esta alocada aventura, Joe, el hermano faltón de Madea, se lleva de viaje a su nieto, criado entre algodones, para que sepa cómo es la vida antes de ir a la universidad.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/zp5RN4grAHUeCc9B7LKZcuu6HH5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/48zw5yKNupo5UDTP7JmB1F9QfM5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/a5sDAPCzoC3pdaRnDQcUtYoWB9V.png"
+    },
+    {
+      "id": "tmdb:120",
+      "type": "movie",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "ids": {
+        "tmdb": 120
+      },
+      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
+    },
+    {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "ids": {
+        "tmdb": 807
+      },
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+    },
+    {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
+    },
+    {
+      "id": "tmdb:112154",
+      "type": "movie",
+      "name": "Svein og Rotta og UFO-mysteriet",
+      "ids": {
+        "tmdb": 112154
+      },
+      "overview": "Svein thinks his grandma's soul is in the process of being swallowed by mysterious aliens, and he mobilizes both his friends and his rat Halvorsen in an attempt to save her.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/wrIyxipiwjJjXVEVGDWF6sXUstc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gtVLc91gscd9MrRtormbPqJnq1w.jpg"
+    },
+    {
+      "id": "tmdb:1455575",
+      "type": "movie",
+      "name": "Detrás del telón de 'Stranger Things: The First Shadow'",
+      "ids": {
+        "tmdb": 1455575
+      },
+      "overview": "Un vistazo detrás de las cámaras con el reparto y el equipo técnico de ‘Stranger Things: The First Shadow’, el premiado espectáculo en directo que amplía el universo Hawkins.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/siuBPHFg16AR9W1TYwrlmvPa3Kf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/igfo3Wt9QvXEGMPvkh8bRSel9r2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mqKaBa9D2TN4GxkNjSlLs1cuEsr.png"
+    },
+    {
+      "id": "tmdb:1434973",
+      "type": "movie",
+      "name": "La tregua",
+      "ids": {
+        "tmdb": 1434973
+      },
+      "overview": "Reyes y Salgado son dos militares que durante la guerra civil española lucharon en bandos contrarios, pero que deberán compartir el sufrimiento y la esperanza en un gulag soviético durante la Segunda Guerra Mundial.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/g1O3wEA0ZaigQG0RHx7zXeuWbSc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/e67wGOmcKeMAATcLLEI4LZ8IgFJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vQ98OAerAJj4OyuFqcCCjj7A2x6.png"
+    },
+    {
+      "id": "tmdb:122",
+      "type": "movie",
+      "name": "El señor de los anillos: El retorno del rey",
+      "ids": {
+        "tmdb": 122
+      },
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
+    },
+    {
+      "id": "tmdb:475557",
+      "type": "movie",
+      "name": "Joker",
+      "ids": {
+        "tmdb": 475557
+      },
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
+    },
+    {
+      "id": "tmdb:1379912",
+      "type": "movie",
+      "name": "Uninvited",
+      "ids": {
+        "tmdb": 1379912
+      },
+      "overview": "Eva seeks revenge on billionaire Guilly for killing her daughter. Disguised, she attends his party with a vengeful plan.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/gchPjcZwTif6FEHEV7Z07i9PhOE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xk6bRbf2VKEdzOR3wHX7Wy6kwGY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9qXTHlnvI7YjAEMI4hrjDZzpPEx.png"
+    },
+    {
+      "id": "tmdb:949",
+      "type": "movie",
+      "name": "Heat",
+      "ids": {
+        "tmdb": 949
+      },
+      "overview": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7AWZKrgFuLreAKt4ccpHVd3bntm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfd1ahFR6bbTE1M91h3o2gUsiYL.png"
+    },
+    {
+      "id": "tmdb:129",
+      "type": "movie",
+      "name": "El viaje de Chihiro",
+      "ids": {
+        "tmdb": 129
+      },
+      "overview": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/laXrmaTRuroArSPfsGlvTbeWxVA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7s12bBc9gB252PhwjrUtinT8xqj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
+    },
+    {
+      "id": "tmdb:4248",
+      "type": "movie",
+      "name": "Scary Movie 2",
+      "ids": {
+        "tmdb": 4248
+      },
+      "overview": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/j5uRKwumod1RF1tCmZfuPHtG0cD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ye5diw1xr4yB69GP6FrB6qNMCKp.png"
+    },
+    {
       "id": "tmdb:497582",
       "type": "movie",
       "name": "Enola Holmes",
@@ -574,130 +518,185 @@
       "logo": "https://image.tmdb.org/t/p/w500/pNOxxg9Od4s9IrVTH5kCTFwhzl1.png"
     },
     {
-      "id": "tmdb:744",
+      "id": "tmdb:450823",
       "type": "movie",
-      "name": "Top Gun: Ídolos del aire",
+      "name": "The Startup: Accendi il tuo futuro",
       "ids": {
-        "tmdb": 744
+        "tmdb": 450823
       },
-      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
+      "overview": "Matteo Achilli, a nineteen-year-old from Rome, manages to fulfill every young person’s dream: creating an app and becoming rich. But the world of success quickly turns out to be a jungle, and fame presents the young man with a steep price to pay. Based on a true story.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/rLxx8hokh09V07F5ZzuNVEOIiRx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/SXErc0PwD7XCaNAbEK5AQEGRIx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfZCqteye4nQttmHszgxkqAMSTw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lTUGUJqsA4WJCtn1pwgaJgmIhj2.jpg"
     },
     {
-      "id": "tmdb:18785",
+      "id": "tmdb:680",
       "type": "movie",
-      "name": "Resacón en Las Vegas",
+      "name": "Pulp Fiction",
       "ids": {
-        "tmdb": 18785
+        "tmdb": 680
       },
-      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
-      "id": "tmdb:882397",
+      "id": "tmdb:1050266",
       "type": "movie",
-      "name": "நாய் சேகர் Returns",
+      "name": "Murderville: El misterio del asesinato de Papá Noel",
       "ids": {
-        "tmdb": 882397
+        "tmdb": 1050266
       },
-      "overview": "Naai Sekar, who decides to make money by kidnapping dogs, learns about his pet dog which was taken away from their family during his childhood. Can he rescue his dog, which is considered as a lucky charm?",
+      "overview": "Un detective que odia la Navidad se ve obligado a resolver un asesinato con la ayuda de becarios famosos que deben improvisar a lo largo del caso.",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/dUEFAV28aUzHmde24JmlgvBaHSg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ycy6Ks6Ort2k3A8VQKgEsJkJbp8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pd8zL85RkDcMoRGnIjjWR2OdGLi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/14WLPzzQsRLJIklccZWdprPSgLK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hEBMYWcRyZuFRDdLp7iwlkcOFaY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kCyBLGnoDdoU2qG1BSdPAcsqSvL.png"
     },
     {
-      "id": "tmdb:897097",
+      "id": "tmdb:697843",
       "type": "movie",
-      "name": "Azul cobalto",
+      "name": "Tyler Rake 2",
       "ids": {
-        "tmdb": 897097
+        "tmdb": 697843
       },
-      "overview": "Cuando un aspirante a autor y su hermana de espíritu libre se enamoran del enigmático huésped que paga en su casa, los acontecimientos subsiguientes sacuden a su familia tradicional.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/lTRuAzvkJRz5EoUKynuJjfK1eGZ.jpg",
+      "overview": "Tras haber estado al borde de la muerte, el agente de élite Tyler Rake emprende una misión de alto riesgo: sacar de la cárcel a la familia de un despiadado gánster.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/ugO3UXyFx2fPUquxfRd7EP1bRC2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yeRhepqy1vN9JPs5YQZNz3zqrwY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/en8qXOj1zKstlSpRYqktYExmkII.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/s740KGCfBezTmGY0LgHPEhGRgPk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ewW2HKZt4O69M3EtlqIQjvZtHV6.png"
     },
     {
-      "id": "tmdb:1271895",
+      "id": "tmdb:256988",
       "type": "movie",
-      "name": "96 Minutos",
+      "name": "Zum Zum Zum n.2 - Sarà capitato anche a voi",
       "ids": {
-        "tmdb": 1271895
+        "tmdb": 256988
       },
-      "overview": "Un experto en bombas y su prometida suben a un tren que contiene explosivos, mientras un profesor de física envuelto en un escándalo toma el mismo tren con la esperanza de reconciliarse con su esposa, quien partió en un tren anterior.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg",
+      "overview": "While happily engaged to Rosalia, Tony has the misfortune of falling for a vibrant pilot named Valeria — and that’s just the beginning of his problems.",
+      "year": 1969,
+      "poster": "https://image.tmdb.org/t/p/w342/4I8KYV36gu7XFD9Y5ck9UNTV0HY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2w4kvCT60bqD2cWT0K5iPpMpDSe.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1rVA3HBfo4YqMRSbR3URvROPvwM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7kiONTvQUGmpTkhru6J5BRftiVZ.png"
     },
     {
-      "id": "tmdb:11324",
+      "id": "tmdb:934809",
       "type": "movie",
-      "name": "Shutter Island",
+      "name": "Detrás de las cámaras de El Camino: Una película de Breaking Bad",
       "ids": {
-        "tmdb": 11324
+        "tmdb": 934809
       },
-      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
+      "overview": "Aaron Paul, Vince Gilligan y otros miembros del reparto, productores y técnicos comparten historias e imágenes del rodaje de \"El Camino\".",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/2BcQ0ZScTBj3sihSQkV1SXYHqdU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qyVxRsc5RKF85ejeSnT3MO4gwLX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/11rTvT5Gb4EshelmWdsEjSjKcsq.png"
+    },
+    {
+      "id": "tmdb:238615",
+      "type": "movie",
+      "name": "Eternal",
+      "ids": {
+        "tmdb": 238615
+      },
+      "overview": "A un poderoso millonario, enfermo de cáncer, le ofrecen la posibilidad de someterse a un procedimiento médico radical para transferir su conciencia al cuerpo de un hombre más joven. Al principio la operación va bien y el hombre disfruta de su renovada juventud, pero todo se complica cuando empieza a descubrir los detalles en torno a la procedencia de su nuevo cuerpo.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/rCM6HSTYnYTwGOUVUx8UeKuxeFN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7KZMjbZ9fxjRRlPcxooFKfsiNzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kb2FCIItxda4ObsX3PeVqwq5nRf.png"
+    },
+    {
+      "id": "tmdb:10192",
+      "type": "movie",
+      "name": "Shrek, Felices para siempre",
+      "ids": {
+        "tmdb": 10192
+      },
+      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/56utveUWJwmG12YU7c2zKw6pbRZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
     },
     {
-      "id": "tmdb:769",
+      "id": "tmdb:1475372",
       "type": "movie",
-      "name": "Uno de los nuestros",
+      "name": "Shutter",
       "ids": {
-        "tmdb": 769
+        "tmdb": 1475372
       },
-      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
+      "overview": "Darwin, a senior photographer who consistently uses a manual camera, is shocked to discover the appearance of a woman's shadow in every photo he takes. Soon, the woman's figure appears in real life, terrorizing him. Pia, Darwin's girlfriend, decides to investigate the woman's identity. It turns out the woman is Lilies, an outstanding student who once studied at their university. When Darwin's friends die one by one, Pia is convinced this is related to a 'sin' Darwin committed in the past.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/7GXs0b8ZyeZ5tTajITMMO0aZX4J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ey31jdHYSf30Es3VLYTjZJEWGde.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5sUdPbhy2cx3zzv5HeDyNjwFznH.png"
     },
     {
-      "id": "tmdb:16869",
+      "id": "tmdb:1291608",
       "type": "movie",
-      "name": "Malditos bastardos",
+      "name": "धुरंधर",
       "ids": {
-        "tmdb": 16869
+        "tmdb": 1291608
       },
-      "overview": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/zO4RPoYUv8S0na2K1Sff9wU3Sg2.jpg",
+      "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t4pXMqWkYQdwSNS0V5UT6XX6goI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2DzMAbkxZwsKcTjYE9HNl6d94ED.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zECfWGjXAq8yHurE6ZSCBMfGmml.png"
     },
     {
-      "id": "tmdb:4348",
+      "id": "tmdb:820446",
       "type": "movie",
-      "name": "Orgullo y prejuicio",
+      "name": "Downton Abbey: Una nueva era",
       "ids": {
-        "tmdb": 4348
+        "tmdb": 820446
       },
-      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "overview": "Violet, la condesa viuda de Grantham, ha heredado una villa en el sur de Francia de un viejo amigo. Mientras tanto, un cineasta obtiene el permiso de Mary para rodar una película en Downton Abbey. Robert piensa que tener actores y actrices dando vueltas, maquillados, es una idea terrible, pero otros miembros de la familia, y los sirvientes, están encantados con la idea. Para perderse la \"película espantosa\" de Mary, como la llama Robert, algunos miembros de la familia viajan al sur de Francia para resolver el misterio de por qué el amigo de Violet le dejó una villa. Secuela de la adaptación cinematográfica de la popular serie.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/yRng7Bgz8nW714NQpmQYx6XkLWH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bM44TNykRCtWtpbn8UiEIfSvPOs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uWx2azG9ro5QeIwtu7fmp8Oazk1.png"
+    },
+    {
+      "id": "tmdb:1105832",
+      "type": "movie",
+      "name": "Simón",
+      "ids": {
+        "tmdb": 1105832
+      },
+      "overview": "Luego de escapar de Venezuela, Simón, un valiente líder estudiantil, lucha con su culpa mientras busca asilo político en Miami antes de ser deportado.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/sllxb3Ydr9Rgjl1MuL7tT37ap35.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sb6YO8QwlJYJZCYroVWV0psNmXL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r9Zon7NTkA70BuC90Uvf9mqXMXG.png"
+    },
+    {
+      "id": "tmdb:33302",
+      "type": "movie",
+      "name": "La chica de París",
+      "ids": {
+        "tmdb": 33302
+      },
+      "overview": "Una joven informática decide abandonar su trabajo y el estilo de vida urbano para instalarse en el campo y hacerse agricultora. En su nueva vida tendrá que convivir con un viejo campesino bastante cascarrabias.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/j2bJehIwCNcd3pgaE6unb57fz18.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xFIrh58aRXF8o9NFPQMdlPk107S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bGBQxFvGfJWXkkX8gOuIaACgVEk.png"
     }
   ]
 }
