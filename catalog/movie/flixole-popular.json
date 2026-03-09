@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:41446",
-      "type": "movie",
-      "name": "Scream 4",
-      "ids": {
-        "tmdb": 41446
-      },
-      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
-    },
-    {
       "id": "tmdb:8689",
       "type": "movie",
       "name": "Holocausto caníbal",
@@ -27,19 +13,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ptg4aaFbrNNg8If5ZtbQa5r4Nz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1HfnMUnUiA2fiQPONoIgEgGa03z.png"
-    },
-    {
-      "id": "tmdb:421932",
-      "type": "movie",
-      "name": "El alcalde y la política",
-      "ids": {
-        "tmdb": 421932
-      },
-      "overview": "Antes de la celebración de las elecciones municipales, un partido político decide apoyar al candidato de Somerruelos, un pueblo que es clave para la comunicación entre dos provincias. Ese hombre es el actual alcalde, un personaje respetado y temido por todos, que gobierna a su antojo, permitiendo la prostitución y el juego.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/1pTNtjKTo7nPdHbolKkrtLwu7dE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dQF1sAPPjblUqm8mYFivneQmUPo.jpg"
     },
     {
       "id": "tmdb:15247",
@@ -56,18 +29,45 @@
       "logo": "https://image.tmdb.org/t/p/w500/g536b7Eg5Jk9apEBfggytfAFV8W.png"
     },
     {
-      "id": "tmdb:27431",
+      "id": "tmdb:25627",
       "type": "movie",
-      "name": "El gato de las nueve colas",
+      "name": "No profanar el sueño de los muertos",
       "ids": {
-        "tmdb": 27431
+        "tmdb": 25627
       },
-      "overview": "Una noche, mientras vuelven a casa, Franco Arno, ciego de nacimiento, y su sobrina Lori son testigos de una siniestra discusión entre un ladrón y un chantajista, que acaba en asesinato. A pesar de su invalidez, Franco colaborará con el periodista Carlo Giordani para desentrañar el misterio que se oculta tras una enrevesada trama de espionaje industrial y crímenes brutales. Ambos parten de una teoría según la cual las tendencias psicopáticas de un individuo pueden ser detectadas estudiando la configuración de sus cromosomas.",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/sxiD7MFtYGT11ZKqdU74PCl7p4S.jpg",
+      "overview": "Un joven anticuario se va de vacaciones. En el camino conoce a una joven mujer en camino a la granja de su hermana. En el campo ella es atacada por un extraño vagabundo que supuestamente había muerto hacía una semana. El motivo es una nueva máquina experimental del ministerio de agricultura que, a través del ultrasonido, acaba con plagas y los insectos. Cuando la pareja llega a la granja, se encuentran con un hombre asesinado por este espectral zombie. La trama se complica con la investigación de la policía, que sospecha que todo es asunto de hippies satánicos y drogadictos.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/xiU1GfrUk9RjrAMLYmrlwFJA8Ec.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5qj3NjBDYsoUpUUZ3byJ0lSUxUN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8E1Px0Sfoo01BgihMml3Bw2Rdz9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9xxF1MBsXJ3Y2EJQsqU61StzcNU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/83pXG36GpzStyrI4pOCkk6VXtI7.png"
+    },
+    {
+      "id": "tmdb:421932",
+      "type": "movie",
+      "name": "El alcalde y la política",
+      "ids": {
+        "tmdb": 421932
+      },
+      "overview": "Antes de la celebración de las elecciones municipales, un partido político decide apoyar al candidato de Somerruelos, un pueblo que es clave para la comunicación entre dos provincias. Ese hombre es el actual alcalde, un personaje respetado y temido por todos, que gobierna a su antojo, permitiendo la prostitución y el juego.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/1pTNtjKTo7nPdHbolKkrtLwu7dE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dQF1sAPPjblUqm8mYFivneQmUPo.jpg"
+    },
+    {
+      "id": "tmdb:41446",
+      "type": "movie",
+      "name": "Scream 4",
+      "ids": {
+        "tmdb": 41446
+      },
+      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
     },
     {
       "id": "tmdb:208004",
@@ -83,31 +83,59 @@
       "backdrop": "https://image.tmdb.org/t/p/original/lkD5gtE1nvhVmHrl0WsWtE7ltUs.jpg"
     },
     {
-      "id": "tmdb:460139",
+      "id": "tmdb:27431",
       "type": "movie",
-      "name": "La corista",
+      "name": "El gato de las nueve colas",
       "ids": {
-        "tmdb": 460139
+        "tmdb": 27431
       },
-      "overview": "Relata la historia de una sencilla chica de conjunto de revista perdidamente enamorada del director de la misma.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/6jGrsU65wcd0fHyu104VXMCKtGO.jpg",
+      "overview": "Una noche, mientras vuelven a casa, Franco Arno, ciego de nacimiento, y su sobrina Lori son testigos de una siniestra discusión entre un ladrón y un chantajista, que acaba en asesinato. A pesar de su invalidez, Franco colaborará con el periodista Carlo Giordani para desentrañar el misterio que se oculta tras una enrevesada trama de espionaje industrial y crímenes brutales. Ambos parten de una teoría según la cual las tendencias psicopáticas de un individuo pueden ser detectadas estudiando la configuración de sus cromosomas.",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/sxiD7MFtYGT11ZKqdU74PCl7p4S.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xCMdtTS73FgRmYwcxZYIPpff91N.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/5qj3NjBDYsoUpUUZ3byJ0lSUxUN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8E1Px0Sfoo01BgihMml3Bw2Rdz9.png"
     },
     {
-      "id": "tmdb:25627",
+      "id": "tmdb:253376",
       "type": "movie",
-      "name": "No profanar el sueño de los muertos",
+      "name": "La cueva",
       "ids": {
-        "tmdb": 25627
+        "tmdb": 253376
       },
-      "overview": "Un joven anticuario se va de vacaciones. En el camino conoce a una joven mujer en camino a la granja de su hermana. En el campo ella es atacada por un extraño vagabundo que supuestamente había muerto hacía una semana. El motivo es una nueva máquina experimental del ministerio de agricultura que, a través del ultrasonido, acaba con plagas y los insectos. Cuando la pareja llega a la granja, se encuentran con un hombre asesinado por este espectral zombie. La trama se complica con la investigación de la policía, que sospecha que todo es asunto de hippies satánicos y drogadictos.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/xiU1GfrUk9RjrAMLYmrlwFJA8Ec.jpg",
+      "overview": "Tres chicos y dos chicas viajan en plan mochilero a una isla paradisíaca. Cuando llegan, alquilan motos, recorren los parajes más hermosos y recónditos, acampan en el bosque, se emborrachan y se bañan en el mar. Al día siguiente, deciden explorar una cueva profunda y laberíntica, pero se extravían. Si quieren sobrevivir dentro de la cueva, deberán hacerlo en condiciones inhumanas: sin agua y sin alimentos, no parece que haya ninguna posibilidad de conseguirlo.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/vQgUNCouT5frFxeXx5mXRskOhWJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9xxF1MBsXJ3Y2EJQsqU61StzcNU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/83pXG36GpzStyrI4pOCkk6VXtI7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6FNUA7QbugUvUlaxCipqoUjITjZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t0ceKbzcZ4rrjfM1isOJyLOuARB.png"
+    },
+    {
+      "id": "tmdb:256916",
+      "type": "movie",
+      "name": "Sus ojos se cerraron y el mundo sigue andando",
+      "ids": {
+        "tmdb": 256916
+      },
+      "overview": "Buenos Aires, años 30. Juanita, una joven y bella española admiradora de Carlos Gardel conoce a un oscuro cantante de tangos que se le parece considerablemente. Seducida por el artista, abandona a su novio, e intenta convertir al joven en un doble de su ídolo.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/ueETRSrKjhyqM8cxbPyDDAI7yeH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8IcgaAMee01iS0y74xppiLQ1CuW.jpg"
+    },
+    {
+      "id": "tmdb:129856",
+      "type": "movie",
+      "name": "Un dólar para Sartana",
+      "ids": {
+        "tmdb": 129856
+      },
+      "overview": "El rico terrateniente Gratton pretende apoderarse de todas las tierras del estado. Poco a poco, los atemorizados habitantes de Sartana City van abandonando sus tierras, o las malvenden para poder subsistir. La familia Carson es una de las muchas perjudicadas, pero Kit, el más joven de los Carson, se enrola en los federales de Texas para poder defender sus tierras. Mientras tanto, Gratton, el sheriff y el banquero local, siguen extorsionando a los colonos que no pueden resistir por más tiempo sus presiones. La llegada de \"Dólar\", un misterioso personaje, transformará el pueblo en un hervidero. (FILMAFFINITY)",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/qpeOQJjSY0X2rwhvdHZdzvaO3VM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lkNf0CDX6kMqetWSNEsjSh7dNCp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g8TELL4LcKtAK9epOXICxuVq1HH.png"
     },
     {
       "id": "tmdb:17214",
@@ -124,28 +152,15 @@
       "logo": "https://image.tmdb.org/t/p/w500/bGEA8BMRGYdXXIb3oXWgJUQzDd.png"
     },
     {
-      "id": "tmdb:256916",
+      "id": "tmdb:292750",
       "type": "movie",
-      "name": "Sus ojos se cerraron y el mundo sigue andando",
+      "name": "Las aventuras de Tim y Buck",
       "ids": {
-        "tmdb": 256916
+        "tmdb": 292750
       },
-      "overview": "Buenos Aires, años 30. Juanita, una joven y bella española admiradora de Carlos Gardel conoce a un oscuro cantante de tangos que se le parece considerablemente. Seducida por el artista, abandona a su novio, e intenta convertir al joven en un doble de su ídolo.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/ueETRSrKjhyqM8cxbPyDDAI7yeH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8IcgaAMee01iS0y74xppiLQ1CuW.jpg"
-    },
-    {
-      "id": "tmdb:186620",
-      "type": "movie",
-      "name": "Antártida",
-      "ids": {
-        "tmdb": 186620
-      },
-      "overview": "María, adicta a la heroína y frustrada cantante de rock, ha perdido a su novio por sobredosis. No hay nada que le devuelva la esperanza, hasta que un día conoce a Rafa, un chico más joven y con las ideas mucho más claras que ella. Rafa convence a María para que robe un poco de heroína, pero lo que parecía unos gramos son nada menos que nueve kilos. Velasco, un tipo sin escrúpulos que cuenta con el respaldo de la policía, es el que ha perdido la droga. Rafa y María emprenden una huida sin retorno, un viaje hacia un lugar donde la vida les dará su última oportunidad.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/4outfivtI5FXgflythE85bPMLNI.jpg",
+      "overview": "Trapper Wintrop vive en una cabaña solitaria en las montañas, junto con su padre, el hijo Tim, su perro lobo Buck y el explorador mudo Mat. Cuando una banda de villanos roba y mata  al abuelo se empeñan en darles caza.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/ogPDUh1Nt22IJrsK2P1dEzkFBZ3.jpg",
       "posterShape": "poster"
     },
     {
@@ -163,30 +178,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tzlgvs6dXNjk91U96PnVQzHf7A1.png"
     },
     {
-      "id": "tmdb:129856",
+      "id": "tmdb:30422",
       "type": "movie",
-      "name": "Un dólar para Sartana",
+      "name": "El asesino está entre los trece",
       "ids": {
-        "tmdb": 129856
+        "tmdb": 30422
       },
-      "overview": "El rico terrateniente Gratton pretende apoderarse de todas las tierras del estado. Poco a poco, los atemorizados habitantes de Sartana City van abandonando sus tierras, o las malvenden para poder subsistir. La familia Carson es una de las muchas perjudicadas, pero Kit, el más joven de los Carson, se enrola en los federales de Texas para poder defender sus tierras. Mientras tanto, Gratton, el sheriff y el banquero local, siguen extorsionando a los colonos que no pueden resistir por más tiempo sus presiones. La llegada de \"Dólar\", un misterioso personaje, transformará el pueblo en un hervidero. (FILMAFFINITY)",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/qpeOQJjSY0X2rwhvdHZdzvaO3VM.jpg",
+      "overview": "Al cumplirse dos años de la muerte de un acaudalado abogado, su viuda decide celebrar una reunión en una casa de campo, invitando a los trece mejores amigos del difunto. Su intención es descubrir al asesino de su marido que se encuentra entre el grupo de invitados. El transcurrir de los días hará que se vayan esclareciendo los posible móviles de cada uno.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/et7fHKQGWvPJdpBnCSXbHGQmGuF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lkNf0CDX6kMqetWSNEsjSh7dNCp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g8TELL4LcKtAK9epOXICxuVq1HH.png"
-    },
-    {
-      "id": "tmdb:292750",
-      "type": "movie",
-      "name": "Las aventuras de Tim y Buck",
-      "ids": {
-        "tmdb": 292750
-      },
-      "overview": "Trapper Wintrop vive en una cabaña solitaria en las montañas, junto con su padre, el hijo Tim, su perro lobo Buck y el explorador mudo Mat. Cuando una banda de villanos roba y mata  al abuelo se empeñan en darles caza.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/ogPDUh1Nt22IJrsK2P1dEzkFBZ3.jpg",
-      "posterShape": "poster"
+      "backdrop": "https://image.tmdb.org/t/p/original/keybJrMwiYJu1DIVf6UvCQdkk7e.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o8Rh0PTP6SB9ZuvcScs2EcfD47o.png"
     },
     {
       "id": "tmdb:429",
@@ -203,138 +206,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
     },
     {
-      "id": "tmdb:28162",
+      "id": "tmdb:83124",
       "type": "movie",
-      "name": "A vida o muerte",
+      "name": "Llega Sartana",
       "ids": {
-        "tmdb": 28162
+        "tmdb": 83124
       },
-      "overview": "El aviador británico Peter Carter, en su avión en llamas y a punto de estrellarse se enamora de la voz femenina que contesta a su mensaje de socorro. Parece que se ha salvado milagrosamente y encuentra a su interlocutora. Pero un enviado del más allá le notifica que está entre la vida y la muerte y que si quiere sobrevivir, tendrá que defender su caso ante un tribunal celestial. Simultaneamente a esta situación sobrenatural, un equipo de médicos lucha en el quirófano para curar a Peter una lesión en el cerebro.",
-      "year": 1946,
-      "poster": "https://image.tmdb.org/t/p/w342/5anOoyA7WqNmt4mMU2cGjCazazX.jpg",
+      "overview": "Gianni Garko se vuelve a meter en la piel de Sartana, un aguerrido y justiciero vaquero del Oeste americano. Esta vez, el valiente cowboy provoca, intencionadamente, un incidente para ingresar en la cárcel y hablar con Grand Full. Él es el único que le puede ayudar a encontrar el paradero de 500.000 dólares, escondidos por su socio Johnson, que fue asesinado. Pero, en prisión, hay otros muchos bandoleros que desean encontrar el tesoro.",
+      "year": 1970,
+      "poster": "https://image.tmdb.org/t/p/w342/pLLMzsdDXbjRBQ68bGM8dcTBIR0.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xhJAy52S0XlVIyqiIqNgh0LGbDB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dMohEmM7uFU4hBkfLZ2CA2yuOyH.png"
-    },
-    {
-      "id": "tmdb:80481",
-      "type": "movie",
-      "name": "Cielo negro",
-      "ids": {
-        "tmdb": 80481
-      },
-      "overview": "Emilia trabaja en una boutique de moda y cuando su novio le invita a la verbena, ella decide robar un vestido de la tienda para lucirlo en tal evento. Pero los dueños, al percatarse del hurto, la despiden.",
-      "year": 1951,
-      "poster": "https://image.tmdb.org/t/p/w342/8KTMFLIntrg23ltPhT2IxnssSqw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dTlc7FkqnbBEdC3diIWF0xBHfeJ.jpg"
-    },
-    {
-      "id": "tmdb:30422",
-      "type": "movie",
-      "name": "El asesino está entre los trece",
-      "ids": {
-        "tmdb": 30422
-      },
-      "overview": "Al cumplirse dos años de la muerte de un acaudalado abogado, su viuda decide celebrar una reunión en una casa de campo, invitando a los trece mejores amigos del difunto. Su intención es descubrir al asesino de su marido que se encuentra entre el grupo de invitados. El transcurrir de los días hará que se vayan esclareciendo los posible móviles de cada uno.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/et7fHKQGWvPJdpBnCSXbHGQmGuF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/keybJrMwiYJu1DIVf6UvCQdkk7e.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o8Rh0PTP6SB9ZuvcScs2EcfD47o.png"
-    },
-    {
-      "id": "tmdb:27578",
-      "type": "movie",
-      "name": "Los mercenarios",
-      "ids": {
-        "tmdb": 27578
-      },
-      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
-    },
-    {
-      "id": "tmdb:62329",
-      "type": "movie",
-      "name": "Shootfighter 2",
-      "ids": {
-        "tmdb": 62329
-      },
-      "overview": "Expertos luchadores pelean hasta la muerte en una competición ilegal que se celebra en Las Vegas. El hijo de un policía, Lew Rawlins, muere en uno de los combates. Rawlins, decidido a poner fin al mortal torneo, recluta a un grupo de expertos en artes marciales para que participen en él. Sólo así parece posible acabar con sus siniestros organizadores.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/s7NTQD72ZV5Y5hTPdNjBnhqJR1o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q7btAy5kY4DO4mUGXgD3rUmXJiq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/60SXCEc0fnU1R19mTCfc9XBomSj.png"
-    },
-    {
-      "id": "tmdb:122857",
-      "type": "movie",
-      "name": "Soldado Universal (El día del juicio final)",
-      "ids": {
-        "tmdb": 122857
-      },
-      "overview": "John (Scott Adkins) despierta después de un coma para descubrir que su esposa y su hija pequeña, han asesinadas en un brutal asesinato en su propia casa. Atormentado por las imágenes del asesinato, jura matar al responsable de dicha matanza, Luc Deveraux (Jean-Claude Van Damme). Mientras que John trata de reconstruir su propia realidad, las cosas empiezan a complicarse cuando empieza a ser perseguido por un UniSol de última generación llamado Magnus (Andrei Arlovski). Pero una vez se acerca a Deveraux y al ejército de soldados digidos por el \"resucitado\" Andrew Scott (Dolph Lundgren) descubrirá que hay cosas que jamás habría imaginado sobre sí mismo y pondrá en duda su propia verdad.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/qhK63SEjB9YVCKh42vJj2ANwXUt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dIGBKVwDbaW0tgcprBNDpuhzJQ9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lorXR80sIC0urOdCfu8Bm4aAuwz.png"
-    },
-    {
-      "id": "tmdb:157099",
-      "type": "movie",
-      "name": "La fórmula de la felicidad",
-      "ids": {
-        "tmdb": 157099
-      },
-      "overview": "La vida sin complicaciones de un farmacéutico puritano se sale de control cuando comienza un romance con una cliente mujer trofeo que lo lleva en un viaje de placer que implica el sexo, las drogas y posiblemente de asesinato.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/z4fVz3zPQQseoeb1YhT19b9ZH8g.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cqKPzIU9q51S8XEdZSNmtGJy9nX.jpg"
-    },
-    {
-      "id": "tmdb:56746",
-      "type": "movie",
-      "name": "El viaje de Carol",
-      "ids": {
-        "tmdb": 56746
-      },
-      "overview": "Carol (Clara Lago), una adolescente de madre española y padre norteamericano, viaja por primera vez a España en la primavera de 1938 en compañía de su madre (María Barranco). Separada de su padre, piloto en las Brigadas Internacionales al que ella adora, su llegada al pueblo materno transforma un entorno familiar lleno de secretos. Armada de un carácter rebelde, se opone a los convencionalismos de un mundo que le resulta desconocido. La complicidad con Maruja (Rosa Ma Sardá), las lecciones de vida de su abuelo (Álvaro de Luna) y su amor por Tomiche (Juanjo Ballesta) le abrirán las puertas a un universo de sentimientos adultos que harán de su viaje un trayecto interior desgarrado, tierno, vital e inolvidable.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/jSFezLcls2vmfuWEoOgk9zeLoP4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mSjgAyayvDhdN7U1NmL57MJw68O.jpg"
-    },
-    {
-      "id": "tmdb:277391",
-      "type": "movie",
-      "name": "Pásate a la pasta",
-      "ids": {
-        "tmdb": 277391
-      },
-      "overview": "Renato, editor y codirector de una moderna revista y homosexual convencido hasta que conoce a Ginevra, militante feminista y cantante del grupo punk \"The Fucking Sisters\". Ginevra hará que Renato se replantee su condición sexual e inicien una peculiar relación a la que no será ajena la tradicional familia de Renato.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/mee811dSQ6QnQ0gDRha5VSt4370.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/on1Jmf0UKIHTSF39WvFVrL9xYU9.jpg"
-    },
-    {
-      "id": "tmdb:514029",
-      "type": "movie",
-      "name": "Las marginadas",
-      "ids": {
-        "tmdb": 514029
-      },
-      "overview": "Cuatro mujeres –una alcohólica, una ex prostituta, una a la que la edad no perdona, y otra a la que ha dejado tirada el novio– aúnan fuerzas para sobreponerse a sus problemas y ser felices.",
-      "year": 1977,
-      "poster": "https://image.tmdb.org/t/p/w342/7rODQqBHZKu66OqN4aqJtjpJCkK.jpg",
-      "posterShape": "poster"
+      "backdrop": "https://image.tmdb.org/t/p/original/2UBIgkikTKWmRiKNjgPf2TAWcai.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2G7ZQ3JWK158WH9HW0eVLCQrP3b.png"
     },
     {
       "id": "tmdb:145001",
@@ -351,86 +234,71 @@
       "logo": "https://image.tmdb.org/t/p/w500/45PlVipTv6l8wSszTigRY1uJ4Ve.png"
     },
     {
-      "id": "tmdb:423",
+      "id": "tmdb:277391",
       "type": "movie",
-      "name": "El pianista",
+      "name": "Pásate a la pasta",
       "ids": {
-        "tmdb": 423
+        "tmdb": 277391
       },
-      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+      "overview": "Renato, editor y codirector de una moderna revista y homosexual convencido hasta que conoce a Ginevra, militante feminista y cantante del grupo punk \"The Fucking Sisters\". Ginevra hará que Renato se replantee su condición sexual e inicien una peculiar relación a la que no será ajena la tradicional familia de Renato.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/mee811dSQ6QnQ0gDRha5VSt4370.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/on1Jmf0UKIHTSF39WvFVrL9xYU9.jpg"
     },
     {
-      "id": "tmdb:240051",
+      "id": "tmdb:157099",
       "type": "movie",
-      "name": "El arte de no casarse",
+      "name": "La fórmula de la felicidad",
       "ids": {
-        "tmdb": 240051
+        "tmdb": 157099
       },
-      "overview": "Cuatro historias sobre el arte de no casarse: la de un abogado que acaba de terminar el servicio militar, la de un jovén marqués el día de su boda, la de una mujer coqueta y la de un soldado que sale con tres chicas a la vez.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/1RfRlWP2M9wDAH4ZzwKJXcvkCro.jpg",
+      "overview": "La vida sin complicaciones de un farmacéutico puritano se sale de control cuando comienza un romance con una cliente mujer trofeo que lo lleva en un viaje de placer que implica el sexo, las drogas y posiblemente de asesinato.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/z4fVz3zPQQseoeb1YhT19b9ZH8g.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yq3okdDPOb6Ua5qtvaKnHnz7U7q.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/cqKPzIU9q51S8XEdZSNmtGJy9nX.jpg"
     },
     {
-      "id": "tmdb:156988",
+      "id": "tmdb:28162",
       "type": "movie",
-      "name": "El oeste te va estrecho, forastero!! (El regreso de Aleluya)",
+      "name": "A vida o muerte",
       "ids": {
-        "tmdb": 156988
+        "tmdb": 28162
       },
-      "overview": "El general Ramírez, de la Revolución Mexicana, organiza sus fuerzas para atacar al general Miranda. Ramírez da cuenta de que los indios serían de gran valor como aliados, por lo que decide tomar posesión de una estatuilla de un dios azteca, para asegurarse el apoyo de los indígenas. Sin embargo, la imagen ha sido robada por unos ladrones, y entonces se ofrece a recuperarla, encargándole la misión a Aleluya.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/ep0k7VMMA9UPOwKAJxLKhf0gRYO.jpg",
+      "overview": "El aviador británico Peter Carter, en su avión en llamas y a punto de estrellarse se enamora de la voz femenina que contesta a su mensaje de socorro. Parece que se ha salvado milagrosamente y encuentra a su interlocutora. Pero un enviado del más allá le notifica que está entre la vida y la muerte y que si quiere sobrevivir, tendrá que defender su caso ante un tribunal celestial. Simultaneamente a esta situación sobrenatural, un equipo de médicos lucha en el quirófano para curar a Peter una lesión en el cerebro.",
+      "year": 1946,
+      "poster": "https://image.tmdb.org/t/p/w342/5anOoyA7WqNmt4mMU2cGjCazazX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dsY7kT9tTqFjQnRLPBU5t6GZh5W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f2uiNLwEyF7lzKyPeMfCmuKX3Gu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xhJAy52S0XlVIyqiIqNgh0LGbDB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dMohEmM7uFU4hBkfLZ2CA2yuOyH.png"
     },
     {
-      "id": "tmdb:66898",
+      "id": "tmdb:460139",
       "type": "movie",
-      "name": "El cantor de México",
+      "name": "La corista",
       "ids": {
-        "tmdb": 66898
+        "tmdb": 460139
       },
-      "overview": "Durante unas fiestas populares, un empresario artístico oye cantar a Vicente, un joven de maravillosa voz. Animado por algunos amigos, Vicente se traslada a París para triunfar en el mundo del espectáculo. Allí le espera una gran sorpresa, ya que ha de sustituir a la gran figura Miguel Moreno en la opereta «El cantor de México».",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/6NRorpuge8DUvkwLleiNsxnDVTW.jpg",
+      "overview": "Relata la historia de una sencilla chica de conjunto de revista perdidamente enamorada del director de la misma.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/6jGrsU65wcd0fHyu104VXMCKtGO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wHofvg23MZVTEmcIy0FgI3OvMMN.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/xCMdtTS73FgRmYwcxZYIPpff91N.jpg"
     },
     {
-      "id": "tmdb:230471",
+      "id": "tmdb:122857",
       "type": "movie",
-      "name": "El gladiador más fuerte del mundo",
+      "name": "Soldado Universal (El día del juicio final)",
       "ids": {
-        "tmdb": 230471
+        "tmdb": 122857
       },
-      "overview": "En el reino de Mersabad, Oniris intenta detentar el poder, pero llega Maciste y echa a perder el complot.",
-      "year": 1962,
-      "poster": "https://image.tmdb.org/t/p/w342/sDou9gdapdkisAo9Osnjmul0Kch.jpg",
+      "overview": "John (Scott Adkins) despierta después de un coma para descubrir que su esposa y su hija pequeña, han asesinadas en un brutal asesinato en su propia casa. Atormentado por las imágenes del asesinato, jura matar al responsable de dicha matanza, Luc Deveraux (Jean-Claude Van Damme). Mientras que John trata de reconstruir su propia realidad, las cosas empiezan a complicarse cuando empieza a ser perseguido por un UniSol de última generación llamado Magnus (Andrei Arlovski). Pero una vez se acerca a Deveraux y al ejército de soldados digidos por el \"resucitado\" Andrew Scott (Dolph Lundgren) descubrirá que hay cosas que jamás habría imaginado sobre sí mismo y pondrá en duda su propia verdad.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/qhK63SEjB9YVCKh42vJj2ANwXUt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ocdTwMa0th79mp22sn7Ilk1NfVw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gN3QDhaz9BUkNoVj1vFPX04QSGk.png"
-    },
-    {
-      "id": "tmdb:25376",
-      "type": "movie",
-      "name": "El secreto de sus ojos",
-      "ids": {
-        "tmdb": 25376
-      },
-      "overview": "Argentina. Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pLmMJrMeFLT766X2V15eA9FhEjP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mxr9Gaur6qtlAU8jyxhqUa8YFvx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dIGBKVwDbaW0tgcprBNDpuhzJQ9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lorXR80sIC0urOdCfu8Bm4aAuwz.png"
     },
     {
       "id": "tmdb:40141",
@@ -447,59 +315,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/swXNBFVmQcMHhlIKalYtVgkIBCI.png"
     },
     {
-      "id": "tmdb:119361",
-      "type": "movie",
-      "name": "No es nada, mamá, sólo un juego",
-      "ids": {
-        "tmdb": 119361
-      },
-      "overview": "El joven propietario de una hacienda (David Hemmings) se comporta de manera cruel con las mujeres debido a ciertos traumas de su niñez, pero su madre (Alida Valli) trata siempre de encubrirlo. Sin embargo, cuando entabla relación con la hija de un empleado de la finca y se casa con ella, la joven (Andrea Rau) se convierte, inesperadamente, en la auténtica dominadora de la familia.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/wKSQSqUN6cJDeTDlcLEtHmxLnhW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lENHa5wR9E7pUEenGJKv5XCJoux.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4LVUbu11w8MZWuW2kJrydX8Bmaz.png"
-    },
-    {
-      "id": "tmdb:514636",
-      "type": "movie",
-      "name": "Los tres amores de Lola",
-      "ids": {
-        "tmdb": 514636
-      },
-      "overview": "Una bailaora llamada Lola conoce una noche en su lugar de trabajo en Madrid, al gran compositor mexicano Agustín Lara. El compositor le propone viajar a México donde le promete una serie de actuaciones, ella no se lo piensa y viaja hasta México y se hospeda en la casa del propio autor, en donde conoce a Luís Aguilar donde después de varias peripecias terminan enamorándose bajo la aprobación y la resignación de un médico y del propio Agustín Lara que se encontraban enamorados de Lola.",
-      "year": 1956,
-      "poster": "https://image.tmdb.org/t/p/w342/2GzFSScp3sTPiBPiIyhzvrSDMmU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AdkStMcWaQ7GM8FcZUjCa2FKYXM.jpg"
-    },
-    {
-      "id": "tmdb:197940",
-      "type": "movie",
-      "name": "Los siete de Pancho Villa",
-      "ids": {
-        "tmdb": 197940
-      },
-      "overview": "Villa se halla herido tras una derrota inicial. Su revolución ha sufrido un duro golpe y los carrancistas han puesto precio a su cabeza. El famoso revolucionario decide, pues, aconsejado por su general y sus lugartenientes, recuperar el tesoro que perdieron al abandonar la ciudad para poder reorganizar sus tropas.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/8BLK3oce55q5meqOe2QsiF1e01k.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:83124",
-      "type": "movie",
-      "name": "Llega Sartana",
-      "ids": {
-        "tmdb": 83124
-      },
-      "overview": "Gianni Garko se vuelve a meter en la piel de Sartana, un aguerrido y justiciero vaquero del Oeste americano. Esta vez, el valiente cowboy provoca, intencionadamente, un incidente para ingresar en la cárcel y hablar con Grand Full. Él es el único que le puede ayudar a encontrar el paradero de 500.000 dólares, escondidos por su socio Johnson, que fue asesinado. Pero, en prisión, hay otros muchos bandoleros que desean encontrar el tesoro.",
-      "year": 1970,
-      "poster": "https://image.tmdb.org/t/p/w342/pLLMzsdDXbjRBQ68bGM8dcTBIR0.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2UBIgkikTKWmRiKNjgPf2TAWcai.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2G7ZQ3JWK158WH9HW0eVLCQrP3b.png"
-    },
-    {
       "id": "tmdb:97319",
       "type": "movie",
       "name": "Cosas que hacen que la vida valga la pena",
@@ -513,124 +328,18 @@
       "backdrop": "https://image.tmdb.org/t/p/original/wMjYE79A8Y5ujF3LXgpdL64Wcdg.jpg"
     },
     {
-      "id": "tmdb:102490",
+      "id": "tmdb:423",
       "type": "movie",
-      "name": "El último viaje de Robert Rylands",
+      "name": "El pianista",
       "ids": {
-        "tmdb": 102490
+        "tmdb": 423
       },
-      "overview": "Robert Rylands, un arqueólogo profesor de universidad del que se perdió la vista durante los últimos diez años, regresa a Oxford cuando está a punto de cumplir 70. Pasa una noche entera haciendo una declaración voluntaria en la comisaría de policía. Su historia establece vínculos entre varias personas: la pelirroja llamada Jill, su hija Sue, la india Ahira, el estudiante negro Abraham Jones y el joven español Juan Noguera, que acaba de llegar para dar un curso de literatura. La declaración de Rylands revela su relación íntima y duradera con Alfred Cromer-Blake. La noticia de que los días de Cromer-Blake están contados convierte el último viaje de Robert Rylands en una experiencia emocional personal.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/fQT6RblCy3lOX7cAsFTGL9H2h0Z.jpg",
+      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aiAgIIDdOHSTj4ATLl1OjHxDRWT.jpg"
-    },
-    {
-      "id": "tmdb:103890",
-      "type": "movie",
-      "name": "Samba",
-      "ids": {
-        "tmdb": 103890
-      },
-      "overview": "Un viejo millonario que tiene trastornadas sus facultades mentales mata a una famosa cantante de la que está enamorado. El cadáver se lo llevan unos contrabandistas a quienes les interesa ocultar su muerte. Belén, una hermosa muchacha de los arrabales de Río que tiene un asombroso parecido físico con la difunta, conoce casualmente a los contrabandistas, que la llevan a la mansión del millonario. Éste, confundiéndola con su amante muerta, la colma de atenciones.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/osrXorjwS3wVQUB9WaIiUYEV4R4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5ANGnMAxkYaQpU3Q7DxnpQwKPEa.jpg"
-    },
-    {
-      "id": "tmdb:550835",
-      "type": "movie",
-      "name": "Nosotros",
-      "ids": {
-        "tmdb": 550835
-      },
-      "overview": "\"Nosotros\" sigue a un grupo de cinco amigos en Madrid durante el fin de semana de las elecciones generales de diciembre de 2015. María, Seda, Sarah, Suko y Felipe están en una encrucijada vital; como el conjunto del país, a lo largo de estos días tendrán que tomar una serie de decisiones que podrán sacudir el rumbo de su existencia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/7qo0XCA48TJ58rnqoSF7VhHlOBU.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:1368",
-      "type": "movie",
-      "name": "Acorralado",
-      "ids": {
-        "tmdb": 1368
-      },
-      "overview": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/277Ct5pdW4WAbaBjYLwX2BEeZqk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png"
-    },
-    {
-      "id": "tmdb:56142",
-      "type": "movie",
-      "name": "Confidencias",
-      "ids": {
-        "tmdb": 56142
-      },
-      "overview": "Un profesor norteamericano jubilado vive una vida solitaria en su lujoso palacio de Roma. Tiene un enfrentamiento con una vulgar marquesa italiana y sus acompañantes: su amante, su hija y el novio de su hija, y se ve obligado a alquilarles el apartamento del ático del palacio. Su vida hasta entonces rutinaria se verá sumida en el caos por las maquinaciones de sus inquilinos.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/v5Kb3kqxBV1ElpKrd39a1NYfFr1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zuXlN8gTWI453Rv5JokmexftV2S.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4eXbzeP3EZyYujRM83WuMGsLwXo.png"
-    },
-    {
-      "id": "tmdb:82299",
-      "type": "movie",
-      "name": "Mas allá del bien y del mal",
-      "ids": {
-        "tmdb": 82299
-      },
-      "overview": "En 1899, Paul  conoce a la joven judía rusa  Salomé e inmediatamente quiere casarse con ella. Ella en cambio, propone una relación más ambigua: Ellos dos y su amigo, Friedrich Nietzsche.Con un título que hace referencia a la obra del famoso filósofo alemán, \"Más allá del bien y del mal. Preludio de una filosofía del futuro\", se esconde este drama que profundiza en la intensa relación que se estableció en la década de 1880 entre Nietzsche, la escritora y psicoanalista Lou Salome y el también filósofo Paul Rée.",
-      "year": 1977,
-      "poster": "https://image.tmdb.org/t/p/w342/bxFXut8oJUTmzYiDdtIrMEMDim5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rR26yqyPLrZgm7RQmmLXKJcP0PQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kMeKECB0xDTKy0Zcla6VxMUTQmh.png"
-    },
-    {
-      "id": "tmdb:216986",
-      "type": "movie",
-      "name": "El abominable hombre de la Costa del Sol",
-      "ids": {
-        "tmdb": 216986
-      },
-      "overview": "Una joven tan atractiva como soñadora ve a su desastrado prometido como un distinguido caballero, fascinante y radiante. Este, no obstante, acabará alcanzando su gran ilusión, convertirse en el director de relaciones públicas de un gran hotel en la Costa del Sol.",
-      "year": 1970,
-      "poster": "https://image.tmdb.org/t/p/w342/viOGIDivolGVnDbFS4xuG8ZPJaC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/onz1UY5BX2TBm4KxpjTORaoWqMS.jpg"
-    },
-    {
-      "id": "tmdb:256789",
-      "type": "movie",
-      "name": "La vida en un hilo",
-      "ids": {
-        "tmdb": 256789
-      },
-      "overview": "Después de enterrar con todos los honores a su difunto esposo, una joven viuda abandona la sórdida vida provinciana y se va a Madrid. Fue una etapa muy dura de su vida, que debió soportar con resignación, pero ahora está dispuesta a recuperar el tiempo perdido. En el tren coincide con una adivina.",
-      "year": 1945,
-      "poster": "https://image.tmdb.org/t/p/w342/jmT2E5gttP8vQccflPTEcggS6Yr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jiFf1LJ807o3yIv3vNVgb7N8jFT.jpg"
-    },
-    {
-      "id": "tmdb:145004",
-      "type": "movie",
-      "name": "El pistolero que odiaba la muerte",
-      "ids": {
-        "tmdb": 145004
-      },
-      "overview": "Un artista de circo no quiere utilizar la pistola en contra de nadie, a pesar de la destreza que tiene con este artilugio...  hasta que por el amor de una mujer y la defensa de un niño ,le impulsan a hacerlo...",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/9FCuYz1UAa6b4eR7tee6VcKlPy9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ty01qBPdgwkEo41zJWqYWUVsS4P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hYzghgo8AXtu3sYaDpKKWKPJJ1n.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
     },
     {
       "id": "tmdb:391",
@@ -647,18 +356,165 @@
       "logo": "https://image.tmdb.org/t/p/w500/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png"
     },
     {
-      "id": "tmdb:18553",
+      "id": "tmdb:230471",
       "type": "movie",
-      "name": "Forever mine",
+      "name": "El gladiador más fuerte del mundo",
       "ids": {
-        "tmdb": 18553
+        "tmdb": 230471
       },
-      "overview": "Alan Riply vive una historia de amor con la esposa de un siniestro político, que lo envía a la cárcel y trata de matarlo. Varios años después, Alan se ha convertido en un triunfador, pero mantiene intacta la sed de venganza",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/l56gz538UfwKeTbxZrEbCH5FSKh.jpg",
+      "overview": "En el reino de Mersabad, Oniris intenta detentar el poder, pero llega Maciste y echa a perder el complot.",
+      "year": 1962,
+      "poster": "https://image.tmdb.org/t/p/w342/sDou9gdapdkisAo9Osnjmul0Kch.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/anXf7EreY7cclUyEZRMS47Xnjhb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sCtXuPX1ExDVf9I6Y6ESH47eIYn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ocdTwMa0th79mp22sn7Ilk1NfVw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gN3QDhaz9BUkNoVj1vFPX04QSGk.png"
+    },
+    {
+      "id": "tmdb:240051",
+      "type": "movie",
+      "name": "El arte de no casarse",
+      "ids": {
+        "tmdb": 240051
+      },
+      "overview": "Cuatro historias sobre el arte de no casarse: la de un abogado que acaba de terminar el servicio militar, la de un jovén marqués el día de su boda, la de una mujer coqueta y la de un soldado que sale con tres chicas a la vez.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/1RfRlWP2M9wDAH4ZzwKJXcvkCro.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yq3okdDPOb6Ua5qtvaKnHnz7U7q.jpg"
+    },
+    {
+      "id": "tmdb:56746",
+      "type": "movie",
+      "name": "El viaje de Carol",
+      "ids": {
+        "tmdb": 56746
+      },
+      "overview": "Carol (Clara Lago), una adolescente de madre española y padre norteamericano, viaja por primera vez a España en la primavera de 1938 en compañía de su madre (María Barranco). Separada de su padre, piloto en las Brigadas Internacionales al que ella adora, su llegada al pueblo materno transforma un entorno familiar lleno de secretos. Armada de un carácter rebelde, se opone a los convencionalismos de un mundo que le resulta desconocido. La complicidad con Maruja (Rosa Ma Sardá), las lecciones de vida de su abuelo (Álvaro de Luna) y su amor por Tomiche (Juanjo Ballesta) le abrirán las puertas a un universo de sentimientos adultos que harán de su viaje un trayecto interior desgarrado, tierno, vital e inolvidable.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/jSFezLcls2vmfuWEoOgk9zeLoP4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mSjgAyayvDhdN7U1NmL57MJw68O.jpg"
+    },
+    {
+      "id": "tmdb:156988",
+      "type": "movie",
+      "name": "El oeste te va estrecho, forastero!! (El regreso de Aleluya)",
+      "ids": {
+        "tmdb": 156988
+      },
+      "overview": "El general Ramírez, de la Revolución Mexicana, organiza sus fuerzas para atacar al general Miranda. Ramírez da cuenta de que los indios serían de gran valor como aliados, por lo que decide tomar posesión de una estatuilla de un dios azteca, para asegurarse el apoyo de los indígenas. Sin embargo, la imagen ha sido robada por unos ladrones, y entonces se ofrece a recuperarla, encargándole la misión a Aleluya.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/ep0k7VMMA9UPOwKAJxLKhf0gRYO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dsY7kT9tTqFjQnRLPBU5t6GZh5W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f2uiNLwEyF7lzKyPeMfCmuKX3Gu.png"
+    },
+    {
+      "id": "tmdb:112922",
+      "type": "movie",
+      "name": "Antes llega la muerte",
+      "ids": {
+        "tmdb": 112922
+      },
+      "overview": "Cuando Bob Carey sale de la cárcel, después de una larga condena por asesinato, inicia la búsqueda de María, su antigua novia. Pero pronto averigua que, durante su ausencia, ésta se ha casado con Clifford, un rico hacendado. La felicidad de dicho matrimonio es sólo aparente, María, en realidad, está gravemente enferma; padece un tumor cerebral cuyas molestias ella atribuye a un imaginario embarazo. Para operar a María es necesario llevarla hasta la ciudad de Laredo, así que Clifford vende todas sus posesiones y emprende el largo viaje hacia la esperanza. Pronto se unirán a la expedición un antiguo explorador del ejército llamado Rogers, un simpático cocinero chino, Lin-Chu, y un mestizo que responde al apelativo de \"Apuestas\".",
+      "year": 1964,
+      "poster": "https://image.tmdb.org/t/p/w342/nsPpG6p9KESD4eruDFvMdcQHc4l.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8XNAdezhyNgyIaoJ0iYjyS6ZDgM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4OrstdkjNxm3k07PKdDybtUyV7J.png"
+    },
+    {
+      "id": "tmdb:159282",
+      "type": "movie",
+      "name": "El hombre que mató a Billy el Niño",
+      "ids": {
+        "tmdb": 159282
+      },
+      "overview": "Tras convertirse en forajido, Billy “el Niño” es perseguido por Pat Garrett, un antiguo compañero de correrías que ejerce de sheriff. Billy le promete respetar la ley y llevar una vida honrada.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/tWjL6q1qE1x855fVvAvhtYZQU1z.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2tQ9g2R1u80WQ9OEvYJQeTLFjGr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q88aBRzJPukwpklie3Bgv9r5OQK.png"
+    },
+    {
+      "id": "tmdb:25376",
+      "type": "movie",
+      "name": "El secreto de sus ojos",
+      "ids": {
+        "tmdb": 25376
+      },
+      "overview": "Argentina. Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/sd6LML87wa9UPZgfuPnGwic82YH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pLmMJrMeFLT766X2V15eA9FhEjP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mxr9Gaur6qtlAU8jyxhqUa8YFvx.png"
+    },
+    {
+      "id": "tmdb:269064",
+      "type": "movie",
+      "name": "Llanto por un bandido",
+      "ids": {
+        "tmdb": 269064
+      },
+      "overview": "José María “El Tempranillo”, huyendo de la justicia, se refugia en Sierra Morena. Tras un período de duro aprendizaje, se convierte en el cabecilla de un grupo de bandoleros. Su mujer, María Jerónima, intenta inútilmente apartarlo de esa forma de vida. Algún tiempo después, Pedro Sánchez, un político liberal, se escapa de una cuerda de presos y recorre la sierra en busca de José María. Cuando lo encuentra, intenta atraerlo a la causa liberal.",
+      "year": 1964,
+      "poster": "https://image.tmdb.org/t/p/w342/g9t9BD8ZJCYiuOtSFFoP4od90NY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xm4pUG3ILhreXP4eIIy9xHYKiTy.jpg"
+    },
+    {
+      "id": "tmdb:145004",
+      "type": "movie",
+      "name": "El pistolero que odiaba la muerte",
+      "ids": {
+        "tmdb": 145004
+      },
+      "overview": "Un artista de circo no quiere utilizar la pistola en contra de nadie, a pesar de la destreza que tiene con este artilugio...  hasta que por el amor de una mujer y la defensa de un niño ,le impulsan a hacerlo...",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/9FCuYz1UAa6b4eR7tee6VcKlPy9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ty01qBPdgwkEo41zJWqYWUVsS4P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hYzghgo8AXtu3sYaDpKKWKPJJ1n.png"
+    },
+    {
+      "id": "tmdb:514636",
+      "type": "movie",
+      "name": "Los tres amores de Lola",
+      "ids": {
+        "tmdb": 514636
+      },
+      "overview": "Una bailaora llamada Lola conoce una noche en su lugar de trabajo en Madrid, al gran compositor mexicano Agustín Lara. El compositor le propone viajar a México donde le promete una serie de actuaciones, ella no se lo piensa y viaja hasta México y se hospeda en la casa del propio autor, en donde conoce a Luís Aguilar donde después de varias peripecias terminan enamorándose bajo la aprobación y la resignación de un médico y del propio Agustín Lara que se encontraban enamorados de Lola.",
+      "year": 1956,
+      "poster": "https://image.tmdb.org/t/p/w342/2GzFSScp3sTPiBPiIyhzvrSDMmU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AdkStMcWaQ7GM8FcZUjCa2FKYXM.jpg"
+    },
+    {
+      "id": "tmdb:102490",
+      "type": "movie",
+      "name": "El último viaje de Robert Rylands",
+      "ids": {
+        "tmdb": 102490
+      },
+      "overview": "Robert Rylands, un arqueólogo profesor de universidad del que se perdió la vista durante los últimos diez años, regresa a Oxford cuando está a punto de cumplir 70. Pasa una noche entera haciendo una declaración voluntaria en la comisaría de policía. Su historia establece vínculos entre varias personas: la pelirroja llamada Jill, su hija Sue, la india Ahira, el estudiante negro Abraham Jones y el joven español Juan Noguera, que acaba de llegar para dar un curso de literatura. La declaración de Rylands revela su relación íntima y duradera con Alfred Cromer-Blake. La noticia de que los días de Cromer-Blake están contados convierte el último viaje de Robert Rylands en una experiencia emocional personal.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/fQT6RblCy3lOX7cAsFTGL9H2h0Z.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aiAgIIDdOHSTj4ATLl1OjHxDRWT.jpg"
+    },
+    {
+      "id": "tmdb:197940",
+      "type": "movie",
+      "name": "Los siete de Pancho Villa",
+      "ids": {
+        "tmdb": 197940
+      },
+      "overview": "Villa se halla herido tras una derrota inicial. Su revolución ha sufrido un duro golpe y los carrancistas han puesto precio a su cabeza. El famoso revolucionario decide, pues, aconsejado por su general y sus lugartenientes, recuperar el tesoro que perdieron al abandonar la ciudad para poder reorganizar sus tropas.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/8BLK3oce55q5meqOe2QsiF1e01k.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:589203",
@@ -672,6 +528,151 @@
       "poster": "https://image.tmdb.org/t/p/w342/alJXKTFBZC3pr9muEf1TGBYcyCV.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/9wEy9cLoB2uvTfZ2MujpOpYYN6x.jpg"
+    },
+    {
+      "id": "tmdb:56142",
+      "type": "movie",
+      "name": "Confidencias",
+      "ids": {
+        "tmdb": 56142
+      },
+      "overview": "Un profesor norteamericano jubilado vive una vida solitaria en su lujoso palacio de Roma. Tiene un enfrentamiento con una vulgar marquesa italiana y sus acompañantes: su amante, su hija y el novio de su hija, y se ve obligado a alquilarles el apartamento del ático del palacio. Su vida hasta entonces rutinaria se verá sumida en el caos por las maquinaciones de sus inquilinos.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/v5Kb3kqxBV1ElpKrd39a1NYfFr1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zuXlN8gTWI453Rv5JokmexftV2S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4eXbzeP3EZyYujRM83WuMGsLwXo.png"
+    },
+    {
+      "id": "tmdb:69032",
+      "type": "movie",
+      "name": "Mil millones para una rubia",
+      "ids": {
+        "tmdb": 69032
+      },
+      "overview": "Una seductora rubia efectúa un robo de joyas sin precedentes en la historia de la delincuencia, nada menos que por valor de mil millones. Toda la pericia y sangre fría de la bella mujer que han sido puestas a contribución para consumar el plan minuciosamente trazado por el misterioso Decker. A partir de este momento surgen los problemas.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/42fP5Kk6AMeuHWGavKQvhC89OJZ.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:66898",
+      "type": "movie",
+      "name": "El cantor de México",
+      "ids": {
+        "tmdb": 66898
+      },
+      "overview": "Durante unas fiestas populares, un empresario artístico oye cantar a Vicente, un joven de maravillosa voz. Animado por algunos amigos, Vicente se traslada a París para triunfar en el mundo del espectáculo. Allí le espera una gran sorpresa, ya que ha de sustituir a la gran figura Miguel Moreno en la opereta «El cantor de México».",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/6NRorpuge8DUvkwLleiNsxnDVTW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wHofvg23MZVTEmcIy0FgI3OvMMN.jpg"
+    },
+    {
+      "id": "tmdb:119361",
+      "type": "movie",
+      "name": "No es nada, mamá, sólo un juego",
+      "ids": {
+        "tmdb": 119361
+      },
+      "overview": "El joven propietario de una hacienda (David Hemmings) se comporta de manera cruel con las mujeres debido a ciertos traumas de su niñez, pero su madre (Alida Valli) trata siempre de encubrirlo. Sin embargo, cuando entabla relación con la hija de un empleado de la finca y se casa con ella, la joven (Andrea Rau) se convierte, inesperadamente, en la auténtica dominadora de la familia.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/wKSQSqUN6cJDeTDlcLEtHmxLnhW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lENHa5wR9E7pUEenGJKv5XCJoux.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4LVUbu11w8MZWuW2kJrydX8Bmaz.png"
+    },
+    {
+      "id": "tmdb:186620",
+      "type": "movie",
+      "name": "Antártida",
+      "ids": {
+        "tmdb": 186620
+      },
+      "overview": "María, adicta a la heroína y frustrada cantante de rock, ha perdido a su novio por sobredosis. No hay nada que le devuelva la esperanza, hasta que un día conoce a Rafa, un chico más joven y con las ideas mucho más claras que ella. Rafa convence a María para que robe un poco de heroína, pero lo que parecía unos gramos son nada menos que nueve kilos. Velasco, un tipo sin escrúpulos que cuenta con el respaldo de la policía, es el que ha perdido la droga. Rafa y María emprenden una huida sin retorno, un viaje hacia un lugar donde la vida les dará su última oportunidad.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/4outfivtI5FXgflythE85bPMLNI.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:42544",
+      "type": "movie",
+      "name": "El Kárate, el Colt y el Impostor",
+      "ids": {
+        "tmdb": 42544
+      },
+      "overview": "El bandido Dakota intenta robar la fortuna de Wong, un chino rico, explotando la caja fuerte de un banco con dinamita, pero Wong muere por el impacto y además en la caja sólo hay cuatro fotos de mujeres desnudas. El sobrino de Wong viene de China para encontrar el dinero, libera a Dakota de la horca y juntos buscan a las cuatro mujeres porque llevan un mensaje impreso en el cuerpo que indica cómo localizar el tesoro.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/yCAnPJ01sPoGdFGutbTgRoH5ZPY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qs4KhTWa6gDxtEwbA8uyHcOzcHx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9CYwT0NU1HyQHdJrKyau5SmIF5c.png"
+    },
+    {
+      "id": "tmdb:82299",
+      "type": "movie",
+      "name": "Mas allá del bien y del mal",
+      "ids": {
+        "tmdb": 82299
+      },
+      "overview": "En 1899, Paul  conoce a la joven judía rusa  Salomé e inmediatamente quiere casarse con ella. Ella en cambio, propone una relación más ambigua: Ellos dos y su amigo, Friedrich Nietzsche.Con un título que hace referencia a la obra del famoso filósofo alemán, \"Más allá del bien y del mal. Preludio de una filosofía del futuro\", se esconde este drama que profundiza en la intensa relación que se estableció en la década de 1880 entre Nietzsche, la escritora y psicoanalista Lou Salome y el también filósofo Paul Rée.",
+      "year": 1977,
+      "poster": "https://image.tmdb.org/t/p/w342/bxFXut8oJUTmzYiDdtIrMEMDim5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rR26yqyPLrZgm7RQmmLXKJcP0PQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kMeKECB0xDTKy0Zcla6VxMUTQmh.png"
+    },
+    {
+      "id": "tmdb:28440",
+      "type": "movie",
+      "name": "Misterio en la isla de los monstruos",
+      "ids": {
+        "tmdb": 28440
+      },
+      "overview": "Fantasía basada en la novela de Julio Verne, en la que un muchacho y su protector quedan abandonados a su suerte en una isla desierta, tras un naufragio. En la isla son amenazados por criaturas prehistóricas y un científico demente.",
+      "year": 1981,
+      "poster": "https://image.tmdb.org/t/p/w342/rd5PnkIDLrJrgzCgw5xs6GRf0Es.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vWByJ50Juy14JZJF6H5mbWtM3IU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fB6O09LIAUS10MqQDbOnAAgnLuh.png"
+    },
+    {
+      "id": "tmdb:77970",
+      "type": "movie",
+      "name": "La loca historia de los tres mosqueteros",
+      "ids": {
+        "tmdb": 77970
+      },
+      "overview": "El Cardenal Richelieu odia a muerte a Ana de Austria, Reina de Francia. Aprovechando que la Reina es un poco ligera de cascos y que le ha entregado el liguero de pedrería, que con tanto amor le había regalado su esposo, al Duque de Buckingham, monta una fiesta palaciega con la perversa pretensión de que la Reina luzca el susodicho liguero. Ante el aprieto de la Reina, su fiel servidora Constanza pone al servicio de su señora a Los tres Mosqueteros para que vayan a Londres a recuperar el liguero. Los 3 Mosqueteros deberán luchar encarnizadamente contra el Cardenal Richelieu y sus hombres para llegar a tiempo con el famoso liguero de brillantes.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/fBEeNB5Znt8N2fjjYBgNNvl9xC5.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:256789",
+      "type": "movie",
+      "name": "La vida en un hilo",
+      "ids": {
+        "tmdb": 256789
+      },
+      "overview": "Después de enterrar con todos los honores a su difunto esposo, una joven viuda abandona la sórdida vida provinciana y se va a Madrid. Fue una etapa muy dura de su vida, que debió soportar con resignación, pero ahora está dispuesta a recuperar el tiempo perdido. En el tren coincide con una adivina.",
+      "year": 1945,
+      "poster": "https://image.tmdb.org/t/p/w342/jmT2E5gttP8vQccflPTEcggS6Yr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jiFf1LJ807o3yIv3vNVgb7N8jFT.jpg"
+    },
+    {
+      "id": "tmdb:201003",
+      "type": "movie",
+      "name": "La familia y uno más",
+      "ids": {
+        "tmdb": 201003
+      },
+      "overview": "La vida de la desmesurada familia del aparejador Carlos Alonso ha sufrido varios cambios con el correr de los años: el nacimiento del hijo numero 16, la pequeña María, coincidió con la muerte de la madre, que dejó tras de sí un hueco irrellenable. El abuelo también ha fallecido. El padrino pastelero se ha casado, y los chicos han ido creciendo rápidamente...",
+      "year": 1965,
+      "poster": "https://image.tmdb.org/t/p/w342/2ylWpVK4qNWFzDwKJA5Uns9PVpn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4U353J7OxDEl9HxohOgJ63LSlH2.jpg"
     }
   ]
 }
