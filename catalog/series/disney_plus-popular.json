@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
-      "id": "tmdb:1416",
-      "type": "series",
-      "name": "Anatomía de Grey",
-      "ids": {
-        "tmdb": 1416
-      },
-      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o43bkJW1QRAPMpP3BhwgjZvQIq3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
-    },
-    {
       "id": "tmdb:2734",
       "type": "series",
       "name": "Ley y orden: Unidad de Víctimas Especiales",
@@ -69,6 +55,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hwBwh07cylRzjjwtqIEbxZnYPZd.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dHp46lXUI9GuhMYlnXPDz5KQVza.png"
+    },
+    {
+      "id": "tmdb:1416",
+      "type": "series",
+      "name": "Anatomía de Grey",
+      "ids": {
+        "tmdb": 1416
+      },
+      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o43bkJW1QRAPMpP3BhwgjZvQIq3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
     },
     {
       "id": "tmdb:456",
@@ -127,6 +127,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
     },
     {
+      "id": "tmdb:2316",
+      "type": "series",
+      "name": "The Office",
+      "ids": {
+        "tmdb": 2316
+      },
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+    },
+    {
       "id": "tmdb:71728",
       "type": "series",
       "name": "El joven Sheldon",
@@ -153,20 +167,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/bDiiWu1QmsHt95tcIULtzarzZfT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iAtC7dmE9CKFCWTp4TXV7tc0ig5.png"
-    },
-    {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
     },
     {
       "id": "tmdb:4607",
@@ -211,34 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
     },
     {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
-    },
-    {
-      "id": "tmdb:1558",
-      "type": "series",
-      "name": "Un chapuzas en casa",
-      "ids": {
-        "tmdb": 1558
-      },
-      "overview": "Un chapuzas en casa fue una sitcom de la televisión estadounidense, emitida por la cadena ABC desde 1991 hasta 1999. Durante esa década fue una de las comedias más vistas y ganadora de varios premios, además de ser la encargada de catapultar la carrera de Tim Allen como actor, y marcar el inicio de la carrera de televisión de Pamela Anderson, quien fuera parte del programa en las primeras dos temporadas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/lujRZmkiQeaQpmU4felQB562Qbj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6FPHofU3vOJyZs0KqJG3SemaCrf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/blTxQdtcQfWfZH2GXeTFm1x0mWH.png"
-    },
-    {
       "id": "tmdb:1973",
       "type": "series",
       "name": "24",
@@ -253,18 +225,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
-      "id": "tmdb:1407",
+      "id": "tmdb:1402",
       "type": "series",
-      "name": "Homeland",
+      "name": "The Walking Dead",
       "ids": {
-        "tmdb": 1407
+        "tmdb": 1402
       },
-      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
       "id": "tmdb:65334",
@@ -281,18 +253,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
-      "id": "tmdb:2288",
+      "id": "tmdb:30984",
       "type": "series",
-      "name": "Prison Break",
+      "name": "Bleach",
       "ids": {
-        "tmdb": 2288
+        "tmdb": 30984
       },
-      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
+      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wgdJFhAsDB1DVbCjrD5L1PkqlxE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/69nu9LEzvIXBlyqjpKDHPsYhZI2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o70efegfXs54CWmstnk1MXnFJ8I.png"
     },
     {
       "id": "tmdb:1419",
@@ -323,32 +295,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/lCWLOzmb4MbmILWfXTDuNG6T7ix.png"
     },
     {
-      "id": "tmdb:30984",
+      "id": "tmdb:21510",
       "type": "series",
-      "name": "Bleach",
+      "name": "Ladrón de guante blanco",
       "ids": {
-        "tmdb": 30984
+        "tmdb": 21510
       },
-      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
+      "overview": "Neil Caffrey es un ladrón de guante blanco, que se escapa de una cárcel de máxima seguridad para ir en busca de su novia que le ha abandonado para siempre. Para cazar a Caffrey, el FBI llama a Peter Burke, el agente que le ha perseguido durante años y que fue el único que consiguió encerrarlo. El agente encontrará a Caffrey que le ofrece un buen trato, usará su experiencia criminal para ayudarle a atrapar a los ladrones más escurridizos del mundo a cambio de la libertad. Una relación muy especial que también compartirán Elisabeth, la mujer de Burke y Mozzie, el mejor amigo de este ladrón que ahora trabaja para los buenos.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/zBPtDQhzQIul3q1URdaNt51Kuw8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/69nu9LEzvIXBlyqjpKDHPsYhZI2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o70efegfXs54CWmstnk1MXnFJ8I.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/Ad7NbuOmP4wacb5HobILDLQlPPW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1g46H8Mic22HnWZ8UWen5mCNbFj.png"
     },
     {
-      "id": "tmdb:75219",
+      "id": "tmdb:1407",
       "type": "series",
-      "name": "9-1-1",
+      "name": "Homeland",
       "ids": {
-        "tmdb": 75219
+        "tmdb": 1407
       },
-      "overview": "Drama basado en hechos reales que explora la ajetreada profesión y vida del personal que opera detrás de la línea de emergencia 911. A través de ella, policías, paramédicos y bomberos reciben llamadas de urgencias diarias por las que rápidamente deben acudir y poner en riesgo su vida para salvar la de otros.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ygOaYjqTeGZEHprKh2lWzPc1RdO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
+    },
+    {
+      "id": "tmdb:2288",
+      "type": "series",
+      "name": "Prison Break",
+      "ids": {
+        "tmdb": 2288
+      },
+      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wgdJFhAsDB1DVbCjrD5L1PkqlxE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
     },
     {
       "id": "tmdb:80350",
@@ -365,102 +351,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/y5dppBlVsv5qUcpdFNH9gsbNIn4.png"
     },
     {
-      "id": "tmdb:12225",
+      "id": "tmdb:1558",
       "type": "series",
-      "name": "Peppa Pig",
+      "name": "Un chapuzas en casa",
       "ids": {
-        "tmdb": 12225
+        "tmdb": 1558
       },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "overview": "Un chapuzas en casa fue una sitcom de la televisión estadounidense, emitida por la cadena ABC desde 1991 hasta 1999. Durante esa década fue una de las comedias más vistas y ganadora de varios premios, además de ser la encargada de catapultar la carrera de Tim Allen como actor, y marcar el inicio de la carrera de televisión de Pamela Anderson, quien fuera parte del programa en las primeras dos temporadas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/lujRZmkiQeaQpmU4felQB562Qbj.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6FPHofU3vOJyZs0KqJG3SemaCrf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/blTxQdtcQfWfZH2GXeTFm1x0mWH.png"
     },
     {
-      "id": "tmdb:21510",
+      "id": "tmdb:75219",
       "type": "series",
-      "name": "Ladrón de guante blanco",
+      "name": "9-1-1",
       "ids": {
-        "tmdb": 21510
+        "tmdb": 75219
       },
-      "overview": "Neil Caffrey es un ladrón de guante blanco, que se escapa de una cárcel de máxima seguridad para ir en busca de su novia que le ha abandonado para siempre. Para cazar a Caffrey, el FBI llama a Peter Burke, el agente que le ha perseguido durante años y que fue el único que consiguió encerrarlo. El agente encontrará a Caffrey que le ofrece un buen trato, usará su experiencia criminal para ayudarle a atrapar a los ladrones más escurridizos del mundo a cambio de la libertad. Una relación muy especial que también compartirán Elisabeth, la mujer de Burke y Mozzie, el mejor amigo de este ladrón que ahora trabaja para los buenos.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/zBPtDQhzQIul3q1URdaNt51Kuw8.jpg",
+      "overview": "Drama basado en hechos reales que explora la ajetreada profesión y vida del personal que opera detrás de la línea de emergencia 911. A través de ella, policías, paramédicos y bomberos reciben llamadas de urgencias diarias por las que rápidamente deben acudir y poner en riesgo su vida para salvar la de otros.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Ad7NbuOmP4wacb5HobILDLQlPPW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1g46H8Mic22HnWZ8UWen5mCNbFj.png"
-    },
-    {
-      "id": "tmdb:1100",
-      "type": "series",
-      "name": "Cómo conocí a vuestra madre",
-      "ids": {
-        "tmdb": 1100
-      },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
-    },
-    {
-      "id": "tmdb:4556",
-      "type": "series",
-      "name": "Scrubs",
-      "ids": {
-        "tmdb": 4556
-      },
-      "overview": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wI9Ozc5by2OVz5J0tPB7JcgjrpO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png"
-    },
-    {
-      "id": "tmdb:127706",
-      "type": "series",
-      "name": "Kiff",
-      "ids": {
-        "tmdb": 127706
-      },
-      "overview": "La serie sigue a Kiff, una ardilla cuyas buenas intenciones a menudo provocan el caos, y a su mejor amigo, Barry, un conejo cariñoso y mullido. La acción ocurre en unas montañas donde animales y criaturas mágicas viven en armonía y la serie presenta a nuestro dúo poniendo el pueblo patas arriba con sus aventuras infinitas y sus ansias de vivir.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/h7xhJ1uWu7FurJ3W5iKzrfiPF3K.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fdgTjKmysPl9H1TzHRvQrfwxMDR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kFLLMGByls8HnjKvDwKuEBJ36v2.png"
-    },
-    {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story",
-      "ids": {
-        "tmdb": 1413
-      },
-      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/79gY0YpwZWpi7qaD5gB0Sj7u2I3.svg"
-    },
-    {
-      "id": "tmdb:888",
-      "type": "series",
-      "name": "Spiderman",
-      "ids": {
-        "tmdb": 888
-      },
-      "overview": "¿Imaginas ser capaz de sentir el peligro, subir cualquier pared, ser lo suficientemente fuerte como para doblar el acero, y tener más agilidad que cualquier otro ser humano? Para Peter Parker es un hecho. Excepto que él no piensa que es un regalo. En su último año de instituto, Peter Parker fue mordido por una araña radioactiva. Después de breves alucinaciones, Peter se despierta con poderes increíbles - muy parecidos a los de una araña. Por lo tanto, para hacer algo de dinero extra, Peter toma el personaje de Spider-Man, y trata de seguir una carrera como luchador profesional. Cuando es testigo de un robo, permite que el criminal escape simplemente porque \"no es su problema\". Luego, cuando su querido tío Ben es asesinado, Peter descubre que el asesino no es otro que el criminal que no detuvo anteriormente. Ahora, Peter usa sus poderes para detener el crimen porque \"un gran poder conlleva una gran responsabilidad\".",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/cwgW8j4yh5hNMnvokozpVkjuSu2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iTHKz6kCv1UyXfdcB4kutMQYsaD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fnN2AJ567v6zil4kocaQ9H6gVRc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ygOaYjqTeGZEHprKh2lWzPc1RdO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png"
     },
     {
       "id": "tmdb:90",
@@ -477,60 +393,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
     },
     {
-      "id": "tmdb:1104",
+      "id": "tmdb:4556",
       "type": "series",
-      "name": "Mad Men",
+      "name": "Scrubs",
       "ids": {
-        "tmdb": 1104
+        "tmdb": 4556
       },
-      "overview": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+      "overview": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A36SuVJ1en8yqZoUCyspGXaT8Xz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wI9Ozc5by2OVz5J0tPB7JcgjrpO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png"
     },
     {
-      "id": "tmdb:50825",
+      "id": "tmdb:1100",
       "type": "series",
-      "name": "Sleepy Hollow",
+      "name": "Cómo conocí a vuestra madre",
       "ids": {
-        "tmdb": 50825
+        "tmdb": 1100
       },
-      "overview": "¿Y si de repente regresases a la vida 250 años después de tu muerte y encontrases el mundo al borde de la destrucción, causada por una serie de eventos inimaginables y fueses la última esperanza de la humanidad? Bienvenido a Sleepy Hollow, la emocionante nueva serie de aventuras de los productores Alex Kurtzman y Roberto Orci (Star Trek, Transformers). Ichabod Crane resucita dos siglos y medio después para descubrir que fuerzas del mal están a punto de conseguir que el mundo sea destruido y que él parece ser el único que puede evitar la desaparición de la raza humana. Él y una joven policía con la que parece tener un misterioso vínculo y que le ayudará a resolver los misterios que les rodean.\n\nEn esta moderna reinterpretación del clásico de Washington Irving, Ichabod Crane (Tom Mison, Parade's End) es resucitado, traído a la época presente y obligado a desenredar un misterio que data de la época de los padres fundadores del país. Con él ha revivido también el infame Jinete Sin Cabeza, el peligroso asesino que aterrorizaba Sleepy Hollow en su época y que parece haber vuelto a las andadas. Ligado a él por un hechizo de sangre lanzado en época de la Revolución americana, Ichabod se dará cuenta rápidamente que detener al jinete es sólo el principio, ya que el malvado jinete al que persigue es tan sólo el primero de los cuatro jinetes del Apocalipsis.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kKBHmaXE7am776NcV8RkSrI0zu1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eD769hvAgjZSLyr5a5VWmnmIxRi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
     },
     {
-      "id": "tmdb:1417",
+      "id": "tmdb:1413",
       "type": "series",
-      "name": "Glee",
+      "name": "American Horror Story",
       "ids": {
-        "tmdb": 1417
+        "tmdb": 1413
       },
-      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
+      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/79gY0YpwZWpi7qaD5gB0Sj7u2I3.svg"
     },
     {
-      "id": "tmdb:67136",
+      "id": "tmdb:127706",
       "type": "series",
-      "name": "This Is Us",
+      "name": "Kiff",
       "ids": {
-        "tmdb": 67136
+        "tmdb": 127706
       },
-      "overview": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
+      "overview": "La serie sigue a Kiff, una ardilla cuyas buenas intenciones a menudo provocan el caos, y a su mejor amigo, Barry, un conejo cariñoso y mullido. La acción ocurre en unas montañas donde animales y criaturas mágicas viven en armonía y la serie presenta a nuestro dúo poniendo el pueblo patas arriba con sus aventuras infinitas y sus ansias de vivir.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/h7xhJ1uWu7FurJ3W5iKzrfiPF3K.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q76JvT3BAYMVIGAnURDOYHht5Aw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Q6yKFzBM07507ud3CY5YdjtkOc.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/fdgTjKmysPl9H1TzHRvQrfwxMDR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kFLLMGByls8HnjKvDwKuEBJ36v2.png"
     },
     {
       "id": "tmdb:80006",
@@ -547,32 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/10wFyFQid6AZHqOunAhk1BT8X5P.png"
     },
     {
-      "id": "tmdb:68654",
+      "id": "tmdb:12225",
       "type": "series",
-      "name": "MECH-X4",
+      "name": "Peppa Pig",
       "ids": {
-        "tmdb": 68654
+        "tmdb": 12225
       },
-      "overview": "Ryan Walker es un estudiante de primer año en Bay City High que tiene la capacidad de controlar la tecnología con su mente. Su talento despierta misteriosamente el MECH-X4, un gigantesco robot de 150 pies construido por un elusivo genio escondido para defender su ciudad contra la fatalidad inminente. Ryan recluta a su hermano mayor y dos mejores amigos para ayudarle a operar MECH-X4. Cuando los monstruos gigantes de repente comienzan a descender sobre Bay City, los cuatro deben aprender rápidamente a trabajar como un equipo con el fin de pilotar el robot que es su única esperanza de salvar a su ciudad, y en última instancia, el mundo, de la destrucción masiva.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/b031Y3PuzK8gZBRrfQ97lFN84F4.jpg",
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jyFiSopuTSW5X7ygbXJyOi97nhY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e50CBMUitXJ0XS3j9w3Jq2y1h7p.png"
-    },
-    {
-      "id": "tmdb:615",
-      "type": "series",
-      "name": "Futurama",
-      "ids": {
-        "tmdb": 615
-      },
-      "overview": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:4586",
@@ -589,18 +491,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
-      "id": "tmdb:1409",
+      "id": "tmdb:888",
       "type": "series",
-      "name": "Hijos de la anarquía",
+      "name": "Spiderman",
       "ids": {
-        "tmdb": 1409
+        "tmdb": 888
       },
-      "overview": "Creada por Kurt Sutter, responsable también de “The Shield”, “Sons of Anarchy” está ambientada en la localidad ficticia de Charming, situada en el Norte de California. Su protagonista es Jackson “Jax” Teller(Chalie Hunnam – “Hijos de los hombres”, “Cold Mountain”), un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original (SAMCRO en su acrónimo), un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
+      "overview": "¿Imaginas ser capaz de sentir el peligro, subir cualquier pared, ser lo suficientemente fuerte como para doblar el acero, y tener más agilidad que cualquier otro ser humano? Para Peter Parker es un hecho. Excepto que él no piensa que es un regalo. En su último año de instituto, Peter Parker fue mordido por una araña radioactiva. Después de breves alucinaciones, Peter se despierta con poderes increíbles - muy parecidos a los de una araña. Por lo tanto, para hacer algo de dinero extra, Peter toma el personaje de Spider-Man, y trata de seguir una carrera como luchador profesional. Cuando es testigo de un robo, permite que el criminal escape simplemente porque \"no es su problema\". Luego, cuando su querido tío Ben es asesinado, Peter descubre que el asesino no es otro que el criminal que no detuvo anteriormente. Ahora, Peter usa sus poderes para detener el crimen porque \"un gran poder conlleva una gran responsabilidad\".",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/cwgW8j4yh5hNMnvokozpVkjuSu2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iTHKz6kCv1UyXfdcB4kutMQYsaD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fnN2AJ567v6zil4kocaQ9H6gVRc.png"
+    },
+    {
+      "id": "tmdb:1417",
+      "type": "series",
+      "name": "Glee",
+      "ids": {
+        "tmdb": 1417
+      },
+      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
+    },
+    {
+      "id": "tmdb:2122",
+      "type": "series",
+      "name": "El rey de la colina",
+      "ids": {
+        "tmdb": 2122
+      },
+      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
+    },
+    {
+      "id": "tmdb:4574",
+      "type": "series",
+      "name": "X Men, La Serie Animada",
+      "ids": {
+        "tmdb": 4574
+      },
+      "overview": "Primera serie de animación basada en los cómics de Marvel, X-Men. La serie comienza con Júbilo, una adolescente que de pronto descubre tener poderes mutantes. Fue atacada por Centinelas y rescatada por los X-Men, y luego de conocerlos dejó a sus padres adoptivos y se fue con ellos, para aprender a controlar sus poderes y estar a salvo de los ataques de los Centinelas u otras organizaciones extremistas anti-mutantes.  La serie se enfoca también en el triángulo amoroso entre Cíclope, Jean y Wolverine, y la complicada relación entre Gambito y Rogue. Había una enorme cantidad de personajes invitados a lo largo de la serie provenientes de todo el Universo Marvel, pero sólo los mutantes se pueden considerar como tales. A excepción de Miss Marvel y el Capitán América en uno de los episodios finales, y Juggernaut dado su naturaleza mágica, todos los personajes no-mutantes que aparecían lo hacían sólo como cameos de breves segundos. En 2000, se estrenó una segunda serie animada llamada \"X-Men Evolution\", aunque no fue tan bien recibida como ésta, Spiderman: La serie animada o Batman: La serie animada. ",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h3Nx4QuCjL7jc2b7BIFFBUNiRW7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sj8UwAX0wjx1Xu6G1NTWLlMG9py.png"
+    },
+    {
+      "id": "tmdb:67136",
+      "type": "series",
+      "name": "This Is Us",
+      "ids": {
+        "tmdb": 67136
+      },
+      "overview": "Esta provocativa y honesta serie sigue a un grupo de personas bastante particular que, de pronto, ven cómo sus vidas se entrelazan unas con otras de las maneras más curiosas posibles, explorando sus propios conflictos, privaciones y dificultades. Pronto descubren que muchos de ellos comparten elementos comunes en sus vidas (algunos de ellos cumplen año el mismo día), incluso más de lo que cualquiera de ellos podrían esperar. This is Us es una serie que mezcla elementos de comedia y drama, y en la que los personajes deben lidiar con los aspectos difíciles de la vida, demostrando que el amor es una fuerza imparable y que los humanos son capaces de resistir más de lo que creen.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q76JvT3BAYMVIGAnURDOYHht5Aw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Q6yKFzBM07507ud3CY5YdjtkOc.svg"
+    },
+    {
+      "id": "tmdb:95",
+      "type": "series",
+      "name": "Buffy, cazavampiros",
+      "ids": {
+        "tmdb": 95
+      },
+      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
+    },
+    {
+      "id": "tmdb:1104",
+      "type": "series",
+      "name": "Mad Men",
+      "ids": {
+        "tmdb": 1104
+      },
+      "overview": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A36SuVJ1en8yqZoUCyspGXaT8Xz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
+    },
+    {
+      "id": "tmdb:100010",
+      "type": "series",
+      "name": "Big Sky",
+      "ids": {
+        "tmdb": 100010
+      },
+      "overview": "Dos detectives privados, Cassie Dewell y Cody Hoyt, colaboran con Jenny, ex policía de la que Cody está separado, para buscar a dos hermanas a las que secuestra un camionero en una carretera perdida de Montana. Cuando descubren que no son las únicas chicas que han desaparecido en la zona, tienen que darse prisa para detener al asesino antes de que se lleve a más mujeres.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/juBO3GOvPXqdG68XlqcJzbo0hZX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vgYKSstQY1xwgz049tpmT7Vtrmw.svg"
     },
     {
       "id": "tmdb:245927",
@@ -631,18 +631,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
     },
     {
-      "id": "tmdb:4574",
+      "id": "tmdb:50825",
       "type": "series",
-      "name": "X Men, La Serie Animada",
+      "name": "Sleepy Hollow",
       "ids": {
-        "tmdb": 4574
+        "tmdb": 50825
       },
-      "overview": "Primera serie de animación basada en los cómics de Marvel, X-Men. La serie comienza con Júbilo, una adolescente que de pronto descubre tener poderes mutantes. Fue atacada por Centinelas y rescatada por los X-Men, y luego de conocerlos dejó a sus padres adoptivos y se fue con ellos, para aprender a controlar sus poderes y estar a salvo de los ataques de los Centinelas u otras organizaciones extremistas anti-mutantes.  La serie se enfoca también en el triángulo amoroso entre Cíclope, Jean y Wolverine, y la complicada relación entre Gambito y Rogue. Había una enorme cantidad de personajes invitados a lo largo de la serie provenientes de todo el Universo Marvel, pero sólo los mutantes se pueden considerar como tales. A excepción de Miss Marvel y el Capitán América en uno de los episodios finales, y Juggernaut dado su naturaleza mágica, todos los personajes no-mutantes que aparecían lo hacían sólo como cameos de breves segundos. En 2000, se estrenó una segunda serie animada llamada \"X-Men Evolution\", aunque no fue tan bien recibida como ésta, Spiderman: La serie animada o Batman: La serie animada. ",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
+      "overview": "¿Y si de repente regresases a la vida 250 años después de tu muerte y encontrases el mundo al borde de la destrucción, causada por una serie de eventos inimaginables y fueses la última esperanza de la humanidad? Bienvenido a Sleepy Hollow, la emocionante nueva serie de aventuras de los productores Alex Kurtzman y Roberto Orci (Star Trek, Transformers). Ichabod Crane resucita dos siglos y medio después para descubrir que fuerzas del mal están a punto de conseguir que el mundo sea destruido y que él parece ser el único que puede evitar la desaparición de la raza humana. Él y una joven policía con la que parece tener un misterioso vínculo y que le ayudará a resolver los misterios que les rodean.\n\nEn esta moderna reinterpretación del clásico de Washington Irving, Ichabod Crane (Tom Mison, Parade's End) es resucitado, traído a la época presente y obligado a desenredar un misterio que data de la época de los padres fundadores del país. Con él ha revivido también el infame Jinete Sin Cabeza, el peligroso asesino que aterrorizaba Sleepy Hollow en su época y que parece haber vuelto a las andadas. Ligado a él por un hechizo de sangre lanzado en época de la Revolución americana, Ichabod se dará cuenta rápidamente que detener al jinete es sólo el principio, ya que el malvado jinete al que persigue es tan sólo el primero de los cuatro jinetes del Apocalipsis.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h3Nx4QuCjL7jc2b7BIFFBUNiRW7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sj8UwAX0wjx1Xu6G1NTWLlMG9py.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kKBHmaXE7am776NcV8RkSrI0zu1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eD769hvAgjZSLyr5a5VWmnmIxRi.png"
+    },
+    {
+      "id": "tmdb:32726",
+      "type": "series",
+      "name": "Bob's Burgers",
+      "ids": {
+        "tmdb": 32726
+      },
+      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
+    },
+    {
+      "id": "tmdb:68654",
+      "type": "series",
+      "name": "MECH-X4",
+      "ids": {
+        "tmdb": 68654
+      },
+      "overview": "Ryan Walker es un estudiante de primer año en Bay City High que tiene la capacidad de controlar la tecnología con su mente. Su talento despierta misteriosamente el MECH-X4, un gigantesco robot de 150 pies construido por un elusivo genio escondido para defender su ciudad contra la fatalidad inminente. Ryan recluta a su hermano mayor y dos mejores amigos para ayudarle a operar MECH-X4. Cuando los monstruos gigantes de repente comienzan a descender sobre Bay City, los cuatro deben aprender rápidamente a trabajar como un equipo con el fin de pilotar el robot que es su única esperanza de salvar a su ciudad, y en última instancia, el mundo, de la destrucción masiva.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/b031Y3PuzK8gZBRrfQ97lFN84F4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jyFiSopuTSW5X7ygbXJyOi97nhY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e50CBMUitXJ0XS3j9w3Jq2y1h7p.png"
     },
     {
       "id": "tmdb:226637",
@@ -659,46 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
     },
     {
-      "id": "tmdb:2122",
+      "id": "tmdb:39272",
       "type": "series",
-      "name": "El rey de la colina",
+      "name": "Érase una vez",
       "ids": {
-        "tmdb": 2122
+        "tmdb": 39272
       },
-      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
+      "overview": "Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/oE6VlG1ntyCaMdlPVRtsPQja3hf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
-    },
-    {
-      "id": "tmdb:100010",
-      "type": "series",
-      "name": "Big Sky",
-      "ids": {
-        "tmdb": 100010
-      },
-      "overview": "Dos detectives privados, Cassie Dewell y Cody Hoyt, colaboran con Jenny, ex policía de la que Cody está separado, para buscar a dos hermanas a las que secuestra un camionero en una carretera perdida de Montana. Cuando descubren que no son las únicas chicas que han desaparecido en la zona, tienen que darse prisa para detener al asesino antes de que se lleve a más mujeres.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/juBO3GOvPXqdG68XlqcJzbo0hZX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vgYKSstQY1xwgz049tpmT7Vtrmw.svg"
-    },
-    {
-      "id": "tmdb:157239",
-      "type": "series",
-      "name": "Alien: Planeta Tierra",
-      "ids": {
-        "tmdb": 157239
-      },
-      "overview": "Cuando una misteriosa nave se estrella contra la Tierra, una joven y un variopinto grupo de soldados tácticos hacen un fatídico hallazgo que los pone cara a cara con la mayor amenaza del planeta. El equipo de rescate busca supervivientes entre los restos de la colisión y se topa con una forma de vida depredadora que levanta más misterios y miedos de los que cabría imaginarse. Debido a esta nueva amenaza, el equipo deberá luchar por sobrevivir. Lo que decidan hacer con este descubrimiento podría cambiar el planeta Tierra tal y como lo conocen.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3TGlUgRe9HEkVejr3gRT0nVLpxO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1GUWcy9PI2C1r3cktmWazkWiCoz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dqbAkknuuxqCpQaeG9d6GBrEKm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
     }
   ]
 }
