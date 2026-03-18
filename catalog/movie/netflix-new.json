@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1636918",
+      "type": "movie",
+      "name": "The Plastic Detox",
+      "ids": {
+        "tmdb": 1636918
+      },
+      "overview": "Este revelador documental acompaña a seis parejas que no entienden su infertilidad a reducir su exposición al plástico con la esperanza de poder concebir.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/lltML74nj0XRdJ4f1J3YCrQcoTj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q3VkiqQi7syrVANAK8PjgIry0Vx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzsqhDrxPtMs1nf8wnaKsG0lmpt.png"
+    },
+    {
       "id": "tmdb:1649887",
       "type": "movie",
       "name": "Barbara – Becoming Shirin David",
@@ -10,7 +24,8 @@
       "overview": "Shortly before her 30th birthday, Shirin David takes us on a personal journey through her career.",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/pn9IFXqFcF58SfdOgq6FqMBs2oS.jpg",
-      "posterShape": "poster"
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1GcvTLDwlVPk1SUc7LVdLGaOywo.jpg"
     },
     {
       "id": "tmdb:1561687",
@@ -35,7 +50,7 @@
       },
       "overview": "After the weddings, the Pod Squad from 'Love Is Blind: Ohio' shares relationship statuses and receipts in this tell-all reunion special.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/7Cu4z6w50digziXpDn3FOdVW2AT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gnFsBU4w9CiFzdFk8TtBXDTfzo7.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mWj1MPcT2zaUOpKDa1tp0YiNJOH.jpg"
     },
@@ -676,20 +691,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wcaZVKPtNe7pk68hbRszPyHw8Fe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jp5N1qUUP1QhxyTZYlxdEIeXCNB.png"
-    },
-    {
-      "id": "tmdb:1583500",
-      "type": "movie",
-      "name": "Elway",
-      "ids": {
-        "tmdb": 1583500
-      },
-      "overview": "Told in his own words, the definitive story of Denver Broncos quarterback John Elway goes deep on his NFL dreams, heartbreaks and Super Bowl redemption.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p3Y43AAiUuhHgM6ZquwEdlKYMgk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2XkZ6ylpK0s1cxjicmD25I4ONde.png"
     }
   ]
 }
