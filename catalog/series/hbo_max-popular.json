@@ -57,20 +57,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
     },
     {
-      "id": "tmdb:34307",
-      "type": "series",
-      "name": "Shameless",
-      "ids": {
-        "tmdb": 34307
-      },
-      "overview": "En la peculiar familia Gallagher, Frank, un padre soltero y alcohólico, intenta educar a sus seis inteligentes, salvajes e independientes hijos.\n\nEs un remake estadounidense de la serie británica del mismo nombre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
-    },
-    {
       "id": "tmdb:1668",
       "type": "series",
       "name": "Friends",
@@ -83,6 +69,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
+    },
+    {
+      "id": "tmdb:34307",
+      "type": "series",
+      "name": "Shameless",
+      "ids": {
+        "tmdb": 34307
+      },
+      "overview": "En la peculiar familia Gallagher, Frank, un padre soltero y alcohólico, intenta educar a sus seis inteligentes, salvajes e independientes hijos.\n\nEs un remake estadounidense de la serie británica del mismo nombre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
     },
     {
       "id": "tmdb:1398",
@@ -155,34 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
-      "id": "tmdb:250307",
-      "type": "series",
-      "name": "The Pitt",
-      "ids": {
-        "tmdb": 250307
-      },
-      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
-    },
-    {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
-    },
-    {
       "id": "tmdb:15260",
       "type": "series",
       "name": "Hora de aventuras",
@@ -195,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qaNf7MO7Jfo9hUPC23mwfFgP3Uh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
+    },
+    {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": "The Pitt",
+      "ids": {
+        "tmdb": 250307
+      },
+      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
     },
     {
       "id": "tmdb:14069",
@@ -211,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iKDCrZuuxkn82z1oCAYb3UxwuzB.png"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:60622",
       "type": "series",
-      "name": "Rick y Morty",
+      "name": "Fargo",
       "ids": {
-        "tmdb": 60625
+        "tmdb": 60622
       },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
     },
     {
       "id": "tmdb:31132",
@@ -237,6 +223,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kUtRUYB9AUrmF6JIT48tSMnmKSD.png"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:4419",
@@ -267,32 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ax3rWzexUcPWc34FaO8n85OKTtz.png"
     },
     {
-      "id": "tmdb:12225",
+      "id": "tmdb:69478",
       "type": "series",
-      "name": "Peppa Pig",
+      "name": "El cuento de la criada",
       "ids": {
-        "tmdb": 12225
+        "tmdb": 69478
       },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:1705",
-      "type": "series",
-      "name": "Fringe",
-      "ids": {
-        "tmdb": 1705
-      },
-      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
     },
     {
       "id": "tmdb:69050",
@@ -309,18 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gn3jfu3KfOPH2dZ9J2ER52ZaBtL.png"
     },
     {
-      "id": "tmdb:1940",
+      "id": "tmdb:1705",
       "type": "series",
-      "name": "Entourage: El séquito",
+      "name": "Fringe",
       "ids": {
-        "tmdb": 1940
+        "tmdb": 1705
       },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
     },
     {
       "id": "tmdb:45140",
@@ -337,6 +337,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
+      "id": "tmdb:1940",
+      "type": "series",
+      "name": "Entourage: El séquito",
+      "ids": {
+        "tmdb": 1940
+      },
+      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
+    },
+    {
       "id": "tmdb:4546",
       "type": "series",
       "name": "Larry David",
@@ -351,18 +365,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
     },
     {
-      "id": "tmdb:254953",
+      "id": "tmdb:1418",
       "type": "series",
-      "name": "Rooster",
+      "name": "Big Bang",
       "ids": {
-        "tmdb": 254953
+        "tmdb": 1418
       },
-      "overview": "Un aclamado escritor llamado Greg Russo se ve arrastrado al mundo académico por su hija adulta Katie, profesora en una universidad de élite cuyo marido la engaña. Él intenta apoyarla sin sobrepasarse, tratando de lidiar con esta complicada y cambiante relación, al tiempo que transita un nuevo entorno que siente fuera de su alcance.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t4ZoVsFgIT67vfbmMKPjWjdIDMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dErGhfP2NfoovaQwfOc8PlhhSGV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/a95VeB1t3CuNrsvBW5Mxhqc7jtt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
+    },
+    {
+      "id": "tmdb:111803",
+      "type": "series",
+      "name": "The White Lotus",
+      "ids": {
+        "tmdb": 111803
+      },
+      "overview": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o8VpYcGzP55ZQLSz27gQtaob9wu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
     },
     {
       "id": "tmdb:95057",
@@ -393,32 +421,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
     },
     {
-      "id": "tmdb:111803",
+      "id": "tmdb:46648",
       "type": "series",
-      "name": "The White Lotus",
+      "name": "True Detective",
       "ids": {
-        "tmdb": 111803
+        "tmdb": 46648
       },
-      "overview": "Ingeniosa sátira social que sigue las andanzas de diferentes empleados y huéspedes de un exclusivo resort a lo largo de una semana de lo más transformativa.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "overview": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o8VpYcGzP55ZQLSz27gQtaob9wu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
-    },
-    {
-      "id": "tmdb:1418",
-      "type": "series",
-      "name": "Big Bang",
-      "ids": {
-        "tmdb": 1418
-      },
-      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a95VeB1t3CuNrsvBW5Mxhqc7jtt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3qDmJ3UGfXDMb6Jx4qkKicbKALA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/48KPyUFUpcwWsqPvSkS61M0FtHo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
     },
     {
       "id": "tmdb:46896",
@@ -435,18 +449,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
     },
     {
-      "id": "tmdb:46648",
+      "id": "tmdb:63401",
       "type": "series",
-      "name": "True Detective",
+      "name": "Somos osos",
       "ids": {
-        "tmdb": 46648
+        "tmdb": 63401
       },
-      "overview": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
+      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/48KPyUFUpcwWsqPvSkS61M0FtHo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
     },
     {
       "id": "tmdb:94997",
@@ -463,20 +477,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
     },
     {
-      "id": "tmdb:63401",
-      "type": "series",
-      "name": "Somos osos",
-      "ids": {
-        "tmdb": 63401
-      },
-      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
-    },
-    {
       "id": "tmdb:10545",
       "type": "series",
       "name": "True Blood (Sangre fresca)",
@@ -491,32 +491,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
     },
     {
-      "id": "tmdb:31917",
+      "id": "tmdb:709",
       "type": "series",
-      "name": "Pequeñas mentirosas",
+      "name": "Robot Chicken",
       "ids": {
-        "tmdb": 31917
+        "tmdb": 709
       },
-      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
+      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
-    },
-    {
-      "id": "tmdb:235635",
-      "type": "series",
-      "name": "Como agua para chocolate",
-      "ids": {
-        "tmdb": 235635
-      },
-      "overview": "Tita de la Garza y Pedro Muzquiz, son dos almas enamoradas que no pueden estar juntos debido a arraigadas costumbres familiares. Entonces Tita es obligada a navegar con tintes y sabores mágicos entre el destino dictado por su familia y la lucha por su amor, mientras la acompañamos en su mayor refugio: la cocina.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/cGdOB0ld7eIpd5GlZg5DOZX8HPK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9TUuKbOtlOnmklclcVvbg8nBE9Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/blXYTA4BLmtt1XUZZrsA11XXHVF.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
     },
     {
       "id": "tmdb:607",
@@ -547,46 +533,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/dhoW3tgHqolJ862K0xHpaylgGYm.png"
     },
     {
-      "id": "tmdb:76331",
+      "id": "tmdb:31917",
       "type": "series",
-      "name": "Succession",
+      "name": "Pequeñas mentirosas",
       "ids": {
-        "tmdb": 76331
+        "tmdb": 31917
       },
-      "overview": "La serie gira en torno a la vida de la familia Roy. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9lkFo77V2h8FQs4VMQP5TGer6Ic.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
     },
     {
-      "id": "tmdb:69478",
+      "id": "tmdb:254953",
       "type": "series",
-      "name": "El cuento de la criada",
+      "name": "Rooster",
       "ids": {
-        "tmdb": 69478
+        "tmdb": 254953
       },
-      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "overview": "Un aclamado escritor llamado Greg Russo se ve arrastrado al mundo académico por su hija adulta Katie, profesora en una universidad de élite cuyo marido la engaña. Él intenta apoyarla sin sobrepasarse, tratando de lidiar con esta complicada y cambiante relación, al tiempo que transita un nuevo entorno que siente fuera de su alcance.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/t4ZoVsFgIT67vfbmMKPjWjdIDMj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dErGhfP2NfoovaQwfOc8PlhhSGV.png"
     },
     {
-      "id": "tmdb:709",
+      "id": "tmdb:235635",
       "type": "series",
-      "name": "Robot Chicken",
+      "name": "Como agua para chocolate",
       "ids": {
-        "tmdb": 709
+        "tmdb": 235635
       },
-      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+      "overview": "Tita de la Garza y Pedro Muzquiz, son dos almas enamoradas que no pueden estar juntos debido a arraigadas costumbres familiares. Entonces Tita es obligada a navegar con tintes y sabores mágicos entre el destino dictado por su familia y la lucha por su amor, mientras la acompañamos en su mayor refugio: la cocina.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/cGdOB0ld7eIpd5GlZg5DOZX8HPK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9TUuKbOtlOnmklclcVvbg8nBE9Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/blXYTA4BLmtt1XUZZrsA11XXHVF.png"
     },
     {
       "id": "tmdb:89456",
@@ -617,20 +603,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/hkp2IXdWCoifC0S3uqH6MHW5nuI.svg"
     },
     {
-      "id": "tmdb:41727",
-      "type": "series",
-      "name": "Banshee",
-      "ids": {
-        "tmdb": 41727
-      },
-      "overview": "Este western contemporáneo nos sumerge en la América profunda siguiendo la odisea de Lucas Hood, un ex convicto dispuesto a cualquier cosa para resolver los asuntos de su turbio pasado. La oscura vida de Lucas Hood se complica aún más cuando, tras salir de prisión, decide tomar la identidad del nuevo sheriff de Banshee, un pequeño pueblo situado en Pennsylvania que oculta más de lo que parece. Allí espera encontrarse con su antigua colega y amante Ana, al tiempo que huye de quienes lo persiguen desde hace años y lidia a su manera con las acciones del siniestro cacique del pueblo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8FWIPselZe0R6NQxz27XrQ9pqrx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
-    },
-    {
       "id": "tmdb:105",
       "type": "series",
       "name": "Sexo en Nueva York",
@@ -645,18 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
     },
     {
-      "id": "tmdb:37606",
+      "id": "tmdb:41727",
       "type": "series",
-      "name": "El asombroso mundo de Gumball",
+      "name": "Banshee",
       "ids": {
-        "tmdb": 37606
+        "tmdb": 41727
       },
-      "overview": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
+      "overview": "Este western contemporáneo nos sumerge en la América profunda siguiendo la odisea de Lucas Hood, un ex convicto dispuesto a cualquier cosa para resolver los asuntos de su turbio pasado. La oscura vida de Lucas Hood se complica aún más cuando, tras salir de prisión, decide tomar la identidad del nuevo sheriff de Banshee, un pequeño pueblo situado en Pennsylvania que oculta más de lo que parece. Allí espera encontrarse con su antigua colega y amante Ana, al tiempo que huye de quienes lo persiguen desde hace años y lidia a su manera con las acciones del siniestro cacique del pueblo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6o3Tthb72w0jyGMcwgmQfFp9KZF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8FWIPselZe0R6NQxz27XrQ9pqrx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
       "id": "tmdb:61175",
@@ -673,6 +645,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
     },
     {
+      "id": "tmdb:76331",
+      "type": "series",
+      "name": "Succession",
+      "ids": {
+        "tmdb": 76331
+      },
+      "overview": "La serie gira en torno a la vida de la familia Roy. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9lkFo77V2h8FQs4VMQP5TGer6Ic.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
+    },
+    {
+      "id": "tmdb:37606",
+      "type": "series",
+      "name": "El asombroso mundo de Gumball",
+      "ids": {
+        "tmdb": 37606
+      },
+      "overview": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6o3Tthb72w0jyGMcwgmQfFp9KZF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
+    },
+    {
       "id": "tmdb:200875",
       "type": "series",
       "name": "It: Bienvenidos a Derry",
@@ -687,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ggGGKJn5DhHeyvp5Z1p3Wh5xPbD.png"
     },
     {
-      "id": "tmdb:50035",
+      "id": "tmdb:83631",
       "type": "series",
-      "name": "Clarence",
+      "name": "Lo que hacemos en las sombras",
       "ids": {
-        "tmdb": 50035
+        "tmdb": 83631
       },
-      "overview": "En un mundo tan ruidoso, Clarence es pura paz, ni más ni menos. Solo ve el mundo de sus colores favoritos: uva y verde fosforescente. Clarence quiere a sus amigos Jeff y Sumo y a su madre Mary por encima de todas las cosas. Pase lo que pase, por malo que sea, nada deprime a Clarence.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qZkAyOlDAxHtQreQE4ZzGfrSQl8.jpg",
+      "overview": "Ambientada en Nueva York, sigue a tres vampiros que han sido compañeros de piso durante cientos y cientos de años, y cuenta sus experiencias en ese periodo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t7i4AuXxzOlCuBhDXZuvhl93GBV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6oNKNvNTexaDQTM6UTqloqFVp8V.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xQ7ite9feBkNS74zkdMe8DCAzz6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qybdVxUZoOW21AJloBOBvTQRNot.png"
     }
   ]
 }
