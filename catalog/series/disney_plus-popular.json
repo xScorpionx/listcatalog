@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1416",
-      "type": "series",
-      "name": "Anatomía de Grey",
-      "ids": {
-        "tmdb": 1416
-      },
-      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o43bkJW1QRAPMpP3BhwgjZvQIq3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
-    },
-    {
       "id": "tmdb:1911",
       "type": "series",
       "name": "Bones",
@@ -29,18 +15,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
-      "id": "tmdb:456",
+      "id": "tmdb:1416",
       "type": "series",
-      "name": "Los Simpson",
+      "name": "Anatomía de Grey",
       "ids": {
-        "tmdb": 456
+        "tmdb": 1416
       },
-      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/gpGPI732PWspwGpPyWrWov8IYmq.jpg",
+      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/o43bkJW1QRAPMpP3BhwgjZvQIq3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
     },
     {
       "id": "tmdb:2734",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/180BnB5zsARUrBSzNpeUrTc0Ezr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png"
+    },
+    {
+      "id": "tmdb:456",
+      "type": "series",
+      "name": "Los Simpson",
+      "ids": {
+        "tmdb": 456
+      },
+      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/gpGPI732PWspwGpPyWrWov8IYmq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png"
     },
     {
       "id": "tmdb:79744",
@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
     },
     {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
-    },
-    {
       "id": "tmdb:4087",
       "type": "series",
       "name": "Expediente X",
@@ -155,6 +141,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/iAtC7dmE9CKFCWTp4TXV7tc0ig5.png"
     },
     {
+      "id": "tmdb:2316",
+      "type": "series",
+      "name": "The Office",
+      "ids": {
+        "tmdb": 2316
+      },
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17TS3YFxsAFbhyt3pp2TmAa6LR0.png"
+    },
+    {
       "id": "tmdb:4607",
       "type": "series",
       "name": "Perdidos",
@@ -167,20 +167,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/zOqh6dTNTY8Ziur3MZQnEFlO2HU.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
-    },
-    {
-      "id": "tmdb:1973",
-      "type": "series",
-      "name": "24",
-      "ids": {
-        "tmdb": 1973
-      },
-      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
       "id": "tmdb:1419",
@@ -197,18 +183,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
     },
     {
-      "id": "tmdb:1100",
+      "id": "tmdb:1973",
       "type": "series",
-      "name": "Cómo conocí a vuestra madre",
+      "name": "24",
       "ids": {
-        "tmdb": 1100
+        "tmdb": 1973
       },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
       "id": "tmdb:208569",
@@ -239,6 +225,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
     },
     {
+      "id": "tmdb:1100",
+      "type": "series",
+      "name": "Cómo conocí a vuestra madre",
+      "ids": {
+        "tmdb": 1100
+      },
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+    },
+    {
       "id": "tmdb:30984",
       "type": "series",
       "name": "Bleach",
@@ -251,20 +251,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/69nu9LEzvIXBlyqjpKDHPsYhZI2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/o70efegfXs54CWmstnk1MXnFJ8I.png"
-    },
-    {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
       "id": "tmdb:75219",
@@ -295,18 +281,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
     },
     {
-      "id": "tmdb:2288",
+      "id": "tmdb:693",
       "type": "series",
-      "name": "Prison Break",
+      "name": "Mujeres desesperadas",
       "ids": {
-        "tmdb": 2288
+        "tmdb": 693
       },
-      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
+      "overview": "La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/sChB4k2QqQTROfTYcgB7zr3pPwS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wgdJFhAsDB1DVbCjrD5L1PkqlxE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9W0AR7OmeJY55PFqHphPnKJHUWr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
+    },
+    {
+      "id": "tmdb:1402",
+      "type": "series",
+      "name": "The Walking Dead",
+      "ids": {
+        "tmdb": 1402
+      },
+      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
       "id": "tmdb:4574",
@@ -351,34 +351,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     },
     {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
       "id": "tmdb:127706",
       "type": "series",
       "name": "Kiff",
@@ -391,20 +363,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fdgTjKmysPl9H1TzHRvQrfwxMDR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kFLLMGByls8HnjKvDwKuEBJ36v2.png"
-    },
-    {
-      "id": "tmdb:71728",
-      "type": "series",
-      "name": "El joven Sheldon",
-      "ids": {
-        "tmdb": 71728
-      },
-      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
       "id": "tmdb:1413",
@@ -435,18 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/10wFyFQid6AZHqOunAhk1BT8X5P.png"
     },
     {
-      "id": "tmdb:100010",
+      "id": "tmdb:2288",
       "type": "series",
-      "name": "Big Sky",
+      "name": "Prison Break",
       "ids": {
-        "tmdb": 100010
+        "tmdb": 2288
       },
-      "overview": "Dos detectives privados, Cassie Dewell y Cody Hoyt, colaboran con Jenny, ex policía de la que Cody está separado, para buscar a dos hermanas a las que secuestra un camionero en una carretera perdida de Montana. Cuando descubren que no son las únicas chicas que han desaparecido en la zona, tienen que darse prisa para detener al asesino antes de que se lleve a más mujeres.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/juBO3GOvPXqdG68XlqcJzbo0hZX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vgYKSstQY1xwgz049tpmT7Vtrmw.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/wgdJFhAsDB1DVbCjrD5L1PkqlxE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
     },
     {
       "id": "tmdb:63329",
@@ -463,18 +421,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lCWLOzmb4MbmILWfXTDuNG6T7ix.png"
     },
     {
-      "id": "tmdb:245927",
+      "id": "tmdb:71728",
       "type": "series",
-      "name": "Paradise",
+      "name": "El joven Sheldon",
       "ids": {
-        "tmdb": 245927
+        "tmdb": 71728
       },
-      "overview": "En una serena comunidad habitada por algunas de las personas más prominentes del mundo, la tranquilidad estalla cuando se produce un espeluznante asesinato y se desencadena una investigación de alto riesgo. Xavier Collins, jefe del Servicio Secreto de la Casa Blanca, es rápidamente investigado por la muerte del presidente, al que descubre junto a su cama.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8vuX1Crb5pH2oDIghY3d3jtwXDa.jpg",
+      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lYeiSMn7OwBE4ycaVPWIFr3E5Dq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
       "id": "tmdb:1877",
@@ -489,6 +447,76 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kO56OPPiMceB369ClXW3XdaL63n.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
+    },
+    {
+      "id": "tmdb:100010",
+      "type": "series",
+      "name": "Big Sky",
+      "ids": {
+        "tmdb": 100010
+      },
+      "overview": "Dos detectives privados, Cassie Dewell y Cody Hoyt, colaboran con Jenny, ex policía de la que Cody está separado, para buscar a dos hermanas a las que secuestra un camionero en una carretera perdida de Montana. Cuando descubren que no son las únicas chicas que han desaparecido en la zona, tienen que darse prisa para detener al asesino antes de que se lleve a más mujeres.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/juBO3GOvPXqdG68XlqcJzbo0hZX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vgYKSstQY1xwgz049tpmT7Vtrmw.svg"
+    },
+    {
+      "id": "tmdb:32726",
+      "type": "series",
+      "name": "Bob's Burgers",
+      "ids": {
+        "tmdb": 32726
+      },
+      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
+    },
+    {
+      "id": "tmdb:245927",
+      "type": "series",
+      "name": "Paradise",
+      "ids": {
+        "tmdb": 245927
+      },
+      "overview": "En una serena comunidad habitada por algunas de las personas más prominentes del mundo, la tranquilidad estalla cuando se produce un espeluznante asesinato y se desencadena una investigación de alto riesgo. Xavier Collins, jefe del Servicio Secreto de la Casa Blanca, es rápidamente investigado por la muerte del presidente, al que descubre junto a su cama.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/s1rvfglVgSR8tnLuHRbPpEgGQcS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lYeiSMn7OwBE4ycaVPWIFr3E5Dq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png"
     },
     {
       "id": "tmdb:74016",
@@ -519,32 +547,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/4Q6yKFzBM07507ud3CY5YdjtkOc.svg"
     },
     {
-      "id": "tmdb:1104",
+      "id": "tmdb:1417",
       "type": "series",
-      "name": "Mad Men",
+      "name": "Glee",
       "ids": {
-        "tmdb": 1104
+        "tmdb": 1417
       },
-      "overview": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A36SuVJ1en8yqZoUCyspGXaT8Xz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
     },
     {
-      "id": "tmdb:32726",
+      "id": "tmdb:35279",
       "type": "series",
-      "name": "Bob's Burgers",
+      "name": "Austin y Ally",
       "ids": {
-        "tmdb": 32726
+        "tmdb": 35279
       },
-      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
+      "overview": "Austin es un músico y cantante extrovertido y Ally una compositora inteligente pero tímida que prefiere quedarse en segundo plano. Juntos combinan su talento con el de Trish y Dez, sus mejores amigos, para crear un equipo musical imparable y decidido a abrirse camino en el mundo de la música. ¡Disfruta con sus aventuras y sus canciones!",
       "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fg3nq9omOjLGihL0nFDLR1ZWYop.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vK2CgM4lZ0jRaMILY610aDaYO73.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cp1CaaNtHe4zY8fwWalVzrVSmqI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qJaEn44QTIllSnCZJ4AJIdGDtgl.png"
     },
     {
       "id": "tmdb:1403",
@@ -561,18 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
     },
     {
-      "id": "tmdb:1417",
+      "id": "tmdb:2122",
       "type": "series",
-      "name": "Glee",
+      "name": "El rey de la colina",
       "ids": {
-        "tmdb": 1417
+        "tmdb": 2122
       },
-      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
+      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
     },
     {
       "id": "tmdb:95",
@@ -601,20 +629,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/99HG3MVwRsSDTO3xWNWPfmYm4Kc.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3D1QRLTxdGQBLC0HYs65FyUncY2.png"
-    },
-    {
-      "id": "tmdb:35279",
-      "type": "series",
-      "name": "Austin y Ally",
-      "ids": {
-        "tmdb": 35279
-      },
-      "overview": "Austin es un músico y cantante extrovertido y Ally una compositora inteligente pero tímida que prefiere quedarse en segundo plano. Juntos combinan su talento con el de Trish y Dez, sus mejores amigos, para crear un equipo musical imparable y decidido a abrirse camino en el mundo de la música. ¡Disfruta con sus aventuras y sus canciones!",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/fg3nq9omOjLGihL0nFDLR1ZWYop.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cp1CaaNtHe4zY8fwWalVzrVSmqI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qJaEn44QTIllSnCZJ4AJIdGDtgl.png"
     },
     {
       "id": "tmdb:4586",
@@ -659,6 +673,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
     },
     {
+      "id": "tmdb:1104",
+      "type": "series",
+      "name": "Mad Men",
+      "ids": {
+        "tmdb": 1104
+      },
+      "overview": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A36SuVJ1en8yqZoUCyspGXaT8Xz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
+    },
+    {
       "id": "tmdb:39272",
       "type": "series",
       "name": "Érase una vez",
@@ -671,34 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dqbAkknuuxqCpQaeG9d6GBrEKm4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
-    },
-    {
-      "id": "tmdb:2122",
-      "type": "series",
-      "name": "El rey de la colina",
-      "ids": {
-        "tmdb": 2122
-      },
-      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
-    },
-    {
-      "id": "tmdb:615",
-      "type": "series",
-      "name": "Futurama",
-      "ids": {
-        "tmdb": 615
-      },
-      "overview": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
     }
   ]
 }
