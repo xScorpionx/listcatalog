@@ -29,34 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
-      "id": "tmdb:205596",
-      "type": "movie",
-      "name": "The Imitation Game (Descifrando Enigma)",
-      "ids": {
-        "tmdb": 205596
-      },
-      "overview": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6sfETZCr8l2OoigYQZR6hzukztC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pSpvv6KND2oxlIuXivtu73LoaX8.png"
-    },
-    {
-      "id": "tmdb:335977",
-      "type": "movie",
-      "name": "Indiana Jones y el dial del destino",
-      "ids": {
-        "tmdb": 335977
-      },
-      "overview": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oQSv7d0OBzwbVCZ8Nfns4RdMoGg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
-    },
-    {
       "id": "tmdb:85",
       "type": "movie",
       "name": "En busca del arca perdida",
@@ -69,6 +41,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
+    },
+    {
+      "id": "tmdb:28",
+      "type": "movie",
+      "name": "Apocalypse Now",
+      "ids": {
+        "tmdb": 28
+      },
+      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
+    },
+    {
+      "id": "tmdb:205596",
+      "type": "movie",
+      "name": "The Imitation Game (Descifrando Enigma)",
+      "ids": {
+        "tmdb": 205596
+      },
+      "overview": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6sfETZCr8l2OoigYQZR6hzukztC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pSpvv6KND2oxlIuXivtu73LoaX8.png"
     },
     {
       "id": "tmdb:519465",
@@ -85,18 +85,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
-      "id": "tmdb:28",
+      "id": "tmdb:335977",
       "type": "movie",
-      "name": "Apocalypse Now",
+      "name": "Indiana Jones y el dial del destino",
       "ids": {
-        "tmdb": 28
+        "tmdb": 335977
       },
-      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "overview": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oQSv7d0OBzwbVCZ8Nfns4RdMoGg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
     },
     {
       "id": "tmdb:810",
@@ -127,6 +127,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/xBLs1V4UnVR1Gf4UJUNodQvwgt.png"
     },
     {
+      "id": "tmdb:87",
+      "type": "movie",
+      "name": "Indiana Jones y el templo maldito",
+      "ids": {
+        "tmdb": 87
+      },
+      "overview": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hY0jljnL8EIEM5JwIBdtY2tnCtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rUqugZkR5R55Z0mVcb3uu3IOYbY.png"
+    },
+    {
       "id": "tmdb:8835",
       "type": "movie",
       "name": "Una rubia muy legal",
@@ -141,18 +155,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/awLwvyZ7IsiL3h7v5x5qKFJG9lG.png"
     },
     {
-      "id": "tmdb:87",
+      "id": "tmdb:915935",
       "type": "movie",
-      "name": "Indiana Jones y el templo maldito",
+      "name": "Anatomía de una caída",
       "ids": {
-        "tmdb": 87
+        "tmdb": 915935
       },
-      "overview": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+      "overview": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hY0jljnL8EIEM5JwIBdtY2tnCtQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rUqugZkR5R55Z0mVcb3uu3IOYbY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zauak6TTi3wpehSkwM2NsTJgKhh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
     },
     {
       "id": "tmdb:331482",
@@ -183,34 +197,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
     },
     {
-      "id": "tmdb:341013",
-      "type": "movie",
-      "name": "Atómica",
-      "ids": {
-        "tmdb": 341013
-      },
-      "overview": "Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pqKiaAaWRTA76hcO3ko89kQDJtG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uwoh89gpsUVfRFMK42AHFqqnLd3.png"
-    },
-    {
-      "id": "tmdb:915935",
-      "type": "movie",
-      "name": "Anatomía de una caída",
-      "ids": {
-        "tmdb": 915935
-      },
-      "overview": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zauak6TTi3wpehSkwM2NsTJgKhh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
-    },
-    {
       "id": "tmdb:399402",
       "type": "movie",
       "name": "Hunter Killer: Caza en las profundidades",
@@ -225,18 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5BnXYxcdP95UCRoJRwxzv1HURc3.png"
     },
     {
-      "id": "tmdb:762",
+      "id": "tmdb:395834",
       "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
+      "name": "Wind River",
       "ids": {
-        "tmdb": 762
+        "tmdb": 395834
       },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
+      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cukehwDevWqOkqI21cJXJvmfXaq.png"
     },
     {
       "id": "tmdb:969492",
@@ -267,18 +253,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/oWoiedMh2IOaaRmct1x82wXzckh.png"
     },
     {
-      "id": "tmdb:45269",
+      "id": "tmdb:341013",
       "type": "movie",
-      "name": "El discurso del rey",
+      "name": "Atómica",
       "ids": {
-        "tmdb": 45269
+        "tmdb": 341013
       },
-      "overview": "El duque de York se convirtió en rey de Gran Bretaña con el nombre de Jorge VI (1936-1952), tras la abdicación de su hermano mayor Eduardo VIII. Su tartamudez, que constituía un gran inconveniente para el ejercicio de sus funciones, lo llevó a buscar la ayuda de Lionel Logue, un experto logopeda, que consiguió, aplicando una serie de técnicas poco ortodoxas, eliminar este defecto del rey.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ayrDCichVVOovfAikiS5NTmq8Wb.jpg",
+      "overview": "Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hrnQk8wRsvFlIvbNcfGzAQGws5h.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phGnysDOV2g8lgVzpI4ULXG8ev7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pqKiaAaWRTA76hcO3ko89kQDJtG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uwoh89gpsUVfRFMK42AHFqqnLd3.png"
+    },
+    {
+      "id": "tmdb:762",
+      "type": "movie",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
+      "ids": {
+        "tmdb": 762
+      },
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
       "id": "tmdb:350499",
@@ -295,18 +295,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlUKS81bvz7WVO6iUyzYvmZtq94.png"
     },
     {
-      "id": "tmdb:395834",
+      "id": "tmdb:45269",
       "type": "movie",
-      "name": "Wind River",
+      "name": "El discurso del rey",
       "ids": {
-        "tmdb": 395834
+        "tmdb": 45269
       },
-      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
+      "overview": "El duque de York se convirtió en rey de Gran Bretaña con el nombre de Jorge VI (1936-1952), tras la abdicación de su hermano mayor Eduardo VIII. Su tartamudez, que constituía un gran inconveniente para el ejercicio de sus funciones, lo llevó a buscar la ayuda de Lionel Logue, un experto logopeda, que consiguió, aplicando una serie de técnicas poco ortodoxas, eliminar este defecto del rey.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/ayrDCichVVOovfAikiS5NTmq8Wb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cukehwDevWqOkqI21cJXJvmfXaq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hrnQk8wRsvFlIvbNcfGzAQGws5h.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phGnysDOV2g8lgVzpI4ULXG8ev7.png"
     },
     {
       "id": "tmdb:785084",
@@ -323,18 +323,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
     },
     {
-      "id": "tmdb:314365",
+      "id": "tmdb:666277",
       "type": "movie",
-      "name": "Spotlight",
+      "name": "Vidas pasadas",
       "ids": {
-        "tmdb": 314365
+        "tmdb": 666277
       },
-      "overview": "Cuando el tenaz equipo de reporteros de la sección \"Spotlight\" ahonda en los alegatos de abuso dentro de la Iglesia Católica, descubren en su investigación el encubrimiento llevado a cabo durante décadas por parte de las altas esferas de organizaciones religiosas, legales y gubernamentales de Boston, desatando una ola de revelaciones alrededor del mundo.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/oejKAjGVxmm8cJLiKQMGe2A2A4g.jpg",
+      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tyg5sUwEwXEjgczySSv9FUAQkIe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rYDpzbZtEvSw3WeX5w7y3yutQBK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
     },
     {
       "id": "tmdb:228165",
@@ -351,20 +351,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
     },
     {
-      "id": "tmdb:583",
-      "type": "movie",
-      "name": "La vida de Brian",
-      "ids": {
-        "tmdb": 583
-      },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
       "id": "tmdb:9390",
       "type": "movie",
       "name": "Jerry Maguire",
@@ -379,32 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ugdHX6ac3m2qR46qWxtNrQ8UADW.png"
     },
     {
-      "id": "tmdb:446354",
+      "id": "tmdb:314365",
       "type": "movie",
-      "name": "Los archivos del Pentágono",
+      "name": "Spotlight",
       "ids": {
-        "tmdb": 446354
+        "tmdb": 314365
       },
-      "overview": "En junio de 1971, los principales periódicos de EE.UU., entre los que se encontraban 'The New York Times' y 'The Washington Post', tomaron una valiente posición en favor de la libertad de expresión, informando sobre los documentos del Pentágono y el encubrimiento masivo de secretos por parte del gobierno, que había durado cuatro décadas y cuatro presidencias estadounidenses. En ese momento, Katherine Graham, primera mujer editora del Post, y el director Ben Bradlee intentaban relanzar un periódico en decadencia. Juntos decidieron tomar la audaz decisión de apoyar al 'The New York Times' y luchar contra el intento de la Administración Nixon de restringir la primera enmienda. Historia basada en los documentos del Post que recogían información clasificada sobre la Guerra de Vietnam.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/uhUoPnkR7aAJgkQ1fq1Rm3jaenH.jpg",
+      "overview": "Cuando el tenaz equipo de reporteros de la sección \"Spotlight\" ahonda en los alegatos de abuso dentro de la Iglesia Católica, descubren en su investigación el encubrimiento llevado a cabo durante décadas por parte de las altas esferas de organizaciones religiosas, legales y gubernamentales de Boston, desatando una ola de revelaciones alrededor del mundo.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/oejKAjGVxmm8cJLiKQMGe2A2A4g.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o2bJBeYIVbXwuNjDLchdXRdqvNp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/557BNNs5y3Ru2lEQHAX1rBS8TRS.png"
-    },
-    {
-      "id": "tmdb:666277",
-      "type": "movie",
-      "name": "Vidas pasadas",
-      "ids": {
-        "tmdb": 666277
-      },
-      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tyg5sUwEwXEjgczySSv9FUAQkIe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rYDpzbZtEvSw3WeX5w7y3yutQBK.png"
     },
     {
       "id": "tmdb:441701",
@@ -421,18 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png"
     },
     {
-      "id": "tmdb:262543",
+      "id": "tmdb:15",
       "type": "movie",
-      "name": "Autómata",
+      "name": "Ciudadano Kane",
       "ids": {
-        "tmdb": 262543
+        "tmdb": 15
       },
-      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "overview": "Un importante financiero estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras, de dos sindicatos y de una inimaginable colección de obras de arte, muere en su fabuloso castillo de estilo oriental, Xanadú. La última palabra que pronuncia al expirar es Rosebud. El país entero y la prensa en general quedan intrigados por saber el significado de esta palabra. Para descubrirlo, un grupo de periodistas se pone a investigar.",
+      "year": 1941,
+      "poster": "https://image.tmdb.org/t/p/w342/w7V0bv38Z0q0DgHmMfcGM4WRNTv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4dafi1zU8IXxloT3BrTayVBnKQy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xnlpf9ChpLBxYOIFluaTN7HLogk.png"
     },
     {
       "id": "tmdb:41513",
@@ -449,18 +421,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7RdUB9gmcsQUyYkgjwsMbC0Fok6.png"
     },
     {
-      "id": "tmdb:980026",
+      "id": "tmdb:583",
       "type": "movie",
-      "name": "La tierra prometida",
+      "name": "La vida de Brian",
       "ids": {
-        "tmdb": 980026
+        "tmdb": 583
       },
-      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
     },
     {
       "id": "tmdb:72545",
@@ -475,6 +447,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wywCs4PIHLSLhyPM2mRjBV25hqf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hE5Eaw4VQWA8W8B11Wc4BW8Ze3A.png"
+    },
+    {
+      "id": "tmdb:284",
+      "type": "movie",
+      "name": "El apartamento",
+      "ids": {
+        "tmdb": 284
+      },
+      "overview": "C.C. Baxter es un modesto pero ambicioso empleado de una compañía de seguros de Manhattan. Está soltero y vive solo en un discreto apartamento que presta ocasionalmente a sus superiores para sus citas amorosas. Tiene la esperanza de que estos favores le sirvan para mejorar su posición en la empresa. Pero la situación cambia cuando se enamora de una ascensorista que resulta ser la amante de uno de los jefes que usan su apartamento.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/2kJMgHi8vNY8a0UJiBU3HEyiqOa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fZmPRv1Rrr8xjNBIj32AM94apMc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iubGm4iDnAiFTMsf3cHHwWAxUMG.png"
     },
     {
       "id": "tmdb:77931",
@@ -519,144 +505,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/kNfzlO8lUAXYmOxqdKn9kDxzbK6.png"
     },
     {
-      "id": "tmdb:10327",
+      "id": "tmdb:838240",
       "type": "movie",
-      "name": "Una rubia muy legal 2",
+      "name": "Robot Dreams",
       "ids": {
-        "tmdb": 10327
+        "tmdb": 838240
       },
-      "overview": "Elle Woods está de vuelta como la enérgica, optimista y megapija joven abogada de la facultad de Harvard. En esta ocasión, Elle irá a Washington a defender los derechos de los animales.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/8JcIhADz1hUqsifza7OdaKwzRRp.jpg",
+      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g1600py3bgetuGTqSwRMEt2u9QW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/94zCfbuUmFjoXk97WEQvFG2zsaz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
     },
     {
-      "id": "tmdb:1149167",
+      "id": "tmdb:1633",
       "type": "movie",
-      "name": "Ladrones con clase 2",
+      "name": "Tomates verdes fritos",
       "ids": {
-        "tmdb": 1149167
+        "tmdb": 1633
       },
-      "overview": "Un ladrón brillante se ve obligado a robar un casino cuando su archienemigo secuestra a su novia. Entre criminales y el FBI, arriesga todo por amor.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8rlrT43Toat04Zk8cD1UVa1LHg7.jpg",
+      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eJe4sl6VQ4gzOe2V4tOXPlhJxnk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
     },
     {
-      "id": "tmdb:15",
+      "id": "tmdb:980026",
       "type": "movie",
-      "name": "Ciudadano Kane",
+      "name": "La tierra prometida",
       "ids": {
-        "tmdb": 15
+        "tmdb": 980026
       },
-      "overview": "Un importante financiero estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras, de dos sindicatos y de una inimaginable colección de obras de arte, muere en su fabuloso castillo de estilo oriental, Xanadú. La última palabra que pronuncia al expirar es Rosebud. El país entero y la prensa en general quedan intrigados por saber el significado de esta palabra. Para descubrirlo, un grupo de periodistas se pone a investigar.",
-      "year": 1941,
-      "poster": "https://image.tmdb.org/t/p/w342/w7V0bv38Z0q0DgHmMfcGM4WRNTv.jpg",
+      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4dafi1zU8IXxloT3BrTayVBnKQy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xnlpf9ChpLBxYOIFluaTN7HLogk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
     },
     {
-      "id": "tmdb:381719",
+      "id": "tmdb:446354",
       "type": "movie",
-      "name": "Peter Rabbit",
+      "name": "Los archivos del Pentágono",
       "ids": {
-        "tmdb": 381719
+        "tmdb": 446354
       },
-      "overview": "Peter Rabbit no es un conejo cualquiera. Es un rebelde travieso y aventurero que viste camisa azul y no lleva pantalones. Peter vive junto a su familia y amigos, un grupo variopinto de animales que incluye incluso a un zorro. Todos ellos harán de las suyas en la granja de los McGregor, lugar en cuyo jardín disponen de deliciosos vegetales. Pero la disputa de Peter con el Sr. McGregor se intensificará más que nunca ya que ambos compiten por el afecto de Bea, una amante de los animales de buen corazón. La fiesta animal ha empezado, y esto es solo el principio.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
+      "overview": "En junio de 1971, los principales periódicos de EE.UU., entre los que se encontraban 'The New York Times' y 'The Washington Post', tomaron una valiente posición en favor de la libertad de expresión, informando sobre los documentos del Pentágono y el encubrimiento masivo de secretos por parte del gobierno, que había durado cuatro décadas y cuatro presidencias estadounidenses. En ese momento, Katherine Graham, primera mujer editora del Post, y el director Ben Bradlee intentaban relanzar un periódico en decadencia. Juntos decidieron tomar la audaz decisión de apoyar al 'The New York Times' y luchar contra el intento de la Administración Nixon de restringir la primera enmienda. Historia basada en los documentos del Post que recogían información clasificada sobre la Guerra de Vietnam.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/uhUoPnkR7aAJgkQ1fq1Rm3jaenH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1YwgkUX4xFiQiq7rj1Cit684Rdr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOXBwZqtT4pQVZw1xK0kTl8Id3y.png"
-    },
-    {
-      "id": "tmdb:660120",
-      "type": "movie",
-      "name": "La peor persona del mundo",
-      "ids": {
-        "tmdb": 660120
-      },
-      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
-    },
-    {
-      "id": "tmdb:586863",
-      "type": "movie",
-      "name": "Los miserables",
-      "ids": {
-        "tmdb": 586863
-      },
-      "overview": "Montfermeil, un suburbio al este de París. Stéphane acaba de unirse a la Brigada de Lucha contra la Delincuencia, donde conoce a sus nuevos compañeros, Chris y Gwada, dos agentes con experiencia en las enormes tensiones que existen entre los distintos grupos organizados por el control del barrio.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/x38m4xUo4byOuzrAQO0zMrpxEau.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rgwvcVYc4FxRkBcWrCo2k1TQZIm.png"
-    },
-    {
-      "id": "tmdb:284",
-      "type": "movie",
-      "name": "El apartamento",
-      "ids": {
-        "tmdb": 284
-      },
-      "overview": "C.C. Baxter es un modesto pero ambicioso empleado de una compañía de seguros de Manhattan. Está soltero y vive solo en un discreto apartamento que presta ocasionalmente a sus superiores para sus citas amorosas. Tiene la esperanza de que estos favores le sirvan para mejorar su posición en la empresa. Pero la situación cambia cuando se enamora de una ascensorista que resulta ser la amante de uno de los jefes que usan su apartamento.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/2kJMgHi8vNY8a0UJiBU3HEyiqOa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fZmPRv1Rrr8xjNBIj32AM94apMc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iubGm4iDnAiFTMsf3cHHwWAxUMG.png"
-    },
-    {
-      "id": "tmdb:505192",
-      "type": "movie",
-      "name": "Un asunto de familia",
-      "ids": {
-        "tmdb": 505192
-      },
-      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
-    },
-    {
-      "id": "tmdb:901563",
-      "type": "movie",
-      "name": "Close",
-      "ids": {
-        "tmdb": 901563
-      },
-      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/asyL5phbb6RGm6KsvVQk3vPnCRF.png"
-    },
-    {
-      "id": "tmdb:517814",
-      "type": "movie",
-      "name": "Cafarnaúm",
-      "ids": {
-        "tmdb": 517814
-      },
-      "overview": "Beirut, Líbano. Zain es un niño de doce años inteligente y valiente, que sobrevive a los peligros de las calles de la ciudad gracias a su ingenio. Huyendo de sus padres, y haciendo valer sus derechos, recurre a la justicia para demandarles por el 'crimen' de haberle dado la vida. Una fábula contemporánea de carácter político sobre un niño que se rebela contra la vida que le han impuesto vivir .",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2DMXE8viVk8MwLiFaaiIamcDRCv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2rXFgdX8fPtyvih9zWsV8yUHYZU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/o2bJBeYIVbXwuNjDLchdXRdqvNp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/557BNNs5y3Ru2lEQHAX1rBS8TRS.png"
     },
     {
       "id": "tmdb:137116",
@@ -673,6 +575,104 @@
       "logo": "https://image.tmdb.org/t/p/w500/hWV95fXYzWyMxD44eM0OECs9Lod.png"
     },
     {
+      "id": "tmdb:1149167",
+      "type": "movie",
+      "name": "Ladrones con clase 2",
+      "ids": {
+        "tmdb": 1149167
+      },
+      "overview": "Un ladrón brillante se ve obligado a robar un casino cuando su archienemigo secuestra a su novia. Entre criminales y el FBI, arriesga todo por amor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8rlrT43Toat04Zk8cD1UVa1LHg7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eJe4sl6VQ4gzOe2V4tOXPlhJxnk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
+    },
+    {
+      "id": "tmdb:10327",
+      "type": "movie",
+      "name": "Una rubia muy legal 2",
+      "ids": {
+        "tmdb": 10327
+      },
+      "overview": "Elle Woods está de vuelta como la enérgica, optimista y megapija joven abogada de la facultad de Harvard. En esta ocasión, Elle irá a Washington a defender los derechos de los animales.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/8JcIhADz1hUqsifza7OdaKwzRRp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g1600py3bgetuGTqSwRMEt2u9QW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/94zCfbuUmFjoXk97WEQvFG2zsaz.png"
+    },
+    {
+      "id": "tmdb:262543",
+      "type": "movie",
+      "name": "Autómata",
+      "ids": {
+        "tmdb": 262543
+      },
+      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+    },
+    {
+      "id": "tmdb:586863",
+      "type": "movie",
+      "name": "Los miserables",
+      "ids": {
+        "tmdb": 586863
+      },
+      "overview": "Montfermeil, un suburbio al este de París. Stéphane acaba de unirse a la Brigada de Lucha contra la Delincuencia, donde conoce a sus nuevos compañeros, Chris y Gwada, dos agentes con experiencia en las enormes tensiones que existen entre los distintos grupos organizados por el control del barrio.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/x38m4xUo4byOuzrAQO0zMrpxEau.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rgwvcVYc4FxRkBcWrCo2k1TQZIm.png"
+    },
+    {
+      "id": "tmdb:381719",
+      "type": "movie",
+      "name": "Peter Rabbit",
+      "ids": {
+        "tmdb": 381719
+      },
+      "overview": "Peter Rabbit no es un conejo cualquiera. Es un rebelde travieso y aventurero que viste camisa azul y no lleva pantalones. Peter vive junto a su familia y amigos, un grupo variopinto de animales que incluye incluso a un zorro. Todos ellos harán de las suyas en la granja de los McGregor, lugar en cuyo jardín disponen de deliciosos vegetales. Pero la disputa de Peter con el Sr. McGregor se intensificará más que nunca ya que ambos compiten por el afecto de Bea, una amante de los animales de buen corazón. La fiesta animal ha empezado, y esto es solo el principio.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1YwgkUX4xFiQiq7rj1Cit684Rdr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xOXBwZqtT4pQVZw1xK0kTl8Id3y.png"
+    },
+    {
+      "id": "tmdb:416477",
+      "type": "movie",
+      "name": "La gran enfermedad del amor",
+      "ids": {
+        "tmdb": 416477
+      },
+      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
+    },
+    {
+      "id": "tmdb:505192",
+      "type": "movie",
+      "name": "Un asunto de familia",
+      "ids": {
+        "tmdb": 505192
+      },
+      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+    },
+    {
       "id": "tmdb:581734",
       "type": "movie",
       "name": "Nomadland",
@@ -687,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5YvyvBLPjLQuvey1CNUWQF0iIhR.png"
     },
     {
-      "id": "tmdb:1633",
+      "id": "tmdb:978592",
       "type": "movie",
-      "name": "Tomates verdes fritos",
+      "name": "Sombras del pasado",
       "ids": {
-        "tmdb": 1633
+        "tmdb": 978592
       },
-      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
+      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/x5YINvEBqgXXzTu9FsXZ7fzAw87.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
     }
   ]
 }
