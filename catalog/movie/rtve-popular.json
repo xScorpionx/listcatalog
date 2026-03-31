@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
       "id": "tmdb:346698",
       "type": "movie",
       "name": "Barbie",
@@ -29,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
     },
     {
+      "id": "tmdb:205596",
+      "type": "movie",
+      "name": "The Imitation Game (Descifrando Enigma)",
+      "ids": {
+        "tmdb": 205596
+      },
+      "overview": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6sfETZCr8l2OoigYQZR6hzukztC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pSpvv6KND2oxlIuXivtu73LoaX8.png"
+    },
+    {
       "id": "tmdb:290098",
       "type": "movie",
       "name": "La doncella",
@@ -43,18 +71,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
-      "id": "tmdb:205596",
+      "id": "tmdb:809",
       "type": "movie",
-      "name": "The Imitation Game (Descifrando Enigma)",
+      "name": "Shrek 2",
       "ids": {
-        "tmdb": 205596
+        "tmdb": 809
       },
-      "overview": "Durante el invierno de 1952, las autoridades británicas entraron en el hogar del matemático, analista y héroe de guerra Alan Turing, con la intención de investigar la denuncia de un robo. Al final acabaron arrestando a Turing acusándole de indecencia grave, un cargo que le supondría una devastadora condena por una ofensa criminal: ser homosexual. Los oficiales no tenían ni idea de que en realidad estaban incriminando al pionero de la informática actual. Liderando a un heterogéneo grupo de académicos, lingüistas, campeones de ajedrez y oficiales de inteligencia, se le conoce por haber descifrado el código de la inquebrantable máquina Enigma de los alemanes durante la Segunda Guerra Mundial.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/pdd20KgHJec4BM4sfHS8oefaDUI.jpg",
+      "overview": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6sfETZCr8l2OoigYQZR6hzukztC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pSpvv6KND2oxlIuXivtu73LoaX8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qKkUCwpK5A8Szu2XlNjmy9t0972.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
       "id": "tmdb:524",
@@ -71,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/xBLs1V4UnVR1Gf4UJUNodQvwgt.png"
     },
     {
-      "id": "tmdb:335977",
-      "type": "movie",
-      "name": "Indiana Jones y el dial del destino",
-      "ids": {
-        "tmdb": 335977
-      },
-      "overview": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oQSv7d0OBzwbVCZ8Nfns4RdMoGg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
-    },
-    {
       "id": "tmdb:519465",
       "type": "movie",
       "name": "Reina de corazones",
@@ -97,6 +111,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
+    },
+    {
+      "id": "tmdb:335977",
+      "type": "movie",
+      "name": "Indiana Jones y el dial del destino",
+      "ids": {
+        "tmdb": 335977
+      },
+      "overview": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oQSv7d0OBzwbVCZ8Nfns4RdMoGg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
     },
     {
       "id": "tmdb:89",
@@ -113,18 +141,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png"
     },
     {
-      "id": "tmdb:87",
+      "id": "tmdb:166428",
       "type": "movie",
-      "name": "Indiana Jones y el templo maldito",
+      "name": "Cómo entrenar a tu dragón 3",
       "ids": {
-        "tmdb": 87
+        "tmdb": 166428
       },
-      "overview": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+      "overview": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hY0jljnL8EIEM5JwIBdtY2tnCtQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rUqugZkR5R55Z0mVcb3uu3IOYbY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uLjBhiiaJqUG6orfHISQOvKktDk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dnCCeM9t7cShxrbNmmSIw1S8LwR.png"
+    },
+    {
+      "id": "tmdb:402900",
+      "type": "movie",
+      "name": "Ocean's 8",
+      "ids": {
+        "tmdb": 402900
+      },
+      "overview": "Debbie, hermana exconvicta de Danny Ocean, será la líder de un nuevo equipo de ladrones profesionales. Con la ayuda de su mano derecha planeará robar un valioso collar que está en manos de un malvado galerista.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/muBA2zdXAjrqd9fehykSjScL5Aw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ycYoW3q3mUDtTcWRZwC0ZeWY3j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4VgOToNN6cVEJfYOabAS7HpDG2Y.png"
     },
     {
       "id": "tmdb:810",
@@ -139,6 +181,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4uSRGXXU4kucRUbzd6X4lDZXeti.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
+    },
+    {
+      "id": "tmdb:11423",
+      "type": "movie",
+      "name": "Memories of Murder (Crónica de un asesino en serie)",
+      "ids": {
+        "tmdb": 11423
+      },
+      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
+    },
+    {
+      "id": "tmdb:87",
+      "type": "movie",
+      "name": "Indiana Jones y el templo maldito",
+      "ids": {
+        "tmdb": 87
+      },
+      "overview": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hY0jljnL8EIEM5JwIBdtY2tnCtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rUqugZkR5R55Z0mVcb3uu3IOYbY.png"
     },
     {
       "id": "tmdb:331482",
@@ -169,34 +239,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/awLwvyZ7IsiL3h7v5x5qKFJG9lG.png"
     },
     {
-      "id": "tmdb:399402",
-      "type": "movie",
-      "name": "Hunter Killer: Caza en las profundidades",
-      "ids": {
-        "tmdb": 399402
-      },
-      "overview": "El capitán Joe Glass, un hombre firme pero justo y con un código moral muy exigente, se va a encargar de liderar una importante misión. Junto con un grupo de Navy Seals, y desde un submarino de los Estados Unidos, deberá rescatar al presidente de Rusia que ha sido hecho prisionero tras un golpe militar. Glass y su equipo deberán evitar a toda costa que la situación desemboque en una Tercera Guerra Mundial.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/nzC37wvOkZr0utsuEvJjH0P9URV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oQ6klF7poSV1oh1fedPJ3TaSz1W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5BnXYxcdP95UCRoJRwxzv1HURc3.png"
-    },
-    {
-      "id": "tmdb:11423",
-      "type": "movie",
-      "name": "Memories of Murder (Crónica de un asesino en serie)",
-      "ids": {
-        "tmdb": 11423
-      },
-      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
-    },
-    {
       "id": "tmdb:915935",
       "type": "movie",
       "name": "Anatomía de una caída",
@@ -225,60 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cukehwDevWqOkqI21cJXJvmfXaq.png"
     },
     {
-      "id": "tmdb:32657",
+      "id": "tmdb:399402",
       "type": "movie",
-      "name": "Percy Jackson y el ladrón del rayo",
+      "name": "Hunter Killer: Caza en las profundidades",
       "ids": {
-        "tmdb": 32657
+        "tmdb": 399402
       },
-      "overview": "Adaptación de la novela publicada en España con el título de 'El Ladrón del Rayo. Después de ir a un campamento, Percy, un chico aparentemente normal, (Lerman) descubre que es hijo de Poseidón, el dios de los mares, y que su mejor amigo Grover (Jackson) es un sátiro. A partir de ahí, él y sus dos amigos (dos semidioses y un sátiro) recorrerán el país, que está plagado de monstruos mitológicos, para restaurar el orden cósmico antes de que se ponga el sol en el día más largo del año. Percy busca recuperar la paz, rescatar a su madre, conocer a su padre y comprender quién es él mismo. Todo un reto que debe superar en apenas diez días.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/piKMSnCCT0oqLZ9GWAALXX9e1qh.jpg",
+      "overview": "El capitán Joe Glass, un hombre firme pero justo y con un código moral muy exigente, se va a encargar de liderar una importante misión. Junto con un grupo de Navy Seals, y desde un submarino de los Estados Unidos, deberá rescatar al presidente de Rusia que ha sido hecho prisionero tras un golpe militar. Glass y su equipo deberán evitar a toda costa que la situación desemboque en una Tercera Guerra Mundial.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/nzC37wvOkZr0utsuEvJjH0P9URV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yLrRQy4kmHE25zlr4W1mDDfrzCC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oWoiedMh2IOaaRmct1x82wXzckh.png"
-    },
-    {
-      "id": "tmdb:762",
-      "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
-      "ids": {
-        "tmdb": 762
-      },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
-    },
-    {
-      "id": "tmdb:341013",
-      "type": "movie",
-      "name": "Atómica",
-      "ids": {
-        "tmdb": 341013
-      },
-      "overview": "Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pqKiaAaWRTA76hcO3ko89kQDJtG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uwoh89gpsUVfRFMK42AHFqqnLd3.png"
-    },
-    {
-      "id": "tmdb:969492",
-      "type": "movie",
-      "name": "Misión hostil",
-      "ids": {
-        "tmdb": 969492
-      },
-      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oQ6klF7poSV1oh1fedPJ3TaSz1W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5BnXYxcdP95UCRoJRwxzv1HURc3.png"
     },
     {
       "id": "tmdb:228165",
@@ -295,32 +295,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
     },
     {
-      "id": "tmdb:314365",
+      "id": "tmdb:785084",
       "type": "movie",
-      "name": "Spotlight",
+      "name": "La ballena (The Whale)",
       "ids": {
-        "tmdb": 314365
+        "tmdb": 785084
       },
-      "overview": "Cuando el tenaz equipo de reporteros de la sección \"Spotlight\" ahonda en los alegatos de abuso dentro de la Iglesia Católica, descubren en su investigación el encubrimiento llevado a cabo durante décadas por parte de las altas esferas de organizaciones religiosas, legales y gubernamentales de Boston, desatando una ola de revelaciones alrededor del mundo.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/oejKAjGVxmm8cJLiKQMGe2A2A4g.jpg",
+      "overview": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tyg5sUwEwXEjgczySSv9FUAQkIe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rYDpzbZtEvSw3WeX5w7y3yutQBK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/h6VOaBqE2ft8fLbixG02NWM6dxQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
     },
     {
-      "id": "tmdb:505192",
+      "id": "tmdb:762",
       "type": "movie",
-      "name": "Un asunto de familia",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
       "ids": {
-        "tmdb": 505192
+        "tmdb": 762
       },
-      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
       "id": "tmdb:45269",
@@ -337,46 +337,102 @@
       "logo": "https://image.tmdb.org/t/p/w500/phGnysDOV2g8lgVzpI4ULXG8ev7.png"
     },
     {
-      "id": "tmdb:381719",
+      "id": "tmdb:758866",
       "type": "movie",
-      "name": "Peter Rabbit",
+      "name": "Drive my car",
       "ids": {
-        "tmdb": 381719
+        "tmdb": 758866
       },
-      "overview": "Peter Rabbit no es un conejo cualquiera. Es un rebelde travieso y aventurero que viste camisa azul y no lleva pantalones. Peter vive junto a su familia y amigos, un grupo variopinto de animales que incluye incluso a un zorro. Todos ellos harán de las suyas en la granja de los McGregor, lugar en cuyo jardín disponen de deliciosos vegetales. Pero la disputa de Peter con el Sr. McGregor se intensificará más que nunca ya que ambos compiten por el afecto de Bea, una amante de los animales de buen corazón. La fiesta animal ha empezado, y esto es solo el principio.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
+      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1YwgkUX4xFiQiq7rj1Cit684Rdr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xOXBwZqtT4pQVZw1xK0kTl8Id3y.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
     },
     {
-      "id": "tmdb:446354",
+      "id": "tmdb:32657",
       "type": "movie",
-      "name": "Los archivos del Pentágono",
+      "name": "Percy Jackson y el ladrón del rayo",
       "ids": {
-        "tmdb": 446354
+        "tmdb": 32657
       },
-      "overview": "En junio de 1971, los principales periódicos de EE.UU., entre los que se encontraban 'The New York Times' y 'The Washington Post', tomaron una valiente posición en favor de la libertad de expresión, informando sobre los documentos del Pentágono y el encubrimiento masivo de secretos por parte del gobierno, que había durado cuatro décadas y cuatro presidencias estadounidenses. En ese momento, Katherine Graham, primera mujer editora del Post, y el director Ben Bradlee intentaban relanzar un periódico en decadencia. Juntos decidieron tomar la audaz decisión de apoyar al 'The New York Times' y luchar contra el intento de la Administración Nixon de restringir la primera enmienda. Historia basada en los documentos del Post que recogían información clasificada sobre la Guerra de Vietnam.",
+      "overview": "Adaptación de la novela publicada en España con el título de 'El Ladrón del Rayo. Después de ir a un campamento, Percy, un chico aparentemente normal, (Lerman) descubre que es hijo de Poseidón, el dios de los mares, y que su mejor amigo Grover (Jackson) es un sátiro. A partir de ahí, él y sus dos amigos (dos semidioses y un sátiro) recorrerán el país, que está plagado de monstruos mitológicos, para restaurar el orden cósmico antes de que se ponga el sol en el día más largo del año. Percy busca recuperar la paz, rescatar a su madre, conocer a su padre y comprender quién es él mismo. Todo un reto que debe superar en apenas diez días.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/piKMSnCCT0oqLZ9GWAALXX9e1qh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yLrRQy4kmHE25zlr4W1mDDfrzCC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oWoiedMh2IOaaRmct1x82wXzckh.png"
+    },
+    {
+      "id": "tmdb:969492",
+      "type": "movie",
+      "name": "Misión hostil",
+      "ids": {
+        "tmdb": 969492
+      },
+      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
+    },
+    {
+      "id": "tmdb:314365",
+      "type": "movie",
+      "name": "Spotlight",
+      "ids": {
+        "tmdb": 314365
+      },
+      "overview": "Cuando el tenaz equipo de reporteros de la sección \"Spotlight\" ahonda en los alegatos de abuso dentro de la Iglesia Católica, descubren en su investigación el encubrimiento llevado a cabo durante décadas por parte de las altas esferas de organizaciones religiosas, legales y gubernamentales de Boston, desatando una ola de revelaciones alrededor del mundo.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/oejKAjGVxmm8cJLiKQMGe2A2A4g.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tyg5sUwEwXEjgczySSv9FUAQkIe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rYDpzbZtEvSw3WeX5w7y3yutQBK.png"
+    },
+    {
+      "id": "tmdb:341013",
+      "type": "movie",
+      "name": "Atómica",
+      "ids": {
+        "tmdb": 341013
+      },
+      "overview": "Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín oriental. Lorraine no se detendrá ante nada para conseguir dar con esa lista, enfrentándose a varios asesinos y sumergiéndose en un mundo en el que nadie parece ser quien dice ser.",
       "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/uhUoPnkR7aAJgkQ1fq1Rm3jaenH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o2bJBeYIVbXwuNjDLchdXRdqvNp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/557BNNs5y3Ru2lEQHAX1rBS8TRS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pqKiaAaWRTA76hcO3ko89kQDJtG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uwoh89gpsUVfRFMK42AHFqqnLd3.png"
     },
     {
-      "id": "tmdb:785084",
+      "id": "tmdb:1079091",
       "type": "movie",
-      "name": "La ballena (The Whale)",
+      "name": "Romper el círculo",
       "ids": {
-        "tmdb": 785084
+        "tmdb": 1079091
       },
-      "overview": "Un solitario profesor de inglés con obesidad severa intenta reconectar con su hija adolescente en una última oportunidad de redención.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/5PXybRV6hVkteNZsxLeSC1FV3kx.jpg",
+      "overview": "Una mujer atraviesa las tumultuosas etapas de una relación abusiva. Tras mudarse a la ciudad de Boston después de la universidad, decide iniciar su propio negocio como florista y se enamora de un joven neurocirujano.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/e0S9UXyuHE1JAoHZmyqRJISpyoS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h6VOaBqE2ft8fLbixG02NWM6dxQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vNHnS0zr5eWVyQ9EZXaC8byLU9B.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/48AUIelLTC7UpjyKreojMBD23dx.png"
+    },
+    {
+      "id": "tmdb:15",
+      "type": "movie",
+      "name": "Ciudadano Kane",
+      "ids": {
+        "tmdb": 15
+      },
+      "overview": "Un importante financiero estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras, de dos sindicatos y de una inimaginable colección de obras de arte, muere en su fabuloso castillo de estilo oriental, Xanadú. La última palabra que pronuncia al expirar es Rosebud. El país entero y la prensa en general quedan intrigados por saber el significado de esta palabra. Para descubrirlo, un grupo de periodistas se pone a investigar.",
+      "year": 1941,
+      "poster": "https://image.tmdb.org/t/p/w342/w7V0bv38Z0q0DgHmMfcGM4WRNTv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4dafi1zU8IXxloT3BrTayVBnKQy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xnlpf9ChpLBxYOIFluaTN7HLogk.png"
     },
     {
       "id": "tmdb:9390",
@@ -393,18 +449,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/ugdHX6ac3m2qR46qWxtNrQ8UADW.png"
     },
     {
-      "id": "tmdb:15",
+      "id": "tmdb:505192",
       "type": "movie",
-      "name": "Ciudadano Kane",
+      "name": "Un asunto de familia",
       "ids": {
-        "tmdb": 15
+        "tmdb": 505192
       },
-      "overview": "Un importante financiero estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras, de dos sindicatos y de una inimaginable colección de obras de arte, muere en su fabuloso castillo de estilo oriental, Xanadú. La última palabra que pronuncia al expirar es Rosebud. El país entero y la prensa en general quedan intrigados por saber el significado de esta palabra. Para descubrirlo, un grupo de periodistas se pone a investigar.",
-      "year": 1941,
-      "poster": "https://image.tmdb.org/t/p/w342/w7V0bv38Z0q0DgHmMfcGM4WRNTv.jpg",
+      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4dafi1zU8IXxloT3BrTayVBnKQy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xnlpf9ChpLBxYOIFluaTN7HLogk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+    },
+    {
+      "id": "tmdb:583",
+      "type": "movie",
+      "name": "La vida de Brian",
+      "ids": {
+        "tmdb": 583
+      },
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
+    },
+    {
+      "id": "tmdb:446354",
+      "type": "movie",
+      "name": "Los archivos del Pentágono",
+      "ids": {
+        "tmdb": 446354
+      },
+      "overview": "En junio de 1971, los principales periódicos de EE.UU., entre los que se encontraban 'The New York Times' y 'The Washington Post', tomaron una valiente posición en favor de la libertad de expresión, informando sobre los documentos del Pentágono y el encubrimiento masivo de secretos por parte del gobierno, que había durado cuatro décadas y cuatro presidencias estadounidenses. En ese momento, Katherine Graham, primera mujer editora del Post, y el director Ben Bradlee intentaban relanzar un periódico en decadencia. Juntos decidieron tomar la audaz decisión de apoyar al 'The New York Times' y luchar contra el intento de la Administración Nixon de restringir la primera enmienda. Historia basada en los documentos del Post que recogían información clasificada sobre la Guerra de Vietnam.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/uhUoPnkR7aAJgkQ1fq1Rm3jaenH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o2bJBeYIVbXwuNjDLchdXRdqvNp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/557BNNs5y3Ru2lEQHAX1rBS8TRS.png"
     },
     {
       "id": "tmdb:666277",
@@ -435,46 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlUKS81bvz7WVO6iUyzYvmZtq94.png"
     },
     {
-      "id": "tmdb:234200",
+      "id": "tmdb:980026",
       "type": "movie",
-      "name": "Pride (Orgullo)",
+      "name": "La tierra prometida",
       "ids": {
-        "tmdb": 234200
+        "tmdb": 980026
       },
-      "overview": "En el verano de 1984, siendo primera ministra Margaret Thatcher, el Sindicato Nacional de Mineros (NUM) convoca una huelga. Durante la manifestación del Orgullo Gay en Londres. Un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los trabajadores, pero el sindicato no acepta el dinero. El grupo decide entonces ponerse en contacto directo con los mineros y van a un pueblecito de Gales. Empieza así la curiosa historia de dos comunidades totalmente diferentes que se unen por una causa común. Basada en hechos reales.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/60yODrgrKDw8d2427tQRC7Vsa5V.jpg",
+      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xQRHZ9v6SfpVczpXof81noBvG5y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kNfzlO8lUAXYmOxqdKn9kDxzbK6.png"
-    },
-    {
-      "id": "tmdb:8346",
-      "type": "movie",
-      "name": "Mi gran boda griega",
-      "ids": {
-        "tmdb": 8346
-      },
-      "overview": "Todos los miembros de la familia Portokalos están preocupados por Toula (Nia Vardalos). A sus treinta años sigue soltera y trabaja en el restaurante griego de sus padres. Pero es que Toula aspira a algo más y está dispuesta a conseguirlo; su familia, por desgracia, no. Lo único que necesitaba Toula para cambiar su vida eran unas cuantas clases de informática, un par de lentillas y adoptar otra actitud. Cuando empieza a trabajar en la agencia de viajes de su tía, un apuesto desconocido se siente atraído por ella. Es Ian Miller (John Corbett), un profesor de instituto alto, guapo y sin una gota de sangre griega.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9aSO7qn51SEjLkAaSYnMcpX8ziV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
-    },
-    {
-      "id": "tmdb:72545",
-      "type": "movie",
-      "name": "Viaje al centro de la Tierra 2: La isla misteriosa",
-      "ids": {
-        "tmdb": 72545
-      },
-      "overview": "Sean (Hutcherson) recibe una llamada de socorro desde una misteriosa isla, que no aparece en los mapas. Se trata de un lugar con extrañas formas de vida. Sean emprenderá la búsqueda acompañado de su padrastro (Johnson), de un piloto de helicóptero (Guzman) y su hermosa y temperamental hija (Hudgens). Secuela de \"Viaje al centro de la tierra 3D\".",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/hAy2yUav8QPnDzfOGihNI527NjY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wywCs4PIHLSLhyPM2mRjBV25hqf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hE5Eaw4VQWA8W8B11Wc4BW8Ze3A.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
     },
     {
       "id": "tmdb:441701",
@@ -491,130 +547,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png"
     },
     {
-      "id": "tmdb:262543",
+      "id": "tmdb:8346",
       "type": "movie",
-      "name": "Autómata",
+      "name": "Mi gran boda griega",
       "ids": {
-        "tmdb": 262543
+        "tmdb": 8346
       },
-      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "overview": "Todos los miembros de la familia Portokalos están preocupados por Toula (Nia Vardalos). A sus treinta años sigue soltera y trabaja en el restaurante griego de sus padres. Pero es que Toula aspira a algo más y está dispuesta a conseguirlo; su familia, por desgracia, no. Lo único que necesitaba Toula para cambiar su vida eran unas cuantas clases de informática, un par de lentillas y adoptar otra actitud. Cuando empieza a trabajar en la agencia de viajes de su tía, un apuesto desconocido se siente atraído por ella. Es Ian Miller (John Corbett), un profesor de instituto alto, guapo y sin una gota de sangre griega.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9aSO7qn51SEjLkAaSYnMcpX8ziV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
     },
     {
-      "id": "tmdb:416477",
+      "id": "tmdb:1633",
       "type": "movie",
-      "name": "La gran enfermedad del amor",
+      "name": "Tomates verdes fritos",
       "ids": {
-        "tmdb": 416477
+        "tmdb": 1633
       },
-      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
+      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
-    },
-    {
-      "id": "tmdb:583",
-      "type": "movie",
-      "name": "La vida de Brian",
-      "ids": {
-        "tmdb": 583
-      },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
-      "id": "tmdb:10327",
-      "type": "movie",
-      "name": "Una rubia muy legal 2",
-      "ids": {
-        "tmdb": 10327
-      },
-      "overview": "Elle Woods está de vuelta como la enérgica, optimista y megapija joven abogada de la facultad de Harvard. En esta ocasión, Elle irá a Washington a defender los derechos de los animales.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/8JcIhADz1hUqsifza7OdaKwzRRp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g1600py3bgetuGTqSwRMEt2u9QW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/94zCfbuUmFjoXk97WEQvFG2zsaz.png"
-    },
-    {
-      "id": "tmdb:303903",
-      "type": "movie",
-      "name": "Pokémon: Diancie y la crisálida de la destrucción",
-      "ids": {
-        "tmdb": 303903
-      },
-      "overview": "La joven princesa Diancie es un Pokémon singular que reina el Dominio Diamante. Su reino adquiere su energía vital del Diamante Corazón, pero este está empezando a dar señales del debilitamiento que precede a su desaparición y Diancie, que es la única que puede crear otro, no es todavía lo suficientemente fuerte para hacerlo. Mientras busca la ayuda del Pokémon legendario Xerneas, Diancie se encuentra con un grupo de ladrones que quieren hacerse con su poder para crear diamantes y accidentalmente despiertan al Pokémon legendario Yveltal, que dormía en su crisálida.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/rWqWsQfpRp4nogfg18xeZd4oDTe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xMY8JxYacEu0rW07dNeEuuIFIc2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AtbkQGxoFf6KSo81bX39eKQM0W4.png"
-    },
-    {
-      "id": "tmdb:980026",
-      "type": "movie",
-      "name": "La tierra prometida",
-      "ids": {
-        "tmdb": 980026
-      },
-      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
-    },
-    {
-      "id": "tmdb:660120",
-      "type": "movie",
-      "name": "La peor persona del mundo",
-      "ids": {
-        "tmdb": 660120
-      },
-      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
-    },
-    {
-      "id": "tmdb:581734",
-      "type": "movie",
-      "name": "Nomadland",
-      "ids": {
-        "tmdb": 581734
-      },
-      "overview": "En tiempos de la Gran Recesión, Fern, una mujer del poblado de Empire (Nevada, Estados Unidos), pierde su empleo en el 2011 tras el cierre de la fábrica de materiales de construcción donde trabajó junto con su esposo, quien recientemente falleció. Con sesenta años y sin otra alternativa, decide vender la mayoría de sus pertenencias y comprar una furgoneta para vivir y viajar por el país en busca de trabajo, como nómada de hoy en día.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/6CFE3b0iHmv3m2cRrmBXHIP2vhv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mjmIjBfMkKLV8R0q53onCNVwCb0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5YvyvBLPjLQuvey1CNUWQF0iIhR.png"
-    },
-    {
-      "id": "tmdb:388399",
-      "type": "movie",
-      "name": "Día de patriotas",
-      "ids": {
-        "tmdb": 388399
-      },
-      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
     },
     {
       "id": "tmdb:838240",
@@ -631,6 +589,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
     },
     {
+      "id": "tmdb:381719",
+      "type": "movie",
+      "name": "Peter Rabbit",
+      "ids": {
+        "tmdb": 381719
+      },
+      "overview": "Peter Rabbit no es un conejo cualquiera. Es un rebelde travieso y aventurero que viste camisa azul y no lleva pantalones. Peter vive junto a su familia y amigos, un grupo variopinto de animales que incluye incluso a un zorro. Todos ellos harán de las suyas en la granja de los McGregor, lugar en cuyo jardín disponen de deliciosos vegetales. Pero la disputa de Peter con el Sr. McGregor se intensificará más que nunca ya que ambos compiten por el afecto de Bea, una amante de los animales de buen corazón. La fiesta animal ha empezado, y esto es solo el principio.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1YwgkUX4xFiQiq7rj1Cit684Rdr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xOXBwZqtT4pQVZw1xK0kTl8Id3y.png"
+    },
+    {
+      "id": "tmdb:72545",
+      "type": "movie",
+      "name": "Viaje al centro de la Tierra 2: La isla misteriosa",
+      "ids": {
+        "tmdb": 72545
+      },
+      "overview": "Sean (Hutcherson) recibe una llamada de socorro desde una misteriosa isla, que no aparece en los mapas. Se trata de un lugar con extrañas formas de vida. Sean emprenderá la búsqueda acompañado de su padrastro (Johnson), de un piloto de helicóptero (Guzman) y su hermosa y temperamental hija (Hudgens). Secuela de \"Viaje al centro de la tierra 3D\".",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/hAy2yUav8QPnDzfOGihNI527NjY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wywCs4PIHLSLhyPM2mRjBV25hqf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hE5Eaw4VQWA8W8B11Wc4BW8Ze3A.png"
+    },
+    {
       "id": "tmdb:517814",
       "type": "movie",
       "name": "Cafarnaúm",
@@ -645,18 +631,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
     },
     {
-      "id": "tmdb:382190",
+      "id": "tmdb:234200",
       "type": "movie",
-      "name": "Pokémon:  Volcanion y la maravilla mecánica",
+      "name": "Pride (Orgullo)",
       "ids": {
-        "tmdb": 382190
+        "tmdb": 234200
       },
-      "overview": "En esta aventura de Pokémon, una fuerza misteriosa ata a Ash al Pokémon Mythical Volcanion cuando cae del cielo. Volcanion no puede escapar, y Ash es arrastrado a medida que continúa en su misión. Llegan a una ciudad de engranajes y engranajes, donde un ministro corrupto ha robado la última invención: el Pokémon Artificial Magearna, creado hace 500 años. El ministro planea usar el poder misterioso de Magearna para tomar el control del reino mecánico. ¿Puede Ash y Volcanion trabajar juntos para rescatar a Magearna? ¡Una de las mayores batallas en la historia de Pokémon está a punto de desplegarse!",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/nEy7xWwWf9ADxojMjywD0pbPfGL.jpg",
+      "overview": "En el verano de 1984, siendo primera ministra Margaret Thatcher, el Sindicato Nacional de Mineros (NUM) convoca una huelga. Durante la manifestación del Orgullo Gay en Londres. Un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los trabajadores, pero el sindicato no acepta el dinero. El grupo decide entonces ponerse en contacto directo con los mineros y van a un pueblecito de Gales. Empieza así la curiosa historia de dos comunidades totalmente diferentes que se unen por una causa común. Basada en hechos reales.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/60yODrgrKDw8d2427tQRC7Vsa5V.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jVB1ZXcrn0Rbytgw5YGv1ZxXpWu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3yHy5pcwr4J4io3QtUrJ7UKpHjW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xQRHZ9v6SfpVczpXof81noBvG5y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kNfzlO8lUAXYmOxqdKn9kDxzbK6.png"
+    },
+    {
+      "id": "tmdb:660120",
+      "type": "movie",
+      "name": "La peor persona del mundo",
+      "ids": {
+        "tmdb": 660120
+      },
+      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
+    },
+    {
+      "id": "tmdb:262543",
+      "type": "movie",
+      "name": "Autómata",
+      "ids": {
+        "tmdb": 262543
+      },
+      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+    },
+    {
+      "id": "tmdb:303903",
+      "type": "movie",
+      "name": "Pokémon: Diancie y la crisálida de la destrucción",
+      "ids": {
+        "tmdb": 303903
+      },
+      "overview": "La joven princesa Diancie es un Pokémon singular que reina el Dominio Diamante. Su reino adquiere su energía vital del Diamante Corazón, pero este está empezando a dar señales del debilitamiento que precede a su desaparición y Diancie, que es la única que puede crear otro, no es todavía lo suficientemente fuerte para hacerlo. Mientras busca la ayuda del Pokémon legendario Xerneas, Diancie se encuentra con un grupo de ladrones que quieren hacerse con su poder para crear diamantes y accidentalmente despiertan al Pokémon legendario Yveltal, que dormía en su crisálida.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/rWqWsQfpRp4nogfg18xeZd4oDTe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xMY8JxYacEu0rW07dNeEuuIFIc2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AtbkQGxoFf6KSo81bX39eKQM0W4.png"
     },
     {
       "id": "tmdb:1149167",
@@ -671,34 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eJe4sl6VQ4gzOe2V4tOXPlhJxnk.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
-    },
-    {
-      "id": "tmdb:758866",
-      "type": "movie",
-      "name": "Drive my car",
-      "ids": {
-        "tmdb": 758866
-      },
-      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
-    },
-    {
-      "id": "tmdb:1633",
-      "type": "movie",
-      "name": "Tomates verdes fritos",
-      "ids": {
-        "tmdb": 1633
-      },
-      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
     }
   ]
 }
