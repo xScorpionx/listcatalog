@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/nOPg4FutzDnPdwlXMDy8hVRuJAr.png"
     },
     {
-      "id": "tmdb:44006",
-      "type": "series",
-      "name": "Chicago Fire",
-      "ids": {
-        "tmdb": 44006
-      },
-      "overview": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6O5t5IPR2dzt2SD5bMIRBlSylpB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png"
-    },
-    {
       "id": "tmdb:57532",
       "type": "series",
       "name": "La Patrulla Canina",
@@ -167,6 +153,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
+    },
+    {
+      "id": "tmdb:44006",
+      "type": "series",
+      "name": "Chicago Fire",
+      "ids": {
+        "tmdb": 44006
+      },
+      "overview": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, la Ambulancia 61 y la Patrulla 25.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6O5t5IPR2dzt2SD5bMIRBlSylpB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5tJOYLdSHtS3B7uFTJ4RG9OYG.png"
     },
     {
       "id": "tmdb:80748",
@@ -225,20 +225,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gk8BeMlC1ESfbNckbmYUtOUpwGF.png"
     },
     {
-      "id": "tmdb:62650",
-      "type": "series",
-      "name": "Chicago Med",
-      "ids": {
-        "tmdb": 62650
-      },
-      "overview": "Chicago Med se describe como \"un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo de valientes médicos que lo mantiene unido.\" La serie hace frente a casos inspirados por acontecimientos de la actualidad, además de entrelazar con los personajes de Chicago Fire y Chicago P.D.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qUtrMIFYfN9ovDskerlKiSGNGCQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png"
-    },
-    {
       "id": "tmdb:58841",
       "type": "series",
       "name": "Chicago P.D.",
@@ -251,6 +237,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pldLJHZfQGUlyT7DKdOWj4oi6Vw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png"
+    },
+    {
+      "id": "tmdb:62650",
+      "type": "series",
+      "name": "Chicago Med",
+      "ids": {
+        "tmdb": 62650
+      },
+      "overview": "Chicago Med se describe como \"un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo de valientes médicos que lo mantiene unido.\" La serie hace frente a casos inspirados por acontecimientos de la actualidad, además de entrelazar con los personajes de Chicago Fire y Chicago P.D.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qUtrMIFYfN9ovDskerlKiSGNGCQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iKt7zZRZJcd1DQxVzPMUH1Wcphn.png"
     },
     {
       "id": "tmdb:873",
@@ -267,18 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8KvmDUZrkSsT8Yz1mSHcCzdY33p.png"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:484",
       "type": "series",
-      "name": "Marshals: Una historia de Yellowstone",
+      "name": "Se ha escrito un crimen",
       "ids": {
-        "tmdb": 290856
+        "tmdb": 484
       },
-      "overview": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "overview": "Tras la muerte de su marido, Jessica Fletcher (Angela Lansbury), una profesora de inglés, empieza a escribir novelas de misterio y, además, a resolver numerosos casos de asesinato, gran parte de ellos ocurridos en Cabot Cove, lugar de residencia de la protagonista. Serie inspirada en el personaje de Miss Marple de Agatha Christie.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/jto8lXA6E6EpVqn91KYAyNS5wUZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vE8xuqXLNU5xptFT4QZz5gTk7FC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3AGTImytIOlu807c3VeJpdzIj9f.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8Qh3UOHe0kYmqkgfC7gpH88WQa2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pZ0ih7nmelVYyKT9HK0DKsmy0Vh.png"
     },
     {
       "id": "tmdb:290856",
