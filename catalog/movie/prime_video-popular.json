@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1613798",
+      "type": "movie",
+      "name": "Venganza",
+      "ids": {
+        "tmdb": 1613798
+      },
+      "overview": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qogXXwPSFzMjR005g0VHutqaHZ9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wYCyRC2UXyhzV1kDxfZVM3KlDqj.png"
+    },
+    {
       "id": "tmdb:1084577",
       "type": "movie",
       "name": "Balls Up: Con un par",
@@ -29,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/zcYAPlGkHtQHzeAeIW7GjZnm1ai.png"
     },
     {
-      "id": "tmdb:1613798",
-      "type": "movie",
-      "name": "Venganza",
-      "ids": {
-        "tmdb": 1613798
-      },
-      "overview": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qogXXwPSFzMjR005g0VHutqaHZ9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wYCyRC2UXyhzV1kDxfZVM3KlDqj.png"
-    },
-    {
       "id": "tmdb:1084187",
       "type": "movie",
       "name": "Pretty Lethal",
@@ -57,18 +57,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/38YQFSvzkvHjlm4SHGi6PM9nEmN.png"
     },
     {
-      "id": "tmdb:77338",
+      "id": "tmdb:848116",
       "type": "movie",
-      "name": "Intocable",
+      "name": "रॉकी और रानी की प्रेम कहानी",
       "ids": {
-        "tmdb": 77338
+        "tmdb": 848116
       },
-      "overview": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/edPWyHqknFuxFY3sdmC3LtJITWC.jpg",
+      "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/aiD8BLHo6iQ0pf2z7OfO2kGgQyu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iv2hHEZsrdtd9Eubz1IlppjJthE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pjoVCK0DxYnmmSbujguQOFPF1nJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1718Bj4tKmMyohRIuN9FfYwzPh5.jpg"
     },
     {
       "id": "tmdb:157336",
@@ -83,19 +82,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6l5jO0mFAHCD9DDYTvNfsRveuhv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
-    },
-    {
-      "id": "tmdb:848116",
-      "type": "movie",
-      "name": "रॉकी और रानी की प्रेम कहानी",
-      "ids": {
-        "tmdb": 848116
-      },
-      "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/aiD8BLHo6iQ0pf2z7OfO2kGgQyu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1718Bj4tKmMyohRIuN9FfYwzPh5.jpg"
     },
     {
       "id": "tmdb:1168190",
@@ -124,6 +110,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xGq2KsV3ioxucqSyIECEIPGxe10.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/z5s7nhm98yn2JkdIUVh1Z7Jx9sM.png"
+    },
+    {
+      "id": "tmdb:77338",
+      "type": "movie",
+      "name": "Intocable",
+      "ids": {
+        "tmdb": 77338
+      },
+      "overview": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/edPWyHqknFuxFY3sdmC3LtJITWC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iv2hHEZsrdtd9Eubz1IlppjJthE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pjoVCK0DxYnmmSbujguQOFPF1nJ.png"
     },
     {
       "id": "tmdb:1010581",
@@ -196,48 +196,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1kjEs8dAgF5Tem3cXjS7bHzoxop.png"
     },
     {
-      "id": "tmdb:120",
-      "type": "movie",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "ids": {
-        "tmdb": 120
-      },
-      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
-    },
-    {
-      "id": "tmdb:496243",
-      "type": "movie",
-      "name": "Parásitos",
-      "ids": {
-        "tmdb": 496243
-      },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-    },
-    {
-      "id": "tmdb:1156594",
-      "type": "movie",
-      "name": "Culpa nuestra",
-      "ids": {
-        "tmdb": 1156594
-      },
-      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8WhlNrtQdyUBnKrw5WBJnsDn1HE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
-    },
-    {
       "id": "tmdb:155",
       "type": "movie",
       "name": "El caballero oscuro",
@@ -252,46 +210,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
     },
     {
-      "id": "tmdb:372058",
+      "id": "tmdb:120",
       "type": "movie",
-      "name": "Your Name.",
+      "name": "El señor de los anillos: La comunidad del anillo",
       "ids": {
-        "tmdb": 372058
+        "tmdb": 120
       },
-      "overview": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/6qt4boe1IWfoffBF2P0QKOCSYUr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/625MVdz0Kbv1eBbHdfoBkFVf9B.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/j3cPRV8oivK8RGuv6qYKRc7CXTG.png"
-    },
-    {
-      "id": "tmdb:808",
-      "type": "movie",
-      "name": "Shrek",
-      "ids": {
-        "tmdb": 808
-      },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
       "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
-      "id": "tmdb:346364",
-      "type": "movie",
-      "name": "It (Eso)",
-      "ids": {
-        "tmdb": 346364
-      },
-      "overview": "Remake del clásico de Stephen King en el que un payaso aterroriza a los niños de un vecindario. En un pequeño pueblo de Maine, siete niños conocidos como el Club de los Perdedores se encuentran cara a cara con problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8E0WtqLYZyIfS3nuKnGYGi19x5m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rR1a56IWF4dfEFJHhuYb8LYV9YJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
     },
     {
       "id": "tmdb:122",
@@ -308,60 +238,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
     },
     {
-      "id": "tmdb:346698",
+      "id": "tmdb:496243",
       "type": "movie",
-      "name": "Barbie",
+      "name": "Parásitos",
       "ids": {
-        "tmdb": 346698
+        "tmdb": 496243
       },
-      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
-    },
-    {
-      "id": "tmdb:438631",
-      "type": "movie",
-      "name": "Dune",
-      "ids": {
-        "tmdb": 438631
-      },
-      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
-    },
-    {
-      "id": "tmdb:564",
-      "type": "movie",
-      "name": "La momia",
-      "ids": {
-        "tmdb": 564
-      },
-      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
-    },
-    {
-      "id": "tmdb:105",
-      "type": "movie",
-      "name": "Regreso al futuro",
-      "ids": {
-        "tmdb": 105
-      },
-      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
       "id": "tmdb:569094",
@@ -378,32 +266,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
     },
     {
-      "id": "tmdb:541671",
+      "id": "tmdb:1156594",
       "type": "movie",
-      "name": "Ballerina",
+      "name": "Culpa nuestra",
       "ids": {
-        "tmdb": 541671
+        "tmdb": 1156594
       },
-      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+      "overview": "La boda de Jenna y Lion propicia el tan deseado reencuentro entre Noah y Nick tiempo después de su ruptura. La incapacidad de Nick para perdonar a Noah se alza como una barrera insalvable. Él, heredero de las empresas de su abuelo y ella, empezando su vida laboral, se resisten a alimentar una llama que aún sigue viva. Pero una vez que sus caminos se han vuelto a cruzar, ¿será el amor más fuerte que el rencor? Secuela de \"Culpa tuya\".",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1B7CXnNQbIqPMvYAZrvwEv9563R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8WhlNrtQdyUBnKrw5WBJnsDn1HE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
     },
     {
-      "id": "tmdb:106646",
+      "id": "tmdb:564",
       "type": "movie",
-      "name": "El lobo de Wall Street",
+      "name": "La momia",
       "ids": {
-        "tmdb": 106646
+        "tmdb": 564
       },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
+    },
+    {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:121",
@@ -420,46 +322,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
     },
     {
-      "id": "tmdb:652",
+      "id": "tmdb:372058",
       "type": "movie",
-      "name": "Troya",
+      "name": "Your Name.",
       "ids": {
-        "tmdb": 652
+        "tmdb": 372058
       },
-      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "overview": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/6qt4boe1IWfoffBF2P0QKOCSYUr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/625MVdz0Kbv1eBbHdfoBkFVf9B.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/j3cPRV8oivK8RGuv6qYKRc7CXTG.png"
     },
     {
-      "id": "tmdb:8966",
+      "id": "tmdb:346698",
       "type": "movie",
-      "name": "Crepúsculo",
+      "name": "Barbie",
       "ids": {
-        "tmdb": 8966
+        "tmdb": 346698
       },
-      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
-      "id": "tmdb:76341",
+      "id": "tmdb:1197306",
       "type": "movie",
-      "name": "Mad Max: Furia en la carretera",
+      "name": "A Working Man",
       "ids": {
-        "tmdb": 76341
+        "tmdb": 1197306
       },
-      "overview": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una 'guerra de la carretera' de altas revoluciones.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/fnY0VRsb31A5RLVCBjuR6EFUlo2.jpg",
+      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vYZQ1mGofAQBLSG3FCmv9e00e6y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4YdkDF2Topc44pVKdClyeXZEqBg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uz3PYuJFmLn01uVaIlWdzk6sWtC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
     },
     {
       "id": "tmdb:769",
@@ -476,102 +378,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
     },
     {
-      "id": "tmdb:11324",
+      "id": "tmdb:106646",
       "type": "movie",
-      "name": "Shutter Island",
+      "name": "El lobo de Wall Street",
       "ids": {
-        "tmdb": 11324
+        "tmdb": 106646
       },
-      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/56utveUWJwmG12YU7c2zKw6pbRZ.jpg",
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
-      "id": "tmdb:524047",
+      "id": "tmdb:105",
       "type": "movie",
-      "name": "Greenland: El último refugio",
+      "name": "Regreso al futuro",
       "ids": {
-        "tmdb": 524047
+        "tmdb": 105
       },
-      "overview": "Cuando el mundo es consciente de que el asteroide más grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podrán sobrevivir en refugios secretos. Esta decisión desata un caos a nivel mundial. Muchos tendrán que emprender un peligroso viaje donde se enfrentarán a los más imponentes peligros de la naturaleza, lo que les obligará a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/9iFkwShRf5M29yLABAdsEZyr9w6.jpg",
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sxfI3wRSzoeI7P2rpmkCeBAMuvo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nMiRDc3gdZNwnQ1WVUUcF1c8Bti.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
     },
     {
-      "id": "tmdb:259694",
+      "id": "tmdb:438631",
       "type": "movie",
-      "name": "Mejor... solteras",
+      "name": "Dune",
       "ids": {
-        "tmdb": 259694
+        "tmdb": 438631
       },
-      "overview": "Hay muchas formas de ser soltero, pero la de Alice, Robin, Lucy, Meg, Tom y David es especial. Nueva York es una ciudad llena de corazones solitarios que buscan a su media naranja. Y en cualquier lugar, entre conversaciones sugerentes y ligues de una noche, lo que estos solteros tienen en común es la necesidad de saber cómo ser solteros en un mundo donde el amor está en continua evolución.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/kqt1Cr0apmqR1uYXGlblArCKSR3.jpg",
+      "overview": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3Vo9OLVnJ1CI9iZdiBAWdsf9DKr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rwamMqEKVpIsNA7qZsbZo5DgUKt.png"
-    },
-    {
-      "id": "tmdb:560016",
-      "type": "movie",
-      "name": "Monkey Man",
-      "ids": {
-        "tmdb": 560016
-      },
-      "overview": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6sL2hujZdc9ZlxK8rpuIj2RNwPE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dOluu6aI5v4XsbMLlQdCGVG7EDT.png"
-    },
-    {
-      "id": "tmdb:297802",
-      "type": "movie",
-      "name": "Aquaman",
-      "ids": {
-        "tmdb": 297802
-      },
-      "overview": "Arthur Curry, también conocido como Aquaman, es un habitante de un poderoso reino subacuático que recibe el nombre de la Atlántida. En esta película repleta de acción, aventura, e incluso partes de terror, conoceremos sus orígenes, desde que era un niño criado por un hombre humano y considerado un paria por los suyos, hasta que crece y debe hacer frente a los problemas que han aparecido en su mundo. Entonces, este hombre mitad humano y mitad atlante, emprenderá el viaje de su vida, en el que tendrá que descubrir quién es realmente y si es digno de ser un rey. Acompañado de Mera, hará frente a este y otros retos, mientras le planta cara a Black Manta y a su propio hermanastro Orm. ¿Será capaz de dirigir a su pueblo y convertirse en un héroe para el mundo?",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/yTzr6Nc4RcTXVw9SsWQNJdcjTz5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/85gpZHaYZQm9vQyOC9iCiqSdY83.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9iY6EaEXo0f7aIoaw1YqKf185pq.png"
-    },
-    {
-      "id": "tmdb:324786",
-      "type": "movie",
-      "name": "Hasta el último hombre",
-      "ids": {
-        "tmdb": 324786
-      },
-      "overview": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gQzf1YLUicwHyXyjYNMtk44VjgO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xxucMCBH6h3iJ0Jc8JtVFNnen65.png"
-    },
-    {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
     },
     {
       "id": "tmdb:1314786",
@@ -588,6 +434,160 @@
       "logo": "https://image.tmdb.org/t/p/w500/praBUUDcElAXUMOY94bqYvoO5Zo.png"
     },
     {
+      "id": "tmdb:524047",
+      "type": "movie",
+      "name": "Greenland: El último refugio",
+      "ids": {
+        "tmdb": 524047
+      },
+      "overview": "Cuando el mundo es consciente de que el asteroide más grande de la historia va a impactar en la Tierra y aniquilar todo rastro de vida, los gobiernos de todo el mundo realizan un sorteo en el cual los afortunados podrán sobrevivir en refugios secretos. Esta decisión desata un caos a nivel mundial. Muchos tendrán que emprender un peligroso viaje donde se enfrentarán a los más imponentes peligros de la naturaleza, lo que les obligará a encontrar la manera de mantenerse unidos mientras encuentran la forma de sobrevivir.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/9iFkwShRf5M29yLABAdsEZyr9w6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sxfI3wRSzoeI7P2rpmkCeBAMuvo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nMiRDc3gdZNwnQ1WVUUcF1c8Bti.png"
+    },
+    {
+      "id": "tmdb:346364",
+      "type": "movie",
+      "name": "It (Eso)",
+      "ids": {
+        "tmdb": 346364
+      },
+      "overview": "Remake del clásico de Stephen King en el que un payaso aterroriza a los niños de un vecindario. En un pequeño pueblo de Maine, siete niños conocidos como el Club de los Perdedores se encuentran cara a cara con problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8E0WtqLYZyIfS3nuKnGYGi19x5m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rR1a56IWF4dfEFJHhuYb8LYV9YJ.png"
+    },
+    {
+      "id": "tmdb:541671",
+      "type": "movie",
+      "name": "Ballerina",
+      "ids": {
+        "tmdb": 541671
+      },
+      "overview": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1B7CXnNQbIqPMvYAZrvwEv9563R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
+    },
+    {
+      "id": "tmdb:210577",
+      "type": "movie",
+      "name": "Perdida",
+      "ids": {
+        "tmdb": 210577
+      },
+      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cmUngRhFmFPnBfRDPvTD5HYfxeh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4SQBPeL24vtjmviI8j0r0uH5FYl.png"
+    },
+    {
+      "id": "tmdb:8966",
+      "type": "movie",
+      "name": "Crepúsculo",
+      "ids": {
+        "tmdb": 8966
+      },
+      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
+    },
+    {
+      "id": "tmdb:11324",
+      "type": "movie",
+      "name": "Shutter Island",
+      "ids": {
+        "tmdb": 11324
+      },
+      "overview": "Verano de 1954. Los agentes judiciales Teddy Daniels y Chuck Aule son destinados a una remota isla del puerto de Boston para investigar la desaparición de una peligrosa asesina recluida en el hospital psiquiátrico Ashecliffe, un centro penitenciario para criminales perturbados dirigido por el siniestro doctor John Cawley. Pronto descubrirán que el centro guarda muchos secretos, y que la isla esconde algo más peligroso que los pacientes.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/56utveUWJwmG12YU7c2zKw6pbRZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
+    },
+    {
+      "id": "tmdb:652",
+      "type": "movie",
+      "name": "Troya",
+      "ids": {
+        "tmdb": 652
+      },
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+    },
+    {
+      "id": "tmdb:560016",
+      "type": "movie",
+      "name": "Monkey Man",
+      "ids": {
+        "tmdb": 560016
+      },
+      "overview": "Kid (Dev Patel) es un delincuente que acaba de salir de prisión y vive en la India, intentando adaptarse a un mundo marcado por la avaricia y carente de valores espirituales. Allí luchará por buscar venganza por la muerte de su madre y defender a las clases más desfavorecidas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6sL2hujZdc9ZlxK8rpuIj2RNwPE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dOluu6aI5v4XsbMLlQdCGVG7EDT.png"
+    },
+    {
+      "id": "tmdb:76341",
+      "type": "movie",
+      "name": "Mad Max: Furia en la carretera",
+      "ids": {
+        "tmdb": 76341
+      },
+      "overview": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una 'guerra de la carretera' de altas revoluciones.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/fnY0VRsb31A5RLVCBjuR6EFUlo2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vYZQ1mGofAQBLSG3FCmv9e00e6y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4YdkDF2Topc44pVKdClyeXZEqBg.png"
+    },
+    {
+      "id": "tmdb:259694",
+      "type": "movie",
+      "name": "Mejor... solteras",
+      "ids": {
+        "tmdb": 259694
+      },
+      "overview": "Hay muchas formas de ser soltero, pero la de Alice, Robin, Lucy, Meg, Tom y David es especial. Nueva York es una ciudad llena de corazones solitarios que buscan a su media naranja. Y en cualquier lugar, entre conversaciones sugerentes y ligues de una noche, lo que estos solteros tienen en común es la necesidad de saber cómo ser solteros en un mundo donde el amor está en continua evolución.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/kqt1Cr0apmqR1uYXGlblArCKSR3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3Vo9OLVnJ1CI9iZdiBAWdsf9DKr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rwamMqEKVpIsNA7qZsbZo5DgUKt.png"
+    },
+    {
+      "id": "tmdb:324786",
+      "type": "movie",
+      "name": "Hasta el último hombre",
+      "ids": {
+        "tmdb": 324786
+      },
+      "overview": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gQzf1YLUicwHyXyjYNMtk44VjgO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xxucMCBH6h3iJ0Jc8JtVFNnen65.png"
+    },
+    {
       "id": "tmdb:98",
       "type": "movie",
       "name": "Gladiator",
@@ -602,6 +602,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
+      "id": "tmdb:475557",
+      "type": "movie",
+      "name": "Joker",
+      "ids": {
+        "tmdb": 475557
+      },
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
+    },
+    {
+      "id": "tmdb:1156593",
+      "type": "movie",
+      "name": "Culpa tuya",
+      "ids": {
+        "tmdb": 1156593
+      },
+      "overview": "El amor entre Noah y Nick parece inquebrantable, a pesar de las maniobras de sus padres por separarles. Pero el trabajo de él y la entrada de ella en la universidad, abre sus vidas a nuevas relaciones. La aparición de una exnovia que busca venganza y de la madre Nick con intenciones poco claras, removerán los cimientos no solo de su relación, sino de la propia familia Leister. Cuando tantas personas están dispuestas a destruir una relación, ¿puede realmente acabar bien?",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2wN6xbmMPFVqnhQkoxNBTB5djFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tXYv8Q4pf2xuRaX5OrmH8d9AUK2.png"
+    },
+    {
       "id": "tmdb:412117",
       "type": "movie",
       "name": "Mascotas 2",
@@ -614,6 +642,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/vgMsWgmnCt7HCel6tvPqFfiFPvE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zeNPo8yAdu8RV7GZuvcwnALZ7FO.png"
+    },
+    {
+      "id": "tmdb:603692",
+      "type": "movie",
+      "name": "John Wick 4",
+      "ids": {
+        "tmdb": 603692
+      },
+      "overview": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/22hi4n6EL8VTW52PrL5G6CZil9m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q7EtVuIqlDIjn3IEpXeq9sF6wDp.png"
+    },
+    {
+      "id": "tmdb:297802",
+      "type": "movie",
+      "name": "Aquaman",
+      "ids": {
+        "tmdb": 297802
+      },
+      "overview": "Arthur Curry, también conocido como Aquaman, es un habitante de un poderoso reino subacuático que recibe el nombre de la Atlántida. En esta película repleta de acción, aventura, e incluso partes de terror, conoceremos sus orígenes, desde que era un niño criado por un hombre humano y considerado un paria por los suyos, hasta que crece y debe hacer frente a los problemas que han aparecido en su mundo. Entonces, este hombre mitad humano y mitad atlante, emprenderá el viaje de su vida, en el que tendrá que descubrir quién es realmente y si es digno de ser un rey. Acompañado de Mera, hará frente a este y otros retos, mientras le planta cara a Black Manta y a su propio hermanastro Orm. ¿Será capaz de dirigir a su pueblo y convertirse en un héroe para el mundo?",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/yTzr6Nc4RcTXVw9SsWQNJdcjTz5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/85gpZHaYZQm9vQyOC9iCiqSdY83.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9iY6EaEXo0f7aIoaw1YqKf185pq.png"
     },
     {
       "id": "tmdb:359410",
@@ -642,62 +698,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/AdGf9iVmwI8QLGOk7SxNVu0Bqb5.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/J7vIMfYlrTepIGhUX4IrniPyxU.png"
-    },
-    {
-      "id": "tmdb:1197306",
-      "type": "movie",
-      "name": "A Working Man",
-      "ids": {
-        "tmdb": 1197306
-      },
-      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uz3PYuJFmLn01uVaIlWdzk6sWtC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
-    },
-    {
-      "id": "tmdb:949",
-      "type": "movie",
-      "name": "Heat",
-      "ids": {
-        "tmdb": 949
-      },
-      "overview": "Neil McCauley es un experto ladrón. Su filosofía consiste en vivir sin ataduras que puedan constituir un obstáculo, si las cosas se complican. Su banda la forman criminales profesionales tan cualificados que pueden impresionar incluso al detective Vincent Hanna. Pero Hannah vive tan obsesionado con su trabajo que llega incluso a poner en peligro su relación sentimental. Cuando la banda de McCauley prepara el golpe definitivo y el equipo de Hannah intenta evitarlo, cada uno de ellos comprende que tiene que vérselas con una de las mentes más brillantes a la que se ha enfrentado en su carrera.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/kRfh1NCkDXGFrWzL6zDmVnHjRKh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7AWZKrgFuLreAKt4ccpHVd3bntm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfd1ahFR6bbTE1M91h3o2gUsiYL.png"
-    },
-    {
-      "id": "tmdb:9769",
-      "type": "movie",
-      "name": "Lolita",
-      "ids": {
-        "tmdb": 9769
-      },
-      "overview": "Humbert es un europeo culto, brillante y atractivo que se instala en una ciudad de Nueva Inglaterra como profesor. Una vez allí, se hospeda en casa de Charlotte, una voluptuosa viuda, que ve en Humbert la encarnación de sus fantasías provincianas. Pero Humbert oculta una herida envenenada: el recuerdo de un frustrado amor de adolescencia. Por eso, Lolita, la hija de Charlotte, se le aparece a Humbert como la materialización de sus sueños.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/3nTCYIR9kwBDAnbjNlf6IHMEHry.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kYZbdtV7JKYjyCwFzh3ocoGnLnk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tzlgvs6dXNjk91U96PnVQzHf7A1.png"
-    },
-    {
-      "id": "tmdb:16869",
-      "type": "movie",
-      "name": "Malditos bastardos",
-      "ids": {
-        "tmdb": 16869
-      },
-      "overview": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/zO4RPoYUv8S0na2K1Sff9wU3Sg2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t4pXMqWkYQdwSNS0V5UT6XX6goI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
     }
   ]
 }

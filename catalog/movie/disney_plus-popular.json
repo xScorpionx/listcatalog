@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:350",
+      "type": "movie",
+      "name": "El diablo viste de Prada",
+      "ids": {
+        "tmdb": 350
+      },
+      "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tEvlqan8VA6AP31ff9aUBvkFHTF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mMxqmZ4ECbhDaRhw3WjR5hopAYb.png"
+    },
+    {
       "id": "tmdb:1084242",
       "type": "movie",
       "name": "Zootrópolis 2",
@@ -27,20 +41,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
-    },
-    {
-      "id": "tmdb:350",
-      "type": "movie",
-      "name": "El diablo viste de Prada",
-      "ids": {
-        "tmdb": 350
-      },
-      "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tEvlqan8VA6AP31ff9aUBvkFHTF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mMxqmZ4ECbhDaRhw3WjR5hopAYb.png"
     },
     {
       "id": "tmdb:1115544",
@@ -113,34 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
     },
     {
-      "id": "tmdb:50619",
-      "type": "movie",
-      "name": "La saga Crepúsculo: Amanecer - Parte 1",
-      "ids": {
-        "tmdb": 50619
-      },
-      "overview": "El amor que Edward y Bella sienten el uno por el otro se sella con la celebración de una gran ceremonia organizada por Alice. Durante la luna de miel, los recién casados tienen relaciones sexuales y Bella queda embarazada. El rápido crecimiento del feto, mitad humano mitad vampiro, afecta gravemente a su salud, llevándola al borde de la muerte...",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4I3pzP8b9WfsWSe3mdV5uc9oczx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dhosnEsATRj6vc487J236NNiIai.png"
-    },
-    {
-      "id": "tmdb:19995",
-      "type": "movie",
-      "name": "Avatar",
-      "ids": {
-        "tmdb": 19995
-      },
-      "overview": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Antz70VlRI2yU3iwYxyYUknzfz9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bET8bJdM8diTCpUVilWqqu0M3EJ.png"
-    },
-    {
       "id": "tmdb:181808",
       "type": "movie",
       "name": "Star Wars: Los últimos Jedi",
@@ -155,18 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/dNnb4KXe3NRKM3I4b5V58T03YHR.png"
     },
     {
-      "id": "tmdb:533535",
+      "id": "tmdb:50619",
       "type": "movie",
-      "name": "Deadpool y Lobezno",
+      "name": "La saga Crepúsculo: Amanecer - Parte 1",
       "ids": {
-        "tmdb": 533535
+        "tmdb": 50619
       },
-      "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+      "overview": "El amor que Edward y Bella sienten el uno por el otro se sella con la celebración de una gran ceremonia organizada por Alice. Durante la luna de miel, los recién casados tienen relaciones sexuales y Bella queda embarazada. El rápido crecimiento del feto, mitad humano mitad vampiro, afecta gravemente a su salud, llevándola al borde de la muerte...",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A1OvvfGOyq2NwPYUDpykkN3IZOk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8tM2mDr1dj7eaXYrMdLlop3wypw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4I3pzP8b9WfsWSe3mdV5uc9oczx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dhosnEsATRj6vc487J236NNiIai.png"
     },
     {
       "id": "tmdb:597",
@@ -183,6 +155,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png"
     },
     {
+      "id": "tmdb:19995",
+      "type": "movie",
+      "name": "Avatar",
+      "ids": {
+        "tmdb": 19995
+      },
+      "overview": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Antz70VlRI2yU3iwYxyYUknzfz9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bET8bJdM8diTCpUVilWqqu0M3EJ.png"
+    },
+    {
+      "id": "tmdb:533535",
+      "type": "movie",
+      "name": "Deadpool y Lobezno",
+      "ids": {
+        "tmdb": 533535
+      },
+      "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A1OvvfGOyq2NwPYUDpykkN3IZOk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8tM2mDr1dj7eaXYrMdLlop3wypw.png"
+    },
+    {
       "id": "tmdb:567609",
       "type": "movie",
       "name": "Noche de bodas",
@@ -197,32 +197,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/5zwhybC4AO34V6MhWjNlulwjlXW.png"
     },
     {
-      "id": "tmdb:324857",
+      "id": "tmdb:76600",
       "type": "movie",
-      "name": "Spider-Man: un nuevo universo",
+      "name": "Avatar: El sentido del agua",
       "ids": {
-        "tmdb": 324857
+        "tmdb": 76600
       },
-      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+      "overview": "Más de una década después de los acontecimientos de 'Avatar', los Na'vi Jake Sully, Neytiri y sus hijos viven en paz en los bosques de Pandora hasta que regresan los hombres del cielo. Entonces comienzan los problemas que persiguen sin descanso a la familia Sully, que decide hacer un gran sacrificio para mantener a su pueblo a salvo y seguir ellos con vida.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cCZ26gWTDyLadOmcFjug72jEo8H.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zywwkL2P43ddZWZnH8E0SRICl5W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gUnPGTrgaip4dKd9W2e3WDXbhnF.png"
     },
     {
-      "id": "tmdb:315635",
+      "id": "tmdb:348",
       "type": "movie",
-      "name": "Spider-Man: Homecoming",
+      "name": "Alien, el octavo pasajero",
       "ids": {
-        "tmdb": 315635
+        "tmdb": 348
       },
-      "overview": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/81qIJbnS2L0rUAAB55G8CZODpS5.jpg",
+      "overview": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/guXJFtenFFN702yzcE0x36IjdpT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1AE40jRvQpvQczbgq0P0LkVZgBi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png"
     },
     {
       "id": "tmdb:1241982",
@@ -237,6 +237,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/lQy8AeqG39WtlVTFKRd9OpWkKxP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png"
+    },
+    {
+      "id": "tmdb:324857",
+      "type": "movie",
+      "name": "Spider-Man: un nuevo universo",
+      "ids": {
+        "tmdb": 324857
+      },
+      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cCZ26gWTDyLadOmcFjug72jEo8H.png"
     },
     {
       "id": "tmdb:1493859",
@@ -267,130 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/e7jxjQ7zFnCaTSMuZGlMXmmrmA1.png"
     },
     {
-      "id": "tmdb:1015606",
+      "id": "tmdb:315635",
       "type": "movie",
-      "name": "Obi-Wan Kenobi: El retorno del Jedi",
+      "name": "Spider-Man: Homecoming",
       "ids": {
-        "tmdb": 1015606
+        "tmdb": 315635
       },
-      "overview": "\"Este especial explora el regreso de Obi-Wan Kenobi y Anakin Skywalker a la pantalla, así como de Ewan McGregor y Hayden Christensen a sus ya clásicos papeles. La directora Deborah Chow se pone al frente del elenco y del equipo para crear nuevos héroes y villanos, que coexisten con las nuevas reencarnaciones de algunos personajes muy queridos de \"\"Star Wars\"\", y para narrar una épica aventura que entronca con las películas de la saga.\"",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/c0sIhCySZLmBm8cjk961Qx4pbeZ.jpg",
+      "overview": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/81qIJbnS2L0rUAAB55G8CZODpS5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xFGCain4MgimoMtbDHuQuLKMwsu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wSe0DhWtY5LQoEIc4GaZS1q4tkx.png"
-    },
-    {
-      "id": "tmdb:617126",
-      "type": "movie",
-      "name": "Los Cuatro Fantásticos: Primeros pasos",
-      "ids": {
-        "tmdb": 617126
-      },
-      "overview": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2etB3gzSGKTdCmEEIoaChdiN081.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zNJ0SoPc4ReFx8nrBLgbisNaNbx.png"
-    },
-    {
-      "id": "tmdb:1022789",
-      "type": "movie",
-      "name": "Del revés 2 (Inside Out 2)",
-      "ids": {
-        "tmdb": 1022789
-      },
-      "overview": "Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos...) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kP672BfrcvUwGVvf5l0vtfOJaV0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2pThxAbwd3L1XQ5LpHxWmADXzTx.png"
-    },
-    {
-      "id": "tmdb:76600",
-      "type": "movie",
-      "name": "Avatar: El sentido del agua",
-      "ids": {
-        "tmdb": 76600
-      },
-      "overview": "Más de una década después de los acontecimientos de 'Avatar', los Na'vi Jake Sully, Neytiri y sus hijos viven en paz en los bosques de Pandora hasta que regresan los hombres del cielo. Entonces comienzan los problemas que persiguen sin descanso a la familia Sully, que decide hacer un gran sacrificio para mantener a su pueblo a salvo y seguir ellos con vida.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zywwkL2P43ddZWZnH8E0SRICl5W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gUnPGTrgaip4dKd9W2e3WDXbhnF.png"
-    },
-    {
-      "id": "tmdb:550",
-      "type": "movie",
-      "name": "El club de la lucha",
-      "ids": {
-        "tmdb": 550
-      },
-      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
-    },
-    {
-      "id": "tmdb:585",
-      "type": "movie",
-      "name": "Monstruos, S.A.",
-      "ids": {
-        "tmdb": 585
-      },
-      "overview": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AjXCJ8VGSdhQdLmHzKH2VTNnJmv.png"
-    },
-    {
-      "id": "tmdb:508947",
-      "type": "movie",
-      "name": "Red",
-      "ids": {
-        "tmdb": 508947
-      },
-      "overview": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yFghsnpKOcTsi7M8xkzJcHmd1Jz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w0xaUJK54cuPxm6hq5lsGCwqtXo.png"
-    },
-    {
-      "id": "tmdb:269149",
-      "type": "movie",
-      "name": "Zootrópolis",
-      "ids": {
-        "tmdb": 269149
-      },
-      "overview": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/kyiEmCk6mOenJiL7s3LspVKkoZM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r1kLM949LMK1HTwnPPJvX7FErrN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9XlMtEIoauZ546QVgPsA54t4P9D.png"
-    },
-    {
-      "id": "tmdb:862",
-      "type": "movie",
-      "name": "Toy Story",
-      "ids": {
-        "tmdb": 862
-      },
-      "overview": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/y59d8PjuFSgJJN4VRS7jDoRgSM9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j2EFHNmwqjzGjdcbtJ5TgO33h8O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/guXJFtenFFN702yzcE0x36IjdpT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1AE40jRvQpvQczbgq0P0LkVZgBi.png"
     },
     {
       "id": "tmdb:564",
@@ -407,228 +309,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
     },
     {
-      "id": "tmdb:105",
+      "id": "tmdb:1022789",
       "type": "movie",
-      "name": "Regreso al futuro",
+      "name": "Del revés 2 (Inside Out 2)",
       "ids": {
-        "tmdb": 105
+        "tmdb": 1022789
       },
-      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "overview": "Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos...) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kP672BfrcvUwGVvf5l0vtfOJaV0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2pThxAbwd3L1XQ5LpHxWmADXzTx.png"
     },
     {
-      "id": "tmdb:552524",
+      "id": "tmdb:1015606",
       "type": "movie",
-      "name": "Lilo y Stitch",
+      "name": "Obi-Wan Kenobi: El retorno del Jedi",
       "ids": {
-        "tmdb": 552524
+        "tmdb": 1015606
       },
-      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+      "overview": "\"Este especial explora el regreso de Obi-Wan Kenobi y Anakin Skywalker a la pantalla, así como de Ewan McGregor y Hayden Christensen a sus ya clásicos papeles. La directora Deborah Chow se pone al frente del elenco y del equipo para crear nuevos héroes y villanos, que coexisten con las nuevas reencarnaciones de algunos personajes muy queridos de \"\"Star Wars\"\", y para narrar una épica aventura que entronca con las películas de la saga.\"",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/c0sIhCySZLmBm8cjk961Qx4pbeZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xFGCain4MgimoMtbDHuQuLKMwsu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wSe0DhWtY5LQoEIc4GaZS1q4tkx.png"
+    },
+    {
+      "id": "tmdb:550",
+      "type": "movie",
+      "name": "El club de la lucha",
+      "ids": {
+        "tmdb": 550
+      },
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
+    },
+    {
+      "id": "tmdb:508947",
+      "type": "movie",
+      "name": "Red",
+      "ids": {
+        "tmdb": 508947
+      },
+      "overview": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yFghsnpKOcTsi7M8xkzJcHmd1Jz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w0xaUJK54cuPxm6hq5lsGCwqtXo.png"
+    },
+    {
+      "id": "tmdb:617126",
+      "type": "movie",
+      "name": "Los Cuatro Fantásticos: Primeros pasos",
+      "ids": {
+        "tmdb": 617126
+      },
+      "overview": "Con un mundo retrofuturista inspirado en los años 60 como telón de fondo, la Primera Familia de Marvel deberá hacer frente a su mayor desafío hasta la fecha. Obligados a buscar el equilibrio entre su papel de héroes y sus fuertes vínculos familiares, tendrán que defender la Tierra de un hambriento dios espacial llamado Galactus y su intrigante heraldo, Estela Plateada.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Aj0umGs0heNJ4VKtkaRQWeg6Tyx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png"
-    },
-    {
-      "id": "tmdb:102382",
-      "type": "movie",
-      "name": "The Amazing Spider-Man 2: El poder de Electro",
-      "ids": {
-        "tmdb": 102382
-      },
-      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sIWLVXQ23mzdzis7lsinEuZr2oP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
-    },
-    {
-      "id": "tmdb:11",
-      "type": "movie",
-      "name": "La guerra de las galaxias",
-      "ids": {
-        "tmdb": 11
-      },
-      "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
-      "year": 1977,
-      "poster": "https://image.tmdb.org/t/p/w342/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rOzHJtqy8qnzakP2nLDV6DEJwFL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9SVoSm09OVBRLtPU0z2zXcLvyuJ.png"
-    },
-    {
-      "id": "tmdb:429617",
-      "type": "movie",
-      "name": "Spider-Man: Lejos de casa",
-      "ids": {
-        "tmdb": 429617
-      },
-      "overview": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zXqDDiA52yIaR0Xp5LPUILnsex5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dIYnOm2XU982Ky3CMpcACoZor8F.png"
-    },
-    {
-      "id": "tmdb:533533",
-      "type": "movie",
-      "name": "TRON: Ares",
-      "ids": {
-        "tmdb": 533533
-      },
-      "overview": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/k0uyosqc5pxFjdyHcie91S3s6mM.png"
-    },
-    {
-      "id": "tmdb:109445",
-      "type": "movie",
-      "name": "Frozen: El reino del hielo",
-      "ids": {
-        "tmdb": 109445
-      },
-      "overview": "Cuando una profecía condena a un reino a un invierno eterno, Anna, una joven optimista se une a un temerario montañero llamado Kristoff y a su compinche el reno Sven. Juntos emprenden un viaje épico en busca de Elsa, hermana de Anna y reina de Las Nieves para poner fin al gélido hechizo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/65S65p4TLesCHRAWetEEriyipab.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/btBSMBV41VXBOfGVFnnQdM9Uflz.png"
-    },
-    {
-      "id": "tmdb:177572",
-      "type": "movie",
-      "name": "Big Hero 6",
-      "ids": {
-        "tmdb": 177572
-      },
-      "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hftvEFdU0Czar6W95vJbBH0t1Ue.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ganZhk94eaicQBcx3QGypDUT80I.png"
-    },
-    {
-      "id": "tmdb:337404",
-      "type": "movie",
-      "name": "Cruella",
-      "ids": {
-        "tmdb": 337404
-      },
-      "overview": "Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/LTOZB3N1kYA2Xu1lW114HFA1o8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rEWwUgWQz6QHRiUqflBgYrIJHeb.png"
-    },
-    {
-      "id": "tmdb:8966",
-      "type": "movie",
-      "name": "Crepúsculo",
-      "ids": {
-        "tmdb": 8966
-      },
-      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
-    },
-    {
-      "id": "tmdb:156022",
-      "type": "movie",
-      "name": "The equalizer (El protector)",
-      "ids": {
-        "tmdb": 156022
-      },
-      "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/7tiub1UB4KF9zpacEldfbWAXDi6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wfIL5js414PISkX5YTGXqggdgyD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ycltUQC6QKlz23GPifEHK0dNEXd.png"
-    },
-    {
-      "id": "tmdb:68721",
-      "type": "movie",
-      "name": "Iron Man 3",
-      "ids": {
-        "tmdb": 68721
-      },
-      "overview": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rIUa56zPJ7RmkxvWAQGL8x86G6j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tKbLuG9R3rZsDbo40qLcxIXijhP.png"
-    },
-    {
-      "id": "tmdb:271110",
-      "type": "movie",
-      "name": "Capitán América: Civil War",
-      "ids": {
-        "tmdb": 271110
-      },
-      "overview": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ijwBABERc42YavLIbUdRsmFkLEh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1R8GF0PmmIVQyTQu7Czn03VHoUw.png"
-    },
-    {
-      "id": "tmdb:150540",
-      "type": "movie",
-      "name": "Del revés (Inside Out)",
-      "ids": {
-        "tmdb": 150540
-      },
-      "overview": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/71DtRC94gZy7k0pMJUrtGWbPtJV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7VPSEOjcicen7gQwdQsbMy5n3CG.png"
-    },
-    {
-      "id": "tmdb:58",
-      "type": "movie",
-      "name": "Piratas del Caribe: El cofre del hombre muerto",
-      "ids": {
-        "tmdb": 58
-      },
-      "overview": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pF9pKqIrh8eKEPLuoNpKgZZLS2m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xvGm4FFJs6IDChZp491IbFVNHEw.png"
-    },
-    {
-      "id": "tmdb:1930",
-      "type": "movie",
-      "name": "The Amazing Spider-Man",
-      "ids": {
-        "tmdb": 1930
-      },
-      "overview": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/4cw1Vpp68ec518BHiS6gfa3yDoU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/olNPix1vFgEg798uBpRAaMQMLs5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fr6n8dnbqokUhreICh5eIuSXyJW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2etB3gzSGKTdCmEEIoaChdiN081.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zNJ0SoPc4ReFx8nrBLgbisNaNbx.png"
     },
     {
       "id": "tmdb:8587",
@@ -645,18 +393,186 @@
       "logo": "https://image.tmdb.org/t/p/w500/oIjNoucWBbtwk4TcJfsP0kffur0.png"
     },
     {
-      "id": "tmdb:10681",
+      "id": "tmdb:862",
       "type": "movie",
-      "name": "WALL·E: Batallón de limpieza",
+      "name": "Toy Story",
       "ids": {
-        "tmdb": 10681
+        "tmdb": 862
       },
-      "overview": "En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajarán a lo largo de la galaxia y vivirán una emocionante e inolvidable aventura.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/5CXpoYB2YAZRPBcv9pjkgR6tZ0X.jpg",
+      "overview": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/y59d8PjuFSgJJN4VRS7jDoRgSM9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58igFU1NqVPQN9bYhMg6IeE6mi3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hYeoW9SW7EHzvAsA5HcVEJmNsuY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/j2EFHNmwqjzGjdcbtJ5TgO33h8O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png"
+    },
+    {
+      "id": "tmdb:11",
+      "type": "movie",
+      "name": "La guerra de las galaxias",
+      "ids": {
+        "tmdb": 11
+      },
+      "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+      "year": 1977,
+      "poster": "https://image.tmdb.org/t/p/w342/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rOzHJtqy8qnzakP2nLDV6DEJwFL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9SVoSm09OVBRLtPU0z2zXcLvyuJ.png"
+    },
+    {
+      "id": "tmdb:552524",
+      "type": "movie",
+      "name": "Lilo y Stitch",
+      "ids": {
+        "tmdb": 552524
+      },
+      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Aj0umGs0heNJ4VKtkaRQWeg6Tyx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "movie",
+      "name": "Regreso al futuro",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aYFwRXjiilOavzJ6r6dYv7Q4kUV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jFYEAKzR1lkd2fhxqd8hp8fhR6u.png"
+    },
+    {
+      "id": "tmdb:269149",
+      "type": "movie",
+      "name": "Zootrópolis",
+      "ids": {
+        "tmdb": 269149
+      },
+      "overview": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/kyiEmCk6mOenJiL7s3LspVKkoZM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r1kLM949LMK1HTwnPPJvX7FErrN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9XlMtEIoauZ546QVgPsA54t4P9D.png"
+    },
+    {
+      "id": "tmdb:585",
+      "type": "movie",
+      "name": "Monstruos, S.A.",
+      "ids": {
+        "tmdb": 585
+      },
+      "overview": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AjXCJ8VGSdhQdLmHzKH2VTNnJmv.png"
+    },
+    {
+      "id": "tmdb:156022",
+      "type": "movie",
+      "name": "The equalizer (El protector)",
+      "ids": {
+        "tmdb": 156022
+      },
+      "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/7tiub1UB4KF9zpacEldfbWAXDi6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wfIL5js414PISkX5YTGXqggdgyD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ycltUQC6QKlz23GPifEHK0dNEXd.png"
+    },
+    {
+      "id": "tmdb:102382",
+      "type": "movie",
+      "name": "The Amazing Spider-Man 2: El poder de Electro",
+      "ids": {
+        "tmdb": 102382
+      },
+      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sIWLVXQ23mzdzis7lsinEuZr2oP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
+    },
+    {
+      "id": "tmdb:533533",
+      "type": "movie",
+      "name": "TRON: Ares",
+      "ids": {
+        "tmdb": 533533
+      },
+      "overview": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/dz1PbMrkpVhURKtvv7w2Ib1iZDK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qY3MTxuYvAiuMZlVzQDvl1iI2Vr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k0uyosqc5pxFjdyHcie91S3s6mM.png"
+    },
+    {
+      "id": "tmdb:210577",
+      "type": "movie",
+      "name": "Perdida",
+      "ids": {
+        "tmdb": 210577
+      },
+      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cmUngRhFmFPnBfRDPvTD5HYfxeh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4SQBPeL24vtjmviI8j0r0uH5FYl.png"
+    },
+    {
+      "id": "tmdb:429617",
+      "type": "movie",
+      "name": "Spider-Man: Lejos de casa",
+      "ids": {
+        "tmdb": 429617
+      },
+      "overview": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zXqDDiA52yIaR0Xp5LPUILnsex5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dIYnOm2XU982Ky3CMpcACoZor8F.png"
+    },
+    {
+      "id": "tmdb:177572",
+      "type": "movie",
+      "name": "Big Hero 6",
+      "ids": {
+        "tmdb": 177572
+      },
+      "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hftvEFdU0Czar6W95vJbBH0t1Ue.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ganZhk94eaicQBcx3QGypDUT80I.png"
+    },
+    {
+      "id": "tmdb:8966",
+      "type": "movie",
+      "name": "Crepúsculo",
+      "ids": {
+        "tmdb": 8966
+      },
+      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
     },
     {
       "id": "tmdb:22",
@@ -673,18 +589,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/bgH4fgvP0nyw1BprzXmguT3an7v.png"
     },
     {
-      "id": "tmdb:207",
+      "id": "tmdb:58",
       "type": "movie",
-      "name": "El club de los poetas muertos",
+      "name": "Piratas del Caribe: El cofre del hombre muerto",
       "ids": {
-        "tmdb": 207
+        "tmdb": 58
       },
-      "overview": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "overview": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5hYntCZGK8rl2VY8TRPH9Txu44G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4QWNLscmn6T7jxlRFblQddBKEAu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pF9pKqIrh8eKEPLuoNpKgZZLS2m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xvGm4FFJs6IDChZp491IbFVNHEw.png"
+    },
+    {
+      "id": "tmdb:68721",
+      "type": "movie",
+      "name": "Iron Man 3",
+      "ids": {
+        "tmdb": 68721
+      },
+      "overview": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorralado, Stark tendrá que sobrevivir por sus propios medios, confiando en su ingenio y su instinto para proteger a las personas que quiere.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rIUa56zPJ7RmkxvWAQGL8x86G6j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tKbLuG9R3rZsDbo40qLcxIXijhP.png"
+    },
+    {
+      "id": "tmdb:766507",
+      "type": "movie",
+      "name": "Predator: La presa",
+      "ids": {
+        "tmdb": 766507
+      },
+      "overview": "Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9xB07GJyCKDGafs1etGL06DHb72.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bY4AIRuVi87Or6mXTuJAxBLVKUN.png"
     },
     {
       "id": "tmdb:99861",
@@ -699,6 +643,62 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kOkaGQEgAetMiPPhf5mYIherF75.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vGwih539oBuo4kYZSywx0t4pGze.png"
+    },
+    {
+      "id": "tmdb:207",
+      "type": "movie",
+      "name": "El club de los poetas muertos",
+      "ids": {
+        "tmdb": 207
+      },
+      "overview": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/vsLcmuk8KBN73spAIEwm1nLNSjc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5hYntCZGK8rl2VY8TRPH9Txu44G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4QWNLscmn6T7jxlRFblQddBKEAu.png"
+    },
+    {
+      "id": "tmdb:337404",
+      "type": "movie",
+      "name": "Cruella",
+      "ids": {
+        "tmdb": 337404
+      },
+      "overview": "Ambientada en el Londres de los años 70, en plena revolución del punk rock, muestra a una joven estafadora llamada Estella, una chica inteligente y creativa, decidida a convertirse en una exitosa diseñadora de moda, que se asocia con un par de ladrones para sobrevivir en las calles de la capital británica. Pero cuando su talento para la moda llama la atención de la legendaria diseñadora, la Baronesa von Hellman, Estella cambia el rumbo de su vida hasta que una serie de acontecimientos y revelaciones que harán que Estella asuma su lado malvado y se convierta en la estridente, moderna y vengativa Cruella de Vil.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/tNFBP5OTmKm7CTc5ptUwgmepd8G.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/LTOZB3N1kYA2Xu1lW114HFA1o8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rEWwUgWQz6QHRiUqflBgYrIJHeb.png"
+    },
+    {
+      "id": "tmdb:150540",
+      "type": "movie",
+      "name": "Del revés (Inside Out)",
+      "ids": {
+        "tmdb": 150540
+      },
+      "overview": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/71DtRC94gZy7k0pMJUrtGWbPtJV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7VPSEOjcicen7gQwdQsbMy5n3CG.png"
+    },
+    {
+      "id": "tmdb:762509",
+      "type": "movie",
+      "name": "Mufasa: El rey león",
+      "ids": {
+        "tmdb": 762509
+      },
+      "overview": "Rafiki debe transmitir la leyenda de Mufasa a la joven cachorro de león Kiara, hija de Simba y Nala, y con Timón y Pumba prestando su estilo característico. Mufasa, un cachorro huérfano, perdido y solo, conoce a un simpático león llamado Taka, heredero de un linaje real. Este encuentro casual pone en marcha un viaje de un extraordinario grupo de inadaptados que buscan su destino.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9TPE8OxQozui6weF2VM7WDGQ48t.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dA8P5sURCCNGNucmnrCRN6zSvij.png"
     }
   ]
 }
