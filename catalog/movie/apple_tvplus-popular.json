@@ -127,6 +127,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/6Msxrm9qADHvsVuGxA94dVM1sfD.png"
     },
     {
+      "id": "tmdb:466420",
+      "type": "movie",
+      "name": "Los asesinos de la luna",
+      "ids": {
+        "tmdb": 466420
+      },
+      "overview": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9DdXGyZRi8gOgWZLdJMyZm4lurl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wqFUSoev8k7XbfsG5eQq2YQwxxG.png"
+    },
+    {
       "id": "tmdb:1259102",
       "type": "movie",
       "name": "Eternity",
@@ -153,20 +167,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5yIoTNP7YjYKtw6wUZtzwx6jU0Y.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/joLGYc5gpmB3kNNlbUqRx0gmgs3.png"
-    },
-    {
-      "id": "tmdb:466420",
-      "type": "movie",
-      "name": "Los asesinos de la luna",
-      "ids": {
-        "tmdb": 466420
-      },
-      "overview": "Miembros de la tribu Osage de los Estados Unidos, son asesinados bajo misteriosas circunstancias en la década de 1920 provocando una importante investigación por el FBI involucrando a J. Edgar Hoover.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/731ydMfVJaIyR1bhFEeX7rubqGH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9DdXGyZRi8gOgWZLdJMyZm4lurl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wqFUSoev8k7XbfsG5eQq2YQwxxG.png"
     },
     {
       "id": "tmdb:516486",
@@ -211,18 +211,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/cDPvAwiRLT5FyzfTksSkgLnzzNu.png"
     },
     {
-      "id": "tmdb:522402",
+      "id": "tmdb:1242434",
       "type": "movie",
-      "name": "Finch",
+      "name": "Del cielo al infierno",
       "ids": {
-        "tmdb": 522402
+        "tmdb": 1242434
       },
-      "overview": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+      "overview": "Cuando un poderoso empresario musical es víctima de una extorsión, se ve obligado a luchar por su familia y su legado mientras afronta un dilema ético vital.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5M1iC2uytvC1cGwkJ2IyXr66SNx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A0BhEke9hapLDfjLIjzoM7GdpPH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/repUssnW4d6ITw0xiHBbp7RjRgj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ihqBUZMzJbceXNzKj13o8bqh6Uv.png"
+    },
+    {
+      "id": "tmdb:995133",
+      "type": "movie",
+      "name": "El niño, el topo, el zorro y el caballo",
+      "ids": {
+        "tmdb": 995133
+      },
+      "overview": "Sé testigo del improbable vínculo entre cuatro amigos mientras exploran el significado de la bondad, el valor y la esperanza.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/jfkVV2RrD5tXAy8P0JLl90ELS0S.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tg3jXg3q7NCQ3nnsn5h6MCdIqG0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6KJxFUZHSbye7xtrQ52FuZ0KBWA.png"
     },
     {
       "id": "tmdb:1098006",
@@ -237,6 +251,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/segrtlVoidhovxXVyElUXZM1Ing.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lhVV0UmTBOCXxP4PjIOFeXfnCik.png"
+    },
+    {
+      "id": "tmdb:522402",
+      "type": "movie",
+      "name": "Finch",
+      "ids": {
+        "tmdb": 522402
+      },
+      "overview": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5M1iC2uytvC1cGwkJ2IyXr66SNx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A0BhEke9hapLDfjLIjzoM7GdpPH.png"
+    },
+    {
+      "id": "tmdb:1236470",
+      "type": "movie",
+      "name": "Laberinto en llamas",
+      "ids": {
+        "tmdb": 1236470
+      },
+      "overview": "En uno de los incendios forestales más mortíferos de la historia de Estados Unidos que amenaza la ciudad de Paradise, Kevin McKay, un conductor de autobús escolar, y Mary Ludwig, una maestra infantil, luchan para salvar a 22 niños del aterrador infierno.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8n0kkUc4wKknqEJfq8eErWrvvUL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gEPhLwDi6MMSPxrVJ2PL8AzKmRY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mz3m9VaIicN2Ts2aT49IFm3T1WL.png"
     },
     {
       "id": "tmdb:458220",
@@ -267,46 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/6Ld7OWW3Z3pVfOXaOhpyf5ohyGY.png"
     },
     {
-      "id": "tmdb:1236470",
+      "id": "tmdb:1566269",
       "type": "movie",
-      "name": "Laberinto en llamas",
+      "name": "Ha llegado la nieve a Fraggle Rock",
       "ids": {
-        "tmdb": 1236470
+        "tmdb": 1566269
       },
-      "overview": "En uno de los incendios forestales más mortíferos de la historia de Estados Unidos que amenaza la ciudad de Paradise, Kevin McKay, un conductor de autobús escolar, y Mary Ludwig, una maestra infantil, luchan para salvar a 22 niños del aterrador infierno.",
+      "overview": "Cuando las fiestas se llenan de aventuras y retos inesperados, los Fraggle aprenden a valorar cada día por ser único y especial, como un copo de nieve.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8n0kkUc4wKknqEJfq8eErWrvvUL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/sa1EA8TI8IbHiaIyjC5DWJZHonP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gEPhLwDi6MMSPxrVJ2PL8AzKmRY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mz3m9VaIicN2Ts2aT49IFm3T1WL.png"
-    },
-    {
-      "id": "tmdb:995133",
-      "type": "movie",
-      "name": "El niño, el topo, el zorro y el caballo",
-      "ids": {
-        "tmdb": 995133
-      },
-      "overview": "Sé testigo del improbable vínculo entre cuatro amigos mientras exploran el significado de la bondad, el valor y la esperanza.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/jfkVV2RrD5tXAy8P0JLl90ELS0S.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tg3jXg3q7NCQ3nnsn5h6MCdIqG0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6KJxFUZHSbye7xtrQ52FuZ0KBWA.png"
-    },
-    {
-      "id": "tmdb:726759",
-      "type": "movie",
-      "name": "Tetris",
-      "ids": {
-        "tmdb": 726759
-      },
-      "overview": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eogyF8p0IHGkIDGJ2wMFtzUEabV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z5CXqzoH4N7WjsHHSq5pjSvDV1x.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/q1IjJWbooqr9k2yqB0LD9ugw2aF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b3lCYngMt7H1rvngi9FM8ahVFkx.png"
     },
     {
       "id": "tmdb:441130",
@@ -323,34 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1XjM98TpYMaSTIx74ufyVSokHAL.png"
     },
     {
-      "id": "tmdb:715931",
-      "type": "movie",
-      "name": "Hacia la libertad",
-      "ids": {
-        "tmdb": 715931
-      },
-      "overview": "Inspirada en la conmovedora historia real de un hombre dispuesto a cualquier cosa por su familia, y por la libertad. Cuando Peter, un hombre esclavizado, arriesga su vida por escapar y regresar con su familia, se embarca en una peligrosa travesía de amor y resiliencia.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/i189g3TK7XGxOoDqGNFF7eaqVKR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ucKpAFSnAUrJSXwEzZ6egL5Gq2Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7eCzQgiAaxVcEzpCAfwk75DNnzr.png"
-    },
-    {
-      "id": "tmdb:1242434",
-      "type": "movie",
-      "name": "Del cielo al infierno",
-      "ids": {
-        "tmdb": 1242434
-      },
-      "overview": "Cuando un poderoso empresario musical es víctima de una extorsión, se ve obligado a luchar por su familia y su legado mientras afronta un dilema ético vital.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/repUssnW4d6ITw0xiHBbp7RjRgj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ihqBUZMzJbceXNzKj13o8bqh6Uv.png"
-    },
-    {
       "id": "tmdb:654754",
       "type": "movie",
       "name": "Billie Eilish: The World's a Little Blurry",
@@ -365,18 +351,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/7nreKeMvKOV9enmOqumcFbI7gPe.png"
     },
     {
-      "id": "tmdb:1566269",
+      "id": "tmdb:726759",
       "type": "movie",
-      "name": "Ha llegado la nieve a Fraggle Rock",
+      "name": "Tetris",
       "ids": {
-        "tmdb": 1566269
+        "tmdb": 726759
       },
-      "overview": "Cuando las fiestas se llenan de aventuras y retos inesperados, los Fraggle aprenden a valorar cada día por ser único y especial, como un copo de nieve.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/sa1EA8TI8IbHiaIyjC5DWJZHonP.jpg",
+      "overview": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupción que hay detrás de la Cortina de Hierro.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qWZTrcZOIhWI4AkpferJFR5n5Ob.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q1IjJWbooqr9k2yqB0LD9ugw2aF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b3lCYngMt7H1rvngi9FM8ahVFkx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eogyF8p0IHGkIDGJ2wMFtzUEabV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z5CXqzoH4N7WjsHHSq5pjSvDV1x.png"
+    },
+    {
+      "id": "tmdb:715931",
+      "type": "movie",
+      "name": "Hacia la libertad",
+      "ids": {
+        "tmdb": 715931
+      },
+      "overview": "Inspirada en la conmovedora historia real de un hombre dispuesto a cualquier cosa por su familia, y por la libertad. Cuando Peter, un hombre esclavizado, arriesga su vida por escapar y regresar con su familia, se embarca en una peligrosa travesía de amor y resiliencia.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/i189g3TK7XGxOoDqGNFF7eaqVKR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ucKpAFSnAUrJSXwEzZ6egL5Gq2Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7eCzQgiAaxVcEzpCAfwk75DNnzr.png"
+    },
+    {
+      "id": "tmdb:627725",
+      "type": "movie",
+      "name": "El banquero",
+      "ids": {
+        "tmdb": 627725
+      },
+      "overview": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/emnMjKMgmFW1rGOwnzWlWRmONCt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png"
+    },
+    {
+      "id": "tmdb:632856",
+      "type": "movie",
+      "name": "El espíritu de la Navidad",
+      "ids": {
+        "tmdb": 632856
+      },
+      "overview": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ba5Wk6qEZxVyYeJo9kp0ediOYHx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y6CGyAqCfcK4OdUeZ5n2RCUP3LA.png"
     },
     {
       "id": "tmdb:1059064",
@@ -407,20 +435,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qfq2m9d7CmcsscLGBz5A24YRlcR.png"
     },
     {
-      "id": "tmdb:627725",
-      "type": "movie",
-      "name": "El banquero",
-      "ids": {
-        "tmdb": 627725
-      },
-      "overview": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/emnMjKMgmFW1rGOwnzWlWRmONCt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png"
-    },
-    {
       "id": "tmdb:597922",
       "type": "movie",
       "name": "Yo me encargo de la cerveza",
@@ -433,20 +447,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2m6kn2xsChYeuhCVNnAFPyCGXMb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vNTqJnZAjIilH78g7GR5zTVzSMR.svg"
-    },
-    {
-      "id": "tmdb:632856",
-      "type": "movie",
-      "name": "El espíritu de la Navidad",
-      "ids": {
-        "tmdb": 632856
-      },
-      "overview": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ba5Wk6qEZxVyYeJo9kp0ediOYHx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y6CGyAqCfcK4OdUeZ5n2RCUP3LA.png"
     },
     {
       "id": "tmdb:1097311",
@@ -491,6 +491,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/uxJhPejKnyrX9JCe7fNheK34SnA.png"
     },
     {
+      "id": "tmdb:595586",
+      "type": "movie",
+      "name": "Causeway",
+      "ids": {
+        "tmdb": 595586
+      },
+      "overview": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zHi5hTUd7gdTkB9U9Pe0NDHyp74.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZuFc88v2A4LWLP6ZRwUXUQGcFs.png"
+    },
+    {
       "id": "tmdb:814340",
       "type": "movie",
       "name": "Bailando por la vida",
@@ -503,20 +517,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ybmg1bD2w6lJuQ3zY8ag3avaWAe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ykLvtjNVuzXpNPXnJB0jHzaRSCw.png"
-    },
-    {
-      "id": "tmdb:591538",
-      "type": "movie",
-      "name": "La tragedia de Macbeth",
-      "ids": {
-        "tmdb": 591538
-      },
-      "overview": "Macbeth, recibe una profecía de un trío de brujas de que algún día se convertirá en rey de Escocia. Consumido por la ambición y empujado a la acción por su esposa, Macbeth asesina a su rey y toma el trono para él.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/d0vFvJ1x6pflLzam7rIRvoc24o9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r3s361qn8jvAO7kJAD9IwuejRYm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yyPjuDSI7kKj0KTZuhocHoMhj6P.svg"
     },
     {
       "id": "tmdb:896151",
@@ -533,6 +533,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/jDKrNo3xgqDmJNM49TMgkKJsKJi.png"
     },
     {
+      "id": "tmdb:591538",
+      "type": "movie",
+      "name": "La tragedia de Macbeth",
+      "ids": {
+        "tmdb": 591538
+      },
+      "overview": "Macbeth, recibe una profecía de un trío de brujas de que algún día se convertirá en rey de Escocia. Consumido por la ambición y empujado a la acción por su esposa, Macbeth asesina a su rey y toma el trono para él.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/d0vFvJ1x6pflLzam7rIRvoc24o9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r3s361qn8jvAO7kJAD9IwuejRYm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yyPjuDSI7kKj0KTZuhocHoMhj6P.svg"
+    },
+    {
       "id": "tmdb:717980",
       "type": "movie",
       "name": "Embaucadores",
@@ -547,18 +561,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/90s12h7Brr1iCDJCuoYgBG8EVro.png"
     },
     {
-      "id": "tmdb:790459",
+      "id": "tmdb:1059811",
       "type": "movie",
-      "name": "Esto va a doler",
+      "name": "Flora y su hijo Max",
       "ids": {
-        "tmdb": 790459
+        "tmdb": 1059811
       },
-      "overview": "¿Cómo puedes estar seguro de haber encontrado el amor verdadero? Imagina una prueba que pudiera zanjar esta pregunta para siempre, comparando las uñas de cada persona. ¿Querrías saber el resultado? ¿Lo aceptarías?",
+      "overview": "Flora es una madre soltera que no sabe qué hacer con Max, su hijo adolescente rebelde. Mientras intenta que no se meta en líos, da con una guitarra acústica destartalada y un músico de Los Ángeles venido a menos, y esta crispada familia de Dublín encuentra así la armonía.",
       "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/95Llwyv1uEH37naeRavP61eRmRc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tGuVSc4U2uAkMqq6tAOT912pght.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ltRMkRumcbdufkDQS2oSSoswvZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7cPbWXaE4QQWEKY7Fh31YBoPHDx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vQXmO9JsVcvIDkTDTtecxeP1Ff3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6d3TG7W6xHFiVeTtLVMUEUibl5J.png"
+    },
+    {
+      "id": "tmdb:575417",
+      "type": "movie",
+      "name": "On the Rocks",
+      "ids": {
+        "tmdb": 575417
+      },
+      "overview": "Ante las recientes dudas sobre su matrimonio, una joven neoyorquina le pide ayuda a su extravagante padre para seguir a su marido.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/lJ4rECb09CWmzwEc5iLgsyj3SpP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h0mApQq0cO2jyz4zm2Efcy9I8Wz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vpgUrN0GS4w2KRwK5W3Gmkq9ezG.png"
     },
     {
       "id": "tmdb:1186957",
@@ -589,88 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cl2lLqwcg0CVjA94ODa3EcHQyZQ.png"
     },
     {
-      "id": "tmdb:1128606",
+      "id": "tmdb:926008",
       "type": "movie",
-      "name": "Snoopy presenta: Bienvenido a la pandilla, Franklin",
+      "name": "La fiebre de los peluches Beanie",
       "ids": {
-        "tmdb": 1128606
+        "tmdb": 926008
       },
-      "overview": "Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con la pandilla Peanuts. Cuando llega la carrera de carritos, la toma como una oportunidad para impresionar a sus nuevos amigos y forma equipo con el único niño que no tiene pareja: Carlitos.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qZPDWipdmp0IjbKork0fLxKiZhR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7fkmQwJjwxZGiAVD5xFXyxdFkeV.png"
-    },
-    {
-      "id": "tmdb:1059811",
-      "type": "movie",
-      "name": "Flora y su hijo Max",
-      "ids": {
-        "tmdb": 1059811
-      },
-      "overview": "Flora es una madre soltera que no sabe qué hacer con Max, su hijo adolescente rebelde. Mientras intenta que no se meta en líos, da con una guitarra acústica destartalada y un músico de Los Ángeles venido a menos, y esta crispada familia de Dublín encuentra así la armonía.",
+      "overview": "Ty era un vendedor de juguetes frustrado hasta que su colaboración con tres mujeres convirtió sus animales de peluche en una tendencia determinante en los años 90. Esta mirada entre bastidores al mayor fenómeno de popularidad de unos juguetes de todos los tiempos es una historia disparatada sobre qué y a quién se valora en este mundo.",
       "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/tGuVSc4U2uAkMqq6tAOT912pght.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vQXmO9JsVcvIDkTDTtecxeP1Ff3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6d3TG7W6xHFiVeTtLVMUEUibl5J.png"
-    },
-    {
-      "id": "tmdb:13187",
-      "type": "movie",
-      "name": "La Navidad de Charlie Brown",
-      "ids": {
-        "tmdb": 13187
-      },
-      "overview": "Charlie Brown está deprimido porque piensa que la navidad carece de sentido, ve a Lucy y Snoopy obsesionados con regalos y decoraciones, Schroeder obsesionado con la obra de navidad, y todos los demás concentrados en las tarjetas y cartas a santa, todo esto lo hace cuestionarse el verdadero significado de la navidad. Charlie se disgusta por ver como la festividad se ha convertido en un comercialismo total. Cuando los chicos se comprometen a dar a Charlie la tarea de seleccionar un árbol de navidad para la obra, el escoge uno feo y solitario, pero Linus con un conmovedor discurso logra hacer que todos comprendan el verdadero significado de la navidad.",
-      "year": 1965,
-      "poster": "https://image.tmdb.org/t/p/w342/9MIBIU9T12Gwc9mfo71tlvB5V7w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tgEVUZD3DphQjX6GKB3V7kPrSU5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qbyZ28xkHBltJns8pJ6Yd70EatL.png"
-    },
-    {
-      "id": "tmdb:575417",
-      "type": "movie",
-      "name": "On the Rocks",
-      "ids": {
-        "tmdb": 575417
-      },
-      "overview": "Ante las recientes dudas sobre su matrimonio, una joven neoyorquina le pide ayuda a su extravagante padre para seguir a su marido.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/lJ4rECb09CWmzwEc5iLgsyj3SpP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h0mApQq0cO2jyz4zm2Efcy9I8Wz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vpgUrN0GS4w2KRwK5W3Gmkq9ezG.png"
-    },
-    {
-      "id": "tmdb:535308",
-      "type": "movie",
-      "name": "Hala",
-      "ids": {
-        "tmdb": 535308
-      },
-      "overview": "Hala es una joven estadounidense de origen pakistaní que lucha por encontrar el equilibrio entre sus deseos, la tradición y la religión. En el proceso, Hala descubre un secreto que podría arruinar a su familia.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4CrVkK41bNKJORVrDMjMp9l5rvq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5lTfLC2XchpHohzf765XRhaTfB2.png"
-    },
-    {
-      "id": "tmdb:595586",
-      "type": "movie",
-      "name": "Causeway",
-      "ids": {
-        "tmdb": 595586
-      },
-      "overview": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zHi5hTUd7gdTkB9U9Pe0NDHyp74.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZuFc88v2A4LWLP6ZRwUXUQGcFs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8EhJ6qhGwoCQ4L2duqZ9uDq8MHu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6NtwBBCwPqZHMXLGdZgrKeXV6tK.png"
     },
     {
       "id": "tmdb:1484453",
@@ -687,18 +645,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/nlkf3T0RRUWwUfMHmljDLcK3Xl.png"
     },
     {
-      "id": "tmdb:869025",
+      "id": "tmdb:790459",
       "type": "movie",
-      "name": "Raymond & Ray",
+      "name": "Esto va a doler",
       "ids": {
-        "tmdb": 869025
+        "tmdb": 790459
       },
-      "overview": "Los hermanastros Raymond y Ray se reencuentran tras la muerte de su distanciado padre y descubren que su último deseo fue que ellos le cavaran su tumba. Juntos reflexionan sobre qué clase de hombres han llegado a ser, tanto a causa de su padre como a pesar de él.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",
+      "overview": "¿Cómo puedes estar seguro de haber encontrado el amor verdadero? Imagina una prueba que pudiera zanjar esta pregunta para siempre, comparando las uñas de cada persona. ¿Querrías saber el resultado? ¿Lo aceptarías?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/95Llwyv1uEH37naeRavP61eRmRc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5fQVYwUXy4xY4Ou1Mb5sFBFqxay.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p2EFLNsa2VCUBcWjQbejJq8WQvf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6ltRMkRumcbdufkDQS2oSSoswvZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7cPbWXaE4QQWEKY7Fh31YBoPHDx.png"
+    },
+    {
+      "id": "tmdb:1128606",
+      "type": "movie",
+      "name": "Snoopy presenta: Bienvenido a la pandilla, Franklin",
+      "ids": {
+        "tmdb": 1128606
+      },
+      "overview": "Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con la pandilla Peanuts. Cuando llega la carrera de carritos, la toma como una oportunidad para impresionar a sus nuevos amigos y forma equipo con el único niño que no tiene pareja: Carlitos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qZPDWipdmp0IjbKork0fLxKiZhR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7fkmQwJjwxZGiAVD5xFXyxdFkeV.png"
+    },
+    {
+      "id": "tmdb:664416",
+      "type": "movie",
+      "name": "La historia de los Beastie Boys",
+      "ids": {
+        "tmdb": 664416
+      },
+      "overview": "En este documental grabado en directo y dirigido por su amigo y colaborador Spike Jonze, Mike Diamond y Adam Horovitz comparten la historia de la mítica banda y de sus 40 años de amistad.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/gxJ2fJOLj0QxOxOQ4H3UcoHAQPp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6kaY5TUNGr8t1lO3lJlYudglezT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Whlgi1V1ckPui63hF8psZKyc3o.png"
+    },
+    {
+      "id": "tmdb:961722",
+      "type": "movie",
+      "name": "Sidney Poitier",
+      "ids": {
+        "tmdb": 961722
+      },
+      "overview": "Este documental revelador producido por Oprah Winfrey rinde homenaje al legendario Sidney Poitier, actor icónico, director y activista por los derechos humanos. Incluye entrevistas con Denzel Washington, Spike Lee y Barbra Streisand, entre otros.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7pAOqcwkqBdGuUJkXWkOJ8vI3ET.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r91g0XPKrvcmN8gKYGYUU18NlTY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wBV8T7SKUlHQj1PRtkrustpnJsA.png"
     }
   ]
 }

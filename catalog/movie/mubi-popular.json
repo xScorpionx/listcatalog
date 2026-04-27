@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:639988",
-      "type": "movie",
-      "name": "No hay otra opción",
-      "ids": {
-        "tmdb": 639988
-      },
-      "overview": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/wqQPjI8RpXL9q9INsGr0UbQhkzA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2h9hCzvKbYo2fMCmSOpI79SxKsr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tgLNCa2kmwSVpYqfggJG2o3zPit.png"
-    },
-    {
       "id": "tmdb:5879",
       "type": "movie",
       "name": "El imperio de los sentidos",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ozipXbwy5XBEYoTd5axkVCOAJrc.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
+    },
+    {
+      "id": "tmdb:639988",
+      "type": "movie",
+      "name": "No hay otra opción",
+      "ids": {
+        "tmdb": 639988
+      },
+      "overview": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/wqQPjI8RpXL9q9INsGr0UbQhkzA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2h9hCzvKbYo2fMCmSOpI79SxKsr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tgLNCa2kmwSVpYqfggJG2o3zPit.png"
     },
     {
       "id": "tmdb:1033148",
@@ -57,18 +57,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/peHiTvVODUgHPD8UCy6MqQGwsbN.png"
     },
     {
-      "id": "tmdb:965150",
+      "id": "tmdb:10331",
       "type": "movie",
-      "name": "Aftersun",
+      "name": "La noche de los muertos vivientes",
       "ids": {
-        "tmdb": 965150
+        "tmdb": 10331
       },
-      "overview": "Sophie reflexiona sobre la alegría compartida y la melancolía privada de unas vacaciones que hizo con su padre veinte años atrás. Los recuerdos reales e imaginarios llenan los espacios entre las imágenes mientras intenta reconciliar al padre que conoció con el hombre que no conoció.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/zJd2NwGzciSMppCHividNSROIZR.jpg",
+      "overview": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zDioXV47d2qmi8RN1Hf9oikens.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kDvSaVmij0mWHC61tEHuWs1eyLa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png"
     },
     {
       "id": "tmdb:1923",
@@ -85,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/sVV9q6KwN21haETliul1WXNYFDh.png"
     },
     {
+      "id": "tmdb:965150",
+      "type": "movie",
+      "name": "Aftersun",
+      "ids": {
+        "tmdb": 965150
+      },
+      "overview": "Sophie reflexiona sobre la alegría compartida y la melancolía privada de unas vacaciones que hizo con su padre veinte años atrás. Los recuerdos reales e imaginarios llenan los espacios entre las imágenes mientras intenta reconciliar al padre que conoció con el hombre que no conoció.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/zJd2NwGzciSMppCHividNSROIZR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6zDioXV47d2qmi8RN1Hf9oikens.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
+    },
+    {
       "id": "tmdb:638",
       "type": "movie",
       "name": "Carretera perdida",
@@ -97,20 +111,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/yjmlbXaJC33QAOrQhesI8Es2qxf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ajvMpnE9azcsfJu1UvCKdqOG8zP.png"
-    },
-    {
-      "id": "tmdb:10331",
-      "type": "movie",
-      "name": "La noche de los muertos vivientes",
-      "ids": {
-        "tmdb": 10331
-      },
-      "overview": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kDvSaVmij0mWHC61tEHuWs1eyLa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png"
     },
     {
       "id": "tmdb:14784",
@@ -139,6 +139,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eXB2NlJNNtQrxddrshMnCyzq0k9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hhMU6kmnpaTH0QihDTJ4AWfUo9f.png"
+    },
+    {
+      "id": "tmdb:1352624",
+      "type": "movie",
+      "name": "The Mastermind",
+      "ids": {
+        "tmdb": 1352624
+      },
+      "overview": "Drama criminal ambientado en 1970 que sigue a James Blaine Mooney, un padre de familia suburbano que lleva una doble vida como ladrón de arte. Interpretado por Josh O'Connor, James idea un plan para robar cuatro importantes pinturas de Arthur Dove de un museo local en Massachusetts, inspirado en un robo real ocurrido en 1972. La película retrata la torpe ejecución del robo con tonos de humor negro y realismo, mostrando las tensiones familiares y personales del protagonista, así como el clima político de la época con la guerra de Vietnam de fondo. La historia explora la fragilidad del protagonista y cómo sus decisiones afectan su vida familiar y social, adentrándose en su compleja psicología y en el impacto de su crimen en quienes lo rodean. Dirigida por Kelly Reichardt, es un estudio de personajes con un enfoque lento y detallado que reinventa el género del heist movie con un estilo intimista y sombrío",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/1LxxcBW2Y6HezxNTjOIDZrEAGRY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cveYx5NRvy2y2xQZA0zjlGwt4Dg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPi30BnHk4F2u2fze7rfvgbrgAp.png"
     },
     {
       "id": "tmdb:985",
@@ -183,20 +197,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ifaRUhvxyLqH0zH22gBOfm2TKKS.png"
     },
     {
-      "id": "tmdb:1352624",
-      "type": "movie",
-      "name": "The Mastermind",
-      "ids": {
-        "tmdb": 1352624
-      },
-      "overview": "Drama criminal ambientado en 1970 que sigue a James Blaine Mooney, un padre de familia suburbano que lleva una doble vida como ladrón de arte. Interpretado por Josh O'Connor, James idea un plan para robar cuatro importantes pinturas de Arthur Dove de un museo local en Massachusetts, inspirado en un robo real ocurrido en 1972. La película retrata la torpe ejecución del robo con tonos de humor negro y realismo, mostrando las tensiones familiares y personales del protagonista, así como el clima político de la época con la guerra de Vietnam de fondo. La historia explora la fragilidad del protagonista y cómo sus decisiones afectan su vida familiar y social, adentrándose en su compleja psicología y en el impacto de su crimen en quienes lo rodean. Dirigida por Kelly Reichardt, es un estudio de personajes con un enfoque lento y detallado que reinventa el género del heist movie con un estilo intimista y sombrío",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/1LxxcBW2Y6HezxNTjOIDZrEAGRY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cveYx5NRvy2y2xQZA0zjlGwt4Dg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPi30BnHk4F2u2fze7rfvgbrgAp.png"
-    },
-    {
       "id": "tmdb:558582",
       "type": "movie",
       "name": "First Cow",
@@ -209,62 +209,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uOEgO7wZkrpDYPesojITaTkKZFn.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7T7Mtd4OG5wc0r7QO4rEA92veP1.png"
-    },
-    {
-      "id": "tmdb:85836",
-      "type": "movie",
-      "name": "Hara-Kiri: Muerte de un samurái",
-      "ids": {
-        "tmdb": 85836
-      },
-      "overview": "Deseando morir con dignidad, Hanshiro, un samurái sin recursos pide realizar un ritual de suicidio en la residencia del clan Li, cuyo director es Kageyu, un guerrero obstinado. Tratando de desalentarlo, Kageyu le cuenta la trágica historia de Motome, un joven ronin, que llegó solicitando lo mismo. Remake en 3D de la película homónima de Masaki Kobayashi (1962), con Tatsuya Nakadai en el papel principal.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/AclU2eOl9O4B4A9quX0FHg2GK8m.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8TUqRx7PZfF4E6g1f1X17nK1TEd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iJ2JA0UCIi6o6bH7b43T27zOgok.png"
-    },
-    {
-      "id": "tmdb:33560",
-      "type": "movie",
-      "name": "Totally F***ed Up",
-      "ids": {
-        "tmdb": 33560
-      },
-      "overview": "Narra la historia de un grupo de jóvenes homosexuales, gays y lesbianas, de Los Angeles. Sus padres les han echado de casa, están sin blanca y sus amantes les engañan. Están \"totalmente jodidos\", tanto que como solución a sus problemas algunos se llega a plantear el suicidio...",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/qZBtSTEhlXy0aNTZ40umWLpJr2T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1nbN7na9FxoZNCDvLZPvV8gcvcY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xPovRQAlEebxteuJA4Vr8b6ShMe.png"
-    },
-    {
-      "id": "tmdb:83770",
-      "type": "movie",
-      "name": "En la carretera",
-      "ids": {
-        "tmdb": 83770
-      },
-      "overview": "Tras la muerte de su padre, Sal Paradise (Sam Riley), un neoyorquino que aspira a ser escritor, conoce a Dean Moriarty (Garrett Hedlund), un ex-presidiario de un encanto arrollador y casado con la liberada y seductora Marylou (Kristen Stewart). Sal y Dean se hacen amigos al instante. Sedientos de libertad y decididos a huir de la rutina y la monotonía, emprenden un viaje hacia el Sur con Marylou. Adaptación de la novela homónima (1957) de Jack Kerouac, obra clave de la generación \"Beat\", que describe un viaje desenfrenado a finales de los años cuarenta.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/k7LQteD02p3VHixbS6NXHkFdFwT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wlTo3yy33pqhuOoZbv63f789d1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uJPTWG8DEKDJ6dkRgLqXpfpJ6LH.png"
-    },
-    {
-      "id": "tmdb:892",
-      "type": "movie",
-      "name": "Delicatessen",
-      "ids": {
-        "tmdb": 892
-      },
-      "overview": "Esta comedia negra y surrealista nos cuenta acerca de un pequeño pueblo postapocalíptico, donde Clapet, el carnicero, alimenta a sus clientes con carne humana. Cuando su hija se enamora de su siguiente víctima, las cosas se empiezan a torcer.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/cACoQdccxToUn0PRC1yW81bZHOG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zMVwhccP78PLjYRoKikFiX7OdFc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3DCxPvg26ix2FHwXDiDlcUhADH1.png"
     },
     {
       "id": "tmdb:775",
@@ -281,46 +225,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/oqMynVAslH6HWkdCQGQJul4v2C2.png"
     },
     {
-      "id": "tmdb:414453",
+      "id": "tmdb:892",
       "type": "movie",
-      "name": "Columbus",
+      "name": "Delicatessen",
       "ids": {
-        "tmdb": 414453
+        "tmdb": 892
       },
-      "overview": "Un hombre se encuentra atrapado en Columbus, Indiana, donde su padre arquitecto está en coma. El hombre conoce a una joven que quiere quedarse en Columbus con su madre, una adicta que se está recuperando, en lugar de perseguir sus sueños.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/6tk0xmn9k5HjUeXsnhxIa94sFXP.jpg",
+      "overview": "Esta comedia negra y surrealista nos cuenta acerca de un pequeño pueblo postapocalíptico, donde Clapet, el carnicero, alimenta a sus clientes con carne humana. Cuando su hija se enamora de su siguiente víctima, las cosas se empiezan a torcer.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/cACoQdccxToUn0PRC1yW81bZHOG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aDZuTpxSp62jEXnGZc0akp0fm7K.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wNjlYlM4dH2oxA7iHYjALxaRo8y.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zMVwhccP78PLjYRoKikFiX7OdFc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3DCxPvg26ix2FHwXDiDlcUhADH1.png"
     },
     {
-      "id": "tmdb:1990",
+      "id": "tmdb:33560",
       "type": "movie",
-      "name": "Paranoid Park",
+      "name": "Totally F***ed Up",
       "ids": {
-        "tmdb": 1990
+        "tmdb": 33560
       },
-      "overview": "Paranoid Park es el parque más frecuentado por los skaters de Portland, situado en una zona peligrosa de la ciudad. Allí van también Alex y su amigo Jared, todavía principiantes, para ver a los más expertos hacer sus acrobacias con el monopatín. Pero una noche, todo cambia para Alex. Un guardia de seguridad muere, la policía comienza a investigar, y él está en el centro de todas las miradas...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/qdxQ8vZJoZuLqU9MXYW2vnRwhan.jpg",
+      "overview": "Narra la historia de un grupo de jóvenes homosexuales, gays y lesbianas, de Los Angeles. Sus padres les han echado de casa, están sin blanca y sus amantes les engañan. Están \"totalmente jodidos\", tanto que como solución a sus problemas algunos se llega a plantear el suicidio...",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/qZBtSTEhlXy0aNTZ40umWLpJr2T.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fOzRvNGJ1jYqReUtLotmgQXJygQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/TDyDOVv0H5VeiP6VfiLk681hDQ.png"
-    },
-    {
-      "id": "tmdb:30020",
-      "type": "movie",
-      "name": "El sabor de las cerezas",
-      "ids": {
-        "tmdb": 30020
-      },
-      "overview": "Un hombre de mediana edad decide suicidarse. Su única preocupación es encontrar a alguien que le ayude y se comprometa a enterrarlo. Esta situación le permite conocer a una gran variedad de personajes.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/xjj9f4WEdE2NLO8Luf9ofNhvqCQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2wD9AJr6enWis0KF1sV3kaSyWhG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iZJ2V5x1w05tRquw4RWPowmOwQS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1nbN7na9FxoZNCDvLZPvV8gcvcY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xPovRQAlEebxteuJA4Vr8b6ShMe.png"
     },
     {
       "id": "tmdb:27064",
@@ -337,6 +267,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/g9QTeHmih9uM6Jrq8IdnJIe8hdk.png"
     },
     {
+      "id": "tmdb:414453",
+      "type": "movie",
+      "name": "Columbus",
+      "ids": {
+        "tmdb": 414453
+      },
+      "overview": "Un hombre se encuentra atrapado en Columbus, Indiana, donde su padre arquitecto está en coma. El hombre conoce a una joven que quiere quedarse en Columbus con su madre, una adicta que se está recuperando, en lugar de perseguir sus sueños.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/6tk0xmn9k5HjUeXsnhxIa94sFXP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aDZuTpxSp62jEXnGZc0akp0fm7K.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wNjlYlM4dH2oxA7iHYjALxaRo8y.png"
+    },
+    {
+      "id": "tmdb:85836",
+      "type": "movie",
+      "name": "Hara-Kiri: Muerte de un samurái",
+      "ids": {
+        "tmdb": 85836
+      },
+      "overview": "Deseando morir con dignidad, Hanshiro, un samurái sin recursos pide realizar un ritual de suicidio en la residencia del clan Li, cuyo director es Kageyu, un guerrero obstinado. Tratando de desalentarlo, Kageyu le cuenta la trágica historia de Motome, un joven ronin, que llegó solicitando lo mismo. Remake en 3D de la película homónima de Masaki Kobayashi (1962), con Tatsuya Nakadai en el papel principal.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/AclU2eOl9O4B4A9quX0FHg2GK8m.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8TUqRx7PZfF4E6g1f1X17nK1TEd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iJ2JA0UCIi6o6bH7b43T27zOgok.png"
+    },
+    {
       "id": "tmdb:1432605",
       "type": "movie",
       "name": "La sombra de mi padre",
@@ -349,90 +307,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7wcV7SL43BiwFoaL9Pp5d9qcfVf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jy2Hk1YiEzaJegkI93pvaYnV3Y8.png"
-    },
-    {
-      "id": "tmdb:157823",
-      "type": "movie",
-      "name": "Night Moves",
-      "ids": {
-        "tmdb": 157823
-      },
-      "overview": "Un drama centrado en tres ecologistas que que quieren volar una presa.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yTenAFsjaEv9ZL3DRiydRumojLL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iDh35Xm4Su4bNMKW8jW8RtClP3r.png"
-    },
-    {
-      "id": "tmdb:121872",
-      "type": "movie",
-      "name": "Ginger & Rosa",
-      "ids": {
-        "tmdb": 121872
-      },
-      "overview": "Londres, 1962. Ginger y Rosa son dos adolescentes amigas inseparables. Juntas hacen novillos, hablan de amor, religión y política, y sueñan con una vida más emocionante que la doméstica existencia de sus madres. Pero la creciente amenaza de la guerra nuclear proyecta una sombra sobre su futuro. Ginger se siente atraída por la poesía y por la protesta política, mientras que Rosa le enseña a Ginger a fumar, a besar a los chicos y a rezar. Las dos se rebelan contra sus respectivas madres.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/9Ht0eC6cGKbEz9UcOLcy95dN95W.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lSomnyWWPjHBW6K1oghrVxmT9vT.png"
-    },
-    {
-      "id": "tmdb:49096",
-      "type": "movie",
-      "name": "El imperio de la pasión",
-      "ids": {
-        "tmdb": 49096
-      },
-      "overview": "Un viejo conductor de carro-taxi está casado con una bella joven que cada noche le baña, le da masajes y le ofrece sake. Una noche, el joven amante de la mujer mata al marido y esconde el cadáver en un pozo aislado. Pasan tres años y el fantasma del muerto aparece.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/zD8x5HuNzkfMqkoIPcfNSDP9sZZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8aad9uv6zD4D5f17ClfhNC29t6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0OGQHlAToT3Chbd1pG6Cmw9neC.png"
-    },
-    {
-      "id": "tmdb:487850",
-      "type": "movie",
-      "name": "Asako I & II",
-      "ids": {
-        "tmdb": 487850
-      },
-      "overview": "Asako es una joven de 21 años que vive en Osaka. Se enamora de Baku, que es un espíritu libre, pero éste desaparece de repente. Dos años más tarde, Asako vive en Tokio y conoce a Ryohei, que se parece mucho a Baku aunque tiene una personalidad totalmente diferente. Asako acaba enamorándose de Ryohei.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3UdNzdWG0rpXp0UpRcd4QQRbkN1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1DLly0jqDXwPzZpdIyGajVOhgfE.png"
-    },
-    {
-      "id": "tmdb:16447",
-      "type": "movie",
-      "name": "La mujer es el futuro del hombre",
-      "ids": {
-        "tmdb": 16447
-      },
-      "overview": "Dos amigos, Mun-ho y Hyen-gon, se encuentran después de varios años y pasan unos días juntos. Hyen-gon acaba de volver de Estados Unidos tras fracasar en su intento de triunfar como director de cine. Por su parte Mun-ho también ha tenido que abandonar sus aspiraciones artísticas a cambio de un matrimonio seguro y un puesto como profesor en una Universidad de Arte.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/3bovtjGw5XB3aDKaWkfYnCupBbI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5HUWQDUJMIL4Di2C5TC2eU6f7tU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/17lBGgbQ5gFCipfDV99Fzt8BXi6.png"
-    },
-    {
-      "id": "tmdb:33247",
-      "type": "movie",
-      "name": "Vivir hasta el fin",
-      "ids": {
-        "tmdb": 33247
-      },
-      "overview": "Luke es un chapero gay. Jon es un crítico de cine. Ambos tienen el virus VIH del SIDA. Y ambos deciden embarcarse en un hedonista y peligroso viaje. Su lema: \"Fuck the world\" (que le jodan al mundo).",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/gWFLPTphg0BSoDgMCSC1zkzeRKe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vzCH76J3QBk2rj1lJhsg9p0E83l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/krKTFXsA1UEQUQO5Ln1mzRH7yZg.png"
     },
     {
       "id": "tmdb:44132",
@@ -449,60 +323,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/bkNIohwTIX35IxAOOiaOM8qr2BG.png"
     },
     {
-      "id": "tmdb:24657",
+      "id": "tmdb:83770",
       "type": "movie",
-      "name": "Sacrificio",
+      "name": "En la carretera",
       "ids": {
-        "tmdb": 24657
+        "tmdb": 83770
       },
-      "overview": "Mientras su familia se reúne para celebrar su cumpleaños, el periodista Alexander se siente angustiado por la desoladora falta de espiritualidad que caracteriza al mundo contemporáneo. Sus peores temores se confirman cuando, durante la fiesta, llega la noticia de un inminente conflicto nuclear: la Tercera Guerra Mundial. El final, definitivo e irreversible, está cerca. En ese momento están con él su angustiada esposa, sus dos hijos, un amigo médico y un peculiar cartero, que lo convence de que una de sus criadas es una bruja que tiene el poder de salvar al mundo mediante un último sacrificio.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/mWEwEgjOdsCR11pwvrWvfCuGgKQ.jpg",
+      "overview": "Tras la muerte de su padre, Sal Paradise (Sam Riley), un neoyorquino que aspira a ser escritor, conoce a Dean Moriarty (Garrett Hedlund), un ex-presidiario de un encanto arrollador y casado con la liberada y seductora Marylou (Kristen Stewart). Sal y Dean se hacen amigos al instante. Sedientos de libertad y decididos a huir de la rutina y la monotonía, emprenden un viaje hacia el Sur con Marylou. Adaptación de la novela homónima (1957) de Jack Kerouac, obra clave de la generación \"Beat\", que describe un viaje desenfrenado a finales de los años cuarenta.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/k7LQteD02p3VHixbS6NXHkFdFwT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3gK8mNxMcmQWtxILYX7C8ZGWRu4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4wSHG86vq1CnMOMwb976qOJsJck.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wlTo3yy33pqhuOoZbv63f789d1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uJPTWG8DEKDJ6dkRgLqXpfpJ6LH.png"
     },
     {
-      "id": "tmdb:31225",
+      "id": "tmdb:30020",
       "type": "movie",
-      "name": "Paris Is Burning",
+      "name": "El sabor de las cerezas",
       "ids": {
-        "tmdb": 31225
+        "tmdb": 30020
       },
-      "overview": "La película explora las 'Houses' del barrio neoyorquino de Harlem de finales de los 80. Una 'House' es una sociedad de gays y drag queens (drag queen en el sentido neoyorquino del término que incluye a las travestis), que tiene forma de banda callejera. Las 'Houses' están formadas por una 'mother' o madre y los y las 'children', hijos e hijas, la función de la madre es la de presidir la sociedad y aconsejar y mirar por sus integrantes. Los 'Balls' son los bailes que organizan las 'Houses' en los 'Ballrooms' (literalmente salones de baile) que se convierten en una especie de club para reunirse y competir entre sí. \"Paris is burning\" refleja el fenómeno de los 'balls' desde 1987 hasta 1989 cuando ya ha llamado la atención de los medios de comunicación y las industrias culturales perciben beneficios de lo que súbitamente es la nueva moda.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "overview": "Un hombre de mediana edad decide suicidarse. Su única preocupación es encontrar a alguien que le ayude y se comprometa a enterrarlo. Esta situación le permite conocer a una gran variedad de personajes.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/xjj9f4WEdE2NLO8Luf9ofNhvqCQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kK5Hf9EDI1pLMj3Mq0BA6xOsE8g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gKVKHbV6XkpNagA77HALW5QZqcA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2wD9AJr6enWis0KF1sV3kaSyWhG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iZJ2V5x1w05tRquw4RWPowmOwQS.png"
     },
     {
-      "id": "tmdb:85550",
+      "id": "tmdb:157823",
       "type": "movie",
-      "name": "Un cuento de cine",
+      "name": "Night Moves",
       "ids": {
-        "tmdb": 85550
+        "tmdb": 157823
       },
-      "overview": "Para Dong-soo todos pueden hacer proyectos menos él: construyen familias, planifican su vida social, trabajan. Él es un director que sueña con hacer una película, una quimera que parece imposible... hasta que al salir del cine se encuentra con Yong-shil, la actriz y protagonista de una ficción sobre una pareja desesperada.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/8YrfSqpiTtJvmYqstkFHyzX5SEe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AmvWExQy0RWddiYlkWXz6rWCaJw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9S11oJ7I6loEZ5mYiPZU9LeaPcs.png"
-    },
-    {
-      "id": "tmdb:169607",
-      "type": "movie",
-      "name": "Buscando a Vivian Maier",
-      "ids": {
-        "tmdb": 169607
-      },
-      "overview": "Un documental sobre la fallecida Vivian Maier, una niñera cuyas 100.000 fotografías hasta entonces desconocidas le valieron una reputación póstuma como una de las mejores fotógrafas de la calle.",
+      "overview": "Un drama centrado en tres ecologistas que que quieren volar una presa.",
       "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/yaj9mpHNpns5j4ODP4352PgDWJM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4wu5z2QHp85cpyPJ7N7IMw25rVv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gxSnbX0eCcsylIAMMN8WOAUdJKQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yTenAFsjaEv9ZL3DRiydRumojLL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iDh35Xm4Su4bNMKW8jW8RtClP3r.png"
     },
     {
       "id": "tmdb:662",
@@ -519,155 +379,59 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ChkVo7SsefF8RLyqmN5Va8uRu0.png"
     },
     {
-      "id": "tmdb:16306",
+      "id": "tmdb:1990",
       "type": "movie",
-      "name": "El planeta salvaje",
+      "name": "Paranoid Park",
       "ids": {
-        "tmdb": 16306
+        "tmdb": 1990
       },
-      "overview": "En el planeta Ygam, los Draags, humanoides azules extremadamente avanzados tecnológica y espiritualmente, consideran a los diminutos Oms, seres humanos descendientes de los habitantes de Terra, como animales ignorantes. Los que viven en la esclavitud son tratados como simples mascotas y utilizados para entretener a los niños Draag; los que viven escondidos en los hostiles desiertos del planeta son periódicamente cazados y masacrados sin piedad como si fueran alimañas.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/skuBfcttPSVrnaOvdDRbIvHUIOI.jpg",
+      "overview": "Paranoid Park es el parque más frecuentado por los skaters de Portland, situado en una zona peligrosa de la ciudad. Allí van también Alex y su amigo Jared, todavía principiantes, para ver a los más expertos hacer sus acrobacias con el monopatín. Pero una noche, todo cambia para Alex. Un guardia de seguridad muere, la policía comienza a investigar, y él está en el centro de todas las miradas...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/qdxQ8vZJoZuLqU9MXYW2vnRwhan.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/L5svWZMfvltUfXIwMVCjasiJJk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1C8taCIzeM7zdg9WSyCjAhS3xDj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fOzRvNGJ1jYqReUtLotmgQXJygQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/TDyDOVv0H5VeiP6VfiLk681hDQ.png"
     },
     {
-      "id": "tmdb:249916",
+      "id": "tmdb:16447",
       "type": "movie",
-      "name": "Appropriate Behavior",
+      "name": "La mujer es el futuro del hombre",
       "ids": {
-        "tmdb": 249916
+        "tmdb": 16447
       },
-      "overview": "Vivir en una familia persa y confesar que eres bisexual quizá no sea la mejor de las ideas. Pero intenta explicárselo a tu novia, férrea defensora de la liberación sexual.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/ywa3IaNZz6m7jMur18zn4de59CV.jpg",
+      "overview": "Dos amigos, Mun-ho y Hyen-gon, se encuentran después de varios años y pasan unos días juntos. Hyen-gon acaba de volver de Estados Unidos tras fracasar en su intento de triunfar como director de cine. Por su parte Mun-ho también ha tenido que abandonar sus aspiraciones artísticas a cambio de un matrimonio seguro y un puesto como profesor en una Universidad de Arte.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/3bovtjGw5XB3aDKaWkfYnCupBbI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/omcxgWYYbNOxUPahj1IGNrY4Aeo.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/5HUWQDUJMIL4Di2C5TC2eU6f7tU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/17lBGgbQ5gFCipfDV99Fzt8BXi6.png"
     },
     {
-      "id": "tmdb:32562",
+      "id": "tmdb:48303",
       "type": "movie",
-      "name": "El celuloide oculto",
+      "name": "Copia certificada",
       "ids": {
-        "tmdb": 32562
+        "tmdb": 48303
       },
-      "overview": "Documental sobre la homosexualidad en el cine, dirigido por el experto documentalista Rob Epstein (premiado con 2 Oscar) y Jeffrey Friedman (cineasta, productor y ayudante de montaje de, entre otras, \"Toro Salvaje\").",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/x0DSh3uMeQk6EG1DHjGJUywN7C0.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a6Ha2K2VGQVDEPL76oN8qLVnqAH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6AZZqxYUxwQmhDNGqcwCwa11nPS.png"
-    },
-    {
-      "id": "tmdb:30014",
-      "type": "movie",
-      "name": "La casa del río",
-      "ids": {
-        "tmdb": 30014
-      },
-      "overview": "Stephen Byrne, un escritor fracasado, aprovechando la ausencia de su mujer, intenta seducir a una criada, a la que mata involuntariamente. A continuación convence a su hermano para que le ayude a deshacerse del cadáver. (FILMAFFINITY)",
-      "year": 1950,
-      "poster": "https://image.tmdb.org/t/p/w342/yvHfKSDYIxRVDpOnM3yqOjtnTzK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yQDWlXBCECuRASzegi3LfPx8riX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/24Z0TGcgUnMsQulhKiwvCLJHurH.png"
-    },
-    {
-      "id": "tmdb:4710",
-      "type": "movie",
-      "name": "Masculino, femenino",
-      "ids": {
-        "tmdb": 4710
-      },
-      "overview": "Paul es un joven idealista que acaba de terminar el servicio militar. Conoce a Madeleine, una joven atractiva que aspira a ser cantante pop, y trata de conquistarla. Ambos salen juntos y terminan juntos en la cama, aunque con dos amigas de Madeleine, Elisabeth y Catherine.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/qJHD9j8mnXcYbsoNumUfP0R1LhL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pwUnywWHtw82l78r82AJGRzyE6e.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cHJENYYNr1Ca7EcKag4zmflX0An.png"
-    },
-    {
-      "id": "tmdb:62321",
-      "type": "movie",
-      "name": "Attenberg",
-      "ids": {
-        "tmdb": 62321
-      },
-      "overview": "Marina (Ariane Labed), una chica de 23 años, vive con su padre, un arquitecto, en una pequeña ciudad industrial experimental en la costa. Marina se siente extraña y repele todo contacto con la especie humana, con la que no se identifica. Se entretiene escuchando canciones, viendo los documentales de David Attenborough, y asistiendo a las clases de educación sexual de su única amiga, Bella (Evangelia Randou). Un día, un desconocido llega a la ciudad, justo cuando el padre de Marina se prepara para despedirse de un siglo XX que considera \"sobrevalorado\".",
+      "overview": "James, escritor inglés, llega a Italia para dar un conferencia sobre la publicación de su nuevo libro que trata el tema de las estrechas relaciones que hay en el arte entre un original y una copia. Allí se encuentra con una jóven mujer de origen francés, galerista. Parten juntos por algunas horas a San Gimignano, pequeño pueblo cercano a Florencia. ¿Cómo distinguir el original de la copia, la realidad de la ficción?",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ry03y6yIwgEZwG5zuCHmOxj8Thk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hHGhYtxq15PSO9A7h2MyppJZsrY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1YoRvEMpAJnHHSHXFESRWS9l1wc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pkXlw2SFpukWY07hqZ4EV0I8jzi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cftBm1AnSqAVKffwMr3FR6loveD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k0opg6EcF9PmtosPjajKLvcfG9G.png"
     },
     {
-      "id": "tmdb:67415",
+      "id": "tmdb:446574",
       "type": "movie",
-      "name": "Incoherence",
+      "name": "Siberia",
       "ids": {
-        "tmdb": 67415
+        "tmdb": 446574
       },
-      "overview": "Narra la historia de un escritor que habitualmente roba leche mientras trota por las mañanas, un fiscal de elite atrapado por un guardia de seguridad mientras orina en la calle, borracho, y un profesor universitario que lee revistas pornográficas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/A8D7xLxLlr1HtvuLgEVSvG0sLdT.jpg",
+      "overview": "Clint es un hombre muerto que vive solo en una tundra helada. Sin embargo, este aislamiento no puede traer ni evasión ni paz. Una noche, comienza un viaje donde debe enfrentar sus sueños, recuerdos y visiones, cruzando la oscuridad hacia la luz.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/vSCjeSAkdrAyi3XDIrNWpMsH5oP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vmHMnZ1RQNBP0wvkF453qYMIjNb.jpg"
-    },
-    {
-      "id": "tmdb:64252",
-      "type": "movie",
-      "name": "Los frutos de la pasión",
-      "ids": {
-        "tmdb": 64252
-      },
-      "overview": "Secuela espiritual de \"La historia de O\". “Les Fruits de la Passion” es un melodrama erótico ambientado en el Hong Kong de los años 20. Kinski, un europeo decadente con negocios en la ciudad, envía a su mujer a un burdel para profundizar en su amor física y espiritualmente. El tema de la sumisión, del sufrimiento y la ofensa que aparecían en la cinta de 1975 son retomados aquí, en cuyo burdel de fantasía se muestran viñetas de tortura, fetichismo y perversiones diversas. “O” debe renunciar a cualquier deseo para amar completamente a Sir Stephen, quien se deleita martirizándola mostrándole como ama también a otra mujer, Nathalie, interpretada por Arielle Dombasle. El trío se rompe cuando un cuarto personaje, un joven que envía flores a la bella encarcelada, se introduce entre la pareja protagonista para hacer suya a “O”.",
-      "year": 1981,
-      "poster": "https://image.tmdb.org/t/p/w342/uumQUBPBNAQVrbf7QGuxhFoPCL7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5uJCt4iaTnb8V8HuM9UG5CRWHpk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xUIZwIsa84XmXtyiQD4Wd88JWy9.png"
-    },
-    {
-      "id": "tmdb:10513",
-      "type": "movie",
-      "name": "Plan 9 del espacio exterior",
-      "ids": {
-        "tmdb": 10513
-      },
-      "overview": "En California, un anciano lamenta la pérdida de su esposa y al día siguiente también muere. Sin embargo, el soldado espacial Eros y su compañera Tanna usan un dispositivo eléctrico para resucitarlos a ambos y al fuerte inspector Clay que fue asesinado por la pareja. Su intención no es conquistar la Tierra sino evitar que la humanidad desarrolle la poderosa bomba \"Solobonita\" que amenazaría el universo. Cuando la población de Hollywood y Washington DC ve platillos voladores en el cielo, un coronel, un teniente de policía, un piloto comercial, su esposa y un policía intentan detener a los extraterrestres.",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/5i48EVX078yj0nClHE18zRX6X1h.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9pHCAT1ScILdkhY8ErfOma8W4kB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciwUeKXb326gvt77LlJngLNkllR.png"
-    },
-    {
-      "id": "tmdb:29982",
-      "type": "movie",
-      "name": "Unrelated",
-      "ids": {
-        "tmdb": 29982
-      },
-      "overview": "A woman in an unhappy relationship takes refuge with a friend's family on holiday in Tuscany.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/5TFsgS0EkClv2KlA1j5ARp3DoRq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/n8k9jydZHiqxWGKzKvHbLB6RwXW.jpg"
-    },
-    {
-      "id": "tmdb:38775",
-      "type": "movie",
-      "name": "Marea Nocturna",
-      "ids": {
-        "tmdb": 38775
-      },
-      "overview": "En el pequeño pueblo de una isla del océano Pacífico, el joven Johnny queda prendado de una mujer de cabello negro. Ella trabaja en una feria como una \"sirena\". Después de algunos extraños sucesos, Johnny empieza a creer que la chica pudiera ser una sirena real, que asesina en las noches de luna llena",
-      "year": 1961,
-      "poster": "https://image.tmdb.org/t/p/w342/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ir5cGVUusWCEnNNwwn4RrBRmc2G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fM88iScRatsSh6tMYDc5yvMJ1xk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bhiUcWfj6B4YFp1USbso9DmFCiM.jpg"
     },
     {
       "id": "tmdb:900379",
@@ -684,18 +448,254 @@
       "logo": "https://image.tmdb.org/t/p/w500/iV3XR2XO6swb5XjX0xNxOsyucAr.png"
     },
     {
-      "id": "tmdb:254578",
+      "id": "tmdb:24657",
       "type": "movie",
-      "name": "Phoenix",
+      "name": "Sacrificio",
       "ids": {
-        "tmdb": 254578
+        "tmdb": 24657
       },
-      "overview": "Una cantante es traicionada y enviada a un campo de concentración. Al finalizar su calvario, vuelve con la cara totalmente desfigurada y pide a un eminente cirujano que se la reconstruya para que sea lo más parecida a como era antes. Recuperada de la operación empieza a buscar a su marido, un pianista. Pero el reencuentro no es lo que ella esperaba.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+      "overview": "Mientras su familia se reúne para celebrar su cumpleaños, el periodista Alexander se siente angustiado por la desoladora falta de espiritualidad que caracteriza al mundo contemporáneo. Sus peores temores se confirman cuando, durante la fiesta, llega la noticia de un inminente conflicto nuclear: la Tercera Guerra Mundial. El final, definitivo e irreversible, está cerca. En ese momento están con él su angustiada esposa, sus dos hijos, un amigo médico y un peculiar cartero, que lo convence de que una de sus criadas es una bruja que tiene el poder de salvar al mundo mediante un último sacrificio.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/mWEwEgjOdsCR11pwvrWvfCuGgKQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jaIeuFiasQ7KeJntmyNgSHmJEia.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/a6kjQzVeWIlP7YdI9bcjD9P1CkG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3gK8mNxMcmQWtxILYX7C8ZGWRu4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4wSHG86vq1CnMOMwb976qOJsJck.png"
+    },
+    {
+      "id": "tmdb:49096",
+      "type": "movie",
+      "name": "El imperio de la pasión",
+      "ids": {
+        "tmdb": 49096
+      },
+      "overview": "Un viejo conductor de carro-taxi está casado con una bella joven que cada noche le baña, le da masajes y le ofrece sake. Una noche, el joven amante de la mujer mata al marido y esconde el cadáver en un pozo aislado. Pasan tres años y el fantasma del muerto aparece.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/zD8x5HuNzkfMqkoIPcfNSDP9sZZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8aad9uv6zD4D5f17ClfhNC29t6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0OGQHlAToT3Chbd1pG6Cmw9neC.png"
+    },
+    {
+      "id": "tmdb:4710",
+      "type": "movie",
+      "name": "Masculino, femenino",
+      "ids": {
+        "tmdb": 4710
+      },
+      "overview": "Paul es un joven idealista que acaba de terminar el servicio militar. Conoce a Madeleine, una joven atractiva que aspira a ser cantante pop, y trata de conquistarla. Ambos salen juntos y terminan juntos en la cama, aunque con dos amigas de Madeleine, Elisabeth y Catherine.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/qJHD9j8mnXcYbsoNumUfP0R1LhL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pwUnywWHtw82l78r82AJGRzyE6e.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cHJENYYNr1Ca7EcKag4zmflX0An.png"
+    },
+    {
+      "id": "tmdb:121872",
+      "type": "movie",
+      "name": "Ginger & Rosa",
+      "ids": {
+        "tmdb": 121872
+      },
+      "overview": "Londres, 1962. Ginger y Rosa son dos adolescentes amigas inseparables. Juntas hacen novillos, hablan de amor, religión y política, y sueñan con una vida más emocionante que la doméstica existencia de sus madres. Pero la creciente amenaza de la guerra nuclear proyecta una sombra sobre su futuro. Ginger se siente atraída por la poesía y por la protesta política, mientras que Rosa le enseña a Ginger a fumar, a besar a los chicos y a rezar. Las dos se rebelan contra sus respectivas madres.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/9Ht0eC6cGKbEz9UcOLcy95dN95W.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lSomnyWWPjHBW6K1oghrVxmT9vT.png"
+    },
+    {
+      "id": "tmdb:487850",
+      "type": "movie",
+      "name": "Asako I & II",
+      "ids": {
+        "tmdb": 487850
+      },
+      "overview": "Asako es una joven de 21 años que vive en Osaka. Se enamora de Baku, que es un espíritu libre, pero éste desaparece de repente. Dos años más tarde, Asako vive en Tokio y conoce a Ryohei, que se parece mucho a Baku aunque tiene una personalidad totalmente diferente. Asako acaba enamorándose de Ryohei.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3UdNzdWG0rpXp0UpRcd4QQRbkN1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1DLly0jqDXwPzZpdIyGajVOhgfE.png"
+    },
+    {
+      "id": "tmdb:31225",
+      "type": "movie",
+      "name": "Paris Is Burning",
+      "ids": {
+        "tmdb": 31225
+      },
+      "overview": "La película explora las 'Houses' del barrio neoyorquino de Harlem de finales de los 80. Una 'House' es una sociedad de gays y drag queens (drag queen en el sentido neoyorquino del término que incluye a las travestis), que tiene forma de banda callejera. Las 'Houses' están formadas por una 'mother' o madre y los y las 'children', hijos e hijas, la función de la madre es la de presidir la sociedad y aconsejar y mirar por sus integrantes. Los 'Balls' son los bailes que organizan las 'Houses' en los 'Ballrooms' (literalmente salones de baile) que se convierten en una especie de club para reunirse y competir entre sí. \"Paris is burning\" refleja el fenómeno de los 'balls' desde 1987 hasta 1989 cuando ya ha llamado la atención de los medios de comunicación y las industrias culturales perciben beneficios de lo que súbitamente es la nueva moda.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kK5Hf9EDI1pLMj3Mq0BA6xOsE8g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gKVKHbV6XkpNagA77HALW5QZqcA.png"
+    },
+    {
+      "id": "tmdb:16306",
+      "type": "movie",
+      "name": "El planeta salvaje",
+      "ids": {
+        "tmdb": 16306
+      },
+      "overview": "En el planeta Ygam, los Draags, humanoides azules extremadamente avanzados tecnológica y espiritualmente, consideran a los diminutos Oms, seres humanos descendientes de los habitantes de Terra, como animales ignorantes. Los que viven en la esclavitud son tratados como simples mascotas y utilizados para entretener a los niños Draag; los que viven escondidos en los hostiles desiertos del planeta son periódicamente cazados y masacrados sin piedad como si fueran alimañas.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/skuBfcttPSVrnaOvdDRbIvHUIOI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/L5svWZMfvltUfXIwMVCjasiJJk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1C8taCIzeM7zdg9WSyCjAhS3xDj.png"
+    },
+    {
+      "id": "tmdb:62321",
+      "type": "movie",
+      "name": "Attenberg",
+      "ids": {
+        "tmdb": 62321
+      },
+      "overview": "Marina (Ariane Labed), una chica de 23 años, vive con su padre, un arquitecto, en una pequeña ciudad industrial experimental en la costa. Marina se siente extraña y repele todo contacto con la especie humana, con la que no se identifica. Se entretiene escuchando canciones, viendo los documentales de David Attenborough, y asistiendo a las clases de educación sexual de su única amiga, Bella (Evangelia Randou). Un día, un desconocido llega a la ciudad, justo cuando el padre de Marina se prepara para despedirse de un siglo XX que considera \"sobrevalorado\".",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/ry03y6yIwgEZwG5zuCHmOxj8Thk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1YoRvEMpAJnHHSHXFESRWS9l1wc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pkXlw2SFpukWY07hqZ4EV0I8jzi.png"
+    },
+    {
+      "id": "tmdb:29982",
+      "type": "movie",
+      "name": "Unrelated",
+      "ids": {
+        "tmdb": 29982
+      },
+      "overview": "A woman in an unhappy relationship takes refuge with a friend's family on holiday in Tuscany.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/5TFsgS0EkClv2KlA1j5ARp3DoRq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/n8k9jydZHiqxWGKzKvHbLB6RwXW.jpg"
+    },
+    {
+      "id": "tmdb:267999",
+      "type": "movie",
+      "name": "White God (Dios blanco)",
+      "ids": {
+        "tmdb": 267999
+      },
+      "overview": "Un cuento visionario entre una especie superior y sus congéneres caídos en desgracia… Una nueva ley da preferencia a los perros de raza e impone un tributo considerable por las razas cruzadas. Rápidamente, los refugios caninos se llenan con perros abandonados. Lili, 13 años, lucha por proteger a su perro, Hagen, pero su padre lo suelta en la calle. Hagen y su ama se buscan por todos los medios, hasta que un día Lili baja los brazos. Por su parte, Hagen lucha por sobrevivir y rápidamente se da cuenta de que no todo el mundo es el mejor amigo del perro. Se une a un grupo de perros errantes, es capturado y enviado a la perrera. Entonces, los perros aprovechan para escapar y hacer una revolución contra los seres humanos. Su venganza será despiadada. La única que podría terminar con la guerra entre el hombre y el perro sería Lili.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/tr7sBC54mJI811BaHXsH6wBWKG9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kkC0dtdu6LjWSkdDGprjofOm4Dy.jpg"
+    },
+    {
+      "id": "tmdb:24488",
+      "type": "movie",
+      "name": "Demonlover",
+      "ids": {
+        "tmdb": 24488
+      },
+      "overview": "Diane trabaja para el Volf Group, una multinacional que está a punto de comprar una firma japonesa (Tokyo Anime), que está revolucionando el mercado con sus dibujos animados porno en 3-D. Una de las dos compañías que se disputan los derechos de difusión por Internet del material recién adquirido por Volf contrata a Diane como espía industrial. La otra compañía está involucrada en varias websites ilegales dedicadas a la ultraviolencia y la pornografía. Diane pronto se verá sumergida en una trama de amenazas y enrevesados intereses.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/92xCcjJ3GcSoEMpYvzXEhr4BUnb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iv5ZHMglzn8I9qn1phdP8xSoHKs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AqdZdnLtojyB9FLeWJPLO1I9e0m.png"
+    },
+    {
+      "id": "tmdb:85550",
+      "type": "movie",
+      "name": "Un cuento de cine",
+      "ids": {
+        "tmdb": 85550
+      },
+      "overview": "Para Dong-soo todos pueden hacer proyectos menos él: construyen familias, planifican su vida social, trabajan. Él es un director que sueña con hacer una película, una quimera que parece imposible... hasta que al salir del cine se encuentra con Yong-shil, la actriz y protagonista de una ficción sobre una pareja desesperada.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/8YrfSqpiTtJvmYqstkFHyzX5SEe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AmvWExQy0RWddiYlkWXz6rWCaJw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9S11oJ7I6loEZ5mYiPZU9LeaPcs.png"
+    },
+    {
+      "id": "tmdb:33247",
+      "type": "movie",
+      "name": "Vivir hasta el fin",
+      "ids": {
+        "tmdb": 33247
+      },
+      "overview": "Luke es un chapero gay. Jon es un crítico de cine. Ambos tienen el virus VIH del SIDA. Y ambos deciden embarcarse en un hedonista y peligroso viaje. Su lema: \"Fuck the world\" (que le jodan al mundo).",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/gWFLPTphg0BSoDgMCSC1zkzeRKe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vzCH76J3QBk2rj1lJhsg9p0E83l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/krKTFXsA1UEQUQO5Ln1mzRH7yZg.png"
+    },
+    {
+      "id": "tmdb:169607",
+      "type": "movie",
+      "name": "Buscando a Vivian Maier",
+      "ids": {
+        "tmdb": 169607
+      },
+      "overview": "Un documental sobre la fallecida Vivian Maier, una niñera cuyas 100.000 fotografías hasta entonces desconocidas le valieron una reputación póstuma como una de las mejores fotógrafas de la calle.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/yaj9mpHNpns5j4ODP4352PgDWJM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4wu5z2QHp85cpyPJ7N7IMw25rVv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gxSnbX0eCcsylIAMMN8WOAUdJKQ.png"
+    },
+    {
+      "id": "tmdb:30014",
+      "type": "movie",
+      "name": "La casa del río",
+      "ids": {
+        "tmdb": 30014
+      },
+      "overview": "Stephen Byrne, un escritor fracasado, aprovechando la ausencia de su mujer, intenta seducir a una criada, a la que mata involuntariamente. A continuación convence a su hermano para que le ayude a deshacerse del cadáver. (FILMAFFINITY)",
+      "year": 1950,
+      "poster": "https://image.tmdb.org/t/p/w342/yvHfKSDYIxRVDpOnM3yqOjtnTzK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yQDWlXBCECuRASzegi3LfPx8riX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/24Z0TGcgUnMsQulhKiwvCLJHurH.png"
+    },
+    {
+      "id": "tmdb:32562",
+      "type": "movie",
+      "name": "El celuloide oculto",
+      "ids": {
+        "tmdb": 32562
+      },
+      "overview": "Documental sobre la homosexualidad en el cine, dirigido por el experto documentalista Rob Epstein (premiado con 2 Oscar) y Jeffrey Friedman (cineasta, productor y ayudante de montaje de, entre otras, \"Toro Salvaje\").",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/x0DSh3uMeQk6EG1DHjGJUywN7C0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/a6Ha2K2VGQVDEPL76oN8qLVnqAH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6AZZqxYUxwQmhDNGqcwCwa11nPS.png"
+    },
+    {
+      "id": "tmdb:64252",
+      "type": "movie",
+      "name": "Los frutos de la pasión",
+      "ids": {
+        "tmdb": 64252
+      },
+      "overview": "Secuela espiritual de \"La historia de O\". “Les Fruits de la Passion” es un melodrama erótico ambientado en el Hong Kong de los años 20. Kinski, un europeo decadente con negocios en la ciudad, envía a su mujer a un burdel para profundizar en su amor física y espiritualmente. El tema de la sumisión, del sufrimiento y la ofensa que aparecían en la cinta de 1975 son retomados aquí, en cuyo burdel de fantasía se muestran viñetas de tortura, fetichismo y perversiones diversas. “O” debe renunciar a cualquier deseo para amar completamente a Sir Stephen, quien se deleita martirizándola mostrándole como ama también a otra mujer, Nathalie, interpretada por Arielle Dombasle. El trío se rompe cuando un cuarto personaje, un joven que envía flores a la bella encarcelada, se introduce entre la pareja protagonista para hacer suya a “O”.",
+      "year": 1981,
+      "poster": "https://image.tmdb.org/t/p/w342/uumQUBPBNAQVrbf7QGuxhFoPCL7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5uJCt4iaTnb8V8HuM9UG5CRWHpk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xUIZwIsa84XmXtyiQD4Wd88JWy9.png"
+    },
+    {
+      "id": "tmdb:12197",
+      "type": "movie",
+      "name": "Repetición",
+      "ids": {
+        "tmdb": 12197
+      },
+      "overview": "Erik y Phillip intentan salir adelante como escritores. Erik es rechazado por las editoriales por su supuesta falta de talento, pero el manuscrito de Phillip es aceptado y, casi de la noche a la mañana, el joven se hace un hueco entre los grandes de la escena cultural noruega. Seis meses después, Erik y sus amigos visitan el hospital psiquiátrico en el que Phillip se encuentra internado para llevarlo de vuelta a casa, después de haberse sometido a un largo tratamiento. Volver a escribir es lo último que Phillip tiene en la cabeza, pero Erik, que no ha cesado en sus intentos literarios, tratará de convencer a su amigo para que retome su afición.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/9GdptmzKh5Sx1KFiABJeUEt9eS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/l9OZmtjVoFhicaY0PtdmTRKiaSR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uq3eLtoXHrJ5RuUfeVw8RFGdoXc.png"
     }
   ]
 }
