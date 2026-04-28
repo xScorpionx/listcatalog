@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:350",
+      "type": "movie",
+      "name": "El diablo viste de Prada",
+      "ids": {
+        "tmdb": 350
+      },
+      "overview": "En el vertiginoso mundo de la moda en Nueva York, la revista 'Runway' es el Santo Grial. Dirigida con puño de hierro y elegante manicura por Miranda Priestly, trabajar en ella es un temible reto para todo aquel que quiera triunfar en ese mundo. Hacerlo como ayudante de Miranda podría abrirle cualquier puerta a Andy Sachs, recientemente graduada. Pero ella es una chica que destaca por su desaliño dentro del pequeño ejército de guapísimas redactoras de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo más que iniciativa y determinación. Y la prueba definitiva está delante de ella, vestida de Prada de pies a cabeza.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/gvBvYFS9LVeukBYcdBX2HJZN4DL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tEvlqan8VA6AP31ff9aUBvkFHTF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mMxqmZ4ECbhDaRhw3WjR5hopAYb.png"
+    },
+    {
       "id": "tmdb:1072790",
       "type": "movie",
       "name": "Cualquiera menos tú",
@@ -13,6 +27,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kaIgPrTT0tIQfOpbhtYUUAGiUV5.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wG6EpZdAYwkwm7yFw0o8J68sYa.svg"
+    },
+    {
+      "id": "tmdb:18240",
+      "type": "movie",
+      "name": "La proposición",
+      "ids": {
+        "tmdb": 18240
+      },
+      "overview": "Margaret es una poderosa y estricta editora de gran éxito de Nueva York que, por un problema con su visado, de repente se enfrenta a ser deportada a Canadá, su país de origen. Para evitarlo y poder mantener su visa en Estados Unidos, la astuta ejecutiva declara que está comprometida con su joven asistente Andrew, al que lleva torturando durante años. Andrew acepta participar en la farsa, pero con algunas condiciones. La \"pareja\" se dirige entonces a Alaska a conocer la peculiar familia de él, y la ejecutiva de ciudad, acostumbrada a tener todo bajo control, se encuentra inmersa en situaciones surrealistas que escapan a cualquier lógica conocida. Con planes de boda en camino y un agente de inmigración tras sus pasos, Margaret y Andrew se comprometen a seguir con el plan previsto pese a las consecuencias.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/bkbzlLA8HCEHRDxsTKGthII0BpW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iRzU50Cku13jrNaD9nfYp9XvQD9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8f3NdDxIu8MMdSlczJYgkL7i63P.png"
     },
     {
       "id": "tmdb:290098",
@@ -29,62 +57,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
-      "id": "tmdb:378236",
-      "type": "movie",
-      "name": "Emoji: La película",
-      "ids": {
-        "tmdb": 378236
-      },
-      "overview": "Los protagonistas habitarán la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen, un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qS6DDqKhYiVgQ149dZQ77BVY0Wi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e1xspArWulYISGqDPFB4TVcINht.png"
-    },
-    {
-      "id": "tmdb:666277",
-      "type": "movie",
-      "name": "Vidas pasadas",
-      "ids": {
-        "tmdb": 666277
-      },
-      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
-    },
-    {
-      "id": "tmdb:545611",
-      "type": "movie",
-      "name": "Todo a la vez en todas partes",
-      "ids": {
-        "tmdb": 545611
-      },
-      "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/idNFfHarxVnMoiiVsk2PGA3trD7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
-    },
-    {
-      "id": "tmdb:311",
-      "type": "movie",
-      "name": "Érase una vez en América",
-      "ids": {
-        "tmdb": 311
-      },
-      "overview": "David Aaronson \"Noodles\", un pobre joven judío, conoce en los suburbios de principios del siglo XX de Manhattan, Nueva York, a Maximilian Bercovicz \"Max\", otro joven de origen hebreo dispuesto a llegar lejos por cualquier método. Entablan una gran amistad y forman, con los 3 colegas de \"Noodles\", Patrick Goldberg \"Patsy\", Philip Stein \"Cockeye\", y Dominic una banda que prospera rápidamente. Desgraciadamente, son perseguidos por Bugsy, el tipo para el que Noodles y sus amigos trabajaban anteriormente, y en uno de sus asaltos, mata a Dominic. Rápidamente Noodles se tira encima suyo y le mata, por lo que pasará 12 años en prisión. Cuando Noodles sale de prisión le recibe Max, que sigue con su banda junto a los otros 2 amigos, Patsy y Cockeye. Rápidamente, entre los 4, llegan a convertirse, en tiempos de la prohibición, en unos de los mayores gánsteres de todo el país.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/87Cw53DKr6GAJGYPUgBDrPKUgRu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTtbvK91URikjtxJzu7dxRqin43.png"
-    },
-    {
       "id": "tmdb:68718",
       "type": "movie",
       "name": "Django desencadenado",
@@ -99,18 +71,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sCMKyeWYXxJdFqYw0A0rypo98u7.png"
     },
     {
-      "id": "tmdb:76492",
+      "id": "tmdb:378236",
       "type": "movie",
-      "name": "Hotel Transilvania",
+      "name": "Emoji: La película",
       "ids": {
-        "tmdb": 76492
+        "tmdb": 378236
       },
-      "overview": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo... El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/zvWlwBGQWuJ0wog65q1uS37BApC.jpg",
+      "overview": "Los protagonistas habitarán la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen, un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcHF7MvHRNyu23XsGnJmTnvB9Rc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o5iC23EDHFBU3N9Pc9L5x5ZV1b5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qS6DDqKhYiVgQ149dZQ77BVY0Wi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e1xspArWulYISGqDPFB4TVcINht.png"
     },
     {
       "id": "tmdb:519465",
@@ -127,18 +99,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
-      "id": "tmdb:978592",
+      "id": "tmdb:311",
       "type": "movie",
-      "name": "Sombras del pasado",
+      "name": "Érase una vez en América",
       "ids": {
-        "tmdb": 978592
+        "tmdb": 311
       },
-      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
+      "overview": "David Aaronson \"Noodles\", un pobre joven judío, conoce en los suburbios de principios del siglo XX de Manhattan, Nueva York, a Maximilian Bercovicz \"Max\", otro joven de origen hebreo dispuesto a llegar lejos por cualquier método. Entablan una gran amistad y forman, con los 3 colegas de \"Noodles\", Patrick Goldberg \"Patsy\", Philip Stein \"Cockeye\", y Dominic una banda que prospera rápidamente. Desgraciadamente, son perseguidos por Bugsy, el tipo para el que Noodles y sus amigos trabajaban anteriormente, y en uno de sus asaltos, mata a Dominic. Rápidamente Noodles se tira encima suyo y le mata, por lo que pasará 12 años en prisión. Cuando Noodles sale de prisión le recibe Max, que sigue con su banda junto a los otros 2 amigos, Patsy y Cockeye. Rápidamente, entre los 4, llegan a convertirse, en tiempos de la prohibición, en unos de los mayores gánsteres de todo el país.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x5YINvEBqgXXzTu9FsXZ7fzAw87.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/87Cw53DKr6GAJGYPUgBDrPKUgRu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iTtbvK91URikjtxJzu7dxRqin43.png"
+    },
+    {
+      "id": "tmdb:545611",
+      "type": "movie",
+      "name": "Todo a la vez en todas partes",
+      "ids": {
+        "tmdb": 545611
+      },
+      "overview": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/idNFfHarxVnMoiiVsk2PGA3trD7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
+    },
+    {
+      "id": "tmdb:76492",
+      "type": "movie",
+      "name": "Hotel Transilvania",
+      "ids": {
+        "tmdb": 76492
+      },
+      "overview": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo... El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/zvWlwBGQWuJ0wog65q1uS37BApC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tcHF7MvHRNyu23XsGnJmTnvB9Rc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o5iC23EDHFBU3N9Pc9L5x5ZV1b5.png"
+    },
+    {
+      "id": "tmdb:43347",
+      "type": "movie",
+      "name": "Amor y otras drogas",
+      "ids": {
+        "tmdb": 43347
+      },
+      "overview": "Maggie es una mujer independiente que ha decidido vivir sin ataduras. Pero conoce a Jamie, un joven cuyo irresistible encanto funciona no sólo con las mujeres, sino también dentro del despiadado mundo de las ventas farmacéuticas. La relación entre Maggie y Jamie, para sorpresa de ambos, desemboca en amor. La película se basa en una historia real: la de Jamie Reidy, un vendedor de Pfizer (laboratorio que desarrolló la Viagra), quien sacó a la luz algunas prácticas dudosas empleadas por estas compañías farmacéuticas.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/b8gw9s7hWbcA0kuezuV10DKgjRP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xVz2CfOzLTxyXugRSOmZC7cMg87.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Bjbwe4Gqkzwz9ty5CjGjdfDD3Y.png"
+    },
+    {
+      "id": "tmdb:666277",
+      "type": "movie",
+      "name": "Vidas pasadas",
+      "ids": {
+        "tmdb": 666277
+      },
+      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
+    },
+    {
+      "id": "tmdb:9361",
+      "type": "movie",
+      "name": "El último mohicano",
+      "ids": {
+        "tmdb": 9361
+      },
+      "overview": "En 1757, a orillas del río Hudson, tropas francesas e inglesas luchan por el dominio de la región. Los ingleses reclutan a los granjeros asentados en esas tierras para formar un ejército capaz de enfrentarse a las tropas franco-indias. Hawkeye -Ojo de halcón- (Daniel Day-Lewis) es un hombre blanco adoptado por los indios mohicanos que vive con su padre (Russell Means) y su hermano Uncas (Eric Schweig). Tras rescatar de una emboscada de los hurones a Cora Munro (Madeleine Stowe) y a su hermana pequeña Alice (Jodhi May), hijas de un oficial británico, los tres deciden acompañarlas al fuerte inglés William Henry, que está siendo asediado por franceses y hurones. Allí les obligan a quedarse con un grupo de británicos que acaban de llegar de las colonias...",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/mM9ewvwSZM5DdHFeSaFtRJYDCij.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dlCE5TAV9v12uQLw5SBz8Axma7T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dnSwpJEC6JDmMkmN5bKMjJSF6ni.png"
     },
     {
       "id": "tmdb:665",
@@ -153,6 +195,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eoNvpCpp67ibPVhItZNxtGZ8LTD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gMzO2GVRtDtBNQuAbAIlAEeUePK.png"
+    },
+    {
+      "id": "tmdb:978592",
+      "type": "movie",
+      "name": "Sombras del pasado",
+      "ids": {
+        "tmdb": 978592
+      },
+      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/x5YINvEBqgXXzTu9FsXZ7fzAw87.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
     },
     {
       "id": "tmdb:11423",
@@ -183,18 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/xBLs1V4UnVR1Gf4UJUNodQvwgt.png"
     },
     {
-      "id": "tmdb:402900",
+      "id": "tmdb:13448",
       "type": "movie",
-      "name": "Ocean's 8",
+      "name": "Ángeles y demonios",
       "ids": {
-        "tmdb": 402900
+        "tmdb": 13448
       },
-      "overview": "Debbie, hermana exconvicta de Danny Ocean, será la líder de un nuevo equipo de ladrones profesionales. Con la ayuda de su mano derecha planeará robar un valioso collar que está en manos de un malvado galerista.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/muBA2zdXAjrqd9fehykSjScL5Aw.jpg",
+      "overview": "Robert Langdon descubre la prueba de la reaparición de una antigua hermandad secreta conocida como los Illuminati: la más poderosa organización secreta en la historia, que a su vez también se enfrenta a una amenaza que hace que peligre su existencia: la Iglesia Católica. Cuando Langdon se entera de que los Illuminati conspiran en contra de la Iglesia intentando detonar una bomba de antimateria, él se dirige a Roma, donde une fuerzas con Vittoria Vetra.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/kLTpEwwVyquJmWak9qKGc4icFMK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ycYoW3q3mUDtTcWRZwC0ZeWY3j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4VgOToNN6cVEJfYOabAS7HpDG2Y.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5byJiy9T0ndTiC9hKDh54PuqC68.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lYZgikZiBjNAF1eAEOa8FePylMB.png"
     },
     {
       "id": "tmdb:1079091",
@@ -211,46 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/48AUIelLTC7UpjyKreojMBD23dx.png"
     },
     {
-      "id": "tmdb:13448",
+      "id": "tmdb:402900",
       "type": "movie",
-      "name": "Ángeles y demonios",
+      "name": "Ocean's 8",
       "ids": {
-        "tmdb": 13448
+        "tmdb": 402900
       },
-      "overview": "Robert Langdon descubre la prueba de la reaparición de una antigua hermandad secreta conocida como los Illuminati: la más poderosa organización secreta en la historia, que a su vez también se enfrenta a una amenaza que hace que peligre su existencia: la Iglesia Católica. Cuando Langdon se entera de que los Illuminati conspiran en contra de la Iglesia intentando detonar una bomba de antimateria, él se dirige a Roma, donde une fuerzas con Vittoria Vetra.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/kLTpEwwVyquJmWak9qKGc4icFMK.jpg",
+      "overview": "Debbie, hermana exconvicta de Danny Ocean, será la líder de un nuevo equipo de ladrones profesionales. Con la ayuda de su mano derecha planeará robar un valioso collar que está en manos de un malvado galerista.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/muBA2zdXAjrqd9fehykSjScL5Aw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5byJiy9T0ndTiC9hKDh54PuqC68.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lYZgikZiBjNAF1eAEOa8FePylMB.png"
-    },
-    {
-      "id": "tmdb:762",
-      "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
-      "ids": {
-        "tmdb": 762
-      },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
-    },
-    {
-      "id": "tmdb:296098",
-      "type": "movie",
-      "name": "El puente de los espías",
-      "ids": {
-        "tmdb": 296098
-      },
-      "overview": "Década de los 60. Estados Unidos y la Unión Soviética se encuentran en plena Guerra Fría. El 1 de mayo de 1960 un avión espía americano fue derribado por el ejército enemigo cuando sobrevolaba territorio soviético. Sorprendentemente, el piloto, Francis Gary Powers, logra escapar gracias a su paracaídas. Cuando ya se creía a salvo, es capturado por los rusos. El abogado James B. Donovan es el encargado de negociar la liberación del soldado.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/eEMHaQZGaFqvXa46cdywMDIY1Vg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pY33q1IWJulvcFJpBaY8Cd3VeAy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAd5h92YucbhUP8YtQoOLNjv74M.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ycYoW3q3mUDtTcWRZwC0ZeWY3j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4VgOToNN6cVEJfYOabAS7HpDG2Y.png"
     },
     {
       "id": "tmdb:395834",
@@ -267,18 +295,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/cukehwDevWqOkqI21cJXJvmfXaq.png"
     },
     {
-      "id": "tmdb:969492",
+      "id": "tmdb:296098",
       "type": "movie",
-      "name": "Misión hostil",
+      "name": "El puente de los espías",
       "ids": {
-        "tmdb": 969492
+        "tmdb": 296098
       },
-      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
+      "overview": "Década de los 60. Estados Unidos y la Unión Soviética se encuentran en plena Guerra Fría. El 1 de mayo de 1960 un avión espía americano fue derribado por el ejército enemigo cuando sobrevolaba territorio soviético. Sorprendentemente, el piloto, Francis Gary Powers, logra escapar gracias a su paracaídas. Cuando ya se creía a salvo, es capturado por los rusos. El abogado James B. Donovan es el encargado de negociar la liberación del soldado.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/eEMHaQZGaFqvXa46cdywMDIY1Vg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pY33q1IWJulvcFJpBaY8Cd3VeAy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cAd5h92YucbhUP8YtQoOLNjv74M.png"
+    },
+    {
+      "id": "tmdb:762",
+      "type": "movie",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
+      "ids": {
+        "tmdb": 762
+      },
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
       "id": "tmdb:688",
@@ -295,34 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bexDCBOW8PiN5StVw0M2MWas0BZ.png"
     },
     {
-      "id": "tmdb:9361",
-      "type": "movie",
-      "name": "El último mohicano",
-      "ids": {
-        "tmdb": 9361
-      },
-      "overview": "En 1757, a orillas del río Hudson, tropas francesas e inglesas luchan por el dominio de la región. Los ingleses reclutan a los granjeros asentados en esas tierras para formar un ejército capaz de enfrentarse a las tropas franco-indias. Hawkeye -Ojo de halcón- (Daniel Day-Lewis) es un hombre blanco adoptado por los indios mohicanos que vive con su padre (Russell Means) y su hermano Uncas (Eric Schweig). Tras rescatar de una emboscada de los hurones a Cora Munro (Madeleine Stowe) y a su hermana pequeña Alice (Jodhi May), hijas de un oficial británico, los tres deciden acompañarlas al fuerte inglés William Henry, que está siendo asediado por franceses y hurones. Allí les obligan a quedarse con un grupo de británicos que acaban de llegar de las colonias...",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/mM9ewvwSZM5DdHFeSaFtRJYDCij.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dlCE5TAV9v12uQLw5SBz8Axma7T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dnSwpJEC6JDmMkmN5bKMjJSF6ni.png"
-    },
-    {
-      "id": "tmdb:7305",
-      "type": "movie",
-      "name": "¡Viven!",
-      "ids": {
-        "tmdb": 7305
-      },
-      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
-    },
-    {
       "id": "tmdb:785084",
       "type": "movie",
       "name": "La ballena (The Whale)",
@@ -337,46 +351,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
     },
     {
-      "id": "tmdb:583",
+      "id": "tmdb:969492",
       "type": "movie",
-      "name": "La vida de Brian",
+      "name": "Misión hostil",
       "ids": {
-        "tmdb": 583
+        "tmdb": 969492
       },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
-      "id": "tmdb:762430",
-      "type": "movie",
-      "name": "Retribution",
-      "ids": {
-        "tmdb": 762430
-      },
-      "overview": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero. Remake de la película española de 2015 \"El Desconocido\".",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/sf8bmlofyWyRaaaWC9gR79It8qO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a98qqec9FM5WkgqFbb2uYdh3FWH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vWiD2q5vPtCbc30TqWmfrCcGlyX.png"
-    },
-    {
-      "id": "tmdb:505192",
-      "type": "movie",
-      "name": "Un asunto de familia",
-      "ids": {
-        "tmdb": 505192
-      },
-      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
     },
     {
       "id": "tmdb:4147",
@@ -393,20 +379,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gDBUWRJrxVa75Z0vvjCPUWJh3uz.png"
     },
     {
-      "id": "tmdb:915935",
-      "type": "movie",
-      "name": "Anatomía de una caída",
-      "ids": {
-        "tmdb": 915935
-      },
-      "overview": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zauak6TTi3wpehSkwM2NsTJgKhh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
-    },
-    {
       "id": "tmdb:1149167",
       "type": "movie",
       "name": "Ladrones con clase 2",
@@ -421,32 +393,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
     },
     {
-      "id": "tmdb:1633",
+      "id": "tmdb:915935",
       "type": "movie",
-      "name": "Tomates verdes fritos",
+      "name": "Anatomía de una caída",
       "ids": {
-        "tmdb": 1633
+        "tmdb": 915935
       },
-      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
+      "overview": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zauak6TTi3wpehSkwM2NsTJgKhh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
     },
     {
-      "id": "tmdb:11860",
+      "id": "tmdb:7305",
       "type": "movie",
-      "name": "Sabrina (y sus amores)",
+      "name": "¡Viven!",
       "ids": {
-        "tmdb": 11860
+        "tmdb": 7305
       },
-      "overview": "Sabrina Fairchild, la hija del chófer de la acaudalada familia de los Larrabee, desde niña se sintió fascinada por los hermanos Larrabee, especialmente por David. Convertida ya en una jovencita, gracias a los ahorros de su padre, se va a París. Cuando regresa a Estados Unidos, se ha transformado en una bella y sofisticada joven que deslumbra a David hasta tal punto que está dispuesto a romper su compromiso matrimonial con una millonaria. Pero Linus, el hermano mayor, ha cerrado un trato comercial con el padre de la novia de David y no está dispuesto a consentir que nadie interfiera en sus negocios.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/pKxuFbkT0QMbY7yAQjFXcexhqsI.jpg",
+      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zX9PHHvvMES2a6HLywiZ8ZODMi2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8qkp5d581yVAX0Lc486LYupysH9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
+    },
+    {
+      "id": "tmdb:51828",
+      "type": "movie",
+      "name": "Siempre el mismo día",
+      "ids": {
+        "tmdb": 51828
+      },
+      "overview": "Emma y Dexter se conocen el día de su graduación universitaria, el 15 de julio de 1988. Ella es una chica de clase trabajadora que sueña con hacer del mundo un lugar mejor. Él es un joven rico con ganas de comerse el mundo. Durante los siguientes veinte años, las vidas de ambos se cruzan y separan, su amistad se debilita o se refuerza y comparten la risa y el romance, el dolor y la alegría. Pero por fin, un día, ambos se dan cuenta de que lo que habían estado buscando durante tanto tiempo estaba delante de ellos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/pC7IS1LlDYtxN3HHaeRrhmlAVin.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r8ahQp4B4o0lGa7X81cyDc87UO2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p90i4bvaPhC1gLdMSYvS1nDFCJP.png"
+    },
+    {
+      "id": "tmdb:583",
+      "type": "movie",
+      "name": "La vida de Brian",
+      "ids": {
+        "tmdb": 583
+      },
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
     },
     {
       "id": "tmdb:388399",
@@ -463,46 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
     },
     {
-      "id": "tmdb:76649",
+      "id": "tmdb:1633",
       "type": "movie",
-      "name": "Pompeya",
+      "name": "Tomates verdes fritos",
       "ids": {
-        "tmdb": 76649
+        "tmdb": 1633
       },
-      "overview": "El Monte del Vesubio, una de las zonas volcánicas más peligrosas del mundo, ha entrado en erupción. En una carrera por salvar la vida, un intrépido y valeroso esclavo de barco se entera de las noticias y hará todo lo posible por volver a casa y asegurarse de salvar a la dueña de su corazón y a su mejor amigo, un gran gladiador sin escapatoria del coliseo en el centro de la ciudad. Pero la batalla contra la madre naturaleza no será la única amenaza a la que se tenga que enfrentar por sacarlos vivos de allí, en su camino se cruzará con un senador romano sin conciencia ni corazón que ha mantenido al pueblo bajo su yugo.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/rOHTyGGKNBU26sLy0K4rkuuH9SA.jpg",
+      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1mmnFjoBaPNZvFSfCDUdINOW5RF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bPSzn6GsiVTAjCeH1icG2TLtDJh.png"
-    },
-    {
-      "id": "tmdb:399035",
-      "type": "movie",
-      "name": "El pasajero",
-      "ids": {
-        "tmdb": 399035
-      },
-      "overview": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ijL7GUXn0setkWEjSIlVgcNuRl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7kfdjV3xxFvisMPqCHGwAWXFCd4.png"
-    },
-    {
-      "id": "tmdb:768744",
-      "type": "movie",
-      "name": "My Hero Academia: Misión mundial de héroes",
-      "ids": {
-        "tmdb": 768744
-      },
-      "overview": "Deku es perseguido por la policía, acusado de asesinato en masa, mientras que el resto de super héroes han de enfrentarse a un incidente que afecta a todo el mundo. Tercera película de la serie anime \"My Hero Academia\".",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/u9JXGdxsb7jbRhqaeVWzCBwiY19.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cugmVwK0N4aAcLibelKN5jWDXSx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vgZLngcwLni5mEW8kslJdidLdt6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
     },
     {
       "id": "tmdb:1904",
@@ -519,101 +491,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zzVOOxpaRjIJWE1n3cgk8iYvdKv.png"
     },
     {
-      "id": "tmdb:262543",
+      "id": "tmdb:762430",
       "type": "movie",
-      "name": "Autómata",
+      "name": "Retribution",
       "ids": {
-        "tmdb": 262543
+        "tmdb": 762430
       },
-      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "overview": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero. Remake de la película española de 2015 \"El Desconocido\".",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/sf8bmlofyWyRaaaWC9gR79It8qO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
-    },
-    {
-      "id": "tmdb:660120",
-      "type": "movie",
-      "name": "La peor persona del mundo",
-      "ids": {
-        "tmdb": 660120
-      },
-      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
-    },
-    {
-      "id": "tmdb:580175",
-      "type": "movie",
-      "name": "Otra ronda",
-      "ids": {
-        "tmdb": 580175
-      },
-      "overview": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
-    },
-    {
-      "id": "tmdb:554761",
-      "type": "movie",
-      "name": "Falling",
-      "ids": {
-        "tmdb": 554761
-      },
-      "overview": "John Petersen vive junto a su pareja Eric y su hija Monica en el sur de California. Su padre Willis es un granjero con ideas y actitudes más tradicionales y con una idea de familia nuclear de tiempos pasados. La diferencia entre los dos es continuamente un punto de conflicto y frustración para su relación.  Cuando Willis decide viajar a Los Ángeles de forma indefinida con la intención de encontrar un buen lugar para retirarse, padre e hijo tienen que aprender a convivir mientras dos mundos muy diferentes se enfrentan.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/yxhuxvPlNiGMTc5K4ElMFKw4suN.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bsilrZ7cbf0VFacDG9O8JyLPnbN.jpg"
-    },
-    {
-      "id": "tmdb:1105407",
-      "type": "movie",
-      "name": "Herido",
-      "ids": {
-        "tmdb": 1105407
-      },
-      "overview": "Dan Lawson, un detective de Chicago, viaja a Escocia para reunirse con el detective escocés Glen Boyd, tras el regreso de un asesino en serie cuyos crímenes coinciden con un caso sin resolver que él investigó cinco años antes en Chicago.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/pgcq9W2J74vtbmNFfhqgxAsS9Rx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fliXhaObtd2fRO9AkuisWxqbSiB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eRDxVr9odAaax88eCdFu3RnNXJc.png"
-    },
-    {
-      "id": "tmdb:10660",
-      "type": "movie",
-      "name": "Te puede pasar a ti",
-      "ids": {
-        "tmdb": 10660
-      },
-      "overview": "Charlie Lang es un buen policía que está casado con Muriel, una mujer muy ambiciosa que sólo sueña con tener mucho dinero y abandonar el humilde barrio de Queens. Un día entra con su compañero Bo en una pequeña cafetería y, como no tiene dinero para dejar propina, le hace a la camarera Yvonne una promesa: si gana en el próximo sorteo de la loto, compartirá el premio con ella. Inesperadamente, el billete resulta premiado con cuatro millones de dólares. Para desesperación de Muriel, Charlie mantiene su promesa y entrega la mitad a Yvonne. La prensa y la televisión se harán eco inmediatamente del insólito caso.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/sH5NeRCos8QHw6YbVk0baPBQC5m.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gyaYDGi38isQWGg7qT06vhO0q67.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zICOjtbl22Powbu6M6pM19EEcEb.png"
-    },
-    {
-      "id": "tmdb:339984",
-      "type": "movie",
-      "name": "Los milagros del cielo",
-      "ids": {
-        "tmdb": 339984
-      },
-      "overview": "La joven Annabel Beam es una niña de diez años que padece un extraño e incurable trastorno digestivo. Su madre Christy hace todo lo que está en su mano para intentar ayudar a la pequeña, pero sin resultados. Tras un terrible accidente que casi ocasiona su muerte, Annabel supera su enfermedad gracias a un milagro que deja sin habla a su familia, los médicos y toda la comunidad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/6RDJD6p3zuo0oux8QknG5QkqtRK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eSs0CkWB5ASQgcx8Dr0uai3IRjT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oHLL2e4WkPaoq397ddcRCVUbjw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/a98qqec9FM5WkgqFbb2uYdh3FWH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vWiD2q5vPtCbc30TqWmfrCcGlyX.png"
     },
     {
       "id": "tmdb:838240",
@@ -630,18 +519,130 @@
       "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
     },
     {
-      "id": "tmdb:416477",
+      "id": "tmdb:76649",
       "type": "movie",
-      "name": "La gran enfermedad del amor",
+      "name": "Pompeya",
       "ids": {
-        "tmdb": 416477
+        "tmdb": 76649
       },
-      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
+      "overview": "El Monte del Vesubio, una de las zonas volcánicas más peligrosas del mundo, ha entrado en erupción. En una carrera por salvar la vida, un intrépido y valeroso esclavo de barco se entera de las noticias y hará todo lo posible por volver a casa y asegurarse de salvar a la dueña de su corazón y a su mejor amigo, un gran gladiador sin escapatoria del coliseo en el centro de la ciudad. Pero la batalla contra la madre naturaleza no será la única amenaza a la que se tenga que enfrentar por sacarlos vivos de allí, en su camino se cruzará con un senador romano sin conciencia ni corazón que ha mantenido al pueblo bajo su yugo.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/rOHTyGGKNBU26sLy0K4rkuuH9SA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1mmnFjoBaPNZvFSfCDUdINOW5RF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bPSzn6GsiVTAjCeH1icG2TLtDJh.png"
+    },
+    {
+      "id": "tmdb:441701",
+      "type": "movie",
+      "name": "Verónica",
+      "ids": {
+        "tmdb": 441701
+      },
+      "overview": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/oM2F7l8zNXV12Obe48IpQbH3crK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6YMNG8B8ikbdh08mq9CoVbdlDGm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png"
+    },
+    {
+      "id": "tmdb:505192",
+      "type": "movie",
+      "name": "Un asunto de familia",
+      "ids": {
+        "tmdb": 505192
+      },
+      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+    },
+    {
+      "id": "tmdb:11860",
+      "type": "movie",
+      "name": "Sabrina (y sus amores)",
+      "ids": {
+        "tmdb": 11860
+      },
+      "overview": "Sabrina Fairchild, la hija del chófer de la acaudalada familia de los Larrabee, desde niña se sintió fascinada por los hermanos Larrabee, especialmente por David. Convertida ya en una jovencita, gracias a los ahorros de su padre, se va a París. Cuando regresa a Estados Unidos, se ha transformado en una bella y sofisticada joven que deslumbra a David hasta tal punto que está dispuesto a romper su compromiso matrimonial con una millonaria. Pero Linus, el hermano mayor, ha cerrado un trato comercial con el padre de la novia de David y no está dispuesto a consentir que nadie interfiera en sus negocios.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/pKxuFbkT0QMbY7yAQjFXcexhqsI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zX9PHHvvMES2a6HLywiZ8ZODMi2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8qkp5d581yVAX0Lc486LYupysH9.png"
+    },
+    {
+      "id": "tmdb:660120",
+      "type": "movie",
+      "name": "La peor persona del mundo",
+      "ids": {
+        "tmdb": 660120
+      },
+      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
+    },
+    {
+      "id": "tmdb:768744",
+      "type": "movie",
+      "name": "My Hero Academia: Misión mundial de héroes",
+      "ids": {
+        "tmdb": 768744
+      },
+      "overview": "Deku es perseguido por la policía, acusado de asesinato en masa, mientras que el resto de super héroes han de enfrentarse a un incidente que afecta a todo el mundo. Tercera película de la serie anime \"My Hero Academia\".",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/u9JXGdxsb7jbRhqaeVWzCBwiY19.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cugmVwK0N4aAcLibelKN5jWDXSx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vgZLngcwLni5mEW8kslJdidLdt6.png"
+    },
+    {
+      "id": "tmdb:10660",
+      "type": "movie",
+      "name": "Te puede pasar a ti",
+      "ids": {
+        "tmdb": 10660
+      },
+      "overview": "Charlie Lang es un buen policía que está casado con Muriel, una mujer muy ambiciosa que sólo sueña con tener mucho dinero y abandonar el humilde barrio de Queens. Un día entra con su compañero Bo en una pequeña cafetería y, como no tiene dinero para dejar propina, le hace a la camarera Yvonne una promesa: si gana en el próximo sorteo de la loto, compartirá el premio con ella. Inesperadamente, el billete resulta premiado con cuatro millones de dólares. Para desesperación de Muriel, Charlie mantiene su promesa y entrega la mitad a Yvonne. La prensa y la televisión se harán eco inmediatamente del insólito caso.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/sH5NeRCos8QHw6YbVk0baPBQC5m.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gyaYDGi38isQWGg7qT06vhO0q67.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zICOjtbl22Powbu6M6pM19EEcEb.png"
+    },
+    {
+      "id": "tmdb:262543",
+      "type": "movie",
+      "name": "Autómata",
+      "ids": {
+        "tmdb": 262543
+      },
+      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+    },
+    {
+      "id": "tmdb:399035",
+      "type": "movie",
+      "name": "El pasajero",
+      "ids": {
+        "tmdb": 399035
+      },
+      "overview": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6ijL7GUXn0setkWEjSIlVgcNuRl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7kfdjV3xxFvisMPqCHGwAWXFCd4.png"
     },
     {
       "id": "tmdb:486589",
@@ -658,6 +659,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/dgEirtjrZAZcbNha88HZAchEbrV.png"
     },
     {
+      "id": "tmdb:580175",
+      "type": "movie",
+      "name": "Otra ronda",
+      "ids": {
+        "tmdb": 580175
+      },
+      "overview": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
+    },
+    {
       "id": "tmdb:758866",
       "type": "movie",
       "name": "Drive my car",
@@ -672,32 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
     },
     {
-      "id": "tmdb:4543",
+      "id": "tmdb:339984",
       "type": "movie",
-      "name": "El sentido de la vida",
+      "name": "Los milagros del cielo",
       "ids": {
-        "tmdb": 4543
+        "tmdb": 339984
       },
-      "overview": "Conjunto de episodios que muestran de forma disparatada los momentos más importantes del ciclo de la vida. Desde el nacimiento a la muerte, pasando por asuntos como la filosofía, la historia o la medicina, todo tratado con el inconfundible humor de los populares cómicos ingleses.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/tlM66Ms9pCo89W3TzEPk6mKloAj.jpg",
+      "overview": "La joven Annabel Beam es una niña de diez años que padece un extraño e incurable trastorno digestivo. Su madre Christy hace todo lo que está en su mano para intentar ayudar a la pequeña, pero sin resultados. Tras un terrible accidente que casi ocasiona su muerte, Annabel supera su enfermedad gracias a un milagro que deja sin habla a su familia, los médicos y toda la comunidad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/6RDJD6p3zuo0oux8QknG5QkqtRK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymzDL8lBi5uU6o2El8qs5pjtfh5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ctPbBpLJ2lW6a6VjVWgF4no4M2d.png"
-    },
-    {
-      "id": "tmdb:517814",
-      "type": "movie",
-      "name": "Cafarnaúm",
-      "ids": {
-        "tmdb": 517814
-      },
-      "overview": "Beirut, Líbano. Zain es un niño de doce años inteligente y valiente, que sobrevive a los peligros de las calles de la ciudad gracias a su ingenio. Huyendo de sus padres, y haciendo valer sus derechos, recurre a la justicia para demandarles por el 'crimen' de haberle dado la vida. Una fábula contemporánea de carácter político sobre un niño que se rebela contra la vida que le han impuesto vivir .",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2rXFgdX8fPtyvih9zWsV8yUHYZU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eSs0CkWB5ASQgcx8Dr0uai3IRjT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oHLL2e4WkPaoq397ddcRCVUbjw.png"
     }
   ]
 }
