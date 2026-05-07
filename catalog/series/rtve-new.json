@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:321076",
+      "type": "series",
+      "name": "Se nos ha ido de las manos",
+      "ids": {
+        "tmdb": 321076
+      },
+      "overview": "Programa documental presentado por el periodista y cineasta Carles Tamayo en el que, en cada capítulo, se analizan temas que como sociedad hemos normalizado sin cuestionar. A lo largo de cada episodio acompañamos al equipo documentalista de Tamayo en pleno proceso de investigación. En ese recorrido intentarán plantear soluciones sencillas a problemas complejos, mientras descubren hasta qué punto la realidad supera cualquier expectativa.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/oQ8EhfWP6vbUiWwHb29MXbKgerj.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:294966",
       "type": "series",
       "name": "Barrio Esperanza",
@@ -655,20 +667,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fNoEIkBKCl50mywEQTeLE43Jh3Z.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vYqlC8NMS1NtGtbBQ4shL1fHiG9.png"
-    },
-    {
-      "id": "tmdb:127727",
-      "type": "series",
-      "name": "Middlemost Post: Servicio Postal",
-      "ids": {
-        "tmdb": 127727
-      },
-      "overview": "Cuando una nube de lluvia reformada se une a un cartero náufrago y una morsa mágica, los tres forman el Middlemost Post, el servicio postal más loco y adorable del Monte Middlemost.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/4YYG6xn24XwEAvgQVgg6K1Gmhpy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mFNVrWS7BQACk3Cv5I1IKQJZRhW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/54AITAixwYIgrhS7lcFnpTeDZLp.png"
     }
   ]
 }
