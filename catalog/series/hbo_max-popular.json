@@ -99,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
-    },
-    {
       "id": "tmdb:18165",
       "type": "series",
       "name": "Crónicas vampíricas",
@@ -127,18 +113,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
-      "id": "tmdb:60622",
+      "id": "tmdb:1402",
       "type": "series",
-      "name": "Fargo",
+      "name": "The Walking Dead",
       "ids": {
-        "tmdb": 60622
+        "tmdb": 1402
       },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
       "id": "tmdb:1398",
@@ -155,20 +141,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png"
     },
     {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick y Morty",
-      "ids": {
-        "tmdb": 60625
-      },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
-    },
-    {
       "id": "tmdb:31132",
       "type": "series",
       "name": "Historias corrientes",
@@ -181,6 +153,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4p2x6tF9HAKIROroZRSbAtv9kwv.png"
+    },
+    {
+      "id": "tmdb:60622",
+      "type": "series",
+      "name": "Fargo",
+      "ids": {
+        "tmdb": 60622
+      },
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
       "id": "tmdb:125282",
@@ -225,6 +225,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png"
     },
     {
+      "id": "tmdb:1705",
+      "type": "series",
+      "name": "Fringe",
+      "ids": {
+        "tmdb": 1705
+      },
+      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
+    },
+    {
       "id": "tmdb:94997",
       "type": "series",
       "name": "La casa del dragón",
@@ -239,18 +253,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
     },
     {
-      "id": "tmdb:1705",
+      "id": "tmdb:12225",
       "type": "series",
-      "name": "Fringe",
+      "name": "Peppa Pig",
       "ids": {
-        "tmdb": 1705
+        "tmdb": 12225
       },
-      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3kaUYRPzdNt8eeC8iAeWAH9hauK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:111803",
@@ -295,34 +309,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
     },
     {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
-    },
-    {
-      "id": "tmdb:4546",
-      "type": "series",
-      "name": "Larry David",
-      "ids": {
-        "tmdb": 4546
-      },
-      "overview": "Hay personas que parecen haber sido maldecidas con la ley de Murphy: si algo tiene la posibilidad de salir mal, saldrá mal. Larry David se considera una de ellas. El creador y productor de Seinfield, una de los programas más laureados de la historia de la televisión, se interpreta a sí mismo en esta rompedora serie donde, en un ambiguo punto entre la realidad y la ficción, seguimos su día a día que se desarrolla entre celebridades y gente de la calle que nunca sabemos si están o no interpretando un guión. Somos así testigos de su peculiar y ácida visión de todo lo que le rodea y de su don para convertir situaciones cotidianas como ir al cine o atender una llamada telefónica en verdaderos despropósitos.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nkHHmOC1eDRI5hFuU2XshLdmnPt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
-    },
-    {
       "id": "tmdb:15260",
       "type": "series",
       "name": "Hora de aventuras",
@@ -337,18 +323,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
     },
     {
-      "id": "tmdb:124101",
+      "id": "tmdb:4546",
       "type": "series",
-      "name": "Hacks",
+      "name": "Larry David",
       "ids": {
-        "tmdb": 124101
+        "tmdb": 4546
       },
-      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "overview": "Hay personas que parecen haber sido maldecidas con la ley de Murphy: si algo tiene la posibilidad de salir mal, saldrá mal. Larry David se considera una de ellas. El creador y productor de Seinfield, una de los programas más laureados de la historia de la televisión, se interpreta a sí mismo en esta rompedora serie donde, en un ambiguo punto entre la realidad y la ficción, seguimos su día a día que se desarrolla entre celebridades y gente de la calle que nunca sabemos si están o no interpretando un guión. Somos así testigos de su peculiar y ácida visión de todo lo que le rodea y de su don para convertir situaciones cotidianas como ir al cine o atender una llamada telefónica en verdaderos despropósitos.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8EfB5rTGTcPR3zW1JrI4Ofzz0Gt.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/nkHHmOC1eDRI5hFuU2XshLdmnPt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
     },
     {
       "id": "tmdb:41727",
@@ -379,18 +365,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png"
     },
     {
-      "id": "tmdb:45140",
+      "id": "tmdb:1438",
       "type": "series",
-      "name": "Teen Titans Go!",
+      "name": "Bajo escucha",
       "ids": {
-        "tmdb": 45140
+        "tmdb": 1438
       },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
+      "overview": "David Simon, creador y coguionista de la miniserie de HBO tres veces ganadora del premio Emmy The Corner, este sencillo y extremadamente realista drama sigue una caótica y controvertida investigación de drogas y asesinatos en Baltimore que conllevará peligrosos pinchazos telefónicos y continua vigilancia. Mostrando ambas perspectivas, de la policía y de sus criminales, la serie captura un universo donde distinguir entre el bien y el mal, el delito y la condena, es siempre desafío.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/taMUpRAnpZzi5yEaDQ45KhKGRyu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tIWcnwZegcY5Ix2649P2hJOxcSx.png"
+    },
+    {
+      "id": "tmdb:124101",
+      "type": "series",
+      "name": "Hacks",
+      "ids": {
+        "tmdb": 124101
+      },
+      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8EfB5rTGTcPR3zW1JrI4Ofzz0Gt.svg"
     },
     {
       "id": "tmdb:69050",
@@ -421,18 +421,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
     },
     {
-      "id": "tmdb:1438",
+      "id": "tmdb:45140",
       "type": "series",
-      "name": "Bajo escucha",
+      "name": "Teen Titans Go!",
       "ids": {
-        "tmdb": 1438
+        "tmdb": 45140
       },
-      "overview": "David Simon, creador y coguionista de la miniserie de HBO tres veces ganadora del premio Emmy The Corner, este sencillo y extremadamente realista drama sigue una caótica y controvertida investigación de drogas y asesinatos en Baltimore que conllevará peligrosos pinchazos telefónicos y continua vigilancia. Mostrando ambas perspectivas, de la policía y de sus criminales, la serie captura un universo donde distinguir entre el bien y el mal, el delito y la condena, es siempre desafío.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/taMUpRAnpZzi5yEaDQ45KhKGRyu.jpg",
+      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tIWcnwZegcY5Ix2649P2hJOxcSx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
+    },
+    {
+      "id": "tmdb:100088",
+      "type": "series",
+      "name": "The Last of Us",
+      "ids": {
+        "tmdb": 100088
+      },
+      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mKcYN4yEj5uB8HIdOz4pAOsBSLJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     },
     {
       "id": "tmdb:95057",
@@ -463,18 +477,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
     },
     {
-      "id": "tmdb:100088",
+      "id": "tmdb:256695",
       "type": "series",
-      "name": "The Last of Us",
+      "name": "Historias corrientes: Las cintas perdidas",
       "ids": {
-        "tmdb": 100088
+        "tmdb": 256695
       },
-      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+      "overview": "Mordecai y Rigby son buenos amigos y viven y trabajan en un parque local. Inexplicablemente, su terrenal trabajo siempre acaba siendo un caos surrealista, para disgusto de su jefe y sus compañeros de trabajo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/6lubCRop1vxpZ2aqw4pWO3DA6Qn.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mKcYN4yEj5uB8HIdOz4pAOsBSLJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6iPspWMbbPWmLHLl2ibYAJS90Cw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/smVbFHV8eXz2hDCcQN5gnGdXNLh.png"
     },
     {
       "id": "tmdb:212989",
@@ -491,34 +505,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yBJr2CZoAVP5S0i2JbEtgvULFuZ.png"
     },
     {
-      "id": "tmdb:128839",
-      "type": "series",
-      "name": "La Brea",
-      "ids": {
-        "tmdb": 128839
-      },
-      "overview": "Un agujero gigantesco, de origen inexplicable, destruye Los Ángeles y separa a una familia en dos mundos distintos: la madre y el hijo quedan atrapados en una tierra salvaje, mientras que, en la superficie, el padre y la hija intentan rescatarlos.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/jyHK7qFX2HvaAULSAO7aztdanyr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ctiqhVDAt1rZV4P2uo1Wq8ax33g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tJsyfZ39RnSMtX4oOKNHcOX0uZ9.png"
-    },
-    {
-      "id": "tmdb:256695",
-      "type": "series",
-      "name": "Historias corrientes: Las cintas perdidas",
-      "ids": {
-        "tmdb": 256695
-      },
-      "overview": "Mordecai y Rigby son los amigos que trabajan y viven en un parque local. De alguna manera, sus trabajos mundanos siempre se convierten en un caos surrealista, para disgusto de su jefe y sus compañeros. Desde colarse en el luau de un amigo hasta buscar el lugar más dulce para echarse una siesta, evitar el trabajo se convierte rápidamente en frustrar desastres surrealistas... de la forma más divertida y entretenida.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/6lubCRop1vxpZ2aqw4pWO3DA6Qn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6iPspWMbbPWmLHLl2ibYAJS90Cw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/smVbFHV8eXz2hDCcQN5gnGdXNLh.png"
-    },
-    {
       "id": "tmdb:105",
       "type": "series",
       "name": "Sexo en Nueva York",
@@ -533,46 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
     },
     {
-      "id": "tmdb:76331",
+      "id": "tmdb:128839",
       "type": "series",
-      "name": "Succession",
+      "name": "La Brea",
       "ids": {
-        "tmdb": 76331
+        "tmdb": 128839
       },
-      "overview": "La serie gira en torno a la vida de la familia Roy. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+      "overview": "Un agujero gigantesco, de origen inexplicable, destruye Los Ángeles y separa a una familia en dos mundos distintos: la madre y el hijo quedan atrapados en una tierra salvaje, mientras que, en la superficie, el padre y la hija intentan rescatarlos.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/jyHK7qFX2HvaAULSAO7aztdanyr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9lkFo77V2h8FQs4VMQP5TGer6Ic.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
-    },
-    {
-      "id": "tmdb:10545",
-      "type": "series",
-      "name": "True Blood (Sangre fresca)",
-      "ids": {
-        "tmdb": 10545
-      },
-      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
-    },
-    {
-      "id": "tmdb:31917",
-      "type": "series",
-      "name": "Pequeñas mentirosas",
-      "ids": {
-        "tmdb": 31917
-      },
-      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ctiqhVDAt1rZV4P2uo1Wq8ax33g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tJsyfZ39RnSMtX4oOKNHcOX0uZ9.png"
     },
     {
       "id": "tmdb:63401",
@@ -589,6 +547,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
     },
     {
+      "id": "tmdb:10545",
+      "type": "series",
+      "name": "True Blood (Sangre fresca)",
+      "ids": {
+        "tmdb": 10545
+      },
+      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
+    },
+    {
+      "id": "tmdb:76331",
+      "type": "series",
+      "name": "Succession",
+      "ids": {
+        "tmdb": 76331
+      },
+      "overview": "La serie gira en torno a la vida de la familia Roy. Son multimillonarios y poderosos, tienen todo lo que ansían, salvo vida familiar. Son dueños de una de la compañías de comunicaciones más exitosas del mundo. Su objetivo principal es hacer que el imperio crezca y, para ello, las lealtades se pondrán en juego.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9lkFo77V2h8FQs4VMQP5TGer6Ic.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5MAURYSb9Q98fRWuSTOGFlztKIZ.png"
+    },
+    {
       "id": "tmdb:224372",
       "type": "series",
       "name": "El caballero de los Siete Reinos",
@@ -601,6 +587,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2HhuK3ecS997ZUYifKQkKm6UJAY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ax3rWzexUcPWc34FaO8n85OKTtz.png"
+    },
+    {
+      "id": "tmdb:607",
+      "type": "series",
+      "name": "Las Supernenas",
+      "ids": {
+        "tmdb": 607
+      },
+      "overview": "El profesor Utonium es un ingeniero genético que siempre está experimentando. Una noche decide hacer realidad su sueño más anhelado: crear una niña perfecta. El resultado es espectacular: en vez de una niña ha creado a tres superheroínas.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/nGVE5Npcj41KuQW2NUCdHseop8I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
+    },
+    {
+      "id": "tmdb:31917",
+      "type": "series",
+      "name": "Pequeñas mentirosas",
+      "ids": {
+        "tmdb": 31917
+      },
+      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f12snTMRwoc8pGa7PVktI9pVeeJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
     },
     {
       "id": "tmdb:87108",
@@ -617,20 +631,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/f7kz7QLMMfBnM9sMfri4q6FhuvE.png"
     },
     {
-      "id": "tmdb:2673",
-      "type": "series",
-      "name": "The O.C.",
-      "ids": {
-        "tmdb": 2673
-      },
-      "overview": "Ambientada en la idílica Newport Beach, del condado Orange de California. Esta serie trata sobre relaciones, rivalidades y traiciones entre maridos, esposas, padres, hijos y amigos.... La serie se centra en Ryan Atwood, un cauteloso e inteligente chico de 16 años que se traslada a la rica y privilegiada comunidad de Newport Beach, y donde pronto descubre que las familias relevantes de Orange County son tan provincianas como la gente con la que convivía en las calles del Barrio Chino. En Newport Beach, Ryan es acogido por Sandy Cohen, un idealista abogado defensor y su mujer Kirsten, el alma de la sociedad del Condado de Orange.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/suFKHrqzU8DvV3eXvjjT4eENWm7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7OaoY7oonC1hnYumuYoj43YVJW3.png"
-    },
-    {
       "id": "tmdb:1940",
       "type": "series",
       "name": "Entourage: El séquito",
@@ -643,20 +643,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
-    },
-    {
-      "id": "tmdb:254953",
-      "type": "series",
-      "name": "Rooster",
-      "ids": {
-        "tmdb": 254953
-      },
-      "overview": "Un aclamado escritor llamado Greg Russo se ve arrastrado al mundo académico por su hija adulta Katie, profesora en una universidad de élite cuyo marido la engaña. Él intenta apoyarla sin sobrepasarse, tratando de lidiar con esta complicada y cambiante relación, al tiempo que transita un nuevo entorno que siente fuera de su alcance.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/t4ZoVsFgIT67vfbmMKPjWjdIDMj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dErGhfP2NfoovaQwfOc8PlhhSGV.png"
     },
     {
       "id": "tmdb:200875",
@@ -687,18 +673,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yQDeAk4IHMB8ATwHHNDkdmfLL1A.png"
     },
     {
-      "id": "tmdb:709",
+      "id": "tmdb:4613",
       "type": "series",
-      "name": "Robot Chicken",
+      "name": "Hermanos de sangre",
       "ids": {
-        "tmdb": 709
+        "tmdb": 4613
       },
-      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/lMZv3mJC9QRolgzflM3ajtB3o2U.jpg",
+      "overview": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/23GjGDQdMHW5C2UYwSV00fE3FNi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yQC3RX27QoFe8zaFPKCBwLll8ov.png"
+    },
+    {
+      "id": "tmdb:37606",
+      "type": "series",
+      "name": "El asombroso mundo de Gumball",
+      "ids": {
+        "tmdb": 37606
+      },
+      "overview": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6o3Tthb72w0jyGMcwgmQfFp9KZF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     }
   ]
 }
