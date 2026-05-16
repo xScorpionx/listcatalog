@@ -57,20 +57,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
-      "id": "tmdb:66732",
-      "type": "series",
-      "name": "Stranger Things",
-      "ids": {
-        "tmdb": 66732
-      },
-      "overview": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/txLRbQm4eTBbCOK1Kzmh1f6l9Bh.png"
-    },
-    {
       "id": "tmdb:34307",
       "type": "series",
       "name": "Shameless",
@@ -83,6 +69,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
+    },
+    {
+      "id": "tmdb:66732",
+      "type": "series",
+      "name": "Stranger Things",
+      "ids": {
+        "tmdb": 66732
+      },
+      "overview": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/txLRbQm4eTBbCOK1Kzmh1f6l9Bh.png"
     },
     {
       "id": "tmdb:4604",
@@ -141,18 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2u5Brr9g3YhUQp9X3pvzv927H33.png"
     },
     {
-      "id": "tmdb:60574",
+      "id": "tmdb:56570",
       "type": "series",
-      "name": "Peaky Blinders",
+      "name": "Outlander",
       "ids": {
-        "tmdb": 60574
+        "tmdb": 56570
       },
-      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+      "overview": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bewg9Io7Af9If7xpMqlxtjomn7j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dfZBYZZYdFeNSeUqLKTiFpvtdJS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6vOKcczU3HUzigeSpqfl7CSjyMv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pN1h629rfHOqNlRsT7W4fPDqzQc.png"
     },
     {
       "id": "tmdb:37680",
@@ -169,60 +169,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
     },
     {
-      "id": "tmdb:56570",
+      "id": "tmdb:60574",
       "type": "series",
-      "name": "Outlander",
+      "name": "Peaky Blinders",
       "ids": {
-        "tmdb": 56570
+        "tmdb": 60574
       },
-      "overview": "Sigue la historia de Claire Randall, una enfermera de combate casada en los años 40, que misteriosamente es arrastrada atrás en el tiempo hasta 1743, donde se lanza de inmediato a un mundo desconocido, viéndose amenazada su propia vida. Cuando se ve obligada a casarse con Jamie Fraser, un joven guerrero escocés caballeroso y romántico, Claire comienza un pasional triángulo entre dos hombres muy diferentes con dos vidas irreconciliables.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wwxKbrMlwMrC06B7aCIkDy3SAo6.jpg",
+      "overview": "Una familia de pandilleros asentada en Birmingham, Reino Unido, tras la Primera Guerra Mundial (1914-1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6vOKcczU3HUzigeSpqfl7CSjyMv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pN1h629rfHOqNlRsT7W4fPDqzQc.png"
-    },
-    {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Prodigiosa: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
-      "id": "tmdb:1402",
-      "type": "series",
-      "name": "The Walking Dead",
-      "ids": {
-        "tmdb": 1402
-      },
-      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
-    },
-    {
-      "id": "tmdb:95479",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "ids": {
-        "tmdb": 95479
-      },
-      "overview": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bewg9Io7Af9If7xpMqlxtjomn7j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dfZBYZZYdFeNSeUqLKTiFpvtdJS.png"
     },
     {
       "id": "tmdb:18165",
@@ -239,46 +197,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/6pilkApFR6eXyCiI52Hhei0nzit.png"
     },
     {
-      "id": "tmdb:71712",
+      "id": "tmdb:1402",
       "type": "series",
-      "name": "The Good Doctor",
+      "name": "The Walking Dead",
       "ids": {
-        "tmdb": 71712
+        "tmdb": 1402
       },
-      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
+      "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/hUblG1KZCTRpHc3wqqoU0DW98Q3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
-      "id": "tmdb:2316",
+      "id": "tmdb:65334",
       "type": "series",
-      "name": "The Office",
+      "name": "Prodigiosa: Las aventuras de Ladybug",
       "ids": {
-        "tmdb": 2316
+        "tmdb": 65334
       },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/svpldwSHZd2FMHURMu328wM2tYC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
-      "id": "tmdb:63174",
+      "id": "tmdb:95479",
       "type": "series",
-      "name": "Lucifer",
+      "name": "Jujutsu Kaisen",
       "ids": {
-        "tmdb": 63174
+        "tmdb": 95479
       },
-      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+      "overview": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
     },
     {
       "id": "tmdb:4629",
@@ -295,32 +253,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/AllIGHcRvZX6tEobLIngEl1QaN9.png"
     },
     {
-      "id": "tmdb:235930",
+      "id": "tmdb:71712",
       "type": "series",
-      "name": "Devil May Cry",
+      "name": "The Good Doctor",
       "ids": {
-        "tmdb": 235930
+        "tmdb": 71712
       },
-      "overview": "En esta lucha entre el bien y el mal, nada está claro. Pero un cazador de demonios irresistiblemente atractivo podría ser la mejor baza para salvar el mundo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+      "overview": "Un cirujano joven y autista que padece el síndrome del sabio empieza a trabajar en un hospital prestigioso. Allá tendrá que vencer el escepticismo con el que sus colegas lo reciben.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/hnrzBrLKekwmSNPL4cJXzhdCX0k.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2pmWrjN12nwe1YHgGgv52n0ouvX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o9hnKyKcgroZbpT9bRIqhftxdJ6.png"
-    },
-    {
-      "id": "tmdb:1407",
-      "type": "series",
-      "name": "Homeland",
-      "ids": {
-        "tmdb": 1407
-      },
-      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/w322XOSRMO5hCm0870HbQ7yve5m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sOubuf2WYnAiK09TNoV1e4QDAWI.png"
     },
     {
       "id": "tmdb:60572",
@@ -337,102 +281,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/kG20opDyyDt4mXTqvnKxSdwfGF5.png"
     },
     {
-      "id": "tmdb:60059",
+      "id": "tmdb:2316",
       "type": "series",
-      "name": "Better Call Saul",
+      "name": "The Office",
       "ids": {
-        "tmdb": 60059
+        "tmdb": 2316
       },
-      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/svpldwSHZd2FMHURMu328wM2tYC.png"
     },
     {
-      "id": "tmdb:60625",
+      "id": "tmdb:1407",
       "type": "series",
-      "name": "Rick y Morty",
+      "name": "Homeland",
       "ids": {
-        "tmdb": 60625
+        "tmdb": 1407
       },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     },
     {
-      "id": "tmdb:44217",
+      "id": "tmdb:63174",
       "type": "series",
-      "name": "Vikingos",
+      "name": "Lucifer",
       "ids": {
-        "tmdb": 44217
+        "tmdb": 63174
       },
-      "overview": "Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su familia, cuando él se levanta para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses, la leyenda dice que él era un descendiente directo de Odín, el dios de la guerra y los guerreros.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/m8iQ4ZObxGbSu0cs8xTOVTeZ9QX.jpg",
+      "overview": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xE4aFitCuQ3o9WeVcWw1DZHsvv0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cMakaU4nbybkKOYhq47O8bFNRw2.png"
-    },
-    {
-      "id": "tmdb:46296",
-      "type": "series",
-      "name": "Spartacus",
-      "ids": {
-        "tmdb": 46296
-      },
-      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
-    },
-    {
-      "id": "tmdb:71790",
-      "type": "series",
-      "name": "S.W.A.T.: Los hombres de Harrelson",
-      "ids": {
-        "tmdb": 71790
-      },
-      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
-    },
-    {
-      "id": "tmdb:57532",
-      "type": "series",
-      "name": "La Patrulla Canina",
-      "ids": {
-        "tmdb": 57532
-      },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
-    },
-    {
-      "id": "tmdb:60622",
-      "type": "series",
-      "name": "Fargo",
-      "ids": {
-        "tmdb": 60622
-      },
-      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uwymBm7rszO0n82y8uVLZLDBGqp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png"
     },
     {
       "id": "tmdb:1411",
@@ -449,18 +337,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/fMnD6iTWfrVWyQnKqPqTcPpy2iX.png"
     },
     {
-      "id": "tmdb:262280",
+      "id": "tmdb:44217",
       "type": "series",
-      "name": "Leyendas",
+      "name": "Vikingos",
       "ids": {
-        "tmdb": 262280
+        "tmdb": 44217
       },
-      "overview": "Mientras las drogas arrasan Gran Bretaña en los años 90, un equipo de funcionarios infiltrados trata de destruir a los cárteles responsables.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/1Em0VjO0IFSneoF9a8u7ibDGPK8.jpg",
+      "overview": "Sigue las aventuras de Ragnar Lothbrok, el héroe más grande de su época. La serie narra las sagas de la banda de hermanos vikingos de Ragnar y su familia, cuando él se levanta para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses, la leyenda dice que él era un descendiente directo de Odín, el dios de la guerra y los guerreros.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/m8iQ4ZObxGbSu0cs8xTOVTeZ9QX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5ov6nRcuRhyeDenFK8csyMgBUs0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tOgROmZflaGdPcENiQOo9aFSP5R.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xE4aFitCuQ3o9WeVcWw1DZHsvv0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cMakaU4nbybkKOYhq47O8bFNRw2.png"
+    },
+    {
+      "id": "tmdb:60059",
+      "type": "series",
+      "name": "Better Call Saul",
+      "ids": {
+        "tmdb": 60059
+      },
+      "overview": "Esta precuela de \"Breaking Bad\" nominada al Emmy narra la vida del picapleitos Jimmy McGill y su transformación en Saul Goodman, el abogado de moral laxa.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9AOAezJ3uioh1939iQwtqKxC57I.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwxBWyoeTefjafeqkIONxl0mXUV.png"
+    },
+    {
+      "id": "tmdb:71790",
+      "type": "series",
+      "name": "S.W.A.T.: Los hombres de Harrelson",
+      "ids": {
+        "tmdb": 71790
+      },
+      "overview": "La serie sigue a Daniel \"Hondo\" Harrelson, un teniente S.W.A.T. que se ve dividido entre la lealtad a las calles y el deber con sus compañeros oficiales, cuando el agresivo y confiado líder del equipo 10-David SWAT, Jeff Mumford, lo asigna para dirigir una unidad altamente capacitada de la policía, que estará encargada de detener los crímenes en Los Ángeles.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
+    },
+    {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+    },
+    {
+      "id": "tmdb:60622",
+      "type": "series",
+      "name": "Fargo",
+      "ids": {
+        "tmdb": 60622
+      },
+      "overview": "Un vendedor ve cómo su mundo cambia por completo con la llegada de un misterioso y salvaje desconocido. Serie basada en la película del mismo título de los hermanos Coen, que sin embargo presenta personajes diferentes y se ambienta en 2006.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kOAS33HT6QhUaoWjBgjUne5cEvs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
+    },
+    {
+      "id": "tmdb:235930",
+      "type": "series",
+      "name": "Devil May Cry",
+      "ids": {
+        "tmdb": 235930
+      },
+      "overview": "En esta lucha entre el bien y el mal, nada está claro. Pero un cazador de demonios irresistiblemente atractivo podría ser la mejor baza para salvar el mundo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/kRdImlrsRmSSVrdsD1nUTddihL8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2pmWrjN12nwe1YHgGgv52n0ouvX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o9hnKyKcgroZbpT9bRIqhftxdJ6.png"
+    },
+    {
+      "id": "tmdb:57532",
+      "type": "series",
+      "name": "La Patrulla Canina",
+      "ids": {
+        "tmdb": 57532
+      },
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fCwhyg7NVPJTeV5iLcnORsmYbJY.png"
+    },
+    {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vs9H8NiJksA2GMu0npoiW0uYfQE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
       "id": "tmdb:1400",
@@ -477,18 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5vkwGaERx7T3osv9yuzllFODMZM.png"
     },
     {
-      "id": "tmdb:4656",
+      "id": "tmdb:71728",
       "type": "series",
-      "name": "Raw",
+      "name": "El joven Sheldon",
       "ids": {
-        "tmdb": 4656
+        "tmdb": 71728
       },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/7wq6uV8YRdWNEyI9TY5k80yWENg.jpg",
+      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
       "id": "tmdb:78191",
@@ -505,32 +491,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/mQn8QCXPOtAxYKxhNrNUwF5no9i.png"
     },
     {
-      "id": "tmdb:71728",
+      "id": "tmdb:262280",
       "type": "series",
-      "name": "El joven Sheldon",
+      "name": "Leyendas",
       "ids": {
-        "tmdb": 71728
+        "tmdb": 262280
       },
-      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
+      "overview": "Mientras las drogas arrasan Gran Bretaña en los años 90, un equipo de funcionarios infiltrados trata de destruir a los cárteles responsables.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/1Em0VjO0IFSneoF9a8u7ibDGPK8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5ov6nRcuRhyeDenFK8csyMgBUs0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tOgROmZflaGdPcENiQOo9aFSP5R.png"
     },
     {
-      "id": "tmdb:209867",
+      "id": "tmdb:4656",
       "type": "series",
-      "name": "Frieren: Tras finalizar el viaje",
+      "name": "Raw",
       "ids": {
-        "tmdb": 209867
+        "tmdb": 4656
       },
-      "overview": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/7wq6uV8YRdWNEyI9TY5k80yWENg.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9873hKCWHK6QBPQ4sPhpZs5E52T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
     },
     {
       "id": "tmdb:200709",
@@ -547,46 +533,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8s3nIdfLe0M3yadLZZjHGyZjDJL.png"
     },
     {
-      "id": "tmdb:127529",
+      "id": "tmdb:12225",
       "type": "series",
-      "name": "Perros de caza",
+      "name": "Peppa Pig",
       "ids": {
-        "tmdb": 127529
+        "tmdb": 12225
       },
-      "overview": "Dos jóvenes boxeadores se alían con un prestamista benévolo para acabar con un despiadado usurero que se aprovecha de los más endeudados... y desesperados.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/pWzp4HpDifuyNF8zkPIy8MKCg2d.jpg",
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bWtjIJnQhze9bmLNnwCYBJITYiG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eVNuCGDDXiDBpBcTRA56uoLPt1m.png"
-    },
-    {
-      "id": "tmdb:91239",
-      "type": "series",
-      "name": "Los Bridgerton",
-      "ids": {
-        "tmdb": 91239
-      },
-      "overview": "Ambientada en la alta sociedad londinense de principios del siglo XIX, la historia se centra en la familia Bridgerton, formada por varios hermanos y hermanas que se debaten entre el amor, el deber y la vocación. Cada temporada refleja la vida amorosa de un hermano Bridgerton, empezando por Daphne y siguiendo por Anthony, Colin y Benedict.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sspQooyeMMkDfRzVzi6YrSRuJkQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png"
-    },
-    {
-      "id": "tmdb:195670",
-      "type": "series",
-      "name": "Besos, Kitty",
-      "ids": {
-        "tmdb": 195670
-      },
-      "overview": "Los dictados del corazón la llevan a un instituto elitista de Seúl y la joven celestina Kitty se da cuenta de que la vida, el amor y la familia son más complicados de lo que creía.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/3y3uLS6HV3IJebjXHnd9K640F3Q.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7t5fBf88BgFSYHzQ09ysUdsNtzM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l0SlU5WZ8GJD5Q8FrIVCPaUJ8Gj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:61374",
@@ -603,60 +561,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/9u3baMv9AZ9znK9ecPjQQVoyEl8.png"
     },
     {
-      "id": "tmdb:127865",
+      "id": "tmdb:91239",
       "type": "series",
-      "name": "El caso Hartung",
+      "name": "Los Bridgerton",
       "ids": {
-        "tmdb": 127865
+        "tmdb": 91239
       },
-      "overview": "En un parque infantil de una tranquila zona residencial de Copenhague, la policía encuentra a una joven brutalmente asesinada a la que le han seccionado una mano. Sobre la chica cuelga un muñequito hecho con castañas. El caso se asigna a la ambiciosa y joven detective Naia Thulin y a su nuevo compañero, Mark Hess.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/9if9wfo0SSvHbZDN8IamLXjr9Zh.jpg",
+      "overview": "Ambientada en la alta sociedad londinense de principios del siglo XIX, la historia se centra en la familia Bridgerton, formada por varios hermanos y hermanas que se debaten entre el amor, el deber y la vocación. Cada temporada refleja la vida amorosa de un hermano Bridgerton, empezando por Daphne y siguiendo por Anthony, Colin y Benedict.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/4MQf8yWM47OVjjtxRdhc1SzoZVE.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dkA6J3KRMre9y8hByAw6vIQxd9X.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cjoTnTm6KX6OeCLYOJ9n8lgk9KB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sspQooyeMMkDfRzVzi6YrSRuJkQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ze8iaJtOzkaLc8X7KCy6S1lPv8B.png"
     },
     {
-      "id": "tmdb:93405",
+      "id": "tmdb:127529",
       "type": "series",
-      "name": "El juego del calamar",
+      "name": "Perros de caza",
       "ids": {
-        "tmdb": 93405
+        "tmdb": 127529
       },
-      "overview": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+      "overview": "Dos jóvenes boxeadores se alían con un prestamista benévolo para acabar con un despiadado usurero que se aprovecha de los más endeudados... y desesperados.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/pWzp4HpDifuyNF8zkPIy8MKCg2d.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g8ycl0j14uesH7CgqQfEyVPOLNz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2SFOnw4Tmw84Obmf6I1cv46300W.png"
-    },
-    {
-      "id": "tmdb:42009",
-      "type": "series",
-      "name": "Black Mirror",
-      "ids": {
-        "tmdb": 42009
-      },
-      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
-    },
-    {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bWtjIJnQhze9bmLNnwCYBJITYiG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eVNuCGDDXiDBpBcTRA56uoLPt1m.png"
     },
     {
       "id": "tmdb:4588",
@@ -673,18 +603,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/eiapksXZWsEjlusMwwoVD3lBig.png"
     },
     {
-      "id": "tmdb:76669",
+      "id": "tmdb:209867",
       "type": "series",
-      "name": "Élite",
+      "name": "Frieren: Tras finalizar el viaje",
       "ids": {
-        "tmdb": 76669
+        "tmdb": 209867
       },
-      "overview": "Las Encinas, un exclusivo colegio privado al que la élite social del país envía a sus hijos. Pero en el centro son admitidos tres adolescentes de familias humildes después de que un terremoto destruyera el colegio público en el que estudiaban. El choque de clases genera diversos problemas que se agravan hasta que, de repente, se produce un asesinato.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/c07WqB99Igco0rua794q9k9QJYm.jpg",
+      "overview": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/advVsq1Jrm9X5OUshBuMR3WK6m9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fiGleG2W4ZFZPHWECbqOtQsi5Vg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9873hKCWHK6QBPQ4sPhpZs5E52T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aGO49hn32NLo1ECdnHbfQvvm2VB.png"
+    },
+    {
+      "id": "tmdb:93405",
+      "type": "series",
+      "name": "El juego del calamar",
+      "ids": {
+        "tmdb": 93405
+      },
+      "overview": "Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/g72YfmqUU0AlbDXRiYmDZWs28f7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g8ycl0j14uesH7CgqQfEyVPOLNz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2SFOnw4Tmw84Obmf6I1cv46300W.png"
     },
     {
       "id": "tmdb:120089",
@@ -699,6 +643,62 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/y9jHurBTNwA3hohbYPIvGPFXd73.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hbZ7fVgxEg50plxtQHpVyXAppCq.png"
+    },
+    {
+      "id": "tmdb:42009",
+      "type": "series",
+      "name": "Black Mirror",
+      "ids": {
+        "tmdb": 42009
+      },
+      "overview": "Las historias más retorcidas pueblan esta alucinante serie antológica que muestra los peores rasgos de la humanidad, sus mayores innovaciones y mucho más.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qyGN3ANhwiEfYcu5k2ZZP0K1qdV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png"
+    },
+    {
+      "id": "tmdb:46260",
+      "type": "series",
+      "name": "Naruto",
+      "ids": {
+        "tmdb": 46260
+      },
+      "overview": "Naruto es un joven aprendiz de ninja marginado y temido en la Villa Oculta de la Hoja tanto por su carácter hiperactivo y gamberro como por el terrible poder sellado en su interior. Acompañado por el intenso Sasuke y la ingeniosa Sakura, Naruto comienza su aprendizaje decidido a convertirse en maestro Hokage, la más alta distinción entre los ninjas, para ganarse el reconocimiento de los suyos.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dW9FQRgTDBdH36FtDbC2qCEKjtQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kaZ99sfclCKWnUgmW7AYrok03Am.png"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "El cuento de la criada",
+      "ids": {
+        "tmdb": 69478
+      },
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+    },
+    {
+      "id": "tmdb:45790",
+      "type": "series",
+      "name": "JoJo's Bizarre Adventure",
+      "ids": {
+        "tmdb": 45790
+      },
+      "overview": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iZwAxspYlszZBBBGHu05EvUZNem.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kNtCppfedimcdRw5sGUK8eFjhsi.png"
     }
   ]
 }
