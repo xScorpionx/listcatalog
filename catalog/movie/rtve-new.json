@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1545374",
+      "type": "movie",
+      "name": "y Rosa",
+      "ids": {
+        "tmdb": 1545374
+      },
+      "overview": "A partir de imágenes de archivo, la madre del director reconstruye su boda, en un viaje donde la memoria y el archivo dialogan, revelando cómo el tiempo transforma nuestra identidad y nuestros vínculos.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eyjm0L4SIpQeJYPQXpXDYdJDHwr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/duJhELNVFfmxGH8LKVLaPmiIeb2.jpg"
+    },
+    {
       "id": "tmdb:1501779",
       "type": "movie",
       "name": "Los días que vendrán",
@@ -656,20 +669,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/3NsjhcK8AW1MvNcpDDbPkaViUA2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lzbFDKQdtRcXAA1YjmbBkhf9AjB.png"
-    },
-    {
-      "id": "tmdb:1074080",
-      "type": "movie",
-      "name": "Campeonex",
-      "ids": {
-        "tmdb": 1074080
-      },
-      "overview": "El equipo de \"vencedores\" deja el baloncesto para adentrarse por error en el fascinante mundo del atletismo bajo la dirección de una entrenadora recién llegada.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/juLIGT2tbLqVFoVVnGEKj6YRZp1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qMyoM2n8SgHGAYfhvj87boODJEm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hrlhq2eMWG04voM9MbSabPpXLuy.png"
     }
   ]
 }

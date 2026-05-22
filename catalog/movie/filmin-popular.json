@@ -43,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/5cseIICerULc4UZyrspsaQvw15u.png"
     },
     {
+      "id": "tmdb:11012",
+      "type": "movie",
+      "name": "Herida",
+      "ids": {
+        "tmdb": 11012
+      },
+      "overview": "Peligrosa aventura de amor y sexo entre un hombre maduro y la prometida de su hijo. Él es un respetable miembro del Parlamento, pero está dispuesto a dejarlo todo por ella; ella, calculadora y pragmática, está decidida a casarse con su novio.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/vyvSlairapZNGUUYFhHbYl3Uw1I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lsmAimMr62q62kDxRHjfqNmkDs8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8A3clx1sElwxkCJWnEt4rC7HZy3.png"
+    },
+    {
       "id": "tmdb:496243",
       "type": "movie",
       "name": "Parásitos",
@@ -55,20 +69,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-    },
-    {
-      "id": "tmdb:1173559",
-      "type": "movie",
-      "name": "Insidious Inferno",
-      "ids": {
-        "tmdb": 1173559
-      },
-      "overview": "Una cabaña aislada está plagada de horribles asesinatos y, sin que los habitantes lo sepan, algo de otro mundo acecha en los pasillos. ¿Podrá la pareja resolver el misterio de los terrenos malditos a tiempo o abrirán la puerta al infierno?",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/8kljUAovBatZRYp2ye2RZr239hU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c7KBUClLyacleemgsKZffryVFAk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kFhWmlEunW6st4AMH0I0gjCsAks.png"
     },
     {
       "id": "tmdb:184314",
@@ -85,18 +85,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sA6YztneO92nJPSsAPeKO2bV4L6.png"
     },
     {
-      "id": "tmdb:11012",
+      "id": "tmdb:1173559",
       "type": "movie",
-      "name": "Herida",
+      "name": "Insidious Inferno",
       "ids": {
-        "tmdb": 11012
+        "tmdb": 1173559
       },
-      "overview": "Peligrosa aventura de amor y sexo entre un hombre maduro y la prometida de su hijo. Él es un respetable miembro del Parlamento, pero está dispuesto a dejarlo todo por ella; ella, calculadora y pragmática, está decidida a casarse con su novio.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/vyvSlairapZNGUUYFhHbYl3Uw1I.jpg",
+      "overview": "Una cabaña aislada está plagada de horribles asesinatos y, sin que los habitantes lo sepan, algo de otro mundo acecha en los pasillos. ¿Podrá la pareja resolver el misterio de los terrenos malditos a tiempo o abrirán la puerta al infierno?",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8kljUAovBatZRYp2ye2RZr239hU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lsmAimMr62q62kDxRHjfqNmkDs8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8A3clx1sElwxkCJWnEt4rC7HZy3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/c7KBUClLyacleemgsKZffryVFAk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kFhWmlEunW6st4AMH0I0gjCsAks.png"
     },
     {
       "id": "tmdb:807",
@@ -183,20 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
     },
     {
-      "id": "tmdb:933260",
-      "type": "movie",
-      "name": "La sustancia",
-      "ids": {
-        "tmdb": 933260
-      },
-      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
-    },
-    {
       "id": "tmdb:13078",
       "type": "movie",
       "name": "The Babysitters: Las niñeras",
@@ -225,46 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/krlYDuBf5Rl99XuZS3jwP8aFSrY.png"
     },
     {
-      "id": "tmdb:1643",
+      "id": "tmdb:933260",
       "type": "movie",
-      "name": "El último tango en París",
+      "name": "La sustancia",
       "ids": {
-        "tmdb": 1643
+        "tmdb": 933260
       },
-      "overview": "Una mañana de invierno un hombre y una muchacha se encuentran casualmente mientras visitan un piso de alquiler en París. La pasión se apodera de ellos y hacen el amor violentamente en el piso vacío. Cuando abandonan el edificio, se ponen de acuerdo para volver a encontrarse allí, en soledad, sin preguntarse ni siquiera sus nombres.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/2G1j1RWBvmWc8f0HXjRZnn0ZlgD.jpg",
+      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wkkTelW5SqRQfS66sWaKXWBGvnR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sYND507wEkKUr4GwsV8C1cpu4E7.png"
-    },
-    {
-      "id": "tmdb:77",
-      "type": "movie",
-      "name": "Memento",
-      "ids": {
-        "tmdb": 77
-      },
-      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/neHrQLVfT3KPqvv30pNPyRb6chQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
-    },
-    {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
       "id": "tmdb:694",
@@ -281,18 +239,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
     },
     {
-      "id": "tmdb:5879",
+      "id": "tmdb:77",
       "type": "movie",
-      "name": "El imperio de los sentidos",
+      "name": "Memento",
       "ids": {
-        "tmdb": 5879
+        "tmdb": 77
       },
-      "overview": "Una pareja de amantes vive una historia de amor llevada hasta límites inimaginables. La pasión se ha adueñado de ellos. El sexo ha pasado a ser lo único importante de sus vidas. Las ansias de la mujer por poseer a su hombre parecen inagotables y crecen cada día más hasta llegar a confundir el placer con el dolor.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/2HH39jTVXDFbBNn4NDyVzyiuwSs.jpg",
+      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/neHrQLVfT3KPqvv30pNPyRb6chQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ozipXbwy5XBEYoTd5axkVCOAJrc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
+    },
+    {
+      "id": "tmdb:1643",
+      "type": "movie",
+      "name": "El último tango en París",
+      "ids": {
+        "tmdb": 1643
+      },
+      "overview": "Una mañana de invierno un hombre y una muchacha se encuentran casualmente mientras visitan un piso de alquiler en París. La pasión se apodera de ellos y hacen el amor violentamente en el piso vacío. Cuando abandonan el edificio, se ponen de acuerdo para volver a encontrarse allí, en soledad, sin preguntarse ni siquiera sus nombres.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/2G1j1RWBvmWc8f0HXjRZnn0ZlgD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wkkTelW5SqRQfS66sWaKXWBGvnR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sYND507wEkKUr4GwsV8C1cpu4E7.png"
+    },
+    {
+      "id": "tmdb:218",
+      "type": "movie",
+      "name": "Terminator",
+      "ids": {
+        "tmdb": 218
+      },
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
     },
     {
       "id": "tmdb:823219",
@@ -309,20 +295,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
     },
     {
-      "id": "tmdb:28",
-      "type": "movie",
-      "name": "Apocalypse Now",
-      "ids": {
-        "tmdb": 28
-      },
-      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
-    },
-    {
       "id": "tmdb:346",
       "type": "movie",
       "name": "Los siete samuráis",
@@ -337,46 +309,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/dPu60LvvtByfArsYnoMFkKHbaWn.png"
     },
     {
-      "id": "tmdb:62",
+      "id": "tmdb:28",
       "type": "movie",
-      "name": "2001: Una odisea del espacio",
+      "name": "Apocalypse Now",
       "ids": {
-        "tmdb": 62
+        "tmdb": 28
       },
-      "overview": "Mientras investigan la aparición de misteriosos monolitos en el universo, dos astronautas luchan contra la inteligencia artificial de su nave.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wDBquZTCX7AuXWHyVywxO68wLtS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
-      "id": "tmdb:510",
+      "id": "tmdb:5879",
       "type": "movie",
-      "name": "Alguien voló sobre el nido del cuco",
+      "name": "El imperio de los sentidos",
       "ids": {
-        "tmdb": 510
+        "tmdb": 5879
       },
-      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
+      "overview": "Una pareja de amantes vive una historia de amor llevada hasta límites inimaginables. La pasión se ha adueñado de ellos. El sexo ha pasado a ser lo único importante de sus vidas. Las ansias de la mujer por poseer a su hombre parecen inagotables y crecen cada día más hasta llegar a confundir el placer con el dolor.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/2HH39jTVXDFbBNn4NDyVzyiuwSs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
-    },
-    {
-      "id": "tmdb:345",
-      "type": "movie",
-      "name": "Eyes Wide Shut",
-      "ids": {
-        "tmdb": 345
-      },
-      "overview": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ozipXbwy5XBEYoTd5axkVCOAJrc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
     },
     {
       "id": "tmdb:78",
@@ -407,32 +365,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/1xxfyAiRfh9lxGutkgfnnRXP6z0.png"
     },
     {
-      "id": "tmdb:103",
+      "id": "tmdb:510",
       "type": "movie",
-      "name": "Taxi Driver",
+      "name": "Alguien voló sobre el nido del cuco",
       "ids": {
-        "tmdb": 103
+        "tmdb": 510
       },
-      "overview": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
+      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
     },
     {
-      "id": "tmdb:1601243",
+      "id": "tmdb:62",
       "type": "movie",
-      "name": "Oscar Shaw",
+      "name": "2001: Una odisea del espacio",
       "ids": {
-        "tmdb": 1601243
+        "tmdb": 62
       },
-      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "overview": "Mientras investigan la aparición de misteriosos monolitos en el universo, dos astronautas luchan contra la inteligencia artificial de su nave.",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b0nmXbLJBVv6L72VUdZKILjQP83.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wDBquZTCX7AuXWHyVywxO68wLtS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
     },
     {
       "id": "tmdb:11230",
@@ -449,6 +407,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/lPNQJSWej65h1zEJhvGik7xuAVV.png"
     },
     {
+      "id": "tmdb:103",
+      "type": "movie",
+      "name": "Taxi Driver",
+      "ids": {
+        "tmdb": 103
+      },
+      "overview": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
+    },
+    {
+      "id": "tmdb:345",
+      "type": "movie",
+      "name": "Eyes Wide Shut",
+      "ids": {
+        "tmdb": 345
+      },
+      "overview": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
+    },
+    {
       "id": "tmdb:519465",
       "type": "movie",
       "name": "Reina de corazones",
@@ -461,6 +447,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
+    },
+    {
+      "id": "tmdb:1601243",
+      "type": "movie",
+      "name": "Oscar Shaw",
+      "ids": {
+        "tmdb": 1601243
+      },
+      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b0nmXbLJBVv6L72VUdZKILjQP83.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png"
     },
     {
       "id": "tmdb:27578",
@@ -491,20 +491,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
     },
     {
-      "id": "tmdb:73",
-      "type": "movie",
-      "name": "American History X",
-      "ids": {
-        "tmdb": 73
-      },
-      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jdGo3zbNSGFX9poWnp5Mv33q9mU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oWlah6rcT3M5ZxGKQSWdcIpQ0iW.png"
-    },
-    {
       "id": "tmdb:1949",
       "type": "movie",
       "name": "Zodiac",
@@ -519,115 +505,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
     },
     {
-      "id": "tmdb:607",
+      "id": "tmdb:1018",
       "type": "movie",
-      "name": "Men in Black",
+      "name": "Mulholland Drive",
       "ids": {
-        "tmdb": 607
+        "tmdb": 1018
       },
-      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
+      "overview": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/kLpwkbimTwTbsYixCO3eAdNCQJ8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
-    },
-    {
-      "id": "tmdb:1124566",
-      "type": "movie",
-      "name": "Valor sentimental",
-      "ids": {
-        "tmdb": 1124566
-      },
-      "overview": "Una exploración íntima y conmovedora de la familia, los recuerdos y el poder reconciliador del arte.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/s4a3hpTmws0mNLEn0BNBRiX5q3g.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2K047H3KcAonAPyraPppxZUb46H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fjYXCZDQRyRYPDYfHn20ZbxSYky.png"
-    },
-    {
-      "id": "tmdb:1146506",
-      "type": "movie",
-      "name": "CatBoy",
-      "ids": {
-        "tmdb": 1146506
-      },
-      "overview": "Marc, after receiving several racist and plumophobic comments on a gay dating app, receives a message from his friend Cacao inviting him to a Ballroom. Marc decides to go, there he is surprised by the freedom and diversity of the environment. Arriving at the bar, he exchanges glances with Leo, an attractive guy. After watching her friend walk, the two have an intimate conversation where Cacao encourages Marc to walk that night. Once the Catboy Sex Siren category arrives, Leo goes for a walk while Marc observes the situation with a mixture of desire and doubt.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/pmQu4abmp3qE3A18DDT0olHUSb4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o8jF5uBXq95EWHHlh4sLavJPlb1.jpg"
-    },
-    {
-      "id": "tmdb:1497970",
-      "type": "movie",
-      "name": "Tom y Jerry: Aventura en el tiempo",
-      "ids": {
-        "tmdb": 1497970
-      },
-      "overview": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9laETggkidiMurdlAazvl2Axz5N.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3cjoxKJbMDAbmhpiMEpYzviGZ6X.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wslNqP0oL842OUcHA65Z9EuEMQv.png"
-    },
-    {
-      "id": "tmdb:600",
-      "type": "movie",
-      "name": "La chaqueta metálica",
-      "ids": {
-        "tmdb": 600
-      },
-      "overview": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jKRAqlVe1LWUIJ6hL9lkRn27rF9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fFrBwauqpdj4q2emU6VmErvqrG9.png"
-    },
-    {
-      "id": "tmdb:152601",
-      "type": "movie",
-      "name": "Her",
-      "ids": {
-        "tmdb": 152601
-      },
-      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
-    },
-    {
-      "id": "tmdb:4327",
-      "type": "movie",
-      "name": "Los ángeles de Charlie",
-      "ids": {
-        "tmdb": 4327
-      },
-      "overview": "Una peculiar agencia de detectives dirigida por el multimillonario Charlie tiene en sus filas a Natalie (Cameron Diaz), Dylan (Drew Barrymore) y Alex (Lucy Liu), tres expertas en artes marciales, en disfraces y en la más avanzada tecnología. Juntas tendrán que ocuparse de un caso muy importante: el secuestro del genio de la informática Eric Knox (Sam Rockwell) por su rival Roger Corwin (Tim Curry). Si no consiguen liberarlo, quedaría destruida la intimidad de todo el mundo, incluido Charlie, su misterioso jefe.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p0a1DVJU3TJCdGwPvQMBAQRPmxb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lL37VCbjZ7Vt2SivsGCFwboRhYR.png"
-    },
-    {
-      "id": "tmdb:770",
-      "type": "movie",
-      "name": "Lo que el viento se llevó",
-      "ids": {
-        "tmdb": 770
-      },
-      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
-      "year": 1939,
-      "poster": "https://image.tmdb.org/t/p/w342/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hqSllLo5dUgjmI0JsWwtz4YhxCV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/j7eEZdsdJ7UNQf4MU4jWILm1eZi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
     },
     {
       "id": "tmdb:666277",
@@ -644,6 +533,104 @@
       "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
     },
     {
+      "id": "tmdb:11423",
+      "type": "movie",
+      "name": "Memories of Murder (Crónica de un asesino en serie)",
+      "ids": {
+        "tmdb": 11423
+      },
+      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
+    },
+    {
+      "id": "tmdb:1124566",
+      "type": "movie",
+      "name": "Valor sentimental",
+      "ids": {
+        "tmdb": 1124566
+      },
+      "overview": "Una exploración íntima y conmovedora de la familia, los recuerdos y el poder reconciliador del arte.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/s4a3hpTmws0mNLEn0BNBRiX5q3g.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2K047H3KcAonAPyraPppxZUb46H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fjYXCZDQRyRYPDYfHn20ZbxSYky.png"
+    },
+    {
+      "id": "tmdb:73",
+      "type": "movie",
+      "name": "American History X",
+      "ids": {
+        "tmdb": 73
+      },
+      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jdGo3zbNSGFX9poWnp5Mv33q9mU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oWlah6rcT3M5ZxGKQSWdcIpQ0iW.png"
+    },
+    {
+      "id": "tmdb:607",
+      "type": "movie",
+      "name": "Men in Black",
+      "ids": {
+        "tmdb": 607
+      },
+      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
+    },
+    {
+      "id": "tmdb:31439",
+      "type": "movie",
+      "name": "¡Vivir!",
+      "ids": {
+        "tmdb": 31439
+      },
+      "overview": "Después de verse obligado a abandonar su casa y su familia por deudas de juego, un hombre rehace su vida como titiritero hasta que se ve envuelto en la revolución maoísta. Cuando consigue volver con su mujer y sus hijos, ya nada es como antes.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/mIx0Mk2XkYS7TjLZsMcLiWv0SHy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eHO6Wiu5I90kYT2AUArOi30ColH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r7DBK8CzvC3737iZpYqpoz9Qnm3.png"
+    },
+    {
+      "id": "tmdb:770",
+      "type": "movie",
+      "name": "Lo que el viento se llevó",
+      "ids": {
+        "tmdb": 770
+      },
+      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
+      "year": 1939,
+      "poster": "https://image.tmdb.org/t/p/w342/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hqSllLo5dUgjmI0JsWwtz4YhxCV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
+    },
+    {
+      "id": "tmdb:11104",
+      "type": "movie",
+      "name": "Chungking Express",
+      "ids": {
+        "tmdb": 11104
+      },
+      "overview": "Dos historias de amor independientes que se desarrollan en el popular barrio turístico de Tsimhatsui, en Hong Kong. La primera describe el fugaz encuentro entre un joven policía en plena crisis amorosa y una misteriosa mujer fatal traficante de drogas. La segunda se centra en el singular romance entre un solitario y sencillo agente de policia y la joven camarera del pobre bar donde aquél suele comer.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/nl246bqCp6lmRF4mHF293F9w42O.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6360YNCpz7ts2tervSOiEbU5ktt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1C60xcf9RRrWV5coF6luFj0nZXe.png"
+    },
+    {
       "id": "tmdb:185",
       "type": "movie",
       "name": "La naranja mecánica",
@@ -658,18 +645,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
     },
     {
-      "id": "tmdb:764",
+      "id": "tmdb:19908",
       "type": "movie",
-      "name": "Posesión infernal",
+      "name": "Bienvenidos a Zombieland",
       "ids": {
-        "tmdb": 764
+        "tmdb": 19908
       },
-      "overview": "Cinco chicos van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo.",
-      "year": 1981,
-      "poster": "https://image.tmdb.org/t/p/w342/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg",
+      "overview": "En un mundo plagado de zombis, Columbus es un gallina, un joven que se encuentra aterrorizado por la situación, pero cuando te juegas el ser comido por los zombies, el miedo puede mantenerte vivo. De hecho su cobardía precisamente le ha permitido que sus sesos aún se mantengan en su cabeza. Entonces un día conoce a Tallahassse, un macarra caza zombies cuya única determinación en su vida es lograr el último Twinkie (dulce americano) en la tierra. Cuando ambos unen fuerzas con Wichita y Little Rock, que también han encontrado una manera original de sobrevivir en ese caos, tendrán que elegir qué es peor: si confiar los unos en los otros para sobrevivir o sucumbir ante los zombies.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AbUmMl6UtJVHxOL7FIDHM4ljfjg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yiOhKNWtnEHY8mX5VKm72wGeAyW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rrWnhxfkg0JpBzgaSsm4K1Voy3L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qFoJaphGhfed5LChl3E3SdPR5mr.png"
+    },
+    {
+      "id": "tmdb:152601",
+      "type": "movie",
+      "name": "Her",
+      "ids": {
+        "tmdb": 152601
+      },
+      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
     },
     {
       "id": "tmdb:1585",
@@ -686,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
     },
     {
-      "id": "tmdb:11423",
+      "id": "tmdb:1497970",
       "type": "movie",
-      "name": "Memories of Murder (Crónica de un asesino en serie)",
+      "name": "Tom y Jerry: Aventura en el tiempo",
       "ids": {
-        "tmdb": 11423
+        "tmdb": 1497970
       },
-      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
+      "overview": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9laETggkidiMurdlAazvl2Axz5N.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3cjoxKJbMDAbmhpiMEpYzviGZ6X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wslNqP0oL842OUcHA65Z9EuEMQv.png"
     }
   ]
 }
