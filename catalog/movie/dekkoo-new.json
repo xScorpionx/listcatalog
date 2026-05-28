@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:1251827",
+      "type": "movie",
+      "name": "The Secret Lives of Bill Bartell",
+      "ids": {
+        "tmdb": 1251827
+      },
+      "overview": "Bill Bartell was a multifaceted individual who traversed the punk rock scene, law enforcement, rodeo riding, and country music. Known for his unique contribution to punk rock through his label Gasatanka Records and band White Flag, Bartell's life defies conventional boundaries, blending hyper-masculinity with subcultural rebellion. His story, filled with mysterious and seemingly contradictory roles, offers a compelling narrative about identity, transformation, and the unexpected paths life can take.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/knlxowhVuh1eJjSxqwMsakUSDdu.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:1134836",
       "type": "movie",
       "name": "Yet Another Family Drama",
@@ -264,7 +276,8 @@
       "year": 2023,
       "poster": "https://image.tmdb.org/t/p/w342/jJUsjdH0u5a3Dtjy3lGrlyC6zlQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/awk5TucZkK3cBcjCnhJQlyovIK7.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/awk5TucZkK3cBcjCnhJQlyovIK7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iwgDdntgjxGMlVwwuyagRCoZy6F.png"
     },
     {
       "id": "tmdb:1192271",
@@ -339,7 +352,8 @@
       "year": 2023,
       "poster": "https://image.tmdb.org/t/p/w342/qEM1xDNsX7aS0aPHA7SyVNahMC3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g8jcqcKFVx9d0OYyxBVODDT4Jf5.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/g8jcqcKFVx9d0OYyxBVODDT4Jf5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xRnDE8hGLB9ISiY6Am4VwwRYAA3.png"
     },
     {
       "id": "tmdb:1124110",
@@ -616,18 +630,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/7mLZqBeGAsv4xFKlQdlVyJF6HDj.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/jhGJOvyYjSlUYgFC8mTINUJqa5x.jpg"
-    },
-    {
-      "id": "tmdb:955745",
-      "type": "movie",
-      "name": "Et tu cherches quoi de beau ici?",
-      "ids": {
-        "tmdb": 955745
-      },
-      "overview": "In Brussels, a Chilean man looks for connection, though fear of intimacy may lead him astray.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/cB5J6swAqU4XBekTLRzmpcKX4f1.jpg",
-      "posterShape": "poster"
     }
   ]
 }
