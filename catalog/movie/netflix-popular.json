@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1007757",
-      "type": "movie",
-      "name": "Intercambiados",
-      "ids": {
-        "tmdb": 1007757
-      },
-      "overview": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/m0psah5Ttchm7Jlp74NZ5xDe6C8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9oG8zQbWP8o9iXSShgMXTqGuDZ8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4sPGwrCPGlOp2gseMN7DF74jsFb.png"
-    },
-    {
       "id": "tmdb:1582770",
       "type": "movie",
       "name": "Patriotismo 2",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/Au9YrJbzIjv53LXSDt7zazPD86R.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lZ1nNJzVLQq9cuVezUG4IYKFxs2.png"
+    },
+    {
+      "id": "tmdb:1007757",
+      "type": "movie",
+      "name": "Intercambiados",
+      "ids": {
+        "tmdb": 1007757
+      },
+      "overview": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/m0psah5Ttchm7Jlp74NZ5xDe6C8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9oG8zQbWP8o9iXSShgMXTqGuDZ8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sPGwrCPGlOp2gseMN7DF74jsFb.png"
     },
     {
       "id": "tmdb:1318447",
@@ -99,6 +99,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/bY3zXsV5p4X9rTdEDvyoatPawcR.png"
     },
     {
+      "id": "tmdb:278",
+      "type": "movie",
+      "name": "Cadena perpetua",
+      "ids": {
+        "tmdb": 278
+      },
+      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ftNEUipZUPFMcj87Ffx8MlY1pJs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
+    },
+    {
       "id": "tmdb:1630423",
       "type": "movie",
       "name": "Sangre asesina",
@@ -113,18 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/i4OpejLXLGy3TfwRfNIL7St0WXc.png"
     },
     {
-      "id": "tmdb:278",
+      "id": "tmdb:337167",
       "type": "movie",
-      "name": "Cadena perpetua",
+      "name": "Cincuenta sombras liberadas",
       "ids": {
-        "tmdb": 278
+        "tmdb": 337167
       },
-      "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg",
+      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ftNEUipZUPFMcj87Ffx8MlY1pJs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bWvDk4INHvqvlCg1DtDARgFF6Of.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IUC8w0u96mFENQW7dWcE3FBfbk.png"
     },
     {
       "id": "tmdb:155",
@@ -155,20 +169,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/72I2CuBl7ArEgv4rijdnVvd3WOS.png"
     },
     {
-      "id": "tmdb:337167",
-      "type": "movie",
-      "name": "Cincuenta sombras liberadas",
-      "ids": {
-        "tmdb": 337167
-      },
-      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bWvDk4INHvqvlCg1DtDARgFF6Of.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1IUC8w0u96mFENQW7dWcE3FBfbk.png"
-    },
-    {
       "id": "tmdb:122",
       "type": "movie",
       "name": "El señor de los anillos: El retorno del rey",
@@ -183,20 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
     },
     {
-      "id": "tmdb:634649",
-      "type": "movie",
-      "name": "Spider-Man: No Way Home",
-      "ids": {
-        "tmdb": 634649
-      },
-      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
-    },
-    {
       "id": "tmdb:120",
       "type": "movie",
       "name": "El señor de los anillos: La comunidad del anillo",
@@ -209,6 +195,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
+    },
+    {
+      "id": "tmdb:634649",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "ids": {
+        "tmdb": 634649
+      },
+      "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/miZFgV81xG324rpUknQX8dtXuBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
     },
     {
       "id": "tmdb:803796",
@@ -281,20 +281,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
     },
     {
-      "id": "tmdb:550",
-      "type": "movie",
-      "name": "El club de la lucha",
-      "ids": {
-        "tmdb": 550
-      },
-      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
-    },
-    {
       "id": "tmdb:1662317",
       "type": "movie",
       "name": "El choque",
@@ -307,6 +293,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/k1PCAXjFq2z5s1HaJyRYuhfL4ud.png"
+    },
+    {
+      "id": "tmdb:1433117",
+      "type": "movie",
+      "name": "Kara",
+      "ids": {
+        "tmdb": 1433117
+      },
+      "overview": "Un ladrón trata de enderezarse, pero, cuando su padre se endeuda por culpa de las condiciones abusivas de los bancos, vuelve a robar... y un policía implacable le pisa los talones.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sHs7RVYQVFGq7oXx5gwdOX3vgy5.png"
     },
     {
       "id": "tmdb:829560",
@@ -337,18 +337,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nJaQn1V1PM3b2733Bh8EimswvMz.png"
     },
     {
-      "id": "tmdb:414906",
+      "id": "tmdb:550",
       "type": "movie",
-      "name": "The Batman",
+      "name": "El club de la lucha",
       "ids": {
-        "tmdb": 414906
+        "tmdb": 550
       },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
     },
     {
       "id": "tmdb:829557",
@@ -365,18 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/afT1IcVDzyqE6RUlCPnuzEI4ZS3.png"
     },
     {
-      "id": "tmdb:1446616",
+      "id": "tmdb:414906",
       "type": "movie",
-      "name": "El último depredador",
+      "name": "The Batman",
       "ids": {
-        "tmdb": 1446616
+        "tmdb": 414906
       },
-      "overview": "Un rapero de Nalasopara y una influencer del sur de Bombay ponen su relación a prueba cuando un monzón los deja atrapados con un cocodrilo letal.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/25AyYjTWP5KfZMG680mxdaTF9Hx.jpg",
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jjhazOsDmlaAChvYL7MauLZjV8j.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
     },
     {
       "id": "tmdb:875828",
@@ -391,6 +391,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kGebWI69wmrtdKHHZQY9a7psIY3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5h2BYsB1OjlrfA7c0m1qtrFjbCY.png"
+    },
+    {
+      "id": "tmdb:1446616",
+      "type": "movie",
+      "name": "El último depredador",
+      "ids": {
+        "tmdb": 1446616
+      },
+      "overview": "Un rapero de Nalasopara y una influencer del sur de Bombay ponen su relación a prueba cuando un monzón los deja atrapados con un cocodrilo letal.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/25AyYjTWP5KfZMG680mxdaTF9Hx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jjhazOsDmlaAChvYL7MauLZjV8j.png"
+    },
+    {
+      "id": "tmdb:121",
+      "type": "movie",
+      "name": "El señor de los anillos: Las dos torres",
+      "ids": {
+        "tmdb": 121
+      },
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
     },
     {
       "id": "tmdb:807",
@@ -421,18 +449,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
-      "id": "tmdb:121",
+      "id": "tmdb:1290417",
       "type": "movie",
-      "name": "El señor de los anillos: Las dos torres",
+      "name": "Embestida",
       "ids": {
-        "tmdb": 121
+        "tmdb": 1290417
       },
-      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+      "overview": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5y7w56UWHSHckSrJHupxbD8RSei.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Zu4qKe4aQjRWmTAN2kcdRrCIhI.png"
+    },
+    {
+      "id": "tmdb:18785",
+      "type": "movie",
+      "name": "Resacón en Las Vegas",
+      "ids": {
+        "tmdb": 18785
+      },
+      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
     },
     {
       "id": "tmdb:76341",
@@ -463,46 +505,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
     },
     {
-      "id": "tmdb:1290417",
+      "id": "tmdb:1213898",
       "type": "movie",
-      "name": "Embestida",
+      "name": "Violencia en la frontera 2",
       "ids": {
-        "tmdb": 1290417
+        "tmdb": 1213898
       },
-      "overview": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
+      "overview": "Jóvenes combatientes indios se prepararon para proteger su patria de una amenaza mayor durante la guerra indo-pakistaní de 1971.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5y7w56UWHSHckSrJHupxbD8RSei.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Zu4qKe4aQjRWmTAN2kcdRrCIhI.png"
-    },
-    {
-      "id": "tmdb:1684226",
-      "type": "movie",
-      "name": "La novia del año",
-      "ids": {
-        "tmdb": 1684226
-      },
-      "overview": "El sueño de Lienkie de formar su propia familia se hace añicos, así que trama un plan retorcido para ganar el premio a la «Novia del Año» y vengarse de su ex.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/erg33i4f3i6v0oxkwePSGdFC4zz.png"
-    },
-    {
-      "id": "tmdb:18785",
-      "type": "movie",
-      "name": "Resacón en Las Vegas",
-      "ids": {
-        "tmdb": 18785
-      },
-      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jbCnrty7OWdXjIdVFKmuSp7EBzn.png"
     },
     {
       "id": "tmdb:315162",
@@ -519,46 +533,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/h0lvYmEn9qmK9FH3M77D4XEWHOG.png"
     },
     {
-      "id": "tmdb:1268127",
+      "id": "tmdb:1522496",
       "type": "movie",
-      "name": "Humint",
+      "name": "ฟู้ดทรัค ลัก (รัก) หมูเด้ง",
       "ids": {
-        "tmdb": 1268127
+        "tmdb": 1522496
       },
-      "overview": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/3wcTfvs8j940ALGAbNsH7iwprvt.jpg",
+      "overview": "When a child sneaks onto their food truck looking for his father, three friends go on a wild road trip, running into police, monks — and a famous hippo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fOhSmHSEm0iVQ2AdG5SkjXnsvUM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7tUGcgD99ykvneCyngWqEROuGlH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5pGLKby53rj4RNQz6GK1Zn6dHRX.png"
-    },
-    {
-      "id": "tmdb:1087040",
-      "type": "movie",
-      "name": "Hasta el fondo: La historia de Pornhub",
-      "ids": {
-        "tmdb": 1087040
-      },
-      "overview": "Este documental ofrece un análisis en profundidad de los éxitos y escándalos de Pornhub a través de entrevistas con artistas, activistas y antiguos empleados.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/uJldamB3Le1eELdjqaBd4APGU49.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xnrbXZqclhkF0zyhzdiO8bmTOPu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6ddC797v7rqHWZrNanuJ4APffZZ.png"
-    },
-    {
-      "id": "tmdb:1213898",
-      "type": "movie",
-      "name": "Violencia en la frontera 2",
-      "ids": {
-        "tmdb": 1213898
-      },
-      "overview": "Jóvenes combatientes indios se prepararon para proteger su patria de una amenaza mayor durante la guerra indo-pakistaní de 1971.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jbCnrty7OWdXjIdVFKmuSp7EBzn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hyl6es0MyJ1tEmziR293GxdIQKZ.jpg"
     },
     {
       "id": "tmdb:4935",
@@ -573,6 +558,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dVb6pHnBS66heliAxFV47vMXcG3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vzmjYJKnVIFruR1k6JiROvc6yrU.png"
+    },
+    {
+      "id": "tmdb:1252309",
+      "type": "movie",
+      "name": "Pídeme lo que quieras",
+      "ids": {
+        "tmdb": 1252309
+      },
+      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
+    },
+    {
+      "id": "tmdb:1268127",
+      "type": "movie",
+      "name": "Humint",
+      "ids": {
+        "tmdb": 1268127
+      },
+      "overview": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/3wcTfvs8j940ALGAbNsH7iwprvt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7tUGcgD99ykvneCyngWqEROuGlH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5pGLKby53rj4RNQz6GK1Zn6dHRX.png"
+    },
+    {
+      "id": "tmdb:8966",
+      "type": "movie",
+      "name": "Crepúsculo",
+      "ids": {
+        "tmdb": 8966
+      },
+      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
     },
     {
       "id": "tmdb:1511417",
@@ -617,18 +644,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/A2qs8jKKvTIuHSIJjB0CT6PQNbj.png"
     },
     {
-      "id": "tmdb:1252309",
+      "id": "tmdb:1684226",
       "type": "movie",
-      "name": "Pídeme lo que quieras",
+      "name": "La novia del año",
       "ids": {
-        "tmdb": 1252309
+        "tmdb": 1684226
       },
-      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
+      "overview": "El sueño de Lienkie de formar su propia familia se hace añicos, así que trama un plan retorcido para ganar el premio a la «Novia del Año» y vengarse de su ex.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/erg33i4f3i6v0oxkwePSGdFC4zz.png"
+    },
+    {
+      "id": "tmdb:1087040",
+      "type": "movie",
+      "name": "Hasta el fondo: La historia de Pornhub",
+      "ids": {
+        "tmdb": 1087040
+      },
+      "overview": "Este documental ofrece un análisis en profundidad de los éxitos y escándalos de Pornhub a través de entrevistas con artistas, activistas y antiguos empleados.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/uJldamB3Le1eELdjqaBd4APGU49.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xnrbXZqclhkF0zyhzdiO8bmTOPu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6ddC797v7rqHWZrNanuJ4APffZZ.png"
     },
     {
       "id": "tmdb:19404",
@@ -645,34 +686,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png"
     },
     {
-      "id": "tmdb:8966",
-      "type": "movie",
-      "name": "Crepúsculo",
-      "ids": {
-        "tmdb": 8966
-      },
-      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
-    },
-    {
-      "id": "tmdb:664413",
-      "type": "movie",
-      "name": "365 días",
-      "ids": {
-        "tmdb": 664413
-      },
-      "overview": "Massimo es miembro de la mafia siciliana y Laura es una directora de ventas. Ella no espera que un viaje a Sicilia salve su relación, pero Massimo la secuestrará durante 365 días para que se enamore de él.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/jz8T3hrU6GuMqSuQ4Rbd4MJUeaq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wHGv8m8c8nctOo4VeFVkCejJ0gx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gCl7yvEw8EZxLjMdWaswHP2mzhn.png"
-    },
-    {
       "id": "tmdb:11324",
       "type": "movie",
       "name": "Shutter Island",
@@ -685,20 +698,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kUlADNz6S4LFIY4cbZIWzKy0og.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
-    },
-    {
-      "id": "tmdb:9502",
-      "type": "movie",
-      "name": "Kung Fu Panda",
-      "ids": {
-        "tmdb": 9502
-      },
-      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
     }
   ]
 }

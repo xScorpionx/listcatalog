@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:220102",
+      "type": "series",
+      "name": "Spider-Noir",
+      "ids": {
+        "tmdb": 220102
+      },
+      "overview": "El detective privado Ben Reilly trabaja en un par de casos sencillos, hasta que unos mafiosos, unos monstruos y una misteriosa mujer fatal tejen una telaraña a su alrededor, obligándolo a enfrentarse a su antigua vida, cuando era La Araña, el único superhéroe de Nueva York.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fj4dCkaIeZ7g8N5UJKikuKF1IF5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o2D8loRUDlEuOf7BMRgulerNJ6p.png"
+    },
+    {
       "id": "tmdb:285404",
       "type": "series",
       "name": "Satisfacción garantizada",
@@ -675,18 +689,6 @@
       "overview": "Miniserie que recrea los casos más espectaculares de la Guardia Civil.",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/h6BzCdVYiUHnhzES7r96lR9T2Ag.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:313117",
-      "type": "series",
-      "name": "破产姐妹",
-      "ids": {
-        "tmdb": 313117
-      },
-      "overview": "",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/wMH20wQmNGxBFYa2CYYca651dev.jpg",
       "posterShape": "poster"
     }
   ]
