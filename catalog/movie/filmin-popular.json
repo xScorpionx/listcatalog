@@ -85,20 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/i3oH2d3vBSzUiBa0M54SVXSCB3w.png"
     },
     {
-      "id": "tmdb:218",
-      "type": "movie",
-      "name": "Terminator",
-      "ids": {
-        "tmdb": 218
-      },
-      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
-    },
-    {
       "id": "tmdb:796",
       "type": "movie",
       "name": "Crueles intenciones",
@@ -155,18 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
-      "id": "tmdb:389",
+      "id": "tmdb:218",
       "type": "movie",
-      "name": "12 hombres sin piedad",
+      "name": "Terminator",
       "ids": {
-        "tmdb": 389
+        "tmdb": 218
       },
-      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
+      "overview": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pGZZ2FZtDSAwM80h9iYkrbJGrKz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
     },
     {
       "id": "tmdb:258216",
@@ -181,6 +167,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hyCbJ2SZDxbMlx5zqUgTvOLSfoq.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5cseIICerULc4UZyrspsaQvw15u.png"
+    },
+    {
+      "id": "tmdb:77",
+      "type": "movie",
+      "name": "Memento",
+      "ids": {
+        "tmdb": 77
+      },
+      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/neHrQLVfT3KPqvv30pNPyRb6chQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
+    },
+    {
+      "id": "tmdb:389",
+      "type": "movie",
+      "name": "12 hombres sin piedad",
+      "ids": {
+        "tmdb": 389
+      },
+      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
     },
     {
       "id": "tmdb:1173559",
@@ -253,18 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/dPu60LvvtByfArsYnoMFkKHbaWn.png"
     },
     {
-      "id": "tmdb:77",
+      "id": "tmdb:823219",
       "type": "movie",
-      "name": "Memento",
+      "name": "Flow, un mundo que salvar",
       "ids": {
-        "tmdb": 77
+        "tmdb": 823219
       },
-      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/neHrQLVfT3KPqvv30pNPyRb6chQ.jpg",
+      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
     },
     {
       "id": "tmdb:1643",
@@ -281,20 +295,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/sYND507wEkKUr4GwsV8C1cpu4E7.png"
     },
     {
-      "id": "tmdb:1396",
-      "type": "movie",
-      "name": "El espejo",
-      "ids": {
-        "tmdb": 1396
-      },
-      "overview": "Un hombre, Alekséi, habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. La película es una evocación continua de recuerdos y sentimientos que viajan en diferentes tiempos sin orden aparente: la relación con su madre, su infancia,...que se mezclan con material fílmico de noticiario sobre la Guerra civil española, la Segunda guerra mundial y el enfrentamiento entre la URSS y China por la isla Damanski. En la película suenan poemas escritos y recitados por Arseni Tarkovski, padre del director. Retrata un pasado que es el suyo, pero también el de un país y el del acontecer mundial.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4xLN44ohHnM591pC3Jc4vOw6hww.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1xxfyAiRfh9lxGutkgfnnRXP6z0.png"
-    },
-    {
       "id": "tmdb:1278",
       "type": "movie",
       "name": "Soñadores",
@@ -309,18 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
     },
     {
-      "id": "tmdb:823219",
+      "id": "tmdb:62",
       "type": "movie",
-      "name": "Flow, un mundo que salvar",
+      "name": "2001: Una odisea del espacio",
       "ids": {
-        "tmdb": 823219
+        "tmdb": 62
       },
-      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
+      "overview": "Mientras investigan la aparición de misteriosos monolitos en el universo, dos astronautas luchan contra la inteligencia artificial de su nave.",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/wDBquZTCX7AuXWHyVywxO68wLtS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
     },
     {
       "id": "tmdb:28",
@@ -337,18 +337,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
-      "id": "tmdb:62",
+      "id": "tmdb:1396",
       "type": "movie",
-      "name": "2001: Una odisea del espacio",
+      "name": "El espejo",
       "ids": {
-        "tmdb": 62
+        "tmdb": 1396
       },
-      "overview": "Mientras investigan la aparición de misteriosos monolitos en el universo, dos astronautas luchan contra la inteligencia artificial de su nave.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/sln50uQYigvu5AvN72JfYfu1ckq.jpg",
+      "overview": "Un hombre, Alekséi, habla con su esposa sobre su situación actual y los motivos por los que se han distanciado. La película es una evocación continua de recuerdos y sentimientos que viajan en diferentes tiempos sin orden aparente: la relación con su madre, su infancia,...que se mezclan con material fílmico de noticiario sobre la Guerra civil española, la Segunda guerra mundial y el enfrentamiento entre la URSS y China por la isla Damanski. En la película suenan poemas escritos y recitados por Arseni Tarkovski, padre del director. Retrata un pasado que es el suyo, pero también el de un país y el del acontecer mundial.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wDBquZTCX7AuXWHyVywxO68wLtS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4xLN44ohHnM591pC3Jc4vOw6hww.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1xxfyAiRfh9lxGutkgfnnRXP6z0.png"
+    },
+    {
+      "id": "tmdb:519465",
+      "type": "movie",
+      "name": "Reina de corazones",
+      "ids": {
+        "tmdb": 519465
+      },
+      "overview": "Annie es una exitosa abogada que vive en una casa de estilo modernista con sus dos hijas y su marido Peter, un reputado físico. La aparición de Gustav, un hijo que pertenece a una relación previa de Peter, pone patas arriba la armonía que reina en la vida de Annie. Lo que en un principio parece ser un movimiento liberador para ella, pronto se convierte en una historia de poder y traición que tendrá consecuencias devastadoras en su vida.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dnbZXUwp7ZGNZnPeBxXA1HHxsab.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
       "id": "tmdb:510",
@@ -379,6 +393,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
     },
     {
+      "id": "tmdb:607",
+      "type": "movie",
+      "name": "Men in Black",
+      "ids": {
+        "tmdb": 607
+      },
+      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
+    },
+    {
       "id": "tmdb:78",
       "type": "movie",
       "name": "Blade Runner",
@@ -391,20 +419,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
-    },
-    {
-      "id": "tmdb:519465",
-      "type": "movie",
-      "name": "Reina de corazones",
-      "ids": {
-        "tmdb": 519465
-      },
-      "overview": "Annie es una exitosa abogada que vive en una casa de estilo modernista con sus dos hijas y su marido Peter, un reputado físico. La aparición de Gustav, un hijo que pertenece a una relación previa de Peter, pone patas arriba la armonía que reina en la vida de Annie. Lo que en un principio parece ser un movimiento liberador para ella, pronto se convierte en una historia de poder y traición que tendrá consecuencias devastadoras en su vida.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dnbZXUwp7ZGNZnPeBxXA1HHxsab.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
       "id": "tmdb:27578",
@@ -421,18 +435,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:1497970",
+      "id": "tmdb:1949",
       "type": "movie",
-      "name": "Tom y Jerry: Aventura en el tiempo",
+      "name": "Zodiac",
       "ids": {
-        "tmdb": 1497970
+        "tmdb": 1949
       },
-      "overview": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9laETggkidiMurdlAazvl2Axz5N.jpg",
+      "overview": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3cjoxKJbMDAbmhpiMEpYzviGZ6X.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wslNqP0oL842OUcHA65Z9EuEMQv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4eCdBQq6DQsmNWPgfbCs8Lse7Km.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
     },
     {
       "id": "tmdb:103",
@@ -447,6 +461,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
+    },
+    {
+      "id": "tmdb:770",
+      "type": "movie",
+      "name": "Lo que el viento se llevó",
+      "ids": {
+        "tmdb": 770
+      },
+      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
+      "year": 1939,
+      "poster": "https://image.tmdb.org/t/p/w342/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hqSllLo5dUgjmI0JsWwtz4YhxCV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
+    },
+    {
+      "id": "tmdb:531428",
+      "type": "movie",
+      "name": "Retrato de una mujer en llamas",
+      "ids": {
+        "tmdb": 531428
+      },
+      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uLy5XjP5NKyqanqlTJJ7C58cpw0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
     },
     {
       "id": "tmdb:73",
@@ -477,18 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/qWQG9tk15yzldDyi8l3ruk0uk14.png"
     },
     {
-      "id": "tmdb:185",
+      "id": "tmdb:1497970",
       "type": "movie",
-      "name": "La naranja mecánica",
+      "name": "Tom y Jerry: Aventura en el tiempo",
       "ids": {
-        "tmdb": 185
+        "tmdb": 1497970
       },
-      "overview": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
+      "overview": "Tom y Jerry viajan en el tiempo. Tras una loca persecución en el Museo Metropolitan de Nueva York, un portal del tiempo los transporta a una ciudad dorada inspirada en la Antigua China, llena de magia, guerreros y criaturas sorprendentes. Para regresar a casa, viven una increíble aventura repleta de acción y humor, donde deben enfrentarse a nuevos enemigos… ¡y quizás aprender a trabajar juntos!",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9laETggkidiMurdlAazvl2Axz5N.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f43VdMWKwuDOW1eo7REXHkSLx4Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3cjoxKJbMDAbmhpiMEpYzviGZ6X.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wslNqP0oL842OUcHA65Z9EuEMQv.png"
     },
     {
       "id": "tmdb:1601243",
@@ -505,102 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png"
     },
     {
-      "id": "tmdb:1949",
+      "id": "tmdb:185",
       "type": "movie",
-      "name": "Zodiac",
+      "name": "La naranja mecánica",
       "ids": {
-        "tmdb": 1949
+        "tmdb": 185
       },
-      "overview": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
+      "overview": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4eCdBQq6DQsmNWPgfbCs8Lse7Km.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
-    },
-    {
-      "id": "tmdb:770",
-      "type": "movie",
-      "name": "Lo que el viento se llevó",
-      "ids": {
-        "tmdb": 770
-      },
-      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
-      "year": 1939,
-      "poster": "https://image.tmdb.org/t/p/w342/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hqSllLo5dUgjmI0JsWwtz4YhxCV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
-    },
-    {
-      "id": "tmdb:607",
-      "type": "movie",
-      "name": "Men in Black",
-      "ids": {
-        "tmdb": 607
-      },
-      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
-    },
-    {
-      "id": "tmdb:11905",
-      "type": "movie",
-      "name": "En compañía de lobos",
-      "ids": {
-        "tmdb": 11905
-      },
-      "overview": "Tras presenciar la muerte de su hermana bajo las garras de un lobo, la joven Rosaleen regresa a casa de su abuela, lugar donde ella acostumbra a contar historias acerca del hombre lobo y del peligro que entrañan los hombres cejijuntos.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/11rOxiXdqdm5KyGiGkSxP3VwOh2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9NYGgXA5WU2YJTD4ioO37LtnYk8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uyq1yWgwQ5qQ0kn7iwrwNkFSCLB.png"
-    },
-    {
-      "id": "tmdb:531428",
-      "type": "movie",
-      "name": "Retrato de una mujer en llamas",
-      "ids": {
-        "tmdb": 531428
-      },
-      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uLy5XjP5NKyqanqlTJJ7C58cpw0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
-    },
-    {
-      "id": "tmdb:9340",
-      "type": "movie",
-      "name": "Los Goonies",
-      "ids": {
-        "tmdb": 9340
-      },
-      "overview": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar 'Los Goonies', decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tzOOK0PEaIc4uiJZD3eD68vx509.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xtpE3IYtl1gz5l8at7SvdVuPHDE.png"
-    },
-    {
-      "id": "tmdb:1124566",
-      "type": "movie",
-      "name": "Valor sentimental",
-      "ids": {
-        "tmdb": 1124566
-      },
-      "overview": "Una exploración íntima y conmovedora de la familia, los recuerdos y el poder reconciliador del arte.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/s4a3hpTmws0mNLEn0BNBRiX5q3g.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2K047H3KcAonAPyraPppxZUb46H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fjYXCZDQRyRYPDYfHn20ZbxSYky.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f43VdMWKwuDOW1eo7REXHkSLx4Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
     },
     {
       "id": "tmdb:1018",
@@ -617,18 +575,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
     },
     {
-      "id": "tmdb:11713",
+      "id": "tmdb:152601",
       "type": "movie",
-      "name": "Furia Oriental (Fist of Fury)",
+      "name": "Her",
       "ids": {
-        "tmdb": 11713
+        "tmdb": 152601
       },
-      "overview": "Chen, un joven experto en artes marciales, regresa a su escuela en Shanghai al enterarse de que su amado maestro ha sido asesinado. Mientras investiga la muerte de su instructor, Chen descubre que ésta está relacionada con una organización dedicada al tráfico de drogas, con una escuela rival y con las tensiones raciales existentes entre los habitantes chinos y japoneses de la ciudad.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/hONgSVhFqNGQkgSzXXwUZcbUC28.jpg",
+      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2JCnxLdB0A1c7OZWazEGf2Mnme.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nvVoUiS0RpixTLEInV8IWhwK09O.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
+    },
+    {
+      "id": "tmdb:263472",
+      "type": "movie",
+      "name": "Toc, toc",
+      "ids": {
+        "tmdb": 263472
+      },
+      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
+    },
+    {
+      "id": "tmdb:9340",
+      "type": "movie",
+      "name": "Los Goonies",
+      "ids": {
+        "tmdb": 9340
+      },
+      "overview": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar 'Los Goonies', decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tzOOK0PEaIc4uiJZD3eD68vx509.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xtpE3IYtl1gz5l8at7SvdVuPHDE.png"
     },
     {
       "id": "tmdb:11423",
@@ -645,6 +631,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
     },
     {
+      "id": "tmdb:1124566",
+      "type": "movie",
+      "name": "Valor sentimental",
+      "ids": {
+        "tmdb": 1124566
+      },
+      "overview": "Una exploración íntima y conmovedora de la familia, los recuerdos y el poder reconciliador del arte.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/s4a3hpTmws0mNLEn0BNBRiX5q3g.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2K047H3KcAonAPyraPppxZUb46H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fjYXCZDQRyRYPDYfHn20ZbxSYky.png"
+    },
+    {
       "id": "tmdb:843",
       "type": "movie",
       "name": "Deseando amar",
@@ -659,32 +659,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ta3mZgHYQC394qq3zYXjuj3ASP5.png"
     },
     {
-      "id": "tmdb:30497",
+      "id": "tmdb:665",
       "type": "movie",
-      "name": "La matanza de Texas",
+      "name": "Ben-Hur",
       "ids": {
-        "tmdb": 30497
+        "tmdb": 665
       },
-      "overview": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/fOqMcW2TYN0WReTDpds93rkAYpR.jpg",
+      "overview": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas.",
+      "year": 1959,
+      "poster": "https://image.tmdb.org/t/p/w342/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4sL1LwLcKLGPLq8qRtUdFy6KQdh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png"
-    },
-    {
-      "id": "tmdb:112160",
-      "type": "movie",
-      "name": "Crónicas sexuales de una familia francesa",
-      "ids": {
-        "tmdb": 112160
-      },
-      "overview": "Como cualquier adolescente virgen de 18 años Romain se siente sólo y deprimido. Al vivir una experiencia traumática en la escuela su madre Claire decide que a partir de ahora las cosas deben cambiar en el seno de la familia y adoptar una visión mucho más abierta sobre el tema tabú en la familia: el sexo.\r Romain busca una amante desesperadamente, su hermano y su hermana mayor buscan nuevas experiencias sexuales que alimenten su cruel rutina, su abuelo viudo visita con regularidad a una prostituta en busca de sexo salvaje y duro olvido y Claire y su padre buscan a través de la sexualidad intentar romper con la monotonía, aquella que cuando eran jóvenes jamás pensaban que alcanzarían algún dia.\r Pascal Arnold y Jean-Marc Barr, directores del filme, buscan innovar con una nueva manera de ver el sexo. En lugar de verlo como algo prohibido y censurado, muestran las relaciones humanas de una familia junto con aquello considerado tabú para casi cualquier entorno familiar: la sexualidad en sí.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/9rDWwyqUXsJIiCbFL8QGzSlXzae.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gvtGBiE4r2xCVp0qR0mbM85Doxp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xSwqMBl5kMqaenFS8OCgE37v7ao.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eoNvpCpp67ibPVhItZNxtGZ8LTD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gMzO2GVRtDtBNQuAbAIlAEeUePK.png"
     },
     {
       "id": "tmdb:397243",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/f4vQispcO0oZ9qV2W3Qeigca9D3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nMCxrzLldcp4kGBSAcTJEr08jb9.png"
+    },
+    {
+      "id": "tmdb:11713",
+      "type": "movie",
+      "name": "Furia Oriental (Fist of Fury)",
+      "ids": {
+        "tmdb": 11713
+      },
+      "overview": "Chen, un joven experto en artes marciales, regresa a su escuela en Shanghai al enterarse de que su amado maestro ha sido asesinado. Mientras investiga la muerte de su instructor, Chen descubre que ésta está relacionada con una organización dedicada al tráfico de drogas, con una escuela rival y con las tensiones raciales existentes entre los habitantes chinos y japoneses de la ciudad.",
+      "year": 1972,
+      "poster": "https://image.tmdb.org/t/p/w342/hONgSVhFqNGQkgSzXXwUZcbUC28.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2JCnxLdB0A1c7OZWazEGf2Mnme.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nvVoUiS0RpixTLEInV8IWhwK09O.png"
     }
   ]
 }
