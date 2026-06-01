@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:105848",
-      "type": "series",
-      "name": "Woke",
-      "ids": {
-        "tmdb": 105848
-      },
-      "overview": "Keef, un caricaturista afroamericano, finalmente está al borde del éxito general cuando un incidente inesperado lo cambia todo. Ahora debe navegar por las nuevas voces e ideas que lo confrontan y desafían, todo sin incendiar todo lo que ya ha construido.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/tEcADfyR2jsAlYVblK6A9LYi0tW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2IiyV6JW0x6EkXF9JcwsK7v2Z8P.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iFHabLgJGCbcKXWmG87BWh4VnUb.png"
-    },
-    {
       "id": "tmdb:18745",
       "type": "series",
       "name": "Historias de San Francisco",
@@ -29,6 +15,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/lbTHwXXilEpr6xIVIgpYNc9t25C.png"
     },
     {
+      "id": "tmdb:105848",
+      "type": "series",
+      "name": "Woke",
+      "ids": {
+        "tmdb": 105848
+      },
+      "overview": "Keef, un caricaturista afroamericano, finalmente está al borde del éxito general cuando un incidente inesperado lo cambia todo. Ahora debe navegar por las nuevas voces e ideas que lo confrontan y desafían, todo sin incendiar todo lo que ya ha construido.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/tEcADfyR2jsAlYVblK6A9LYi0tW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2IiyV6JW0x6EkXF9JcwsK7v2Z8P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iFHabLgJGCbcKXWmG87BWh4VnUb.png"
+    },
+    {
       "id": "tmdb:90021",
       "type": "series",
       "name": "Werq the World",
@@ -40,6 +40,18 @@
       "poster": "https://image.tmdb.org/t/p/w342/sc0mnIq9SeamvNejv8qEo20oPGi.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/l2Q5ODTqGOTbEodVLMn6GBFZYQV.jpg"
+    },
+    {
+      "id": "tmdb:109326",
+      "type": "series",
+      "name": "Passage",
+      "ids": {
+        "tmdb": 109326
+      },
+      "overview": "Passage is an episodic paranormal sci-fi drama centered around Janus Agent Ali Prader. This queer mom is a top paranormal operative for a secret division called Caelus within the government. Ali is able to balance her professional and personal life – that is until she starts to unravel a thread that opens the door to a new crucial shift in power.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/nIS1DSYlgb5Hp2HQrverkdtQ5wR.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:113792",
@@ -68,33 +80,6 @@
       "backdrop": "https://image.tmdb.org/t/p/original/waqjIGFIblcs9Jh8DpvWJk3uKrQ.jpg"
     },
     {
-      "id": "tmdb:123424",
-      "type": "series",
-      "name": "Todo lo que necesitas",
-      "ids": {
-        "tmdb": 123424
-      },
-      "overview": "Vince, Robbie, Tom y Levo, cuatro hombres gay en Berlín tratan de hallar el amor y espacios seguros en la frialdad del mundo actual.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/j9kBsysrgPI1dgjgaVNL4jjhom3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sc8zpoJwZ8ifydDuXmY3nMZ36dP.jpg"
-    },
-    {
-      "id": "tmdb:228865",
-      "type": "series",
-      "name": "Love Club",
-      "ids": {
-        "tmdb": 228865
-      },
-      "overview": "In a peripheral and unprecedented Milan, a place frequented by the queer community is in danger of closing due to economic problems. The lives of Luz, Tim, Rose and Zhang, who all circle around the Love Club, touch on a path that will make them face their greatest fears. Will Luz be able to live the story with Roberta without the fear of losing her independence?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/zC6SxNU0tV62AuqCAHB9Vrc4lQQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l8VjcNEZsKEpDnae2F00eRFCnpL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z9qll9H3YRQmqzbnnLFDQI2DTsr.png"
-    },
-    {
       "id": "tmdb:30280",
       "type": "series",
       "name": "De Troon",
@@ -108,16 +93,17 @@
       "backdrop": "https://image.tmdb.org/t/p/original/lQo1oqv5xzsuviqi9o9XBRz4FMW.jpg"
     },
     {
-      "id": "tmdb:109326",
+      "id": "tmdb:123424",
       "type": "series",
-      "name": "Passage",
+      "name": "Todo lo que necesitas",
       "ids": {
-        "tmdb": 109326
+        "tmdb": 123424
       },
-      "overview": "Passage is an episodic paranormal sci-fi drama centered around Janus Agent Ali Prader. This queer mom is a top paranormal operative for a secret division called Caelus within the government. Ali is able to balance her professional and personal life – that is until she starts to unravel a thread that opens the door to a new crucial shift in power.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/nIS1DSYlgb5Hp2HQrverkdtQ5wR.jpg",
-      "posterShape": "poster"
+      "overview": "Vince, Robbie, Tom y Levo, cuatro hombres gay en Berlín tratan de hallar el amor y espacios seguros en la frialdad del mundo actual.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/j9kBsysrgPI1dgjgaVNL4jjhom3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sc8zpoJwZ8ifydDuXmY3nMZ36dP.jpg"
     },
     {
       "id": "tmdb:78247",
@@ -146,19 +132,6 @@
       "backdrop": "https://image.tmdb.org/t/p/original/4zvn7KWxtPIPh7Dp7hI89ZMuqE9.jpg"
     },
     {
-      "id": "tmdb:256774",
-      "type": "series",
-      "name": "Shade: Queens of NYC",
-      "ids": {
-        "tmdb": 256774
-      },
-      "overview": "A docu-follow-musical-reality show that explores what happens to New York's fiercest, funniest drag queens as they vie for fame, fortune, and love.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/rgEcQQBRmQXumZHJd881OOuSDBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g8ReuCEK5pmuds9FtWVw8d0EkM8.jpg"
-    },
-    {
       "id": "tmdb:85223",
       "type": "series",
       "name": "House of Drag",
@@ -172,6 +145,33 @@
       "backdrop": "https://image.tmdb.org/t/p/original/kMp2pkXLOI7J99yqu8VFHsQfzQf.jpg"
     },
     {
+      "id": "tmdb:228865",
+      "type": "series",
+      "name": "Love Club",
+      "ids": {
+        "tmdb": 228865
+      },
+      "overview": "In a peripheral and unprecedented Milan, a place frequented by the queer community is in danger of closing due to economic problems. The lives of Luz, Tim, Rose and Zhang, who all circle around the Love Club, touch on a path that will make them face their greatest fears. Will Luz be able to live the story with Roberta without the fear of losing her independence?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/zC6SxNU0tV62AuqCAHB9Vrc4lQQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/l8VjcNEZsKEpDnae2F00eRFCnpL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z9qll9H3YRQmqzbnnLFDQI2DTsr.png"
+    },
+    {
+      "id": "tmdb:256774",
+      "type": "series",
+      "name": "Shade: Queens of NYC",
+      "ids": {
+        "tmdb": 256774
+      },
+      "overview": "A docu-follow-musical-reality show that explores what happens to New York's fiercest, funniest drag queens as they vie for fame, fortune, and love.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/rgEcQQBRmQXumZHJd881OOuSDBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g8ReuCEK5pmuds9FtWVw8d0EkM8.jpg"
+    },
+    {
       "id": "tmdb:243092",
       "type": "series",
       "name": "Open to It",
@@ -183,6 +183,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/zTIJBjMc4zCH5009yJMt87qqC0R.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qsMrmyuSxlTAZrnzO8vj0MaNe28.jpg"
+    },
+    {
+      "id": "tmdb:67957",
+      "type": "series",
+      "name": "My Life is a Telenovela",
+      "ids": {
+        "tmdb": 67957
+      },
+      "overview": "The story of the real characters who bring life to this enormously popular television genre. Set in Miami, the series follows a group of beautiful and fierce Latina actresses and actors working in this hyper-competitive world, which has captivated hundreds of millions of viewers.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/jgBWR2EEj9wOQGze7fxhk35EDt2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3S9WFDFC19cmLsYacNGpjfO0jje.jpg"
     },
     {
       "id": "tmdb:256607",
@@ -199,18 +212,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/sk32pFIlA830fd3yx3owMVCZndo.png"
     },
     {
-      "id": "tmdb:55706",
-      "type": "series",
-      "name": "Drama Queenz",
-      "ids": {
-        "tmdb": 55706
-      },
-      "overview": "Drama Queenz is a comedy about three actors and roommates dealing with life, love, and auditioning in New York City. Told over three episodes, the film explores the lives of these three actors as they attempt to achieve their dreams in a kooky and unpredictable world. Each ten-minute episode focuses on Jeremiah, a dreamer with ridiculously poor audition luck, Davis, a perfectionist whose hard work produces uneven results, and Preston, a realist whose inhibitions stir-up delightful \"drama\" for all to enjoy. Through madcap auditions, burgeoning romances, and heartbreaking realizations, the trio from Queens takes viewers on the zany rollercoaster ride that is the actor's life.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/afRZ31SahEthkTCfdOo4SMIWsse.jpg",
-      "posterShape": "poster"
-    },
-    {
       "id": "tmdb:104534",
       "type": "series",
       "name": "Drag SOS",
@@ -224,27 +225,16 @@
       "backdrop": "https://image.tmdb.org/t/p/original/tEd8UyySUjiLh9YGQgvpqT3Yf2o.jpg"
     },
     {
-      "id": "tmdb:156943",
+      "id": "tmdb:55706",
       "type": "series",
-      "name": "Am I a Boy or Girl",
+      "name": "Drama Queenz",
       "ids": {
-        "tmdb": 156943
+        "tmdb": 55706
       },
-      "overview": "Am I a Boy or Girl is a series designed to record, share and celebrate the personal stories of transgender women and men from across Canada; stories of struggle, of courage and of triumph.",
-      "year": 2015
-    },
-    {
-      "id": "tmdb:67957",
-      "type": "series",
-      "name": "My Life is a Telenovela",
-      "ids": {
-        "tmdb": 67957
-      },
-      "overview": "The story of the real characters who bring life to this enormously popular television genre. Set in Miami, the series follows a group of beautiful and fierce Latina actresses and actors working in this hyper-competitive world, which has captivated hundreds of millions of viewers.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/jgBWR2EEj9wOQGze7fxhk35EDt2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3S9WFDFC19cmLsYacNGpjfO0jje.jpg"
+      "overview": "Drama Queenz is a comedy about three actors and roommates dealing with life, love, and auditioning in New York City. Told over three episodes, the film explores the lives of these three actors as they attempt to achieve their dreams in a kooky and unpredictable world. Each ten-minute episode focuses on Jeremiah, a dreamer with ridiculously poor audition luck, Davis, a perfectionist whose hard work produces uneven results, and Preston, a realist whose inhibitions stir-up delightful \"drama\" for all to enjoy. Through madcap auditions, burgeoning romances, and heartbreaking realizations, the trio from Queens takes viewers on the zany rollercoaster ride that is the actor's life.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/afRZ31SahEthkTCfdOo4SMIWsse.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:120024",
@@ -259,14 +249,14 @@
       "posterShape": "poster"
     },
     {
-      "id": "tmdb:24988",
+      "id": "tmdb:156943",
       "type": "series",
-      "name": "Love Bytes",
+      "name": "Am I a Boy or Girl",
       "ids": {
-        "tmdb": 24988
+        "tmdb": 156943
       },
-      "overview": "",
-      "year": 2004
+      "overview": "Am I a Boy or Girl is a series designed to record, share and celebrate the personal stories of transgender women and men from across Canada; stories of struggle, of courage and of triumph.",
+      "year": 2015
     },
     {
       "id": "tmdb:195986",
@@ -279,6 +269,16 @@
       "year": 2012,
       "poster": "https://image.tmdb.org/t/p/w342/bbzcQodnv0IZtTiW2YRopXaVmhL.jpg",
       "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:24988",
+      "type": "series",
+      "name": "Love Bytes",
+      "ids": {
+        "tmdb": 24988
+      },
+      "overview": "",
+      "year": 2004
     }
   ]
 }
