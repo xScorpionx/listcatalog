@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:1677574",
+      "type": "movie",
+      "name": "The 51st AFI Life Achievement Award: A Tribute to Eddie Murphy",
+      "ids": {
+        "tmdb": 1677574
+      },
+      "overview": "Follows the 51st AFI Life Achievement Award ceremony honoring Eddie Murphy for his five-decade career in film, television and stand-up comedy.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bPPrsZWuQZm2cUKlnHLbqYUMJia.jpg"
+    },
+    {
       "id": "tmdb:1535130",
       "type": "movie",
       "name": "Kylie: Tension Tour Live",
@@ -261,7 +274,10 @@
       },
       "overview": "Un ladrón trata de enderezarse, pero, cuando su padre se endeuda por culpa de las condiciones abusivas de los bancos, vuelve a robar... y un policía implacable le pisa los talones.",
       "year": 2026,
-      "logo": "https://image.tmdb.org/t/p/w500/sHs7RVYQVFGq7oXx5gwdOX3vgy5.png"
+      "poster": "https://image.tmdb.org/t/p/w342/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pMTBPVVeWkfahAaL8yTiAjVHouA.png"
     },
     {
       "id": "tmdb:829487",
@@ -677,18 +693,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/sLHSspHOdkTdK30nZVigY4zxC8P.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/srfpDJBR6xr38sH7zVdh9MgCqUN.png"
-    },
-    {
-      "id": "tmdb:1651176",
-      "type": "movie",
-      "name": "L’Appel du silence",
-      "ids": {
-        "tmdb": 1651176
-      },
-      "overview": "",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/pgnmvzitmb4u3X3WMdVB8eczYR5.jpg",
-      "posterShape": "poster"
     }
   ]
 }
