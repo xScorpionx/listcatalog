@@ -43,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
+      "id": "tmdb:666277",
+      "type": "movie",
+      "name": "Vidas pasadas",
+      "ids": {
+        "tmdb": 666277
+      },
+      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
+    },
+    {
       "id": "tmdb:4564",
       "type": "movie",
       "name": "Sexo en Nueva York",
@@ -55,20 +69,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eEGx32HqXPZi0wS6vMQbVrw2y0B.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/edhrsNIVoD36wYwr5WLGLh4tYEv.png"
-    },
-    {
-      "id": "tmdb:273248",
-      "type": "movie",
-      "name": "Los odiosos ocho",
-      "ids": {
-        "tmdb": 273248
-      },
-      "overview": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kl61neJXXnoH4QLgQoNFSzaayeP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/338mAFyedvIBm6UC8xslBF8phO4.png"
     },
     {
       "id": "tmdb:11423",
@@ -85,18 +85,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
     },
     {
-      "id": "tmdb:666277",
+      "id": "tmdb:273248",
       "type": "movie",
-      "name": "Vidas pasadas",
+      "name": "Los odiosos ocho",
       "ids": {
-        "tmdb": 666277
+        "tmdb": 273248
       },
-      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
+      "overview": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kl61neJXXnoH4QLgQoNFSzaayeP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/338mAFyedvIBm6UC8xslBF8phO4.png"
+    },
+    {
+      "id": "tmdb:838240",
+      "type": "movie",
+      "name": "Robot Dreams",
+      "ids": {
+        "tmdb": 838240
+      },
+      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
     },
     {
       "id": "tmdb:524",
@@ -127,32 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/h6QrxGjIR9dUK5IbqWScbDQCdJR.png"
     },
     {
-      "id": "tmdb:838240",
+      "id": "tmdb:639933",
       "type": "movie",
-      "name": "Robot Dreams",
+      "name": "El hombre del norte",
       "ids": {
-        "tmdb": 838240
+        "tmdb": 639933
       },
-      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+      "overview": "El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
-    },
-    {
-      "id": "tmdb:262543",
-      "type": "movie",
-      "name": "Autómata",
-      "ids": {
-        "tmdb": 262543
-      },
-      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6qcjzYSiipFdk6eOK4i7HWHwMEL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rPUL4YUgJ54D3PYp5ZTtucc0lKH.png"
     },
     {
       "id": "tmdb:785084",
@@ -169,6 +169,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
     },
     {
+      "id": "tmdb:262543",
+      "type": "movie",
+      "name": "Autómata",
+      "ids": {
+        "tmdb": 262543
+      },
+      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1oid01tHrmcTEj02cf7j3HiQZ9J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+    },
+    {
       "id": "tmdb:969492",
       "type": "movie",
       "name": "Misión hostil",
@@ -181,48 +195,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
-    },
-    {
-      "id": "tmdb:395834",
-      "type": "movie",
-      "name": "Wind River",
-      "ids": {
-        "tmdb": 395834
-      },
-      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/r6vq9twYLjA75OAkPkC36LpduNC.png"
-    },
-    {
-      "id": "tmdb:1249289",
-      "type": "movie",
-      "name": "Doble espionaje",
-      "ids": {
-        "tmdb": 1249289
-      },
-      "overview": "Un matrimonio de espías, en el punto de mira de una red de inteligencia internacional, no se detendrá ante nada para obtener un activo crítico. Joe y Lara son agentes que viven fuera de la red y cuyo tranquilo retiro en una estación invernal salta por los aires cuando miembros de la vieja guardia sospechan que ambos pueden haberse unido a un equipo de élite de espías deshonestos, conocido como Alarum.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/chIQxgimGbIFnuFsLqpcoTbsH9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9A97itZIjT5wozcRLAHusnXYsr5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
-    },
-    {
-      "id": "tmdb:639933",
-      "type": "movie",
-      "name": "El hombre del norte",
-      "ids": {
-        "tmdb": 639933
-      },
-      "overview": "El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6qcjzYSiipFdk6eOK4i7HWHwMEL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rPUL4YUgJ54D3PYp5ZTtucc0lKH.png"
     },
     {
       "id": "tmdb:915935",
@@ -239,60 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
     },
     {
-      "id": "tmdb:109451",
+      "id": "tmdb:1249289",
       "type": "movie",
-      "name": "Lluvia de albóndigas 2",
+      "name": "Doble espionaje",
       "ids": {
-        "tmdb": 109451
+        "tmdb": 1249289
       },
-      "overview": "Flint ya ha conseguido lo que perseguía desde siempre: ser un reconocido investigador admirado por todos. Después de crear su máquina que creaba comida a partir de agua ('Lluvia de albóndigas 1'), el director de la prestigiosa compañía The Live Corp Company y gran investigador, Chester V, ha contratado a Flint para que forme parte de su equipo, formado por los mejores investigadores del mundo. El protagonista está lleno de alegría, pero muy a su pesar descubrirá que el invento que creó está dando resultados inesperados y altamente peligrosos. A partir de los restos de comida que caían del cielo se han creado bestias mutantes de todo tipo (cocodrilos, arañas, chimpacés…) que ponen en peligro la seguridad de los humanos. Flint contará con la ayuda de todos sus amigos para poner fin a esta pesadilla.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg",
+      "overview": "Un matrimonio de espías, en el punto de mira de una red de inteligencia internacional, no se detendrá ante nada para obtener un activo crítico. Joe y Lara son agentes que viven fuera de la red y cuyo tranquilo retiro en una estación invernal salta por los aires cuando miembros de la vieja guardia sospechan que ambos pueden haberse unido a un equipo de élite de espías deshonestos, conocido como Alarum.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/chIQxgimGbIFnuFsLqpcoTbsH9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2iHkXF7fE3fQHrhriW34gA8vMUn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/82o54U3m3quFyKWwW0nZrG8Ot5F.png"
-    },
-    {
-      "id": "tmdb:1633",
-      "type": "movie",
-      "name": "Tomates verdes fritos",
-      "ids": {
-        "tmdb": 1633
-      },
-      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
-    },
-    {
-      "id": "tmdb:580175",
-      "type": "movie",
-      "name": "Otra ronda",
-      "ids": {
-        "tmdb": 580175
-      },
-      "overview": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
-    },
-    {
-      "id": "tmdb:517814",
-      "type": "movie",
-      "name": "Cafarnaúm",
-      "ids": {
-        "tmdb": 517814
-      },
-      "overview": "Beirut, Líbano. Zain es un niño de doce años inteligente y valiente, que sobrevive a los peligros de las calles de la ciudad gracias a su ingenio. Huyendo de sus padres, y haciendo valer sus derechos, recurre a la justicia para demandarles por el 'crimen' de haberle dado la vida. Una fábula contemporánea de carácter político sobre un niño que se rebela contra la vida que le han impuesto vivir .",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2rXFgdX8fPtyvih9zWsV8yUHYZU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9A97itZIjT5wozcRLAHusnXYsr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
     },
     {
       "id": "tmdb:762",
@@ -309,6 +239,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
+      "id": "tmdb:395834",
+      "type": "movie",
+      "name": "Wind River",
+      "ids": {
+        "tmdb": 395834
+      },
+      "overview": "Una joven agente del FBI se alía con un veterano rastreador local para investigar el asesinato de una joven ocurrido en una reserva de nativos americanos...",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/8YQzSkPbJB5PJMTvTccDNo3z9K7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/r6vq9twYLjA75OAkPkC36LpduNC.png"
+    },
+    {
+      "id": "tmdb:580175",
+      "type": "movie",
+      "name": "Otra ronda",
+      "ids": {
+        "tmdb": 580175
+      },
+      "overview": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
+    },
+    {
+      "id": "tmdb:1633",
+      "type": "movie",
+      "name": "Tomates verdes fritos",
+      "ids": {
+        "tmdb": 1633
+      },
+      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+    },
+    {
+      "id": "tmdb:109451",
+      "type": "movie",
+      "name": "Lluvia de albóndigas 2",
+      "ids": {
+        "tmdb": 109451
+      },
+      "overview": "Flint ya ha conseguido lo que perseguía desde siempre: ser un reconocido investigador admirado por todos. Después de crear su máquina que creaba comida a partir de agua ('Lluvia de albóndigas 1'), el director de la prestigiosa compañía The Live Corp Company y gran investigador, Chester V, ha contratado a Flint para que forme parte de su equipo, formado por los mejores investigadores del mundo. El protagonista está lleno de alegría, pero muy a su pesar descubrirá que el invento que creó está dando resultados inesperados y altamente peligrosos. A partir de los restos de comida que caían del cielo se han creado bestias mutantes de todo tipo (cocodrilos, arañas, chimpacés…) que ponen en peligro la seguridad de los humanos. Flint contará con la ayuda de todos sus amigos para poner fin a esta pesadilla.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2iHkXF7fE3fQHrhriW34gA8vMUn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/82o54U3m3quFyKWwW0nZrG8Ot5F.png"
+    },
+    {
       "id": "tmdb:212778",
       "type": "movie",
       "name": "Chef",
@@ -321,6 +307,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u3iUELn8TZjfKshqFwV2UOhHmwJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aBtaqbJVepI5g6ZFXKEwLhVhIl1.png"
+    },
+    {
+      "id": "tmdb:517814",
+      "type": "movie",
+      "name": "Cafarnaúm",
+      "ids": {
+        "tmdb": 517814
+      },
+      "overview": "Beirut, Líbano. Zain es un niño de doce años inteligente y valiente, que sobrevive a los peligros de las calles de la ciudad gracias a su ingenio. Huyendo de sus padres, y haciendo valer sus derechos, recurre a la justicia para demandarles por el 'crimen' de haberle dado la vida. Una fábula contemporánea de carácter político sobre un niño que se rebela contra la vida que le han impuesto vivir .",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2rXFgdX8fPtyvih9zWsV8yUHYZU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
     },
     {
       "id": "tmdb:441701",
@@ -337,20 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png"
     },
     {
-      "id": "tmdb:660120",
-      "type": "movie",
-      "name": "La peor persona del mundo",
-      "ids": {
-        "tmdb": 660120
-      },
-      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
-    },
-    {
       "id": "tmdb:1149167",
       "type": "movie",
       "name": "Ladrones con clase 2",
@@ -365,32 +351,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
     },
     {
-      "id": "tmdb:901563",
+      "id": "tmdb:660120",
       "type": "movie",
-      "name": "Close",
+      "name": "La peor persona del mundo",
       "ids": {
-        "tmdb": 901563
+        "tmdb": 660120
       },
-      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
-    },
-    {
-      "id": "tmdb:7305",
-      "type": "movie",
-      "name": "¡Viven!",
-      "ids": {
-        "tmdb": 7305
-      },
-      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
     },
     {
       "id": "tmdb:396371",
@@ -407,102 +379,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/iqbWyyR3A3YA7zAjaXpFoE9bGkj.png"
     },
     {
-      "id": "tmdb:446021",
+      "id": "tmdb:7305",
       "type": "movie",
-      "name": "Malos tiempos en El Royale",
+      "name": "¡Viven!",
       "ids": {
-        "tmdb": 446021
+        "tmdb": 7305
       },
-      "overview": "Finales de los años 60, siete desconocidos, cada uno con su propio secreto, se reúnen en El Royale, un ruinoso hotel con un oscuro pasado. En el transcurso de una fatídica noche, todos tendrán su oportunidad de redención… antes de que todo se vaya al infierno.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/8cQm8HpC5K5Q9rhVVJhcMLOxACF.jpg",
+      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nYK6lbLQTfGfrXUknqKfqLHF3Pq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cWLG1NFqgEWVduudDJYF7Np85iB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
     },
     {
-      "id": "tmdb:980026",
+      "id": "tmdb:678287",
       "type": "movie",
-      "name": "La tierra prometida",
+      "name": "Marmaduke",
       "ids": {
-        "tmdb": 980026
+        "tmdb": 678287
       },
-      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
+      "overview": "Un perro faldero demasiado grande, con una veta irascible y una inclinación por las travesuras, se atempera con un profundo sentido de amor y responsabilidad por su familia.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/v6DRsmj7PQdV9v6Dou20LukmIys.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
-    },
-    {
-      "id": "tmdb:9726",
-      "type": "movie",
-      "name": "Un buen año",
-      "ids": {
-        "tmdb": 9726
-      },
-      "overview": "Max Skinner (Russell Crowe), un experto en inversiones viaja desde Londres hasta Provenza para vender un pequeño viñedo que ha heredado de un tío, al que estuvo muy unido en su niñez. Lo que no esperaba en absoluto es que éste fuera el punto de partida de un estimulante capítulo de su vida.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/hiBCP1XHF0IrtF3KCUIn2sKWtZd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/32IWYFBuYW7xwTzuHn0KLAsbRRS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wyRvIUsGzPDFRICNTT9g7R5bWcf.png"
-    },
-    {
-      "id": "tmdb:1039690",
-      "type": "movie",
-      "name": "Caminos desesperados",
-      "ids": {
-        "tmdb": 1039690
-      },
-      "overview": "Después de 11 años en una prisión estatal de Mississippi, Russell Gaines lucha por dejar atrás sus pecados pasados ​​mientras regresa a casa con su estoico padre, Mitchell. Una noche fatídica conoce a Maben, una joven madre que no tiene nada más que un arma robada y un agente de policía asesinado a su nombre. Desesperados y huyendo, Russell y Maben deben confiar el uno en el otro para escapar de sus propias circunstancias, antes de que las verdades de su pasado violento entrelazado amenace con destruirlos.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2piKHGDVn4Orm0FTbDdcsZdI38r.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9KJb5lV2h697KYlhydMvCi7zUBv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2lPUjMn3fIlUNErbEBBDVUxIITE.png"
-    },
-    {
-      "id": "tmdb:505192",
-      "type": "movie",
-      "name": "Un asunto de familia",
-      "ids": {
-        "tmdb": 505192
-      },
-      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
-    },
-    {
-      "id": "tmdb:583",
-      "type": "movie",
-      "name": "La vida de Brian",
-      "ids": {
-        "tmdb": 583
-      },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
-      "id": "tmdb:4379",
-      "type": "movie",
-      "name": "La madre del novio",
-      "ids": {
-        "tmdb": 4379
-      },
-      "overview": "Charlotte ha conocido a Kevin, el hombre de sus sueños. Sin embargo, su madre teme perder al muchacho, por lo que decide convertirse en la peor suegra del mundo con el fin de deshacerse de su nueva nuera.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/y6orMDFV5foN1CoriC9AxPAg10J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/flogUWT4WotRdq86VJ8ZCRTon90.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y8UW7uDg7I6p87JVv3UiYNNzfT8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2xYI955f3jD9nUqy9XtsqJ9DsLE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7HWxXVDsqB93c2x5GlMKthaWiFn.png"
     },
     {
       "id": "tmdb:16995",
@@ -519,6 +421,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mt328jk7J1yds1es133O9kVPcmd.png"
     },
     {
+      "id": "tmdb:4379",
+      "type": "movie",
+      "name": "La madre del novio",
+      "ids": {
+        "tmdb": 4379
+      },
+      "overview": "Charlotte ha conocido a Kevin, el hombre de sus sueños. Sin embargo, su madre teme perder al muchacho, por lo que decide convertirse en la peor suegra del mundo con el fin de deshacerse de su nueva nuera.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/y6orMDFV5foN1CoriC9AxPAg10J.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/flogUWT4WotRdq86VJ8ZCRTon90.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y8UW7uDg7I6p87JVv3UiYNNzfT8.png"
+    },
+    {
       "id": "tmdb:9441",
       "type": "movie",
       "name": "Quédate a mi lado",
@@ -533,18 +449,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/q5CFhs9g8HTh6fwxGadnPtW2VCr.png"
     },
     {
-      "id": "tmdb:416477",
+      "id": "tmdb:505192",
       "type": "movie",
-      "name": "La gran enfermedad del amor",
+      "name": "Un asunto de familia",
       "ids": {
-        "tmdb": 416477
+        "tmdb": 505192
       },
-      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
+      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+    },
+    {
+      "id": "tmdb:848685",
+      "type": "movie",
+      "name": "As bestas",
+      "ids": {
+        "tmdb": 848685
+      },
+      "overview": "Una pareja francesa de mediana edad, Antoine y Olga, llega a vivir a un pueblo gallego en busca de una mayor cercanía con la naturaleza. Su presencia, sin embargo, enciende a dos lugareños, los hermanos Xan y Lorenzo, hasta el punto de una abierta hostilidad y luego una violencia impactante.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/d5Vv89re9tBtukMUnktyseam0g7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o4azItwjqk2SwgAW7Hxd2j31k5q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wi7Kf9X2eZIJRCNAsahVNHKNZXK.png"
+    },
+    {
+      "id": "tmdb:901563",
+      "type": "movie",
+      "name": "Close",
+      "ids": {
+        "tmdb": 901563
+      },
+      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
+    },
+    {
+      "id": "tmdb:583",
+      "type": "movie",
+      "name": "La vida de Brian",
+      "ids": {
+        "tmdb": 583
+      },
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
+    },
+    {
+      "id": "tmdb:9726",
+      "type": "movie",
+      "name": "Un buen año",
+      "ids": {
+        "tmdb": 9726
+      },
+      "overview": "Max Skinner (Russell Crowe), un experto en inversiones viaja desde Londres hasta Provenza para vender un pequeño viñedo que ha heredado de un tío, al que estuvo muy unido en su niñez. Lo que no esperaba en absoluto es que éste fuera el punto de partida de un estimulante capítulo de su vida.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/hiBCP1XHF0IrtF3KCUIn2sKWtZd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/32IWYFBuYW7xwTzuHn0KLAsbRRS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wyRvIUsGzPDFRICNTT9g7R5bWcf.png"
+    },
+    {
+      "id": "tmdb:980026",
+      "type": "movie",
+      "name": "La tierra prometida",
+      "ids": {
+        "tmdb": 980026
+      },
+      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
     },
     {
       "id": "tmdb:338676",
@@ -575,18 +561,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/jCVQRTGa52jfuOlj2mziAHM1Puf.png"
     },
     {
-      "id": "tmdb:678287",
+      "id": "tmdb:109421",
       "type": "movie",
-      "name": "Marmaduke",
+      "name": "Efectos secundarios",
       "ids": {
-        "tmdb": 678287
+        "tmdb": 109421
       },
-      "overview": "Un perro faldero demasiado grande, con una veta irascible y una inclinación por las travesuras, se atempera con un profundo sentido de amor y responsabilidad por su familia.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/v6DRsmj7PQdV9v6Dou20LukmIys.jpg",
+      "overview": "Ambientada en el mundo de la psicofarmacología, ciencia que estudia cómo afectan las drogas a la mente humana. Emily es una joven que se vuelve adicta a un nuevo medicamento que le receta su psiquiatra para que pueda controlar su ansiedad ante la inminente salida de la cárcel de su marido.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/8ui6ifamEczYxVtI7kUkhs6i6iU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2xYI955f3jD9nUqy9XtsqJ9DsLE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7HWxXVDsqB93c2x5GlMKthaWiFn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mdzz25RDlgrjk0tCBvj91VHZipu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zSu2a2P3aNYFtJYH8GlCE5BNu6P.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Día de patriotas",
+      "ids": {
+        "tmdb": 388399
+      },
+      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
     },
     {
       "id": "tmdb:6023",
@@ -603,32 +603,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/6XdmwrWIEbaz2zLOWRVVFRLDk9N.png"
     },
     {
-      "id": "tmdb:486947",
+      "id": "tmdb:1039690",
       "type": "movie",
-      "name": "El culpable",
+      "name": "Caminos desesperados",
       "ids": {
-        "tmdb": 486947
+        "tmdb": 1039690
       },
-      "overview": "Asger Holm, un exoficial de policía, ha sido suspendido de sus funciones y relegado a operador del servicio de emergencias. Durante su rutinario turno de noche, recibe la extraña llamada de una mujer aterrada. A pesar de su reacción de sorpresa, Asger se dará cuenta de que la mujer al otro lado del teléfono ha sido secuestrada, y es entonces cuando comenzará la búsqueda. Recluido en su mesa en la centralita de emergencias, Asgar tendrá que localizar y ayudar a la mujer en peligro con la ayuda de sus compañeros en todo el país. Conforme avanza el reloj y pasan los segundos, Asgar tendrá que enfrentarse no sólo a la precipitación de los acontecimientos relacionados con el crimen, sino también a sus propios demonios personales.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/9s7kgGWguABLeHSc4OiSOz2y6To.jpg",
+      "overview": "Después de 11 años en una prisión estatal de Mississippi, Russell Gaines lucha por dejar atrás sus pecados pasados ​​mientras regresa a casa con su estoico padre, Mitchell. Una noche fatídica conoce a Maben, una joven madre que no tiene nada más que un arma robada y un agente de policía asesinado a su nombre. Desesperados y huyendo, Russell y Maben deben confiar el uno en el otro para escapar de sus propias circunstancias, antes de que las verdades de su pasado violento entrelazado amenace con destruirlos.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2piKHGDVn4Orm0FTbDdcsZdI38r.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qD7bbUc8mPTIEx8eb1yzVUKv7CF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7NwgtqPmNgcGC313iGxS64o7N3U.png"
-    },
-    {
-      "id": "tmdb:616651",
-      "type": "movie",
-      "name": "Cuestión de sangre",
-      "ids": {
-        "tmdb": 616651
-      },
-      "overview": "Bill Baker (Matt Damon) es un rudo operario de una plataforma petrolera estadounidense que viaja a Marsella para visitar a su hija, en prisión por un asesinato que afirma no haber cometido. Lejos de casa, las cosas no serán nada fáciles para un padre dispuesto a todo para demostrar la inocencia de su hija.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/6UecisHYDLsRGc9XWx057accTfR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yopIT5xZfRYvA80xm96YgnKI5ii.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tffIo0kUmv1GUdseIS2kvkoLyEc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9KJb5lV2h697KYlhydMvCi7zUBv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2lPUjMn3fIlUNErbEBBDVUxIITE.png"
     },
     {
       "id": "tmdb:978592",
@@ -645,46 +631,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
     },
     {
-      "id": "tmdb:109421",
+      "id": "tmdb:998022",
       "type": "movie",
-      "name": "Efectos secundarios",
+      "name": "Sala de profesores",
       "ids": {
-        "tmdb": 109421
+        "tmdb": 998022
       },
-      "overview": "Ambientada en el mundo de la psicofarmacología, ciencia que estudia cómo afectan las drogas a la mente humana. Emily es una joven que se vuelve adicta a un nuevo medicamento que le receta su psiquiatra para que pueda controlar su ansiedad ante la inminente salida de la cárcel de su marido.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/8ui6ifamEczYxVtI7kUkhs6i6iU.jpg",
+      "overview": "Carla Nowak, una idealista profesora de matemáticas y deportes, comienza su primer trabajo en una escuela de secundaria. Cuando se producen una serie de robos en la escuela y se sospecha de uno de sus alumnos, decide llegar al fondo del asunto por su cuenta. Carla intenta mediar entre padres indignados, colegas obstinados y estudiantes agresivos, pero se enfrenta a las implacables estructuras del sistema escolar.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/5CJKu0gYgBbRs8MOxPLBpH55h62.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdzz25RDlgrjk0tCBvj91VHZipu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zSu2a2P3aNYFtJYH8GlCE5BNu6P.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tiTwQ4mAIlyjECSaUNagUN2twvY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nkGRS22A5405O7Is3FbIgbyuYzZ.png"
     },
     {
-      "id": "tmdb:99",
+      "id": "tmdb:616651",
       "type": "movie",
-      "name": "Todo sobre mi madre",
+      "name": "Cuestión de sangre",
       "ids": {
-        "tmdb": 99
+        "tmdb": 616651
       },
-      "overview": "Madrid. Manuela, una madre soltera, ve cómo su hijo muere el día en que cumple 17 años, por correr para conseguir el autógrafo de su actriz favorita. Decide entonces viajar a Barcelona en busca del padre de su hijo, un travestido llamado Lola, que ignoraba que tenía un hijo. Encuentra también a su amigo Agrado, otro travesti, y a través de él conoce a Rosa, una monja española y, por pura casualidad, Manuela termina convirtiéndose en la asistente de Huma Rojo, la actriz que admiraba su hijo.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/evvT3HUwoQYoPQXWFO10R6AvhxG.jpg",
+      "overview": "Bill Baker (Matt Damon) es un rudo operario de una plataforma petrolera estadounidense que viaja a Marsella para visitar a su hija, en prisión por un asesinato que afirma no haber cometido. Lejos de casa, las cosas no serán nada fáciles para un padre dispuesto a todo para demostrar la inocencia de su hija.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/6UecisHYDLsRGc9XWx057accTfR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wUNJo0fbpAwvDtrR6u6Xrp0OLqP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/stpO8fa0GBdfUyCS7mKEDk4E2fu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yopIT5xZfRYvA80xm96YgnKI5ii.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tffIo0kUmv1GUdseIS2kvkoLyEc.png"
     },
     {
-      "id": "tmdb:2313",
+      "id": "tmdb:416477",
       "type": "movie",
-      "name": "Secretos compartidos",
+      "name": "La gran enfermedad del amor",
       "ids": {
-        "tmdb": 2313
+        "tmdb": 416477
       },
-      "overview": "La vida de Rafi (Uma Thurman), una divorciada de 37 años de Manhattan, da un vuelco cuando empieza a salir con un pintor mucho más joven que ella. A pesar de la atracción que siente por él, la diferencia de edad le plantea dudas que la llevan a buscar el consejo de su psicoanalista (Meryl Streep). Ésta, al principio, la escucha con gran naturalidad y la anima a seguir adelante; pero, cuando descubre que el novio de su paciente es su hijo Dave (Bryan Greensberg), su actitud cambiará radicalmente.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tHtVlL9616NFcxntpKUVHZAOOe7.jpg",
+      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ4O4sAigf2kz23jYKmUa9dHQcU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mctddxzNJh6PQLbsr9BHtcrmEmG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
     },
     {
       "id": "tmdb:758866",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
+    },
+    {
+      "id": "tmdb:486947",
+      "type": "movie",
+      "name": "El culpable",
+      "ids": {
+        "tmdb": 486947
+      },
+      "overview": "Asger Holm, un exoficial de policía, ha sido suspendido de sus funciones y relegado a operador del servicio de emergencias. Durante su rutinario turno de noche, recibe la extraña llamada de una mujer aterrada. A pesar de su reacción de sorpresa, Asger se dará cuenta de que la mujer al otro lado del teléfono ha sido secuestrada, y es entonces cuando comenzará la búsqueda. Recluido en su mesa en la centralita de emergencias, Asgar tendrá que localizar y ayudar a la mujer en peligro con la ayuda de sus compañeros en todo el país. Conforme avanza el reloj y pasan los segundos, Asgar tendrá que enfrentarse no sólo a la precipitación de los acontecimientos relacionados con el crimen, sino también a sus propios demonios personales.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/9s7kgGWguABLeHSc4OiSOz2y6To.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qD7bbUc8mPTIEx8eb1yzVUKv7CF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7NwgtqPmNgcGC313iGxS64o7N3U.png"
     }
   ]
 }
