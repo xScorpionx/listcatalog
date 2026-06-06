@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:1702900",
+      "type": "movie",
+      "name": "Soñar, jugar y ganar",
+      "ids": {
+        "tmdb": 1702900
+      },
+      "overview": "El documental narra la transformación del FC Barcelona Femenino desde sus inicios discretos hasta convertirse en uno de los equipos más dominantes del fútbol mundial.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/lPlldOtgaxbJz3cFKFQttPjCumb.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:1665429",
       "type": "movie",
       "name": "Lisa Ann Walter: It Was an Accident",
@@ -138,6 +150,20 @@
       "poster": "https://image.tmdb.org/t/p/w342/tWgSr8NFYVLpaXrwYVXsQ9d98v9.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oW7Ix4arDF86ROKJmNZQZaevPdA.jpg"
+    },
+    {
+      "id": "tmdb:1327819",
+      "type": "movie",
+      "name": "Hoppers",
+      "ids": {
+        "tmdb": 1327819
+      },
+      "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jj3ohaYX5FdyUGb343hFxl4PXpT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gsD5xIliP0YFfjXETFInVvNuIVL.png"
     },
     {
       "id": "tmdb:1531626",
@@ -660,34 +686,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xE7sw8GjCdMSO4irfZzwjMDS2JT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aan4XmG3gGYQJxdhSokicRg2pBk.png"
-    },
-    {
-      "id": "tmdb:957121",
-      "type": "movie",
-      "name": "El hombre de abajo",
-      "ids": {
-        "tmdb": 957121
-      },
-      "overview": "Charles Blakey, un afroamericano que vive en Sag Harbor, está estancado, sin suerte y a punto de perder su casa. En ese momento, un peculiar hombre de negocios blanco con acento europeo le ofrece alquilar su sótano durante el verano.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/1zpeH8wOrM8p2TTAmBetwhe2BIx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2noc7pyLEAfRevr2nyuclDR3r6p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9pNIbXMSdogoS94FLnMbyJ6YkWh.png"
-    },
-    {
-      "id": "tmdb:1401281",
-      "type": "movie",
-      "name": "El testamento de Ann Lee",
-      "ids": {
-        "tmdb": 1401281
-      },
-      "overview": "Inspirada en hechos reales, se centra en la líder religiosa Ann Lee, fundadora del Movimiento Shaker a finales de la década de 1770, llegó a construir una de las sociedades utópicas más grandes de la historia de Estados Unidos. Los seguidores de Lee la consideraban el Jesucristo femenino, y sus fieles le rezaban cantando y bailando.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/aMnG77IPQEePqCraNJDVQSHcXUm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdXBmcDiXqD1Te4ioJr96ctynuI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z7rDLpAE04euyFhbicQHL0vnRTs.png"
     }
   ]
 }
