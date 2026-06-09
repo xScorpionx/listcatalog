@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/8A3clx1sElwxkCJWnEt4rC7HZy3.png"
     },
     {
-      "id": "tmdb:603",
-      "type": "movie",
-      "name": "Matrix",
-      "ids": {
-        "tmdb": 603
-      },
-      "overview": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eVXWnNmfNoqU8sog7u9CsOf9fnu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lXMeUVvpo49g563COiVtK8I8u8r.png"
-    },
-    {
       "id": "tmdb:460465",
       "type": "movie",
       "name": "Mortal Kombat",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4EyEEBgMOrhg3TJfAgUGsY9Z2b2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qP34tR8SB1yoLeRGqZqPLLveHXk.png"
+    },
+    {
+      "id": "tmdb:603",
+      "type": "movie",
+      "name": "Matrix",
+      "ids": {
+        "tmdb": 603
+      },
+      "overview": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eVXWnNmfNoqU8sog7u9CsOf9fnu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lXMeUVvpo49g563COiVtK8I8u8r.png"
     },
     {
       "id": "tmdb:744275",
@@ -99,18 +99,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png"
     },
     {
-      "id": "tmdb:1010581",
+      "id": "tmdb:4258",
       "type": "movie",
-      "name": "Culpa mía",
+      "name": "Scary Movie 5",
       "ids": {
-        "tmdb": 1010581
+        "tmdb": 4258
       },
-      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
+      "overview": "Los felizmente casados Dan y Jody empiezan a observar algunos fenómenos extraños en su casa tras volver del hospital con su bebé, Aiden. Pero cuando el caos se apodera del trabajo de Jody como bailarina de ballet y de la carrera de Dan como investigador de monos, la pareja descubre que está siendo acosada por una presencia demoníaca. Juntos, con la ayuda de expertos cualificados y de numerosas cámaras, intentarán deshacerse del maléfico ser antes de que sea demasiado tarde.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ytp4DLPaWryo8rrTNBSYPIOJfDw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mYFFk3H8AO3A5e2zU7yqMXQQrDv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pj4mI0h6NF8cyQDICeNpiE1OLNg.png"
     },
     {
       "id": "tmdb:1246049",
@@ -127,32 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mfD7pMAj1pJotTwdSSqQqC0uq7R.png"
     },
     {
-      "id": "tmdb:4258",
+      "id": "tmdb:1010581",
       "type": "movie",
-      "name": "Scary Movie 5",
+      "name": "Culpa mía",
       "ids": {
-        "tmdb": 4258
+        "tmdb": 1010581
       },
-      "overview": "Los felizmente casados Dan y Jody empiezan a observar algunos fenómenos extraños en su casa tras volver del hospital con su bebé, Aiden. Pero cuando el caos se apodera del trabajo de Jody como bailarina de ballet y de la carrera de Dan como investigador de monos, la pareja descubre que está siendo acosada por una presencia demoníaca. Juntos, con la ayuda de expertos cualificados y de numerosas cámaras, intentarán deshacerse del maléfico ser antes de que sea demasiado tarde.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg",
+      "overview": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante y rico marido de su madre Rafaela. Por otro lado, con 17 años, orgullosa e independiente, Noah se resiste a vivir en una mansión rodeada de lujo. Allí conoce a Nick, su nuevo hermanastro, y el choque de sus fuertes personalidades se hace evidente desde el primer momento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/gp31EwMH5D2bftOjscwkgTmoLAB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mYFFk3H8AO3A5e2zU7yqMXQQrDv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pj4mI0h6NF8cyQDICeNpiE1OLNg.png"
-    },
-    {
-      "id": "tmdb:337167",
-      "type": "movie",
-      "name": "Cincuenta sombras liberadas",
-      "ids": {
-        "tmdb": 337167
-      },
-      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bWvDk4INHvqvlCg1DtDARgFF6Of.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1IUC8w0u96mFENQW7dWcE3FBfbk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ytp4DLPaWryo8rrTNBSYPIOJfDw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJx6YJf8bT4VmthEHhFpJic6Jhm.png"
     },
     {
       "id": "tmdb:1613798",
@@ -169,18 +155,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/wYCyRC2UXyhzV1kDxfZVM3KlDqj.png"
     },
     {
-      "id": "tmdb:1431071",
+      "id": "tmdb:337167",
       "type": "movie",
-      "name": "System",
+      "name": "Cincuenta sombras liberadas",
       "ids": {
-        "tmdb": 1431071
+        "tmdb": 337167
       },
-      "overview": "Las vidas de la fiscal privilegiada Neha Rajvansh y la humilde taquígrafa Sarika Rawat chocan en un sistema en el que el poder moldea la verdad y las obliga a cuestionar el significado de la justicia.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
+      "overview": "Creyendo que han dejado atrás las sombras del pasado, Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas que ponen en riesgo su felicidad.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bMKKNOZpdQEhLMIdObIrL1P6Q9v.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1PWGGv2VjPaCqc2ljLwvPwkhelp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bWvDk4INHvqvlCg1DtDARgFF6Of.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IUC8w0u96mFENQW7dWcE3FBfbk.png"
     },
     {
       "id": "tmdb:1171145",
@@ -211,17 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
     },
     {
-      "id": "tmdb:848116",
+      "id": "tmdb:1168190",
       "type": "movie",
-      "name": "रॉकी और रानी की प्रेम कहानी",
+      "name": "Los hermanos demolición",
       "ids": {
-        "tmdb": 848116
+        "tmdb": 1168190
       },
-      "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/aiD8BLHo6iQ0pf2z7OfO2kGgQyu.jpg",
+      "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1718Bj4tKmMyohRIuN9FfYwzPh5.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/iisV2xQ2bmKiKpqYhAY8Al1XsWM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9pD9nn73WM2PwykHakspDzM4ea1.png"
     },
     {
       "id": "tmdb:1156594",
@@ -238,20 +225,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mhfqINvBNJSqmVxpsaMmFRIYVdz.png"
     },
     {
-      "id": "tmdb:496243",
-      "type": "movie",
-      "name": "Parásitos",
-      "ids": {
-        "tmdb": 496243
-      },
-      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
-    },
-    {
       "id": "tmdb:13078",
       "type": "movie",
       "name": "The Babysitters: Las niñeras",
@@ -266,18 +239,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/i3oH2d3vBSzUiBa0M54SVXSCB3w.png"
     },
     {
-      "id": "tmdb:1168190",
+      "id": "tmdb:1431071",
       "type": "movie",
-      "name": "Los hermanos demolición",
+      "name": "System",
       "ids": {
-        "tmdb": 1168190
+        "tmdb": 1431071
       },
-      "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+      "overview": "Las vidas de la fiscal privilegiada Neha Rajvansh y la humilde taquígrafa Sarika Rawat chocan en un sistema en el que el poder moldea la verdad y las obliga a cuestionar el significado de la justicia.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iisV2xQ2bmKiKpqYhAY8Al1XsWM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9pD9nn73WM2PwykHakspDzM4ea1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bMKKNOZpdQEhLMIdObIrL1P6Q9v.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1PWGGv2VjPaCqc2ljLwvPwkhelp.png"
+    },
+    {
+      "id": "tmdb:496243",
+      "type": "movie",
+      "name": "Parásitos",
+      "ids": {
+        "tmdb": 496243
+      },
+      "overview": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ao0dFrU4QrmnVYt6ywnsGNjmuAT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
       "id": "tmdb:27205",
@@ -294,18 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/1kjEs8dAgF5Tem3cXjS7bHzoxop.png"
     },
     {
-      "id": "tmdb:269955",
+      "id": "tmdb:1084577",
       "type": "movie",
-      "name": "Peligrosa obsesión",
+      "name": "Balls Up: Con un par",
       "ids": {
-        "tmdb": 269955
+        "tmdb": 1084577
       },
-      "overview": "En el verano de 1969, el coronel Kim Jin-pyeong, atrapado en un matrimonio sin amor con Lee Suk-jin, y Jong Ga-heun, la esposa chino-coreana del capitán Kyung Woo-jin, mantienen un apasionado romance secreto.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/fetCtoAvZShCk1nqAWZFuKZschR.jpg",
+      "overview": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/uVybc3pLqHSoMC73kElu93oJBRQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iGBbWXmAIgpiWg9Mx2D2gLzbg4n.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pWbLmJ3xGqZgh3QlkcFqIId2r3W.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2uyOI3sPqWh7Sdvo80Ch690ImKZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/54cDAU0pyh5aqDxrNj3w0FKTNJn.png"
     },
     {
       "id": "tmdb:77",
@@ -322,6 +309,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
     },
     {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
       "id": "tmdb:372058",
       "type": "movie",
       "name": "Your Name.",
@@ -334,6 +335,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/625MVdz0Kbv1eBbHdfoBkFVf9B.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/j3cPRV8oivK8RGuv6qYKRc7CXTG.png"
+    },
+    {
+      "id": "tmdb:269955",
+      "type": "movie",
+      "name": "Peligrosa obsesión",
+      "ids": {
+        "tmdb": 269955
+      },
+      "overview": "En el verano de 1969, el coronel Kim Jin-pyeong, atrapado en un matrimonio sin amor con Lee Suk-jin, y Jong Ga-heun, la esposa chino-coreana del capitán Kyung Woo-jin, mantienen un apasionado romance secreto.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/fetCtoAvZShCk1nqAWZFuKZschR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iGBbWXmAIgpiWg9Mx2D2gLzbg4n.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pWbLmJ3xGqZgh3QlkcFqIId2r3W.png"
     },
     {
       "id": "tmdb:1075175",
@@ -350,46 +365,45 @@
       "logo": "https://image.tmdb.org/t/p/w500/yjHdLKRkai4p9DgCUwOigjzukPf.png"
     },
     {
-      "id": "tmdb:808",
+      "id": "tmdb:848116",
       "type": "movie",
-      "name": "Shrek",
+      "name": "रॉकी और रानी की प्रेम कहानी",
       "ids": {
-        "tmdb": 808
+        "tmdb": 848116
       },
-      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/aiD8BLHo6iQ0pf2z7OfO2kGgQyu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1718Bj4tKmMyohRIuN9FfYwzPh5.jpg"
     },
     {
-      "id": "tmdb:1084577",
+      "id": "tmdb:933260",
       "type": "movie",
-      "name": "Balls Up: Con un par",
+      "name": "La sustancia",
       "ids": {
-        "tmdb": 1084577
+        "tmdb": 933260
       },
-      "overview": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/uVybc3pLqHSoMC73kElu93oJBRQ.jpg",
+      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2uyOI3sPqWh7Sdvo80Ch690ImKZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/54cDAU0pyh5aqDxrNj3w0FKTNJn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
-      "id": "tmdb:796",
+      "id": "tmdb:11649",
       "type": "movie",
-      "name": "Crueles intenciones",
+      "name": "Masters del universo",
       "ids": {
-        "tmdb": 796
+        "tmdb": 11649
       },
-      "overview": "Kathryn y Sebastian son dos hermanastros que viven Manhattan, estudiantes de bachillerato en un elitista instituto de Nueva York. Cada uno es más manipulador y más perverso que el otro, así que harán una singular apuesta. Sebastian debe cortejar a una chica virgen que ha encandilado al novio de Kathryn. Si Sebastian pierde, Kathryn se quedará con su Jaguar, pero si gana... la tendrá a ella.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/c4hIfeTlAjTcy2LRRcNXPMCyf0L.jpg",
+      "overview": "Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical.",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTmEgvCUikntpBbAIrffzaEw3Pq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/krlYDuBf5Rl99XuZS3jwP8aFSrY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ivrdyksZJZqvue8hOQut8rVXeef.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3sCwIGhFDHYt2tnQ2ot87l1bhfb.png"
     },
     {
       "id": "tmdb:1156593",
@@ -420,18 +434,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
     },
     {
-      "id": "tmdb:1197306",
+      "id": "tmdb:796",
       "type": "movie",
-      "name": "A Working Man",
+      "name": "Crueles intenciones",
       "ids": {
-        "tmdb": 1197306
+        "tmdb": 796
       },
-      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
+      "overview": "Kathryn y Sebastian son dos hermanastros que viven Manhattan, estudiantes de bachillerato en un elitista instituto de Nueva York. Cada uno es más manipulador y más perverso que el otro, así que harán una singular apuesta. Sebastian debe cortejar a una chica virgen que ha encandilado al novio de Kathryn. Si Sebastian pierde, Kathryn se quedará con su Jaguar, pero si gana... la tendrá a ella.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/c4hIfeTlAjTcy2LRRcNXPMCyf0L.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uz3PYuJFmLn01uVaIlWdzk6sWtC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oTmEgvCUikntpBbAIrffzaEw3Pq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/krlYDuBf5Rl99XuZS3jwP8aFSrY.png"
     },
     {
       "id": "tmdb:569094",
@@ -448,6 +462,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
     },
     {
+      "id": "tmdb:1197306",
+      "type": "movie",
+      "name": "A Working Man",
+      "ids": {
+        "tmdb": 1197306
+      },
+      "overview": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/aG50Ad3UV8cCQWpNWSHHUqgKGNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uz3PYuJFmLn01uVaIlWdzk6sWtC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/glIqxFNDJFHrLgg7JBdQCx2sl1v.png"
+    },
+    {
       "id": "tmdb:438631",
       "type": "movie",
       "name": "Dune",
@@ -460,132 +488,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/h61Kc0NC7d90jNwXfBx5js7DnSQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
-    },
-    {
-      "id": "tmdb:933260",
-      "type": "movie",
-      "name": "La sustancia",
-      "ids": {
-        "tmdb": 933260
-      },
-      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
-    },
-    {
-      "id": "tmdb:985939",
-      "type": "movie",
-      "name": "Fall",
-      "ids": {
-        "tmdb": 985939
-      },
-      "overview": "Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/tsjVxiuGyvMC4IbI2gjmDYpcYjU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xqEQzRFpYB3q2KOhhmyFCxE2RRH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/10sQbSra5PTAPSfcgBBqtu4IRci.png"
-    },
-    {
-      "id": "tmdb:389",
-      "type": "movie",
-      "name": "12 hombres sin piedad",
-      "ids": {
-        "tmdb": 389
-      },
-      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
-      "year": 1957,
-      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
-    },
-    {
-      "id": "tmdb:1084187",
-      "type": "movie",
-      "name": "Lindas y letales",
-      "ids": {
-        "tmdb": 1084187
-      },
-      "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m1nZKJ2yWnQ0JEPqbXV9gfWDGX6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/38YQFSvzkvHjlm4SHGi6PM9nEmN.png"
-    },
-    {
-      "id": "tmdb:769",
-      "type": "movie",
-      "name": "Uno de los nuestros",
-      "ids": {
-        "tmdb": 769
-      },
-      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
-    },
-    {
-      "id": "tmdb:11649",
-      "type": "movie",
-      "name": "Masters del universo",
-      "ids": {
-        "tmdb": 11649
-      },
-      "overview": "Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical.",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ivrdyksZJZqvue8hOQut8rVXeef.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3sCwIGhFDHYt2tnQ2ot87l1bhfb.png"
-    },
-    {
-      "id": "tmdb:106646",
-      "type": "movie",
-      "name": "El lobo de Wall Street",
-      "ids": {
-        "tmdb": 106646
-      },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
-    },
-    {
-      "id": "tmdb:1235192",
-      "type": "movie",
-      "name": "Wormtown",
-      "ids": {
-        "tmdb": 1235192
-      },
-      "overview": "Un año después del inicio de una plaga de gusanos carnívoros que alteran la mente, la ciudad nocturna de Ashland, en Ohio, ha aceptado el dominio de los parásitos. Bajo el mando del alcalde Joshua, una figura casi sectaria, los fervientes «Ranchers» difunden su evangelio, ya sea por persuasión o por la fuerza. Un trío de mujeres no infectadas se aferra a la supervivencia mediante el rebusque, una higiene extrema y la evasión. Pero todo el mundo acaba cediendo, lo que desata la traición, el sacrilegio y el horror corporal.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fD4lGBMjIu6d4pJ1KJf3z2KoPz7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8asSzugp46kyCjURMJjK9IrtBnY.png"
-    },
-    {
-      "id": "tmdb:43947",
-      "type": "movie",
-      "name": "Escupiré sobre tu tumba",
-      "ids": {
-        "tmdb": 43947
-      },
-      "overview": "Una joven escritora viaja al campo en busca de un poco de soledad y tranquilidad para trabajar en su nuevo libro. Pero en su lugar encuentra una horrible pesadilla. Tras ser agredida por cuatro degenerados, Jennifer logra sobrevivir y mientras intenta sobreponerse, en su mente, ahora dañada y psicótica sólo existe una idea: la venganza sobre esos cuatro hombres que la violaron.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/mEwGkfn0dlWrVjmGJ6YMOuZWqKL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/27eeIdmYCiT45xAft1xfRWOBFEY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wHyz3gdoxXgIdgMMocKmxuVSJlV.png"
     },
     {
       "id": "tmdb:603692",
@@ -602,32 +504,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7EtVuIqlDIjn3IEpXeq9sF6wDp.png"
     },
     {
-      "id": "tmdb:652",
+      "id": "tmdb:769",
       "type": "movie",
-      "name": "Troya",
+      "name": "Uno de los nuestros",
       "ids": {
-        "tmdb": 652
+        "tmdb": 769
       },
-      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
     },
     {
-      "id": "tmdb:98",
+      "id": "tmdb:1084187",
       "type": "movie",
-      "name": "Gladiator",
+      "name": "Lindas y letales",
       "ids": {
-        "tmdb": 98
+        "tmdb": 1084187
       },
-      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/m1nZKJ2yWnQ0JEPqbXV9gfWDGX6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/38YQFSvzkvHjlm4SHGi6PM9nEmN.png"
+    },
+    {
+      "id": "tmdb:1235192",
+      "type": "movie",
+      "name": "Wormtown",
+      "ids": {
+        "tmdb": 1235192
+      },
+      "overview": "Un año después del inicio de una plaga de gusanos carnívoros que alteran la mente, la ciudad nocturna de Ashland, en Ohio, ha aceptado el dominio de los parásitos. Bajo el mando del alcalde Joshua, una figura casi sectaria, los fervientes «Ranchers» difunden su evangelio, ya sea por persuasión o por la fuerza. Un trío de mujeres no infectadas se aferra a la supervivencia mediante el rebusque, una higiene extrema y la evasión. Pero todo el mundo acaba cediendo, lo que desata la traición, el sacrilegio y el horror corporal.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fD4lGBMjIu6d4pJ1KJf3z2KoPz7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8asSzugp46kyCjURMJjK9IrtBnY.png"
+    },
+    {
+      "id": "tmdb:985939",
+      "type": "movie",
+      "name": "Fall",
+      "ids": {
+        "tmdb": 985939
+      },
+      "overview": "Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/tsjVxiuGyvMC4IbI2gjmDYpcYjU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xqEQzRFpYB3q2KOhhmyFCxE2RRH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/10sQbSra5PTAPSfcgBBqtu4IRci.png"
     },
     {
       "id": "tmdb:564",
@@ -644,18 +574,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
     },
     {
-      "id": "tmdb:1236153",
+      "id": "tmdb:652",
       "type": "movie",
-      "name": "Sin piedad",
+      "name": "Troya",
       "ids": {
-        "tmdb": 1236153
+        "tmdb": 652
       },
-      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg",
+      "overview": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xGq2KsV3ioxucqSyIECEIPGxe10.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z5s7nhm98yn2JkdIUVh1Z7Jx9sM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3hYmIMboRimejcc3xoNO7VER7CR.png"
+    },
+    {
+      "id": "tmdb:389",
+      "type": "movie",
+      "name": "12 hombres sin piedad",
+      "ids": {
+        "tmdb": 389
+      },
+      "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás.",
+      "year": 1957,
+      "poster": "https://image.tmdb.org/t/p/w342/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3x1hh3VGugF4pvLURkLLOmb1rj5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
+    },
+    {
+      "id": "tmdb:106646",
+      "type": "movie",
+      "name": "El lobo de Wall Street",
+      "ids": {
+        "tmdb": 106646
+      },
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+    },
+    {
+      "id": "tmdb:77338",
+      "type": "movie",
+      "name": "Intocable",
+      "ids": {
+        "tmdb": 77338
+      },
+      "overview": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/edPWyHqknFuxFY3sdmC3LtJITWC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iv2hHEZsrdtd9Eubz1IlppjJthE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pjoVCK0DxYnmmSbujguQOFPF1nJ.png"
     },
     {
       "id": "tmdb:263472",
@@ -672,18 +644,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
     },
     {
-      "id": "tmdb:9502",
+      "id": "tmdb:1236153",
       "type": "movie",
-      "name": "Kung Fu Panda",
+      "name": "Sin piedad",
       "ids": {
-        "tmdb": 9502
+        "tmdb": 1236153
       },
-      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xGq2KsV3ioxucqSyIECEIPGxe10.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z5s7nhm98yn2JkdIUVh1Z7Jx9sM.png"
     },
     {
       "id": "tmdb:541671",
@@ -698,6 +670,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/1B7CXnNQbIqPMvYAZrvwEv9563R.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/d4hvNyXn2dRWv9CpjzFW4BzjQLo.png"
+    },
+    {
+      "id": "tmdb:43947",
+      "type": "movie",
+      "name": "Escupiré sobre tu tumba",
+      "ids": {
+        "tmdb": 43947
+      },
+      "overview": "Una joven escritora viaja al campo en busca de un poco de soledad y tranquilidad para trabajar en su nuevo libro. Pero en su lugar encuentra una horrible pesadilla. Tras ser agredida por cuatro degenerados, Jennifer logra sobrevivir y mientras intenta sobreponerse, en su mente, ahora dañada y psicótica sólo existe una idea: la venganza sobre esos cuatro hombres que la violaron.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/mEwGkfn0dlWrVjmGJ6YMOuZWqKL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/27eeIdmYCiT45xAft1xfRWOBFEY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wHyz3gdoxXgIdgMMocKmxuVSJlV.png"
+    },
+    {
+      "id": "tmdb:346698",
+      "type": "movie",
+      "name": "Barbie",
+      "ids": {
+        "tmdb": 346698
+      },
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     }
   ]
 }
