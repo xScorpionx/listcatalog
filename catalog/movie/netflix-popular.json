@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1433117",
-      "type": "movie",
-      "name": "Kara",
-      "ids": {
-        "tmdb": 1433117
-      },
-      "overview": "Un ladrón trata de enderezarse, pero, cuando su padre se endeuda por culpa de las condiciones abusivas de los bancos, vuelve a robar... y un policía implacable le pisa los talones.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pMTBPVVeWkfahAaL8yTiAjVHouA.png"
-    },
-    {
       "id": "tmdb:1358005",
       "type": "movie",
       "name": "Turbulencia en la oficina",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hYMfEomoYdtADo9xHqy0VmXVfpw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/JJiwgortCYj2KQqHABZ6zfM9iX.png"
+    },
+    {
+      "id": "tmdb:1433117",
+      "type": "movie",
+      "name": "Kara",
+      "ids": {
+        "tmdb": 1433117
+      },
+      "overview": "Un ladrón trata de enderezarse, pero, cuando su padre se endeuda por culpa de las condiciones abusivas de los bancos, vuelve a robar... y un policía implacable le pisa los talones.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fZ5oN7lRIHkfvaICiMjQ1NHnKpd.png"
     },
     {
       "id": "tmdb:1007757",
@@ -53,8 +53,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Au9YrJbzIjv53LXSDt7zazPD86R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lZ1nNJzVLQq9cuVezUG4IYKFxs2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/Au9YrJbzIjv53LXSDt7zazPD86R.jpg"
     },
     {
       "id": "tmdb:1628448",
@@ -71,20 +70,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/5uEtvrn2w3tJqWroc4m3ZRatCjZ.png"
     },
     {
-      "id": "tmdb:1318447",
-      "type": "movie",
-      "name": "Depredador dominante",
-      "ids": {
-        "tmdb": 1318447
-      },
-      "overview": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5easQaBQr8BiYU1XzSCpqgYM8Wy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bPq0ykf8v5gZbxPX468zeMzXBGX.png"
-    },
-    {
       "id": "tmdb:278",
       "type": "movie",
       "name": "Cadena perpetua",
@@ -97,6 +82,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ftNEUipZUPFMcj87Ffx8MlY1pJs.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
+    },
+    {
+      "id": "tmdb:1318447",
+      "type": "movie",
+      "name": "Depredador dominante",
+      "ids": {
+        "tmdb": 1318447
+      },
+      "overview": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5easQaBQr8BiYU1XzSCpqgYM8Wy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bPq0ykf8v5gZbxPX468zeMzXBGX.png"
     },
     {
       "id": "tmdb:1291608",
@@ -113,20 +112,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bXyw6QNGEwt79jg8FhI35CcEmSK.png"
     },
     {
-      "id": "tmdb:1530510",
-      "type": "movie",
-      "name": "México 86",
-      "ids": {
-        "tmdb": 1530510
-      },
-      "overview": "Audacia, locura y puro ingenio mexicano. En 1986, México fue sede del Mundial contra todo pronóstico. ¿Cómo se logró esa increíble hazaña?",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/ie0evW3npWrB25prNSKOdlEamSd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ktPac7nnhMeOFzwysTHVgTZnx4C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6w1U3iJBJFMf7HlF9kb2tcaWEC5.png"
-    },
-    {
       "id": "tmdb:1274706",
       "type": "movie",
       "name": "La desconocida",
@@ -139,6 +124,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/222KGN6qaXRpcxbmOscNMP5uo2.png"
+    },
+    {
+      "id": "tmdb:1530510",
+      "type": "movie",
+      "name": "México 86",
+      "ids": {
+        "tmdb": 1530510
+      },
+      "overview": "Audacia, locura y puro ingenio mexicano. En 1986, México fue sede del Mundial contra todo pronóstico. ¿Cómo se logró esa increíble hazaña?",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/ie0evW3npWrB25prNSKOdlEamSd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ktPac7nnhMeOFzwysTHVgTZnx4C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6w1U3iJBJFMf7HlF9kb2tcaWEC5.png"
     },
     {
       "id": "tmdb:1630423",
@@ -155,32 +154,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/i4OpejLXLGy3TfwRfNIL7St0WXc.png"
     },
     {
-      "id": "tmdb:1368881",
+      "id": "tmdb:122",
       "type": "movie",
-      "name": "Las damas primero",
+      "name": "El señor de los anillos: El retorno del rey",
       "ids": {
-        "tmdb": 1368881
+        "tmdb": 122
       },
-      "overview": "Un mujeriego engreído pero encantador despierta en un mundo paralelo donde mandan las mujeres... y su vida de lujo, ligoteo y poder se va al garete.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/yNFYn8UqNVV8BX8X0WXcGLH9A9P.jpg",
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jRCoJbsIFAEDhUIUIIWQiIu6Oeq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cpHHUou228DmSQhnojW1nvFKIR4.png"
-    },
-    {
-      "id": "tmdb:391713",
-      "type": "movie",
-      "name": "Lady Bird",
-      "ids": {
-        "tmdb": 391713
-      },
-      "overview": "Una joven estudiante que se hace llamar Lady Bird (Saoirse Ronan) se muda al norte de California para pasar allí su último año de instituto. La joven, con inclinaciones artísticas y que sueña con vivir en la costa Este, tratará de ese modo encontrar su propio camino y definirse fuera de la sombra protectora de su madre (Laurie Metcalf).",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kfst6DxzGXbdibQPawxQSSuDh09.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzcX39FGS5Vj47JfcU3mOrl0Y7Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zzh4g0v1fgy2wTs0XAkKQsAEPmQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
     },
     {
       "id": "tmdb:1265609",
@@ -197,20 +182,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/72I2CuBl7ArEgv4rijdnVvd3WOS.png"
     },
     {
-      "id": "tmdb:1330021",
-      "type": "movie",
-      "name": "Criaturas luminosas",
-      "ids": {
-        "tmdb": 1330021
-      },
-      "overview": "En este drama, basado en el bestseller homónimo, una viuda forja un vínculo con un pulpo muy listo y un joven a la deriva mientras trabaja de noche en un pequeño acuario.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ztUnImSfNUXSLFLapFu9vQTpOYi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bY3zXsV5p4X9rTdEDvyoatPawcR.png"
-    },
-    {
       "id": "tmdb:337167",
       "type": "movie",
       "name": "Cincuenta sombras liberadas",
@@ -225,18 +196,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/1IUC8w0u96mFENQW7dWcE3FBfbk.png"
     },
     {
-      "id": "tmdb:122",
+      "id": "tmdb:1330021",
       "type": "movie",
-      "name": "El señor de los anillos: El retorno del rey",
+      "name": "Criaturas luminosas",
       "ids": {
-        "tmdb": 122
+        "tmdb": 1330021
       },
-      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "overview": "En este drama, basado en el bestseller homónimo, una viuda forja un vínculo con un pulpo muy listo y un joven a la deriva mientras trabaja de noche en un pequeño acuario.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aNixJoh0U4kN85YM6vPyVZL6ALF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qzHCu6O3LAXhPuslqYrs7dGESep.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ztUnImSfNUXSLFLapFu9vQTpOYi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bY3zXsV5p4X9rTdEDvyoatPawcR.png"
     },
     {
       "id": "tmdb:1598785",
@@ -249,6 +220,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/brQf6Odu4S6WzfVLuXLbOcbsOP2.jpg",
       "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/c4hNnIwY1gA1RrxPF05pl9NqLvy.png"
     },
     {
@@ -264,6 +236,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/liQjm780dwRdoP0Cl3S7E8oVZxY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mc80Ielxw7TVwVe5RMnWZ0hnfz4.png"
+    },
+    {
+      "id": "tmdb:1368881",
+      "type": "movie",
+      "name": "Las damas primero",
+      "ids": {
+        "tmdb": 1368881
+      },
+      "overview": "Un mujeriego engreído pero encantador despierta en un mundo paralelo donde mandan las mujeres... y su vida de lujo, ligoteo y poder se va al garete.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yNFYn8UqNVV8BX8X0WXcGLH9A9P.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jRCoJbsIFAEDhUIUIIWQiIu6Oeq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cpHHUou228DmSQhnojW1nvFKIR4.png"
     },
     {
       "id": "tmdb:155",
@@ -308,20 +294,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/9cM22kiLT7GthfbYj88mEBeKjqK.png"
     },
     {
-      "id": "tmdb:502356",
-      "type": "movie",
-      "name": "Super Mario Bros: La película",
-      "ids": {
-        "tmdb": 502356
-      },
-      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i5jJDxYGiBBfX6obIoNXoiunplL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png"
-    },
-    {
       "id": "tmdb:129",
       "type": "movie",
       "name": "El viaje de Chihiro",
@@ -334,6 +306,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hCztoFf1TEpkj7iIdzgv129oBaS.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
+    },
+    {
+      "id": "tmdb:502356",
+      "type": "movie",
+      "name": "Super Mario Bros: La película",
+      "ids": {
+        "tmdb": 502356
+      },
+      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i5jJDxYGiBBfX6obIoNXoiunplL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png"
     },
     {
       "id": "tmdb:680",
@@ -350,18 +336,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hBykAcgUmLtXhdlRHpz0AdyvZA5.png"
     },
     {
-      "id": "tmdb:1628367",
+      "id": "tmdb:1510769",
       "type": "movie",
-      "name": "La fuerza del deber",
+      "name": "29",
       "ids": {
-        "tmdb": 1628367
+        "tmdb": 1510769
       },
-      "overview": "Con la seguridad de su familia en juego y rodeado de amenazas, un policía deberá decidir hasta dónde está dispuesto a llegar para cumplir con su deber.",
+      "overview": "Sathya está en crisis ahora que su cumpleaños número 30 se aproxima y él se siente un fracaso. Pero tras enamorarse de una mujer ambiciosa, descubre su propósito en la vida.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aPhwFUeaYV2hNswZ7N4kDJUYDeM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dsx7EKuHNd7JOPiNVUXIg32Jrls.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/r7xsdxQdVhHbogiye5CiqwFfd1y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x3FzfPUmlGL5s9jmCOwWidA3jct.png"
     },
     {
       "id": "tmdb:1306368",
@@ -378,60 +364,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nJaQn1V1PM3b2733Bh8EimswvMz.png"
     },
     {
-      "id": "tmdb:550",
+      "id": "tmdb:1628367",
       "type": "movie",
-      "name": "El club de la lucha",
+      "name": "La fuerza del deber",
       "ids": {
-        "tmdb": 550
+        "tmdb": 1628367
       },
-      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "overview": "Con la seguridad de su familia en juego y rodeado de amenazas, un policía deberá decidir hasta dónde está dispuesto a llegar para cumplir con su deber.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aPhwFUeaYV2hNswZ7N4kDJUYDeM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
-    },
-    {
-      "id": "tmdb:807",
-      "type": "movie",
-      "name": "Seven",
-      "ids": {
-        "tmdb": 807
-      },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
-    },
-    {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "The Batman",
-      "ids": {
-        "tmdb": 414906
-      },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
-    },
-    {
-      "id": "tmdb:216015",
-      "type": "movie",
-      "name": "Cincuenta sombras de Grey",
-      "ids": {
-        "tmdb": 216015
-      },
-      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qrjPMgPrGcXgbknrBH8gHgNRiCP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dsx7EKuHNd7JOPiNVUXIg32Jrls.png"
     },
     {
       "id": "tmdb:121",
@@ -448,6 +392,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
     },
     {
+      "id": "tmdb:216015",
+      "type": "movie",
+      "name": "Cincuenta sombras de Grey",
+      "ids": {
+        "tmdb": 216015
+      },
+      "overview": "Cuando la estudiante de Literatura Anastasia Steele recibe el encargo de entrevistar al exitoso y joven empresario Christian Grey, queda impresionada al encontrarse ante un hombre atractivo, seductor y también muy intimidante. La inexperta e inocente Ana intenta olvidarle, pero pronto comprende cuánto le desea. Cuando la pareja por fin inicia una apasionada relación, Ana se sorprende por las peculiares prácticas eróticas de Grey, al tiempo que descubre los límites de sus propios y más oscuros deseos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/qrjPMgPrGcXgbknrBH8gHgNRiCP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v1DD5blcUvPnbZ50zolOCBsme85.png"
+    },
+    {
+      "id": "tmdb:550",
+      "type": "movie",
+      "name": "El club de la lucha",
+      "ids": {
+        "tmdb": 550
+      },
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
+    },
+    {
       "id": "tmdb:829557",
       "type": "movie",
       "name": "365 días: Aquel día",
@@ -462,32 +434,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/afT1IcVDzyqE6RUlCPnuzEI4ZS3.png"
     },
     {
-      "id": "tmdb:1510769",
+      "id": "tmdb:807",
       "type": "movie",
-      "name": "29",
+      "name": "Seven",
       "ids": {
-        "tmdb": 1510769
+        "tmdb": 807
       },
-      "overview": "Sathya está en crisis ahora que su cumpleaños número 30 se aproxima y él se siente un fracaso. Pero tras enamorarse de una mujer ambiciosa, descubre su propósito en la vida.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r7xsdxQdVhHbogiye5CiqwFfd1y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x3FzfPUmlGL5s9jmCOwWidA3jct.png"
-    },
-    {
-      "id": "tmdb:4935",
-      "type": "movie",
-      "name": "El castillo ambulante",
-      "ids": {
-        "tmdb": 4935
-      },
-      "overview": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dVb6pHnBS66heliAxFV47vMXcG3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vzmjYJKnVIFruR1k6JiROvc6yrU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     },
     {
       "id": "tmdb:875828",
@@ -504,6 +462,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/5h2BYsB1OjlrfA7c0m1qtrFjbCY.png"
     },
     {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
+    },
+    {
       "id": "tmdb:985939",
       "type": "movie",
       "name": "Fall",
@@ -518,18 +490,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/10sQbSra5PTAPSfcgBBqtu4IRci.png"
     },
     {
-      "id": "tmdb:346698",
+      "id": "tmdb:4935",
       "type": "movie",
-      "name": "Barbie",
+      "name": "El castillo ambulante",
       "ids": {
-        "tmdb": 346698
+        "tmdb": 4935
       },
-      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+      "overview": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dVb6pHnBS66heliAxFV47vMXcG3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vzmjYJKnVIFruR1k6JiROvc6yrU.png"
     },
     {
       "id": "tmdb:829560",
@@ -546,32 +518,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/fQD0iIDqa1yr0Yjg7KMD2agE2La.png"
     },
     {
-      "id": "tmdb:475557",
+      "id": "tmdb:346698",
       "type": "movie",
-      "name": "Joker",
+      "name": "Barbie",
       "ids": {
-        "tmdb": 475557
+        "tmdb": 346698
       },
-      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+      "overview": "Barbie vive en Barbieland donde todo es ideal y lleno de música y color. Un buen día decide conocer el mundo real. Cuando el CEO de Mattel se entere, tratará de evitarlo a toda costa y devolver a Barbie a una caja.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ldFX26JW3fusyMewRoWoXYWaffw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
-      "id": "tmdb:68726",
+      "id": "tmdb:391713",
       "type": "movie",
-      "name": "Pacific Rim",
+      "name": "Lady Bird",
       "ids": {
-        "tmdb": 68726
+        "tmdb": 391713
       },
-      "overview": "Cuando legiones de monstruosas criaturas, denominadas Kaiju, comienzan a salir del mar, se inicia una guerra que acabará con millones de vidas y que consumirá los recursos de la humanidad durante interminables años. Para combatir a los Kaiju gigantes diseñan un tipo especial de arma: enormes robots, llamados Jaegers, que son controlados simultáneamente por dos pilotos cuyas mentes están bloqueadas en un puente neural. Pero incluso los Jaegers proporcionan poca defensa ante los incansables Kaiju. A punto de la derrota, las fuerzas que defienden a la humanidad no tienen otra elección que recurrir a dos insólitos héroes: un ex piloto acabado (Charlie Hunnam) y un aprendiz que todavía no se ha puesto a prueba (Rinko Kikuchi). Ambos se unen para traer a un legendario pero al parecer obsoleto Jaeger del pasado. Juntos, son la última esperanza de la humanidad frente al Apocalipsis que se avecina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
+      "overview": "Una joven estudiante que se hace llamar Lady Bird (Saoirse Ronan) se muda al norte de California para pasar allí su último año de instituto. La joven, con inclinaciones artísticas y que sueña con vivir en la costa Este, tratará de ese modo encontrar su propio camino y definirse fuera de la sombra protectora de su madre (Laurie Metcalf).",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kfst6DxzGXbdibQPawxQSSuDh09.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4DH0dhKt8N54odhgqbHGnGeiByP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lLOMmqofnoLPb98Ym2JuvmngMHR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dzcX39FGS5Vj47JfcU3mOrl0Y7Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zzh4g0v1fgy2wTs0XAkKQsAEPmQ.png"
     },
     {
       "id": "tmdb:9502",
@@ -588,18 +560,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
     },
     {
-      "id": "tmdb:713704",
+      "id": "tmdb:1693002",
       "type": "movie",
-      "name": "Posesión infernal: El despertar",
+      "name": "El asesinato de Rachel Nickell",
       "ids": {
-        "tmdb": 713704
+        "tmdb": 1693002
       },
-      "overview": "Historia de dos hermanas separadas cuyo reencuentro se ve interrumpido por el surgimiento de demonios poseedores de carne, empujándolos a una batalla por la supervivencia mientras se enfrentan a la versión de familia más aterradora que se pueda imaginar. Secuela de la trilogía original de 'Evil Dead'.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg",
+      "overview": "Una joven madre es asesinada a plena luz del día en Londres delante de su hijo pequeño. Este documental examina este caso de asesinato que se prolongó varios años.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/4gcZdPpd6xFxfFHBX0VfxvGhchO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/s3TbAVsbjaOseCH6g25xMzangZ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uVV2Ab8ipgwM94h0LQVvjtFDuze.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yKeYZOmBMQUMKpMlJJF8q4riYpl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8w7rTQb8yGgrWd6GySqKG9gOjFo.png"
+    },
+    {
+      "id": "tmdb:68726",
+      "type": "movie",
+      "name": "Pacific Rim",
+      "ids": {
+        "tmdb": 68726
+      },
+      "overview": "Cuando legiones de monstruosas criaturas, denominadas Kaiju, comienzan a salir del mar, se inicia una guerra que acabará con millones de vidas y que consumirá los recursos de la humanidad durante interminables años. Para combatir a los Kaiju gigantes diseñan un tipo especial de arma: enormes robots, llamados Jaegers, que son controlados simultáneamente por dos pilotos cuyas mentes están bloqueadas en un puente neural. Pero incluso los Jaegers proporcionan poca defensa ante los incansables Kaiju. A punto de la derrota, las fuerzas que defienden a la humanidad no tienen otra elección que recurrir a dos insólitos héroes: un ex piloto acabado (Charlie Hunnam) y un aprendiz que todavía no se ha puesto a prueba (Rinko Kikuchi). Ambos se unen para traer a un legendario pero al parecer obsoleto Jaeger del pasado. Juntos, son la última esperanza de la humanidad frente al Apocalipsis que se avecina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4DH0dhKt8N54odhgqbHGnGeiByP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lLOMmqofnoLPb98Ym2JuvmngMHR.png"
     },
     {
       "id": "tmdb:315162",
@@ -630,20 +616,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
     },
     {
-      "id": "tmdb:1252309",
-      "type": "movie",
-      "name": "Pídeme lo que quieras",
-      "ids": {
-        "tmdb": 1252309
-      },
-      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
-    },
-    {
       "id": "tmdb:8966",
       "type": "movie",
       "name": "Crepúsculo",
@@ -658,46 +630,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
     },
     {
-      "id": "tmdb:61979",
+      "id": "tmdb:475557",
       "type": "movie",
-      "name": "Tres metros sobre el cielo",
+      "name": "Joker",
       "ids": {
-        "tmdb": 61979
+        "tmdb": 475557
       },
-      "overview": "En Barcelona, dos jóvenes que pertenecen a mundos opuestos se conocen. Ella, la dulce Babi, es una chica de clase alta que vive en un entorno tan protegido como poco excitante. Él, Hugo, conocido como el duro \"H\", es un chico impulsivo e irresponsable, aficionado a las peleas y a las carreras ilegales de motos. Esta es la crónica de un amor inicialmente imposible que arrastrará a ambos a un frenético viaje iniciático a través del cual descubrirán el amor.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ks0eLnkf9ARvL51aYjyjgC9I38f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uh1tfUH7CIXly652qKTzlbSfj2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
     },
     {
-      "id": "tmdb:1511417",
+      "id": "tmdb:1241634",
       "type": "movie",
-      "name": "Baahubali: The Epic",
+      "name": "सैयारा",
       "ids": {
-        "tmdb": 1511417
+        "tmdb": 1241634
       },
-      "overview": "Cuando una pareja tribal encuentra a un niño misterioso cerca de una estruendosa cascada, lo crían como si fuera suyo. A medida que crece, Sivudu se siente atraído por el mundo más allá de los acantilados, donde descubre el antiguo reino de Mahishmati, gobernado por un tirano cruel, asolado por la rebelión y ligado a su propio pasado. Lo que comienza como una búsqueda por amor, pronto desentraña un legado de traición, sacrificio y un príncipe olvidado.",
+      "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/bOTLopIpBJdLchgNkCj1FWNaTQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7TSIiZLDGA9hbBA6MdGa3krO7he.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mOTwXTjYJmgNFiL4KU5wWLkwNy9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6LwQ9tNODqCV6836I96MynTHbNA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qnJ0VhbFAeu7YUPpEB3AZ3d1bAI.png"
     },
     {
-      "id": "tmdb:1062722",
+      "id": "tmdb:1213898",
       "type": "movie",
-      "name": "Frankenstein",
+      "name": "Violencia en la frontera 2",
       "ids": {
-        "tmdb": 1062722
+        "tmdb": 1213898
       },
-      "overview": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "overview": "Jóvenes combatientes indios se prepararon para proteger su patria de una amenaza mayor durante la guerra indo-pakistaní de 1971.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kZLUnf9DDhyamABTS3ghihngUzs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A2qs8jKKvTIuHSIJjB0CT6PQNbj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9sJgOvsTonp0MNZThXfEPqNEwDH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jbCnrty7OWdXjIdVFKmuSp7EBzn.png"
+    },
+    {
+      "id": "tmdb:19404",
+      "type": "movie",
+      "name": "Un amor contra viento y marea",
+      "ids": {
+        "tmdb": 19404
+      },
+      "overview": "Los Singh son una familia india con grandes convicciones culturales de su nación de origen, que emigraron a Reino Unido antes de nacer sus primeros hijos. Uno de ellos querrá casarse con una mujer ajena a su cultura y para ello deberá hacer todos los esfuerzos por convencer a su familia.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/tFbfCkS7q6g96wVoAu8kyr93iPm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jgvpmV3OehTGXVTkfL06NAvBm2d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2y2BbO3udAS9Zfzya3ifqUn7JUh.png"
+    },
+    {
+      "id": "tmdb:1252309",
+      "type": "movie",
+      "name": "Pídeme lo que quieras",
+      "ids": {
+        "tmdb": 1252309
+      },
+      "overview": "Judith Flores es una chica normal. Tiene un trabajo que le apasiona, muy buenos amigos y un padre encantador. Pero su vida cambia radicalmente cuando conoce a Eric Zimmerman, dueño de la empresa donde ella trabaja. Su relación con Eric está a punto de dinamitar su vida por completo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5rtaLwyKAjbceww4J1ro8aA8BNB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
     }
   ]
 }
