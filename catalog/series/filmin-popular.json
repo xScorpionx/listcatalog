@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:790",
-      "type": "series",
-      "name": "Agatha Christie: Poirot",
-      "ids": {
-        "tmdb": 790
-      },
-      "overview": "Desde Inglaterra hasta Egipto, acompañado por sus elegantes colaboradores de confianza, el inteligente y excéntricamente refinado detective belga Hércules Poirot se enfrenta a una serie de engaños de primera clase.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/vWxDau7LyMhy6Te0jLIybyoxhSP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6AVdPMleNIPf2gGayhXsYcsQdFA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/11hvIfeTR8adcbNgg7eQachswtV.png"
-    },
-    {
       "id": "tmdb:39185",
       "type": "series",
       "name": "Vera",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/i036gq97hfoXBOuIM8WKWxgvr8X.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5rcWO9TtZoKXvgz9ssUvNEu3NcM.png"
+    },
+    {
+      "id": "tmdb:790",
+      "type": "series",
+      "name": "Agatha Christie: Poirot",
+      "ids": {
+        "tmdb": 790
+      },
+      "overview": "Desde Inglaterra hasta Egipto, acompañado por sus elegantes colaboradores de confianza, el inteligente y excéntricamente refinado detective belga Hércules Poirot se enfrenta a una serie de engaños de primera clase.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/vWxDau7LyMhy6Te0jLIybyoxhSP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6AVdPMleNIPf2gGayhXsYcsQdFA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/11hvIfeTR8adcbNgg7eQachswtV.png"
     },
     {
       "id": "tmdb:1920",
@@ -57,17 +57,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zskibizkSABuX2G3E7YuewTqiIi.png"
     },
     {
-      "id": "tmdb:57775",
+      "id": "tmdb:46923",
       "type": "series",
-      "name": "ちびまる子ちゃん",
+      "name": "Shetland",
       "ids": {
-        "tmdb": 57775
+        "tmdb": 46923
       },
-      "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+      "overview": "Miniserie dramática de corte policial en la que un detective regresa a su pueblo natal tras varios años de ausencia. Las islas Shetland son el hogar natal del detective Jimmy Perez (Douglas Henshall, 'The Kidnap Diaries', 'The Silence'), pero lo dejó atrás para iniciar su carrera como investigador. Ahora, años después, ha regresado a casa dispuesto a defender a sus compatriotas y vecinos de cualquier mal que amenace la tranquila vida de las islas. Por ello, cuando un joven arqueólogo encuentra algunos huesos humanos que evidencian muertas violentas y una mujer es asesinada de un disparo, Jimmy y su equipo deciden encontrar a los responsables a como dé lugar. De esta forma se ve atrapado entre dos importantes familias marcadas por el odio, la envidia y la traición, y cuyo enfrentamiento a dividido a los tranquilos habitantes de las Shetland",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
       "posterShape": "poster",
-      "logo": "https://image.tmdb.org/t/p/w500/mpnTd6A6UxhohCgLteU1EAHEfUN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jfn5s5K8deDUwwyJIh7lU5Kr8c0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t3YeSQyOIrQquSBrEQfeWkAuaM0.png"
     },
     {
       "id": "tmdb:44264",
@@ -84,18 +85,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/6XR9NSDWhDu5lwOs1CrFaHwEOii.png"
     },
     {
-      "id": "tmdb:46923",
+      "id": "tmdb:57775",
       "type": "series",
-      "name": "Shetland",
+      "name": "ちびまる子ちゃん",
       "ids": {
-        "tmdb": 46923
+        "tmdb": 57775
       },
-      "overview": "Miniserie dramática de corte policial en la que un detective regresa a su pueblo natal tras varios años de ausencia. Las islas Shetland son el hogar natal del detective Jimmy Perez (Douglas Henshall, 'The Kidnap Diaries', 'The Silence'), pero lo dejó atrás para iniciar su carrera como investigador. Ahora, años después, ha regresado a casa dispuesto a defender a sus compatriotas y vecinos de cualquier mal que amenace la tranquila vida de las islas. Por ello, cuando un joven arqueólogo encuentra algunos huesos humanos que evidencian muertas violentas y una mujer es asesinada de un disparo, Jimmy y su equipo deciden encontrar a los responsables a como dé lugar. De esta forma se ve atrapado entre dos importantes familias marcadas por el odio, la envidia y la traición, y cuyo enfrentamiento a dividido a los tranquilos habitantes de las Shetland",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+      "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jfn5s5K8deDUwwyJIh7lU5Kr8c0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t3YeSQyOIrQquSBrEQfeWkAuaM0.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mpnTd6A6UxhohCgLteU1EAHEfUN.png"
+    },
+    {
+      "id": "tmdb:2730",
+      "type": "series",
+      "name": "Te quiero, Lucy",
+      "ids": {
+        "tmdb": 2730
+      },
+      "overview": "\"I Love Lucy\" (\"Te quiero, Lucy\" en España) es una serie televisiva estadounidense de la CBS que se emitió durante la década de los 50, desde 1951 a 1957. Fue la serie más vista en Estados Unidos.  Se retransmitió en numerosos países y ganó importantes galardones, entre ellos cinco premios Emmy. La comedia llevó la fama a su actriz principal Lucille Désirée Ball Morton, conocida como Lucille Ball, quien cautivó al público demostrando sus habilidades como intérprete cómica.\n\nFue el primer programa de televisión en haber sido grabado en estudio,  frente a una audiencia, y en película de 35 mm",
+      "year": 1951,
+      "poster": "https://image.tmdb.org/t/p/w342/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/98k2unYRV6GRUE0icVSSZdl4vr9.png"
     },
     {
       "id": "tmdb:4396",
@@ -112,31 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vh32bAnMKtRAaBRqKnrtuXhuHhb.png"
     },
     {
-      "id": "tmdb:2730",
+      "id": "tmdb:92621",
       "type": "series",
-      "name": "Te quiero, Lucy",
+      "name": "Brassic",
       "ids": {
-        "tmdb": 2730
+        "tmdb": 92621
       },
-      "overview": "\"I Love Lucy\" (\"Te quiero, Lucy\" en España) es una serie televisiva estadounidense de la CBS que se emitió durante la década de los 50, desde 1951 a 1957. Fue la serie más vista en Estados Unidos.  Se retransmitió en numerosos países y ganó importantes galardones, entre ellos cinco premios Emmy. La comedia llevó la fama a su actriz principal Lucille Désirée Ball Morton, conocida como Lucille Ball, quien cautivó al público demostrando sus habilidades como intérprete cómica.\n\nFue el primer programa de televisión en haber sido grabado en estudio,  frente a una audiencia, y en película de 35 mm",
-      "year": 1951,
-      "poster": "https://image.tmdb.org/t/p/w342/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+      "overview": "Un grupo de amigos de la clase trabajadora que encuentra formas poco convencionales de ganar en la vida en los suburbios del norte. Estos muchachos se han enfrentado, estafado, sobornado y engañado durante su adolescencia, pero ahora, al borde de la edad adulta, su trato y robo los está alcanzando y una gran cantidad de problemas se dirigen hacia ellos.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
       "posterShape": "poster",
-      "logo": "https://image.tmdb.org/t/p/w500/98k2unYRV6GRUE0icVSSZdl4vr9.png"
-    },
-    {
-      "id": "tmdb:4278",
-      "type": "series",
-      "name": "Friday Night Lights",
-      "ids": {
-        "tmdb": 4278
-      },
-      "overview": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i6TKgMbhLRDDw8XJUAzzb66R5UX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/FGtcrU5k2IZTmqkDx4IlMpBSEk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A8zX6xxfAgiydGtof3H9hv58lgS.png"
     },
     {
       "id": "tmdb:61565",
@@ -167,6 +169,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/gnMKm2WWD263IIAnfN6cCG2fpz3.png"
     },
     {
+      "id": "tmdb:4278",
+      "type": "series",
+      "name": "Friday Night Lights",
+      "ids": {
+        "tmdb": 4278
+      },
+      "overview": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i6TKgMbhLRDDw8XJUAzzb66R5UX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png"
+    },
+    {
       "id": "tmdb:108255",
       "type": "series",
       "name": "Todas las criaturas grandes y pequeñas",
@@ -179,6 +195,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5xgYXZiItbxJbfYWBRRQtrnehiB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q9xT37Z478pzKaOgwgy5hHe2Lqo.png"
+    },
+    {
+      "id": "tmdb:62474",
+      "type": "series",
+      "name": "Hotel El Balneario",
+      "ids": {
+        "tmdb": 62474
+      },
+      "overview": "Badehotellet es la historia de los clientes y el personal de un hotel de playa del Mar del Norte. En el corazón de la historia es la vida de tres jóvenes, la camarera Fie, la hija del comerciante Amanda, y los pescadores locales. Sus destinos están entrelazados, y sus historias son de emanciparse de los planes de otras personas han hecho en su nombre, los intentos de ascenso social y encontrar el camino. La serie está inspirada en la forma de vida en los muchos hoteles de la costa del pasado, y refleja nuestro propio tiempo con su mezcla de crisis financiera, la negación, y los sueños de felicidad. La historia tiene lugar en los años 1928-33, donde el mundo se cae a pedazos. Los personajes pasarán a través de las lágrimas y la risa en el cautivador viaje que se lleva a cabo como cambian los tiempos del optimismo a la crisis. PEPECINE.NET",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/wt7TWX8ZMPwrgDtsAhpiIva6bFl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nyOwvusU03IsfxaxEYWoZWl3i2W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xVyEMbD0MVxUVeM6g3NIb38PcNs.png"
     },
     {
       "id": "tmdb:13881",
@@ -209,32 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8ysVbUQQMgTx1EETfytGfkNh52z.png"
     },
     {
-      "id": "tmdb:62474",
+      "id": "tmdb:216074",
       "type": "series",
-      "name": "Hotel El Balneario",
+      "name": "Ririsa, una chica en 2.5D",
       "ids": {
-        "tmdb": 62474
+        "tmdb": 216074
       },
-      "overview": "Badehotellet es la historia de los clientes y el personal de un hotel de playa del Mar del Norte. En el corazón de la historia es la vida de tres jóvenes, la camarera Fie, la hija del comerciante Amanda, y los pescadores locales. Sus destinos están entrelazados, y sus historias son de emanciparse de los planes de otras personas han hecho en su nombre, los intentos de ascenso social y encontrar el camino. La serie está inspirada en la forma de vida en los muchos hoteles de la costa del pasado, y refleja nuestro propio tiempo con su mezcla de crisis financiera, la negación, y los sueños de felicidad. La historia tiene lugar en los años 1928-33, donde el mundo se cae a pedazos. Los personajes pasarán a través de las lágrimas y la risa en el cautivador viaje que se lleva a cabo como cambian los tiempos del optimismo a la crisis. PEPECINE.NET",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/wt7TWX8ZMPwrgDtsAhpiIva6bFl.jpg",
+      "overview": "Cuando la cosplayer Ririsa se une al club de manga de Okumura, la línea entre 2D y 3D se difumina cuando ella le pide que sea su fotógrafo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/weUKy8WjbHNxMnT6mExIqGcEgNV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nyOwvusU03IsfxaxEYWoZWl3i2W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xVyEMbD0MVxUVeM6g3NIb38PcNs.png"
-    },
-    {
-      "id": "tmdb:92621",
-      "type": "series",
-      "name": "Brassic",
-      "ids": {
-        "tmdb": 92621
-      },
-      "overview": "Un grupo de amigos de la clase trabajadora que encuentra formas poco convencionales de ganar en la vida en los suburbios del norte. Estos muchachos se han enfrentado, estafado, sobornado y engañado durante su adolescencia, pero ahora, al borde de la edad adulta, su trato y robo los está alcanzando y una gran cantidad de problemas se dirigen hacia ellos.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/FGtcrU5k2IZTmqkDx4IlMpBSEk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A8zX6xxfAgiydGtof3H9hv58lgS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1POofFLK6QG6FF4MqRy9MRgt3GH.png"
     },
     {
       "id": "tmdb:3902",
@@ -249,20 +265,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2y6la906eTZnEhuxP2EM9uJL8gB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mkd18fKB8dlLOZpzH5OMz9VIoqI.png"
-    },
-    {
-      "id": "tmdb:216074",
-      "type": "series",
-      "name": "Ririsa, una chica en 2.5D",
-      "ids": {
-        "tmdb": 216074
-      },
-      "overview": "Cuando la cosplayer Ririsa se une al club de manga de Okumura, la línea entre 2D y 3D se difumina cuando ella le pide que sea su fotógrafo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/weUKy8WjbHNxMnT6mExIqGcEgNV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1POofFLK6QG6FF4MqRy9MRgt3GH.png"
     },
     {
       "id": "tmdb:25707",
@@ -293,18 +295,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5aorUFo7DoAQusNW2ltFq9vrpS3.png"
     },
     {
-      "id": "tmdb:16047",
+      "id": "tmdb:243140",
       "type": "series",
-      "name": "Ana de las tejas verdes",
+      "name": "¡Oye, Tonbo!",
       "ids": {
-        "tmdb": 16047
+        "tmdb": 243140
       },
-      "overview": "Ana de las Tejas Verdes (赤毛のアン Akage no an?, \"Ana del cabello rojo\") es una serie de anime basada en la novela Anne of Green Gables (\"Ana de las Tejas Verdes\") de Lucy Maud Montgomery. La serie fue emitida originalmente en Japón en el año 1979, parte del contenedor infantil World Masterpiece Theater o Meisaku de Nippon Animation. El contenedor había antes y después producido una gran variedad de series de animación basadas en diferentes obras literarias infantiles; entre ellas estaban \"Sin familia\" (1978) y \"Las aventuras de Tom Sawyer\" (1980). En España, la serie fue emitida a través de Tele 5. En conmemoración del trigésimo aniversario desde el estreno de la serie y centenario desde la publicación de la novela original, para abril de 2009 Nippon Animation estrenó una precuela de la historia titulada Konnichiwa Anne: Before Green Gables (\"Antes de las Tejas Verdes\").",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/66I1lcG8lW2SQodTsJiVhc9DXYf.jpg",
+      "overview": "Igarashi abandonó su pasado y se refugió en las tranquilas islas Tokara de la prefectura de Kagoshima. En la isla Hinoshima, conocida como «la última región inexplorada de Japón», conoce a Tonbo, la única estudiante de secundaria de la isla. Para su sorpresa, ¡esta chica alberga un extraordinario talento para el golf! Este encuentro marca un cambio drástico en el destino de ambos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/72zHVHKaIbcrc5g5fh0ltStD3hT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/BDFyz4VH7E4AS5Fy8m9s1mRMcR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hgv2GT3rLIO0GNzAb5SwUML4cOi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dujyzIuYx2yDkprgHNt4WZMw6na.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fgQmNizTn7M8yXd8k1aAy9EYxLt.png"
     },
     {
       "id": "tmdb:90447",
@@ -321,18 +323,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cgnP8hb3NrQQSjOtSRBGpDO4yug.png"
     },
     {
-      "id": "tmdb:243140",
+      "id": "tmdb:16047",
       "type": "series",
-      "name": "¡Oye, Tonbo!",
+      "name": "Ana de las tejas verdes",
       "ids": {
-        "tmdb": 243140
+        "tmdb": 16047
       },
-      "overview": "Igarashi abandonó su pasado y se refugió en las tranquilas islas Tokara de la prefectura de Kagoshima. En la isla Hinoshima, conocida como «la última región inexplorada de Japón», conoce a Tonbo, la única estudiante de secundaria de la isla. Para su sorpresa, ¡esta chica alberga un extraordinario talento para el golf! Este encuentro marca un cambio drástico en el destino de ambos.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/72zHVHKaIbcrc5g5fh0ltStD3hT.jpg",
+      "overview": "Ana de las Tejas Verdes (赤毛のアン Akage no an?, \"Ana del cabello rojo\") es una serie de anime basada en la novela Anne of Green Gables (\"Ana de las Tejas Verdes\") de Lucy Maud Montgomery. La serie fue emitida originalmente en Japón en el año 1979, parte del contenedor infantil World Masterpiece Theater o Meisaku de Nippon Animation. El contenedor había antes y después producido una gran variedad de series de animación basadas en diferentes obras literarias infantiles; entre ellas estaban \"Sin familia\" (1978) y \"Las aventuras de Tom Sawyer\" (1980). En España, la serie fue emitida a través de Tele 5. En conmemoración del trigésimo aniversario desde el estreno de la serie y centenario desde la publicación de la novela original, para abril de 2009 Nippon Animation estrenó una precuela de la historia titulada Konnichiwa Anne: Before Green Gables (\"Antes de las Tejas Verdes\").",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/66I1lcG8lW2SQodTsJiVhc9DXYf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dujyzIuYx2yDkprgHNt4WZMw6na.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fgQmNizTn7M8yXd8k1aAy9EYxLt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/BDFyz4VH7E4AS5Fy8m9s1mRMcR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hgv2GT3rLIO0GNzAb5SwUML4cOi.png"
     },
     {
       "id": "tmdb:11279",
@@ -363,20 +365,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1IhTVXMZg6SxqFzcZuXbWlHLBfZ.png"
     },
     {
-      "id": "tmdb:29452",
-      "type": "series",
-      "name": "Heidi",
-      "ids": {
-        "tmdb": 29452
-      },
-      "overview": "Las aventuras de Heidi comienzan cuando la niña es enviada a vivir con su abuelito, un viejo gruñón que vive en los Alpes suizos. Poco a poco, el anciano le va cogiendo cariño a su nieta, que vive innumerables aventuras con sus amigos, Pedro y Clara, el perro Niebla y la pequeña cabra Copito de Nieve.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/q0WtdvwCo9OMGR840jxcoTSQk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cafsMt9cQlaRCNVqf5KXtTUQP6V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3EmQDSETXrYEAJ646jLglGurYvs.png"
-    },
-    {
       "id": "tmdb:53721",
       "type": "series",
       "name": "Love Live!",
@@ -389,6 +377,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/9fvkROGBTlJN3Fppqdm93lqJE8o.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hyTrcFapBEfT3lRWnRgovhOCoC.png"
+    },
+    {
+      "id": "tmdb:29452",
+      "type": "series",
+      "name": "Heidi",
+      "ids": {
+        "tmdb": 29452
+      },
+      "overview": "Las aventuras de Heidi comienzan cuando la niña es enviada a vivir con su abuelito, un viejo gruñón que vive en los Alpes suizos. Poco a poco, el anciano le va cogiendo cariño a su nieta, que vive innumerables aventuras con sus amigos, Pedro y Clara, el perro Niebla y la pequeña cabra Copito de Nieve.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/q0WtdvwCo9OMGR840jxcoTSQk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cafsMt9cQlaRCNVqf5KXtTUQP6V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3EmQDSETXrYEAJ646jLglGurYvs.png"
     },
     {
       "id": "tmdb:62914",
@@ -405,6 +407,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/jieL5y5EGuaAGUyTvWWjzdZfGuN.png"
     },
     {
+      "id": "tmdb:224942",
+      "type": "series",
+      "name": "Esto no es un misterioso asesinato",
+      "ids": {
+        "tmdb": 224942
+      },
+      "overview": "Ambientada en los extravagantes años 30, reúne a artistas surrealistas de renombre mundial, incluidos los jóvenes Dalí y Magritte, que se encuentran atrapados en una lujosa mansión con un misterioso asesino en serie suelto.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5N1TuJorGi0avy16ORWkjNbHkeq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/e73RZyp6cNlrquOutYJfW80IitP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gR5hMcD6EKdgzCjj1quxLHDb5ec.png"
+    },
+    {
       "id": "tmdb:218351",
       "type": "series",
       "name": "The Gold",
@@ -417,61 +433,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/M6Y0Q5HSffNZ7hXm6z6VC8iRAb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bcScLzf14GB077rVCPaSI7jTJGH.png"
-    },
-    {
-      "id": "tmdb:3714",
-      "type": "series",
-      "name": "Pippi Calzaslargas",
-      "ids": {
-        "tmdb": 3714
-      },
-      "overview": "Pippi es una niña de nueve años, con largas coletas y espíritu libre a la que le suceden mil y una aventuras. Tiene algunos pequeños poderes, vive con un mono y un caballo, no tiene nadie a quien dar cuentas y sus mejores amigos son Tommy y Annika, dos niños de su edad que asisten fascinados al estallido de libertad y diversión que supone estar con Pippi.",
-      "year": 1969,
-      "poster": "https://image.tmdb.org/t/p/w342/gtfV6stZ1XdcI0qMVybYaTk7Sog.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kXodjrgzRTtQo6CnAkHbhlzZlcj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o1fLKlGghpEkpa3AItShXRaHFiM.png"
-    },
-    {
-      "id": "tmdb:37183",
-      "type": "series",
-      "name": "Bailando con vampiros",
-      "ids": {
-        "tmdb": 37183
-      },
-      "overview": "Tras cientos de años escondidos, Mina Tepes, soberana de todos los vampiros desea un cambio. Usando la inmensa riqueza obtenida a lo largo de centenares de años, decide pagar la deuda externa de Japón a cambio de poseer un distrito propio cerca de la costa el cual se convertirá en el hogar de todos los vampiros. Ahora, en la víspera de la conferencia de prensa que anuncia la existencia de los vampiros al mundo, terroristas y las facciones rivales tratan de asesinar a Mina Tepes antes de que pueda anunciar la existencia de los vampiros.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/z2oM4QJuam8BUHoPnNxMIxUvjne.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fgTu7zADTGdliBdjB8zqfAYQqb9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6osI1ji6nluUPjnKdIj0TzVQol6.png"
-    },
-    {
-      "id": "tmdb:11988",
-      "type": "series",
-      "name": "Cimarron",
-      "ids": {
-        "tmdb": 11988
-      },
-      "overview": "Aventuras del sheriff Jim Crown que impone la ley en Cimarron Strip, una región desértica entre Kansas y Oklahoma habitada por granjeros que limita con territorio indio. Siempre a su lado dispuestos a ayudarle están Mac Gregor, su ayudante y Francis Wilde, un joven fotógrafo.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/mUoY0LW5VGsX9ZjvjMGqGpPWkVZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Plb553aDScLgQlkbJ0ZUo95VFn.jpg"
-    },
-    {
-      "id": "tmdb:64840",
-      "type": "series",
-      "name": "Señal",
-      "ids": {
-        "tmdb": 64840
-      },
-      "overview": "Signal: El pasado y el presente se fusionan a través de un potente walkie-talkie. Park Hae Young (Lee Je Hoon) es un teniente de policía experto en perfiles criminales. Hae Young entró a trabajar como policía a pesar de de desconfiar profundamente de ellos luego de un evento traumático en su niñez. Cuando él era niño, su amiga Yoon Jung fue secuestrada y posteriormente la encontraron muerta. Hae Young miró a una mujer recoger a Yoon Jung en la escuela el día en que ella desapareció, pero los policías no le creyeron y determinaron que un hombre se la había llevado. El caso sigue sin ser resuelto hasta el día de hoy. Ahora, Hae Young trabaja en la misma estación de policía donde él trató de que los investigadores le creyeran cuando era niño, entonces un día sale de la estación y escucha que alguien le habla, mira a su alrededor y encuentra un walkie-talkie donde se escucha la voz del detective Lee Jae Han (Cho Jin Woong) que lo llama. Pero Jae Han pertenece a varias décadas atrás y está investigando la muerte de Yoon Jung, la amiga de Young. Cha Soo Hyun (Kim Hye Soo) era un novato en la época de Jae Han y ahora es un experimentado detective. ¿Podrá este inesperado trío trabajar conjuntamente para solucionar antiguos casos sin resolver comunicándose a través del walkie-talkie?",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zMVcQIAAAyBgJNEZ4EY2gkd4HCJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png"
     },
     {
       "id": "tmdb:106841",
@@ -488,32 +449,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/oT0MaNhJEhusLeqvcygMw1wKqLD.png"
     },
     {
-      "id": "tmdb:88408",
+      "id": "tmdb:37183",
       "type": "series",
-      "name": "The New Pope",
+      "name": "Bailando con vampiros",
       "ids": {
-        "tmdb": 88408
+        "tmdb": 37183
       },
-      "overview": "Mientras el Papa Pío XIII se cuelga entre la vida y la muerte en coma, el aristócrata inglés moderado encantador y sofisticado Sir John Brannox se coloca en el trono papal y adopta el nombre de Juan Pablo III. Una secuela de \"El joven papa\".",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/rYjykBwLClPb0WeUP94f3EHZA4k.jpg",
+      "overview": "Tras cientos de años escondidos, Mina Tepes, soberana de todos los vampiros desea un cambio. Usando la inmensa riqueza obtenida a lo largo de centenares de años, decide pagar la deuda externa de Japón a cambio de poseer un distrito propio cerca de la costa el cual se convertirá en el hogar de todos los vampiros. Ahora, en la víspera de la conferencia de prensa que anuncia la existencia de los vampiros al mundo, terroristas y las facciones rivales tratan de asesinar a Mina Tepes antes de que pueda anunciar la existencia de los vampiros.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/z2oM4QJuam8BUHoPnNxMIxUvjne.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hFdKojjQ5hwrBCudqIOuEV0eIm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cRMmsjzYyBujbgkeIr7XXUKzlJt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fgTu7zADTGdliBdjB8zqfAYQqb9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6osI1ji6nluUPjnKdIj0TzVQol6.png"
     },
     {
-      "id": "tmdb:94137",
+      "id": "tmdb:3714",
       "type": "series",
-      "name": "Exit",
+      "name": "Pippi Calzaslargas",
       "ids": {
-        "tmdb": 94137
+        "tmdb": 3714
       },
-      "overview": "La salida se basa en las historias reales de cuatro hombres de treinta y tantos años que se convirtieron en multimillonarios antes de los treinta y un años. Intentando escapar de sus obligaciones, expectativas y familias, emplean drogas, prostitutas y su propio conjunto moral.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/l4Vb8N6rP3TABM0jKqWSaOVqwDX.jpg",
+      "overview": "Pippi es una niña de nueve años, con largas coletas y espíritu libre a la que le suceden mil y una aventuras. Tiene algunos pequeños poderes, vive con un mono y un caballo, no tiene nadie a quien dar cuentas y sus mejores amigos son Tommy y Annika, dos niños de su edad que asisten fascinados al estallido de libertad y diversión que supone estar con Pippi.",
+      "year": 1969,
+      "poster": "https://image.tmdb.org/t/p/w342/gtfV6stZ1XdcI0qMVybYaTk7Sog.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1H23aEoWTHGxbpFWObHHPeF1rJc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qzxquN4X0wyVxORaCDLCraRnP7s.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kXodjrgzRTtQo6CnAkHbhlzZlcj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o1fLKlGghpEkpa3AItShXRaHFiM.png"
+    },
+    {
+      "id": "tmdb:4267",
+      "type": "series",
+      "name": "El reino",
+      "ids": {
+        "tmdb": 4267
+      },
+      "overview": "El Reino es el hospital tecnológicamente más avanzado de Dinamarca, un reluciente bastión de la ciencia médica. Sin embargo, una serie de sucesos extraños comienza a debilitar la fe del personal en la ciencia: una ambulancia fantasma llega todas las noches, pero desaparece; las voces resuenan en el hueco del ascensor; y el feto de una doctora embarazada parece estar desarrollándose mucho más rápido de lo que es natural.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/9ARGfO7lZUOCuextaaqmTNR438h.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g0ptJiKXoxkSDb7libKSc3cdwIS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peW9cqNxGbEN5xUrQyiAZHAh0TB.png"
     },
     {
       "id": "tmdb:8853",
@@ -530,18 +505,59 @@
       "logo": "https://image.tmdb.org/t/p/w500/yloKLgeYHRgc9tS931Odx0VPTfp.png"
     },
     {
-      "id": "tmdb:4267",
+      "id": "tmdb:94137",
       "type": "series",
-      "name": "El reino",
+      "name": "Exit",
       "ids": {
-        "tmdb": 4267
+        "tmdb": 94137
       },
-      "overview": "El Reino es el hospital tecnológicamente más avanzado de Dinamarca, un reluciente bastión de la ciencia médica. Sin embargo, una serie de sucesos extraños comienza a debilitar la fe del personal en la ciencia: una ambulancia fantasma llega todas las noches, pero desaparece; las voces resuenan en el hueco del ascensor; y el feto de una doctora embarazada parece estar desarrollándose mucho más rápido de lo que es natural.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/9ARGfO7lZUOCuextaaqmTNR438h.jpg",
+      "overview": "La salida se basa en las historias reales de cuatro hombres de treinta y tantos años que se convirtieron en multimillonarios antes de los treinta y un años. Intentando escapar de sus obligaciones, expectativas y familias, emplean drogas, prostitutas y su propio conjunto moral.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/l4Vb8N6rP3TABM0jKqWSaOVqwDX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g0ptJiKXoxkSDb7libKSc3cdwIS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peW9cqNxGbEN5xUrQyiAZHAh0TB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1H23aEoWTHGxbpFWObHHPeF1rJc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qzxquN4X0wyVxORaCDLCraRnP7s.png"
+    },
+    {
+      "id": "tmdb:64840",
+      "type": "series",
+      "name": "Señal",
+      "ids": {
+        "tmdb": 64840
+      },
+      "overview": "Signal: El pasado y el presente se fusionan a través de un potente walkie-talkie. Park Hae Young (Lee Je Hoon) es un teniente de policía experto en perfiles criminales. Hae Young entró a trabajar como policía a pesar de de desconfiar profundamente de ellos luego de un evento traumático en su niñez. Cuando él era niño, su amiga Yoon Jung fue secuestrada y posteriormente la encontraron muerta. Hae Young miró a una mujer recoger a Yoon Jung en la escuela el día en que ella desapareció, pero los policías no le creyeron y determinaron que un hombre se la había llevado. El caso sigue sin ser resuelto hasta el día de hoy. Ahora, Hae Young trabaja en la misma estación de policía donde él trató de que los investigadores le creyeran cuando era niño, entonces un día sale de la estación y escucha que alguien le habla, mira a su alrededor y encuentra un walkie-talkie donde se escucha la voz del detective Lee Jae Han (Cho Jin Woong) que lo llama. Pero Jae Han pertenece a varias décadas atrás y está investigando la muerte de Yoon Jung, la amiga de Young. Cha Soo Hyun (Kim Hye Soo) era un novato en la época de Jae Han y ahora es un experimentado detective. ¿Podrá este inesperado trío trabajar conjuntamente para solucionar antiguos casos sin resolver comunicándose a través del walkie-talkie?",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zMVcQIAAAyBgJNEZ4EY2gkd4HCJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png"
+    },
+    {
+      "id": "tmdb:88408",
+      "type": "series",
+      "name": "The New Pope",
+      "ids": {
+        "tmdb": 88408
+      },
+      "overview": "Mientras el Papa Pío XIII se cuelga entre la vida y la muerte en coma, el aristócrata inglés moderado encantador y sofisticado Sir John Brannox se coloca en el trono papal y adopta el nombre de Juan Pablo III. Una secuela de \"El joven papa\".",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/rYjykBwLClPb0WeUP94f3EHZA4k.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hFdKojjQ5hwrBCudqIOuEV0eIm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cRMmsjzYyBujbgkeIr7XXUKzlJt.png"
+    },
+    {
+      "id": "tmdb:11988",
+      "type": "series",
+      "name": "Cimarron",
+      "ids": {
+        "tmdb": 11988
+      },
+      "overview": "Aventuras del sheriff Jim Crown que impone la ley en Cimarron Strip, una región desértica entre Kansas y Oklahoma habitada por granjeros que limita con territorio indio. Siempre a su lado dispuestos a ayudarle están Mac Gregor, su ayudante y Francis Wilde, un joven fotógrafo.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/mUoY0LW5VGsX9ZjvjMGqGpPWkVZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9Plb553aDScLgQlkbJ0ZUo95VFn.jpg"
     },
     {
       "id": "tmdb:19521",
@@ -572,33 +588,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/4p33LLmcVqYRDk7rTQWohvo5yFv.png"
     },
     {
-      "id": "tmdb:85912",
-      "type": "series",
-      "name": "Connie la Vaquita",
-      "ids": {
-        "tmdb": 85912
-      },
-      "overview": "Cuenta la historia de una joven vaca que vive en un establo con una simpática vaca lechera y con un impresionante toro. En cada episodio, Connnie se aleja de sus padres y sale en busca de aventuras, con su inocencia, su despreocupación, su curiosidad, y su asombro tan típicos de un niño que descubre el mundo. En la campiña verde, junto a un río, en el bosque, junto a sus amigos, Connie se encontrará en situaciones insólitas que le permitirán conocer y apreciar mejor su universo.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/qUyKs2wZQqjaqKUr8d9V6nrx3KU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x5iQ3lXBCmU9e3giw18z2FUyEui.jpg"
-    },
-    {
-      "id": "tmdb:36134",
-      "type": "series",
-      "name": "La espada sagrada",
-      "ids": {
-        "tmdb": 36134
-      },
-      "overview": "Tras una guerra legendaria, el mundo se recupera de las heridas de tal contienda. Cecily, una aspirante a la Orden de caballeros, busca un herrero legendario capaz de arreglar su espada, dada por su padre que se dice que contiene un poder sagrado oculto. Cecily descubre a Luke, aparentemente un joven herrero, pero capaz de acabar con unos bandidos con una destreza sin igual y blandiendo una misteriosa y poderosa espada. Cecily descubre que solo Luke será capaz de arreglar su espada y restablecer su poder mágico.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/q8u8G9sYg4oXXwCBaRBEwECwsNb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bqNBsx4nkVxaGowlke5NVI7cxlc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/k62DxoZyZhOwScUuUXBihy7G7r9.png"
-    },
-    {
       "id": "tmdb:62699",
       "type": "series",
       "name": "The Young Pope",
@@ -611,62 +600,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dsJbktyPnMzMKlVxPh4Xf2VRz81.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/Awx7qSo8ObyLxAzzLWRJXVkSCN.png"
-    },
-    {
-      "id": "tmdb:224942",
-      "type": "series",
-      "name": "Esto no es un misterioso asesinato",
-      "ids": {
-        "tmdb": 224942
-      },
-      "overview": "Ambientada en los extravagantes años 30, reúne a artistas surrealistas de renombre mundial, incluidos los jóvenes Dalí y Magritte, que se encuentran atrapados en una lujosa mansión con un misterioso asesino en serie suelto.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5N1TuJorGi0avy16ORWkjNbHkeq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e73RZyp6cNlrquOutYJfW80IitP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gR5hMcD6EKdgzCjj1quxLHDb5ec.png"
-    },
-    {
-      "id": "tmdb:4695",
-      "type": "series",
-      "name": "Comando G",
-      "ids": {
-        "tmdb": 4695
-      },
-      "overview": "La Batalla de los Planetas, conocida también como Comando G, es la primera adaptación animada para televisión estadounidense hecha por Sandy Frank; de la serie de anime Kagaku Ninja Tai Gatchaman que narra las aventuras de cinco jóvenes que defienden la Tierra de las amenazas del Espacio Exterior. Esta edición de la serie fue emitida en Estados Unidos en 1978, y tanto el guion como el orden de los episodios del original Gatchaman fueron alterados con una temática similar a Star Wars. También fueron dibujadas nuevas escenas como las del robot 7-Zark-7, inexistente en la versión japonesa.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/6RegsHHJC0oSFnVdvQ5AC9R6MrM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mbeAyto0R5WxAkx7WPMBRX4Yn9x.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d6KeTavWCiaShugh9I6uuJcbxNR.png"
-    },
-    {
-      "id": "tmdb:9156",
-      "type": "series",
-      "name": "Hijos de Dune",
-      "ids": {
-        "tmdb": 9156
-      },
-      "overview": "Miniserie de TV de 3 episodios. Dune, la antigua profecía, se ha cumplido: el mandato del legendario Muad's dib ha transformado milagrosamente las tierras perdidas. Pero como siempre, en La Gran Casa del Imperio siguen surgiendo rumores de conspiración, complots y traiciones. Y cuando Muad's dib ya no tiene el poder para ejercer de emperador, su joven hijo Leto y su hija Ghanima se enfrentan a una posible, y desastrosa, guerra civil en Arrakis, lo que comportaría el caos de la galaxia...",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/qwdJVF530Mjsj1Kjr0MWqAEtDZf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6BCFDHWotlOoPQJ7jGjUWyiITtk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oia2pwK30tVI2iKmcx2vmTcOYW2.png"
-    },
-    {
-      "id": "tmdb:79053",
-      "type": "series",
-      "name": "The Split",
-      "ids": {
-        "tmdb": 79053
-      },
-      "overview": "La abogada especializada en divorcios Hannah (Nicola Walker) se deja el bufete de su familia cuando su propia madre, Ruth (Deborah Findlay), rechaza su promoción. Hannah comienza a trabajar entonces para una vieja firma rival.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/vOxXjqBNGXTjZeYCsEebljiDkLj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xpTJ0rIUwqUalPCcoIb2li7ObrK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/goQoxIei9ncaW63Zi0Lv6UVhFTZ.png"
     },
     {
       "id": "tmdb:211280",
@@ -683,18 +616,87 @@
       "logo": "https://image.tmdb.org/t/p/w500/AjZLPt63GcgQuCXSwWCJMkxNVAH.png"
     },
     {
-      "id": "tmdb:86941",
+      "id": "tmdb:79053",
       "type": "series",
-      "name": "La sangre helada",
+      "name": "The Split",
       "ids": {
-        "tmdb": 86941
+        "tmdb": 79053
       },
-      "overview": "Henry Drax es un arponero y asesino brutal cuya amoralidad ha sido moldeada para adaptarse a la dureza de su mundo, que zarpará en una expedición de caza de ballenas al Ártico con Patrick Sumner, un ex cirujano del ejército deshonrado que se inscribe como médico del barco. Con la esperanza de escapar de los horrores de su pasado, Sumner se encuentra en un viaje desafortunado con un psicópata asesino. En busca de la redención, su historia se convierte en una dura lucha por la supervivencia en el páramo ártico.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
+      "overview": "La abogada especializada en divorcios Hannah (Nicola Walker) se deja el bufete de su familia cuando su propia madre, Ruth (Deborah Findlay), rechaza su promoción. Hannah comienza a trabajar entonces para una vieja firma rival.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/vOxXjqBNGXTjZeYCsEebljiDkLj.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ofcBXiho8eSfL4O14FH7yZxKw28.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/79dWl2vL1ESxhb4tPotW50UDa0l.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/xpTJ0rIUwqUalPCcoIb2li7ObrK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/goQoxIei9ncaW63Zi0Lv6UVhFTZ.png"
+    },
+    {
+      "id": "tmdb:287167",
+      "type": "series",
+      "name": "The Hack",
+      "ids": {
+        "tmdb": 287167
+      },
+      "overview": "Ambientado entre 2002 y 2012, el drama entrelaza hábilmente dos historias de la vida real: el descubrimiento de escuchas telefónicas en el News of the World y, en paralelo, la investigación del asesinato sin resolver del investigador privado Daniel Morgan.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eucYkxvmlIVQlkFLYtxRkEotxfZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mFnPnoxs1xpenRntBYkthPBsoR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8KrL1G9lumHvXfV9I0Htq3DagWS.png"
+    },
+    {
+      "id": "tmdb:36134",
+      "type": "series",
+      "name": "La espada sagrada",
+      "ids": {
+        "tmdb": 36134
+      },
+      "overview": "Tras una guerra legendaria, el mundo se recupera de las heridas de tal contienda. Cecily, una aspirante a la Orden de caballeros, busca un herrero legendario capaz de arreglar su espada, dada por su padre que se dice que contiene un poder sagrado oculto. Cecily descubre a Luke, aparentemente un joven herrero, pero capaz de acabar con unos bandidos con una destreza sin igual y blandiendo una misteriosa y poderosa espada. Cecily descubre que solo Luke será capaz de arreglar su espada y restablecer su poder mágico.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/q8u8G9sYg4oXXwCBaRBEwECwsNb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bqNBsx4nkVxaGowlke5NVI7cxlc.jpg"
+    },
+    {
+      "id": "tmdb:261551",
+      "type": "series",
+      "name": "Infiel",
+      "ids": {
+        "tmdb": 261551
+      },
+      "overview": "Cuando el célebre director David Howard, de 73 años, se reencuentra con su antiguo gran amor, la actriz Marianne Vogler, de 75, se enfrentan a las dolorosas consecuencias de su anterior aventura, no sólo para ellos, sino también para sus familias. Cuarenta años antes, se enamoraron en secreto, ya que Marianne está casada con Markus, el mejor amigo de David.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qkQLwEgRVreY5QfN65aOnBY3ivA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2NwonxUik5EQqFp3OcyrKoyZqru.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gkHGYg1Jzddrj9HEUVbHHTYOSGe.png"
+    },
+    {
+      "id": "tmdb:155243",
+      "type": "series",
+      "name": "Sherwood",
+      "ids": {
+        "tmdb": 155243
+      },
+      "overview": "Dos asesinatos destrozan una comunidad ya fracturada que conduce a una de las mayores persecuciones en la historia británica y amenazan con inflamar las divisiones históricas provocadas durante la huelga de mineros tres décadas antes.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/rxjrfxGVzLNqvi4GSi7wuAGcJWg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ipAhFdSnD6ER57xwWABU0v32gua.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ivbGQRs6HIaAUfgLSMSqVAsQo0p.png"
+    },
+    {
+      "id": "tmdb:232865",
+      "type": "series",
+      "name": "SHAMAN KING FLOWERS",
+      "ids": {
+        "tmdb": 232865
+      },
+      "overview": "Después de que Hao se convirtiera en Shaman King y cerrara el telón de la Shaman Fight, ya han pasado 14 años en Funbari Hill. Ahora todo gira en torno a Hana Asakura, quien es el hijo de Yoh Asakura, el guerrero legendario que luchó en la batalla final contra su hermano Hao. Hana lleva una vida un tanto frustrante, ya que no se le permite mostrar sus talentos como chamán. Sin embargo, todo cambia cuando dos personas que dicen ser miembros de otra rama de la familia Asakura aparecen ante él. ¡Aquí comienza la historia de la próxima generación de chamanes!",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/rMViGZqSsj58BEWdGkYWvgKF9Mm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcQNx9yddJi807HC62fF5A5kjiv.png"
     }
   ]
 }
