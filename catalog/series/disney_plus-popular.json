@@ -43,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
     },
     {
-      "id": "tmdb:456",
-      "type": "series",
-      "name": "Los Simpson",
-      "ids": {
-        "tmdb": 456
-      },
-      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png"
-    },
-    {
       "id": "tmdb:4057",
       "type": "series",
       "name": "Mentes criminales",
@@ -69,6 +55,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8WnRjNHK3N59RnsmVoUHMuTPAUF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png"
+    },
+    {
+      "id": "tmdb:456",
+      "type": "series",
+      "name": "Los Simpson",
+      "ids": {
+        "tmdb": 456
+      },
+      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pVgWkfmPG26Tz30KI9JEGps2Wew.png"
     },
     {
       "id": "tmdb:1434",
@@ -127,34 +127,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
-      "id": "tmdb:95479",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
-      "ids": {
-        "tmdb": 95479
-      },
-      "overview": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
-    },
-    {
-      "id": "tmdb:284725",
-      "type": "series",
-      "name": "No aptos para el trabajo",
-      "ids": {
-        "tmdb": 284725
-      },
-      "overview": "Cinco veinteañeros, obsesionados con su trabajo, luchan por alcanzar el éxito profesional y, si les queda tiempo, la felicidad personal en el barrio más glamuroso de Manhattan, Murray Hill.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/jNCxoCmUA3RSru461HaygE1HJrh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sUNGzn3NKNZ9LQzTuilEiQt1lN8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aafopkzSOzXuRTGDmyv22xo5VSu.png"
-    },
-    {
       "id": "tmdb:1421",
       "type": "series",
       "name": "Modern Family",
@@ -181,6 +153,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mu1zFlKK7pQbGbkCHDyRRQ6RMRW.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
+    },
+    {
+      "id": "tmdb:95479",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "ids": {
+        "tmdb": 95479
+      },
+      "overview": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/80eHrBl03xWcQYecoTO1LlkXpN1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zAfK8cVjJiYUsVLDkHoIgxJh319.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
+    },
+    {
+      "id": "tmdb:1973",
+      "type": "series",
+      "name": "24",
+      "ids": {
+        "tmdb": 1973
+      },
+      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
     },
     {
       "id": "tmdb:1419",
@@ -211,20 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1lJblSeha4X3af5E9PWCLQb1gqM.png"
     },
     {
-      "id": "tmdb:1407",
-      "type": "series",
-      "name": "Homeland",
-      "ids": {
-        "tmdb": 1407
-      },
-      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
-    },
-    {
       "id": "tmdb:693",
       "type": "series",
       "name": "Mujeres desesperadas",
@@ -253,18 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/pcelqDq4FbhmVTePUje5Y8S2fWD.png"
     },
     {
-      "id": "tmdb:1973",
+      "id": "tmdb:1407",
       "type": "series",
-      "name": "24",
+      "name": "Homeland",
       "ids": {
-        "tmdb": 1973
+        "tmdb": 1407
       },
-      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nkvltF55rHGtecNRZEufAAuxjUD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     },
     {
       "id": "tmdb:4607",
@@ -281,18 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
     },
     {
-      "id": "tmdb:75219",
+      "id": "tmdb:284725",
       "type": "series",
-      "name": "9-1-1",
+      "name": "No aptos para el trabajo",
       "ids": {
-        "tmdb": 75219
+        "tmdb": 284725
       },
-      "overview": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+      "overview": "Cinco veinteañeros, obsesionados con su trabajo, luchan por alcanzar el éxito profesional y, si les queda tiempo, la felicidad personal en el barrio más glamuroso de Manhattan, Murray Hill.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/jNCxoCmUA3RSru461HaygE1HJrh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ygOaYjqTeGZEHprKh2lWzPc1RdO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sUNGzn3NKNZ9LQzTuilEiQt1lN8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aafopkzSOzXuRTGDmyv22xo5VSu.png"
     },
     {
       "id": "tmdb:71728",
@@ -307,6 +293,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+    },
+    {
+      "id": "tmdb:75219",
+      "type": "series",
+      "name": "9-1-1",
+      "ids": {
+        "tmdb": 75219
+      },
+      "overview": "Se centra en las vidas y las carreras de los que reciben las llamadas de emergencia: policías, paramédicos, bomberos, gente que arriesga su vida para salvar a otros.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/n3IbaTXhPsnP68I5wsoKe7vchgS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ygOaYjqTeGZEHprKh2lWzPc1RdO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png"
+    },
+    {
+      "id": "tmdb:211288",
+      "type": "series",
+      "name": "Tracker",
+      "ids": {
+        "tmdb": 211288
+      },
+      "overview": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w7EPJ3cI8vcaopcYb48yt1TJGvO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png"
     },
     {
       "id": "tmdb:226637",
@@ -337,20 +351,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/79gY0YpwZWpi7qaD5gB0Sj7u2I3.svg"
     },
     {
-      "id": "tmdb:30984",
-      "type": "series",
-      "name": "Bleach",
-      "ids": {
-        "tmdb": 30984
-      },
-      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o70efegfXs54CWmstnk1MXnFJ8I.png"
-    },
-    {
       "id": "tmdb:4087",
       "type": "series",
       "name": "Expediente X",
@@ -365,32 +365,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
     },
     {
-      "id": "tmdb:211288",
+      "id": "tmdb:30984",
       "type": "series",
-      "name": "Tracker",
+      "name": "Bleach",
       "ids": {
-        "tmdb": 211288
+        "tmdb": 30984
       },
-      "overview": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+      "overview": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w7EPJ3cI8vcaopcYb48yt1TJGvO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o70efegfXs54CWmstnk1MXnFJ8I.png"
     },
     {
-      "id": "tmdb:1100",
+      "id": "tmdb:2122",
       "type": "series",
-      "name": "Cómo conocí a vuestra madre",
+      "name": "El rey de la colina",
       "ids": {
-        "tmdb": 1100
+        "tmdb": 2122
       },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
     },
     {
       "id": "tmdb:1409",
@@ -407,6 +407,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
+      "id": "tmdb:1100",
+      "type": "series",
+      "name": "Cómo conocí a vuestra madre",
+      "ids": {
+        "tmdb": 1100
+      },
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+    },
+    {
       "id": "tmdb:4586",
       "type": "series",
       "name": "Las chicas Gilmore",
@@ -419,6 +433,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
+      "id": "tmdb:12225",
+      "type": "series",
+      "name": "Peppa Pig",
+      "ids": {
+        "tmdb": 12225
+      },
+      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
+    },
+    {
+      "id": "tmdb:32726",
+      "type": "series",
+      "name": "Bob's Burgers",
+      "ids": {
+        "tmdb": 32726
+      },
+      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
+    },
+    {
+      "id": "tmdb:194",
+      "type": "series",
+      "name": "Policías de Nueva York",
+      "ids": {
+        "tmdb": 194
+      },
+      "overview": "Serie sobre una comisaría de policía ambientada en las calles de Nueva York. \"NYPD Blue\" se podría considerar la serie que tomó el relevo a \"Canción triste de Hill Street\" (Hill Street Blues), serie también creada por Steven Bochco.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/bt3D7269j3lcbWjAR7rbPCHkM10.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gsY8jVULNvFvkNmTDDahCE6B6dx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPcTIn0LNt5eRfxZfZn6fcwQ9NJ.png"
     },
     {
       "id": "tmdb:69478",
@@ -477,34 +533,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
     },
     {
-      "id": "tmdb:32726",
-      "type": "series",
-      "name": "Bob's Burgers",
-      "ids": {
-        "tmdb": 32726
-      },
-      "overview": "Bob’s Burgers narra la historia de los Belcher, una familia disfuncional que regenta una hamburguesería situada entre un crematorio y la sede de organización que lucha por los derechos de los animales. En el día de su gran reapertura reciben la visita de unos inspectores de sanidad que investigan el rumor esparcido por Louise, la hija pequeña de Bob, de que en el restaurante servían carne humana proveniente del crematorio vecino con el único objetivo de superar a una compañera de clase que tiene un tío torero en España. Y lo que empieza siendo un desastre se acaba convirtiendo en todo un negocio.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h8hQS8Y37efmzNlW6EzVnsaKff5.png"
-    },
-    {
-      "id": "tmdb:2122",
-      "type": "series",
-      "name": "El rey de la colina",
-      "ids": {
-        "tmdb": 2122
-      },
-      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
-    },
-    {
       "id": "tmdb:1403",
       "type": "series",
       "name": "Marvel Agentes de S.H.I.E.L.D.",
@@ -517,20 +545,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xS2zKohRIjQkve10k9V877RUecp.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ghtYRRTbDWuC723W4SkZo74XzTB.png"
-    },
-    {
-      "id": "tmdb:12225",
-      "type": "series",
-      "name": "Peppa Pig",
-      "ids": {
-        "tmdb": 12225
-      },
-      "overview": "La protagonista de esta serie es Peppa, una cerdita de rasgos antropomórficos que vive con su hermanito George y sus padres: Mamá (Mummy) Pig y Papá (Daddy) Pig. Tiene como escenario principal su hogar, es ahí donde ocurren las tramas de los episodios. En algunos episodios, se muestra a su familia saliendo de casa, paseando con su coche, en casa de sus amigos o estando ya en otro lugar.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bosCVIUEG4S5v0SDcuNBnwcMB1J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
       "id": "tmdb:1877",
@@ -547,60 +561,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
     },
     {
-      "id": "tmdb:74016",
+      "id": "tmdb:1606",
       "type": "series",
-      "name": "The Resident",
+      "name": "Entre fantasmas",
       "ids": {
-        "tmdb": 74016
+        "tmdb": 1606
       },
-      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+      "overview": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/u20Yzj0pYiWkNfVUstpwbsSI9kc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vhw19wsVAoKOxzelYptGj6DAKOM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
-    },
-    {
-      "id": "tmdb:2004",
-      "type": "series",
-      "name": "Malcolm",
-      "ids": {
-        "tmdb": 2004
-      },
-      "overview": "Sitcom familiar que aborda los divertidos problemas y situaciones de una familia americana de clase media en la que el hijo Malcolm parece ser el único sensato... o al menos el único que da señales de cordura. La familia está compuesta por sus neuróticos padres Hal y Lois, el hermano mayor Francis y sus otros dos hermanos, Reese y Dewey.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pXFnagVVpuszQ6mnMkVov27SGe2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
-    },
-    {
-      "id": "tmdb:95",
-      "type": "series",
-      "name": "Buffy, cazavampiros",
-      "ids": {
-        "tmdb": 95
-      },
-      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
-    },
-    {
-      "id": "tmdb:4556",
-      "type": "series",
-      "name": "Scrubs",
-      "ids": {
-        "tmdb": 4556
-      },
-      "overview": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wI9Ozc5by2OVz5J0tPB7JcgjrpO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lqsfTn1iv6sOQ54yKLBbwkYPTAh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
     },
     {
       "id": "tmdb:615",
@@ -617,6 +589,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/6jNQtbazLLAu5gLzW46FP8EGePb.png"
     },
     {
+      "id": "tmdb:2004",
+      "type": "series",
+      "name": "Malcolm",
+      "ids": {
+        "tmdb": 2004
+      },
+      "overview": "Sitcom familiar que aborda los divertidos problemas y situaciones de una familia americana de clase media en la que el hijo Malcolm parece ser el único sensato... o al menos el único que da señales de cordura. La familia está compuesta por sus neuróticos padres Hal y Lois, el hermano mayor Francis y sus otros dos hermanos, Reese y Dewey.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pXFnagVVpuszQ6mnMkVov27SGe2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lAW3bcSJtePpa4n2RGeW9M5rKKs.png"
+    },
+    {
       "id": "tmdb:4194",
       "type": "series",
       "name": "Star Wars: The Clone Wars",
@@ -631,18 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iHBWwRSyTSRIxPCyZ8nkNLc1woz.png"
     },
     {
-      "id": "tmdb:40075",
+      "id": "tmdb:74016",
       "type": "series",
-      "name": "Gravity Falls",
+      "name": "The Resident",
       "ids": {
-        "tmdb": 40075
+        "tmdb": 74016
       },
-      "overview": "Narra las aventuras de los mellizos de 12 años Dipper y Mabel Pines, que ven cómo se desvanecen sus planes para el verano cuando sus padres deciden mandarlos con su tío-abuelo Grunkle Stan, que vive en el corazón de Gravity Falls. Pronto, Dipper y Mabel descubren que en Gravity Falls no todo es lo que parece y confían el uno en el otro y en sus nuevos amigos para descubrir lo que REALMENTE está sucediendo en este extraño lugar...",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
+      "overview": "Un joven e idealista médico comienza su primer día ansioso por salvar vidas. Bajo la supervisión de un duro y brillante residente senior, pronto descubrirá que su profesión no es lo que él imaginaba y que las líneas éticas suelen ser borrosas. \"The Resident\" es un nuevo y provocativo drama médico que revela la verdad de lo que ocurre en los hospitales.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f3Z9rp6Exo5OXon9LNip8dDQpoQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Kp2zHceW4rnvylgILxjGlJfX9p.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vhw19wsVAoKOxzelYptGj6DAKOM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1gKedKj2fi5Ueo6kBlzIr6Oa0mB.png"
     },
     {
       "id": "tmdb:39272",
@@ -659,46 +645,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
     },
     {
-      "id": "tmdb:202555",
+      "id": "tmdb:4556",
       "type": "series",
-      "name": "Daredevil: Born Again",
+      "name": "Scrubs",
       "ids": {
-        "tmdb": 202555
+        "tmdb": 4556
       },
-      "overview": "Matt Murdock, un abogado ciego con habilidades super desarrolladas lucha por la justicia desde su ajetreado bufete mientras el antiguo jefe mafioso Wilson Fisk emprende una carrera política en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos se ven abocados a un enfrentamiento inevitable.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",
+      "overview": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bmSrYSzrdVtZxh81hHptNHGsPe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ioEMrT3ruiw8GZ4ytPWVmStDiKY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wI9Ozc5by2OVz5J0tPB7JcgjrpO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7GUXPlMq6cX8EAyBcriNhUyHRc.png"
     },
     {
-      "id": "tmdb:1606",
+      "id": "tmdb:40075",
       "type": "series",
-      "name": "Entre fantasmas",
+      "name": "Gravity Falls",
       "ids": {
-        "tmdb": 1606
+        "tmdb": 40075
       },
-      "overview": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/u20Yzj0pYiWkNfVUstpwbsSI9kc.jpg",
+      "overview": "Narra las aventuras de los mellizos de 12 años Dipper y Mabel Pines, que ven cómo se desvanecen sus planes para el verano cuando sus padres deciden mandarlos con su tío-abuelo Grunkle Stan, que vive en el corazón de Gravity Falls. Pronto, Dipper y Mabel descubren que en Gravity Falls no todo es lo que parece y confían el uno en el otro y en sus nuevos amigos para descubrir lo que REALMENTE está sucediendo en este extraño lugar...",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lqsfTn1iv6sOQ54yKLBbwkYPTAh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f3Z9rp6Exo5OXon9LNip8dDQpoQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Kp2zHceW4rnvylgILxjGlJfX9p.png"
     },
     {
-      "id": "tmdb:194",
+      "id": "tmdb:95",
       "type": "series",
-      "name": "Policías de Nueva York",
+      "name": "Buffy, cazavampiros",
       "ids": {
-        "tmdb": 194
+        "tmdb": 95
       },
-      "overview": "Serie sobre una comisaría de policía ambientada en las calles de Nueva York. \"NYPD Blue\" se podría considerar la serie que tomó el relevo a \"Canción triste de Hill Street\" (Hill Street Blues), serie también creada por Steven Bochco.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/bt3D7269j3lcbWjAR7rbPCHkM10.jpg",
+      "overview": "Buffy y su madre se mudan desde Los Ángeles a Sunnydale. En el subsuelo del pueblo habita el Maestro, el más antiguo y poderoso vampiro que existe. El Maestro está atrapado en el punto místico llamado La Boca del Infierno, que él trato de abrir cuando, por causa de un terremoto, quedó atrapado, hace décadas. En Sunnydale, Buffy conoce a Willow y Xander, que se convierten en sus amigos y que, sin querer, la tendrán que ayudar en su lucha contra el Maestro. Además esta Giles, el bibliotecario de la escuela, que es un Vigilante u Observador, que desde siempre se han dedicado a entrenar y guiar a las Cazadoras, pero sin intervenir directamente en la lucha contra los vampiros. Además Buffy conoce un misterioso aliado, de nombre Angel, del que se enamora. Pero es un amor imposible, pues Angel es un vampiro, aunque por una maldición gitana recobró su alma y ahora lucha contra ellos.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/prtfjCpoIvKZ7IMFzjfQM6I04mk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gsY8jVULNvFvkNmTDDahCE6B6dx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPcTIn0LNt5eRfxZfZn6fcwQ9NJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ixW1A4HqIQZk9xdK6s5by0cTQwr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
+    },
+    {
+      "id": "tmdb:1417",
+      "type": "series",
+      "name": "Glee",
+      "ids": {
+        "tmdb": 1417
+      },
+      "overview": "Un profesor optimista intenta inspirar a un grupo de artistas del montón para llevar el club de la secundaria McKinley a una competencia y así conquistar la gloria nuevamente.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/hykXzftTZwYj6fyxr3liq1E3M3v.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/abHM9vCu4Jo6B4AYNxfdxJGWE9R.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kHG3laaUH7Vvho2Z4YarxsHs0rE.png"
     }
   ]
 }
