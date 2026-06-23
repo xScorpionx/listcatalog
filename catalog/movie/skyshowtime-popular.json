@@ -43,34 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
     },
     {
-      "id": "tmdb:240",
-      "type": "movie",
-      "name": "El Padrino Parte II",
-      "ids": {
-        "tmdb": 240
-      },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
-      "id": "tmdb:47971",
-      "type": "movie",
-      "name": "xXx: Reactivated",
-      "ids": {
-        "tmdb": 47971
-      },
-      "overview": "La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU. Entonces se ve obligado a colaborar como agente encubierto participando en numerosos episodios de riesgo. Tras un fatídico incidente, Xander es dado por muerto. Pero ahora, vuelve a la acción de incógnita acompañado de su agente instructor Augustus Gibbons.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/rc830XBY2h8HBtHeISpR9qb2PU6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ttmibq0OOOc2B4pE9CBKssU2MA.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xPFnpuRcW1gLY6ka8QAeUboiikz.png"
-    },
-    {
       "id": "tmdb:497",
       "type": "movie",
       "name": "La milla verde",
@@ -83,6 +55,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/umunWbkQ6xMWlGOpp4Tt0QuhMSz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rr2nQMagxwQ3P37FLF3P3teYvtj.png"
+    },
+    {
+      "id": "tmdb:240",
+      "type": "movie",
+      "name": "El Padrino Parte II",
+      "ids": {
+        "tmdb": 240
+      },
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
     },
     {
       "id": "tmdb:98",
@@ -99,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
+      "id": "tmdb:106646",
+      "type": "movie",
+      "name": "El lobo de Wall Street",
+      "ids": {
+        "tmdb": 106646
+      },
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+    },
+    {
       "id": "tmdb:1087192",
       "type": "movie",
       "name": "Cómo entrenar a tu dragón",
@@ -113,18 +113,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM9COozSFJqIGXhNWiwuitxk6QP.png"
     },
     {
-      "id": "tmdb:106646",
+      "id": "tmdb:47971",
       "type": "movie",
-      "name": "El lobo de Wall Street",
+      "name": "xXx: Reactivated",
       "ids": {
-        "tmdb": 106646
+        "tmdb": 47971
       },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "overview": "La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU. Entonces se ve obligado a colaborar como agente encubierto participando en numerosos episodios de riesgo. Tras un fatídico incidente, Xander es dado por muerto. Pero ahora, vuelve a la acción de incógnita acompañado de su agente instructor Augustus Gibbons.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/rc830XBY2h8HBtHeISpR9qb2PU6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6ttmibq0OOOc2B4pE9CBKssU2MA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xPFnpuRcW1gLY6ka8QAeUboiikz.png"
     },
     {
       "id": "tmdb:2105",
@@ -155,20 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
     },
     {
-      "id": "tmdb:564",
-      "type": "movie",
-      "name": "La momia",
-      "ids": {
-        "tmdb": 564
-      },
-      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
-    },
-    {
       "id": "tmdb:991494",
       "type": "movie",
       "name": "Bob Esponja: Una aventura pirata",
@@ -181,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qR2SN2pGWltdrWMup8I4tES6HKe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vnh36I9Ex88UwRmeIqqih0AQD9v.png"
+    },
+    {
+      "id": "tmdb:564",
+      "type": "movie",
+      "name": "La momia",
+      "ids": {
+        "tmdb": 564
+      },
+      "overview": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wN5ECzhPYnphWKPvqrVVmQnGUrC.png"
     },
     {
       "id": "tmdb:402431",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/haXR5xFAo89zRHcKkwEeunss7YV.png"
     },
     {
-      "id": "tmdb:953",
+      "id": "tmdb:798645",
       "type": "movie",
-      "name": "Madagascar",
+      "name": "The Running Man",
       "ids": {
-        "tmdb": 953
+        "tmdb": 798645
       },
-      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/iw4akkBscNvCLJZIbMT3PTc7csP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/c5JmwBRLm1Mb2U8m1C1JYbNoOnX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
     },
     {
       "id": "tmdb:9502",
@@ -239,18 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ykrOjR8kwwQ03QPfHSHkfetw8vu.png"
     },
     {
-      "id": "tmdb:798645",
+      "id": "tmdb:953",
       "type": "movie",
-      "name": "The Running Man",
+      "name": "Madagascar",
       "ids": {
-        "tmdb": 798645
+        "tmdb": 953
       },
-      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/iw4akkBscNvCLJZIbMT3PTc7csP.jpg",
+      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c5JmwBRLm1Mb2U8m1C1JYbNoOnX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
     },
     {
       "id": "tmdb:1175942",
@@ -267,20 +267,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kcsudLBu2OKcdJrlkC2gFLU1DgU.png"
     },
     {
-      "id": "tmdb:217",
-      "type": "movie",
-      "name": "Indiana Jones y el reino de la calavera de cristal",
-      "ids": {
-        "tmdb": 217
-      },
-      "overview": "Indiana Jones y el joven Mutt se proponen encontrar la Calavera de Cristal de Akator. Los agentes soviéticos tienen ese mismo objetivo. Liderados por la bella Irina Spalko, creen que el artilugio ayudará a su país a dominar el mundo si consiguen descifrar su secreto.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/caC98g0VyWVztBStLu46rpKlbGw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/72AYG1Muic6pDyzwi2QLGHVf5QX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cqOjP9jcWl7e73JD69TRDqsvHgp.png"
-    },
-    {
       "id": "tmdb:168259",
       "type": "movie",
       "name": "Fast & Furious 7",
@@ -293,20 +279,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uONm0y5H1P3VCOVIH7sOeD2Vc0S.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3l3JKL4SmvKY8DmIMdgnSXTMJAZ.png"
-    },
-    {
-      "id": "tmdb:214756",
-      "type": "movie",
-      "name": "Ted 2",
-      "ids": {
-        "tmdb": 214756
-      },
-      "overview": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sabbmaIKLDg13XUsmimM6jbrPfX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNJR287LWbqdhz6WWmb0JtnMd8J.png"
     },
     {
       "id": "tmdb:44896",
@@ -337,6 +309,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/mMeby1pkw0siaDjtvGtX4LyXtuF.png"
     },
     {
+      "id": "tmdb:214756",
+      "type": "movie",
+      "name": "Ted 2",
+      "ids": {
+        "tmdb": 214756
+      },
+      "overview": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sabbmaIKLDg13XUsmimM6jbrPfX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNJR287LWbqdhz6WWmb0JtnMd8J.png"
+    },
+    {
       "id": "tmdb:10191",
       "type": "movie",
       "name": "Cómo entrenar a tu dragón",
@@ -365,6 +351,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
     },
     {
+      "id": "tmdb:85",
+      "type": "movie",
+      "name": "En busca del arca perdida",
+      "ids": {
+        "tmdb": 85
+      },
+      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+      "year": 1981,
+      "poster": "https://image.tmdb.org/t/p/w342/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
+    },
+    {
       "id": "tmdb:72105",
       "type": "movie",
       "name": "Ted",
@@ -377,6 +377,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ykO79pYSsQo1hg4SmMmAzoKryxp.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2Sy2GTJ77hMqObHsFlUkfY2CqtJ.png"
+    },
+    {
+      "id": "tmdb:217",
+      "type": "movie",
+      "name": "Indiana Jones y el reino de la calavera de cristal",
+      "ids": {
+        "tmdb": 217
+      },
+      "overview": "Indiana Jones y el joven Mutt se proponen encontrar la Calavera de Cristal de Akator. Los agentes soviéticos tienen ese mismo objetivo. Liderados por la bella Irina Spalko, creen que el artilugio ayudará a su país a dominar el mundo si consiguen descifrar su secreto.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/caC98g0VyWVztBStLu46rpKlbGw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/72AYG1Muic6pDyzwi2QLGHVf5QX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqOjP9jcWl7e73JD69TRDqsvHgp.png"
     },
     {
       "id": "tmdb:82702",
@@ -393,88 +407,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/h7GNN2OHNIQDNoD5oChjCBJcRku.png"
     },
     {
-      "id": "tmdb:14869",
+      "id": "tmdb:166428",
       "type": "movie",
-      "name": "G.I. Joe",
+      "name": "Cómo entrenar a tu dragón 3",
       "ids": {
-        "tmdb": 14869
+        "tmdb": 166428
       },
-      "overview": "G. I. Joe es el nombre en clave de una fuerza especial altamente entrenada cuya misión fundamental es defender la libertad humana y la paz mundial. Los valerosos Joes son hombres y mujeres de coraje, dueños de una mezcla dinámica de talentos especiales, personalidad e ingenuidad. Dotados de algunas de las armas más sofisticadas que puedan concebirse, estos individuos constituyen la fuerza más formidable de combate del mundo.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/55BMS8gGhXhhVYEDnM0ktRgQNF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z94ZalAiY6tj89JBHvY99oyOBnX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vpOv155E245CVFB4aKPAW8SXGex.png"
-    },
-    {
-      "id": "tmdb:85",
-      "type": "movie",
-      "name": "En busca del arca perdida",
-      "ids": {
-        "tmdb": 85
-      },
-      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
-      "year": 1981,
-      "poster": "https://image.tmdb.org/t/p/w342/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
-    },
-    {
-      "id": "tmdb:61979",
-      "type": "movie",
-      "name": "Tres metros sobre el cielo",
-      "ids": {
-        "tmdb": 61979
-      },
-      "overview": "En Barcelona, dos jóvenes que pertenecen a mundos opuestos se conocen. Ella, la dulce Babi, es una chica de clase alta que vive en un entorno tan protegido como poco excitante. Él, Hugo, conocido como el duro \"H\", es un chico impulsivo e irresponsable, aficionado a las peleas y a las carreras ilegales de motos. Esta es la crónica de un amor inicialmente imposible que arrastrará a ambos a un frenético viaje iniciático a través del cual descubrirán el amor.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ks0eLnkf9ARvL51aYjyjgC9I38f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uh1tfUH7CIXly652qKTzlbSfj2.png"
-    },
-    {
-      "id": "tmdb:270946",
-      "type": "movie",
-      "name": "Los pingüinos de Madagascar",
-      "ids": {
-        "tmdb": 270946
-      },
-      "overview": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qS1Kr7kVYSeABMbJdmAiYVPOI1f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
-    },
-    {
-      "id": "tmdb:384018",
-      "type": "movie",
-      "name": "Fast & Furious: Hobbs & Shaw",
-      "ids": {
-        "tmdb": 384018
-      },
-      "overview": "Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.",
+      "overview": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
       "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/3KHGWvWDfMa8enQqezGim3aMBQw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tJhuEE69f5q52ybsbH65fnXEEEK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nATRKWe94Og0Rc7nKMTnIXgftur.png"
-    },
-    {
-      "id": "tmdb:353081",
-      "type": "movie",
-      "name": "Misión: Imposible - Fallout",
-      "ids": {
-        "tmdb": 353081
-      },
-      "overview": "En ocasiones, hasta las mejores intenciones pueden volverse en contra. Después de una misión fallida, Ethan Hunt y su equipo IMF, junto con algunos aliados conocidos, se enfrentarán a una nueva carrera contrarreloj.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3FuCa2MRZ1Eq7fbbu0O42wQeW3z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/49BHz6Yik2BWtZBxk2XQx7LfQQz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uLjBhiiaJqUG6orfHISQOvKktDk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dnCCeM9t7cShxrbNmmSIw1S8LwR.png"
     },
     {
       "id": "tmdb:351286",
@@ -491,18 +435,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/p3p1L8acukXzeE1kEMNxG44WZHf.png"
     },
     {
-      "id": "tmdb:177677",
+      "id": "tmdb:384018",
       "type": "movie",
-      "name": "Misión imposible: Nación secreta",
+      "name": "Fast & Furious: Hobbs & Shaw",
       "ids": {
-        "tmdb": 177677
+        "tmdb": 384018
       },
-      "overview": "Con la FMI disuelta y Ethan Hunt abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados. Estos grupos están empeñados en crear un nuevo orden mundial mediante una serie de ataques terroristas cada vez más graves. Ethan reúne a su equipo y une sus fuerzas con la agente británica renegada Ilsa Faust, quien puede que sea o no miembro de esta nación secreta, mientras el grupo se va enfrentando a su misión más imposible hasta la fecha…",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
+      "overview": "Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3KHGWvWDfMa8enQqezGim3aMBQw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nstLr81h4SuEd6oRLEJYHeYVYKF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6NmUcfuRfzHaSnS1SEZc6g27q4A.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tJhuEE69f5q52ybsbH65fnXEEEK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nATRKWe94Og0Rc7nKMTnIXgftur.png"
     },
     {
       "id": "tmdb:242",
@@ -519,32 +463,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
     },
     {
-      "id": "tmdb:2770",
+      "id": "tmdb:1035259",
       "type": "movie",
-      "name": "American Pie 2",
+      "name": "Agárralo como puedas",
       "ids": {
-        "tmdb": 2770
+        "tmdb": 1035259
       },
-      "overview": "Jim (Jason Biggs) y sus amigos se reúnen en una casa de la playa después de su primer año de universidad. Allí, Jim busca mejorar sus habilidades sexuales con la ayuda de Michelle (Alyson Hannigan), su antigua cita del baile de graduación. Mientras tanto, Kevin (Thomas Ian Nicholas) intenta recuperar a Vicky (Tara Reid), Oz (Chris Klein) mantiene una relación a distancia con Heather (Mena Suvari), Finch (Eddie Kaye Thomas) practica el tantra y Stifler (Seann William Scott) hace de las suyas con sus bromas y su lujuria. Entre risas, líos y situaciones embarazosas, los amigos planean organizar la fiesta más grande de sus vidas.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/1EGEt2tDnfzta5eCS5EEofOibqX.jpg",
+      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l1XGIbAKHc2FeqORRFcke5Jj6vy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zGBjrX8Ali3GRkdLE8qVjFW0MmM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pUuMSzDBBXK6OBXlmhxJnHnrcej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
     },
     {
-      "id": "tmdb:166428",
+      "id": "tmdb:270946",
       "type": "movie",
-      "name": "Cómo entrenar a tu dragón 3",
+      "name": "Los pingüinos de Madagascar",
       "ids": {
-        "tmdb": 166428
+        "tmdb": 270946
       },
-      "overview": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/rhnoAReqO3Xoe6GbJhT3409lnq8.jpg",
+      "overview": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uLjBhiiaJqUG6orfHISQOvKktDk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dnCCeM9t7cShxrbNmmSIw1S8LwR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qS1Kr7kVYSeABMbJdmAiYVPOI1f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
     },
     {
       "id": "tmdb:454626",
@@ -561,6 +505,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/nNvtExR7duAslE6TN9ojx590jMC.png"
     },
     {
+      "id": "tmdb:61979",
+      "type": "movie",
+      "name": "Tres metros sobre el cielo",
+      "ids": {
+        "tmdb": 61979
+      },
+      "overview": "En Barcelona, dos jóvenes que pertenecen a mundos opuestos se conocen. Ella, la dulce Babi, es una chica de clase alta que vive en un entorno tan protegido como poco excitante. Él, Hugo, conocido como el duro \"H\", es un chico impulsivo e irresponsable, aficionado a las peleas y a las carreras ilegales de motos. Esta es la crónica de un amor inicialmente imposible que arrastrará a ambos a un frenético viaje iniciático a través del cual descubrirán el amor.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/nNoMfNPnvEzGADXDkP6eJAP81KB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ks0eLnkf9ARvL51aYjyjgC9I38f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uh1tfUH7CIXly652qKTzlbSfj2.png"
+    },
+    {
       "id": "tmdb:87101",
       "type": "movie",
       "name": "Terminator Génesis",
@@ -573,20 +531,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ggQARdvZDNzmXViEkADBo3grlUY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wRNPnhR3AcELk7k0nMuXhm4oanB.png"
-    },
-    {
-      "id": "tmdb:7131",
-      "type": "movie",
-      "name": "Van Helsing",
-      "ids": {
-        "tmdb": 7131
-      },
-      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l5sFfVKqbaIHXJgzSH77viDRVpL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apbB4YyRatrO4MRLyWUXlXagR4K.png"
     },
     {
       "id": "tmdb:49444",
@@ -603,32 +547,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/n52KkzjoXr0WriwE2XTkD36gLLI.png"
     },
     {
-      "id": "tmdb:80321",
+      "id": "tmdb:38055",
       "type": "movie",
-      "name": "Madagascar 3: De marcha por Europa",
+      "name": "Megamind",
       "ids": {
-        "tmdb": 80321
+        "tmdb": 38055
       },
-      "overview": "Alex el león, Marty la cebra, Melman la jirafa y Gloria la hipopótamo están decididos a regresar como sea al Zoo de Central Park en Nueva York. Tras abandonar África, toman un desvío y emergen, literalmente, en Europa, persiguiendo a los pingüinos y chimpancés que se las han arreglado para hacer saltar la banca de un casino de Montecarlo. Pronto, los animales son descubiertos por la capitana Chantel DuBois, una testaruda francesa encargada del control de animales, y a la que no le gusta nada que unos animales del zoo anden sueltos por su ciudad.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
+      "overview": "Megamind es el supervillano más brillante que el mundo haya conocido. Y el que menos éxito tiene. Durante años, ha estado intentando conquistar Metro City por todos los medios posibles. Cada intento constituye un fracaso, por culpa de Metro Man, un héroe invencible hasta que Megamind consigue matarlo. De repente, la vida de Megamind carece de sentido. ¿Qué puede hacer un supervillano sin un superhéroe con el que enfrentarse?. Crear a Titán, un nuevo héroe más fuerte que Metro Man. Pero Titán empieza a pensar que es mucho más divertido ser malo que ser bueno. Además, Titán no se propone conquistar el mundo, sino destruirlo. ¿Podrá derrotar Megamind a su diabólica criatura?",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/1qlvYCBCO0rGEjZcLVRY7LVZUw4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xgmUfp7VcdGdsPAoaGy4ci9XHwo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xInwIUPj03hYRWzAEI180NuuOkq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kNKJ7P3GoHVxjhK38bnnviZm5P2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4SQ3lpZiKYScxDLxwfh2ywE1gCY.png"
     },
     {
-      "id": "tmdb:10527",
+      "id": "tmdb:1007734",
       "type": "movie",
-      "name": "Madagascar 2",
+      "name": "Nadie 2",
       "ids": {
-        "tmdb": 10527
+        "tmdb": 1007734
       },
-      "overview": "Abandonados en las lejanas costas de Madagascar, los neoyorquinos han ideado un plan tan loco que hasta podría funcionar. Con precisión militar, los pingüinos han reparado un viejo avión estrellado. Una vez a bordo, esta improbable tripulación permanece en el aire el tiempo suficiente para aterrizar en el lugar más salvaje de todos: las vastas llanuras de la propia África, donde la tripulación se encuentra por primera vez con seres de su propia especie.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/zYbvSjajQrb2jU9rUo5Mt06stPd.jpg",
+      "overview": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jmL4kRFZHjAqbmP8z6WndM5U6Qv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o4pcrXqki8XVNFtgn3viME5Yyxc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6Z2AR80mj3tSN5TD5PRyNCBMaZh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png"
+    },
+    {
+      "id": "tmdb:177677",
+      "type": "movie",
+      "name": "Misión imposible: Nación secreta",
+      "ids": {
+        "tmdb": 177677
+      },
+      "overview": "Con la FMI disuelta y Ethan Hunt abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados. Estos grupos están empeñados en crear un nuevo orden mundial mediante una serie de ataques terroristas cada vez más graves. Ethan reúne a su equipo y une sus fuerzas con la agente británica renegada Ilsa Faust, quien puede que sea o no miembro de esta nación secreta, mientras el grupo se va enfrentando a su misión más imposible hasta la fecha…",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nstLr81h4SuEd6oRLEJYHeYVYKF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6NmUcfuRfzHaSnS1SEZc6g27q4A.png"
+    },
+    {
+      "id": "tmdb:14869",
+      "type": "movie",
+      "name": "G.I. Joe",
+      "ids": {
+        "tmdb": 14869
+      },
+      "overview": "G. I. Joe es el nombre en clave de una fuerza especial altamente entrenada cuya misión fundamental es defender la libertad humana y la paz mundial. Los valerosos Joes son hombres y mujeres de coraje, dueños de una mezcla dinámica de talentos especiales, personalidad e ingenuidad. Dotados de algunas de las armas más sofisticadas que puedan concebirse, estos individuos constituyen la fuerza más formidable de combate del mundo.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/55BMS8gGhXhhVYEDnM0ktRgQNF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/z94ZalAiY6tj89JBHvY99oyOBnX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vpOv155E245CVFB4aKPAW8SXGex.png"
+    },
+    {
+      "id": "tmdb:353081",
+      "type": "movie",
+      "name": "Misión: Imposible - Fallout",
+      "ids": {
+        "tmdb": 353081
+      },
+      "overview": "En ocasiones, hasta las mejores intenciones pueden volverse en contra. Después de una misión fallida, Ethan Hunt y su equipo IMF, junto con algunos aliados conocidos, se enfrentarán a una nueva carrera contrarreloj.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3FuCa2MRZ1Eq7fbbu0O42wQeW3z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/49BHz6Yik2BWtZBxk2XQx7LfQQz.png"
     },
     {
       "id": "tmdb:629",
@@ -645,46 +631,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/q3Q63qN3ihW09rCvu7WH0akRRMA.png"
     },
     {
-      "id": "tmdb:71552",
+      "id": "tmdb:80321",
       "type": "movie",
-      "name": "American Pie: El reencuentro",
+      "name": "Madagascar 3: De marcha por Europa",
       "ids": {
-        "tmdb": 71552
+        "tmdb": 80321
       },
-      "overview": "Un grupo de viejos amigos vuelven a reunirse. Jim y Michelle siguen felizmente casados, aunque hay una vecina que se ha enamorado de él. Además, la cinta sexual con Nadia se ha convertido en uno de los videos más vistos de Youtube. Por su parte, Oz vive en una mansión de Malibú, pero su novia parece sólo interesada por su dinero. Mientras tanto, la vida de Stifler sigue siendo un desastre. Heather sale con un cirujano que intenta parecer más joven, y Finch, que ha viajado por el mundo, intenta ligar con Trish, una camarera amiga de Michelle.",
+      "overview": "Alex el león, Marty la cebra, Melman la jirafa y Gloria la hipopótamo están decididos a regresar como sea al Zoo de Central Park en Nueva York. Tras abandonar África, toman un desvío y emergen, literalmente, en Europa, persiguiendo a los pingüinos y chimpancés que se las han arreglado para hacer saltar la banca de un casino de Montecarlo. Pronto, los animales son descubiertos por la capitana Chantel DuBois, una testaruda francesa encargada del control de animales, y a la que no le gusta nada que unos animales del zoo anden sueltos por su ciudad.",
       "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/prurn3HioMykwlFMZdfvJ88iPlM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xesvYkBWRncmj2A34lRXmkPaHIJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rdqN7obiPv3Rz5VqAY9PImqV1Aj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xgmUfp7VcdGdsPAoaGy4ci9XHwo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xInwIUPj03hYRWzAEI180NuuOkq.png"
     },
     {
-      "id": "tmdb:1035259",
+      "id": "tmdb:621",
       "type": "movie",
-      "name": "Agárralo como puedas",
+      "name": "Grease",
       "ids": {
-        "tmdb": 1035259
+        "tmdb": 621
       },
-      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+      "overview": "Sandy y Danny han pasado un romántico y maravilloso verano juntos, pero las vacaciones se acabaron y sus caminos se separaron. Al regresar al instituto Rydell, ambos vuelven a encontrarse de manera sorpresiva, pero el problema es que la imagen y actitud de Danny no es la misma que durante el verano: ya no es el encantador y atento chico que encandiló a Sandy, sino alguien engreído e insensible que sólo quiere presumir de duro delante de sus amigos.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/flSy0dexE82TiS6Si2FtulSHk8o.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pUuMSzDBBXK6OBXlmhxJnHnrcej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nfEILeo9gGBj3aeT2tzgHYm7GC4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f92CkhVfO3OkECUqhMXPbTFDszY.png"
     },
     {
-      "id": "tmdb:1007734",
+      "id": "tmdb:7131",
       "type": "movie",
-      "name": "Nadie 2",
+      "name": "Van Helsing",
       "ids": {
-        "tmdb": 1007734
+        "tmdb": 7131
       },
-      "overview": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
+      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Z2AR80mj3tSN5TD5PRyNCBMaZh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pUfTK2KZlHMd5tgxAeCIMjcyjDF.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/l5sFfVKqbaIHXJgzSH77viDRVpL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apbB4YyRatrO4MRLyWUXlXagR4K.png"
+    },
+    {
+      "id": "tmdb:2770",
+      "type": "movie",
+      "name": "American Pie 2",
+      "ids": {
+        "tmdb": 2770
+      },
+      "overview": "Jim (Jason Biggs) y sus amigos se reúnen en una casa de la playa después de su primer año de universidad. Allí, Jim busca mejorar sus habilidades sexuales con la ayuda de Michelle (Alyson Hannigan), su antigua cita del baile de graduación. Mientras tanto, Kevin (Thomas Ian Nicholas) intenta recuperar a Vicky (Tara Reid), Oz (Chris Klein) mantiene una relación a distancia con Heather (Mena Suvari), Finch (Eddie Kaye Thomas) practica el tantra y Stifler (Seann William Scott) hace de las suyas con sus bromas y su lujuria. Entre risas, líos y situaciones embarazosas, los amigos planean organizar la fiesta más grande de sus vidas.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/1EGEt2tDnfzta5eCS5EEofOibqX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/l1XGIbAKHc2FeqORRFcke5Jj6vy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zGBjrX8Ali3GRkdLE8qVjFW0MmM.png"
     },
     {
       "id": "tmdb:56292",
