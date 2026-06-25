@@ -43,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yTwlOYScxmNEHK2RJr1YWRTOEW.png"
     },
     {
-      "id": "tmdb:769",
-      "type": "movie",
-      "name": "Uno de los nuestros",
-      "ids": {
-        "tmdb": 769
-      },
-      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
-    },
-    {
       "id": "tmdb:249397",
       "type": "movie",
       "name": "Nymphomaniac. Volumen 2",
@@ -85,18 +71,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/nZIt74tXcKTFTITpwxVlKLMKYOX.svg"
     },
     {
-      "id": "tmdb:13078",
+      "id": "tmdb:769",
       "type": "movie",
-      "name": "The Babysitters: Las niñeras",
+      "name": "Uno de los nuestros",
       "ids": {
-        "tmdb": 13078
+        "tmdb": 769
       },
-      "overview": "Shirley Lyner (Katherine Waterston) es una joven estudiante que trabaja como niñera para ganar un dinero extra. Pero, tras tener una relación con uno de los padres, comienza a convertirse en dama de compañía de hombres casados.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/dvWjWJZTaHRtMT81bMQk5iCAD4f.jpg",
+      "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rQVt6f7K7nnswAr5xum4Cl1Dhc1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i3oH2d3vBSzUiBa0M54SVXSCB3w.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/x9O4hF8y5gzqw7YY2hWzSl6C88H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
+    },
+    {
+      "id": "tmdb:13333",
+      "type": "movie",
+      "name": "Juego con la muerte",
+      "ids": {
+        "tmdb": 13333
+      },
+      "overview": "Billy es un famoso artista marcial con una prometedora carrera por delante. El Dr. Lamb, el líder de un sindicato que explota a artistas quiere que Billy fiche para él. Pero Billy se niega a firmar el contrato y entonces empieza una guerra sin cuartel entre Billy y el sindicato para conseguir su libertad.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/q3RYlyVA3WNFK1NLPVQeowO6E4x.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/micpqaj9AxGlhGZVNd6UKnjtxH8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qWQG9tk15yzldDyi8l3ruk0uk14.png"
     },
     {
       "id": "tmdb:933260",
@@ -127,6 +127,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     },
     {
+      "id": "tmdb:13078",
+      "type": "movie",
+      "name": "The Babysitters: Las niñeras",
+      "ids": {
+        "tmdb": 13078
+      },
+      "overview": "Shirley Lyner (Katherine Waterston) es una joven estudiante que trabaja como niñera para ganar un dinero extra. Pero, tras tener una relación con uno de los padres, comienza a convertirse en dama de compañía de hombres casados.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/dvWjWJZTaHRtMT81bMQk5iCAD4f.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rQVt6f7K7nnswAr5xum4Cl1Dhc1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i3oH2d3vBSzUiBa0M54SVXSCB3w.png"
+    },
+    {
       "id": "tmdb:796",
       "type": "movie",
       "name": "Crueles intenciones",
@@ -139,20 +153,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oTmEgvCUikntpBbAIrffzaEw3Pq.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/krlYDuBf5Rl99XuZS3jwP8aFSrY.png"
-    },
-    {
-      "id": "tmdb:396535",
-      "type": "movie",
-      "name": "Train to Busan",
-      "ids": {
-        "tmdb": 396535
-      },
-      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pudWZ8z7Rq8MHIddKY3XuH0sAig.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
     },
     {
       "id": "tmdb:389",
@@ -169,20 +169,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qjZjRv255J1D8Ggc1biFaJnwyoq.png"
     },
     {
-      "id": "tmdb:290098",
-      "type": "movie",
-      "name": "La doncella",
-      "ids": {
-        "tmdb": 290098
-      },
-      "overview": "Corea, década de 1930, durante la colonización japonesa. Una joven llamada Sookee es contratada como doncella de una rica mujer japonesa, Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano. Sookee guarda un secreto y con la ayuda de un estafador que se hace pasar por un conde japonés, planea algo para Hideko.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/1CJWo3mJwNEi0RsSZyxbgVFOj8B.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lkW05VRHaCW85CqcldLQ1qPXVEu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
-    },
-    {
       "id": "tmdb:6312",
       "type": "movie",
       "name": "El pacto de los lobos",
@@ -197,18 +183,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/eSOMTBvKAikXLCVtzozXNED2GVZ.png"
     },
     {
-      "id": "tmdb:1075175",
+      "id": "tmdb:396535",
       "type": "movie",
-      "name": "How to Have Sex",
+      "name": "Train to Busan",
       "ids": {
-        "tmdb": 1075175
+        "tmdb": 396535
       },
-      "overview": "Tres adolescentes británicas se van de vacaciones para celebrar sus ritos de iniciación: beber, salir de fiesta y ligar, en lo que debería ser el mejor verano de sus vidas.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/7GDdwWIxc8ainsb0TvC2AIEXTOz.jpg",
+      "overview": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/anomz7b3GQtHPFH34SODDBBIUad.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/woteH4XNNihgGJm1T9dxFN11LYW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yjHdLKRkai4p9DgCUwOigjzukPf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pudWZ8z7Rq8MHIddKY3XuH0sAig.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
+    },
+    {
+      "id": "tmdb:290098",
+      "type": "movie",
+      "name": "La doncella",
+      "ids": {
+        "tmdb": 290098
+      },
+      "overview": "Corea, década de 1930, durante la colonización japonesa. Una joven llamada Sookee es contratada como doncella de una rica mujer japonesa, Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano. Sookee guarda un secreto y con la ayuda de un estafador que se hace pasar por un conde japonés, planea algo para Hideko.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/1CJWo3mJwNEi0RsSZyxbgVFOj8B.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lkW05VRHaCW85CqcldLQ1qPXVEu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rn3XRsaFts7VysRswHxxtIq7ZWY.png"
+    },
+    {
+      "id": "tmdb:32097",
+      "type": "movie",
+      "name": "El diablo probablemente",
+      "ids": {
+        "tmdb": 32097
+      },
+      "overview": "Charles, un joven de veinte años (Antoine Monnier), aparece muerto en el cementerio parisino de Père-Lachaise. ¿Se trata de un suicidio o de un asesinato? Charles vive entre dos amores, Alberte (Tina Irissari) y Edwige (Laetitia Carcano). Inmerso en conversaciones existenciales con su amigo Michel (Henri de Maublanc), desprecia tanto “la felicidad de la tarjeta de crédito” como el compromiso político; no se deja seducir ni por el anarquismo, ni por la militancia ecologista ni por las drogas. Una serie de encuentros casuales le llevan a descubrir en sí mismo el instinto de la autodestrucción...",
+      "year": 1977,
+      "poster": "https://image.tmdb.org/t/p/w342/8y00J2rVtxHntKMukkkzsYKQORe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kW2DwXHPWdsUWgm0VtR8WwZ7QKA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yfwWalcOJakxdIk8gdhMQyOkCNU.png"
     },
     {
       "id": "tmdb:694",
@@ -239,20 +253,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
     },
     {
-      "id": "tmdb:666277",
-      "type": "movie",
-      "name": "Vidas pasadas",
-      "ids": {
-        "tmdb": 666277
-      },
-      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
-    },
-    {
       "id": "tmdb:77",
       "type": "movie",
       "name": "Memento",
@@ -265,6 +265,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
+    },
+    {
+      "id": "tmdb:1075175",
+      "type": "movie",
+      "name": "How to Have Sex",
+      "ids": {
+        "tmdb": 1075175
+      },
+      "overview": "Tres adolescentes británicas se van de vacaciones para celebrar sus ritos de iniciación: beber, salir de fiesta y ligar, en lo que debería ser el mejor verano de sus vidas.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/7GDdwWIxc8ainsb0TvC2AIEXTOz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/woteH4XNNihgGJm1T9dxFN11LYW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yjHdLKRkai4p9DgCUwOigjzukPf.png"
+    },
+    {
+      "id": "tmdb:666277",
+      "type": "movie",
+      "name": "Vidas pasadas",
+      "ids": {
+        "tmdb": 666277
+      },
+      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dgsJA4GnZUo28wMGqYziWqWDsVg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
     },
     {
       "id": "tmdb:519465",
@@ -281,20 +309,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
-      "id": "tmdb:966",
-      "type": "movie",
-      "name": "Los siete magníficos",
-      "ids": {
-        "tmdb": 966
-      },
-      "overview": "Unos bandidos atacan y arrasan cada año las tierras de unos granjeros. Ante esto, varios de ellos deciden buscar a hombres que puedan defenderles. Conseguirán reunir siete hombres, cada uno de los cuales presume de una característica especial.",
-      "year": 1960,
-      "poster": "https://image.tmdb.org/t/p/w342/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8rH4kHm1SOt92YSqTPVgYD2sQho.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rHPrh4Pe7ZjdkBEEF4OHPcBvD6W.png"
-    },
-    {
       "id": "tmdb:861",
       "type": "movie",
       "name": "Desafío total",
@@ -307,62 +321,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/k1S3HiOtghbS7wZeq75LuZ27u6Y.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2toq2EiOyusNhBszjAZEWQId47Z.png"
-    },
-    {
-      "id": "tmdb:14035",
-      "type": "movie",
-      "name": "Los incorregibles albóndigas",
-      "ids": {
-        "tmdb": 14035
-      },
-      "overview": "Tripper, su novia Roxanna, y su amigo Mickey, son los responsables del campamento de verano Northstar, que acaba de abrir sus puertas. El trío se encarga de entrenar a los monitores. Cuando llegan los adolescentes que pasarán allí las vacaciones, Rudy, un chico de 11 años, se siente marginado por sus compañeros. Decide escaparse, y Tripper debe salir en su busca.  Disparatada comedia de desmesurado éxito en su momento. A pesar de su baja calidad artística, contiene algún momento divertido, gracias al talento para la comedia de Bill Murray. Abrió el camino a posteriores películas gamberras destinadas al público adolescente. Tuvo tres secuelas de inferior calidad si cabe.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/khCfHEFzYFXpOeEcuL6Emym8iXr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dvaqh54hbIdLSUeYZA8YFzfke0u.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n2ji2rXgtGkT4GTTHxNP2fHiXyX.png"
-    },
-    {
-      "id": "tmdb:17654",
-      "type": "movie",
-      "name": "District 9",
-      "ids": {
-        "tmdb": 17654
-      },
-      "overview": "Tras la llegada de una enorme nave espacial extraterrestre a Johannesburgo (Sudáfrica), a los alienígenas recién llegados a la Tierra se les obligó a vivir en condiciones penosas como \"refugiados\", en una especie de campo de concentración construido en las afueras la ciudad. Todo empezó unos veinte años atrás, cuando los extraterrestres tomaron el primer contacto con nuestro planeta. Los humanos esperaban un ataque hostil, o un gran avance tecnológico de la raza alienígena. Pero nada de ello sucedió. Los propios extraterrestres eran refugiados de su propio mundo. Sin saber bien que hacer, se confinó a los alienígenas en un campo de refugiados, el \"Distrito 9\", hasta que las naciones del mundo decidieran qué hacer ante la nueva y extraña situación. Pero el tiempo pasó...",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7N7J5DiZM5gnU6ZqzswUIBvQ4q7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ul4dyOwCHe7YwfyIgjYIILpQghn.png"
-    },
-    {
-      "id": "tmdb:823219",
-      "type": "movie",
-      "name": "Flow, un mundo que salvar",
-      "ids": {
-        "tmdb": 823219
-      },
-      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
-    },
-    {
-      "id": "tmdb:345",
-      "type": "movie",
-      "name": "Eyes Wide Shut",
-      "ids": {
-        "tmdb": 345
-      },
-      "overview": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
     },
     {
       "id": "tmdb:62",
@@ -379,18 +337,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
     },
     {
-      "id": "tmdb:510",
+      "id": "tmdb:966",
       "type": "movie",
-      "name": "Alguien voló sobre el nido del cuco",
+      "name": "Los siete magníficos",
       "ids": {
-        "tmdb": 510
+        "tmdb": 966
       },
-      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
+      "overview": "Unos bandidos atacan y arrasan cada año las tierras de unos granjeros. Ante esto, varios de ellos deciden buscar a hombres que puedan defenderles. Conseguirán reunir siete hombres, cada uno de los cuales presume de una característica especial.",
+      "year": 1960,
+      "poster": "https://image.tmdb.org/t/p/w342/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8rH4kHm1SOt92YSqTPVgYD2sQho.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rHPrh4Pe7ZjdkBEEF4OHPcBvD6W.png"
+    },
+    {
+      "id": "tmdb:17654",
+      "type": "movie",
+      "name": "District 9",
+      "ids": {
+        "tmdb": 17654
+      },
+      "overview": "Tras la llegada de una enorme nave espacial extraterrestre a Johannesburgo (Sudáfrica), a los alienígenas recién llegados a la Tierra se les obligó a vivir en condiciones penosas como \"refugiados\", en una especie de campo de concentración construido en las afueras la ciudad. Todo empezó unos veinte años atrás, cuando los extraterrestres tomaron el primer contacto con nuestro planeta. Los humanos esperaban un ataque hostil, o un gran avance tecnológico de la raza alienígena. Pero nada de ello sucedió. Los propios extraterrestres eran refugiados de su propio mundo. Sin saber bien que hacer, se confinó a los alienígenas en un campo de refugiados, el \"Distrito 9\", hasta que las naciones del mundo decidieran qué hacer ante la nueva y extraña situación. Pero el tiempo pasó...",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7N7J5DiZM5gnU6ZqzswUIBvQ4q7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ul4dyOwCHe7YwfyIgjYIILpQghn.png"
+    },
+    {
+      "id": "tmdb:345",
+      "type": "movie",
+      "name": "Eyes Wide Shut",
+      "ids": {
+        "tmdb": 345
+      },
+      "overview": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
     },
     {
       "id": "tmdb:78",
@@ -407,18 +393,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
     },
     {
-      "id": "tmdb:103",
+      "id": "tmdb:592695",
       "type": "movie",
-      "name": "Taxi Driver",
+      "name": "Pleasure",
       "ids": {
-        "tmdb": 103
+        "tmdb": 592695
       },
-      "overview": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
+      "overview": "La joven Linnéa deja atrás su vida en un pueblo sueco para ir a Los Angeles y convertirse en la próxima gran estrella porno. El camino hacia su objetivo será más accidentado de lo que había imaginado.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/eq2JtD4oWJG82zWMaJvzwsV7whK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lUC9YmQ7VvPeoYd3OWiaul32vHf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3ZFtbU6R6p4gulKHDXJ02ebPv8l.png"
+    },
+    {
+      "id": "tmdb:510",
+      "type": "movie",
+      "name": "Alguien voló sobre el nido del cuco",
+      "ids": {
+        "tmdb": 510
+      },
+      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
     },
     {
       "id": "tmdb:28",
@@ -435,46 +435,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
-      "id": "tmdb:607",
+      "id": "tmdb:823219",
       "type": "movie",
-      "name": "Men in Black",
+      "name": "Flow, un mundo que salvar",
       "ids": {
-        "tmdb": 607
+        "tmdb": 823219
       },
-      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
+      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
-    },
-    {
-      "id": "tmdb:592695",
-      "type": "movie",
-      "name": "Pleasure",
-      "ids": {
-        "tmdb": 592695
-      },
-      "overview": "La joven Linnéa deja atrás su vida en un pueblo sueco para ir a Los Angeles y convertirse en la próxima gran estrella porno. El camino hacia su objetivo será más accidentado de lo que había imaginado.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/eq2JtD4oWJG82zWMaJvzwsV7whK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lUC9YmQ7VvPeoYd3OWiaul32vHf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3ZFtbU6R6p4gulKHDXJ02ebPv8l.png"
-    },
-    {
-      "id": "tmdb:346",
-      "type": "movie",
-      "name": "Los siete samuráis",
-      "ids": {
-        "tmdb": 346
-      },
-      "overview": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
-      "year": 1954,
-      "poster": "https://image.tmdb.org/t/p/w342/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iFjNnOc9CKSrZi0JL7BoFw1YKZO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dPu60LvvtByfArsYnoMFkKHbaWn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/GkoK3RGzq0k0qMSHif7e9kXIyn.svg"
     },
     {
       "id": "tmdb:175983",
@@ -491,158 +463,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/ozaw41dcx6O78NtPo9UPCHh4BJy.png"
     },
     {
-      "id": "tmdb:397243",
+      "id": "tmdb:607",
       "type": "movie",
-      "name": "La autopsia de Jane Doe",
+      "name": "Men in Black",
       "ids": {
-        "tmdb": 397243
+        "tmdb": 607
       },
-      "overview": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg",
+      "overview": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f4vQispcO0oZ9qV2W3Qeigca9D3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nMCxrzLldcp4kGBSAcTJEr08jb9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
     },
     {
-      "id": "tmdb:5879",
+      "id": "tmdb:103",
       "type": "movie",
-      "name": "El imperio de los sentidos",
+      "name": "Taxi Driver",
       "ids": {
-        "tmdb": 5879
+        "tmdb": 103
       },
-      "overview": "Una pareja de amantes vive una historia de amor llevada hasta límites inimaginables. La pasión se ha adueñado de ellos. El sexo ha pasado a ser lo único importante de sus vidas. Las ansias de la mujer por poseer a su hombre parecen inagotables y crecen cada día más hasta llegar a confundir el placer con el dolor.",
+      "overview": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
       "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/2HH39jTVXDFbBNn4NDyVzyiuwSs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ozipXbwy5XBEYoTd5axkVCOAJrc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
     },
     {
-      "id": "tmdb:659940",
+      "id": "tmdb:14035",
       "type": "movie",
-      "name": "El efecto Marcus (Los casos del Departamento Q)",
+      "name": "Los incorregibles albóndigas",
       "ids": {
-        "tmdb": 659940
+        "tmdb": 14035
       },
-      "overview": "Cuando Marco, un niño gitano de 14 años sin hogar, es arrestado en el control de fronteras danés por posesión del pasaporte de un funcionario público desaparecido, el inspector de policía Carl Mørck y su equipo del departamento Q tienen la tarea de encontrar la conexión. El caso anterior contiene varios elementos sospechosos: el servidor público fue acusado de pedofilia poco antes de su desaparición, y su caso se cerró inusualmente rápido. Pero el silencioso y traumatizado Marco se niega a hablar con ellos y no pasa mucho tiempo antes de que esté huyendo de aquellos que pretenden matarlo por lo que él sabe.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/sEneMGx9S0SO08wSAPlgD83ysmO.jpg",
+      "overview": "Tripper, su novia Roxanna, y su amigo Mickey, son los responsables del campamento de verano Northstar, que acaba de abrir sus puertas. El trío se encarga de entrenar a los monitores. Cuando llegan los adolescentes que pasarán allí las vacaciones, Rudy, un chico de 11 años, se siente marginado por sus compañeros. Decide escaparse, y Tripper debe salir en su busca.  Disparatada comedia de desmesurado éxito en su momento. A pesar de su baja calidad artística, contiene algún momento divertido, gracias al talento para la comedia de Bill Murray. Abrió el camino a posteriores películas gamberras destinadas al público adolescente. Tuvo tres secuelas de inferior calidad si cabe.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/khCfHEFzYFXpOeEcuL6Emym8iXr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q49ZmYf880daaaE23deNLmSMYNg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zj9qYVHNn0eHhGu5HXHQ9Q6Zezq.png"
-    },
-    {
-      "id": "tmdb:33337",
-      "type": "movie",
-      "name": "Tendre Poulet",
-      "ids": {
-        "tmdb": 33337
-      },
-      "overview": "When Lise's car bumps Antoine's bike, they recognize each other from a brief fling 20 years before while at the Sorbonne. He's now a professor of Greek; she's loathe to tell him she's a police inspector. A call interrupts their first dinner date: a Deputy of the National Assembly has been murdered. She has a suspect, another Deputy, and must track him while deflecting Antoine's eye from her vocation. All roads in the inquiry lead to Christine Vallier, the dead Deputy's mistress, a beguiling 22-year-old whose mother ran the Assembly's snack bar. When more deputies die and Antoine learns Lise's identity, she must act quickly solve the crime and save her future.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/rzHKScCssgA4gJZqNDxcYM4UgrU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fvtE5EfU2iovfzfOgHrITndyISd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ApsOcuXs3NA6kyZeXVlY45Itsl0.png"
-    },
-    {
-      "id": "tmdb:770",
-      "type": "movie",
-      "name": "Lo que el viento se llevó",
-      "ids": {
-        "tmdb": 770
-      },
-      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
-      "year": 1939,
-      "poster": "https://image.tmdb.org/t/p/w342/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hqSllLo5dUgjmI0JsWwtz4YhxCV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
-    },
-    {
-      "id": "tmdb:73",
-      "type": "movie",
-      "name": "American History X",
-      "ids": {
-        "tmdb": 73
-      },
-      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jdGo3zbNSGFX9poWnp5Mv33q9mU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vf3wG3XOkIaaZ4NefXUIcRdF8Ct.png"
-    },
-    {
-      "id": "tmdb:11423",
-      "type": "movie",
-      "name": "Memories of Murder (Crónica de un asesino en serie)",
-      "ids": {
-        "tmdb": 11423
-      },
-      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
-    },
-    {
-      "id": "tmdb:27292",
-      "type": "movie",
-      "name": "Carne viva",
-      "ids": {
-        "tmdb": 27292
-      },
-      "overview": "Un mafioso de Kansas que se dedica al tráfico de drogas y a la prostitución utiliza como tapadera una fábrica de carne; pero las cosas cambian cuando el duro Nick llega a la ciudad.",
-      "year": 1972,
-      "poster": "https://image.tmdb.org/t/p/w342/59vBMXePcS6OiZbpCIBKMaUtIcs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/s28s1pziuDdWEKaafNaB9CVa9xB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iKHJs00mQat3yTEyVAhUba7jkCm.png"
-    },
-    {
-      "id": "tmdb:258216",
-      "type": "movie",
-      "name": "Nymphomaniac. Volumen 1",
-      "ids": {
-        "tmdb": 258216
-      },
-      "overview": "Historia de una ninfómana contada por ella misma. Una fría noche invernal, un viejo solterón (Stellan Skarsgård) encuentra en un callejón a una joven (Charlotte Gainsbourg) herida y casi inconsciente. Después de recogerla y cuidarla, siente curiosidad por saber cómo pudo haber llegado esa mujer a semejante situación; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones. Para su estreno comercial se dividirá en dos partes. Hay una versión completa de cinco horas y media que sólo se verá en ciertos actos culturales.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/y3pyIkcXMUv8ToIa3hShqKXDi8F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hyCbJ2SZDxbMlx5zqUgTvOLSfoq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5cseIICerULc4UZyrspsaQvw15u.png"
-    },
-    {
-      "id": "tmdb:13681",
-      "type": "movie",
-      "name": "En un lugar del corazón",
-      "ids": {
-        "tmdb": 13681
-      },
-      "overview": "Ambientada en Texas durante la Gran Depresión (años 30). Una mujer que acaba de enviudar (Sally Field) y es madre de dos hijos tropieza con graves dificultades económicas para salir adelante porque no puede pagar la hipoteca que pesa sobre su granja. Entre sus amigos están el señor Will (John Malkovich), un huésped ciego, y Moze (Danny Glover), un negro que le ayuda en las labores agrícolas y que conoce muy bien cuál es su posición en una ciudad sureña dominada por los blancos.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/cRbZMsDKYxrp6YUtJ1oNoKpyacH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r9XdfG1tqspRP5s0ir9zf5TIf0J.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qqI3gDkMJF2tc5pvKBPR4zzfEFz.png"
-    },
-    {
-      "id": "tmdb:1173559",
-      "type": "movie",
-      "name": "Insidious Inferno",
-      "ids": {
-        "tmdb": 1173559
-      },
-      "overview": "Una cabaña aislada está plagada de horribles asesinatos y, sin que los habitantes lo sepan, algo de otro mundo acecha en los pasillos. ¿Podrá la pareja resolver el misterio de los terrenos malditos a tiempo o abrirán la puerta al infierno?",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/8kljUAovBatZRYp2ye2RZr239hU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c7KBUClLyacleemgsKZffryVFAk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kFhWmlEunW6st4AMH0I0gjCsAks.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dvaqh54hbIdLSUeYZA8YFzfke0u.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n2ji2rXgtGkT4GTTHxNP2fHiXyX.png"
     },
     {
       "id": "tmdb:1601243",
@@ -659,18 +519,102 @@
       "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png"
     },
     {
-      "id": "tmdb:1791",
+      "id": "tmdb:770",
       "type": "movie",
-      "name": "La pianista",
+      "name": "Lo que el viento se llevó",
       "ids": {
-        "tmdb": 1791
+        "tmdb": 770
       },
-      "overview": "Una mujer, profesora de piano en un conservatorio, frecuenta cines porno y tiendas de sexo para escapar de la influencia de su dominante madre. Uno de sus alumnos se propone seducirla.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/pR7lOkoI5XRan0NDqMpuw5eRkx2.jpg",
+      "overview": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett.",
+      "year": 1939,
+      "poster": "https://image.tmdb.org/t/p/w342/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fbZbPb2GhKJQSTTt3QGoD36QiNo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hqSllLo5dUgjmI0JsWwtz4YhxCV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
+    },
+    {
+      "id": "tmdb:346",
+      "type": "movie",
+      "name": "Los siete samuráis",
+      "ids": {
+        "tmdb": 346
+      },
+      "overview": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
+      "year": 1954,
+      "poster": "https://image.tmdb.org/t/p/w342/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iFjNnOc9CKSrZi0JL7BoFw1YKZO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dPu60LvvtByfArsYnoMFkKHbaWn.png"
+    },
+    {
+      "id": "tmdb:5879",
+      "type": "movie",
+      "name": "El imperio de los sentidos",
+      "ids": {
+        "tmdb": 5879
+      },
+      "overview": "Una pareja de amantes vive una historia de amor llevada hasta límites inimaginables. La pasión se ha adueñado de ellos. El sexo ha pasado a ser lo único importante de sus vidas. Las ansias de la mujer por poseer a su hombre parecen inagotables y crecen cada día más hasta llegar a confundir el placer con el dolor.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/2HH39jTVXDFbBNn4NDyVzyiuwSs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ozipXbwy5XBEYoTd5axkVCOAJrc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
+    },
+    {
+      "id": "tmdb:11423",
+      "type": "movie",
+      "name": "Memories of Murder (Crónica de un asesino en serie)",
+      "ids": {
+        "tmdb": 11423
+      },
+      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
+    },
+    {
+      "id": "tmdb:73",
+      "type": "movie",
+      "name": "American History X",
+      "ids": {
+        "tmdb": 73
+      },
+      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jdGo3zbNSGFX9poWnp5Mv33q9mU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vf3wG3XOkIaaZ4NefXUIcRdF8Ct.png"
+    },
+    {
+      "id": "tmdb:1278",
+      "type": "movie",
+      "name": "Soñadores",
+      "ids": {
+        "tmdb": 1278
+      },
+      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bfJDQi1XRtlRzSnjmA2Txxnhn7E.png"
+    },
+    {
+      "id": "tmdb:1173559",
+      "type": "movie",
+      "name": "Insidious Inferno",
+      "ids": {
+        "tmdb": 1173559
+      },
+      "overview": "Una cabaña aislada está plagada de horribles asesinatos y, sin que los habitantes lo sepan, algo de otro mundo acecha en los pasillos. ¿Podrá la pareja resolver el misterio de los terrenos malditos a tiempo o abrirán la puerta al infierno?",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8kljUAovBatZRYp2ye2RZr239hU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c7KBUClLyacleemgsKZffryVFAk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kFhWmlEunW6st4AMH0I0gjCsAks.png"
     },
     {
       "id": "tmdb:110415",
@@ -687,18 +631,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/233abhqwFtzGhcWStY4eonwpVnn.png"
     },
     {
-      "id": "tmdb:263472",
+      "id": "tmdb:843",
       "type": "movie",
-      "name": "Toc, toc",
+      "name": "Deseando amar",
       "ids": {
-        "tmdb": 263472
+        "tmdb": 843
       },
-      "overview": "Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de \"Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/hRDVNV7einjCZHGQJ3j6Mqcjdaa.jpg",
+      "overview": "Hong Kong, 1962. Chow, redactor jefe de un diario local, se muda con su mujer a un edificio habitado principalmente por gentes de Shanghai. Allí conoce a Li-zhen, una joven que acaba de instalarse en el mismo edificio con su esposo. Ella es secretaria de una empresa de exportación y su marido está continuamente de viaje de negocios. Como la mujer de Chow también está casi siempre fuera de casa, Li-zhen y Chow pasan cada vez más tiempo juntos y se hacen muy amigos. Un día, ambos descubrirán que sus respectivos cónyuges los están traicionando.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/ivyPPBVdDcwJy8LI8xccDFZqIaU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bBdgSTueZkT4E699Od9sxr4AaN6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2aoHRjqEI8Fn2LuLh15gfZe5E65.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ta3mZgHYQC394qq3zYXjuj3ASP5.png"
+    },
+    {
+      "id": "tmdb:1791",
+      "type": "movie",
+      "name": "La pianista",
+      "ids": {
+        "tmdb": 1791
+      },
+      "overview": "Una mujer, profesora de piano en un conservatorio, frecuenta cines porno y tiendas de sexo para escapar de la influencia de su dominante madre. Uno de sus alumnos se propone seducirla.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/pR7lOkoI5XRan0NDqMpuw5eRkx2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fbZbPb2GhKJQSTTt3QGoD36QiNo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png"
+    },
+    {
+      "id": "tmdb:258216",
+      "type": "movie",
+      "name": "Nymphomaniac. Volumen 1",
+      "ids": {
+        "tmdb": 258216
+      },
+      "overview": "Historia de una ninfómana contada por ella misma. Una fría noche invernal, un viejo solterón (Stellan Skarsgård) encuentra en un callejón a una joven (Charlotte Gainsbourg) herida y casi inconsciente. Después de recogerla y cuidarla, siente curiosidad por saber cómo pudo haber llegado esa mujer a semejante situación; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones. Para su estreno comercial se dividirá en dos partes. Hay una versión completa de cinco horas y media que sólo se verá en ciertos actos culturales.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/y3pyIkcXMUv8ToIa3hShqKXDi8F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hyCbJ2SZDxbMlx5zqUgTvOLSfoq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5cseIICerULc4UZyrspsaQvw15u.png"
+    },
+    {
+      "id": "tmdb:1949",
+      "type": "movie",
+      "name": "Zodiac",
+      "ids": {
+        "tmdb": 1949
+      },
+      "overview": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4eCdBQq6DQsmNWPgfbCs8Lse7Km.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
+    },
+    {
+      "id": "tmdb:39924",
+      "type": "movie",
+      "name": "La casa de la colina de paja",
+      "ids": {
+        "tmdb": 39924
+      },
+      "overview": "En lo alto de Straw Hill hay una casa de campo solitaria, una casa que pronto se estremecerá y temblará ante la violencia, lujuria e infidelidad que se desencadena en su interior.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/7bEV13lR9QrVTpx7RVYk3ea1hkR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q9pWUZ01oyEyT9OJ1zxBnwI2A76.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hjoIjmPcOszJjRCO7W8aTBXxmh7.png"
     }
   ]
 }
