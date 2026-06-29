@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:48650",
+      "type": "movie",
+      "name": "Habitación en Roma",
+      "ids": {
+        "tmdb": 48650
+      },
+      "overview": "Verano de 2008. Se inspira en el film 'En la cama', del chileno Matías Bize. En un hotel del centro de Roma se conocen una rusa y una española. Al día siguiente Alba volverá a España y Natasha, a Rusia. En la habitación del hotel se respira una atmósfera cargada de erotismo y sensualidad. Entre ellas nace un sentimiento nuevo que ambas aceptan. Durante doce horas, las dos mujeres se confían sus vidas, hablan de sus compromisos y del amor sincero por sus respectivas parejas.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/4kF4qRXFd7MqX2bAJX3e3zQSxhV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/abQxLSkGxpHyUxRjRXACt8NbiGf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/43iZ8wdidP5ouFvGgJUFTwxcsxC.png"
+    },
+    {
       "id": "tmdb:515916",
       "type": "movie",
       "name": "Girl",
@@ -71,32 +85,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
     },
     {
-      "id": "tmdb:524",
+      "id": "tmdb:969492",
       "type": "movie",
-      "name": "Casino",
+      "name": "Misión hostil",
       "ids": {
-        "tmdb": 524
+        "tmdb": 969492
       },
-      "overview": "Las Vegas, 1973. Sam \"Ace\" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/7x8lsyTB0G7OrLzQ7qxt3ywQ4OY.jpg",
+      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3LJTvqs0Ho8FBgqrykaiqSgRgFJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uMZHu14lCEx5bjV2Sak87yO0OhB.png"
-    },
-    {
-      "id": "tmdb:11423",
-      "type": "movie",
-      "name": "Memories of Murder (Crónica de un asesino en serie)",
-      "ids": {
-        "tmdb": 11423
-      },
-      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
     },
     {
       "id": "tmdb:32657",
@@ -113,32 +113,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/oWoiedMh2IOaaRmct1x82wXzckh.png"
     },
     {
-      "id": "tmdb:969492",
+      "id": "tmdb:11423",
       "type": "movie",
-      "name": "Misión hostil",
+      "name": "Memories of Murder (Crónica de un asesino en serie)",
       "ids": {
-        "tmdb": 969492
+        "tmdb": 11423
       },
-      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
+      "overview": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/njaw7QZy5ni8ZDydx3b1EDpEfwk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/niLURXAXr6I6Z5b6fcUzz5LpH4c.png"
     },
     {
-      "id": "tmdb:262543",
+      "id": "tmdb:524",
       "type": "movie",
-      "name": "Autómata",
+      "name": "Casino",
       "ids": {
-        "tmdb": 262543
+        "tmdb": 524
       },
-      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "overview": "Las Vegas, 1973. Sam \"Ace\" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/7x8lsyTB0G7OrLzQ7qxt3ywQ4OY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rwbuWaoaZ6tZD8xzDlRhpvn3kEQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3LJTvqs0Ho8FBgqrykaiqSgRgFJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uMZHu14lCEx5bjV2Sak87yO0OhB.png"
     },
     {
       "id": "tmdb:395834",
@@ -155,20 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/3IGejPDAy3XsdErrVOwIyBj79T3.png"
     },
     {
-      "id": "tmdb:583",
-      "type": "movie",
-      "name": "La vida de Brian",
-      "ids": {
-        "tmdb": 583
-      },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
       "id": "tmdb:785084",
       "type": "movie",
       "name": "La ballena (The Whale)",
@@ -181,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/h6VOaBqE2ft8fLbixG02NWM6dxQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
+    },
+    {
+      "id": "tmdb:583",
+      "type": "movie",
+      "name": "La vida de Brian",
+      "ids": {
+        "tmdb": 583
+      },
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
     },
     {
       "id": "tmdb:915935",
@@ -209,6 +209,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tLQkFAyLd4fS79UEzrEpsvw9eO6.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/AtokEoGobSnOjGytEhwuv8m0yod.png"
+    },
+    {
+      "id": "tmdb:262543",
+      "type": "movie",
+      "name": "Autómata",
+      "ids": {
+        "tmdb": 262543
+      },
+      "overview": "En un futuro no lejano, en el que el planeta Tierra sufre una creciente desertización, Jacq Vaucan, un agente de seguros de una compañía de robótica, investiga un caso en apariencia rutinario cuando descubre algo que podría tener consecuencias decisivas para el futuro de la humanidad. Banderas produce y protagoniza este thriller futurista, que especula sobre lo que ocurriría si la inteligencia artificial superase a la humana.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rwbuWaoaZ6tZD8xzDlRhpvn3kEQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
     },
     {
       "id": "tmdb:4564",
@@ -253,6 +267,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/2m3ZkLITwm1OA1ScrgKYX4JRQuH.png"
     },
     {
+      "id": "tmdb:762",
+      "type": "movie",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
+      "ids": {
+        "tmdb": 762
+      },
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
+    },
+    {
       "id": "tmdb:660120",
       "type": "movie",
       "name": "La peor persona del mundo",
@@ -267,18 +295,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
     },
     {
-      "id": "tmdb:762",
+      "id": "tmdb:389015",
       "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
+      "name": "Yo, Tonya",
       "ids": {
-        "tmdb": 762
+        "tmdb": 389015
       },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
+      "overview": "Tonya Harding fue la primera mujer estadounidense en completar un salto de triple axel en competición en patinaje sobre hielo en 1991. Pero el éxito en el hielo no siempre estuvo acompañado de felicidad en su vida personal.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/aVWX0t95Igd8kKC3ejmtHCy1vX6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fpalPtlxvinDWwrTtXhu4U7kBuf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jKS1ZpZNgXcnE5PTDgkSKcA7yiC.png"
     },
     {
       "id": "tmdb:505192",
@@ -309,34 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
     },
     {
-      "id": "tmdb:423612",
-      "type": "movie",
-      "name": "La sombra del pasado",
-      "ids": {
-        "tmdb": 423612
-      },
-      "overview": "Kurt Barnert es un joven estudiante de arte en la Alemania del Este. Está enamorado de su compañera de clase, Ellie. El padre de ella, el Professor Seeband, un famoso médico, no aprueba la relación de su hija y está decidido a destruirla. Lo que ninguno de ellos sabe es que sus vidas están conectadas por un terrible crimen cometido hace décadas.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/o7liyeAZYv37yx7ydY8oUrnaSTz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w7UFkUEvHefW17dU8B1AdaScT6n.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7j4lZyJJy5Z2cZQRv3tBpl1SkhY.png"
-    },
-    {
-      "id": "tmdb:389015",
-      "type": "movie",
-      "name": "Yo, Tonya",
-      "ids": {
-        "tmdb": 389015
-      },
-      "overview": "Tonya Harding fue la primera mujer estadounidense en completar un salto de triple axel en competición en patinaje sobre hielo en 1991. Pero el éxito en el hielo no siempre estuvo acompañado de felicidad en su vida personal.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/aVWX0t95Igd8kKC3ejmtHCy1vX6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fpalPtlxvinDWwrTtXhu4U7kBuf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jKS1ZpZNgXcnE5PTDgkSKcA7yiC.png"
-    },
-    {
       "id": "tmdb:580175",
       "type": "movie",
       "name": "Otra ronda",
@@ -349,48 +349,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
-    },
-    {
-      "id": "tmdb:1249289",
-      "type": "movie",
-      "name": "Doble espionaje",
-      "ids": {
-        "tmdb": 1249289
-      },
-      "overview": "Un matrimonio de espías, en el punto de mira de una red de inteligencia internacional, no se detendrá ante nada para obtener un activo crítico. Joe y Lara son agentes que viven fuera de la red y cuyo tranquilo retiro en una estación invernal salta por los aires cuando miembros de la vieja guardia sospechan que ambos pueden haberse unido a un equipo de élite de espías deshonestos, conocido como Alarum.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/chIQxgimGbIFnuFsLqpcoTbsH9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9A97itZIjT5wozcRLAHusnXYsr5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
-    },
-    {
-      "id": "tmdb:581577",
-      "type": "movie",
-      "name": "El profesor de persa",
-      "ids": {
-        "tmdb": 581577
-      },
-      "overview": "Francia, 1942. Gilles es arrestado por soldados de las SS junto con otros judíos y enviado a un campo de concentración en Alemania. Allí consigue evitar la ejecución al jurar a los guardias que no es judío, sino persa. Gracias a esta artimaña, Gilles consigue mantenerse con vida, pero tendrá que enseñar un idioma que no conoce a uno de los oficiales del campo, interesado en aprenderlo. Al tiempo que la relación entre ellos aumenta, las sospechas de los soldados van en incremento.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/9qsERRWT76TPm23BIKgcoHu4xeg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g3GSVxlh4VrhE8APvrQrZ99AtmK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TEjtFIZWkAMHM9d4dRSPPGmeVW.png"
-    },
-    {
-      "id": "tmdb:388399",
-      "type": "movie",
-      "name": "Día de patriotas",
-      "ids": {
-        "tmdb": 388399
-      },
-      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
     },
     {
       "id": "tmdb:212778",
@@ -407,34 +365,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/aBtaqbJVepI5g6ZFXKEwLhVhIl1.png"
     },
     {
-      "id": "tmdb:4379",
-      "type": "movie",
-      "name": "La madre del novio",
-      "ids": {
-        "tmdb": 4379
-      },
-      "overview": "Charlotte ha conocido a Kevin, el hombre de sus sueños. Sin embargo, su madre teme perder al muchacho, por lo que decide convertirse en la peor suegra del mundo con el fin de deshacerse de su nueva nuera.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/y6orMDFV5foN1CoriC9AxPAg10J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jnXsxSIbr2OkRpDKwFOTFVhXPKW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y8UW7uDg7I6p87JVv3UiYNNzfT8.png"
-    },
-    {
-      "id": "tmdb:7305",
-      "type": "movie",
-      "name": "¡Viven!",
-      "ids": {
-        "tmdb": 7305
-      },
-      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
-    },
-    {
       "id": "tmdb:1633",
       "type": "movie",
       "name": "Tomates verdes fritos",
@@ -447,6 +377,76 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Día de patriotas",
+      "ids": {
+        "tmdb": 388399
+      },
+      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
+    },
+    {
+      "id": "tmdb:1249289",
+      "type": "movie",
+      "name": "Doble espionaje",
+      "ids": {
+        "tmdb": 1249289
+      },
+      "overview": "Un matrimonio de espías, en el punto de mira de una red de inteligencia internacional, no se detendrá ante nada para obtener un activo crítico. Joe y Lara son agentes que viven fuera de la red y cuyo tranquilo retiro en una estación invernal salta por los aires cuando miembros de la vieja guardia sospechan que ambos pueden haberse unido a un equipo de élite de espías deshonestos, conocido como Alarum.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/chIQxgimGbIFnuFsLqpcoTbsH9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9A97itZIjT5wozcRLAHusnXYsr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
+    },
+    {
+      "id": "tmdb:793998",
+      "type": "movie",
+      "name": "El acontecimiento",
+      "ids": {
+        "tmdb": 793998
+      },
+      "overview": "Francia, 1963. Anne, una joven y brillante estudiante con un futuro prometedor, descubre que está embarazada. De la noche a la mañana ve truncada la oportunidad de terminar sus estudios y huir de las asfixiantes restricciones de su entorno. Con los exámenes finales acercándose y un vientre que no para de crecer, Anne decide actuar, incluso si supone confrontar la vergüenza, el dolor y hasta ir a la cárcel por ello.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/3EwqppBdI3n42tgecg01fVeDOsb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dNZhvLsaYtQpiDAJREgIp1CCLH3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7xk0SpfjuDjKsTSfOtpS861uf3z.png"
+    },
+    {
+      "id": "tmdb:234200",
+      "type": "movie",
+      "name": "Pride (Orgullo)",
+      "ids": {
+        "tmdb": 234200
+      },
+      "overview": "En el verano de 1984, siendo primera ministra Margaret Thatcher, el Sindicato Nacional de Mineros (NUM) convoca una huelga. Durante la manifestación del Orgullo Gay en Londres. Un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los trabajadores, pero el sindicato no acepta el dinero. El grupo decide entonces ponerse en contacto directo con los mineros y van a un pueblecito de Gales. Empieza así la curiosa historia de dos comunidades totalmente diferentes que se unen por una causa común. Basada en hechos reales.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/60yODrgrKDw8d2427tQRC7Vsa5V.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xQRHZ9v6SfpVczpXof81noBvG5y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kNfzlO8lUAXYmOxqdKn9kDxzbK6.png"
+    },
+    {
+      "id": "tmdb:253344",
+      "type": "movie",
+      "name": "El marido de mi hermana",
+      "ids": {
+        "tmdb": 253344
+      },
+      "overview": "Richard Haign es un brillante profesor de Cambridge con una pasión desenfrenada por la poesía romántica y las mujeres hermosas. Sin embargo, la paternidad le cambiará la vida. Der forma inesperada Kate, la joven estudiante americana que conoció en una de sus clases, le va a convertir en padre, noticia que recibe justo cuando conoce a Olivia, una novelista exuberante y excéntrica, hermana de la que pronto se convertirá en la madre de su hijo. Un trío amoroso que dista mucho de su ideal de familia.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/v510NMC15C5nQyLYYxq1JGwt6Xp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wfh7fdxHEBCeCE1Cw5neHqTAgS7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5BTvNvdFi2DWceItwYuzLc1hqmw.png"
     },
     {
       "id": "tmdb:9944",
@@ -463,18 +463,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/gNsWonnc4uTjock68k4n7GYDy6v.png"
     },
     {
-      "id": "tmdb:234200",
+      "id": "tmdb:901563",
       "type": "movie",
-      "name": "Pride (Orgullo)",
+      "name": "Close",
       "ids": {
-        "tmdb": 234200
+        "tmdb": 901563
       },
-      "overview": "En el verano de 1984, siendo primera ministra Margaret Thatcher, el Sindicato Nacional de Mineros (NUM) convoca una huelga. Durante la manifestación del Orgullo Gay en Londres. Un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los trabajadores, pero el sindicato no acepta el dinero. El grupo decide entonces ponerse en contacto directo con los mineros y van a un pueblecito de Gales. Empieza así la curiosa historia de dos comunidades totalmente diferentes que se unen por una causa común. Basada en hechos reales.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/60yODrgrKDw8d2427tQRC7Vsa5V.jpg",
+      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xQRHZ9v6SfpVczpXof81noBvG5y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kNfzlO8lUAXYmOxqdKn9kDxzbK6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/96IPjPaeQZoJ6uMDGNFdnwkQyRQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
+    },
+    {
+      "id": "tmdb:7305",
+      "type": "movie",
+      "name": "¡Viven!",
+      "ids": {
+        "tmdb": 7305
+      },
+      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
     },
     {
       "id": "tmdb:441701",
@@ -519,102 +533,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/eGW2r8PtLLaqPh3wakUBwWv2V6R.png"
     },
     {
-      "id": "tmdb:793998",
+      "id": "tmdb:423612",
       "type": "movie",
-      "name": "El acontecimiento",
+      "name": "La sombra del pasado",
       "ids": {
-        "tmdb": 793998
+        "tmdb": 423612
       },
-      "overview": "Francia, 1963. Anne, una joven y brillante estudiante con un futuro prometedor, descubre que está embarazada. De la noche a la mañana ve truncada la oportunidad de terminar sus estudios y huir de las asfixiantes restricciones de su entorno. Con los exámenes finales acercándose y un vientre que no para de crecer, Anne decide actuar, incluso si supone confrontar la vergüenza, el dolor y hasta ir a la cárcel por ello.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/3EwqppBdI3n42tgecg01fVeDOsb.jpg",
+      "overview": "Kurt Barnert es un joven estudiante de arte en la Alemania del Este. Está enamorado de su compañera de clase, Ellie. El padre de ella, el Professor Seeband, un famoso médico, no aprueba la relación de su hija y está decidido a destruirla. Lo que ninguno de ellos sabe es que sus vidas están conectadas por un terrible crimen cometido hace décadas.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/o7liyeAZYv37yx7ydY8oUrnaSTz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dNZhvLsaYtQpiDAJREgIp1CCLH3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7xk0SpfjuDjKsTSfOtpS861uf3z.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/w7UFkUEvHefW17dU8B1AdaScT6n.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7j4lZyJJy5Z2cZQRv3tBpl1SkhY.png"
     },
     {
-      "id": "tmdb:758866",
+      "id": "tmdb:4379",
       "type": "movie",
-      "name": "Drive my car",
+      "name": "La madre del novio",
       "ids": {
-        "tmdb": 758866
+        "tmdb": 4379
       },
-      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
+      "overview": "Charlotte ha conocido a Kevin, el hombre de sus sueños. Sin embargo, su madre teme perder al muchacho, por lo que decide convertirse en la peor suegra del mundo con el fin de deshacerse de su nueva nuera.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/y6orMDFV5foN1CoriC9AxPAg10J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
-    },
-    {
-      "id": "tmdb:901563",
-      "type": "movie",
-      "name": "Close",
-      "ids": {
-        "tmdb": 901563
-      },
-      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/96IPjPaeQZoJ6uMDGNFdnwkQyRQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
-    },
-    {
-      "id": "tmdb:253344",
-      "type": "movie",
-      "name": "El marido de mi hermana",
-      "ids": {
-        "tmdb": 253344
-      },
-      "overview": "Richard Haign es un brillante profesor de Cambridge con una pasión desenfrenada por la poesía romántica y las mujeres hermosas. Sin embargo, la paternidad le cambiará la vida. Der forma inesperada Kate, la joven estudiante americana que conoció en una de sus clases, le va a convertir en padre, noticia que recibe justo cuando conoce a Olivia, una novelista exuberante y excéntrica, hermana de la que pronto se convertirá en la madre de su hijo. Un trío amoroso que dista mucho de su ideal de familia.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/v510NMC15C5nQyLYYxq1JGwt6Xp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wfh7fdxHEBCeCE1Cw5neHqTAgS7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5BTvNvdFi2DWceItwYuzLc1hqmw.png"
-    },
-    {
-      "id": "tmdb:1149167",
-      "type": "movie",
-      "name": "Ladrones con clase 2",
-      "ids": {
-        "tmdb": 1149167
-      },
-      "overview": "Un ladrón brillante se ve obligado a robar un casino cuando su archienemigo secuestra a su novia. Entre criminales y el FBI, arriesga todo por amor.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/8rlrT43Toat04Zk8cD1UVa1LHg7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eJe4sl6VQ4gzOe2V4tOXPlhJxnk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
-    },
-    {
-      "id": "tmdb:980026",
-      "type": "movie",
-      "name": "La tierra prometida",
-      "ids": {
-        "tmdb": 980026
-      },
-      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
-    },
-    {
-      "id": "tmdb:457",
-      "type": "movie",
-      "name": "Sissi",
-      "ids": {
-        "tmdb": 457
-      },
-      "overview": "Francisco José debe casarse y, aunque su madre ya ha pensado en Helena, una joven princesa bávara, el emperador se enamora perdidamente de Elizabeth (Sissi), una joven espontánea y poco convencional que detesta el protocolo de la Corte. A pesar de que su decisión no contará con la aprobación de su madre, el joven enamorado hará de su espléndida boda con Sissi la primera victoria en el frente familiar.",
-      "year": 1955,
-      "poster": "https://image.tmdb.org/t/p/w342/iGy9j4AdhkiOYRYeTSpq7g3zayL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKs8y5WlXcYX5GCbDkXcXybGteZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfe8xNJTbfh87DZMwfJXG69cyV3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jnXsxSIbr2OkRpDKwFOTFVhXPKW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y8UW7uDg7I6p87JVv3UiYNNzfT8.png"
     },
     {
       "id": "tmdb:943134",
@@ -631,32 +575,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/uLzkkLkMREqkpovDL0E0KPlgHYK.png"
     },
     {
-      "id": "tmdb:425336",
+      "id": "tmdb:758866",
       "type": "movie",
-      "name": "Loving Pablo",
+      "name": "Drive my car",
       "ids": {
-        "tmdb": 425336
+        "tmdb": 758866
       },
-      "overview": "Drama sobre el narcotraficante colombiano Pablo Escobar, basado en el libro de memorias de la periodista colombiana Virginia Vallejo donde cuenta la relación amorosa que mantuvo con el narcotraficante a mediados de los años 90.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg",
+      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jbRE0osmEQ6w7f3ANR2kSF5t7f6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3QmJavhfk31gxN39jGLZOb7VzaL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
     },
     {
-      "id": "tmdb:978592",
+      "id": "tmdb:416477",
       "type": "movie",
-      "name": "Sombras del pasado",
+      "name": "La gran enfermedad del amor",
       "ids": {
-        "tmdb": 978592
+        "tmdb": 416477
       },
-      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
+      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/x5YINvEBqgXXzTu9FsXZ7fzAw87.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
     },
     {
       "id": "tmdb:15019",
@@ -673,32 +617,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/gwoU5SOhyMRV43djRftPMhMR7pe.png"
     },
     {
-      "id": "tmdb:848685",
+      "id": "tmdb:1149167",
       "type": "movie",
-      "name": "As bestas",
+      "name": "Ladrones con clase 2",
       "ids": {
-        "tmdb": 848685
+        "tmdb": 1149167
       },
-      "overview": "Una pareja francesa de mediana edad, Antoine y Olga, llega a vivir a un pueblo gallego en busca de una mayor cercanía con la naturaleza. Su presencia, sin embargo, enciende a dos lugareños, los hermanos Xan y Lorenzo, hasta el punto de una abierta hostilidad y luego una violencia impactante.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/d5Vv89re9tBtukMUnktyseam0g7.jpg",
+      "overview": "Un ladrón brillante se ve obligado a robar un casino cuando su archienemigo secuestra a su novia. Entre criminales y el FBI, arriesga todo por amor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8rlrT43Toat04Zk8cD1UVa1LHg7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o4azItwjqk2SwgAW7Hxd2j31k5q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wi7Kf9X2eZIJRCNAsahVNHKNZXK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eJe4sl6VQ4gzOe2V4tOXPlhJxnk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oPiSVIPjYOp2ASHyzhJH5PA50Zt.png"
     },
     {
-      "id": "tmdb:2313",
+      "id": "tmdb:978592",
       "type": "movie",
-      "name": "Secretos compartidos",
+      "name": "Sombras del pasado",
       "ids": {
-        "tmdb": 2313
+        "tmdb": 978592
       },
-      "overview": "La vida de Rafi (Uma Thurman), una divorciada de 37 años de Manhattan, da un vuelco cuando empieza a salir con un pintor mucho más joven que ella. A pesar de la atracción que siente por él, la diferencia de edad le plantea dudas que la llevan a buscar el consejo de su psicoanalista (Meryl Streep). Ésta, al principio, la escucha con gran naturalidad y la anima a seguir adelante; pero, cuando descubre que el novio de su paciente es su hijo Dave (Bryan Greensberg), su actitud cambiará radicalmente.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/tHtVlL9616NFcxntpKUVHZAOOe7.jpg",
+      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ4O4sAigf2kz23jYKmUa9dHQcU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mctddxzNJh6PQLbsr9BHtcrmEmG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/x5YINvEBqgXXzTu9FsXZ7fzAw87.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
+    },
+    {
+      "id": "tmdb:565310",
+      "type": "movie",
+      "name": "The Farewell",
+      "ids": {
+        "tmdb": 565310
+      },
+      "overview": "Tras descubrir que su querida matriarca padece un cancer de pulmón terminal, su familia decide no contárselo, convocando una reunión familiar en China a la que se espera que acudan todos los miembros que la han conocido a lo largo de su vida. Aunque los padres de Billi, que viven plácidamente en la ciudad de Nueva York, se niegan a participar en lo que para ellos es una farsa, su joven y cabezota hija pone rumbo a China para poder despedirse de su abuela y, de paso, volver a forjar los vínculos perdidos con su familia a causa de la distancia.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dpthmMUnjMzyD2QEYJHyE6RCPzV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2LUKwnurmsWhJIItJ90PJcgnQhd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iR4SypyB80TGQNcSFv0tWtQxfbU.png"
+    },
+    {
+      "id": "tmdb:425336",
+      "type": "movie",
+      "name": "Loving Pablo",
+      "ids": {
+        "tmdb": 425336
+      },
+      "overview": "Drama sobre el narcotraficante colombiano Pablo Escobar, basado en el libro de memorias de la periodista colombiana Virginia Vallejo donde cuenta la relación amorosa que mantuvo con el narcotraficante a mediados de los años 90.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jbRE0osmEQ6w7f3ANR2kSF5t7f6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3QmJavhfk31gxN39jGLZOb7VzaL.png"
+    },
+    {
+      "id": "tmdb:581577",
+      "type": "movie",
+      "name": "El profesor de persa",
+      "ids": {
+        "tmdb": 581577
+      },
+      "overview": "Francia, 1942. Gilles es arrestado por soldados de las SS junto con otros judíos y enviado a un campo de concentración en Alemania. Allí consigue evitar la ejecución al jurar a los guardias que no es judío, sino persa. Gracias a esta artimaña, Gilles consigue mantenerse con vida, pero tendrá que enseñar un idioma que no conoce a uno de los oficiales del campo, interesado en aprenderlo. Al tiempo que la relación entre ellos aumenta, las sospechas de los soldados van en incremento.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/9qsERRWT76TPm23BIKgcoHu4xeg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g3GSVxlh4VrhE8APvrQrZ99AtmK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TEjtFIZWkAMHM9d4dRSPPGmeVW.png"
+    },
+    {
+      "id": "tmdb:457",
+      "type": "movie",
+      "name": "Sissi",
+      "ids": {
+        "tmdb": 457
+      },
+      "overview": "Francisco José debe casarse y, aunque su madre ya ha pensado en Helena, una joven princesa bávara, el emperador se enamora perdidamente de Elizabeth (Sissi), una joven espontánea y poco convencional que detesta el protocolo de la Corte. A pesar de que su decisión no contará con la aprobación de su madre, el joven enamorado hará de su espléndida boda con Sissi la primera victoria en el frente familiar.",
+      "year": 1955,
+      "poster": "https://image.tmdb.org/t/p/w342/iGy9j4AdhkiOYRYeTSpq7g3zayL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rKs8y5WlXcYX5GCbDkXcXybGteZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfe8xNJTbfh87DZMwfJXG69cyV3.png"
     }
   ]
 }
