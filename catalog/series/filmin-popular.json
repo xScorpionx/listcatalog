@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6XR9NSDWhDu5lwOs1CrFaHwEOii.png"
     },
     {
-      "id": "tmdb:61565",
-      "type": "series",
-      "name": "Los misterios de Brokenwood",
-      "ids": {
-        "tmdb": 61565
-      },
-      "overview": "En una ciudad rural aparentemente tranquila, el residente más reciente, el inspector detective Mike Shepherd, descubre que el asesinato acecha incluso en el lugar más acogedor.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/rvrTqaNTE5m0FVGrGA37FDK0ArB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pogR9PkJhEUIKAoFJsf6Xmortnu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h9WkhMeQwyFQYM8MTJnNMicgMz2.png"
-    },
-    {
       "id": "tmdb:61457",
       "type": "series",
       "name": "Grantchester",
@@ -139,6 +125,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8fH8WEAs8gLJmfrdaTZ8zCrLk28.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gnMKm2WWD263IIAnfN6cCG2fpz3.png"
+    },
+    {
+      "id": "tmdb:61565",
+      "type": "series",
+      "name": "Los misterios de Brokenwood",
+      "ids": {
+        "tmdb": 61565
+      },
+      "overview": "En una ciudad rural aparentemente tranquila, el residente más reciente, el inspector detective Mike Shepherd, descubre que el asesinato acecha incluso en el lugar más acogedor.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/rvrTqaNTE5m0FVGrGA37FDK0ArB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pogR9PkJhEUIKAoFJsf6Xmortnu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h9WkhMeQwyFQYM8MTJnNMicgMz2.png"
     },
     {
       "id": "tmdb:2730",
@@ -169,6 +169,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/vh32bAnMKtRAaBRqKnrtuXhuHhb.png"
     },
     {
+      "id": "tmdb:25707",
+      "type": "series",
+      "name": "Campeones: Oliver y Benji",
+      "ids": {
+        "tmdb": 25707
+      },
+      "overview": "'Campeones' sigue a Oliver Atom, un joven futbolista con un talento excepcional para este deporte. Entrenado por Roberto, una exgloria del fútbol, Oliver puede soñar con los mayores trofeos de todo el mundo. Pero antes de la gloria, hay que ganar. Su principal rival dentro de este apasionado mundo será Benji, un portero de grandes aptitudes con el que tendrá una fuerte rivalidad.\n\nEste anime japonés reúne todos los elementos necesarios para los apasionados del fútbol: partidos espectaculares, jugadas maestras y una afición entregada. 'Super Campeones' ('Captain Tsubasa') se estrenó el 13 de octubre de 1983 en TV Tokyo. Su trayectoria en televisión se resume en dos temporadas y 128 capítulos con un gran éxito de audiencia, dando lugar a todo un fenómeno social.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/pIvSw3qRmGLsQ63X38xf6ol1ND7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iGmf0GpXWjXgzYAVcvUbczTWiVL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tKhdwK9EEllVcwFbAQANzeXphuI.png"
+    },
+    {
       "id": "tmdb:13881",
       "type": "series",
       "name": "Los invasores",
@@ -181,20 +195,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qPqV2eYI6Yi1Z3vHbCh2FubXR6X.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sxF0DY6oV5f82O3XGw9X9ue5N0O.png"
-    },
-    {
-      "id": "tmdb:4278",
-      "type": "series",
-      "name": "Friday Night Lights",
-      "ids": {
-        "tmdb": 4278
-      },
-      "overview": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i6TKgMbhLRDDw8XJUAzzb66R5UX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png"
     },
     {
       "id": "tmdb:108255",
@@ -211,32 +211,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/q9xT37Z478pzKaOgwgy5hHe2Lqo.png"
     },
     {
-      "id": "tmdb:25707",
+      "id": "tmdb:4278",
       "type": "series",
-      "name": "Campeones: Oliver y Benji",
+      "name": "Friday Night Lights",
       "ids": {
-        "tmdb": 25707
+        "tmdb": 4278
       },
-      "overview": "'Campeones' sigue a Oliver Atom, un joven futbolista con un talento excepcional para este deporte. Entrenado por Roberto, una exgloria del fútbol, Oliver puede soñar con los mayores trofeos de todo el mundo. Pero antes de la gloria, hay que ganar. Su principal rival dentro de este apasionado mundo será Benji, un portero de grandes aptitudes con el que tendrá una fuerte rivalidad.\n\nEste anime japonés reúne todos los elementos necesarios para los apasionados del fútbol: partidos espectaculares, jugadas maestras y una afición entregada. 'Super Campeones' ('Captain Tsubasa') se estrenó el 13 de octubre de 1983 en TV Tokyo. Su trayectoria en televisión se resume en dos temporadas y 128 capítulos con un gran éxito de audiencia, dando lugar a todo un fenómeno social.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/pIvSw3qRmGLsQ63X38xf6ol1ND7.jpg",
+      "overview": "Los habitantes de una pequeña ciudad tejana viven el deporte como si fuera una religión. Para ellos no hay nada más importante que los Dillon Panthers, el equipo de fútbol americano del instituto de la ciudad. Adaptación de la película homónima dirigida en 2004 por Peter Berg. ",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iGmf0GpXWjXgzYAVcvUbczTWiVL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tKhdwK9EEllVcwFbAQANzeXphuI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/i6TKgMbhLRDDw8XJUAzzb66R5UX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png"
     },
     {
-      "id": "tmdb:53721",
+      "id": "tmdb:261551",
       "type": "series",
-      "name": "Love Live!",
+      "name": "Infiel",
       "ids": {
-        "tmdb": 53721
+        "tmdb": 261551
       },
-      "overview": "Centrada en la Preparatoria Otonokizaka, la cual esta en riesgo de cerrarse debido al numero reducido de estudiantes. Para evitarlo, nueve chicas se volveran idols para promocionar su escuela.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/xEAZIGmMuBVR3japyKHz9QgxEmr.jpg",
+      "overview": "Cuando el célebre director David Howard, de 73 años, se reencuentra con su antiguo gran amor, la actriz Marianne Vogler, de 75, se enfrentan a las dolorosas consecuencias de su anterior aventura, no sólo para ellos, sino también para sus familias. Cuarenta años antes, se enamoraron en secreto, ya que Marianne está casada con Markus, el mejor amigo de David.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qkQLwEgRVreY5QfN65aOnBY3ivA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9fvkROGBTlJN3Fppqdm93lqJE8o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hyTrcFapBEfT3lRWnRgovhOCoC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2NwonxUik5EQqFp3OcyrKoyZqru.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gkHGYg1Jzddrj9HEUVbHHTYOSGe.png"
+    },
+    {
+      "id": "tmdb:92621",
+      "type": "series",
+      "name": "Brassic",
+      "ids": {
+        "tmdb": 92621
+      },
+      "overview": "Un grupo de amigos de la clase trabajadora que encuentra formas poco convencionales de ganar en la vida en los suburbios del norte. Estos muchachos se han enfrentado, estafado, sobornado y engañado durante su adolescencia, pero ahora, al borde de la edad adulta, su trato y robo los está alcanzando y una gran cantidad de problemas se dirigen hacia ellos.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/FGtcrU5k2IZTmqkDx4IlMpBSEk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A8zX6xxfAgiydGtof3H9hv58lgS.png"
     },
     {
       "id": "tmdb:3902",
@@ -267,20 +281,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/xVyEMbD0MVxUVeM6g3NIb38PcNs.png"
     },
     {
-      "id": "tmdb:243140",
-      "type": "series",
-      "name": "¡Oye, Tonbo!",
-      "ids": {
-        "tmdb": 243140
-      },
-      "overview": "Igarashi abandonó su pasado y se refugió en las tranquilas islas Tokara de la prefectura de Kagoshima. En la isla Hinoshima, conocida como «la última región inexplorada de Japón», conoce a Tonbo, la única estudiante de secundaria de la isla. Para su sorpresa, ¡esta chica alberga un extraordinario talento para el golf! Este encuentro marca un cambio drástico en el destino de ambos.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/72zHVHKaIbcrc5g5fh0ltStD3hT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dujyzIuYx2yDkprgHNt4WZMw6na.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fgQmNizTn7M8yXd8k1aAy9EYxLt.png"
-    },
-    {
       "id": "tmdb:216074",
       "type": "series",
       "name": "Ririsa, una chica en 2.5D",
@@ -293,20 +293,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/1POofFLK6QG6FF4MqRy9MRgt3GH.png"
-    },
-    {
-      "id": "tmdb:92621",
-      "type": "series",
-      "name": "Brassic",
-      "ids": {
-        "tmdb": 92621
-      },
-      "overview": "Un grupo de amigos de la clase trabajadora que encuentra formas poco convencionales de ganar en la vida en los suburbios del norte. Estos muchachos se han enfrentado, estafado, sobornado y engañado durante su adolescencia, pero ahora, al borde de la edad adulta, su trato y robo los está alcanzando y una gran cantidad de problemas se dirigen hacia ellos.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/FGtcrU5k2IZTmqkDx4IlMpBSEk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A8zX6xxfAgiydGtof3H9hv58lgS.png"
     },
     {
       "id": "tmdb:11279",
@@ -323,18 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3siDplIEzv3Is4xouxX19VaVspt.png"
     },
     {
-      "id": "tmdb:24106",
+      "id": "tmdb:53721",
       "type": "series",
-      "name": "Campeones hacia el Mundial: Oliver y Benji",
+      "name": "Love Live!",
       "ids": {
-        "tmdb": 24106
+        "tmdb": 53721
       },
-      "overview": "Tras haber ganado el campeonato del mundo sub19, Tsubasa Ozora pide la mano de su gran amiga, Sanae, quien no se lo piensa mucho y acepta. También ha sido fichado por el Barcelona F.C., mientras que los demás se van a distintos equipos profesionales, como Hyuga, que se va al Juventus, o Wabayashi, quien se va al Hamburgo... Los demás se reparten en toda la J-League.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/dNWOnXiY39Jk3n4gWwnpHCPMrwh.jpg",
+      "overview": "Centrada en la Preparatoria Otonokizaka, la cual esta en riesgo de cerrarse debido al numero reducido de estudiantes. Para evitarlo, nueve chicas se volveran idols para promocionar su escuela.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/xEAZIGmMuBVR3japyKHz9QgxEmr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9qocd8l77UllzHt9uR7rohfEiKx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v6wwIqlmbOyx68vl6KYaOB3jOFx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9fvkROGBTlJN3Fppqdm93lqJE8o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyTrcFapBEfT3lRWnRgovhOCoC.png"
     },
     {
       "id": "tmdb:65708",
@@ -351,32 +337,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/5aorUFo7DoAQusNW2ltFq9vrpS3.png"
     },
     {
-      "id": "tmdb:90447",
+      "id": "tmdb:243140",
       "type": "series",
-      "name": "Hotel del Luna",
+      "name": "¡Oye, Tonbo!",
       "ids": {
-        "tmdb": 90447
+        "tmdb": 243140
       },
-      "overview": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+      "overview": "Igarashi abandonó su pasado y se refugió en las tranquilas islas Tokara de la prefectura de Kagoshima. En la isla Hinoshima, conocida como «la última región inexplorada de Japón», conoce a Tonbo, la única estudiante de secundaria de la isla. Para su sorpresa, ¡esta chica alberga un extraordinario talento para el golf! Este encuentro marca un cambio drástico en el destino de ambos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/72zHVHKaIbcrc5g5fh0ltStD3hT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a0XrZI6BuXGa0t0Y0M0DJS5b7Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgnP8hb3NrQQSjOtSRBGpDO4yug.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dujyzIuYx2yDkprgHNt4WZMw6na.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fgQmNizTn7M8yXd8k1aAy9EYxLt.png"
     },
     {
-      "id": "tmdb:261551",
+      "id": "tmdb:24106",
       "type": "series",
-      "name": "Infiel",
+      "name": "Campeones hacia el Mundial: Oliver y Benji",
       "ids": {
-        "tmdb": 261551
+        "tmdb": 24106
       },
-      "overview": "Cuando el célebre director David Howard, de 73 años, se reencuentra con su antiguo gran amor, la actriz Marianne Vogler, de 75, se enfrentan a las dolorosas consecuencias de su anterior aventura, no sólo para ellos, sino también para sus familias. Cuarenta años antes, se enamoraron en secreto, ya que Marianne está casada con Markus, el mejor amigo de David.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qkQLwEgRVreY5QfN65aOnBY3ivA.jpg",
+      "overview": "Tras haber ganado el campeonato del mundo sub19, Tsubasa Ozora pide la mano de su gran amiga, Sanae, quien no se lo piensa mucho y acepta. También ha sido fichado por el Barcelona F.C., mientras que los demás se van a distintos equipos profesionales, como Hyuga, que se va al Juventus, o Wabayashi, quien se va al Hamburgo... Los demás se reparten en toda la J-League.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/dNWOnXiY39Jk3n4gWwnpHCPMrwh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2NwonxUik5EQqFp3OcyrKoyZqru.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gkHGYg1Jzddrj9HEUVbHHTYOSGe.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9qocd8l77UllzHt9uR7rohfEiKx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v6wwIqlmbOyx68vl6KYaOB3jOFx.png"
+    },
+    {
+      "id": "tmdb:7011",
+      "type": "series",
+      "name": "Berni",
+      "ids": {
+        "tmdb": 7011
+      },
+      "overview": "Se relatan las peripecias del despistado y torpe oso Berni, de sus amigos, los pingüinos Lloyd y Eva, y de su competidor, el lagarto Zack.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/9SXIJY21rm67eQvlPBTTXIiRumG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dg1gRMrZIoZo2PmvqRAh6zxUSCC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1IhTVXMZg6SxqFzcZuXbWlHLBfZ.png"
     },
     {
       "id": "tmdb:35753",
@@ -393,18 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/8ysVbUQQMgTx1EETfytGfkNh52z.png"
     },
     {
-      "id": "tmdb:7011",
+      "id": "tmdb:90447",
       "type": "series",
-      "name": "Berni",
+      "name": "Hotel del Luna",
       "ids": {
-        "tmdb": 7011
+        "tmdb": 90447
       },
-      "overview": "Se relatan las peripecias del despistado y torpe oso Berni, de sus amigos, los pingüinos Lloyd y Eva, y de su competidor, el lagarto Zack.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/9SXIJY21rm67eQvlPBTTXIiRumG.jpg",
+      "overview": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dg1gRMrZIoZo2PmvqRAh6zxUSCC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1IhTVXMZg6SxqFzcZuXbWlHLBfZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/a0XrZI6BuXGa0t0Y0M0DJS5b7Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgnP8hb3NrQQSjOtSRBGpDO4yug.png"
     },
     {
       "id": "tmdb:16047",
@@ -435,34 +435,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/o1fLKlGghpEkpa3AItShXRaHFiM.png"
     },
     {
-      "id": "tmdb:106841",
-      "type": "series",
-      "name": "Blossoms Shanghai",
-      "ids": {
-        "tmdb": 106841
-      },
-      "overview": "Con el telón de fondo del crecimiento económico masivo de la década de 1990, la historia sigue a A Bao, un millonario hecho a sí mismo y su viaje desde ser un joven oportunista con un pasado turbulento hasta acumular una riqueza deslumbrante en la ciudad de Shanghai.  También sigue su enredo con cuatro mujeres que representan los objetivos de su vida: aventura, honor, amor e inocencia.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jURofNhzDyVfbxaXZwgznv9DSuR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xvqu7tgse0JWPXoaOsyQSqjCim2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oT0MaNhJEhusLeqvcygMw1wKqLD.png"
-    },
-    {
-      "id": "tmdb:29452",
-      "type": "series",
-      "name": "Heidi",
-      "ids": {
-        "tmdb": 29452
-      },
-      "overview": "Las aventuras de Heidi comienzan cuando la niña es enviada a vivir con su abuelito, un viejo gruñón que vive en los Alpes suizos. Poco a poco, el anciano le va cogiendo cariño a su nieta, que vive innumerables aventuras con sus amigos, Pedro y Clara, el perro Niebla y la pequeña cabra Copito de Nieve.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/q0WtdvwCo9OMGR840jxcoTSQk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cafsMt9cQlaRCNVqf5KXtTUQP6V.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3EmQDSETXrYEAJ646jLglGurYvs.png"
-    },
-    {
       "id": "tmdb:218351",
       "type": "series",
       "name": "The Gold",
@@ -491,6 +463,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/sjy5eDwgHcSy0Ds2wk6fkzFbsx6.png"
     },
     {
+      "id": "tmdb:106841",
+      "type": "series",
+      "name": "Blossoms Shanghai",
+      "ids": {
+        "tmdb": 106841
+      },
+      "overview": "Con el telón de fondo del crecimiento económico masivo de la década de 1990, la historia sigue a A Bao, un millonario hecho a sí mismo y su viaje desde ser un joven oportunista con un pasado turbulento hasta acumular una riqueza deslumbrante en la ciudad de Shanghai.  También sigue su enredo con cuatro mujeres que representan los objetivos de su vida: aventura, honor, amor e inocencia.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jURofNhzDyVfbxaXZwgznv9DSuR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xvqu7tgse0JWPXoaOsyQSqjCim2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oT0MaNhJEhusLeqvcygMw1wKqLD.png"
+    },
+    {
+      "id": "tmdb:29452",
+      "type": "series",
+      "name": "Heidi",
+      "ids": {
+        "tmdb": 29452
+      },
+      "overview": "Las aventuras de Heidi comienzan cuando la niña es enviada a vivir con su abuelito, un viejo gruñón que vive en los Alpes suizos. Poco a poco, el anciano le va cogiendo cariño a su nieta, que vive innumerables aventuras con sus amigos, Pedro y Clara, el perro Niebla y la pequeña cabra Copito de Nieve.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/q0WtdvwCo9OMGR840jxcoTSQk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cafsMt9cQlaRCNVqf5KXtTUQP6V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3EmQDSETXrYEAJ646jLglGurYvs.png"
+    },
+    {
       "id": "tmdb:245746",
       "type": "series",
       "name": "Inspectora Ellis",
@@ -503,20 +503,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kRXfWn3GAQjJJb1lzf733vMF39.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bvJwYtWBf4Kmi2DTM2xti0gg5iG.png"
-    },
-    {
-      "id": "tmdb:19521",
-      "type": "series",
-      "name": "El maravilloso viaje de Nils Holgersson",
-      "ids": {
-        "tmdb": 19521
-      },
-      "overview": "Las divertidas aventuras de Nils Holgersson, un travieso muchacho que va a emprender un fabuloso viaje por los cielos, tierras y mares de la hermosa Suecia, del cual habrá de regresar muy cambiado por fuera y, sobre todo, por dentro. Magia y aventura, sueños y leyenda, paisajes maravillosos y animales extraordinarios, sensaciones de altura, velocidad, poder y libertad. Todo en esta producción animada por el prestigioso estudio de animación, el Studio Pierrot.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/psIEYGliWH1quWZrKp92DJjtlvA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6WT8BcXJdg7ddDDU4v8UAF2VYHj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sTMEan0rpNmlhCQbVd8kPPZRDBF.png"
     },
     {
       "id": "tmdb:64840",
@@ -547,18 +533,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/peW9cqNxGbEN5xUrQyiAZHAh0TB.png"
     },
     {
-      "id": "tmdb:37183",
+      "id": "tmdb:19521",
       "type": "series",
-      "name": "Bailando con vampiros",
+      "name": "El maravilloso viaje de Nils Holgersson",
       "ids": {
-        "tmdb": 37183
+        "tmdb": 19521
       },
-      "overview": "Tras cientos de años escondidos, Mina Tepes, soberana de todos los vampiros desea un cambio. Usando la inmensa riqueza obtenida a lo largo de centenares de años, decide pagar la deuda externa de Japón a cambio de poseer un distrito propio cerca de la costa el cual se convertirá en el hogar de todos los vampiros. Ahora, en la víspera de la conferencia de prensa que anuncia la existencia de los vampiros al mundo, terroristas y las facciones rivales tratan de asesinar a Mina Tepes antes de que pueda anunciar la existencia de los vampiros.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/z2oM4QJuam8BUHoPnNxMIxUvjne.jpg",
+      "overview": "Las divertidas aventuras de Nils Holgersson, un travieso muchacho que va a emprender un fabuloso viaje por los cielos, tierras y mares de la hermosa Suecia, del cual habrá de regresar muy cambiado por fuera y, sobre todo, por dentro. Magia y aventura, sueños y leyenda, paisajes maravillosos y animales extraordinarios, sensaciones de altura, velocidad, poder y libertad. Todo en esta producción animada por el prestigioso estudio de animación, el Studio Pierrot.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/psIEYGliWH1quWZrKp92DJjtlvA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fgTu7zADTGdliBdjB8zqfAYQqb9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6osI1ji6nluUPjnKdIj0TzVQol6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6WT8BcXJdg7ddDDU4v8UAF2VYHj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTMEan0rpNmlhCQbVd8kPPZRDBF.png"
     },
     {
       "id": "tmdb:94137",
@@ -575,18 +561,30 @@
       "logo": "https://image.tmdb.org/t/p/w500/qzxquN4X0wyVxORaCDLCraRnP7s.png"
     },
     {
-      "id": "tmdb:69342",
+      "id": "tmdb:62914",
       "type": "series",
-      "name": "Seiren",
+      "name": "Merlí",
       "ids": {
-        "tmdb": 69342
+        "tmdb": 62914
       },
-      "overview": "El anime estará formado por un conjunto de arcos argumentales de cuatro capítulos cada uno, centrados respectivamente en cada protagonista: Hikari Tsuneki, Touru Miyamae y Kyouko Touno. Las historias de amor tendrán lugar en el verano del segundo año de instituto de las chicas. A Shouichi, el protagonista, le provoca ansiedad la idea de crecer, y su tutora lo llama para hablar de sus planes de futuro. Shouichi conoce a varias chicas y se encamina hacia un porvenir incierto.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/thSofF8CfOBllCYhuP8RFg4PkHB.jpg",
+      "overview": "Merlí es un profesor de una materia denostada y apreciada a partes iguales, filosofía. Un tipo contradictorio, y con virtudes y defectos a la par. La producción se centra en la relación del maestro con sus alumnos y, sobre todo, en «los conflictos entre padres e hijos, estudiantes y profesores...»",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i2ypkPT6pk8zPbnLbQN32ssATDS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4p33LLmcVqYRDk7rTQWohvo5yFv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nElVHpGzdKCh6y4o2JkKV0VJhiy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jieL5y5EGuaAGUyTvWWjzdZfGuN.png"
+    },
+    {
+      "id": "tmdb:295245",
+      "type": "series",
+      "name": "Enermanos (2010)",
+      "ids": {
+        "tmdb": 295245
+      },
+      "overview": "De la mano de unos personajes en forma de dedo, veremos cómo la familia Pensatotes se enfrenta a un grave problema que amenaza su ciudad.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/9BesCqmb0yZcbUjhGr591ljusGB.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:155243",
@@ -603,34 +601,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ivbGQRs6HIaAUfgLSMSqVAsQo0p.png"
     },
     {
-      "id": "tmdb:287167",
-      "type": "series",
-      "name": "The Hack",
-      "ids": {
-        "tmdb": 287167
-      },
-      "overview": "Ambientado entre 2002 y 2012, el drama entrelaza hábilmente dos historias de la vida real: el descubrimiento de escuchas telefónicas en el News of the World y, en paralelo, la investigación del asesinato sin resolver del investigador privado Daniel Morgan.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/eucYkxvmlIVQlkFLYtxRkEotxfZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mFnPnoxs1xpenRntBYkthPBsoR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8KrL1G9lumHvXfV9I0Htq3DagWS.png"
-    },
-    {
-      "id": "tmdb:62914",
-      "type": "series",
-      "name": "Merlí",
-      "ids": {
-        "tmdb": 62914
-      },
-      "overview": "Merlí es un profesor de una materia denostada y apreciada a partes iguales, filosofía. Un tipo contradictorio, y con virtudes y defectos a la par. La producción se centra en la relación del maestro con sus alumnos y, sobre todo, en «los conflictos entre padres e hijos, estudiantes y profesores...»",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nElVHpGzdKCh6y4o2JkKV0VJhiy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jieL5y5EGuaAGUyTvWWjzdZfGuN.png"
-    },
-    {
       "id": "tmdb:287355",
       "type": "series",
       "name": "Código de silencio",
@@ -645,32 +615,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/vVtjeUn2PYHvV7j0EhyTiKP3SvF.png"
     },
     {
-      "id": "tmdb:7389",
+      "id": "tmdb:287167",
       "type": "series",
-      "name": "Nuremberg",
+      "name": "The Hack",
       "ids": {
-        "tmdb": 7389
+        "tmdb": 287167
       },
-      "overview": "Miniserie de TV de 2 episodios. Tras la Segunda Guerra Mundial (1939-1945), en Núremberg, una pequeña ciudad alemana devastada por la guerra, fueron juzgados 21 altos mandos nazis como responsables de atroces crímenes contra la humanidad. El fiscal era el americano Robert Jackson (Alex Baldwin), que representaba a los Estados Unidos, Gran Bretaña y la U.R.S.S.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/951khY3QT0aoYognycJ7pOihqDT.jpg",
+      "overview": "Ambientado entre 2002 y 2012, el drama entrelaza hábilmente dos historias de la vida real: el descubrimiento de escuchas telefónicas en el News of the World y, en paralelo, la investigación del asesinato sin resolver del investigador privado Daniel Morgan.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eucYkxvmlIVQlkFLYtxRkEotxfZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfPemqE6LT0fMfRLBWTBfUHbTNL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/k8oHw3kDpjaDml7MheWB9VHRGS3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mFnPnoxs1xpenRntBYkthPBsoR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8KrL1G9lumHvXfV9I0Htq3DagWS.png"
     },
     {
-      "id": "tmdb:20580",
+      "id": "tmdb:251597",
       "type": "series",
-      "name": "La vuelta al mundo en 80 días",
+      "name": "Bookish",
       "ids": {
-        "tmdb": 20580
+        "tmdb": 251597
       },
-      "overview": "Miniserie de TV. de tres episodios. Un ladrón ha robado 55.000 libras del Banco de Inglaterra. Por su indumentaria, se cree que se trata de un caballero, y las sospechas recaen sobre Philleas Fogg, un caballero inglés que ha hecho una arriesgada apuesta con sus compañeros de club: les ha asegurado que es capaz de dar la vuelta al mundo exactamente en 80 días. Mientras tanto, el director del banco envía detectives a diversas capitales del mundo para perseguirlo. (FILMAFFINITY)",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/tM6Tb3Yz2RFmzqCqCi2tWWJG6Gd.jpg",
+      "overview": "En el Londres de 1946, hay una librería que lleva el nombre de su excéntrico propietario: Book. Antiguo espía militar reconvertido en detective poco convencional, Gabriel Book (Mark Gatiss) disfruta ayudando a la policía a resolver sus casos más complejos. Cuando Jack, un joven con un pasado como exconvicto, es enviado a trabajar a la librería, no tarda en sospechar que su llegada no fue en absoluto casual. ¿Podría estar su pasado irremediablemente entrelazado?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8Mk0Nda9vTgbfyRFst2S2IcOQeY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zooexRh0qSiipnuQiaX3s4U3Gt8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/h0nkCUMCjYEGpDJfe0n4pRx7gLk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jqh8ArccrJZR5l70T90skCgvwYW.png"
+    },
+    {
+      "id": "tmdb:69342",
+      "type": "series",
+      "name": "Seiren",
+      "ids": {
+        "tmdb": 69342
+      },
+      "overview": "El anime estará formado por un conjunto de arcos argumentales de cuatro capítulos cada uno, centrados respectivamente en cada protagonista: Hikari Tsuneki, Touru Miyamae y Kyouko Touno. Las historias de amor tendrán lugar en el verano del segundo año de instituto de las chicas. A Shouichi, el protagonista, le provoca ansiedad la idea de crecer, y su tutora lo llama para hablar de sus planes de futuro. Shouichi conoce a varias chicas y se encamina hacia un porvenir incierto.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/thSofF8CfOBllCYhuP8RFg4PkHB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i2ypkPT6pk8zPbnLbQN32ssATDS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4p33LLmcVqYRDk7rTQWohvo5yFv.png"
+    },
+    {
+      "id": "tmdb:37183",
+      "type": "series",
+      "name": "Bailando con vampiros",
+      "ids": {
+        "tmdb": 37183
+      },
+      "overview": "Tras cientos de años escondidos, Mina Tepes, soberana de todos los vampiros desea un cambio. Usando la inmensa riqueza obtenida a lo largo de centenares de años, decide pagar la deuda externa de Japón a cambio de poseer un distrito propio cerca de la costa el cual se convertirá en el hogar de todos los vampiros. Ahora, en la víspera de la conferencia de prensa que anuncia la existencia de los vampiros al mundo, terroristas y las facciones rivales tratan de asesinar a Mina Tepes antes de que pueda anunciar la existencia de los vampiros.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/z2oM4QJuam8BUHoPnNxMIxUvjne.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fgTu7zADTGdliBdjB8zqfAYQqb9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6osI1ji6nluUPjnKdIj0TzVQol6.png"
     },
     {
       "id": "tmdb:79053",
@@ -687,18 +685,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/goQoxIei9ncaW63Zi0Lv6UVhFTZ.png"
     },
     {
-      "id": "tmdb:15571",
+      "id": "tmdb:7389",
       "type": "series",
-      "name": "Holocausto",
+      "name": "Nuremberg",
       "ids": {
-        "tmdb": 15571
+        "tmdb": 7389
       },
-      "overview": "Berlín, Alemania, 1935. El día en que se casan Karl Weiss, un pintor judío, e Inga Helms, una mujer cristiana, es el día en que ambos y toda la familia Weiss se ven atrapados en la vorágine del régimen nazi, las tormentas de la Segunda Guerra Mundial y los horrores de la criminal Solución Final, el Holocausto, la Shoah; al tiempo que Erik Dorf, un ambicioso abogado, emprende su caída hacia el infierno de la mano del siniestro Reinhard Heydrich.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/5rrw7sr4IIYtoruRJX9My7koC8h.jpg",
+      "overview": "Miniserie de TV de 2 episodios. Tras la Segunda Guerra Mundial (1939-1945), en Núremberg, una pequeña ciudad alemana devastada por la guerra, fueron juzgados 21 altos mandos nazis como responsables de atroces crímenes contra la humanidad. El fiscal era el americano Robert Jackson (Alex Baldwin), que representaba a los Estados Unidos, Gran Bretaña y la U.R.S.S.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/951khY3QT0aoYognycJ7pOihqDT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6UDaFZiPKoMgelJdqrMsvcaFdD1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/niMMKWkZejzmh8PPCjvetlsarQ8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gfPemqE6LT0fMfRLBWTBfUHbTNL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k8oHw3kDpjaDml7MheWB9VHRGS3.png"
     }
   ]
 }
