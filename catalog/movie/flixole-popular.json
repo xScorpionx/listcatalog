@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:429",
+      "type": "movie",
+      "name": "El bueno, el feo y el malo",
+      "ids": {
+        "tmdb": 429
+      },
+      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7MyuO1OAvMZzs3Pfwh9V93OdBjZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
+    },
+    {
       "id": "tmdb:1368",
       "type": "movie",
       "name": "Acorralado",
@@ -29,116 +43,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/uUTS5ZTXFLNszIG8B2yzvXpHdWf.png"
     },
     {
-      "id": "tmdb:429",
+      "id": "tmdb:423",
       "type": "movie",
-      "name": "El bueno, el feo y el malo",
+      "name": "El pianista",
       "ids": {
-        "tmdb": 429
+        "tmdb": 423
       },
-      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7MyuO1OAvMZzs3Pfwh9V93OdBjZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
-    },
-    {
-      "id": "tmdb:1370",
-      "type": "movie",
-      "name": "Rambo III",
-      "ids": {
-        "tmdb": 1370
-      },
-      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
-      "year": 1988,
-      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yM2clonjcpiHDyqxVbV3ePshXh7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
-    },
-    {
-      "id": "tmdb:9350",
-      "type": "movie",
-      "name": "Máximo riesgo",
-      "ids": {
-        "tmdb": 9350
-      },
-      "overview": "Gabe Walker, un alpinista dedicado al rescate de alta montaña, todavía no ha superado la muerte de su compañera en una caída al vacío un año atrás. Ahora le piden que vuelva a la misma montaña de la tragedia para rescatar a un grupo de personas extraviadas. Lo que Gabe desconoce es que se trata de peligrosos delincuentes que acaban de perpetrar un asalto a un avión para hacerse con un botín de cien millones de dólares.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/1nwcgnpP6Clb3TXuFzvrEFreWZ6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zAkL9SiiSWHFyO6OTqHrZ4C1tGJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/egFVjqRrYpbHYqBcdm8kTLInjaz.png"
-    },
-    {
-      "id": "tmdb:20766",
-      "type": "movie",
-      "name": "La Carretera",
-      "ids": {
-        "tmdb": 20766
-      },
-      "overview": "El planeta ha sido arrasado por un misterioso cataclismo y, en medio de la desolación, un padre y su hijo se dirigen hacia la costa en busca de un lugar seguro donde asentarse. Durante el viaje se cruzarán con otros supervivientes: unos se han vuelto locos, otros se han convertido en caníbales.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/wKU6IcJsWP2rPmMg6DiOT2anNnB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r2LrZ97fsF3JLJC68LyCf8cMV3l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tDw6O7iHKcIejgz03GCvbRTMowr.png"
-    },
-    {
-      "id": "tmdb:9399",
-      "type": "movie",
-      "name": "Lionheart, el luchador",
-      "ids": {
-        "tmdb": 9399
-      },
-      "overview": "León Gualtier es un desertor en la Legión Extranjera que llega a los EE.UUy encuentra a su hermano entre la vida y la muerte y a su cuñada sin dinero para curar a su marido y mantener su hija. Para ganar el dinero necesario, Gualtier acepta para participar en peleas clandestinas.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wcuoz1EEzcSvlM4navzT6hSNNg7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1EPXHnuIsursiSQXrxMhNyP7fW9.png"
-    },
-    {
-      "id": "tmdb:26390",
-      "type": "movie",
-      "name": "Los amos de Brooklyn",
-      "ids": {
-        "tmdb": 26390
-      },
-      "overview": "Un veterano policía llamado Eddie Dugan se encuentra en la última etapa de su carrera, muy quemado por los años de servicio y a una semana vista de comenzar su jubilación y retirarse a pescar a una cabaña en Connecticut. Por otro lado, el oficial de estupefacientes Sal Procida tiene claro que no hay ninguna línea que no cruzara para proporcionar a su mujer y sus siete hijos una vida estable y en paz. La tercera parte en discordia es Clarence \"Tango\" Butler, un policía que siempre se ha rodeado de hombres leales y que tiene una “relación especial” con Caz, uno de los narcotraficantes más infames de Brooklyn que en esos momentos se encuentra en prisión.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/1IAQfcAUlQtmMyNN3AluLEuevhR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qf4BoOyCatP5vVrq9XjZIaqPh41.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iS0LKjRE7GY32b981f2m8Yhl21O.png"
-    },
-    {
-      "id": "tmdb:10161",
-      "type": "movie",
-      "name": "Mi pie izquierdo",
-      "ids": {
-        "tmdb": 10161
-      },
-      "overview": "Christy Brown es un enfermo de parálisis cerebral, nacido en el seno de una numerosa y mísera familia irlandesa. Su madre es la única que lo ve como un chico con talento y sensibilidad. Con el tiempo, Christy se revela como un irascible pero talentoso escritor y pintor, que utiliza su pie izquierdo -la única parte de su cuerpo que tiene motricidad- como instrumento.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/zhBhzNvUbIqjl2xDmwuTPmDNwYi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/46ow87Pzin4qSZJOhCP2zeQkyNP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6nXglCb43TTiY3z5YFpO9kS8GVa.png"
-    },
-    {
-      "id": "tmdb:84060",
-      "type": "movie",
-      "name": "Tiburón 5",
-      "ids": {
-        "tmdb": 84060
-      },
-      "overview": "Un tiburón tigre (o tiburón blanco, según la escena de la película), criado por la Marina como una máquina de matar, está haciendo estragos en el pueblo turístico de Hampton Bay. Mientras tanto, la mafia local que se dedica a las inversiones en bienes raíces, envía a sus matones para que la situación no pueda ser controlada por las autoridades, y los residentes se vean forzados a abandonar sus casas. Dag, el dueño del acuario Sea World, junto con sus delfines, vienen al rescate para salvar a Hampton Bay. (FILMAFFINITY)",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/3aLabIgttFYtHaN7eVQAA9nGdHz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5NKfPvwASQK6mPZM9co46Xykpa4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/acv3V8MH9qex1clgAID6f0mWBry.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
     },
     {
       "id": "tmdb:9769",
@@ -155,6 +71,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/tzlgvs6dXNjk91U96PnVQzHf7A1.png"
     },
     {
+      "id": "tmdb:1370",
+      "type": "movie",
+      "name": "Rambo III",
+      "ids": {
+        "tmdb": 1370
+      },
+      "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yM2clonjcpiHDyqxVbV3ePshXh7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZnZohJ6syqhJokjyZ0D6eABoHX.png"
+    },
+    {
+      "id": "tmdb:28178",
+      "type": "movie",
+      "name": "Siempre a tu lado (Hachiko)",
+      "ids": {
+        "tmdb": 28178
+      },
+      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
+    },
+    {
       "id": "tmdb:77429",
       "type": "movie",
       "name": "Chechu y familia",
@@ -166,20 +110,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/rZBzPx0w6IDE3ST1T7K8uXIZvYf.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tCyQ00lRBQvNNV2VQvH0Atrid6r.jpg"
-    },
-    {
-      "id": "tmdb:423",
-      "type": "movie",
-      "name": "El pianista",
-      "ids": {
-        "tmdb": 423
-      },
-      "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hHrEwLQKpc3rVIzccMThmu6ou9M.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aB69H37bMYVXi03RBHqEjEa9iSL.png"
     },
     {
       "id": "tmdb:402",
@@ -210,34 +140,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/9WX9WS0ZFvDwLvgguhXKT5NAAVX.png"
     },
     {
-      "id": "tmdb:64084",
-      "type": "movie",
-      "name": "Una mujer sin escrúpulos",
-      "ids": {
-        "tmdb": 64084
-      },
-      "overview": "Un hombre está tan desesperado por promocionarse que ofrece su mujer a su jefe. A pesar de este sacrificio, otro hombre consigue el ascenso. Entonces decide suicidarse y su mujer promete vengarse de todos los implicados. (FILMAFFINITY)",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/piSwaUrbvlITD833fjrc8znU8JD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/71HJTC4R5ZG4PUXnxpy0ucjXubh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tT4f0kJ1Ng9FE4WqWhSjz0hXMj6.png"
-    },
-    {
-      "id": "tmdb:28178",
-      "type": "movie",
-      "name": "Siempre a tu lado (Hachiko)",
-      "ids": {
-        "tmdb": 28178
-      },
-      "overview": "Basada en una historia real. Un profesor de universidad adopta a un perro vagabundo en una estación del tren. Tras recabar información sobre el animal, el profesor descubre que el perro iba a los andenes a diario durante semanas para esperar el regreso de su amo, pero éste había muerto en un accidente en la ciudad. El perro Hachiko, al lado de su nuevo amo a quien también le cambiará la vida cuando descubre los lazos que se pueden crear entre un animal y una persona.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFCNw7ewLrc4BgRUw9mN3G3vxOl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mSBpv8j18UoN1G5jaQgRMTfK0O2.png"
-    },
-    {
       "id": "tmdb:263472",
       "type": "movie",
       "name": "Toc, toc",
@@ -252,46 +154,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/9yRc1hqHNvLgAmEQpNWeY77185b.png"
     },
     {
-      "id": "tmdb:8689",
+      "id": "tmdb:9399",
       "type": "movie",
-      "name": "Holocausto caníbal",
+      "name": "Lionheart, el luchador",
       "ids": {
-        "tmdb": 8689
+        "tmdb": 9399
       },
-      "overview": "Cuatro jóvenes documentalistas se adentran en la selva amazónica (América del Sur) para realizar un reportaje sobre las tribus que habitan en esa región, de las que se dice que todavía practican el canibalismo. Debido a la desaparición de los reporteros, dos meses después un grupo de rescate es enviado para averiguar qué ha sido de ellos; lo único que encuentran es el material filmado sobre su terrible fin.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/r7JBDaxsU0Uw1liRjDpv3e4xpXF.jpg",
+      "overview": "León Gualtier es un desertor en la Legión Extranjera que llega a los EE.UUy encuentra a su hermano entre la vida y la muerte y a su cuñada sin dinero para curar a su marido y mantener su hija. Para ganar el dinero necesario, Gualtier acepta para participar en peleas clandestinas.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ptg4aaFbrNNg8If5ZtbQa5r4Nz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1HfnMUnUiA2fiQPONoIgEgGa03z.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wcuoz1EEzcSvlM4navzT6hSNNg7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1EPXHnuIsursiSQXrxMhNyP7fW9.png"
     },
     {
-      "id": "tmdb:27578",
+      "id": "tmdb:64084",
       "type": "movie",
-      "name": "Los mercenarios",
+      "name": "Una mujer sin escrúpulos",
       "ids": {
-        "tmdb": 27578
+        "tmdb": 64084
       },
-      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
+      "overview": "Un hombre está tan desesperado por promocionarse que ofrece su mujer a su jefe. A pesar de este sacrificio, otro hombre consigue el ascenso. Entonces decide suicidarse y su mujer promete vengarse de todos los implicados. (FILMAFFINITY)",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/piSwaUrbvlITD833fjrc8znU8JD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/71HJTC4R5ZG4PUXnxpy0ucjXubh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tT4f0kJ1Ng9FE4WqWhSjz0hXMj6.png"
     },
     {
-      "id": "tmdb:13375",
+      "id": "tmdb:9350",
       "type": "movie",
-      "name": "La teta y la luna",
+      "name": "Máximo riesgo",
       "ids": {
-        "tmdb": 13375
+        "tmdb": 9350
       },
-      "overview": "Tete es un niño extraño y enigmático al que le gusta hablar con la luna. Ya que no soporta a su nuevo hermano, sueña con beber otra vez de la leche del pecho de su madre en su lugar. Le pedirá entonces a la luna que le brinde una teta sólo para él.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/hyUut0gpST6Vmn2IcNk13mNfOXO.jpg",
+      "overview": "Gabe Walker, un alpinista dedicado al rescate de alta montaña, todavía no ha superado la muerte de su compañera en una caída al vacío un año atrás. Ahora le piden que vuelva a la misma montaña de la tragedia para rescatar a un grupo de personas extraviadas. Lo que Gabe desconoce es que se trata de peligrosos delincuentes que acaban de perpetrar un asalto a un avión para hacerse con un botín de cien millones de dólares.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/1nwcgnpP6Clb3TXuFzvrEFreWZ6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5rlTtzrD4mlY7onFJTDGpDhGWgP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gbrm06GiddKZEFUJ4phGest0o2f.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zAkL9SiiSWHFyO6OTqHrZ4C1tGJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/egFVjqRrYpbHYqBcdm8kTLInjaz.png"
+    },
+    {
+      "id": "tmdb:20766",
+      "type": "movie",
+      "name": "La Carretera",
+      "ids": {
+        "tmdb": 20766
+      },
+      "overview": "El planeta ha sido arrasado por un misterioso cataclismo y, en medio de la desolación, un padre y su hijo se dirigen hacia la costa en busca de un lugar seguro donde asentarse. Durante el viaje se cruzarán con otros supervivientes: unos se han vuelto locos, otros se han convertido en caníbales.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/wKU6IcJsWP2rPmMg6DiOT2anNnB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r2LrZ97fsF3JLJC68LyCf8cMV3l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tDw6O7iHKcIejgz03GCvbRTMowr.png"
     },
     {
       "id": "tmdb:747",
@@ -308,32 +224,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/tcK2zgZTEjfllsKVETwOPLrjV2k.png"
     },
     {
-      "id": "tmdb:28468",
+      "id": "tmdb:27578",
       "type": "movie",
-      "name": "La llave secreta",
+      "name": "Los mercenarios",
       "ids": {
-        "tmdb": 28468
+        "tmdb": 27578
       },
-      "overview": "Nino es un hombre mayor que está casado con una bella joven. El tipo no está muy satisfecho con su vida sexual, pero una posibilidad de cambio se abre una noche que sorprende a su esposa dormida.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/yVpTbPqrlvjJG570pG22b6Rlba4.jpg",
+      "overview": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bf0cRj3lFuw7TOWJSa1nNFJYEZX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uUd2UeBzloBqnasdZGXjTvCF9Pt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7iugqPsB7BkqPouupLjmMDHsk45.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:41446",
+      "id": "tmdb:8689",
       "type": "movie",
-      "name": "Scream 4",
+      "name": "Holocausto caníbal",
       "ids": {
-        "tmdb": 41446
+        "tmdb": 8689
       },
-      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+      "overview": "Cuatro jóvenes documentalistas se adentran en la selva amazónica (América del Sur) para realizar un reportaje sobre las tribus que habitan en esa región, de las que se dice que todavía practican el canibalismo. Debido a la desaparición de los reporteros, dos meses después un grupo de rescate es enviado para averiguar qué ha sido de ellos; lo único que encuentran es el material filmado sobre su terrible fin.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/r7JBDaxsU0Uw1liRjDpv3e4xpXF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ptg4aaFbrNNg8If5ZtbQa5r4Nz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1HfnMUnUiA2fiQPONoIgEgGa03z.png"
     },
     {
       "id": "tmdb:15",
@@ -350,73 +266,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/xnlpf9ChpLBxYOIFluaTN7HLogk.png"
     },
     {
-      "id": "tmdb:44741",
+      "id": "tmdb:26390",
       "type": "movie",
-      "name": "Malicia",
+      "name": "Los amos de Brooklyn",
       "ids": {
-        "tmdb": 44741
+        "tmdb": 26390
       },
-      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
-      "year": 1973,
-      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
+      "overview": "Un veterano policía llamado Eddie Dugan se encuentra en la última etapa de su carrera, muy quemado por los años de servicio y a una semana vista de comenzar su jubilación y retirarse a pescar a una cabaña en Connecticut. Por otro lado, el oficial de estupefacientes Sal Procida tiene claro que no hay ninguna línea que no cruzara para proporcionar a su mujer y sus siete hijos una vida estable y en paz. La tercera parte en discordia es Clarence \"Tango\" Butler, un policía que siempre se ha rodeado de hombres leales y que tiene una “relación especial” con Caz, uno de los narcotraficantes más infames de Brooklyn que en esos momentos se encuentra en prisión.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/1IAQfcAUlQtmMyNN3AluLEuevhR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qf4BoOyCatP5vVrq9XjZIaqPh41.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iS0LKjRE7GY32b981f2m8Yhl21O.png"
     },
     {
-      "id": "tmdb:11778",
+      "id": "tmdb:28468",
       "type": "movie",
-      "name": "El cazador",
+      "name": "La llave secreta",
       "ids": {
-        "tmdb": 11778
+        "tmdb": 28468
       },
-      "overview": "Unos amigos de un pequeño pueblo industrial acuden a la llamada del ejército para combatir en la guerra del Vietnam. Michael Cimino divide el film en dos partes: en la primera nos hace partícipes de la humilde vida de los personajes, de sus sueños, juergas y esperanzas; en la segunda nos muestra con dureza los efectos de la guerra y sus penosas consecuencias.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/qwS3AuvdXlpCqlYAuEwGInOe3pu.jpg",
+      "overview": "Nino es un hombre mayor que está casado con una bella joven. El tipo no está muy satisfecho con su vida sexual, pero una posibilidad de cambio se abre una noche que sorprende a su esposa dormida.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/yVpTbPqrlvjJG570pG22b6Rlba4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bnDiqccyIREugI2LML3vZdKo5Ad.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9sRoxqbHfL048Lc4fws65KOKUcj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/bf0cRj3lFuw7TOWJSa1nNFJYEZX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uUd2UeBzloBqnasdZGXjTvCF9Pt.png"
     },
     {
-      "id": "tmdb:8009",
+      "id": "tmdb:13375",
       "type": "movie",
-      "name": "Los inmortales",
+      "name": "La teta y la luna",
       "ids": {
-        "tmdb": 8009
+        "tmdb": 13375
       },
-      "overview": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg",
+      "overview": "Tete es un niño extraño y enigmático al que le gusta hablar con la luna. Ya que no soporta a su nuevo hermano, sueña con beber otra vez de la leche del pecho de su madre en su lugar. Le pedirá entonces a la luna que le brinde una teta sólo para él.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/hyUut0gpST6Vmn2IcNk13mNfOXO.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8lpTTKGjVj0UzYUc9xmWRg9t3pN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5rlTtzrD4mlY7onFJTDGpDhGWgP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gbrm06GiddKZEFUJ4phGest0o2f.png"
     },
     {
-      "id": "tmdb:41264",
+      "id": "tmdb:41446",
       "type": "movie",
-      "name": "Adiós África",
+      "name": "Scream 4",
       "ids": {
-        "tmdb": 41264
+        "tmdb": 41446
       },
-      "overview": "Documental que se centra en los aspectos más insólitos y desagradables de lavida africana. Se plasman con gran detalle, las tradiciones y ritos másextraños y crueles de las culturas primitivas de Africa.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/w6NX5XANveNK49c37c7yl6U1oaz.jpg",
+      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eIbAyXb4l2VxmudtMipXM2CKiok.jpg"
-    },
-    {
-      "id": "tmdb:39924",
-      "type": "movie",
-      "name": "La casa de la colina de paja",
-      "ids": {
-        "tmdb": 39924
-      },
-      "overview": "En lo alto de Straw Hill hay una casa de campo solitaria, una casa que pronto se estremecerá y temblará ante la violencia, lujuria e infidelidad que se desencadena en su interior.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/7bEV13lR9QrVTpx7RVYk3ea1hkR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/q9pWUZ01oyEyT9OJ1zxBnwI2A76.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hjoIjmPcOszJjRCO7W8aTBXxmh7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
     },
     {
       "id": "tmdb:5528",
@@ -433,18 +336,45 @@
       "logo": "https://image.tmdb.org/t/p/w500/o1K8iSNLLXFDOfAVapjNBFVh0YW.png"
     },
     {
-      "id": "tmdb:391",
+      "id": "tmdb:41264",
       "type": "movie",
-      "name": "Por un puñado de dólares",
+      "name": "Adiós África",
       "ids": {
-        "tmdb": 391
+        "tmdb": 41264
       },
-      "overview": "Tras la muerte de Juárez, en México dominan la injusticia y el terror. Joe, un pistolero vagabundo, llega al pueblo fronterizo de San Miguel, donde dos familias se disputan el control del territorio, y entra al servicio del clan Rojo. Una noche, Joe es testigo del intercambio de oro por armas entre mexicanos y soldados de la Unión...",
-      "year": 1964,
-      "poster": "https://image.tmdb.org/t/p/w342/nV8S1LDferh5Ym0V8bt3cBycSqR.jpg",
+      "overview": "Documental que se centra en los aspectos más insólitos y desagradables de lavida africana. Se plasman con gran detalle, las tradiciones y ritos másextraños y crueles de las culturas primitivas de Africa.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/w6NX5XANveNK49c37c7yl6U1oaz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8AQo9k8pD4EAgL8OELKjVGlq1Ec.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eIbAyXb4l2VxmudtMipXM2CKiok.jpg"
+    },
+    {
+      "id": "tmdb:10161",
+      "type": "movie",
+      "name": "Mi pie izquierdo",
+      "ids": {
+        "tmdb": 10161
+      },
+      "overview": "Christy Brown es un enfermo de parálisis cerebral, nacido en el seno de una numerosa y mísera familia irlandesa. Su madre es la única que lo ve como un chico con talento y sensibilidad. Con el tiempo, Christy se revela como un irascible pero talentoso escritor y pintor, que utiliza su pie izquierdo -la única parte de su cuerpo que tiene motricidad- como instrumento.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/zhBhzNvUbIqjl2xDmwuTPmDNwYi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/46ow87Pzin4qSZJOhCP2zeQkyNP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6nXglCb43TTiY3z5YFpO9kS8GVa.png"
+    },
+    {
+      "id": "tmdb:8009",
+      "type": "movie",
+      "name": "Los inmortales",
+      "ids": {
+        "tmdb": 8009
+      },
+      "overview": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iz3k081oPbRLMKVsjfukOppzEzR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8lpTTKGjVj0UzYUc9xmWRg9t3pN.png"
     },
     {
       "id": "tmdb:1933",
@@ -461,103 +391,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/cAfDGFvGvHqW29rjN2RDuTOfJsm.png"
     },
     {
-      "id": "tmdb:587792",
-      "type": "movie",
-      "name": "Palm Springs",
-      "ids": {
-        "tmdb": 587792
-      },
-      "overview": "Cuando el desenfadado Nyles y su reticente dama de honor Sarah tienen la oportunidad de encontrarse en una boda de Palm Springs, las cosas se complican al verse incapaces de escapar del lugar y el uno del otro",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/eYNS3rNpLDxx5NJ16dwczAf4a7e.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/abHa4yfuwX957FLw3FRxZFMENRV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1O92r8CnyvdEgeda7rOZDYEWNAG.png"
-    },
-    {
-      "id": "tmdb:1948",
-      "type": "movie",
-      "name": "Crank: Veneno en la sangre",
-      "ids": {
-        "tmdb": 1948
-      },
-      "overview": "Chev Chelios (Jason Statham), un asesino a sueldo de Los Ángeles, ha sido envenenado mientras dormía y que sólo le queda una hora de vida. La única oportunidad que tiene Chev de sobrevivir es mantenerse en movimiento para impedir que el veneno le llegue al corazón. El tiempo pasa y corre enloquecido por las calles de Los Ángeles para salvar a su novia y encontrar un antídoto que le salve la vida.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iWJDG98EjiuRso7PzQE8mYJeT2H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yAl3GZTLH5XOvD4LuBgjLeBgJ2.png"
-    },
-    {
-      "id": "tmdb:17899",
-      "type": "movie",
-      "name": "Mentiras y gordas",
-      "ids": {
-        "tmdb": 17899
-      },
-      "overview": "Un grupo de jóvenes se prepara para lo que va a ser el verano de su vida, entre secretos, mentiras, ligues, sexo, confusión, noche y sobre todo mucha fiesta. La mayor parte de los adolescentes no son conscientes de que, una vez emprendido ese viaje iniciático, no se puede dar marcha atrás, y que a menudo las mentiras se irán haciendo cada vez más grandes, y que a veces amar significa hacer daño.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/h9HfPq5NKtiLzHu1279A97kZUo5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pieFSTfzRCj0SvbNKpMjToyKbdX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/98JZktN7OeJPQcQcCqkYjdLB6SS.png"
-    },
-    {
-      "id": "tmdb:102961",
-      "type": "movie",
-      "name": "Los siete profesionales",
-      "ids": {
-        "tmdb": 102961
-      },
-      "overview": "Un agente del gobierno descubre un complot de un cartel de siete gángsteres para hacerse cargo del estado de Hawai. Contrata a un equipo de siete sicarios para detenerlos.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/20w5CnvBkScKbJqyqGhwaCZjNEE.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o8YeVZwQ4kLzpA482DitcEqJsMY.jpg"
-    },
-    {
-      "id": "tmdb:10331",
-      "type": "movie",
-      "name": "La noche de los muertos vivientes",
-      "ids": {
-        "tmdb": 10331
-      },
-      "overview": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
-      "year": 1968,
-      "poster": "https://image.tmdb.org/t/p/w342/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kDvSaVmij0mWHC61tEHuWs1eyLa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png"
-    },
-    {
-      "id": "tmdb:144069",
-      "type": "movie",
-      "name": "La criada",
-      "ids": {
-        "tmdb": 144069
-      },
-      "overview": "Anna (Guerin), la hermosa esposa de un abogado, se siente abandonada por este, por lo que decide irse unos días con su sirvienta (Michelsen) al pueblo natal de esta. A partir de este momento comenzará una extraña relación entre ellas.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/s9pXocmKhkvLazafoL0oUGIn3Me.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yW0YS1TtukPNwhzJPQa44gYk7QX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZIncxPyQFAihWnOpfgwI0JSfR6.png"
-    },
-    {
-      "id": "tmdb:53932",
-      "type": "movie",
-      "name": "Las edades de Lulú",
-      "ids": {
-        "tmdb": 53932
-      },
-      "overview": "Adaptación de la novela homónima de Almudena Grandes. Lulú es una chica de quince años que sucumbe a los atractivos de Pablo, un amigo de la familia. Después de esta experiencia, Lulú alimenta durante mucho tiempo el deseo por ese hombre, que volverá a entrar en su vida años más tarde, prolongando así el juego amoroso de la niñez. Pablo crea para ella un mundo aparte, un universo privado donde el tiempo carece de valor. Pero pronto ese mundo idealizado se quebrará, cuando Lulú, con treinta años, se adentre en el universo de los deseos prohibidos.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/zwQrgqrMSqidARZrquEjQ10T8bX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AqYp8OychJTIS4N3ZsqJ3RnKBtu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e5jPFGqNe63pHGhcAaI0ECb3YVZ.png"
-    },
-    {
       "id": "tmdb:136797",
       "type": "movie",
       "name": "Need for Speed",
@@ -572,18 +405,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/kLgoC5Jm6gTq1UP6gtAkkzX01Q3.png"
     },
     {
-      "id": "tmdb:24402",
+      "id": "tmdb:587792",
       "type": "movie",
-      "name": "Emmanuelle",
+      "name": "Palm Springs",
       "ids": {
-        "tmdb": 24402
+        "tmdb": 587792
       },
-      "overview": "Una jovencita recién casada viaja a Bangkok a reunirse con su marido, un diplomático francés. En el viaje es iniciada al sexo por una hermosa adolescente y guiada por un hombre maduro en los placeres de la carne, y aprende a materializar sus fantasías sexuales más secretas, animada por su esposo.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/kFq1ffM4ruQmWH6C3SjVWJoqMi6.jpg",
+      "overview": "Cuando el desenfadado Nyles y su reticente dama de honor Sarah tienen la oportunidad de encontrarse en una boda de Palm Springs, las cosas se complican al verse incapaces de escapar del lugar y el uno del otro",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/eYNS3rNpLDxx5NJ16dwczAf4a7e.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ramMMxfUbm8t35Dp7p4QeFlRHIx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6fhWzaR6GIu0ALE01Sv6WkAfW4j.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/abHa4yfuwX957FLw3FRxZFMENRV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1O92r8CnyvdEgeda7rOZDYEWNAG.png"
+    },
+    {
+      "id": "tmdb:44741",
+      "type": "movie",
+      "name": "Malicia",
+      "ids": {
+        "tmdb": 44741
+      },
+      "overview": "En un piso de Catania, en los años cincuenta se reúnen muchas personas de luto por la muerte de la esposa de Ignazio La Brocca, dueño de una próspera sastrería y padre de tres hijos.Entre los presentes hay una joven, Angela La Barbera, que precisamente ese día iba a empezar a trabajar como interina para la familia. El viudo y los tres hijos pronto se acostumbran a los cuidados dulces y atentos de la nueva presencia femenina.El viudo no consigue resistir a la tentación y decide casarse con ella a pesar del poco tiempo transcurrido desde la muerte de su mujer. Además de la presencia dominante de un gran retrato de la primera esposa, otro obstáculo para la unión es el hijo Nino, totalmente obsesionado por la mujer. Entre los dos se va instaurando una relación maliciosa y cruel, en la que Angela se presta a los juegos eróticos del adolescente con tal de conseguir el consenso para casarse con su padre.",
+      "year": 1973,
+      "poster": "https://image.tmdb.org/t/p/w342/aFDzUNTAFKIl5WK8Llrhz1AfVTt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i3CV5KhT2Y1xv0j606GE9jgc2SC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sSkA55gd1YGZoq9orLjdFJ29zjt.png"
     },
     {
       "id": "tmdb:13387",
@@ -600,6 +447,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/zOFoR4cWJB1avdg9QKw8J6OOmyX.png"
     },
     {
+      "id": "tmdb:11778",
+      "type": "movie",
+      "name": "El cazador",
+      "ids": {
+        "tmdb": 11778
+      },
+      "overview": "Unos amigos de un pequeño pueblo industrial acuden a la llamada del ejército para combatir en la guerra del Vietnam. Michael Cimino divide el film en dos partes: en la primera nos hace partícipes de la humilde vida de los personajes, de sus sueños, juergas y esperanzas; en la segunda nos muestra con dureza los efectos de la guerra y sus penosas consecuencias.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/qwS3AuvdXlpCqlYAuEwGInOe3pu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bnDiqccyIREugI2LML3vZdKo5Ad.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9sRoxqbHfL048Lc4fws65KOKUcj.png"
+    },
+    {
+      "id": "tmdb:391",
+      "type": "movie",
+      "name": "Por un puñado de dólares",
+      "ids": {
+        "tmdb": 391
+      },
+      "overview": "Tras la muerte de Juárez, en México dominan la injusticia y el terror. Joe, un pistolero vagabundo, llega al pueblo fronterizo de San Miguel, donde dos familias se disputan el control del territorio, y entra al servicio del clan Rojo. Una noche, Joe es testigo del intercambio de oro por armas entre mexicanos y soldados de la Unión...",
+      "year": 1964,
+      "poster": "https://image.tmdb.org/t/p/w342/nV8S1LDferh5Ym0V8bt3cBycSqR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8AQo9k8pD4EAgL8OELKjVGlq1Ec.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png"
+    },
+    {
+      "id": "tmdb:1948",
+      "type": "movie",
+      "name": "Crank: Veneno en la sangre",
+      "ids": {
+        "tmdb": 1948
+      },
+      "overview": "Chev Chelios (Jason Statham), un asesino a sueldo de Los Ángeles, ha sido envenenado mientras dormía y que sólo le queda una hora de vida. La única oportunidad que tiene Chev de sobrevivir es mantenerse en movimiento para impedir que el veneno le llegue al corazón. El tiempo pasa y corre enloquecido por las calles de Los Ángeles para salvar a su novia y encontrar un antídoto que le salve la vida.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/zSzDbylthJBPL4YX0khc9Sr6sew.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iWJDG98EjiuRso7PzQE8mYJeT2H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yAl3GZTLH5XOvD4LuBgjLeBgJ2.png"
+    },
+    {
+      "id": "tmdb:84060",
+      "type": "movie",
+      "name": "Tiburón 5",
+      "ids": {
+        "tmdb": 84060
+      },
+      "overview": "Un tiburón tigre (o tiburón blanco, según la escena de la película), criado por la Marina como una máquina de matar, está haciendo estragos en el pueblo turístico de Hampton Bay. Mientras tanto, la mafia local que se dedica a las inversiones en bienes raíces, envía a sus matones para que la situación no pueda ser controlada por las autoridades, y los residentes se vean forzados a abandonar sus casas. Dag, el dueño del acuario Sea World, junto con sus delfines, vienen al rescate para salvar a Hampton Bay. (FILMAFFINITY)",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/3aLabIgttFYtHaN7eVQAA9nGdHz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5NKfPvwASQK6mPZM9co46Xykpa4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/acv3V8MH9qex1clgAID6f0mWBry.png"
+    },
+    {
       "id": "tmdb:25376",
       "type": "movie",
       "name": "El secreto de sus ojos",
@@ -614,46 +517,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/mxr9Gaur6qtlAU8jyxhqUa8YFvx.png"
     },
     {
-      "id": "tmdb:622",
+      "id": "tmdb:10331",
       "type": "movie",
-      "name": "La novena puerta",
+      "name": "La noche de los muertos vivientes",
       "ids": {
-        "tmdb": 622
+        "tmdb": 10331
       },
-      "overview": "Dean Corso (Johnny Depp) trabaja de forma confidencial, con sumo cuidado, dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Su reputación le ha servido para recibir la llamada de Boris Balkan (Frank Langella), un apasionado de los textos demoníacos que quiere encontrar los dos últimos libros del legendario manual de invocación satánica De umbrarum regni novem portis: Las nueve puertas del Reino de las Sombras. De Nueva York a Toledo y de París a Sintra, Corso se verá inmerso en un laberinto lleno de peligro, tentaciones, aterradoras sorpresas, violencia y muertes inesperadas.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/qsbz08kV9geGk6EI7X5NhzsfXLY.jpg",
+      "overview": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza.",
+      "year": 1968,
+      "poster": "https://image.tmdb.org/t/p/w342/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kDkoL7AUAfqZiG97uP0kgoZnpck.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nuRif4eQkvuxIw9VRtsIoInH1Cd.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kDvSaVmij0mWHC61tEHuWs1eyLa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gka7hSSiB5Rncua0WOZDZui2lzZ.png"
     },
     {
-      "id": "tmdb:244",
+      "id": "tmdb:17899",
       "type": "movie",
-      "name": "King Kong",
+      "name": "Mentiras y gordas",
       "ids": {
-        "tmdb": 244
+        "tmdb": 17899
       },
-      "overview": "Un equipo de cine va a rodar una película a la misteriosa isla de Teschio, al este de Sumatra. Allí descubren la existencia de una civilización prehistórica y de una tribu ancestral que secuestra a la atractiva Ann, la actriz protagonista, para ofrecerla en sacrificio ritual a King, un gigantesco gorila.",
-      "year": 1933,
-      "poster": "https://image.tmdb.org/t/p/w342/7WQcJuFtwkT3PsK3V6kBzK0F4Ko.jpg",
+      "overview": "Un grupo de jóvenes se prepara para lo que va a ser el verano de su vida, entre secretos, mentiras, ligues, sexo, confusión, noche y sobre todo mucha fiesta. La mayor parte de los adolescentes no son conscientes de que, una vez emprendido ese viaje iniciático, no se puede dar marcha atrás, y que a menudo las mentiras se irán haciendo cada vez más grandes, y que a veces amar significa hacer daño.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/h9HfPq5NKtiLzHu1279A97kZUo5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/llOOKsVj0IuGtkIWBY6QhEECZjU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tKND6XVKkh2b4hSfsLUvqLA9AqR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pieFSTfzRCj0SvbNKpMjToyKbdX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/98JZktN7OeJPQcQcCqkYjdLB6SS.png"
     },
     {
-      "id": "tmdb:11205",
+      "id": "tmdb:24402",
       "type": "movie",
-      "name": "Los supercamorristas",
+      "name": "Emmanuelle",
       "ids": {
-        "tmdb": 11205
+        "tmdb": 24402
       },
-      "overview": "Thomás y David son dos chinos que se ganan la vida en Barcelona trabajando en su furgón-bar. Al igual que Moby, pero este es un detective al que le encomiendan la misión de encontrar a Sylvia; una chica que tiene una gran heréncia familiar, pero ella no lo sabe. Pero tambien hay otras personas que la buscan, pero para quitarle la herencia.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/4KToGTbEfZE5UQafIWw9UZmXrYF.jpg",
+      "overview": "Una jovencita recién casada viaja a Bangkok a reunirse con su marido, un diplomático francés. En el viaje es iniciada al sexo por una hermosa adolescente y guiada por un hombre maduro en los placeres de la carne, y aprende a materializar sus fantasías sexuales más secretas, animada por su esposo.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/kFq1ffM4ruQmWH6C3SjVWJoqMi6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8BENmIBdIHZ4dGExkvWtdHW3AT8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hJbMD1TlA1SRBPEnyC0bmBdd2P5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ramMMxfUbm8t35Dp7p4QeFlRHIx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6fhWzaR6GIu0ALE01Sv6WkAfW4j.png"
+    },
+    {
+      "id": "tmdb:53932",
+      "type": "movie",
+      "name": "Las edades de Lulú",
+      "ids": {
+        "tmdb": 53932
+      },
+      "overview": "Adaptación de la novela homónima de Almudena Grandes. Lulú es una chica de quince años que sucumbe a los atractivos de Pablo, un amigo de la familia. Después de esta experiencia, Lulú alimenta durante mucho tiempo el deseo por ese hombre, que volverá a entrar en su vida años más tarde, prolongando así el juego amoroso de la niñez. Pablo crea para ella un mundo aparte, un universo privado donde el tiempo carece de valor. Pero pronto ese mundo idealizado se quebrará, cuando Lulú, con treinta años, se adentre en el universo de los deseos prohibidos.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/zwQrgqrMSqidARZrquEjQ10T8bX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AqYp8OychJTIS4N3ZsqJ3RnKBtu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e5jPFGqNe63pHGhcAaI0ECb3YVZ.png"
+    },
+    {
+      "id": "tmdb:144069",
+      "type": "movie",
+      "name": "La criada",
+      "ids": {
+        "tmdb": 144069
+      },
+      "overview": "Anna (Guerin), la hermosa esposa de un abogado, se siente abandonada por este, por lo que decide irse unos días con su sirvienta (Michelsen) al pueblo natal de esta. A partir de este momento comenzará una extraña relación entre ellas.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/s9pXocmKhkvLazafoL0oUGIn3Me.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yW0YS1TtukPNwhzJPQa44gYk7QX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZIncxPyQFAihWnOpfgwI0JSfR6.png"
     },
     {
       "id": "tmdb:4192",
@@ -670,20 +601,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWqY4xkF0inbLXJ2z97HiMhSMPO.png"
     },
     {
-      "id": "tmdb:52212",
-      "type": "movie",
-      "name": "Miranda",
-      "ids": {
-        "tmdb": 52212
-      },
-      "overview": "En esta comedia erótica, Miranda es la encargada de una cantina en un pequeño pueblo que empieza a probar a los distintos hombres disponibles.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/sxBazt4grZmU5eEvLiWmcquP1cA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qYCSR5V7E6AupsLdifUW1txJUtT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aQpMvTx2ODga9GrAp0WhQPOPzXO.png"
-    },
-    {
       "id": "tmdb:1364",
       "type": "movie",
       "name": "Lucía y el sexo",
@@ -696,6 +613,89 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fG58Ua6ds4GuMADVBl8DV9foiqA.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hUy1oBQ29wis0LJXE7vbjvclJUL.png"
+    },
+    {
+      "id": "tmdb:622",
+      "type": "movie",
+      "name": "La novena puerta",
+      "ids": {
+        "tmdb": 622
+      },
+      "overview": "Dean Corso (Johnny Depp) trabaja de forma confidencial, con sumo cuidado, dotado de una sólida cultura, nervios de acero y pocos escrúpulos. Su reputación le ha servido para recibir la llamada de Boris Balkan (Frank Langella), un apasionado de los textos demoníacos que quiere encontrar los dos últimos libros del legendario manual de invocación satánica De umbrarum regni novem portis: Las nueve puertas del Reino de las Sombras. De Nueva York a Toledo y de París a Sintra, Corso se verá inmerso en un laberinto lleno de peligro, tentaciones, aterradoras sorpresas, violencia y muertes inesperadas.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/qsbz08kV9geGk6EI7X5NhzsfXLY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kDkoL7AUAfqZiG97uP0kgoZnpck.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nuRif4eQkvuxIw9VRtsIoInH1Cd.png"
+    },
+    {
+      "id": "tmdb:39924",
+      "type": "movie",
+      "name": "La casa de la colina de paja",
+      "ids": {
+        "tmdb": 39924
+      },
+      "overview": "En lo alto de Straw Hill hay una casa de campo solitaria, una casa que pronto se estremecerá y temblará ante la violencia, lujuria e infidelidad que se desencadena en su interior.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/7bEV13lR9QrVTpx7RVYk3ea1hkR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q9pWUZ01oyEyT9OJ1zxBnwI2A76.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hjoIjmPcOszJjRCO7W8aTBXxmh7.png"
+    },
+    {
+      "id": "tmdb:102961",
+      "type": "movie",
+      "name": "Los siete profesionales",
+      "ids": {
+        "tmdb": 102961
+      },
+      "overview": "Un agente del gobierno descubre un complot de un cartel de siete gángsteres para hacerse cargo del estado de Hawai. Contrata a un equipo de siete sicarios para detenerlos.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/20w5CnvBkScKbJqyqGhwaCZjNEE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o8YeVZwQ4kLzpA482DitcEqJsMY.jpg"
+    },
+    {
+      "id": "tmdb:2330",
+      "type": "movie",
+      "name": "Taxi Express",
+      "ids": {
+        "tmdb": 2330
+      },
+      "overview": "Daniel, un joven repartidor de pizzas, consigue hacer realidad uno de sus sueños: obtener la licencia de taxi. Pero un encuentro fortuito con Emilien le pone en un aprieto: para conservar su licencia de taxi, han de detener a una banda que está desmantelando los bancos del país.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/hJGTeFfEVzYGhB84YFU67B3VG4F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/148xS3PsuxDHT3VCcj3dzdU1lj3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/shKSBFh8eBz1zxEITJXkwqFon8O.png"
+    },
+    {
+      "id": "tmdb:12572",
+      "type": "movie",
+      "name": "New York, I Love You",
+      "ids": {
+        "tmdb": 12572
+      },
+      "overview": "Película formada por cortometrajes de reconocidos directores y actores, siguiendo la línea de \"Paris, je t'aime\", narrando historias de amor en la ciudad de Nueva York.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/85pnbEkyGi211Rq9DmnqbNX18aK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tHE1WCXyFxwavxpuBiGeuuyJ7N8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3r1xP0ng561isVgeEv1frd58zRG.png"
+    },
+    {
+      "id": "tmdb:244",
+      "type": "movie",
+      "name": "King Kong",
+      "ids": {
+        "tmdb": 244
+      },
+      "overview": "Un equipo de cine va a rodar una película a la misteriosa isla de Teschio, al este de Sumatra. Allí descubren la existencia de una civilización prehistórica y de una tribu ancestral que secuestra a la atractiva Ann, la actriz protagonista, para ofrecerla en sacrificio ritual a King, un gigantesco gorila.",
+      "year": 1933,
+      "poster": "https://image.tmdb.org/t/p/w342/wlRhyQOC67Q9dxqd2Fpsh64kFHh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/llOOKsVj0IuGtkIWBY6QhEECZjU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dqBd73VlkcGXujr0MXn4jFBaUjU.png"
     }
   ]
 }
