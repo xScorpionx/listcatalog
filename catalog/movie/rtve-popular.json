@@ -15,20 +15,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
     },
     {
-      "id": "tmdb:429",
-      "type": "movie",
-      "name": "El bueno, el feo y el malo",
-      "ids": {
-        "tmdb": 429
-      },
-      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7MyuO1OAvMZzs3Pfwh9V93OdBjZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
-    },
-    {
       "id": "tmdb:348",
       "type": "movie",
       "name": "Alien: El octavo pasajero",
@@ -41,6 +27,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png"
+    },
+    {
+      "id": "tmdb:429",
+      "type": "movie",
+      "name": "El bueno, el feo y el malo",
+      "ids": {
+        "tmdb": 429
+      },
+      "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7MyuO1OAvMZzs3Pfwh9V93OdBjZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0brYd78ykMjc6r2i0R46cEuPSW.png"
     },
     {
       "id": "tmdb:290098",
@@ -71,20 +71,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mLvFljM5eaPtwf0DEtQy2JqaUDE.png"
     },
     {
-      "id": "tmdb:915935",
-      "type": "movie",
-      "name": "Anatomía de una caída",
-      "ids": {
-        "tmdb": 915935
-      },
-      "overview": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zYTQ0Vb5pOsBtBCOLW8MoT2R4yc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
-    },
-    {
       "id": "tmdb:11423",
       "type": "movie",
       "name": "Memories of Murder (Crónica de un asesino en serie)",
@@ -111,6 +97,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
+    },
+    {
+      "id": "tmdb:915935",
+      "type": "movie",
+      "name": "Anatomía de una caída",
+      "ids": {
+        "tmdb": 915935
+      },
+      "overview": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zYTQ0Vb5pOsBtBCOLW8MoT2R4yc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
     },
     {
       "id": "tmdb:666277",
@@ -141,18 +141,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gFDe4ZbHecsA0HALXUDtQ6jHYwX.png"
     },
     {
-      "id": "tmdb:293863",
+      "id": "tmdb:416477",
       "type": "movie",
-      "name": "El secreto de Adaline",
+      "name": "La gran enfermedad del amor",
       "ids": {
-        "tmdb": 293863
+        "tmdb": 416477
       },
-      "overview": "Adaline Bowman (Blake Lively), nacida a comienzos del siglo XX, adquiere a los 29 años la eterna juventud tras un accidente. Tras años de vida solitaria y permanecer con la misma edad durante 8 décadas, conoce a Ellis Jones (Michiel Huisman), un hombre por el que podría merecer la pena perder la inmortalidad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg",
+      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/of0S7ABWSIV0zn0TldYTH9bbrw7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xAJNZwJXcst8Caqw0m49pEVn7po.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
     },
     {
       "id": "tmdb:395834",
@@ -169,18 +169,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/3IGejPDAy3XsdErrVOwIyBj79T3.png"
     },
     {
-      "id": "tmdb:969492",
+      "id": "tmdb:762",
       "type": "movie",
-      "name": "Misión hostil",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
       "ids": {
-        "tmdb": 969492
+        "tmdb": 762
       },
-      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
+    },
+    {
+      "id": "tmdb:293863",
+      "type": "movie",
+      "name": "El secreto de Adaline",
+      "ids": {
+        "tmdb": 293863
+      },
+      "overview": "Adaline Bowman (Blake Lively), nacida a comienzos del siglo XX, adquiere a los 29 años la eterna juventud tras un accidente. Tras años de vida solitaria y permanecer con la misma edad durante 8 décadas, conoce a Ellis Jones (Michiel Huisman), un hombre por el que podría merecer la pena perder la inmortalidad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/of0S7ABWSIV0zn0TldYTH9bbrw7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xAJNZwJXcst8Caqw0m49pEVn7po.png"
     },
     {
       "id": "tmdb:524",
@@ -197,144 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/uMZHu14lCEx5bjV2Sak87yO0OhB.png"
     },
     {
-      "id": "tmdb:416477",
+      "id": "tmdb:969492",
       "type": "movie",
-      "name": "La gran enfermedad del amor",
+      "name": "Misión hostil",
       "ids": {
-        "tmdb": 416477
+        "tmdb": 969492
       },
-      "overview": "Cuenta la historia real de Kumail y Emily, una pareja que se conoce en un espectáculo de comedia. Cuando parecía que todo iba a quedarse en un encuentro de una noche, su relación empieza a avanzar a pesar de las diferencias culturales, complicando las vidas de todos por las expectativas que tenían los padres de Kumail, musulmanes estrictos.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/181e4wDYjhRBKmBzuhId4CJHZQc.jpg",
+      "overview": "Kinney, un controlador de apoyo aéreo con poca experiencia, se incorpora a un equipo Delta Force en una misión en Filipinas. Cuando el equipo queda atrapado sin armas, las oportunidades de sobrevivir dependen de la habilidad de Reaper, un piloto de drones de las Fuerzas Aéreas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/pRPI8pl9YOrHoDMCr1VLGgEk5PE.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rckZvJzV6JUUbYxSjSkJzvhLvsm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
-    },
-    {
-      "id": "tmdb:660120",
-      "type": "movie",
-      "name": "La peor persona del mundo",
-      "ids": {
-        "tmdb": 660120
-      },
-      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
-    },
-    {
-      "id": "tmdb:762",
-      "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
-      "ids": {
-        "tmdb": 762
-      },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
-    },
-    {
-      "id": "tmdb:838240",
-      "type": "movie",
-      "name": "Robot Dreams",
-      "ids": {
-        "tmdb": 838240
-      },
-      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
-    },
-    {
-      "id": "tmdb:334543",
-      "type": "movie",
-      "name": "Lion",
-      "ids": {
-        "tmdb": 334543
-      },
-      "overview": "El pequeño Saroo, de cinco años, se pierde en un tren en el que recorrerá miles de kilómetros por la India, lejos de su casa y de su familia. Saroo tendrá que aprender a vivir solo en Calcuta, antes de que una pareja australiana lo adopte. Veinticinco años después, y contando tan sólo con sus recuerdos, una determinación inquebrantable y las posibilidades que le proporciona la herramienta de búsqueda Google Earth, comenzará a buscar a su familia perdida, para reencontrarse con ellos.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/jp0Q2YPjMdJVkVY2cHudit4klFX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4ylxU3OnEItUEoI7B8TbmzQ9va8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qQZKgPIEn7EtSmjC9XSDUq9pgrU.png"
-    },
-    {
-      "id": "tmdb:596054",
-      "type": "movie",
-      "name": "La odisea de los giles",
-      "ids": {
-        "tmdb": 596054
-      },
-      "overview": "En un pueblo del Noroeste de la provincia de Buenos Aires, un grupo de vecinos se organiza para recuperar la economía de la zona, pero cuando el Corralito se implementa en el país y sufren un fraude, sus esperanzas desaparecen. Ahora, se unirán para recuperar el dinero perdido y dar el golpe de sus vidas a su mayor enemigo.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lcyxmF0WqcRncw86MfAO4yBxGSI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7lAvHZDOifP67yR7wkROWaRHNRk.png"
-    },
-    {
-      "id": "tmdb:517814",
-      "type": "movie",
-      "name": "Cafarnaúm",
-      "ids": {
-        "tmdb": 517814
-      },
-      "overview": "Beirut, Líbano. Zain es un niño de doce años inteligente y valiente, que sobrevive a los peligros de las calles de la ciudad gracias a su ingenio. Huyendo de sus padres, y haciendo valer sus derechos, recurre a la justicia para demandarles por el 'crimen' de haberle dado la vida. Una fábula contemporánea de carácter político sobre un niño que se rebela contra la vida que le han impuesto vivir .",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2rXFgdX8fPtyvih9zWsV8yUHYZU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
-    },
-    {
-      "id": "tmdb:462",
-      "type": "movie",
-      "name": "Erin Brockovich",
-      "ids": {
-        "tmdb": 462
-      },
-      "overview": "Erin Brockovich es una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores, pero todo cambiará cuando decida investigar el extraño caso de unos clientes que padecen una sospechosa enfermedad.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/4WiaVbWcRhVItfJc5ZNQUwJwigZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7QkRhSsTa1SVWaOMwB0GwSQY4kt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wFoPRgEg60SPZSVvubcGdYIlaYT.png"
-    },
-    {
-      "id": "tmdb:505192",
-      "type": "movie",
-      "name": "Un asunto de familia",
-      "ids": {
-        "tmdb": 505192
-      },
-      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
-    },
-    {
-      "id": "tmdb:1633",
-      "type": "movie",
-      "name": "Tomates verdes fritos",
-      "ids": {
-        "tmdb": 1633
-      },
-      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4zI9Wga7u3GehLmHPH0QrgSeSaL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
     },
     {
       "id": "tmdb:580175",
@@ -351,60 +239,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
     },
     {
-      "id": "tmdb:586863",
+      "id": "tmdb:500006",
       "type": "movie",
-      "name": "Los miserables",
+      "name": "Utoya. 22 de julio",
       "ids": {
-        "tmdb": 586863
+        "tmdb": 500006
       },
-      "overview": "Montfermeil, un suburbio al este de París. Stéphane acaba de unirse a la Brigada de Lucha contra la Delincuencia, donde conoce a sus nuevos compañeros, Chris y Gwada, dos agentes con experiencia en las enormes tensiones que existen entre los distintos grupos organizados por el control del barrio.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/x38m4xUo4byOuzrAQO0zMrpxEau.jpg",
+      "overview": "Conocemos a Kaja, una joven de 18 años, apenas 12 minutos antes de que comience la matanza en el campamento de verano de la isla noruega de Utøya, el 22 de julio del 2011, en el que fue el peor día de la historia moderna de Noruega. Los jóvenes acampados saben de la bomba explosionada por un terrorista en Oslo, pero desconocen que Anders Breivik se encuentra en la isla con la intención de matar a cuantas más personas mejor.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/zlVpeGjVi5bNG3bmTnhwOm7WVI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rgwvcVYc4FxRkBcWrCo2k1TQZIm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qo3r33rjYBjkvyTsOhXEKaZsw6s.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gvlNP6M1L5o4zQYDmnTzk4csDJk.png"
     },
     {
-      "id": "tmdb:444539",
+      "id": "tmdb:660120",
       "type": "movie",
-      "name": "La librería",
+      "name": "La peor persona del mundo",
       "ids": {
-        "tmdb": 444539
+        "tmdb": 660120
       },
-      "overview": "En un pequeño pueblo de la Inglaterra de 1959, una mujer decide, en contra de la educada pero implacable oposición vecinal, abrir la primera librería que haya habido nunca en esa zona.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/4KUWhdtFclOc1FxLqI1RaK9shtc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5C3BqnQFLSNj5tB7MSxSvOnIyjU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wTZq2mE0I3yghfRQrGUFTtIRF1w.png"
-    },
-    {
-      "id": "tmdb:388399",
-      "type": "movie",
-      "name": "Día de patriotas",
-      "ids": {
-        "tmdb": 388399
-      },
-      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
-    },
-    {
-      "id": "tmdb:758866",
-      "type": "movie",
-      "name": "Drive my car",
-      "ids": {
-        "tmdb": 758866
-      },
-      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
+      "overview": "Julie va a cumplir los treinta y su vida es un desastre existencial. Ya ha desperdiciado parte de su talento y su novio Aksel, un exitoso novelista gráfico mayor que ella, la presiona para que contenga su energía creativa y siente la cabeza. Una noche se cuela en una fiesta y conoce al joven y encantador Eivind. Tardará poco en romper con Aksel y embarcarse en una nueva relación con la esperanza de que su vida adquiera una nueva perspectiva. Sin embargo, tendrá que darse cuenta de que ya es demasiado tarde para ciertas opciones vitales.",
       "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/hTMRZV2kRhUlbKCph1Azd59vc3P.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6ClAtQvmO2NGCeIjOJAiXv9KCMz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
+    },
+    {
+      "id": "tmdb:1633",
+      "type": "movie",
+      "name": "Tomates verdes fritos",
+      "ids": {
+        "tmdb": 1633
+      },
+      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+    },
+    {
+      "id": "tmdb:838240",
+      "type": "movie",
+      "name": "Robot Dreams",
+      "ids": {
+        "tmdb": 838240
+      },
+      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eZM6PQEYIKcbMg3jwhL7jxowcQm.png"
     },
     {
       "id": "tmdb:583",
@@ -421,32 +309,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
     },
     {
-      "id": "tmdb:901563",
+      "id": "tmdb:334543",
       "type": "movie",
-      "name": "Close",
+      "name": "Lion",
       "ids": {
-        "tmdb": 901563
+        "tmdb": 334543
       },
-      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "overview": "El pequeño Saroo, de cinco años, se pierde en un tren en el que recorrerá miles de kilómetros por la India, lejos de su casa y de su familia. Saroo tendrá que aprender a vivir solo en Calcuta, antes de que una pareja australiana lo adopte. Veinticinco años después, y contando tan sólo con sus recuerdos, una determinación inquebrantable y las posibilidades que le proporciona la herramienta de búsqueda Google Earth, comenzará a buscar a su familia perdida, para reencontrarse con ellos.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/jp0Q2YPjMdJVkVY2cHudit4klFX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4ylxU3OnEItUEoI7B8TbmzQ9va8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qQZKgPIEn7EtSmjC9XSDUq9pgrU.png"
     },
     {
-      "id": "tmdb:980026",
+      "id": "tmdb:517814",
       "type": "movie",
-      "name": "La tierra prometida",
+      "name": "Cafarnaúm",
       "ids": {
-        "tmdb": 980026
+        "tmdb": 517814
       },
-      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
+      "overview": "Beirut, Líbano. Zain es un niño de doce años inteligente y valiente, que sobrevive a los peligros de las calles de la ciudad gracias a su ingenio. Huyendo de sus padres, y haciendo valer sus derechos, recurre a la justicia para demandarles por el 'crimen' de haberle dado la vida. Una fábula contemporánea de carácter político sobre un niño que se rebela contra la vida que le han impuesto vivir .",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2rXFgdX8fPtyvih9zWsV8yUHYZU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xn0XRWoOojN3kyAxozPdp7haX7R.png"
+    },
+    {
+      "id": "tmdb:505192",
+      "type": "movie",
+      "name": "Un asunto de familia",
+      "ids": {
+        "tmdb": 505192
+      },
+      "overview": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8BRhsnEp2sROieL0GxAYTydxUx8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
+    },
+    {
+      "id": "tmdb:586863",
+      "type": "movie",
+      "name": "Los miserables",
+      "ids": {
+        "tmdb": 586863
+      },
+      "overview": "Montfermeil, un suburbio al este de París. Stéphane acaba de unirse a la Brigada de Lucha contra la Delincuencia, donde conoce a sus nuevos compañeros, Chris y Gwada, dos agentes con experiencia en las enormes tensiones que existen entre los distintos grupos organizados por el control del barrio.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/x38m4xUo4byOuzrAQO0zMrpxEau.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rgwvcVYc4FxRkBcWrCo2k1TQZIm.png"
+    },
+    {
+      "id": "tmdb:596054",
+      "type": "movie",
+      "name": "La odisea de los giles",
+      "ids": {
+        "tmdb": 596054
+      },
+      "overview": "En un pueblo del Noroeste de la provincia de Buenos Aires, un grupo de vecinos se organiza para recuperar la economía de la zona, pero cuando el Corralito se implementa en el país y sufren un fraude, sus esperanzas desaparecen. Ahora, se unirán para recuperar el dinero perdido y dar el golpe de sus vidas a su mayor enemigo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/t5oMn99BVp9IJruztEwpKgvqA2h.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lcyxmF0WqcRncw86MfAO4yBxGSI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7lAvHZDOifP67yR7wkROWaRHNRk.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Día de patriotas",
+      "ids": {
+        "tmdb": 388399
+      },
+      "overview": "Basada en el atentado de la maratón de Bostón, Patriot’s Day cuenta la historia del oficial de policía Ed Davis, que investiga los acontecimientos que se saldaron con la muerte de un terrorista y la detención de otro, ofreciendo una exhaustiva narración de la persecución que se llevó a cabo por toda la ciudad para dar caza a los causantes del atentado.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/xKsf89Kenn0p5fM0Cbj8Uq2KJm5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9Pu9JXKs93Q3hhnKAvHtfap1hl5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mAeFZzCgBpVgs6IjnhJkbpBvfYN.png"
+    },
+    {
+      "id": "tmdb:7305",
+      "type": "movie",
+      "name": "¡Viven!",
+      "ids": {
+        "tmdb": 7305
+      },
+      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
+    },
+    {
+      "id": "tmdb:444539",
+      "type": "movie",
+      "name": "La librería",
+      "ids": {
+        "tmdb": 444539
+      },
+      "overview": "En un pequeño pueblo de la Inglaterra de 1959, una mujer decide, en contra de la educada pero implacable oposición vecinal, abrir la primera librería que haya habido nunca en esa zona.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/4KUWhdtFclOc1FxLqI1RaK9shtc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5C3BqnQFLSNj5tB7MSxSvOnIyjU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wTZq2mE0I3yghfRQrGUFTtIRF1w.png"
     },
     {
       "id": "tmdb:262543",
@@ -463,18 +435,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/jQ8TLJDrnFFMAYtCZy5QVhnHKtV.png"
     },
     {
-      "id": "tmdb:227783",
+      "id": "tmdb:980026",
       "type": "movie",
-      "name": "Operación Cacahuete",
+      "name": "La tierra prometida",
       "ids": {
-        "tmdb": 227783
+        "tmdb": 980026
       },
-      "overview": "Comedia repleta de acción establecida a finales de los años 50's en una ficticia Oakton, donde veremos las andanzas de una traviesa ardilla y su compinche rata, quienes planean un atraco a un almacén de nueces que se les acabará yendo de las manos.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/jIXmFMnAGpW5nA1czbtIhSrB9Ey.jpg",
+      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9F7YXoXrAPUy2bWAmIsen629UEs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fRVN46sJ3cMT7wog3soSGOfWeD2.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
+    },
+    {
+      "id": "tmdb:419704",
+      "type": "movie",
+      "name": "Ad astra",
+      "ids": {
+        "tmdb": 419704
+      },
+      "overview": "El futuro cercano, un tiempo en el que tanto la esperanza como la adversidad impulsan a la humanidad a mirar hacia las estrellas y más allá. Mientras un misterioso fenómeno amenaza con destruir la vida en el planeta Tierra, el astronauta Roy McBride emprende una misión a través de la inmensidad del espacio y sus muchos peligros para descubrir la verdad sobre una expedición perdida que décadas antes afrontó audazmente el vacío y el silencio en busca de lo desconocido.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/afrkbfmnLWbDFEXuAglpNi31QBc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oUuJ6UlgOUc1WcE8XK5lLp0K0eb.png"
+    },
+    {
+      "id": "tmdb:901563",
+      "type": "movie",
+      "name": "Close",
+      "ids": {
+        "tmdb": 901563
+      },
+      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/saESlYSTAGjr8gkyjoGb7omH0hf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
+    },
+    {
+      "id": "tmdb:964877",
+      "type": "movie",
+      "name": "Nosotros, Los Leroy",
+      "ids": {
+        "tmdb": 964877
+      },
+      "overview": "Sandrine Leroy le anuncia a su marido Christophe que se quiere divorciar. Los hijos ya tienen casi edad para irse de casa. En un intento de darse una última oportunidad, tan atrevido como imposible, Christophe organiza un fin de semana para salvar su matrimonio: un viaje pasando por los lugares claves de la historia de su familia. Un viaje que no será para nada lo esperado...",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/cw5zZ5tYPpEVkWls92Q0h4N8iPV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yj5uwrGNYyQIM0UIBVBb9PWOPLh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ob6FAvl3H1AnNTVyc6w7Twqsq85.png"
     },
     {
       "id": "tmdb:8346",
@@ -491,18 +505,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
     },
     {
-      "id": "tmdb:457",
+      "id": "tmdb:227783",
       "type": "movie",
-      "name": "Sissi",
+      "name": "Operación Cacahuete",
       "ids": {
-        "tmdb": 457
+        "tmdb": 227783
       },
-      "overview": "Francisco José debe casarse y, aunque su madre ya ha pensado en Helena, una joven princesa bávara, el emperador se enamora perdidamente de Elizabeth (Sissi), una joven espontánea y poco convencional que detesta el protocolo de la Corte. A pesar de que su decisión no contará con la aprobación de su madre, el joven enamorado hará de su espléndida boda con Sissi la primera victoria en el frente familiar.",
-      "year": 1955,
-      "poster": "https://image.tmdb.org/t/p/w342/iGy9j4AdhkiOYRYeTSpq7g3zayL.jpg",
+      "overview": "Comedia repleta de acción establecida a finales de los años 50's en una ficticia Oakton, donde veremos las andanzas de una traviesa ardilla y su compinche rata, quienes planean un atraco a un almacén de nueces que se les acabará yendo de las manos.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/jIXmFMnAGpW5nA1czbtIhSrB9Ey.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rKs8y5WlXcYX5GCbDkXcXybGteZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfe8xNJTbfh87DZMwfJXG69cyV3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9F7YXoXrAPUy2bWAmIsen629UEs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fRVN46sJ3cMT7wog3soSGOfWeD2.png"
     },
     {
       "id": "tmdb:32856",
@@ -533,18 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
     },
     {
-      "id": "tmdb:419704",
+      "id": "tmdb:758866",
       "type": "movie",
-      "name": "Ad astra",
+      "name": "Drive my car",
       "ids": {
-        "tmdb": 419704
+        "tmdb": 758866
       },
-      "overview": "El futuro cercano, un tiempo en el que tanto la esperanza como la adversidad impulsan a la humanidad a mirar hacia las estrellas y más allá. Mientras un misterioso fenómeno amenaza con destruir la vida en el planeta Tierra, el astronauta Roy McBride emprende una misión a través de la inmensidad del espacio y sus muchos peligros para descubrir la verdad sobre una expedición perdida que décadas antes afrontó audazmente el vacío y el silencio en busca de lo desconocido.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
+      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/afrkbfmnLWbDFEXuAglpNi31QBc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oUuJ6UlgOUc1WcE8XK5lLp0K0eb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
     },
     {
       "id": "tmdb:1249289",
@@ -561,32 +575,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
     },
     {
-      "id": "tmdb:7305",
+      "id": "tmdb:441701",
       "type": "movie",
-      "name": "¡Viven!",
+      "name": "Verónica",
       "ids": {
-        "tmdb": 7305
+        "tmdb": 441701
       },
-      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
+      "overview": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/oM2F7l8zNXV12Obe48IpQbH3crK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
-    },
-    {
-      "id": "tmdb:500006",
-      "type": "movie",
-      "name": "Utoya. 22 de julio",
-      "ids": {
-        "tmdb": 500006
-      },
-      "overview": "Conocemos a Kaja, una joven de 18 años, apenas 12 minutos antes de que comience la matanza en el campamento de verano de la isla noruega de Utøya, el 22 de julio del 2011, en el que fue el peor día de la historia moderna de Noruega. Los jóvenes acampados saben de la bomba explosionada por un terrorista en Oslo, pero desconocen que Anders Breivik se encuentra en la isla con la intención de matar a cuantas más personas mejor.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/zlVpeGjVi5bNG3bmTnhwOm7WVI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qo3r33rjYBjkvyTsOhXEKaZsw6s.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gvlNP6M1L5o4zQYDmnTzk4csDJk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6YMNG8B8ikbdh08mq9CoVbdlDGm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png"
     },
     {
       "id": "tmdb:793998",
@@ -603,6 +603,61 @@
       "logo": "https://image.tmdb.org/t/p/w500/7xk0SpfjuDjKsTSfOtpS861uf3z.png"
     },
     {
+      "id": "tmdb:457",
+      "type": "movie",
+      "name": "Sissi",
+      "ids": {
+        "tmdb": 457
+      },
+      "overview": "Francisco José debe casarse y, aunque su madre ya ha pensado en Helena, una joven princesa bávara, el emperador se enamora perdidamente de Elizabeth (Sissi), una joven espontánea y poco convencional que detesta el protocolo de la Corte. A pesar de que su decisión no contará con la aprobación de su madre, el joven enamorado hará de su espléndida boda con Sissi la primera victoria en el frente familiar.",
+      "year": 1955,
+      "poster": "https://image.tmdb.org/t/p/w342/iGy9j4AdhkiOYRYeTSpq7g3zayL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rKs8y5WlXcYX5GCbDkXcXybGteZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfe8xNJTbfh87DZMwfJXG69cyV3.png"
+    },
+    {
+      "id": "tmdb:355594",
+      "type": "movie",
+      "name": "Isla bonita",
+      "ids": {
+        "tmdb": 355594
+      },
+      "overview": "Fer, un veterano y enamoradizo realizador publicitario, es invitado por su amigo Miguel Ángel a su retiro dorado en la tranquila isla de Menorca. Allí conoce a Nuria, una escultora antisistema que vive en permanente conflicto con su hija adolescente, Olivia.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/2crOBSJVF8RvSdEcFG3dbaAyzft.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wxQ4HdCV6JQaOA5pmiudQYXFThR.jpg"
+    },
+    {
+      "id": "tmdb:676710",
+      "type": "movie",
+      "name": "El asombroso Mauricio",
+      "ids": {
+        "tmdb": 676710
+      },
+      "overview": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gr2YPmdMYVdU8JFiV39oSwmNSNa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7Eev8Q14nbuGkigsZsm2o3TVsNS.png"
+    },
+    {
+      "id": "tmdb:570480",
+      "type": "movie",
+      "name": "Trasto, de la mansion a la calle",
+      "ids": {
+        "tmdb": 570480
+      },
+      "overview": "Trasto es un perro que vive con todo lujos y sin ninguna complicación junto a su rica dueña, pero cuando esta fallece el perro tendrá que aprender a vivir sin ninguno de los lujos a los que está acostumbrado. Sin dinero y fuera de la mansión donde siempre había vivido, Trasto tiene que hacer frente a los peligros de la calle hasta que su camino se cruza con Zoe, una joven que lo acoge en su casa. Sin embargo, la tranquilidad no llega para Trasto cuando tiene que evitar ser atrapado por los codiciosos sobrinos de su antigua dueña, que le necesitan para cobrar la herencia que su antigua dueña le había dejado íntegramente a Trasto.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r6TvdvuWDq4Dfv8P75QbJeDsA1i.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/chNonWsxfSltkfNp8syTUDjfgmu.png"
+    },
+    {
       "id": "tmdb:2800",
       "type": "movie",
       "name": "Dicen por ahí...",
@@ -615,20 +670,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/jiTZEDESY7UEYxZ8XJwYwCpITeb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/sPJ6b3JD68cJQnen6Hf15kKxhFQ.png"
-    },
-    {
-      "id": "tmdb:441701",
-      "type": "movie",
-      "name": "Verónica",
-      "ids": {
-        "tmdb": 441701
-      },
-      "overview": "Está inspirada en el único caso en la historia que la policía española clasifica como sobrenatural y queda sin resolver hasta la fecha.  Durante un eclipse total de sol, Verónica y dos amigas deciden hacer una ouija para invocar el espíritu de su padre. Después de romperse la ouija, Verónica entra en una especie de trance y se desmaya ante el pavor de sus amigos. Una vez recuperada, empieza a percibir cosas extrañas en su hogar que le hacen pensar que trajo a su padre de vuelta al mundo de los vivos.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/oM2F7l8zNXV12Obe48IpQbH3crK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6YMNG8B8ikbdh08mq9CoVbdlDGm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rLcAOAJLHrW9DCZHrWy72skM8Tf.png"
     },
     {
       "id": "tmdb:2313",
@@ -645,60 +686,17 @@
       "logo": "https://image.tmdb.org/t/p/w500/mctddxzNJh6PQLbsr9BHtcrmEmG.png"
     },
     {
-      "id": "tmdb:425336",
+      "id": "tmdb:320004",
       "type": "movie",
-      "name": "Loving Pablo",
+      "name": "Nadie quiere la noche",
       "ids": {
-        "tmdb": 425336
+        "tmdb": 320004
       },
-      "overview": "Drama sobre el narcotraficante colombiano Pablo Escobar, basado en el libro de memorias de la periodista colombiana Virginia Vallejo donde cuenta la relación amorosa que mantuvo con el narcotraficante a mediados de los años 90.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kOM237Ztgu0jlQ47Oeyj5p2QKzZ.jpg",
+      "overview": "Isla de Ellesmere, norte de Canadá, 1908. Josephine, una mujer valiente pero ingenua, emprende un peligroso viaje por inhóspitas regiones en busca de su esposo, el explorador Robert Peary, que intenta encontrar una ruta hacia el Polo Norte.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/8qGjpvfbRMKgoRqLWZrKOjPQXRD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jbRE0osmEQ6w7f3ANR2kSF5t7f6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3QmJavhfk31gxN39jGLZOb7VzaL.png"
-    },
-    {
-      "id": "tmdb:1039690",
-      "type": "movie",
-      "name": "Caminos desesperados",
-      "ids": {
-        "tmdb": 1039690
-      },
-      "overview": "Después de 11 años en una prisión estatal de Mississippi, Russell Gaines lucha por dejar atrás sus pecados pasados ​​mientras regresa a casa con su estoico padre, Mitchell. Una noche fatídica conoce a Maben, una joven madre que no tiene nada más que un arma robada y un agente de policía asesinado a su nombre. Desesperados y huyendo, Russell y Maben deben confiar el uno en el otro para escapar de sus propias circunstancias, antes de que las verdades de su pasado violento entrelazado amenace con destruirlos.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2piKHGDVn4Orm0FTbDdcsZdI38r.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9KJb5lV2h697KYlhydMvCi7zUBv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2lPUjMn3fIlUNErbEBBDVUxIITE.png"
-    },
-    {
-      "id": "tmdb:795811",
-      "type": "movie",
-      "name": "La ruleta de la fortuna y la fantasía",
-      "ids": {
-        "tmdb": 795811
-      },
-      "overview": "Contada en tres movimientos, es una colección de historias protagonizadas por personajes femeninos que trazan las trayectorias entre sus elecciones y arrepentimientos. Un triángulo amoroso inesperado, una trampa de seducción fallida y un encuentro que resulta de un malentendido.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/8BBRAr0qlzbjgNTqpJTRqamzXU9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iB87MZ0PPGr3SOoCa5lx4ADk0gq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nsiB42Ta6o3zf6ClPx67XW5UdSz.png"
-    },
-    {
-      "id": "tmdb:570480",
-      "type": "movie",
-      "name": "Trasto, de la mansion a la calle",
-      "ids": {
-        "tmdb": 570480
-      },
-      "overview": "Trasto es un perro que vive con todo lujos y sin ninguna complicación junto a su rica dueña, pero cuando esta fallece el perro tendrá que aprender a vivir sin ninguno de los lujos a los que está acostumbrado. Sin dinero y fuera de la mansión donde siempre había vivido, Trasto tiene que hacer frente a los peligros de la calle hasta que su camino se cruza con Zoe, una joven que lo acoge en su casa. Sin embargo, la tranquilidad no llega para Trasto cuando tiene que evitar ser atrapado por los codiciosos sobrinos de su antigua dueña, que le necesitan para cobrar la herencia que su antigua dueña le había dejado íntegramente a Trasto.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/kbeVZtX9HcsrkSyF0KrB4odkkiM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r6TvdvuWDq4Dfv8P75QbJeDsA1i.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/chNonWsxfSltkfNp8syTUDjfgmu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5hRfayy18L0qeIUopSFleNvxo7V.jpg"
     }
   ]
 }
