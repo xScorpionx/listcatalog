@@ -28,20 +28,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
-      "id": "tmdb:807",
-      "type": "movie",
-      "name": "Seven",
-      "ids": {
-        "tmdb": 807
-      },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
-    },
-    {
       "id": "tmdb:694",
       "type": "movie",
       "name": "El resplandor",
@@ -54,6 +40,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/t3FF4dyk1lrF69f2PWNGnsiWjkM.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
+    },
+    {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "ids": {
+        "tmdb": 807
+      },
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
     },
     {
       "id": "tmdb:769",
@@ -70,6 +70,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
     },
     {
+      "id": "tmdb:78",
+      "type": "movie",
+      "name": "Blade Runner",
+      "ids": {
+        "tmdb": 78
+      },
+      "overview": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
+    },
+    {
       "id": "tmdb:802",
       "type": "movie",
       "name": "Lolita",
@@ -84,18 +98,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/b9NhXfe4t3Ka7lK3OPYivbNWwSu.png"
     },
     {
-      "id": "tmdb:78",
+      "id": "tmdb:823219",
       "type": "movie",
-      "name": "Blade Runner",
+      "name": "Flow, un mundo que salvar",
       "ids": {
-        "tmdb": 78
+        "tmdb": 823219
       },
-      "overview": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pOqqbvIdXBAz3Nhmuh9ajyQGfU6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3SyIzFtJngTityAelYxsvweD3Q1.png"
     },
     {
       "id": "tmdb:11012",
@@ -126,18 +140,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
     },
     {
-      "id": "tmdb:823219",
+      "id": "tmdb:345",
       "type": "movie",
-      "name": "Flow, un mundo que salvar",
+      "name": "Eyes Wide Shut",
       "ids": {
-        "tmdb": 823219
+        "tmdb": 345
       },
-      "overview": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/337MqZW7xii2evUDVeaWXAtopff.jpg",
+      "overview": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ouCqgbdQTnSB7qS1v2sEmXeNNSI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3SyIzFtJngTityAelYxsvweD3Q1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
     },
     {
       "id": "tmdb:396535",
@@ -154,20 +168,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wzOwOGAXLUQwwXwCAHS2x0Wc35B.png"
     },
     {
-      "id": "tmdb:345",
-      "type": "movie",
-      "name": "Eyes Wide Shut",
-      "ids": {
-        "tmdb": 345
-      },
-      "overview": "William Harford es un respetable médico neoyorquino cuya vida parece ir muy bien: está casado con una preciosa mujer, tiene una hija y tiene un trabajo que le gusta. Pero, al día siguiente de asistir a una fiesta, su esposa Alice le habla de unas fantasías eróticas y de cómo estuvo a punto de romper su matrimonio por un desconocido. Abrumado por esta confesión, acaba entrando en un local, donde un antiguo compañero le habla de una congregación secreta dedicada al hedonismo y al placer sin límites. A partir de entonces un mundo dominado por el sexo y el erotismo se abre ante él.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/yPRAwhPyB0njl6hnuu3LG2iP9Nb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eAuS9UpWi44tyI7PdOLrcgLpZuV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iGP5p7wIVr09DucjtuNdTkCjBsT.png"
-    },
-    {
       "id": "tmdb:62",
       "type": "movie",
       "name": "2001. Una odisea del espacio",
@@ -180,34 +180,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wDBquZTCX7AuXWHyVywxO68wLtS.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bNXe3OI9HIpkPXfak99jG8K9X1d.png"
-    },
-    {
-      "id": "tmdb:4348",
-      "type": "movie",
-      "name": "Orgullo y prejuicio",
-      "ids": {
-        "tmdb": 4348
-      },
-      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
-    },
-    {
-      "id": "tmdb:103",
-      "type": "movie",
-      "name": "Taxi Driver",
-      "ids": {
-        "tmdb": 103
-      },
-      "overview": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
     },
     {
       "id": "tmdb:28",
@@ -224,6 +196,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
+      "id": "tmdb:4348",
+      "type": "movie",
+      "name": "Orgullo y prejuicio",
+      "ids": {
+        "tmdb": 4348
+      },
+      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+    },
+    {
       "id": "tmdb:607",
       "type": "movie",
       "name": "Hombres de negro",
@@ -238,46 +224,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
     },
     {
-      "id": "tmdb:1585",
+      "id": "tmdb:103",
       "type": "movie",
-      "name": "¡Qué bello es vivir!",
+      "name": "Taxi Driver",
       "ids": {
-        "tmdb": 1585
+        "tmdb": 103
       },
-      "overview": "George Bailey es un honrado y modesto ciudadano que dirige y mantiene a flote un pequeño banco familiar, a pesar de los intentos de un poderoso banquero por arruinarlo. El dia de Nochebuena de 1945, abrumado por la repentina desaparición de una importante suma de dinero, que supondría no solo la quiebra de su banco sino también un gran escándalo, decide suicidarse, pero cuando está a punto de hacerlo ocurre algo extraordinario.",
-      "year": 1946,
-      "poster": "https://image.tmdb.org/t/p/w342/63W4MsB8e5whhPNyxhRVTzSsCje.jpg",
+      "overview": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eWdEXjM7oIVIBI91C1ki4eTiWSU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
     },
     {
-      "id": "tmdb:510",
+      "id": "tmdb:1220564",
       "type": "movie",
-      "name": "Alguien voló sobre el nido del cuco",
+      "name": "El agente secreto",
       "ids": {
-        "tmdb": 510
+        "tmdb": 1220564
       },
-      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
+      "overview": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/qYWybdgL6casJxbZE0xLGXsdWOP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
-    },
-    {
-      "id": "tmdb:9340",
-      "type": "movie",
-      "name": "Los Goonies",
-      "ids": {
-        "tmdb": 9340
-      },
-      "overview": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar 'Los Goonies', decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tzOOK0PEaIc4uiJZD3eD68vx509.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xtpE3IYtl1gz5l8at7SvdVuPHDE.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eEXEmO9ZNwWmpGpNz7A8MXJl9iN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/46mDSLpGxFnMOSgutGM3IldOVMq.png"
     },
     {
       "id": "tmdb:764",
@@ -294,18 +266,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/yiOhKNWtnEHY8mX5VKm72wGeAyW.png"
     },
     {
-      "id": "tmdb:402",
+      "id": "tmdb:510",
       "type": "movie",
-      "name": "Instinto básico",
+      "name": "Alguien voló sobre el nido del cuco",
       "ids": {
-        "tmdb": 402
+        "tmdb": 510
       },
-      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/ygHJenUnjGNqKByp2Ymqwjkp4Ox.jpg",
+      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
+    },
+    {
+      "id": "tmdb:1585",
+      "type": "movie",
+      "name": "¡Qué bello es vivir!",
+      "ids": {
+        "tmdb": 1585
+      },
+      "overview": "George Bailey es un honrado y modesto ciudadano que dirige y mantiene a flote un pequeño banco familiar, a pesar de los intentos de un poderoso banquero por arruinarlo. El dia de Nochebuena de 1945, abrumado por la repentina desaparición de una importante suma de dinero, que supondría no solo la quiebra de su banco sino también un gran escándalo, decide suicidarse, pero cuando está a punto de hacerlo ocurre algo extraordinario.",
+      "year": 1946,
+      "poster": "https://image.tmdb.org/t/p/w342/63W4MsB8e5whhPNyxhRVTzSsCje.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
+    },
+    {
+      "id": "tmdb:9340",
+      "type": "movie",
+      "name": "Los Goonies",
+      "ids": {
+        "tmdb": 9340
+      },
+      "overview": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar 'Los Goonies', decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/v7dWDGqLS0FHsVpSLNeKo9xlkg1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tzOOK0PEaIc4uiJZD3eD68vx509.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xtpE3IYtl1gz5l8at7SvdVuPHDE.png"
+    },
+    {
+      "id": "tmdb:861",
+      "type": "movie",
+      "name": "Desafío total",
+      "ids": {
+        "tmdb": 861
+      },
+      "overview": "Tierra, año 2084. Doug Quaid, un hombre normal con una vida tranquila, está atormentado por una pesadilla que le lleva todas las noches hasta Marte. Decide entonces recurrir al laboratorio Memory-call, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno. Sin embargo, su intento resulta en fracaso. La droga resucita de su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/k1S3HiOtghbS7wZeq75LuZ27u6Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2toq2EiOyusNhBszjAZEWQId47Z.png"
     },
     {
       "id": "tmdb:915935",
@@ -320,6 +334,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/zYTQ0Vb5pOsBtBCOLW8MoT2R4yc.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
+    },
+    {
+      "id": "tmdb:402",
+      "type": "movie",
+      "name": "Instinto básico",
+      "ids": {
+        "tmdb": 402
+      },
+      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/ygHJenUnjGNqKByp2Ymqwjkp4Ox.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
     },
     {
       "id": "tmdb:235",
@@ -350,74 +378,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/dPu60LvvtByfArsYnoMFkKHbaWn.png"
     },
     {
-      "id": "tmdb:73",
+      "id": "tmdb:1018",
       "type": "movie",
-      "name": "American History X",
+      "name": "Mulholland Drive",
       "ids": {
-        "tmdb": 73
+        "tmdb": 1018
       },
-      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
+      "overview": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/kLpwkbimTwTbsYixCO3eAdNCQJ8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jdGo3zbNSGFX9poWnp5Mv33q9mU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vf3wG3XOkIaaZ4NefXUIcRdF8Ct.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/j7eEZdsdJ7UNQf4MU4jWILm1eZi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
     },
     {
-      "id": "tmdb:861",
+      "id": "tmdb:293982",
       "type": "movie",
-      "name": "Desafío total",
+      "name": "Varsovia 1944",
       "ids": {
-        "tmdb": 861
+        "tmdb": 293982
       },
-      "overview": "Tierra, año 2084. Doug Quaid, un hombre normal con una vida tranquila, está atormentado por una pesadilla que le lleva todas las noches hasta Marte. Decide entonces recurrir al laboratorio Memory-call, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno. Sin embargo, su intento resulta en fracaso. La droga resucita de su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+      "overview": "Ciudad de Varsovia, Polonia, 1 de agosto de 1944. Los ciudadanos han experimentado actos inhumanos de terror y violencia durante los cinco largos años de ocupación nazi. Mientras el ejército soviético se acerca implacablemente, los más jóvenes y valientes de entre ellos se levantan como uno y se enfrentan a la tiranía luchando calle por calle, pero el precio a pagar será alto y difícil el camino hacia la libertad…",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/gOSKYWKX8IMcZafB4ivNdqFt5lF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k1S3HiOtghbS7wZeq75LuZ27u6Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2toq2EiOyusNhBszjAZEWQId47Z.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/r3nuY1fTkjqKxaUYjJi4OThoXJx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mPtZPbb9eiDNRE96i7XTuNgIFBz.png"
     },
     {
-      "id": "tmdb:1601243",
+      "id": "tmdb:508",
       "type": "movie",
-      "name": "Oscar Shaw",
+      "name": "Love Actually",
       "ids": {
-        "tmdb": 1601243
+        "tmdb": 508
       },
-      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b0nmXbLJBVv6L72VUdZKILjQP83.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png"
-    },
-    {
-      "id": "tmdb:41446",
-      "type": "movie",
-      "name": "Scream 4",
-      "ids": {
-        "tmdb": 41446
-      },
-      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
-    },
-    {
-      "id": "tmdb:1278",
-      "type": "movie",
-      "name": "Soñadores",
-      "ids": {
-        "tmdb": 1278
-      },
-      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
+      "overview": "En Londres, poco antes de las Navidades, se entrelazan una serie de historias divertidas y conmovedoras. 'Love Actually' es una manera abreviada de decir 'Love Actually Is All Around' y éste es precisamente el argumento de la película: mires a donde mires, encontrarás el amor en todas partes. Todos los personajes, cada uno a su manera (un primer ministro, una vieja estrella del rock, una asistenta portuguesa que sólo habla su idioma), están relacionados con los aspectos más divertidos, tristes, ingenuos y estúpidos del amor.",
       "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/8QQg2jQA1zigHSrKfRoFII8aR4D.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xgazGiENEdmS8Za5L8SB0CHluH7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6xrA9tMvpb3cnktNH7voJ62S41N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2XMBZCDjHRShdEhUC5btOJazCos.png"
     },
     {
       "id": "tmdb:467244",
@@ -434,88 +434,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/9dLB8byi9gYVIYAUSfJFBLvXNW8.png"
     },
     {
-      "id": "tmdb:1018",
+      "id": "tmdb:73",
       "type": "movie",
-      "name": "Mulholland Drive",
+      "name": "American History X",
       "ids": {
-        "tmdb": 1018
+        "tmdb": 73
       },
-      "overview": "Betty, una joven aspirante a actriz, llega a Los Ángeles para convertirse en estrella de cine y se aloja en el apartamento de su tía. Allí conoce a Rita, una mujer que padece amnesia a causa de un accidente en Mulholland Drive. Las dos juntas deciden investigar quién es Rita y cómo llegó hasta allí.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/kLpwkbimTwTbsYixCO3eAdNCQJ8.jpg",
+      "overview": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/h2cDqHvnZkycBJKoF7WhcQ2MX1V.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j7eEZdsdJ7UNQf4MU4jWILm1eZi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
-    },
-    {
-      "id": "tmdb:17654",
-      "type": "movie",
-      "name": "District 9",
-      "ids": {
-        "tmdb": 17654
-      },
-      "overview": "Tras la llegada de una enorme nave espacial extraterrestre a Johannesburgo (Sudáfrica), a los alienígenas recién llegados a la Tierra se les obligó a vivir en condiciones penosas como \"refugiados\", en una especie de campo de concentración construido en las afueras la ciudad. Todo empezó unos veinte años atrás, cuando los extraterrestres tomaron el primer contacto con nuestro planeta. Los humanos esperaban un ataque hostil, o un gran avance tecnológico de la raza alienígena. Pero nada de ello sucedió. Los propios extraterrestres eran refugiados de su propio mundo. Sin saber bien que hacer, se confinó a los alienígenas en un campo de refugiados, el \"Distrito 9\", hasta que las naciones del mundo decidieran qué hacer ante la nueva y extraña situación. Pero el tiempo pasó...",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7N7J5DiZM5gnU6ZqzswUIBvQ4q7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ul4dyOwCHe7YwfyIgjYIILpQghn.png"
-    },
-    {
-      "id": "tmdb:1949",
-      "type": "movie",
-      "name": "Zodiac",
-      "ids": {
-        "tmdb": 1949
-      },
-      "overview": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4eCdBQq6DQsmNWPgfbCs8Lse7Km.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
-    },
-    {
-      "id": "tmdb:665",
-      "type": "movie",
-      "name": "Ben-Hur",
-      "ids": {
-        "tmdb": 665
-      },
-      "overview": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas.",
-      "year": 1959,
-      "poster": "https://image.tmdb.org/t/p/w342/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eoNvpCpp67ibPVhItZNxtGZ8LTD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/inG5Ud96LcOWCIPuH1ASJnOtu4r.png"
-    },
-    {
-      "id": "tmdb:19908",
-      "type": "movie",
-      "name": "Bienvenidos a Zombieland",
-      "ids": {
-        "tmdb": 19908
-      },
-      "overview": "En un mundo plagado de zombis, Columbus es un gallina, un joven que se encuentra aterrorizado por la situación, pero cuando te juegas el ser comido por los zombies, el miedo puede mantenerte vivo. De hecho su cobardía precisamente le ha permitido que sus sesos aún se mantengan en su cabeza. Entonces un día conoce a Tallahassse, un macarra caza zombies cuya única determinación en su vida es lograr el último Twinkie (dulce americano) en la tierra. Cuando ambos unen fuerzas con Wichita y Little Rock, que también han encontrado una manera original de sobrevivir en ese caos, tendrán que elegir qué es peor: si confiar los unos en los otros para sobrevivir o sucumbir ante los zombies.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rrWnhxfkg0JpBzgaSsm4K1Voy3L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qFoJaphGhfed5LChl3E3SdPR5mr.png"
-    },
-    {
-      "id": "tmdb:185",
-      "type": "movie",
-      "name": "La naranja mecánica",
-      "ids": {
-        "tmdb": 185
-      },
-      "overview": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f43VdMWKwuDOW1eo7REXHkSLx4Q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/jdGo3zbNSGFX9poWnp5Mv33q9mU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vf3wG3XOkIaaZ4NefXUIcRdF8Ct.png"
     },
     {
       "id": "tmdb:1124566",
@@ -532,46 +462,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/6bcV5mfIfwU3vhKftAmNCahvH1h.png"
     },
     {
-      "id": "tmdb:1220564",
+      "id": "tmdb:1278",
       "type": "movie",
-      "name": "El agente secreto",
+      "name": "Soñadores",
       "ids": {
-        "tmdb": 1220564
+        "tmdb": 1278
       },
-      "overview": "En Brasil, en 1977, Marcelo, un especialista en tecnología que huye de un pasado misterioso, regresa a Recife en busca de paz, pero se da cuenta de que la ciudad está lejos del refugio que busca.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/qYWybdgL6casJxbZE0xLGXsdWOP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eEXEmO9ZNwWmpGpNz7A8MXJl9iN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/46mDSLpGxFnMOSgutGM3IldOVMq.png"
-    },
-    {
-      "id": "tmdb:249397",
-      "type": "movie",
-      "name": "Nymphomaniac. Volumen 2",
-      "ids": {
-        "tmdb": 249397
-      },
-      "overview": "Historia de una ninfómana contada por ella misma. Una fría noche invernal, un viejo solterón encuentra en un callejón a una joven herida y casi inconsciente. Después de recogerla y cuidarla, siente curiosidad por saber cómo pudo haber llegado a semejante situación; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pewD5JT9KBwgp7NRicVpsmwKND7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vTfOIqem7QTT0AGzzHHcGWT1geh.png"
-    },
-    {
-      "id": "tmdb:508",
-      "type": "movie",
-      "name": "Love Actually",
-      "ids": {
-        "tmdb": 508
-      },
-      "overview": "En Londres, poco antes de las Navidades, se entrelazan una serie de historias divertidas y conmovedoras. 'Love Actually' es una manera abreviada de decir 'Love Actually Is All Around' y éste es precisamente el argumento de la película: mires a donde mires, encontrarás el amor en todas partes. Todos los personajes, cada uno a su manera (un primer ministro, una vieja estrella del rock, una asistenta portuguesa que sólo habla su idioma), están relacionados con los aspectos más divertidos, tristes, ingenuos y estúpidos del amor.",
+      "overview": "París, 1968. Isabelle y su hermano Theo, solos en la ciudad mientras sus padres están de viaje, invitan a su apartamento a Matthew, un joven estudiante americano al que han conocido en un cine. Una vez en casa establecen unas reglas para conocerse mutuamente, explorando emociones y erotismo a través de una serie de juegos extremadamente arriesgados.",
       "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/8QQg2jQA1zigHSrKfRoFII8aR4D.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/rdddOCZTYQuR3AXIvUiDhijKNjl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6xrA9tMvpb3cnktNH7voJ62S41N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2XMBZCDjHRShdEhUC5btOJazCos.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/clKa8yMJqSBgk2auTmRYIWMjF8F.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xgazGiENEdmS8Za5L8SB0CHluH7.png"
+    },
+    {
+      "id": "tmdb:185",
+      "type": "movie",
+      "name": "La naranja mecánica",
+      "ids": {
+        "tmdb": 185
+      },
+      "overview": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f43VdMWKwuDOW1eo7REXHkSLx4Q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
+    },
+    {
+      "id": "tmdb:600",
+      "type": "movie",
+      "name": "La chaqueta metálica",
+      "ids": {
+        "tmdb": 600
+      },
+      "overview": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nj4YAts4npkdqMIAUfcnZXRq5wB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fFrBwauqpdj4q2emU6VmErvqrG9.png"
     },
     {
       "id": "tmdb:3782",
@@ -602,18 +532,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/lL37VCbjZ7Vt2SivsGCFwboRhYR.png"
     },
     {
-      "id": "tmdb:293982",
+      "id": "tmdb:41446",
       "type": "movie",
-      "name": "Varsovia 1944",
+      "name": "Scream 4",
       "ids": {
-        "tmdb": 293982
+        "tmdb": 41446
       },
-      "overview": "Ciudad de Varsovia, Polonia, 1 de agosto de 1944. Los ciudadanos han experimentado actos inhumanos de terror y violencia durante los cinco largos años de ocupación nazi. Mientras el ejército soviético se acerca implacablemente, los más jóvenes y valientes de entre ellos se levantan como uno y se enfrentan a la tiranía luchando calle por calle, pero el precio a pagar será alto y difícil el camino hacia la libertad…",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/gOSKYWKX8IMcZafB4ivNdqFt5lF.jpg",
+      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r3nuY1fTkjqKxaUYjJi4OThoXJx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mPtZPbb9eiDNRE96i7XTuNgIFBz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
+    },
+    {
+      "id": "tmdb:141",
+      "type": "movie",
+      "name": "Donnie Darko",
+      "ids": {
+        "tmdb": 141
+      },
+      "overview": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6Pcvjdrqm7igfL5xgtGFHj7Ek8w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pNvOhQXSl0qrhzIMZjT7r02kpdV.png"
+    },
+    {
+      "id": "tmdb:665",
+      "type": "movie",
+      "name": "Ben-Hur",
+      "ids": {
+        "tmdb": 665
+      },
+      "overview": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas.",
+      "year": 1959,
+      "poster": "https://image.tmdb.org/t/p/w342/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eoNvpCpp67ibPVhItZNxtGZ8LTD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/inG5Ud96LcOWCIPuH1ASJnOtu4r.png"
+    },
+    {
+      "id": "tmdb:1601243",
+      "type": "movie",
+      "name": "Oscar Shaw",
+      "ids": {
+        "tmdb": 1601243
+      },
+      "overview": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b0nmXbLJBVv6L72VUdZKILjQP83.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png"
     },
     {
       "id": "tmdb:27578",
@@ -630,46 +602,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:1398",
+      "id": "tmdb:249397",
       "type": "movie",
-      "name": "Stalker",
+      "name": "Nymphomaniac. Volumen 2",
       "ids": {
-        "tmdb": 1398
+        "tmdb": 249397
       },
-      "overview": "En un lugar de Rusia llamado \"La Zona\", hace algunos años se estrelló un meteorito. A pesar de que el acceso a este lugar está prohibido, los \"stalkers\" se dedican a guiar a quienes se atreven a aventurarse en este inquietante paraje.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/c6lF6PYnq6rtYTUM8me0D0DCpwa.jpg",
+      "overview": "Historia de una ninfómana contada por ella misma. Una fría noche invernal, un viejo solterón encuentra en un callejón a una joven herida y casi inconsciente. Después de recogerla y cuidarla, siente curiosidad por saber cómo pudo haber llegado a semejante situación; escucha atentamente el relato que ella hace de su vida, una vida llena de conflictos y turbias relaciones.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lx1VuCiWABcaqvedEXBjm0C3Sjo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8HGUk0X0P3wCbQVRVyWJmAsSw0z.png"
-    },
-    {
-      "id": "tmdb:600",
-      "type": "movie",
-      "name": "La chaqueta metálica",
-      "ids": {
-        "tmdb": 600
-      },
-      "overview": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/6CX7BcyD8Xd5AQ7myNs0UE4mu6c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nj4YAts4npkdqMIAUfcnZXRq5wB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fFrBwauqpdj4q2emU6VmErvqrG9.png"
-    },
-    {
-      "id": "tmdb:1089791",
-      "type": "movie",
-      "name": "La huella de unos labios",
-      "ids": {
-        "tmdb": 1089791
-      },
-      "overview": "Román es un actor que trabaja en películas de serie B y que está aislado en su departamento mientras la pandemia mantiene al mundo al límite.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/aAUdwk2BRgOIUNjeZnjI9RPozcH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8YDA0AIz93nfOUw5glehfy79TM8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fbt0mP4CF1c1jjhCgtvw2bJI7bT.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pewD5JT9KBwgp7NRicVpsmwKND7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vTfOIqem7QTT0AGzzHHcGWT1geh.png"
     },
     {
       "id": "tmdb:770",
@@ -686,18 +630,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/uon7FTKu8dliJhTfBy9gRXO0hpn.png"
     },
     {
-      "id": "tmdb:627",
+      "id": "tmdb:1949",
       "type": "movie",
-      "name": "Trainspotting",
+      "name": "Zodiac",
       "ids": {
-        "tmdb": 627
+        "tmdb": 1949
       },
-      "overview": "Mark Renton es un joven escocés adicto a la heroína, al igual que el resto de sus amigos Todos ellos viven en un mundo aparte, al margen de la realidad. Dentro del grupo hay un violento y alcohólico psicópata, un drogadicto desesperado, un mujeriego con un conocimiento enciclopédico de Sean Connery y un entusiasta de las caminatas y de Iggy Pop.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/qSG5r7pympUa2urtblJrpKQGb2q.jpg",
+      "overview": "El Asesino del Zodiaco mató, entre 1966 y 1978, a numerosas personas en San Francisco, al tiempo que enviaba a los medios de comunicación cartas con pistas. La acción se centra en las largas pesquisas de dos detectives que intentaron darle caza y en las investigaciones de dos periodistas que trataron de averiguar su identidad...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/gmoypdRU7rCJZZrZFKGirONbgrI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9dNjtOG8TbeefSwUSgw9Bx8rUW7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4zY2iILBbtNF8sHLi3j6sUgj84B.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4eCdBQq6DQsmNWPgfbCs8Lse7Km.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/g4YYsq2KGHknrR1LMPf1gm31hdR.png"
+    },
+    {
+      "id": "tmdb:17654",
+      "type": "movie",
+      "name": "District 9",
+      "ids": {
+        "tmdb": 17654
+      },
+      "overview": "Tras la llegada de una enorme nave espacial extraterrestre a Johannesburgo (Sudáfrica), a los alienígenas recién llegados a la Tierra se les obligó a vivir en condiciones penosas como \"refugiados\", en una especie de campo de concentración construido en las afueras la ciudad. Todo empezó unos veinte años atrás, cuando los extraterrestres tomaron el primer contacto con nuestro planeta. Los humanos esperaban un ataque hostil, o un gran avance tecnológico de la raza alienígena. Pero nada de ello sucedió. Los propios extraterrestres eran refugiados de su propio mundo. Sin saber bien que hacer, se confinó a los alienígenas en un campo de refugiados, el \"Distrito 9\", hasta que las naciones del mundo decidieran qué hacer ante la nueva y extraña situación. Pero el tiempo pasó...",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/eROypi6RFeXFsfqeUMtTTXmdyOY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7N7J5DiZM5gnU6ZqzswUIBvQ4q7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ul4dyOwCHe7YwfyIgjYIILpQghn.png"
+    },
+    {
+      "id": "tmdb:19908",
+      "type": "movie",
+      "name": "Bienvenidos a Zombieland",
+      "ids": {
+        "tmdb": 19908
+      },
+      "overview": "En un mundo plagado de zombis, Columbus es un gallina, un joven que se encuentra aterrorizado por la situación, pero cuando te juegas el ser comido por los zombies, el miedo puede mantenerte vivo. De hecho su cobardía precisamente le ha permitido que sus sesos aún se mantengan en su cabeza. Entonces un día conoce a Tallahassse, un macarra caza zombies cuya única determinación en su vida es lograr el último Twinkie (dulce americano) en la tierra. Cuando ambos unen fuerzas con Wichita y Little Rock, que también han encontrado una manera original de sobrevivir en ese caos, tendrán que elegir qué es peor: si confiar los unos en los otros para sobrevivir o sucumbir ante los zombies.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rrWnhxfkg0JpBzgaSsm4K1Voy3L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qFoJaphGhfed5LChl3E3SdPR5mr.png"
+    },
+    {
+      "id": "tmdb:1422096",
+      "type": "movie",
+      "name": "Good Boy",
+      "ids": {
+        "tmdb": 1422096
+      },
+      "overview": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bLTUFUfLQxdOHRzvCSCEfe4eJrz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9sj7sBK5fI7HwECOmSbpBgcYNbC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fTtyO2VvXfOyjaJHHlcHjVQdIr6.png"
+    },
+    {
+      "id": "tmdb:9659",
+      "type": "movie",
+      "name": "Mad Max. Salvajes de la autopista",
+      "ids": {
+        "tmdb": 9659
+      },
+      "overview": "En las autopistas desiertas de una Australia desconocida, tiene lugar una guerra sin merced entre motoristas forajidos y policías Interceptor, que intentan triunfar sobre la gentuza al volante de coches con motores trucados. En un mundo en plena decadencia, la moral se difuminará en el escenario post apocalíptico donde lo único que tiene valor es el bien más preciado: la gasolina. La depravación, crueldad y salvajismo reinan en las bandas que no dudarán en perseguir y acabar con cualquiera que se ponga entre ellos y su ansia destruir y ser los amos de la carretera. Max se cruzará en su camino y lo que empieza como un acto de justicia no tardará en tornarse una lucha personal para acabar con ellos.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/vWa1DEwV5RbAOiuAm0WNXD3Aydw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uNb6fUyatM712597PSiD0oaVz8x.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Tc7cVledZvoGVLTAb7BUHiCgCd.png"
     }
   ]
 }
