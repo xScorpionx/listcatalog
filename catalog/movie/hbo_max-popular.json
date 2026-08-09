@@ -71,20 +71,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
     },
     {
-      "id": "tmdb:324857",
-      "type": "movie",
-      "name": "Spider-Man: un nuevo universo",
-      "ids": {
-        "tmdb": 324857
-      },
-      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cCZ26gWTDyLadOmcFjug72jEo8H.png"
-    },
-    {
       "id": "tmdb:157336",
       "type": "movie",
       "name": "Interstellar",
@@ -97,6 +83,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6l5jO0mFAHCD9DDYTvNfsRveuhv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
+    },
+    {
+      "id": "tmdb:324857",
+      "type": "movie",
+      "name": "Spider-Man: un nuevo universo",
+      "ids": {
+        "tmdb": 324857
+      },
+      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cCZ26gWTDyLadOmcFjug72jEo8H.png"
     },
     {
       "id": "tmdb:1304313",
@@ -155,20 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rHWUWJXC83KfqiSSAogV1YYTZHf.png"
     },
     {
-      "id": "tmdb:671",
-      "type": "movie",
-      "name": "Harry Potter y la piedra filosofal",
-      "ids": {
-        "tmdb": 671
-      },
-      "overview": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/78uxvKh3QktLHUmxpoVquElgWqL.png"
-    },
-    {
       "id": "tmdb:122",
       "type": "movie",
       "name": "El señor de los anillos: El retorno del rey",
@@ -181,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hZiZ67GMVkOamuHZ7Z5vcJzH1bM.png"
+    },
+    {
+      "id": "tmdb:671",
+      "type": "movie",
+      "name": "Harry Potter y la piedra filosofal",
+      "ids": {
+        "tmdb": 671
+      },
+      "overview": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gpQeZl2Sx8QKSxx9PabjX6Q14y4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/78uxvKh3QktLHUmxpoVquElgWqL.png"
     },
     {
       "id": "tmdb:1497463",
@@ -239,6 +239,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/kA8phmxG7h4BIN061fiutckq9Ho.png"
     },
     {
+      "id": "tmdb:680",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "ids": {
+        "tmdb": 680
+      },
+      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png"
+    },
+    {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
+    },
+    {
       "id": "tmdb:121",
       "type": "movie",
       "name": "El señor de los anillos: Las dos torres",
@@ -261,24 +289,24 @@
       },
       "overview": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
       "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fjN1i7uH4KDVbNmfBBZeuF98J83.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/f79rol2Sf9xPhhTbgNeH6mhRNfL.png"
     },
     {
-      "id": "tmdb:680",
+      "id": "tmdb:674",
       "type": "movie",
-      "name": "Pulp Fiction",
+      "name": "Harry Potter y el cáliz de fuego",
       "ids": {
-        "tmdb": 680
+        "tmdb": 674
       },
-      "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yZnDozjJnYKlKKiYO7u2vmPWNcE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfHK380gK8XNKY7Xps4X1IhDE71.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7RPxpmojq2sImOgKpcsX35Ksbvk.png"
     },
     {
       "id": "tmdb:693134",
@@ -295,20 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
     },
     {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "The Batman",
-      "ids": {
-        "tmdb": 414906
-      },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/mo7teil1qH0SxgLijnqeYP1Eb4w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9boDoIUJ0z2ijZEyPTYYwpLTnxo.png"
-    },
-    {
       "id": "tmdb:673",
       "type": "movie",
       "name": "Harry Potter y el prisionero de Azkaban",
@@ -317,52 +331,10 @@
       },
       "overview": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
       "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/oabaGVDN9pqLzMT6w5qMGdFawH5.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/m8XhUVtuCksm13QlPSYo0C2WviD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rd3MaMcrU6FFx0cYa53bgAbde2W.png"
-    },
-    {
-      "id": "tmdb:674",
-      "type": "movie",
-      "name": "Harry Potter y el cáliz de fuego",
-      "ids": {
-        "tmdb": 674
-      },
-      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7RPxpmojq2sImOgKpcsX35Ksbvk.png"
-    },
-    {
-      "id": "tmdb:12445",
-      "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 2",
-      "ids": {
-        "tmdb": 12445
-      },
-      "overview": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8B8aT5jCyAGZaLMl2kqaSjI7fWp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vbIuIDv6fQmHWLWUUHXtDiIYFNv.png"
-    },
-    {
-      "id": "tmdb:12444",
-      "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
-      "ids": {
-        "tmdb": 12444
-      },
-      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rsjVwImiIyehTEOGLDlYwtmwKPu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Roi7sNAN6ra9GGBHcHRbuvNDOY.png"
     },
     {
       "id": "tmdb:933260",
@@ -379,6 +351,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
     },
     {
+      "id": "tmdb:12445",
+      "type": "movie",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "ids": {
+        "tmdb": 12445
+      },
+      "overview": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8B8aT5jCyAGZaLMl2kqaSjI7fWp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vbIuIDv6fQmHWLWUUHXtDiIYFNv.png"
+    },
+    {
       "id": "tmdb:438631",
       "type": "movie",
       "name": "Dune",
@@ -393,18 +379,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lIUbKtwF3Ke5y9I1bn2wcxTB6Mt.png"
     },
     {
-      "id": "tmdb:675",
+      "id": "tmdb:12444",
       "type": "movie",
-      "name": "Harry Potter y la Orden del Fénix",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
       "ids": {
-        "tmdb": 675
+        "tmdb": 12444
       },
-      "overview": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/zN5DWGV6IO30asXrHzGju9mo20P.jpg",
+      "overview": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5NtizQVwcusXA4DWUPdknlN8dsP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/77hW1z6Bv7fTIWxgWeTg3mv4H7s.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rsjVwImiIyehTEOGLDlYwtmwKPu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Roi7sNAN6ra9GGBHcHRbuvNDOY.png"
     },
     {
       "id": "tmdb:767",
@@ -421,6 +407,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/4mRJ3jZs3zUnlver3RN7w1siurp.png"
     },
     {
+      "id": "tmdb:675",
+      "type": "movie",
+      "name": "Harry Potter y la Orden del Fénix",
+      "ids": {
+        "tmdb": 675
+      },
+      "overview": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/vYUjcTKDXOHJOlilNK953m8zJww.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5NtizQVwcusXA4DWUPdknlN8dsP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/77hW1z6Bv7fTIWxgWeTg3mv4H7s.png"
+    },
+    {
       "id": "tmdb:713704",
       "type": "movie",
       "name": "Posesión infernal: El despertar",
@@ -433,6 +433,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/s3TbAVsbjaOseCH6g25xMzangZ4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uVV2Ab8ipgwM94h0LQVvjtFDuze.png"
+    },
+    {
+      "id": "tmdb:475557",
+      "type": "movie",
+      "name": "Joker",
+      "ids": {
+        "tmdb": 475557
+      },
+      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
     },
     {
       "id": "tmdb:572802",
@@ -449,6 +463,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/uOVq7U8257pJ0IeXzeNB6rE4BXT.png"
     },
     {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "ids": {
+        "tmdb": 807
+      },
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+    },
+    {
       "id": "tmdb:49026",
       "type": "movie",
       "name": "El caballero oscuro: La leyenda renace",
@@ -463,18 +491,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
     },
     {
-      "id": "tmdb:475557",
+      "id": "tmdb:138843",
       "type": "movie",
-      "name": "Joker",
+      "name": "Expediente Warren",
       "ids": {
-        "tmdb": 475557
+        "tmdb": 138843
       },
-      "overview": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/g9l7iLYusH82bbEbwGCJzhVkOe2.jpg",
+      "overview": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4wjIkF5wzacT4NKcP3CCpsx3O9z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mftGp3zFc6ScGK2avNcaG72guoo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
     },
     {
       "id": "tmdb:1054867",
@@ -505,32 +533,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
     },
     {
-      "id": "tmdb:68726",
+      "id": "tmdb:18785",
       "type": "movie",
-      "name": "Pacific Rim",
+      "name": "Resacón en Las Vegas",
       "ids": {
-        "tmdb": 68726
+        "tmdb": 18785
       },
-      "overview": "Cuando legiones de monstruosas criaturas, denominadas Kaiju, comienzan a salir del mar, se inicia una guerra que acabará con millones de vidas y que consumirá los recursos de la humanidad durante interminables años. Para combatir a los Kaiju gigantes diseñan un tipo especial de arma: enormes robots, llamados Jaegers, que son controlados simultáneamente por dos pilotos cuyas mentes están bloqueadas en un puente neural. Pero incluso los Jaegers proporcionan poca defensa ante los incansables Kaiju. A punto de la derrota, las fuerzas que defienden a la humanidad no tienen otra elección que recurrir a dos insólitos héroes: un ex piloto acabado (Charlie Hunnam) y un aprendiz que todavía no se ha puesto a prueba (Rinko Kikuchi). Ambos se unen para traer a un legendario pero al parecer obsoleto Jaeger del pasado. Juntos, son la última esperanza de la humanidad frente al Apocalipsis que se avecina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
+      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4DH0dhKt8N54odhgqbHGnGeiByP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lLOMmqofnoLPb98Ym2JuvmngMHR.png"
-    },
-    {
-      "id": "tmdb:807",
-      "type": "movie",
-      "name": "Seven",
-      "ids": {
-        "tmdb": 807
-      },
-      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
     },
     {
       "id": "tmdb:272",
@@ -547,18 +561,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
     },
     {
-      "id": "tmdb:138843",
+      "id": "tmdb:68726",
       "type": "movie",
-      "name": "Expediente Warren",
+      "name": "Pacific Rim",
       "ids": {
-        "tmdb": 138843
+        "tmdb": 68726
       },
-      "overview": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+      "overview": "Cuando legiones de monstruosas criaturas, denominadas Kaiju, comienzan a salir del mar, se inicia una guerra que acabará con millones de vidas y que consumirá los recursos de la humanidad durante interminables años. Para combatir a los Kaiju gigantes diseñan un tipo especial de arma: enormes robots, llamados Jaegers, que son controlados simultáneamente por dos pilotos cuyas mentes están bloqueadas en un puente neural. Pero incluso los Jaegers proporcionan poca defensa ante los incansables Kaiju. A punto de la derrota, las fuerzas que defienden a la humanidad no tienen otra elección que recurrir a dos insólitos héroes: un ex piloto acabado (Charlie Hunnam) y un aprendiz que todavía no se ha puesto a prueba (Rinko Kikuchi). Ambos se unen para traer a un legendario pero al parecer obsoleto Jaeger del pasado. Juntos, son la última esperanza de la humanidad frente al Apocalipsis que se avecina.",
       "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mftGp3zFc6ScGK2avNcaG72guoo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4DH0dhKt8N54odhgqbHGnGeiByP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lLOMmqofnoLPb98Ym2JuvmngMHR.png"
     },
     {
       "id": "tmdb:346698",
@@ -575,18 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
-      "id": "tmdb:18785",
+      "id": "tmdb:4247",
       "type": "movie",
-      "name": "Resacón en Las Vegas",
+      "name": "Scary Movie",
       "ids": {
-        "tmdb": 18785
+        "tmdb": 4247
       },
-      "overview": "\"The Hangover\" es la historia de una desmadrada despedida de soltero en la que el futuro novio y sus tres amigos, dos días antes de la boda, se montan la juerga padre en Las Vegas. Doug viaja a la ciudad del juego con sus mejores amigos Phil y Stu, así como su futuro cuñado Alan. La juerga es de campeonato y, como era de esperar, a la mañana siguiente tienen una resaca monumental. El problema es que, siendo incapaces de recordar nada de lo ocurrido durante la noche anterior, se encuentran con que el prometido ha desaparecido, topándose en su lugar con otras dos sorpresas en la suite del hotel: un tigre y un bebé.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rqeim09TdaflSvPNVnCTBjUHlKu.jpg",
+      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aJ9NIz5Pnefpy0AmWPr4qmkxd60.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ciErZtCdboxyCjJxf468krLNRjX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
     },
     {
       "id": "tmdb:1078605",
@@ -603,18 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mU8Cf2LYGNZazwPBItkxolcEHNV.png"
     },
     {
-      "id": "tmdb:4247",
+      "id": "tmdb:49521",
       "type": "movie",
-      "name": "Scary Movie",
+      "name": "El hombre de acero",
       "ids": {
-        "tmdb": 4247
+        "tmdb": 49521
       },
-      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+      "overview": "Un niño descubre que posee poderes extraordinarios y que no pertenece a este planeta. En su juventud, viaja para descubrir sus orígenes y las razones por las cuales ha sido enviado a la Tierra. Pero el héroe que lleva dentro tiene que emerger para que pueda salvar al mundo de la aniquilación y convertirse en el símbolo de esperanza para la humanidad.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/v31OCpzVBpQovxZN4MWbGOQcHio.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kwyAkKZUGx9c2f9U53dYEOHJvPT.png"
     },
     {
       "id": "tmdb:78",
@@ -659,6 +673,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/r3FwXZnU8Vckyg2QHRUDKdfhtra.png"
     },
     {
+      "id": "tmdb:1038392",
+      "type": "movie",
+      "name": "Expediente Warren: El último rito",
+      "ids": {
+        "tmdb": 1038392
+      },
+      "overview": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mCzTN28knc7dNFFwBPyQ3MVXzU8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cDNuAKzhfM6GQ8jce55jn9SQLY3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zb3uyouM8gdEqzuhhGEGvwT8WSf.png"
+    },
+    {
       "id": "tmdb:436969",
       "type": "movie",
       "name": "El Escuadrón Suicida",
@@ -671,34 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tlRwdJRWUPHSZCelHExFIPsNtf0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/vbZlf0EuqBBRPcj18Gil8ViLzEu.png"
-    },
-    {
-      "id": "tmdb:49521",
-      "type": "movie",
-      "name": "El hombre de acero",
-      "ids": {
-        "tmdb": 49521
-      },
-      "overview": "Un niño descubre que posee poderes extraordinarios y que no pertenece a este planeta. En su juventud, viaja para descubrir sus orígenes y las razones por las cuales ha sido enviado a la Tierra. Pero el héroe que lleva dentro tiene que emerger para que pueda salvar al mundo de la aniquilación y convertirse en el símbolo de esperanza para la humanidad.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v31OCpzVBpQovxZN4MWbGOQcHio.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kwyAkKZUGx9c2f9U53dYEOHJvPT.png"
-    },
-    {
-      "id": "tmdb:1038392",
-      "type": "movie",
-      "name": "Expediente Warren: El último rito",
-      "ids": {
-        "tmdb": 1038392
-      },
-      "overview": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cDNuAKzhfM6GQ8jce55jn9SQLY3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zb3uyouM8gdEqzuhhGEGvwT8WSf.png"
     }
   ]
 }
