@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:1736415",
+      "type": "movie",
+      "name": "Rory Scovel: Show Must Go On",
+      "ids": {
+        "tmdb": 1736415
+      },
+      "overview": "With a hypothetical home invasion, a biblical reenactment, and his late dad's final wish, Rory Scovel delivers unrelenting laughs in this raucous stand-up special filmed at The Neptune in Seattle, Washington.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/iTiECR1UXAFCQ4IRPPwfbg2Zcjy.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:1284041",
       "type": "movie",
       "name": "La última casa",
@@ -553,7 +565,8 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/wHTNsZxvlfRAndc52hGlbdCUXKS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zHUgmTfiHqHUxVFnhzcbBgeGn7w.png"
     },
     {
       "id": "tmdb:1710203",
@@ -678,20 +691,6 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/hvFe52lCA0W7FwfAXQJqYB88Y17.jpg",
       "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:1704846",
-      "type": "movie",
-      "name": "Instadocus: Alex Murdaugh, condena anulada",
-      "ids": {
-        "tmdb": 1704846
-      },
-      "overview": "¿Por qué se anuló la condena de Alex Murdaugh? La primera entrega de ‘Instadocs’ indaga las escandalosas acusaciones de injerencia del jurado en su juicio por doble asesinato.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gxQ2lstfNVrzoawF3Z2S77YpTWR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ccDSqxXF6QgoPqn5FG0fsFfKh7l.png"
     }
   ]
 }
