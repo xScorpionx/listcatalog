@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1632473",
+      "type": "movie",
+      "name": "Esto, aquello y todo lo demás",
+      "ids": {
+        "tmdb": 1632473
+      },
+      "overview": "Una guionista de televisión rehace su vida a conciencia, pero todo se trastoca cuando reaparece su madre después de 27 años sin verla, y con un secreto que lo cambia todo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/q71j2435ZU7UDhROJz5UjHBEk3J.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mgBckZyFrAvtAxyjTAuR4WO4gQn.png"
+    },
+    {
       "id": "tmdb:1487864",
       "type": "movie",
       "name": "Nando entre dos mundos",
@@ -24,7 +38,8 @@
       "overview": "With a hypothetical home invasion, a biblical reenactment, and his late dad's final wish, Rory Scovel delivers unrelenting laughs in this raucous stand-up special filmed at The Neptune in Seattle, Washington.",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/iTiECR1UXAFCQ4IRPPwfbg2Zcjy.jpg",
-      "posterShape": "poster"
+      "posterShape": "poster",
+      "logo": "https://image.tmdb.org/t/p/w500/tc7sAwKtLnwAFk83qmjq9HsJGwX.png"
     },
     {
       "id": "tmdb:1284041",
@@ -679,20 +694,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/yzP7C3e5HwqIRxKQGVWK481QYOT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2WDyVZ2JJqMNWEUXewc0olRsguN.png"
-    },
-    {
-      "id": "tmdb:1677574",
-      "type": "movie",
-      "name": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
-      "ids": {
-        "tmdb": 1677574
-      },
-      "overview": "Comedy trailblazer Eddie Murphy celebrates his legendary film career in this star-studded tribute filmed live in Los Angeles.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bPPrsZWuQZm2cUKlnHLbqYUMJia.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/53MeZ11MRfRs2KcAasWrnokLLON.png"
     }
   ]
 }
