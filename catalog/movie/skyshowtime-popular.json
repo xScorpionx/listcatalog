@@ -85,20 +85,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/wVRN7Gv1ekKps94aNfZaR4jQrWT.png"
     },
     {
-      "id": "tmdb:798645",
-      "type": "movie",
-      "name": "The Running Man",
-      "ids": {
-        "tmdb": 798645
-      },
-      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c5JmwBRLm1Mb2U8m1C1JYbNoOnX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
-    },
-    {
       "id": "tmdb:240",
       "type": "movie",
       "name": "El padrino II",
@@ -111,6 +97,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
+    },
+    {
+      "id": "tmdb:798645",
+      "type": "movie",
+      "name": "The Running Man",
+      "ids": {
+        "tmdb": 798645
+      },
+      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/c5JmwBRLm1Mb2U8m1C1JYbNoOnX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
     },
     {
       "id": "tmdb:575265",
@@ -155,20 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/p1uAhk8HaYyxoXs6fXvEGes96uR.png"
     },
     {
-      "id": "tmdb:87101",
-      "type": "movie",
-      "name": "Terminator Génesis",
-      "ids": {
-        "tmdb": 87101
-      },
-      "overview": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ggQARdvZDNzmXViEkADBo3grlUY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wRNPnhR3AcELk7k0nMuXhm4oanB.png"
-    },
-    {
       "id": "tmdb:1087192",
       "type": "movie",
       "name": "Cómo entrenar a tu dragón",
@@ -181,6 +167,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/osZ0386UBcn9RchyFXXjz7BF3wi.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zM9COozSFJqIGXhNWiwuitxk6QP.png"
+    },
+    {
+      "id": "tmdb:85",
+      "type": "movie",
+      "name": "En busca del arca perdida",
+      "ids": {
+        "tmdb": 85
+      },
+      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+      "year": 1981,
+      "poster": "https://image.tmdb.org/t/p/w342/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
+    },
+    {
+      "id": "tmdb:87101",
+      "type": "movie",
+      "name": "Terminator Génesis",
+      "ids": {
+        "tmdb": 87101
+      },
+      "overview": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ggQARdvZDNzmXViEkADBo3grlUY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wRNPnhR3AcELk7k0nMuXhm4oanB.png"
     },
     {
       "id": "tmdb:1175942",
@@ -211,20 +225,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
     },
     {
-      "id": "tmdb:85",
-      "type": "movie",
-      "name": "En busca del arca perdida",
-      "ids": {
-        "tmdb": 85
-      },
-      "overview": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
-      "year": 1981,
-      "poster": "https://image.tmdb.org/t/p/w342/tECLVwLCMexSkls33RTCwedRZ6d.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
-    },
-    {
       "id": "tmdb:701387",
       "type": "movie",
       "name": "Bugonia",
@@ -237,34 +237,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qvkNQPgNiJhKXk8S72gkyhD1A2E.png"
-    },
-    {
-      "id": "tmdb:10192",
-      "type": "movie",
-      "name": "Shrek, felices para siempre",
-      "ids": {
-        "tmdb": 10192
-      },
-      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
-    },
-    {
-      "id": "tmdb:72105",
-      "type": "movie",
-      "name": "Ted",
-      "ids": {
-        "tmdb": 72105
-      },
-      "overview": "La historia se centra en las aventuras de un hombre que ve cómo su osito de peluche de la infancia adquiere vida debido a un deseo que formuló cuando era pequeño, convirtiéndose el peluche en un gandul deslenguado que alterará por completo su vida y pondrá en peligro su relación amorosa con su pareja, debido a su comportamiento totalmente salvaje y su conducta fuera de toda norma social.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/1DY7eSoQLoTNhJTT455N74VuHHx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ykO79pYSsQo1hg4SmMmAzoKryxp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Sy2GTJ77hMqObHsFlUkfY2CqtJ.png"
     },
     {
       "id": "tmdb:270946",
@@ -281,18 +253,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
     },
     {
-      "id": "tmdb:954",
+      "id": "tmdb:454626",
       "type": "movie",
-      "name": "Misión imposible",
+      "name": "Sonic: La película",
       "ids": {
-        "tmdb": 954
+        "tmdb": 454626
       },
-      "overview": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg",
+      "overview": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/y4sIPLZ7toiRmp4auPFKuPVuS5E.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xmEO3geekHkjfWSdcQaWDnSIpto.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1NNFH01APbTRj3xbxRM3xqM3OuN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lJGjuEDQZbXtwTbRjLJOBnSFtvo.png"
     },
     {
       "id": "tmdb:809",
@@ -309,74 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
-      "id": "tmdb:1228246",
+      "id": "tmdb:10192",
       "type": "movie",
-      "name": "Five Nights at Freddy's 2",
+      "name": "Shrek, felices para siempre",
       "ids": {
-        "tmdb": 1228246
+        "tmdb": 10192
       },
-      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5HgCJxrzL2ynflScZkFUOFNAHyv.png"
-    },
-    {
-      "id": "tmdb:1315303",
-      "type": "movie",
-      "name": "Primate",
-      "ids": {
-        "tmdb": 1315303
-      },
-      "overview": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/epV8l6VQJfQDCu8G5BtZggNakVX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ejpFMkKMjnMyx9HX4nII9gjbUyi.png"
-    },
-    {
-      "id": "tmdb:1327862",
-      "type": "movie",
-      "name": "A pesar de ti",
-      "ids": {
-        "tmdb": 1327862
-      },
-      "overview": "Morgan es una madre joven que intenta evitar que su hija Clara, de 16 años, cometa los mismos errores que ella, que se quedó embarazada y se casó demasiado joven, teniendo que aparcar sus propios sueños. La única persona que trae paz a la tensa relación madre-hija es Chris, su marido y padre de Clara. Pero esa paz se rompe cuando un trágico y extraño accidente trae desgarradoras consecuencias para ellas. Mientras lucha por reconstruir sus vidas, Morgan encuentra consuelo en la última persona que esperaba, mientras Clara se vuelve hacia el único chico que le han prohibido ver.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5XPdSsmeIwaqWJRduVcV2D8OwXS.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iuAEWgaFLuCtSjZAOdaAPQYPEfc.png"
-    },
-    {
-      "id": "tmdb:1197137",
-      "type": "movie",
-      "name": "Black Phone 2",
-      "ids": {
-        "tmdb": 1197137
-      },
-      "overview": "Ambientada en 1982, cuatro años después de que Finney Blake lograra matar al secuestrador y asesino en serie conocido como \"The Grabber\". Finney, ahora marcado por el trauma, junto a su hermana menor Gwen, que tiene habilidades psíquicas, comienzan a tener visiones relacionadas con asesinatos ocurridos en un campamento cristiano en las Montañas Rocosas. Decididos a descubrir la verdad, viajan junto con Ernesto, un amigo, al campamento donde trabajó su madre, que también tenía dones psíquicos y fue víctima del asesino.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/i5OfOjbZMxNfiFGkdETdbJUOLAq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aHHNEZ13e4PdXKcw8Ui8V31N0uk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mMeby1pkw0siaDjtvGtX4LyXtuF.png"
-    },
-    {
-      "id": "tmdb:214756",
-      "type": "movie",
-      "name": "Ted 2",
-      "ids": {
-        "tmdb": 214756
-      },
-      "overview": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sabbmaIKLDg13XUsmimM6jbrPfX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iNJR287LWbqdhz6WWmb0JtnMd8J.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
     },
     {
       "id": "tmdb:9502",
@@ -393,32 +309,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
     },
     {
-      "id": "tmdb:419430",
+      "id": "tmdb:1228246",
       "type": "movie",
-      "name": "Déjame salir",
+      "name": "Five Nights at Freddy's 2",
       "ids": {
-        "tmdb": 419430
+        "tmdb": 1228246
       },
-      "overview": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy y Dean. Al principio, Chris piensa que el comportamiento 'demasiado' complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg",
+      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ahQSmt159qM5s1V7k3exGwQB00c.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cG21XcsSGnwuwbARB1dkZjTIG30.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5HgCJxrzL2ynflScZkFUOFNAHyv.png"
     },
     {
-      "id": "tmdb:188927",
+      "id": "tmdb:214756",
       "type": "movie",
-      "name": "Star Trek III. Más allá",
+      "name": "Ted 2",
       "ids": {
-        "tmdb": 188927
+        "tmdb": 214756
       },
-      "overview": "El USS Enterprise, la nave insignia de la Flota Estelar, liderada por el capitán James T. Kirk, vuelve a surcar el universo, para proteger la Tierra y el resto de planetas aliados. Pero la tranquilidad durará poco y el peligro acecha. La primera etapa de su misión les llevará a un territorio desconocido, y su travesía pronto se convertirá en una carrera por la supervivencia, cuando se enfrenten a un nuevo y fiero enemigo, Krall, de una especie alienígena avanzada. A la vez que intentan encontrar el modo de volver a la Tierra, su objetivo será proteger el futuro de la raza humana y preservar la armonía entre especies...",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/2yfbpstJY4Fan8DSfPFDl05jx9.jpg",
+      "overview": "Se trata de una secuela de la exitosa comedia escrita y dirigida por el cómico Seth MacFarlane. Recién casados Ted y Tami-Lynn deciden tener un bebé. John se ofrece en donar su esperma para que su mejor amigo pueda cumplir su sueño de tener un hijo, pero inesperadamente reciben una carta legal que dice que el estado no le permite ser padre ya que no está demostrado que sea una persona. Todos juntos tendrán que unir fuerzas para luchar por sus derechos en un tribunal de justicia.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/bO59Vn36fQauTDQpKNlHxvcK9Nw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f56OPL0OtsnjNx7nLqH5DeL7Bu7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i58y4VHsW2QNI4JOVQB7YPyLVF1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sabbmaIKLDg13XUsmimM6jbrPfX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iNJR287LWbqdhz6WWmb0JtnMd8J.png"
+    },
+    {
+      "id": "tmdb:1035259",
+      "type": "movie",
+      "name": "Agárralo como puedas",
+      "ids": {
+        "tmdb": 1035259
+      },
+      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pUuMSzDBBXK6OBXlmhxJnHnrcej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
+    },
+    {
+      "id": "tmdb:675353",
+      "type": "movie",
+      "name": "Sonic 2: La película",
+      "ids": {
+        "tmdb": 675353
+      },
+      "overview": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pedH8nEpJ29TQ4rHFLGmWRS9qY4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/plktBdsWqDzYWafQ3hZ0JqaVU71.png"
     },
     {
       "id": "tmdb:242",
@@ -435,46 +379,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
     },
     {
-      "id": "tmdb:955",
+      "id": "tmdb:1197137",
       "type": "movie",
-      "name": "Misión imposible II",
+      "name": "Black Phone 2",
       "ids": {
-        "tmdb": 955
+        "tmdb": 1197137
       },
-      "overview": "El agente especial Ethan Hunt tiene una nueva misión: evitar que un despiadado ex-agente y ahora terrorista internacional se haga con un virus mortal que podría soltar sobre Australia causando millones de víctimas. Para evitarlo, contará otra vez con la inestimable ayuda del genio informático Luther Stickell, del experto conductor Billy Baird y de la presencia de la sensual y exótica ladrona internacional Nhye, que en el pasado mantuvo una relación sentimental con el criminal y que ahora se siente atraída por Hunt.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/mskE3W88cjMRrnKQye8pjmJu3O1.jpg",
+      "overview": "Ambientada en 1982, cuatro años después de que Finney Blake lograra matar al secuestrador y asesino en serie conocido como \"The Grabber\". Finney, ahora marcado por el trauma, junto a su hermana menor Gwen, que tiene habilidades psíquicas, comienzan a tener visiones relacionadas con asesinatos ocurridos en un campamento cristiano en las Montañas Rocosas. Decididos a descubrir la verdad, viajan junto con Ernesto, un amigo, al campamento donde trabajó su madre, que también tenía dones psíquicos y fue víctima del asesino.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/i5OfOjbZMxNfiFGkdETdbJUOLAq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xO6O0zjXBWnYcF6LJ5ZURq42f93.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3jkbG2FwimAyPaVxpWCKdrCUMoj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aHHNEZ13e4PdXKcw8Ui8V31N0uk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mMeby1pkw0siaDjtvGtX4LyXtuF.png"
     },
     {
-      "id": "tmdb:953",
+      "id": "tmdb:1315303",
       "type": "movie",
-      "name": "Madagascar",
+      "name": "Primate",
       "ids": {
-        "tmdb": 953
+        "tmdb": 1315303
       },
-      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+      "overview": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
-    },
-    {
-      "id": "tmdb:675353",
-      "type": "movie",
-      "name": "Sonic 2: La película",
-      "ids": {
-        "tmdb": 675353
-      },
-      "overview": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pedH8nEpJ29TQ4rHFLGmWRS9qY4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/plktBdsWqDzYWafQ3hZ0JqaVU71.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/epV8l6VQJfQDCu8G5BtZggNakVX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ejpFMkKMjnMyx9HX4nII9gjbUyi.png"
     },
     {
       "id": "tmdb:991494",
@@ -505,32 +435,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
     },
     {
-      "id": "tmdb:956",
+      "id": "tmdb:953",
       "type": "movie",
-      "name": "Misión imposible III",
+      "name": "Madagascar",
       "ids": {
-        "tmdb": 956
+        "tmdb": 953
       },
-      "overview": "Tras haber llevado a cabo diversas misiones, el agente especial Ethan Hunt se ha retirado del servicio activo y se ha prometido con su amada Julia. Pero, cuando es secuestrado uno de los agentes entrenados por él, volverá de nuevo a la acción. También tendrá que enfrentarse a Owen Davian, un individuo sin escrúpulos que trafica con armas y con información.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg",
+      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8MYjp2r4sH8AgGq1thB1Dp3e4RN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jVOxeAy3xkmRBsck2hozcnbkqdK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
     },
     {
-      "id": "tmdb:675445",
+      "id": "tmdb:954",
       "type": "movie",
-      "name": "La Patrulla Canina: La película",
+      "name": "Misión imposible",
       "ids": {
-        "tmdb": 675445
+        "tmdb": 954
       },
-      "overview": "La patrulla canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la patrulla canina lucha por salvar a los ciudadanos de Ciudad Aventura.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
+      "overview": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9i9WSGnD9bSvxMs1iRLxUJXTk4u.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wI5JxVzmXS6WrJNzr8i8JZXCGQN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/y4sIPLZ7toiRmp4auPFKuPVuS5E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xmEO3geekHkjfWSdcQaWDnSIpto.png"
+    },
+    {
+      "id": "tmdb:419430",
+      "type": "movie",
+      "name": "Déjame salir",
+      "ids": {
+        "tmdb": 419430
+      },
+      "overview": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy y Dean. Al principio, Chris piensa que el comportamiento 'demasiado' complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ahQSmt159qM5s1V7k3exGwQB00c.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG21XcsSGnwuwbARB1dkZjTIG30.png"
+    },
+    {
+      "id": "tmdb:955",
+      "type": "movie",
+      "name": "Misión imposible II",
+      "ids": {
+        "tmdb": 955
+      },
+      "overview": "El agente especial Ethan Hunt tiene una nueva misión: evitar que un despiadado ex-agente y ahora terrorista internacional se haga con un virus mortal que podría soltar sobre Australia causando millones de víctimas. Para evitarlo, contará otra vez con la inestimable ayuda del genio informático Luther Stickell, del experto conductor Billy Baird y de la presencia de la sensual y exótica ladrona internacional Nhye, que en el pasado mantuvo una relación sentimental con el criminal y que ahora se siente atraída por Hunt.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/mskE3W88cjMRrnKQye8pjmJu3O1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xO6O0zjXBWnYcF6LJ5ZURq42f93.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3jkbG2FwimAyPaVxpWCKdrCUMoj.png"
     },
     {
       "id": "tmdb:10191",
@@ -541,10 +499,38 @@
       },
       "overview": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/8ekxsUORMAsfmSc8GzHmG8gWPbp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/vUF9bN3pT99IgdRMSInG0YSqPCN.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dvNg4EzuhsSyNpVeMzHR3ep59sJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kApyKGMzbhUybpdBZf2GUZJC4my.png"
+    },
+    {
+      "id": "tmdb:72105",
+      "type": "movie",
+      "name": "Ted",
+      "ids": {
+        "tmdb": 72105
+      },
+      "overview": "La historia se centra en las aventuras de un hombre que ve cómo su osito de peluche de la infancia adquiere vida debido a un deseo que formuló cuando era pequeño, convirtiéndose el peluche en un gandul deslenguado que alterará por completo su vida y pondrá en peligro su relación amorosa con su pareja, debido a su comportamiento totalmente salvaje y su conducta fuera de toda norma social.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/1DY7eSoQLoTNhJTT455N74VuHHx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ykO79pYSsQo1hg4SmMmAzoKryxp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Sy2GTJ77hMqObHsFlUkfY2CqtJ.png"
+    },
+    {
+      "id": "tmdb:1327862",
+      "type": "movie",
+      "name": "A pesar de ti",
+      "ids": {
+        "tmdb": 1327862
+      },
+      "overview": "Morgan es una madre joven que intenta evitar que su hija Clara, de 16 años, cometa los mismos errores que ella, que se quedó embarazada y se casó demasiado joven, teniendo que aparcar sus propios sueños. La única persona que trae paz a la tensa relación madre-hija es Chris, su marido y padre de Clara. Pero esa paz se rompe cuando un trágico y extraño accidente trae desgarradoras consecuencias para ellas. Mientras lucha por reconstruir sus vidas, Morgan encuentra consuelo en la última persona que esperaba, mientras Clara se vuelve hacia el único chico que le han prohibido ver.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5XPdSsmeIwaqWJRduVcV2D8OwXS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iuAEWgaFLuCtSjZAOdaAPQYPEfc.png"
     },
     {
       "id": "tmdb:49444",
@@ -561,18 +547,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/n52KkzjoXr0WriwE2XTkD36gLLI.png"
     },
     {
-      "id": "tmdb:140300",
+      "id": "tmdb:675445",
       "type": "movie",
-      "name": "Kung Fu Panda 3",
+      "name": "La Patrulla Canina: La película",
       "ids": {
-        "tmdb": 140300
+        "tmdb": 675445
       },
-      "overview": "Cuando el durante mucho tiempo perdido padre de Po aparece de repente, el dúo ya reunido viaja a un paraíso secreto de pandas para conocer a montones de nuevos e hilarantes osos. Pero cuando el villano sobrenatural Kai comienza a recorrer toda China venciendo a todos los maestros de kung fu, Po deberá hacer lo imposible: aprender a entrenar a una comunidad repleta de divertidos y torpes hermanos para formar el equipo definitivo de Kung Fu Pandas.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/t11f8palNbICK9Ip5QLrUfhLJYq.jpg",
+      "overview": "La patrulla canina está en racha. Cuando Humdinger, su mayor rival, se convierte en alcalde de la cercana Ciudad Aventura y empieza a causar estragos, Ryder y los heroicos cachorros se ponen en marcha para enfrentarse a este nuevo desafío. Mientras uno de los cachorros debe enfrentarse a su pasado en Ciudad Aventura, el equipo encuentra ayuda en una nueva aliada, la inteligente perrita salchicha Liberty. Juntos y armados con nuevos y emocionantes artefactos y equipos, la patrulla canina lucha por salvar a los ciudadanos de Ciudad Aventura.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pcC20GCaxjnc43C8Yc8WzbNoIag.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kqG1NXMlCrog1LkA8fwWWRz78JI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9i9WSGnD9bSvxMs1iRLxUJXTk4u.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wI5JxVzmXS6WrJNzr8i8JZXCGQN.png"
     },
     {
       "id": "tmdb:810",
@@ -589,88 +575,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
     },
     {
-      "id": "tmdb:454626",
+      "id": "tmdb:140300",
       "type": "movie",
-      "name": "Sonic: La película",
+      "name": "Kung Fu Panda 3",
       "ids": {
-        "tmdb": 454626
+        "tmdb": 140300
       },
-      "overview": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+      "overview": "Cuando el durante mucho tiempo perdido padre de Po aparece de repente, el dúo ya reunido viaja a un paraíso secreto de pandas para conocer a montones de nuevos e hilarantes osos. Pero cuando el villano sobrenatural Kai comienza a recorrer toda China venciendo a todos los maestros de kung fu, Po deberá hacer lo imposible: aprender a entrenar a una comunidad repleta de divertidos y torpes hermanos para formar el equipo definitivo de Kung Fu Pandas.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/t11f8palNbICK9Ip5QLrUfhLJYq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1NNFH01APbTRj3xbxRM3xqM3OuN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nNvtExR7duAslE6TN9ojx590jMC.png"
-    },
-    {
-      "id": "tmdb:446893",
-      "type": "movie",
-      "name": "Trolls 2: Gira mundial",
-      "ids": {
-        "tmdb": 446893
-      },
-      "overview": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4Eq362CDl4pYQTtVyxlSLELYo8y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
-    },
-    {
-      "id": "tmdb:13475",
-      "type": "movie",
-      "name": "Star Trek",
-      "ids": {
-        "tmdb": 13475
-      },
-      "overview": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero que, movido por la venganza, amenaza a toda la humanidad. Pero el destino de la galaxia está en manos de dos jóvenes rivales, que nacieron en mundos diferentes. Uno de ellos, Tiberius James Kirk, humano, busca emociones y es un líder nato. El otro, Spock, medio humano y medio vulcaniano, es menospreciado por los vulcanianos, por sus emociones humanas.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/koaCrE63a5ZVGjFSlh6vqFXJF3L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2jJNyx5ftVCOMFKnf6F5zNJ7G61.png"
-    },
-    {
-      "id": "tmdb:384018",
-      "type": "movie",
-      "name": "Fast and Furious. Hobbs y Shaw",
-      "ids": {
-        "tmdb": 384018
-      },
-      "overview": "Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/3KHGWvWDfMa8enQqezGim3aMBQw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tJhuEE69f5q52ybsbH65fnXEEEK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nATRKWe94Og0Rc7nKMTnIXgftur.png"
-    },
-    {
-      "id": "tmdb:1035259",
-      "type": "movie",
-      "name": "Agárralo como puedas",
-      "ids": {
-        "tmdb": 1035259
-      },
-      "overview": "El torpe teniente Frank Drebin Jr. intenta resolver un asesinato vinculado a un magnate tecnológico. Mientras investiga, su unidad policial corre peligro de ser cerrada. Con la ayuda de una escritora de crímenes, Frank se verá envuelto en situaciones tan absurdas como explosivas. Película reboot basada en la popular franquicia de comedia \"Agárralo como puedas\" y la serie de televisión \"Police Squad!\".",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/v8FpKw8mOsHxC0YElkgNNSCzGMl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pUuMSzDBBXK6OBXlmhxJnHnrcej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/m16fVVzOpEAGAWXyJxzukaOBEOp.png"
-    },
-    {
-      "id": "tmdb:49519",
-      "type": "movie",
-      "name": "Los Croods",
-      "ids": {
-        "tmdb": 49519
-      },
-      "overview": "La película está ambientada en la prehistoria, donde Crug lidera a su familia más allá de la comodidad de su hogar después de que este sea destruido por un gran terremoto. Mientras intentan viajar por el desconocido y aterrador mundo, se encuentran con un nómada que cautiva a su clan, en especial a su hermana mayor, con su mente moderna.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wU9Xurn5VgEEkpWR00GNGZu7hoy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phU4jQXrrCzdhmABIdack9raPB1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pcC20GCaxjnc43C8Yc8WzbNoIag.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kqG1NXMlCrog1LkA8fwWWRz78JI.png"
     },
     {
       "id": "tmdb:529203",
@@ -687,18 +603,102 @@
       "logo": "https://image.tmdb.org/t/p/w500/qqXQfpe27jYM8h7SmvLk3qWvcJ7.png"
     },
     {
-      "id": "tmdb:54138",
+      "id": "tmdb:446893",
       "type": "movie",
-      "name": "Star Trek II. En la oscuridad",
+      "name": "Trolls 2: Gira mundial",
       "ids": {
-        "tmdb": 54138
+        "tmdb": 446893
       },
-      "overview": "Cuando a la tripulación de la nave Enterprise le ordenan que regrese a casa, en la Tierra se enfrentan a una terrorífica fuerza que, aparentemente desde dentro, ha perpetrado un ataque a la cúpula de la Federación y todo lo que ésta representa, sumiendo a la flota en una profunda crisis. Para intentar solucionar el problema, y con un asunto personal que resolver, el capitán Kirk encabeza una incursión a un planeta en guerra, para capturar a un hombre que es un arma de destrucción masiva. A medida que nuestros héroes se van sumergiendo en una épica partida de ajedrez a vida o muerte, la lealtad se verá puesta a prueba, las amistades se romperán, y habrá que hacer ciertos sacrificios por la única familia que le queda a Kirk: su tripulación.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/7ncnBVignnCQ4vFNxiSLWDpFUcs.jpg",
+      "overview": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vKuVSldSJ5qH6tA5jmHZVse6lCT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oidBwmS2Wmr1B0ab2QWok6a09sX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4Eq362CDl4pYQTtVyxlSLELYo8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
+    },
+    {
+      "id": "tmdb:49519",
+      "type": "movie",
+      "name": "Los Croods",
+      "ids": {
+        "tmdb": 49519
+      },
+      "overview": "La película está ambientada en la prehistoria, donde Crug lidera a su familia más allá de la comodidad de su hogar después de que este sea destruido por un gran terremoto. Mientras intentan viajar por el desconocido y aterrador mundo, se encuentran con un nómada que cautiva a su clan, en especial a su hermana mayor, con su mente moderna.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wU9Xurn5VgEEkpWR00GNGZu7hoy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phU4jQXrrCzdhmABIdack9raPB1.png"
+    },
+    {
+      "id": "tmdb:956",
+      "type": "movie",
+      "name": "Misión imposible III",
+      "ids": {
+        "tmdb": 956
+      },
+      "overview": "Tras haber llevado a cabo diversas misiones, el agente especial Ethan Hunt se ha retirado del servicio activo y se ha prometido con su amada Julia. Pero, cuando es secuestrado uno de los agentes entrenados por él, volverá de nuevo a la acción. También tendrá que enfrentarse a Owen Davian, un individuo sin escrúpulos que trafica con armas y con información.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8MYjp2r4sH8AgGq1thB1Dp3e4RN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jVOxeAy3xkmRBsck2hozcnbkqdK.png"
+    },
+    {
+      "id": "tmdb:13475",
+      "type": "movie",
+      "name": "Star Trek",
+      "ids": {
+        "tmdb": 13475
+      },
+      "overview": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero que, movido por la venganza, amenaza a toda la humanidad. Pero el destino de la galaxia está en manos de dos jóvenes rivales, que nacieron en mundos diferentes. Uno de ellos, Tiberius James Kirk, humano, busca emociones y es un líder nato. El otro, Spock, medio humano y medio vulcaniano, es menospreciado por los vulcanianos, por sus emociones humanas.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/koaCrE63a5ZVGjFSlh6vqFXJF3L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2jJNyx5ftVCOMFKnf6F5zNJ7G61.png"
+    },
+    {
+      "id": "tmdb:188927",
+      "type": "movie",
+      "name": "Star Trek III. Más allá",
+      "ids": {
+        "tmdb": 188927
+      },
+      "overview": "El USS Enterprise, la nave insignia de la Flota Estelar, liderada por el capitán James T. Kirk, vuelve a surcar el universo, para proteger la Tierra y el resto de planetas aliados. Pero la tranquilidad durará poco y el peligro acecha. La primera etapa de su misión les llevará a un territorio desconocido, y su travesía pronto se convertirá en una carrera por la supervivencia, cuando se enfrenten a un nuevo y fiero enemigo, Krall, de una especie alienígena avanzada. A la vez que intentan encontrar el modo de volver a la Tierra, su objetivo será proteger el futuro de la raza humana y preservar la armonía entre especies...",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/2yfbpstJY4Fan8DSfPFDl05jx9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/f56OPL0OtsnjNx7nLqH5DeL7Bu7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i58y4VHsW2QNI4JOVQB7YPyLVF1.png"
+    },
+    {
+      "id": "tmdb:168259",
+      "type": "movie",
+      "name": "Fast & Furious 7",
+      "ids": {
+        "tmdb": 168259
+      },
+      "overview": "Ha pasado un año desde que el equipo de Dominic Torreto y Brian pudiera regresar finalmente a Estados Unidos, tras ser indultados. Desean adaptarse a una vida en la legalidad, pero el entorno ya no es el mismo. Dom intenta acercarse a Letty, y Brian lucha para acostumbrarse a la vida en una urbanización con Mia y su hijo. Ninguno de ellos imagina que un frío asesino británico, entrenado para realizar operaciones secretas, se cruzará en sus vidas para convertirse en su mayor enemigo.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uONm0y5H1P3VCOVIH7sOeD2Vc0S.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3l3JKL4SmvKY8DmIMdgnSXTMJAZ.png"
+    },
+    {
+      "id": "tmdb:567",
+      "type": "movie",
+      "name": "La ventana indiscreta",
+      "ids": {
+        "tmdb": 567
+      },
+      "overview": "Un reportero fotográfico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compañía de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prismáticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extrañas circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
+      "year": 1954,
+      "poster": "https://image.tmdb.org/t/p/w342/fH1MipE8PXGg0rlI5cUdzxKnyA2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r3vnZjr3ujbjLxSCF6pS2YLi3pe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AoqMq2x8vT4pOibSelF1fWc1Qoj.png"
     }
   ]
 }
