@@ -41,6 +41,19 @@
       "backdrop": "https://image.tmdb.org/t/p/original/raGJ1Rdod03sai4joiQOhFzcCKa.jpg"
     },
     {
+      "id": "tmdb:63114",
+      "type": "series",
+      "name": "La Señora",
+      "ids": {
+        "tmdb": 63114
+      },
+      "overview": "A comienzos de los años 20, en España, las diferencias sociales eran abismales. Sobre todo en las zonas rurales la fuerza del caciquismo se basa enla tradición y el analfabetismo. Ciertos sectores de la burguesía y las clases trabajadoras luchan por subvertir la situación. En este ambiente germina el apasionado amor de Victoria Márquez, miembro de una poderosa familia, y Ángel, un diácono de familia minera. Tras la explosión de una bomba, la Guardia Civil arresta y encarcela a Salvador, el hermano de Ángel. Los mineros amenazan con ir a la huelga. Ajeno a los problemas de sus trabajadores, Ricardo Márquez está a punto de cerrar una gran operación financiera; su socio es Gonzalo, marqués de Castro.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/xQLnrdNgaHDMbmlSWH2jVZ5gk2k.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uwBGc9q8mWxbQctTzjrEV31mRWj.jpg"
+    },
+    {
       "id": "tmdb:62984",
       "type": "series",
       "name": "Los misterios de Laura",
@@ -53,19 +66,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5Bi8Ih20ukh6GJUhzvgxwZjqtdZ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7izveIaqkKVVSeaYGEoZemPsZKJ.png"
-    },
-    {
-      "id": "tmdb:63114",
-      "type": "series",
-      "name": "La Señora",
-      "ids": {
-        "tmdb": 63114
-      },
-      "overview": "A comienzos de los años 20, en España, las diferencias sociales eran abismales. Sobre todo en las zonas rurales la fuerza del caciquismo se basa enla tradición y el analfabetismo. Ciertos sectores de la burguesía y las clases trabajadoras luchan por subvertir la situación. En este ambiente germina el apasionado amor de Victoria Márquez, miembro de una poderosa familia, y Ángel, un diácono de familia minera. Tras la explosión de una bomba, la Guardia Civil arresta y encarcela a Salvador, el hermano de Ángel. Los mineros amenazan con ir a la huelga. Ajeno a los problemas de sus trabajadores, Ricardo Márquez está a punto de cerrar una gran operación financiera; su socio es Gonzalo, marqués de Castro.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/xQLnrdNgaHDMbmlSWH2jVZ5gk2k.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uwBGc9q8mWxbQctTzjrEV31mRWj.jpg"
     },
     {
       "id": "tmdb:62975",
@@ -121,19 +121,6 @@
       "backdrop": "https://image.tmdb.org/t/p/original/t9UNjinV53Kfg1DHXr34aBHjLvp.jpg"
     },
     {
-      "id": "tmdb:43922",
-      "type": "series",
-      "name": "Teresa de Jesús",
-      "ids": {
-        "tmdb": 43922
-      },
-      "overview": "Serie de TV (8 episodios). Con gran rigor histórico asistimos a la vida de Teresa de Jesús, monja carmelita, descendiente de judíos conversos, que emprendió la reforma de la Orden. En sus escritos nos dejó uno de los testimonios más apasionantes del siglo XVI.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/f4pwLP5veOpelJgkQAEsajfv5ci.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4D8NRrg3yBX4dOiUZ5C8hadbSze.jpg"
-    },
-    {
       "id": "tmdb:22709",
       "type": "series",
       "name": "Hostal Royal Manzanares",
@@ -159,6 +146,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/6Kju46bTDtH5UvRXs1cTGP8dSlM.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ugLgXzv2usCs6Ny5OdN1F9p8DfP.jpg"
+    },
+    {
+      "id": "tmdb:43922",
+      "type": "series",
+      "name": "Teresa de Jesús",
+      "ids": {
+        "tmdb": 43922
+      },
+      "overview": "Serie de TV (8 episodios). Con gran rigor histórico asistimos a la vida de Teresa de Jesús, monja carmelita, descendiente de judíos conversos, que emprendió la reforma de la Orden. En sus escritos nos dejó uno de los testimonios más apasionantes del siglo XVI.",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w342/f4pwLP5veOpelJgkQAEsajfv5ci.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4D8NRrg3yBX4dOiUZ5C8hadbSze.jpg"
     },
     {
       "id": "tmdb:6066",
@@ -238,16 +238,17 @@
       "posterShape": "poster"
     },
     {
-      "id": "tmdb:59164",
+      "id": "tmdb:76518",
       "type": "series",
-      "name": "Gran reserva",
+      "name": "La mujer mosquetero",
       "ids": {
-        "tmdb": 59164
+        "tmdb": 76518
       },
-      "overview": "Gran Reserva es una mezcla de melodrama y thriller. Una historia familiar que gira en torno a tres familias de bodegueros riojanos: los Cortázar, representados por su patriarca Don Vicente, que consideran el vino como un lucrativo negocio, y los Reverte, encabezados por Doña Sofía, que creen que la viña y la tierra son una forma de vida. Pese a las diferencias, ambas familias viven en un equilibrio que se rompe de forma drástica cuando alguien intenta asesinar a Miguel, el primogénito de los Cortázar. La tercera familia en discordia, los Miranda, volverá en busca de la gloria perdida aunque eso les llevará a enfrentarse a los Cortázar y a los Reverte",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/nUAKJD0IClkZVx7aceXPGBxWZyy.jpg",
-      "posterShape": "poster"
+      "overview": "Reinado de Luis XIV, 1660. La lealtad del pueblo francés está dividida entre la Iglesia y el Estado. Entre los mosqueteros del rey destaca especialmente uno: Valentine D'Artagnan. Su padre, Jacques D'Artagnan, el más célebre de los mosqueteros, después de adiestrar a su hija en el arte de la espada, la envía a París a cumplir su sueño, cosa nada fácil por tratarse de una mujer. Para mostrar su talento, Valentine se une a los hijos de los antiguos compañeros de su padre.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/CqGET1G1iiPuPmO48upEvdZERa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7PgKziNQyc39xCZ87qEFYANkSLB.jpg"
     },
     {
       "id": "tmdb:53568",
@@ -264,29 +265,16 @@
       "logo": "https://image.tmdb.org/t/p/w500/uC9w9nphU5JgtjerTAOFbJrM3mf.png"
     },
     {
-      "id": "tmdb:8419",
+      "id": "tmdb:59164",
       "type": "series",
-      "name": "Herederos",
+      "name": "Gran reserva",
       "ids": {
-        "tmdb": 8419
+        "tmdb": 59164
       },
-      "overview": "Narra la vida de los Orozco, importante familia relacionada con el mundo de los toros. A la cabeza, Carmen Orozco, que tendrá que gestionar el patrimonio haciendo frente a traiciones, luchas de jerarquías y enfrentamientos personales.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/wdt6VN9nKZLbEeJo71R8bGnsWW7.jpg",
+      "overview": "Gran Reserva es una mezcla de melodrama y thriller. Una historia familiar que gira en torno a tres familias de bodegueros riojanos: los Cortázar, representados por su patriarca Don Vicente, que consideran el vino como un lucrativo negocio, y los Reverte, encabezados por Doña Sofía, que creen que la viña y la tierra son una forma de vida. Pese a las diferencias, ambas familias viven en un equilibrio que se rompe de forma drástica cuando alguien intenta asesinar a Miguel, el primogénito de los Cortázar. La tercera familia en discordia, los Miranda, volverá en busca de la gloria perdida aunque eso les llevará a enfrentarse a los Cortázar y a los Reverte",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/nUAKJD0IClkZVx7aceXPGBxWZyy.jpg",
       "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:76518",
-      "type": "series",
-      "name": "La mujer mosquetero",
-      "ids": {
-        "tmdb": 76518
-      },
-      "overview": "Reinado de Luis XIV, 1660. La lealtad del pueblo francés está dividida entre la Iglesia y el Estado. Entre los mosqueteros del rey destaca especialmente uno: Valentine D'Artagnan. Su padre, Jacques D'Artagnan, el más célebre de los mosqueteros, después de adiestrar a su hija en el arte de la espada, la envía a París a cumplir su sueño, cosa nada fácil por tratarse de una mujer. Para mostrar su talento, Valentine se une a los hijos de los antiguos compañeros de su padre.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/CqGET1G1iiPuPmO48upEvdZERa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7PgKziNQyc39xCZ87qEFYANkSLB.jpg"
     },
     {
       "id": "tmdb:236489",
@@ -302,17 +290,16 @@
       "backdrop": "https://image.tmdb.org/t/p/original/ufGW7mhOG2Gbn0tRmB5LHW5JZKo.jpg"
     },
     {
-      "id": "tmdb:44331",
+      "id": "tmdb:8419",
       "type": "series",
-      "name": "Cañas y barro",
+      "name": "Herederos",
       "ids": {
-        "tmdb": 44331
+        "tmdb": 8419
       },
-      "overview": "Provincia de Valencia, España, siglo XIX. Tonet vive una intensa historia de amor con Neleta, a la que conoce desde la infancia, pero se ve obligado a abandonarla para servir en la guerra de Cuba.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/8o9NmxX6Nu3Piz6zloKTcrYc6tc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A3rICQyOFkAF23jAudXS56XHd4K.jpg"
+      "overview": "Narra la vida de los Orozco, importante familia relacionada con el mundo de los toros. A la cabeza, Carmen Orozco, que tendrá que gestionar el patrimonio haciendo frente a traiciones, luchas de jerarquías y enfrentamientos personales.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/wdt6VN9nKZLbEeJo71R8bGnsWW7.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:69574",
@@ -326,6 +313,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/h4b0vq14nQLqKYEqX9G7giPuNv3.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/adgIsN8EUIt0iC1pI1f5PrZvL4Q.jpg"
+    },
+    {
+      "id": "tmdb:44331",
+      "type": "series",
+      "name": "Cañas y barro",
+      "ids": {
+        "tmdb": 44331
+      },
+      "overview": "Provincia de Valencia, España, siglo XIX. Tonet vive una intensa historia de amor con Neleta, a la que conoce desde la infancia, pero se ve obligado a abandonarla para servir en la guerra de Cuba.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/8o9NmxX6Nu3Piz6zloKTcrYc6tc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A3rICQyOFkAF23jAudXS56XHd4K.jpg"
     },
     {
       "id": "tmdb:101786",
@@ -354,6 +354,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/tqa2MAaMl5H4FHnlQnUi1xk4xlV.png"
     },
     {
+      "id": "tmdb:63758",
+      "type": "series",
+      "name": "Desaparecida: Patricia Marcos",
+      "ids": {
+        "tmdb": 63758
+      },
+      "overview": "Patricia Marcos es una joven que vive junto a su familia en un pueblo ficticio de las afueras de Madrid, Blancaró. La noche en que cumple 18 años Patricia planea salir con su prima, Cris, a las fiestas del pueblo vecino. Tras discutir con su madre, Lola, sobre la hora de regreso a casa, Patricia acaba logrando autorización de su padre, Alfredo, para alargar la vuelta. Sin embargo, la joven no regresa jamás a casa, lo que moviliza a su familia y a la Guardia Civil en su búsqueda en calidad de persona desaparecida. A medida que esta avance saldrán a luz detalles desconocidos de Patricia y su entorno. (Wikipedia)",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/cIur4YJbgu1BEFfSBDVqfIaoTVb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lfAuJbDbxZ7mgEDTzV3lRJqBJaq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/z2ns3bp8nX0wpxHxEhN9hIOIr0f.png"
+    },
+    {
       "id": "tmdb:72624",
       "type": "series",
       "name": "El castigo",
@@ -378,19 +392,6 @@
       "posterShape": "poster"
     },
     {
-      "id": "tmdb:71251",
-      "type": "series",
-      "name": "Guante blanco",
-      "ids": {
-        "tmdb": 71251
-      },
-      "overview": "De los creadores de \"Desaparecida\" llega \"Guante blanco\". Historia de dos hombres muy parecidos pero enfrentados: un meticuloso policía y un ladrón profesional. En el primer episodio, un nuevo robo acaba de cometerse en la ciudad. Un golpe limpio, sin violencia, perpetrado por una banda de ladrones de guante blanco. El inspector Valle (Carlos Hipólito), recién llegado a la ciudad junto a sus hijos, será el encargado de darles caza. Todavía no lo sabe pero su vida, y la de Mario Pastor (José Luis García Pérez) y su banda, acaban de cruzarse por primera vez. Valle comienza sus pesquisas para detener a la banda de ladrones mientras éstos, un paso por delante, preparan ya su siguiente golpe. Uno de los robos más complicados que han tenido nunca: el robo de un Van Gogh de un museo.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/fNK98pLa5VHoM9C41uJfZ8XVYQC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zKdlt34jSQ3xvW0K6ELVtk1yHLz.jpg"
-    },
-    {
       "id": "tmdb:74416",
       "type": "series",
       "name": "Fortunata y Jacinta",
@@ -404,29 +405,17 @@
       "backdrop": "https://image.tmdb.org/t/p/original/36zMkv6ErriT3EbfkPkXoPTPeBi.jpg"
     },
     {
-      "id": "tmdb:83425",
+      "id": "tmdb:71251",
       "type": "series",
-      "name": "La piel azul",
+      "name": "Guante blanco",
       "ids": {
-        "tmdb": 83425
+        "tmdb": 71251
       },
-      "overview": "Un grupo de amigos celebra una fiesta en un barco privado: hay amor, alcohol, drogas, sexo... Pero todo se tuerce cuando se dan cuenta de que el último en tirarse al agua olvidó bajar antes la escalerilla.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zpDqTd4MJwm5gsVimLYnY262l3V.jpg",
+      "overview": "De los creadores de \"Desaparecida\" llega \"Guante blanco\". Historia de dos hombres muy parecidos pero enfrentados: un meticuloso policía y un ladrón profesional. En el primer episodio, un nuevo robo acaba de cometerse en la ciudad. Un golpe limpio, sin violencia, perpetrado por una banda de ladrones de guante blanco. El inspector Valle (Carlos Hipólito), recién llegado a la ciudad junto a sus hijos, será el encargado de darles caza. Todavía no lo sabe pero su vida, y la de Mario Pastor (José Luis García Pérez) y su banda, acaban de cruzarse por primera vez. Valle comienza sus pesquisas para detener a la banda de ladrones mientras éstos, un paso por delante, preparan ya su siguiente golpe. Uno de los robos más complicados que han tenido nunca: el robo de un Van Gogh de un museo.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/fNK98pLa5VHoM9C41uJfZ8XVYQC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uXmH8pJpbYPenX083N4cV4RxdtC.jpg"
-    },
-    {
-      "id": "tmdb:71155",
-      "type": "series",
-      "name": "Al filo de la ley",
-      "ids": {
-        "tmdb": 71155
-      },
-      "overview": "El protagonista de la serie es Gonzalo Álvarez, el dueño del bufete, que es muy conocido en la profesión por su eficacia, suele centrarse en los casos que dan fama y dinero al bufete, aunque también lucha contra las injusticias sociales. Su mano derecha es Patricia Muñoz, una abogada fría, cínica y brillante que arrasa en los juicios con su estilo impecable y sus argumentos irrefutables, su ojo derecho será Alex Villar, el hijo de Ricardo Villar, un antiguo socio de Gonzalo que murió en extrañas circunstancias durante la transición. Alex destacará por defender las causas perdidas y por su tira y afloja con Elena Castro, la cuarta protagonista, que entrará a formar parte del bufete tras vencer a Gonzalo en un juicio en el que demostró su implicación en los casos. Elena fue novia de Alex hace mucho tiempo y ahora tendrán que trabajar juntos.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/lgFqKpBIJbb1oqMO2fBGaH1GB0V.jpg",
-      "posterShape": "poster"
+      "backdrop": "https://image.tmdb.org/t/p/original/zKdlt34jSQ3xvW0K6ELVtk1yHLz.jpg"
     },
     {
       "id": "tmdb:75644",
@@ -442,18 +431,42 @@
       "backdrop": "https://image.tmdb.org/t/p/original/LnVqyg8OdgAX2Wqm9aZZdp84cH.jpg"
     },
     {
-      "id": "tmdb:63758",
+      "id": "tmdb:83425",
       "type": "series",
-      "name": "Desaparecida: Patricia Marcos",
+      "name": "La piel azul",
       "ids": {
-        "tmdb": 63758
+        "tmdb": 83425
       },
-      "overview": "Patricia Marcos es una joven que vive junto a su familia en un pueblo ficticio de las afueras de Madrid, Blancaró. La noche en que cumple 18 años Patricia planea salir con su prima, Cris, a las fiestas del pueblo vecino. Tras discutir con su madre, Lola, sobre la hora de regreso a casa, Patricia acaba logrando autorización de su padre, Alfredo, para alargar la vuelta. Sin embargo, la joven no regresa jamás a casa, lo que moviliza a su familia y a la Guardia Civil en su búsqueda en calidad de persona desaparecida. A medida que esta avance saldrán a luz detalles desconocidos de Patricia y su entorno. (Wikipedia)",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/cIur4YJbgu1BEFfSBDVqfIaoTVb.jpg",
+      "overview": "Un grupo de amigos celebra una fiesta en un barco privado: hay amor, alcohol, drogas, sexo... Pero todo se tuerce cuando se dan cuenta de que el último en tirarse al agua olvidó bajar antes la escalerilla.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/zpDqTd4MJwm5gsVimLYnY262l3V.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lfAuJbDbxZ7mgEDTzV3lRJqBJaq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/z2ns3bp8nX0wpxHxEhN9hIOIr0f.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/uXmH8pJpbYPenX083N4cV4RxdtC.jpg"
+    },
+    {
+      "id": "tmdb:7272",
+      "type": "series",
+      "name": "Celia",
+      "ids": {
+        "tmdb": 7272
+      },
+      "overview": "Enero de 1932, Celia Gálvez de Montalbán es una niña de 7 años de edad y vive en la Calle Serrano en Madrid con su familia. Celia tiene una manera ingeniosa de cuestionar el mundo que le rodea, sobre todo a los mayores; no les comprende y cree que complican las cosas demasiado. Su mundo es una mezcla entre la realidad y la fantasía, le fascinan los cuentos de hadas y cuestiona hasta la identidad de los reyes magos. Celia tiene un hermanito pequeño al que llama \"Cuchifritín\", y un papá y una mamá que la adoran, aunque no saben cómo ponerle solución a su comportamiento. Al principio, Celia está bajo el cuidado de Miss Nelly, una institutriz inglesa que tiene gran dificultad con la niña. Cuando ésta no puede soportar más las humillaciones de Celia, su madre acude a Doña Benita, una anciana de buen corazón pero con una imaginación tan grande y fantasiosa cómo la de la misma Celia; en lugar de cuidar de Celia, Doña Benita se vuelve una fiel compañera de juegos y aventuras para la niña. Al llegar el verano, Celia y su familia pasan unos días en la playa, y cuando sus papás se marchan a París, ella y Doña Benita pasan el resto del verano en la sierra con Juana, la doncella y Carlotica, una nueva amiga de Celia. Cuando un inocente juego de la niña pone en peligro la vida y la salud de Cuchifritín, el padre de la niña no ve alternativa más que enviarla a un convento a ser disciplinada por las monjas. Las religiosas también tienen dificultad manteniendo el orden cuando llega Celia; las clases son interrumpidas más de una vez y sus creíbles historias hacen creer a las monjas en la posibilidad de que el mundo haya llegado a su fin. Al acabar el curso, Celia participa en la función, pero esta acaba en desastre después de que Celia se entera de que sus padres tienen la intención de marcharse lejos y dejarla en el colegio a pasar el verano. Al llegar una vez más las vacaciones veraniegas, Celia se encuentra sola en el colegio lidiando con Doña \"Merlucines\". Su padre viene a hacerle una última visita antes de marcharse y juntos visitan un circo, el cual inspira a Celia a escribir sobre sus propias aventuras después de marcharse con los titiriteros en la imaginación.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/dDJxMY7HxoqbZhPgh34KljS4aXT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eRhCgvJCZbX3oIwwb0KoLmdbA8J.jpg"
+    },
+    {
+      "id": "tmdb:71155",
+      "type": "series",
+      "name": "Al filo de la ley",
+      "ids": {
+        "tmdb": 71155
+      },
+      "overview": "El protagonista de la serie es Gonzalo Álvarez, el dueño del bufete, que es muy conocido en la profesión por su eficacia, suele centrarse en los casos que dan fama y dinero al bufete, aunque también lucha contra las injusticias sociales. Su mano derecha es Patricia Muñoz, una abogada fría, cínica y brillante que arrasa en los juicios con su estilo impecable y sus argumentos irrefutables, su ojo derecho será Alex Villar, el hijo de Ricardo Villar, un antiguo socio de Gonzalo que murió en extrañas circunstancias durante la transición. Alex destacará por defender las causas perdidas y por su tira y afloja con Elena Castro, la cuarta protagonista, que entrará a formar parte del bufete tras vencer a Gonzalo en un juicio en el que demostró su implicación en los casos. Elena fue novia de Alex hace mucho tiempo y ahora tendrán que trabajar juntos.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/lgFqKpBIJbb1oqMO2fBGaH1GB0V.jpg",
+      "posterShape": "poster"
     },
     {
       "id": "tmdb:304128",
@@ -466,19 +479,6 @@
       "year": 2010,
       "poster": "https://image.tmdb.org/t/p/w342/cOKKH41Gs6GQAPXNtHXD4ymyB0e.jpg",
       "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:271020",
-      "type": "series",
-      "name": "Los años del NO-DO",
-      "ids": {
-        "tmdb": 271020
-      },
-      "overview": "El año 1939 nacieron los Noticieros que, por Orden de la Vicesecretaría de Educación Popular, se debían proyectar en todos los cines del territorio nacional. Esta obligación se mantuvo hasta el 22 de agosto de 1975, aunque el NO-DO siguió produciéndose hasta 1977. Su lema era “El mundo entero al alcance de todos los españoles”. En esta serie documental se resume cada año en un capítulo de algo menos de una hora",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/mq8ANHfa1uH2elcL8srAXvcPROJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swDO8BpkX1ELfbTy4GfFbWVaq3e.jpg"
     },
     {
       "id": "tmdb:104909",
@@ -494,6 +494,19 @@
       "backdrop": "https://image.tmdb.org/t/p/original/pOoLnpvCNN9dGkvhithT4jJiIPE.jpg"
     },
     {
+      "id": "tmdb:271020",
+      "type": "series",
+      "name": "Los años del NO-DO",
+      "ids": {
+        "tmdb": 271020
+      },
+      "overview": "El año 1939 nacieron los Noticieros que, por Orden de la Vicesecretaría de Educación Popular, se debían proyectar en todos los cines del territorio nacional. Esta obligación se mantuvo hasta el 22 de agosto de 1975, aunque el NO-DO siguió produciéndose hasta 1977. Su lema era “El mundo entero al alcance de todos los españoles”. En esta serie documental se resume cada año en un capítulo de algo menos de una hora",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/mq8ANHfa1uH2elcL8srAXvcPROJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swDO8BpkX1ELfbTy4GfFbWVaq3e.jpg"
+    },
+    {
       "id": "tmdb:72567",
       "type": "series",
       "name": "U.C.O. (Unidad Central Operativa)",
@@ -504,19 +517,6 @@
       "year": 2008,
       "poster": "https://image.tmdb.org/t/p/w342/quOFUZa1YyL6nJdRpa76V7c8VGL.jpg",
       "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:7272",
-      "type": "series",
-      "name": "Celia",
-      "ids": {
-        "tmdb": 7272
-      },
-      "overview": "Enero de 1932, Celia Gálvez de Montalbán es una niña de 7 años de edad y vive en la Calle Serrano en Madrid con su familia. Celia tiene una manera ingeniosa de cuestionar el mundo que le rodea, sobre todo a los mayores; no les comprende y cree que complican las cosas demasiado. Su mundo es una mezcla entre la realidad y la fantasía, le fascinan los cuentos de hadas y cuestiona hasta la identidad de los reyes magos. Celia tiene un hermanito pequeño al que llama \"Cuchifritín\", y un papá y una mamá que la adoran, aunque no saben cómo ponerle solución a su comportamiento. Al principio, Celia está bajo el cuidado de Miss Nelly, una institutriz inglesa que tiene gran dificultad con la niña. Cuando ésta no puede soportar más las humillaciones de Celia, su madre acude a Doña Benita, una anciana de buen corazón pero con una imaginación tan grande y fantasiosa cómo la de la misma Celia; en lugar de cuidar de Celia, Doña Benita se vuelve una fiel compañera de juegos y aventuras para la niña. Al llegar el verano, Celia y su familia pasan unos días en la playa, y cuando sus papás se marchan a París, ella y Doña Benita pasan el resto del verano en la sierra con Juana, la doncella y Carlotica, una nueva amiga de Celia. Cuando un inocente juego de la niña pone en peligro la vida y la salud de Cuchifritín, el padre de la niña no ve alternativa más que enviarla a un convento a ser disciplinada por las monjas. Las religiosas también tienen dificultad manteniendo el orden cuando llega Celia; las clases son interrumpidas más de una vez y sus creíbles historias hacen creer a las monjas en la posibilidad de que el mundo haya llegado a su fin. Al acabar el curso, Celia participa en la función, pero esta acaba en desastre después de que Celia se entera de que sus padres tienen la intención de marcharse lejos y dejarla en el colegio a pasar el verano. Al llegar una vez más las vacaciones veraniegas, Celia se encuentra sola en el colegio lidiando con Doña \"Merlucines\". Su padre viene a hacerle una última visita antes de marcharse y juntos visitan un circo, el cual inspira a Celia a escribir sobre sus propias aventuras después de marcharse con los titiriteros en la imaginación.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/dDJxMY7HxoqbZhPgh34KljS4aXT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eRhCgvJCZbX3oIwwb0KoLmdbA8J.jpg"
     },
     {
       "id": "tmdb:73588",
@@ -544,6 +544,19 @@
       "backdrop": "https://image.tmdb.org/t/p/original/fKkrMZ54xC6817DpZpWx6FgJqbS.jpg"
     },
     {
+      "id": "tmdb:78522",
+      "type": "series",
+      "name": "El Quijote de Miguel de Cervantes",
+      "ids": {
+        "tmdb": 78522
+      },
+      "overview": "Alonso Quijano, un hidalgo manchego de unos 50 años y de mediana posición económica, queda hasta tal punto trastornado por la lectura de los libros de caballería que decide salir a buscar aventuras acompañado de su fiel escudero Sancho Panza. La peculiar locura de Don Quijote, la fascinación que despierta en Sancho y la bondad de ambos personajes contrastan con la crueldad y el escarnio de que son objeto por parte de aquellos a quienes tratan de ayudar",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/sm40a44IEfbpQD51xPetcNN0gr5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kF86bm1F5FwOT8F3LwfR9CDQQza.jpg"
+    },
+    {
       "id": "tmdb:77617",
       "type": "series",
       "name": "Los gozos y las sombras",
@@ -569,6 +582,30 @@
       "backdrop": "https://image.tmdb.org/t/p/original/vO7y8K53D6L5cynKifIXS2UO5dE.jpg"
     },
     {
+      "id": "tmdb:72958",
+      "type": "series",
+      "name": "El Gordo: Una historia verdadera",
+      "ids": {
+        "tmdb": 72958
+      },
+      "overview": "Una familia humilde española que sufre problemas económicos es agraciada con 18 millones de euros en un sorteo de la Primitiva. Pero el dinero no da la felicidad y tendrán algunos conflictos.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/44Xzmov9z0k2TvxUZ6ColGoNpdO.jpg",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tmdb:65500",
+      "type": "series",
+      "name": "La sonata del silencio",
+      "ids": {
+        "tmdb": 65500
+      },
+      "overview": "Adaptación de la novela homónima de Paloma Sánchez-Garnica. Ficción ambientada en la España de la posguerra que narra la historia de Marta Ribas, una mujer que, tras ver cómo su marido Antonio cae enfermo, tiene que ponerse a trabajar, a pesar de las críticas de su entorno, para sacar adelante a su hija. (Fotogramas).",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/s446iUKNM3L2ODTtEIpT5LE42IT.jpg",
+      "posterShape": "poster"
+    },
+    {
       "id": "tmdb:15152",
       "type": "series",
       "name": "El abuelo",
@@ -581,40 +618,15 @@
       "posterShape": "poster"
     },
     {
-      "id": "tmdb:72962",
+      "id": "tmdb:75709",
       "type": "series",
-      "name": "Historias robadas",
+      "name": "Soy el solitario",
       "ids": {
-        "tmdb": 72962
+        "tmdb": 75709
       },
-      "overview": "Año 1979, una mujer, Charo, da a luz a gemelos en un parto con demasiada anestesia. Al despertar el prestigioso ginecólogo que la atiende le comunica que uno de los niños ha muerto, ella no le cree, pero no mira en el interior del ataúd, algo de lo que se arrepentirá siempre. En el año 2011 Charo cae muy enferma y no para de repetir a su hijo que su hermano no ha muerto, ante su insistencia, Juan decide investigar y lo primero que hace es abrir la tumba de su gemelo y descubre que allí no hay ningún cuerpo. Encontrar a su hermano y averiguar que ocurrió se convierte en su máxima obsesión.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/sotdhWjKmjdojMFpuBux8VUajsg.jpg",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tmdb:78522",
-      "type": "series",
-      "name": "El Quijote de Miguel de Cervantes",
-      "ids": {
-        "tmdb": 78522
-      },
-      "overview": "Alonso Quijano, un hidalgo manchego de unos 50 años y de mediana posición económica, queda hasta tal punto trastornado por la lectura de los libros de caballería que decide salir a buscar aventuras acompañado de su fiel escudero Sancho Panza. La peculiar locura de Don Quijote, la fascinación que despierta en Sancho y la bondad de ambos personajes contrastan con la crueldad y el escarnio de que son objeto por parte de aquellos a quienes tratan de ayudar",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/sm40a44IEfbpQD51xPetcNN0gr5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kF86bm1F5FwOT8F3LwfR9CDQQza.jpg"
-    },
-    {
-      "id": "tmdb:65230",
-      "type": "series",
-      "name": "Adolfo Suarez, el presidente",
-      "ids": {
-        "tmdb": 65230
-      },
-      "overview": "Biopic televisivo que repasa la trayectoria política y personal de Adolfo Suárez, artífice del proceso que llevó a España de la dictadura a la democracia en la llamada época de la Transición. La película narra su vida desde su juventud hasta el 29 de enero de 1981, fecha en la que presenta su dimisión como Presidente del Gobierno.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/dhDO2MBlU3zVES5tcogVzID8m6q.jpg",
+      "overview": "Inspirada en los delitos y la posterior detención en Portugal de un vecino de la localidad madrileña de Las Rozas, presunto autor de diversos atracos, que pasará a la historia como el atracador más buscado.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/8dLa51gEhQiVgUb0bv4a5KJok5J.jpg",
       "posterShape": "poster"
     },
     {
@@ -629,18 +641,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/2wQzXxMZNeNOysEcf4nUQuFs5J6.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mzUevFt81ukzg9XAzMA5FhUofvM.jpg"
-    },
-    {
-      "id": "tmdb:65500",
-      "type": "series",
-      "name": "La sonata del silencio",
-      "ids": {
-        "tmdb": 65500
-      },
-      "overview": "Adaptación de la novela homónima de Paloma Sánchez-Garnica. Ficción ambientada en la España de la posguerra que narra la historia de Marta Ribas, una mujer que, tras ver cómo su marido Antonio cae enfermo, tiene que ponerse a trabajar, a pesar de las críticas de su entorno, para sacar adelante a su hija. (Fotogramas).",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/s446iUKNM3L2ODTtEIpT5LE42IT.jpg",
-      "posterShape": "poster"
     }
   ]
 }
