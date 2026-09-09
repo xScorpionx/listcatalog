@@ -525,18 +525,6 @@
       "backdrop": "https://image.tmdb.org/t/p/original/lfyIa0pAL2IRFTmwRPoWWRwP132.jpg"
     },
     {
-      "id": "tmdb:1308700",
-      "type": "movie",
-      "name": "The Squash, the Bad and the Ugly",
-      "ids": {
-        "tmdb": 1308700
-      },
-      "overview": "One lone squash decides to stand up against humanity...",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9wkJ6Qs8i5nAk7jTP8yW2s8ezDx.jpg",
-      "posterShape": "poster"
-    },
-    {
       "id": "tmdb:1469890",
       "type": "movie",
       "name": "Como el perro y el gato",
@@ -636,6 +624,19 @@
       "poster": "https://image.tmdb.org/t/p/w342/ookf02w9Lk0YEneBa4ydVCM6d11.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/9hiJVbh2kd5C1548XvDSpsynSJZ.jpg"
+    },
+    {
+      "id": "tmdb:739228",
+      "type": "movie",
+      "name": "Dos cipreses",
+      "ids": {
+        "tmdb": 739228
+      },
+      "overview": "Una carta de doble sentido en mitad del confinamiento. Javier comienza a enviarle videos a su hijo para ponerle al día de su nueva vida. A través de estos videos, Nicolás intentará responder a su padre.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/paxNTGWSAETWuapIW3kKNJ843Ux.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xlqXHwh2F0cGm4sIaznBkjYnytJ.jpg"
     }
   ]
 }
