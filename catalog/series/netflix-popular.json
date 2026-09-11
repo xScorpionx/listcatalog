@@ -113,33 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
     },
     {
-      "id": "tmdb:65701",
-      "type": "series",
-      "name": "Good Mythical Morning",
-      "ids": {
-        "tmdb": 65701
-      },
-      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hH4YaZuH89Hlyz0DEkf362Mj8gU.jpg"
-    },
-    {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
-    },
-    {
       "id": "tmdb:1396",
       "type": "series",
       "name": "Breaking Bad",
@@ -152,20 +125,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ycFcYYnzVc8mWw41neszGPMyKc3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/chw44B2VnLha8iiTdyZcIW0ZELC.png"
-    },
-    {
-      "id": "tmdb:60625",
-      "type": "series",
-      "name": "Rick y Morty",
-      "ids": {
-        "tmdb": 60625
-      },
-      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/arSWOHGl9uQvhDrWjgyl3aaypca.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nI357vvdzyGlckenBnqCMhwapBO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
       "id": "tmdb:45140",
@@ -182,18 +141,45 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
-      "id": "tmdb:4656",
+      "id": "tmdb:2316",
       "type": "series",
-      "name": "Raw",
+      "name": "The Office",
       "ids": {
-        "tmdb": 4656
+        "tmdb": 2316
       },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
+    },
+    {
+      "id": "tmdb:65701",
+      "type": "series",
+      "name": "Good Mythical Morning",
+      "ids": {
+        "tmdb": 65701
+      },
+      "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hH4YaZuH89Hlyz0DEkf362Mj8gU.jpg"
+    },
+    {
+      "id": "tmdb:46296",
+      "type": "series",
+      "name": "Spartacus",
+      "ids": {
+        "tmdb": 46296
+      },
+      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
     },
     {
       "id": "tmdb:299952",
@@ -210,6 +196,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/9oO4ovVx0NbmrqNdKVK2OOHKxar.png"
     },
     {
+      "id": "tmdb:60625",
+      "type": "series",
+      "name": "Rick y Morty",
+      "ids": {
+        "tmdb": 60625
+      },
+      "overview": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/arSWOHGl9uQvhDrWjgyl3aaypca.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nI357vvdzyGlckenBnqCMhwapBO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
+    },
+    {
       "id": "tmdb:1668",
       "type": "series",
       "name": "Friends",
@@ -224,6 +224,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
+      "id": "tmdb:4656",
+      "type": "series",
+      "name": "Raw",
+      "ids": {
+        "tmdb": 4656
+      },
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
+    },
+    {
       "id": "tmdb:1405",
       "type": "series",
       "name": "Dexter",
@@ -236,20 +250,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/iabAUdJiFG4TXX8T5ZNl8JIlg3.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rwjo9lVSmBJkZtHgyNfsYMHYBL4.png"
-    },
-    {
-      "id": "tmdb:94664",
-      "type": "series",
-      "name": "Mushoku Tensei Jobless Reincarnation",
-      "ids": {
-        "tmdb": 94664
-      },
-      "overview": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mundo fantástico de espada y brujería. Tras la decisión de hacer lo mejor que pueda con el conocimiento adquirido en su anterior mundo, él decide aprovechar la oportunidad y aprender a usar magia desde su nueva juventud.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/81j82xSVO8jXHsHVByQLYm2XZ3s.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8GxsDBWNSH7yMbXMWTq9HtTGORO.png"
     },
     {
       "id": "tmdb:4604",
@@ -280,6 +280,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/rlRfI2dVtxitG8zekaoazhLTtC9.png"
     },
     {
+      "id": "tmdb:299952",
+      "type": "series",
+      "name": "Cuando empiece la primavera",
+      "ids": {
+        "tmdb": 299952
+      },
+      "overview": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesar de la presión y los desafíos para convertirse en una profesional capacitada.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/i6oZaL5sgiBM6eaiX3P7imUezPt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/q1VfrW33zJYUayakX2S8dWjadRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9oO4ovVx0NbmrqNdKVK2OOHKxar.png"
+    },
+    {
+      "id": "tmdb:69557",
+      "type": "series",
+      "name": "Fauda",
+      "ids": {
+        "tmdb": 69557
+      },
+      "overview": "\"Fauda\" (en árabe \"Caos\") representa la historia de dos lados del conflicto israelí-palestino. Doron, un comandante de la unidad secreta israelí que opera dentro de los territorios palestinos, y su equipo, están persiguiendo al activista de Hamas, Abu-Ahmed. Al otro lado de la valla, la vida trágica de Abu-Ahmed y su familia, y las razones de su creciente odio hacia Israel.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b3S01b9R5djFXUlun5CMj4rw7dP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8tsp3Rme4fwlTTS9sdJXYPPZDNm.png"
+    },
+    {
       "id": "tmdb:71790",
       "type": "series",
       "name": "S.W.A.T.: Los hombres de Harrelson",
@@ -292,6 +320,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/3NC2Tfjr4N38qNYQApVtiggU47E.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/uBxIeTKeYhtdI8TtWYqIrAgFvSt.png"
+    },
+    {
+      "id": "tmdb:46952",
+      "type": "series",
+      "name": "The Blacklist",
+      "ids": {
+        "tmdb": 46952
+      },
+      "overview": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xKXrb9kDBhwC4udRbdXzJLR7p0D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
     },
     {
       "id": "tmdb:73586",
@@ -322,60 +364,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/rC1RHd5Qv03LYq9corF9KG2zNvb.png"
     },
     {
-      "id": "tmdb:46952",
+      "id": "tmdb:65334",
       "type": "series",
-      "name": "The Blacklist",
+      "name": "Miraculous: Las aventuras de Ladybug",
       "ids": {
-        "tmdb": 46952
+        "tmdb": 65334
       },
-      "overview": "El criminal más buscado del mundo, Thomas Raymond Reddington, se entrega misteriosamente y se ofrece a delatar a todos los que alguna vez han colaborado con él. Su única condición: sólo colaborará con Elisabeth King, una nueva agente del FBI, con quien parece tener alguna conexión que ella desconoce.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/2jDYeTaDSIYnVOS4BD3d17JBkfP.jpg",
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xKXrb9kDBhwC4udRbdXzJLR7p0D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7RxcTHowJTMFTZzQvJyvrZYYEZ9.png"
-    },
-    {
-      "id": "tmdb:58841",
-      "type": "series",
-      "name": "Chicago P.D.",
-      "ids": {
-        "tmdb": 58841
-      },
-      "overview": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pldLJHZfQGUlyT7DKdOWj4oi6Vw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png"
-    },
-    {
-      "id": "tmdb:316898",
-      "type": "series",
-      "name": "Confía en mí: El falso profeta",
-      "ids": {
-        "tmdb": 316898
-      },
-      "overview": "En este documental sobre crímenes reales, una experta en sectas y un cineasta se infiltran en una secta polígama para denunciar a un profeta y llevarlo ante la justicia.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/mDugtY17uzG4r6yU0pRgjawcfSA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rjsZmqo3pTPqKVuhzFIgvPGdWNb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rrVDZJR2v6zV3g8ezHLytuoz0wL.png"
-    },
-    {
-      "id": "tmdb:46296",
-      "type": "series",
-      "name": "Spartacus",
-      "ids": {
-        "tmdb": 46296
-      },
-      "overview": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVTQYTlTh6G3xjwZlQ1qPW3wUGo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uw5XFr8iR7ejcb4zWqrA7bUwxqq.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:1402",
@@ -406,6 +406,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/cMakaU4nbybkKOYhq47O8bFNRw2.png"
     },
     {
+      "id": "tmdb:316898",
+      "type": "series",
+      "name": "Confía en mí: El falso profeta",
+      "ids": {
+        "tmdb": 316898
+      },
+      "overview": "En este documental sobre crímenes reales, una experta en sectas y un cineasta se infiltran en una secta polígama para denunciar a un profeta y llevarlo ante la justicia.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/mDugtY17uzG4r6yU0pRgjawcfSA.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rjsZmqo3pTPqKVuhzFIgvPGdWNb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rrVDZJR2v6zV3g8ezHLytuoz0wL.png"
+    },
+    {
+      "id": "tmdb:58841",
+      "type": "series",
+      "name": "Chicago P.D.",
+      "ids": {
+        "tmdb": 58841
+      },
+      "overview": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pldLJHZfQGUlyT7DKdOWj4oi6Vw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcwj8Di0nBdaraQrMji6VauMBeZ.png"
+    },
+    {
       "id": "tmdb:18165",
       "type": "series",
       "name": "Crónicas vampíricas",
@@ -418,132 +446,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/lnNiH0Tx2SpG6cG6I3WjYQZHTS6.png"
-    },
-    {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Miraculous: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
-      "id": "tmdb:57532",
-      "type": "series",
-      "name": "La Patrulla Canina",
-      "ids": {
-        "tmdb": 57532
-      },
-      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/69OO29stgd4eEpVkrvMUot2wTam.png"
-    },
-    {
-      "id": "tmdb:37680",
-      "type": "series",
-      "name": "Suits: la clave del éxito",
-      "ids": {
-        "tmdb": 37680
-      },
-      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía.\n\nEntre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de acceso a la facultad de derecho.\n\nEl azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter.\n\nLa inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un único título universitario.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/nZsdLWlvZgA5waLpKl9koRg1VbJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
-    },
-    {
-      "id": "tmdb:66732",
-      "type": "series",
-      "name": "Stranger Things",
-      "ids": {
-        "tmdb": 66732
-      },
-      "overview": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/AsPD90QEQsIAtSxfSjV3fN7XFpt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/txLRbQm4eTBbCOK1Kzmh1f6l9Bh.png"
-    },
-    {
-      "id": "tmdb:246246",
-      "type": "series",
-      "name": "Beauty in Black",
-      "ids": {
-        "tmdb": 246246
-      },
-      "overview": "El destino de una stripper da un vuelco cuando se cruza con una rica familia disfuncional que maneja un emporio de cosmética y un retorcido negocio de tráfico de personas.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kKep27Lh3Gi78cy0xHGTVsoGsQp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zG8sVtogSXy9z3Q8bbqiXC52F3Y.png"
-    },
-    {
-      "id": "tmdb:31991",
-      "type": "series",
-      "name": "WWE NXT",
-      "ids": {
-        "tmdb": 31991
-      },
-      "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pRpsVvrOrzCTQGZlI0IeeQojoel.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/k0lJrDhoyuW6GWEWmHR7E2dZ1ic.png"
-    },
-    {
-      "id": "tmdb:269",
-      "type": "series",
-      "name": "One Tree Hill",
-      "ids": {
-        "tmdb": 269
-      },
-      "overview": "Los protagonistas son dos adolescentes con vidas paralelas, aunque muy diferentes, que viven en un pueblo de Carolina del Norte. Los une un oscuro secreto: son hijos del mismo padre. Después de crecer en ambientes muy distintos, de repente, sus vidas se cruzan.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hbto4yhvXWBKxtJ6SzcNWLljVgE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bP2U3QpT1YI6Ft48ftluPozhzz0.png"
-    },
-    {
-      "id": "tmdb:71728",
-      "type": "series",
-      "name": "El joven Sheldon",
-      "ids": {
-        "tmdb": 71728
-      },
-      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
-    },
-    {
-      "id": "tmdb:69557",
-      "type": "series",
-      "name": "Fauda",
-      "ids": {
-        "tmdb": 69557
-      },
-      "overview": "\"Fauda\" (en árabe \"Caos\") representa la historia de dos lados del conflicto israelí-palestino. Doron, un comandante de la unidad secreta israelí que opera dentro de los territorios palestinos, y su equipo, están persiguiendo al activista de Hamas, Abu-Ahmed. Al otro lado de la valla, la vida trágica de Abu-Ahmed y su familia, y las razones de su creciente odio hacia Israel.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b3S01b9R5djFXUlun5CMj4rw7dP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8tsp3Rme4fwlTTS9sdJXYPPZDNm.png"
     },
     {
       "id": "tmdb:100757",
@@ -560,32 +462,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/eXc0K8WX9tkphUPcimP5fZrnKFm.png"
     },
     {
-      "id": "tmdb:1411",
+      "id": "tmdb:57532",
       "type": "series",
-      "name": "Vigilados, Person of Interest",
+      "name": "La Patrulla Canina",
       "ids": {
-        "tmdb": 1411
+        "tmdb": 57532
       },
-      "overview": "John Reese (J. Caviezel) era un agente de la CIA que resolvía personalmente las misiones más peligrosas, pero ahora es un vagabundo que se ha dado a la bebida. El señor Finch (M. Emerson), un filántropo millonario muy peculiar, le ofrece trabajo con el fin de crear una sociedad muy beneficiosa moralmente para ambos. Finch pone a disposición de Reese un mecanismo capaz de predecir los delitos, lo que le permitirá arrestar a los delincuentes y proteger a los ciudadanos.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/A5C2lNBCrL2M0HV73CtSpv3XcFC.jpg",
+      "overview": "Protagonizada por 6 heroicos cachorros: Chase, Marshall, Rocky, Zuma, Rubble y Skye, que son entrenados y dirigidos por Ryder, un niño de 10 años que los rescató y les enseñó a utilizar sus habilidades para ayudar a los demás, formando la patrulla canina.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aIyOpSIACdjydva4oT2Buz6x8Xd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fMnD6iTWfrVWyQnKqPqTcPpy2iX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fYwHlOmwZDP6zJdVtOGkuOqSYOc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/69OO29stgd4eEpVkrvMUot2wTam.png"
     },
     {
-      "id": "tmdb:46298",
+      "id": "tmdb:66732",
       "type": "series",
-      "name": "Hunter × Hunter",
+      "name": "Stranger Things",
       "ids": {
-        "tmdb": 46298
+        "tmdb": 66732
       },
-      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+      "overview": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/AsPD90QEQsIAtSxfSjV3fN7XFpt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/89T83vE1ol8wcI879LutCqv7hMa.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/txLRbQm4eTBbCOK1Kzmh1f6l9Bh.png"
+    },
+    {
+      "id": "tmdb:37680",
+      "type": "series",
+      "name": "Suits: la clave del éxito",
+      "ids": {
+        "tmdb": 37680
+      },
+      "overview": "Michael Ross se gana la vida sobre la delgada línea de la legalidad. Es un joven con una inteligencia abrumadora, pero las malas compañías con las que se junta en la universidad le hicieron salirse y buscar una opción más vistosa a corto plazo, mejorar su economía.\n\nEntre sus triquiñuelas destaca el número de veces que se presenta en nombre de otros a los exámenes de acceso a la facultad de derecho.\n\nEl azar le acabará situando en el despacho de uno de los abogados más jóvenes y brillantes de Manhattan, Harvey Specter.\n\nLa inteligencia y dotes de Michael le asombrarán tanto que le tomará como su pupilo, a pesar de que no tenga la licenciatura. Juntos trabajarán mano a mano, ocultándole al resto del mundo la verdad: que juntos sólo suman un único título universitario.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/nZsdLWlvZgA5waLpKl9koRg1VbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/azbe6PAQhyoZZyawKeOHKGketzL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
     },
     {
       "id": "tmdb:56570",
@@ -602,6 +518,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/pN1h629rfHOqNlRsT7W4fPDqzQc.png"
     },
     {
+      "id": "tmdb:31991",
+      "type": "series",
+      "name": "WWE NXT",
+      "ids": {
+        "tmdb": 31991
+      },
+      "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pRpsVvrOrzCTQGZlI0IeeQojoel.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k0lJrDhoyuW6GWEWmHR7E2dZ1ic.png"
+    },
+    {
+      "id": "tmdb:71728",
+      "type": "series",
+      "name": "El joven Sheldon",
+      "ids": {
+        "tmdb": 71728
+      },
+      "overview": "En esta serie derivada de 'Big Bang', Sheldon Cooper tiene 9 años y se salta cuatro cursos para entrar directamente a la secundaria junto con su hermano mayor, menos listo que él. La vida en ella no será fácil, ya que sus compañeros, sus padres, su hermana melliza, su abuela y sus vecinos no entienden a Sheldon.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u9kAT44X0Sy67iy4DLyzPbRgfAJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
+    },
+    {
+      "id": "tmdb:246246",
+      "type": "series",
+      "name": "Beauty in Black",
+      "ids": {
+        "tmdb": 246246
+      },
+      "overview": "El destino de una stripper da un vuelco cuando se cruza con una rica familia disfuncional que maneja un emporio de cosmética y un retorcido negocio de tráfico de personas.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kKep27Lh3Gi78cy0xHGTVsoGsQp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zG8sVtogSXy9z3Q8bbqiXC52F3Y.png"
+    },
+    {
       "id": "tmdb:4586",
       "type": "series",
       "name": "Las chicas Gilmore",
@@ -616,18 +574,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
     },
     {
-      "id": "tmdb:259140",
+      "id": "tmdb:269",
       "type": "series",
-      "name": "Ranma1/2",
+      "name": "One Tree Hill",
       "ids": {
-        "tmdb": 259140
+        "tmdb": 269
       },
-      "overview": "Akane Tendô conoce a su prometido, Ranma Saotome, un prodigio de las artes marciales con una peculiaridad: se transforma mágicamente en chica al tocar el agua fría.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/xvgflNHdEClMcAR9RuPtJiPDPkp.jpg",
+      "overview": "Los protagonistas son dos adolescentes con vidas paralelas, aunque muy diferentes, que viven en un pueblo de Carolina del Norte. Los une un oscuro secreto: son hijos del mismo padre. Después de crecer en ambientes muy distintos, de repente, sus vidas se cruzan.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ajJxeM5CIDV8fMQZU3sHSfTIVKb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hbto4yhvXWBKxtJ6SzcNWLljVgE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bP2U3QpT1YI6Ft48ftluPozhzz0.png"
+    },
+    {
+      "id": "tmdb:1411",
+      "type": "series",
+      "name": "Vigilados, Person of Interest",
+      "ids": {
+        "tmdb": 1411
+      },
+      "overview": "John Reese (J. Caviezel) era un agente de la CIA que resolvía personalmente las misiones más peligrosas, pero ahora es un vagabundo que se ha dado a la bebida. El señor Finch (M. Emerson), un filántropo millonario muy peculiar, le ofrece trabajo con el fin de crear una sociedad muy beneficiosa moralmente para ambos. Finch pone a disposición de Reese un mecanismo capaz de predecir los delitos, lo que le permitirá arrestar a los delincuentes y proteger a los ciudadanos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/A5C2lNBCrL2M0HV73CtSpv3XcFC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aIyOpSIACdjydva4oT2Buz6x8Xd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fMnD6iTWfrVWyQnKqPqTcPpy2iX.png"
+    },
+    {
+      "id": "tmdb:31910",
+      "type": "series",
+      "name": "Naruto Shippuden",
+      "ids": {
+        "tmdb": 31910
+      },
+      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
     },
     {
       "id": "tmdb:1549",
@@ -644,6 +630,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zsBHJnbT8g71a5QleFFGgX243DF.png"
     },
     {
+      "id": "tmdb:46298",
+      "type": "series",
+      "name": "Hunter × Hunter",
+      "ids": {
+        "tmdb": 46298
+      },
+      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fv4IfnMTVLZSGnL8zKCTnmtl8L7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png"
+    },
+    {
       "id": "tmdb:60574",
       "type": "series",
       "name": "Peaky Blinders",
@@ -656,20 +656,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/bewg9Io7Af9If7xpMqlxtjomn7j.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dfZBYZZYdFeNSeUqLKTiFpvtdJS.png"
-    },
-    {
-      "id": "tmdb:1407",
-      "type": "series",
-      "name": "Homeland",
-      "ids": {
-        "tmdb": 1407
-      },
-      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/72n9YumBVjjs1SESbmmgs534LSe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     },
     {
       "id": "tmdb:4629",
@@ -686,18 +672,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/AllIGHcRvZX6tEobLIngEl1QaN9.png"
     },
     {
-      "id": "tmdb:69050",
+      "id": "tmdb:259140",
       "type": "series",
-      "name": "Riverdale",
+      "name": "Ranma1/2",
       "ids": {
-        "tmdb": 69050
+        "tmdb": 259140
       },
-      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
+      "overview": "Akane Tendô conoce a su prometido, Ranma Saotome, un prodigio de las artes marciales con una peculiaridad: se transforma mágicamente en chica al tocar el agua fría.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/xvgflNHdEClMcAR9RuPtJiPDPkp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gn3jfu3KfOPH2dZ9J2ER52ZaBtL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/z0sftiGQfOALJVCg62n3MaWU72l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ajJxeM5CIDV8fMQZU3sHSfTIVKb.png"
+    },
+    {
+      "id": "tmdb:1407",
+      "type": "series",
+      "name": "Homeland",
+      "ids": {
+        "tmdb": 1407
+      },
+      "overview": "El sargento de la Marina Nicholas Brody regresa a casa ocho años después de su desaparición en Irak, donde vivió encarcelado y sometido a tortura. Finalmente, un comando de las fuerzas especiales lo localiza durante una misión. La joven Carrie Mathison, una impulsiva e intuitiva agente de la CIA, sospecha que Brody se ha pasado al enemigo durante su cautiverio, pues unos meses antes un terrorista condenado a muerte le habló de un soldado norteamericano que había cambiado de bando.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/72n9YumBVjjs1SESbmmgs534LSe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     }
   ]
 }
