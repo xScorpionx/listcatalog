@@ -127,6 +127,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/ihG9cjhIpBXsh7j2Svw1Y6qHfWw.png"
     },
     {
+      "id": "tmdb:1007757",
+      "type": "movie",
+      "name": "Intercambiados",
+      "ids": {
+        "tmdb": 1007757
+      },
+      "overview": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9oG8zQbWP8o9iXSShgMXTqGuDZ8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sPGwrCPGlOp2gseMN7DF74jsFb.png"
+    },
+    {
       "id": "tmdb:129",
       "type": "movie",
       "name": "El viaje de Chihiro",
@@ -141,18 +155,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
     },
     {
-      "id": "tmdb:1007757",
+      "id": "tmdb:1284041",
       "type": "movie",
-      "name": "Intercambiados",
+      "name": "La última casa",
       "ids": {
-        "tmdb": 1007757
+        "tmdb": 1284041
       },
-      "overview": "Una pequeña criatura del bosque intercambia el cuerpo con un majestuoso pájaro del valle, lo que los obliga a colaborar para sobrevivir a la aventura más salvaje de sus vidas.",
+      "overview": "Una familia encerrada en su casa misteriosamente tendrá que unirse para sobrevivir a la escasez de recursos y a la siniestra amenaza que no los deja salir.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9oG8zQbWP8o9iXSShgMXTqGuDZ8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4sPGwrCPGlOp2gseMN7DF74jsFb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9wCrNgVcaOhS5jPK9B5reFIWvxh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/90QSfS49sDbpXKwQOsCksxSDuun.png"
+    },
+    {
+      "id": "tmdb:550",
+      "type": "movie",
+      "name": "El club de la lucha",
+      "ids": {
+        "tmdb": 550
+      },
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
+    },
+    {
+      "id": "tmdb:1726",
+      "type": "movie",
+      "name": "Iron Man",
+      "ids": {
+        "tmdb": 1726
+      },
+      "overview": "El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro' para combatir el mal a escala global.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A1m5BJznmmsDyj25AnhDyFbBSJJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png"
+    },
+    {
+      "id": "tmdb:1265609",
+      "type": "movie",
+      "name": "Máquina de guerra",
+      "ids": {
+        "tmdb": 1265609
+      },
+      "overview": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aq2vbzxcG5K3SSLReMqO5TettmE.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uMzy7fmKcVvd6nMwA7NmRXsgA84.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/72I2CuBl7ArEgv4rijdnVvd3WOS.png"
     },
     {
       "id": "tmdb:1355228",
@@ -179,36 +235,8 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/AuANph6t0ZG8TwZwFIcKso60RSY.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/2DWvyX2wc8KcbK3gOP06ztINFkF.png"
-    },
-    {
-      "id": "tmdb:550",
-      "type": "movie",
-      "name": "El club de la lucha",
-      "ids": {
-        "tmdb": 550
-      },
-      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
-    },
-    {
-      "id": "tmdb:1487861",
-      "type": "movie",
-      "name": "Elize: Sombras de una mujer",
-      "ids": {
-        "tmdb": 1487861
-      },
-      "overview": "Una antigua escort trata de ignorar las infidelidades de su rico marido. Pero esa traición envenena su matrimonio.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/a3y0aWIJdJEw7pme6Y9W0aReIN9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/i9gOq7y4sLpnTKOe6TaOYi09cxZ.png"
     },
     {
       "id": "tmdb:912649",
@@ -225,6 +253,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/niP0a873863IwLrQU0cCrRAINbj.png"
     },
     {
+      "id": "tmdb:1487861",
+      "type": "movie",
+      "name": "Elize: Sombras de una mujer",
+      "ids": {
+        "tmdb": 1487861
+      },
+      "overview": "Una antigua escort trata de ignorar las infidelidades de su rico marido. Pero esa traición envenena su matrimonio.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/a3y0aWIJdJEw7pme6Y9W0aReIN9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/i9gOq7y4sLpnTKOe6TaOYi09cxZ.png"
+    },
+    {
+      "id": "tmdb:803796",
+      "type": "movie",
+      "name": "Las guerreras k-pop",
+      "ids": {
+        "tmdb": 803796
+      },
+      "overview": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/6EQMqEmdG5HoGe2zT1WwWUMvVhv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2Ih19kRdMrxAKctKaNbvVDQpvqx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9cM22kiLT7GthfbYj88mEBeKjqK.png"
+    },
+    {
+      "id": "tmdb:808",
+      "type": "movie",
+      "name": "Shrek",
+      "ids": {
+        "tmdb": 808
+      },
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hhcAdZBIUSaQ6T2Si5uPjavNXZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+    },
+    {
       "id": "tmdb:1631807",
       "type": "movie",
       "name": "Una mujer sin pasado",
@@ -237,48 +307,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wcgEDIlKH0ME9SrOe2Az2spVaKC.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4y4KrzgXWj9RKuR3CTGSZCffJyU.png"
-    },
-    {
-      "id": "tmdb:4935",
-      "type": "movie",
-      "name": "El castillo ambulante",
-      "ids": {
-        "tmdb": 4935
-      },
-      "overview": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dVb6pHnBS66heliAxFV47vMXcG3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vzmjYJKnVIFruR1k6JiROvc6yrU.png"
-    },
-    {
-      "id": "tmdb:985939",
-      "type": "movie",
-      "name": "Fall",
-      "ids": {
-        "tmdb": 985939
-      },
-      "overview": "Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/tsjVxiuGyvMC4IbI2gjmDYpcYjU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xqEQzRFpYB3q2KOhhmyFCxE2RRH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/10sQbSra5PTAPSfcgBBqtu4IRci.png"
-    },
-    {
-      "id": "tmdb:1489543",
-      "type": "movie",
-      "name": "GDN",
-      "ids": {
-        "tmdb": 1489543
-      },
-      "overview": "G. D. Naidu, quien superó obstáculos, desafió a un régimen colonial represivo y se convirtió en una de las mentes más innovadoras de la India.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aAbvbKbNU6YyYDZ5ntSQcOygliw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1REdPpGcW29DJoqoXdTT2URpflM.png"
     },
     {
       "id": "tmdb:1930",
@@ -295,6 +323,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/fr6n8dnbqokUhreICh5eIuSXyJW.png"
     },
     {
+      "id": "tmdb:1509599",
+      "type": "movie",
+      "name": "கட்டா குஸ்தி 2",
+      "ids": {
+        "tmdb": 1509599
+      },
+      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jOM46KdTUsBDQ93USngmQrgm56z.png"
+    },
+    {
+      "id": "tmdb:4935",
+      "type": "movie",
+      "name": "El castillo ambulante",
+      "ids": {
+        "tmdb": 4935
+      },
+      "overview": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/p8EARnEw8KPZzlZg3vkseYVMczu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dVb6pHnBS66heliAxFV47vMXcG3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vzmjYJKnVIFruR1k6JiROvc6yrU.png"
+    },
+    {
       "id": "tmdb:475557",
       "type": "movie",
       "name": "Joker",
@@ -309,18 +365,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
     },
     {
-      "id": "tmdb:950387",
+      "id": "tmdb:1489543",
       "type": "movie",
-      "name": "Una película de Minecraft",
+      "name": "GDN",
       "ids": {
-        "tmdb": 950387
+        "tmdb": 1489543
       },
-      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
+      "overview": "G. D. Naidu, quien superó obstáculos, desafió a un régimen colonial represivo y se convirtió en una de las mentes más innovadoras de la India.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aAbvbKbNU6YyYDZ5ntSQcOygliw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xamBLexcq5KHBRqFuB3BaJZ06lL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1REdPpGcW29DJoqoXdTT2URpflM.png"
+    },
+    {
+      "id": "tmdb:985939",
+      "type": "movie",
+      "name": "Fall",
+      "ids": {
+        "tmdb": 985939
+      },
+      "overview": "Para las mejores amigas Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo conseguirán?",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/tsjVxiuGyvMC4IbI2gjmDYpcYjU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xqEQzRFpYB3q2KOhhmyFCxE2RRH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/10sQbSra5PTAPSfcgBBqtu4IRci.png"
+    },
+    {
+      "id": "tmdb:1233413",
+      "type": "movie",
+      "name": "Los pecadores",
+      "ids": {
+        "tmdb": 1233413
+      },
+      "overview": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kr4OWHdxLHxncXO7mjWuPcgIioO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bZJu9gI33snO5F0l7UoaRlLClhT.png"
     },
     {
       "id": "tmdb:1668364",
@@ -337,18 +421,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jNt2fBRW4gVacrulWliIDsVJPip.png"
     },
     {
-      "id": "tmdb:502356",
+      "id": "tmdb:1318447",
       "type": "movie",
-      "name": "Super Mario Bros: La película",
+      "name": "Depredador dominante",
       "ids": {
-        "tmdb": 502356
+        "tmdb": 1318447
       },
-      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+      "overview": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i5jJDxYGiBBfX6obIoNXoiunplL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5easQaBQr8BiYU1XzSCpqgYM8Wy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bPq0ykf8v5gZbxPX468zeMzXBGX.png"
     },
     {
       "id": "tmdb:346698",
@@ -365,34 +449,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/afDNN68rQ36Yz2pU9ZWWhaKk3v5.png"
     },
     {
-      "id": "tmdb:102382",
-      "type": "movie",
-      "name": "The Amazing Spider-Man 2: El poder de Electro",
-      "ids": {
-        "tmdb": 102382
-      },
-      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sIWLVXQ23mzdzis7lsinEuZr2oP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
-    },
-    {
-      "id": "tmdb:1318447",
-      "type": "movie",
-      "name": "Depredador dominante",
-      "ids": {
-        "tmdb": 1318447
-      },
-      "overview": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5easQaBQr8BiYU1XzSCpqgYM8Wy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bPq0ykf8v5gZbxPX468zeMzXBGX.png"
-    },
-    {
       "id": "tmdb:11324",
       "type": "movie",
       "name": "Shutter Island",
@@ -407,46 +463,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/cQQ0z6r8UXDz9Gd7sTITxWkdjxQ.png"
     },
     {
-      "id": "tmdb:939243",
+      "id": "tmdb:102382",
       "type": "movie",
-      "name": "Sonic 3: La película",
+      "name": "The Amazing Spider-Man 2: El poder de Electro",
       "ids": {
-        "tmdb": 939243
+        "tmdb": 102382
       },
-      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
+      "overview": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fNDT6usE6CKLv1gdRv5qrH24jmh.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sIWLVXQ23mzdzis7lsinEuZr2oP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pCuPf4lcfry1QoWeUGevnIDPVEC.png"
     },
     {
-      "id": "tmdb:1303331",
+      "id": "tmdb:128",
       "type": "movie",
-      "name": "धमाल ४",
+      "name": "La princesa Mononoke",
       "ids": {
-        "tmdb": 1303331
+        "tmdb": 128
       },
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "overview": "Tras sufrir el ataque de un monstruoso jabalí maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infección. Mientras, los humanos están acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deberá escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldición de su herida que se extiende por su cuerpo sin cuartel.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/7fUjg7jky5FnnNSiSbWyOlxVYGU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wXQzxJdXWIPCfhJrf2FCMckpMPc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pnSFsr7UzfDU7SMQfIX6r0QR7J.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/slZ0Iwg0uUaMII7nMwXajmJ2hUs.png"
     },
     {
-      "id": "tmdb:315162",
+      "id": "tmdb:324786",
       "type": "movie",
-      "name": "El Gato con Botas: El último deseo",
+      "name": "Hasta el último hombre",
       "ids": {
-        "tmdb": 315162
+        "tmdb": 324786
       },
-      "overview": "El gato con botas descubre que ha agotado ocho de sus nueve vidas por lo que inicia una nueva para hallar la Estrella de los Deseos y así recuperar sus vidas.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
+      "overview": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rxmw7Ghv7EV60BEFY2R8R9C141U.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h0lvYmEn9qmK9FH3M77D4XEWHOG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gQzf1YLUicwHyXyjYNMtk44VjgO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xxucMCBH6h3iJ0Jc8JtVFNnen65.png"
     },
     {
       "id": "tmdb:10588",
@@ -463,60 +519,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/uR84Ro69JmKaRasuJVLDURVaGDK.png"
     },
     {
-      "id": "tmdb:24",
+      "id": "tmdb:315162",
       "type": "movie",
-      "name": "Kill Bill: Volumen 1",
+      "name": "El Gato con Botas: El último deseo",
       "ids": {
-        "tmdb": 24
+        "tmdb": 315162
       },
-      "overview": "Uma Thurman es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill (David Carradine). Logra sobrevivir al ataque, aunque queda en coma. Cinco años después despierta con un trozo de metal en la cabeza y un gran deseo de venganza en su corazón.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/lfj709InbmljVqAXgUk2qjnujNN.jpg",
+      "overview": "El gato con botas descubre que ha agotado ocho de sus nueve vidas por lo que inicia una nueva para hallar la Estrella de los Deseos y así recuperar sus vidas.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/HqsGhAqwoGIFcO85t7rNWm7PA8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qeD9IJRJM3nZy4Et9OimS5B7p1k.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rxmw7Ghv7EV60BEFY2R8R9C141U.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h0lvYmEn9qmK9FH3M77D4XEWHOG.png"
     },
     {
-      "id": "tmdb:546554",
+      "id": "tmdb:939243",
       "type": "movie",
-      "name": "Puñales por la espalda",
+      "name": "Sonic 3: La película",
       "ids": {
-        "tmdb": 546554
+        "tmdb": 939243
       },
-      "overview": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
+      "overview": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xQtniQMRG0BIyUcvtWTBRtLV65l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/audwkqx1f0wzL1ErChW3hpbfDsk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kLHOkqTdxzxllm6Re3qHgFQZdlJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fNDT6usE6CKLv1gdRv5qrH24jmh.png"
     },
     {
-      "id": "tmdb:161",
+      "id": "tmdb:1630409",
       "type": "movie",
-      "name": "Ocean's Eleven. Hagan juego",
+      "name": "El cobrador de deudas",
       "ids": {
-        "tmdb": 161
+        "tmdb": 1630409
       },
-      "overview": "Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el mejor en su campo. Sin embargo surgirá un problema inesperado: el dueño de los locales, Terry Benedic, está saliendo con Tess, su ex-mujer.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
+      "overview": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/pKHqhghLmDRfwIyH7A2pGARX1IQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m2jhtxMiooWSGPurNiM9BHMkWJO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dTW8LiW7fBwI7iJbKv27rxgVNDc.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/whwuTG6HJuGmCdrJFqyyaF98ukH.png"
     },
     {
-      "id": "tmdb:745",
+      "id": "tmdb:950387",
       "type": "movie",
-      "name": "El sexto sentido",
+      "name": "Una película de Minecraft",
       "ids": {
-        "tmdb": 745
+        "tmdb": 950387
       },
-      "overview": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/wcnLlfQ2USwvyYbd6XgtNEOQfMT.jpg",
+      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aRzsmYYG0x2a8F2axq13eEO060C.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlVEbsiRpo9WMYwGqNUv1UYAfNx.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/xamBLexcq5KHBRqFuB3BaJZ06lL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ggGYbniHbvWDA9GAQYBUUdN3AKP.png"
+    },
+    {
+      "id": "tmdb:111",
+      "type": "movie",
+      "name": "El precio del poder",
+      "ids": {
+        "tmdb": 111
+      },
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
     },
     {
       "id": "tmdb:272",
@@ -533,6 +603,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
     },
     {
+      "id": "tmdb:745",
+      "type": "movie",
+      "name": "El sexto sentido",
+      "ids": {
+        "tmdb": 745
+      },
+      "overview": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/wcnLlfQ2USwvyYbd6XgtNEOQfMT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aRzsmYYG0x2a8F2axq13eEO060C.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlVEbsiRpo9WMYwGqNUv1UYAfNx.svg"
+    },
+    {
+      "id": "tmdb:502356",
+      "type": "movie",
+      "name": "Super Mario Bros: La película",
+      "ids": {
+        "tmdb": 502356
+      },
+      "overview": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i5jJDxYGiBBfX6obIoNXoiunplL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png"
+    },
+    {
       "id": "tmdb:209112",
       "type": "movie",
       "name": "Batman vs Superman. El amanecer de la justicia",
@@ -547,158 +645,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/4kxXl5pDg9miWKG7tN6RjVrzK7b.png"
     },
     {
-      "id": "tmdb:329865",
+      "id": "tmdb:616",
       "type": "movie",
-      "name": "La llegada",
+      "name": "El último samurái",
       "ids": {
-        "tmdb": 329865
+        "tmdb": 616
       },
-      "overview": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+      "overview": "1870. El capitán Nathan Algren es un hombre a la deriva. Las batallas que libró en otro tiempo parecen ahora lejanas e inútiles. Una vez arriesgó su vida por el honor y por la patria, pero, en los años transcurridos desde la Guerra de Secesión estadounidense, el mundo ha cambiado. El pragmatismo ha reemplazado al valor, el interés personal ha ocupado el lugar del sacrificio y el honor no se encuentra en ninguna parte, especialmente en el Oeste, donde su papel en las campañas contra los indios acabó en desilusión y tristeza. En algún lugar de las implacables llanuras junto a la ribera del río Washita, Algren perdió su alma. En un mundo completamente distinto, otro soldado ve como su modo de vida está a punto de desintegrarse.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/DfwutbQodAsYxdqJu7Cme5jifC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pM7CmKdtkOb9N0kK9XJZAft8Zuv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/loT4liMF2lVP9E695LGQDeLqQzP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8cHyIzyhJyFVRvbqThZQAh1HyWt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8xSuvBkr6ZStin8gCEhlwW2iHfH.png"
     },
     {
-      "id": "tmdb:298618",
+      "id": "tmdb:24",
       "type": "movie",
-      "name": "Flash",
+      "name": "Kill Bill: Volumen 1",
       "ids": {
-        "tmdb": 298618
+        "tmdb": 24
       },
-      "overview": "Cuando su intento de salvar a su familia altera sin darse cuenta el futuro, Barry Allen queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a quienes recurrir. Para salvar el mundo en el que se encuentra y regresar al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿será suficiente hacer el sacrificio máximo para restablecer el universo?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/gNbZNuZ2fBferjJspfmvnskODGc.jpg",
+      "overview": "Uma Thurman es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill (David Carradine). Logra sobrevivir al ataque, aunque queda en coma. Cinco años después despierta con un trozo de metal en la cabeza y un gran deseo de venganza en su corazón.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/lfj709InbmljVqAXgUk2qjnujNN.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/beJrLpub7UwBStu038mJFiApZ3o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9DvA4oKaco5b0DlZOIkEXKAGinj.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/HqsGhAqwoGIFcO85t7rNWm7PA8.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qeD9IJRJM3nZy4Et9OimS5B7p1k.png"
     },
     {
-      "id": "tmdb:829557",
+      "id": "tmdb:558449",
       "type": "movie",
-      "name": "365 días: Aquel día",
+      "name": "Gladiator II",
       "ids": {
-        "tmdb": 829557
+        "tmdb": 558449
       },
-      "overview": "Laura y Massimo vuelven más fuertes que nunca, pero las ataduras familiares de Massimo y un misterioso hombre que quiere conquistar a Laura complican su relación.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg",
+      "overview": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j3QAwKBfF2JGZrxP6UuxxP0tLN5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/afT1IcVDzyqE6RUlCPnuzEI4ZS3.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oMJBJZ5N4J84Z56B6oYNc77C1wL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phliRHzrDQapwqLFKuCDDNDYbXH.png"
     },
     {
-      "id": "tmdb:118",
+      "id": "tmdb:161",
       "type": "movie",
-      "name": "Charlie y la fábrica de chocolate",
+      "name": "Ocean's Eleven. Hagan juego",
       "ids": {
-        "tmdb": 118
+        "tmdb": 161
       },
-      "overview": "Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/voJEk0WNtrcawz2hN9AwdNbvhrp.jpg",
+      "overview": "Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el mejor en su campo. Sin embargo surgirá un problema inesperado: el dueño de los locales, Terry Benedic, está saliendo con Tess, su ex-mujer.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dyII0qFt45Ej6yzAdD2dmI1uz2Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/urMs3tQK6hpx2davsdpOi2sH12d.png"
-    },
-    {
-      "id": "tmdb:489",
-      "type": "movie",
-      "name": "El indomable Will Hunting",
-      "ids": {
-        "tmdb": 489
-      },
-      "overview": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/4Yy63A10sPQZ9kd2kWj13S4WUkn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kIg7Pb9SU90QUDEaL0RnF2QV1c1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
-    },
-    {
-      "id": "tmdb:436969",
-      "type": "movie",
-      "name": "El Escuadrón Suicida",
-      "ids": {
-        "tmdb": 436969
-      },
-      "overview": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tlRwdJRWUPHSZCelHExFIPsNtf0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vbZlf0EuqBBRPcj18Gil8ViLzEu.png"
-    },
-    {
-      "id": "tmdb:8966",
-      "type": "movie",
-      "name": "Crepúsculo",
-      "ids": {
-        "tmdb": 8966
-      },
-      "overview": "La joven Bella Swan siempre fue una chica muy diferente ya en sus años de niña en Phoenix. Cuando su madre se volvió a casar, la mandó a vivir con su padre, a la pequeña y lluviosa ciudad de Forks, Washington, una población sin ningún aliciente para Bella. Pero entonces conoce en el instituo al misterioso y atractivo Edward Cullen, un joven distinto a los demás que esconde un secreto...",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/40ollvfwHaVF85lkkg522SIl3Qc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7faosGhWLwPK1VZ0ABD4dt2Gjdl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ee98SE4l2HN19eJKDgC5ULrK7Bw.png"
-    },
-    {
-      "id": "tmdb:574475",
-      "type": "movie",
-      "name": "Destino final: Lazos de sangre",
-      "ids": {
-        "tmdb": 574475
-      },
-      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5bDQlR7p31oAP4JvTriLbjfbCTm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hH2IlqoapbAAaRopv9HFiM9kkrh.png"
-    },
-    {
-      "id": "tmdb:940721",
-      "type": "movie",
-      "name": "Godzilla Minus One",
-      "ids": {
-        "tmdb": 940721
-      },
-      "overview": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c1QUaZtw57aRPaVjXPoKBvppw8b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1B3JuDMFWqk0MmILq7UP70fYNsa.png"
-    },
-    {
-      "id": "tmdb:508883",
-      "type": "movie",
-      "name": "El chico y la garza",
-      "ids": {
-        "tmdb": 508883
-      },
-      "overview": "La película muestra el crecimiento psicológico de un adolescente a través de interacciones con sus amigos y su tío. Está basada en el libro de 1937 del mismo nombre escrito por Genzaburo Yoshino.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/cUZop9T440Bx25P8Ptc0qXkLYEa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/plPyoykMvlvisBgmZbK5mzRoXcu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l4xu0SUpWdl7wSInSMYL0gzbvXu.png"
-    },
-    {
-      "id": "tmdb:614945",
-      "type": "movie",
-      "name": "Mensajes de voz para Isabelle",
-      "ids": {
-        "tmdb": 614945
-      },
-      "overview": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/3nY9BG8VjuxwLLRx5BGiiuj0M71.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pqfQk3kQZtvFVKXOtIDkLF0wExc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/si6SfI5bMTjz6k1dGJEabUfISVb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/m2jhtxMiooWSGPurNiM9BHMkWJO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dTW8LiW7fBwI7iJbKv27rxgVNDc.png"
     }
   ]
 }
