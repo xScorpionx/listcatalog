@@ -11,22 +11,8 @@
       "year": 1999,
       "poster": "https://image.tmdb.org/t/p/w342/kvo558UKEhp8v3JoRGCSIx3Xxab.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/180BnB5zsARUrBSzNpeUrTc0Ezr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/yvL2f005raFggxs2lSkRtYyXIVQ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jLNfWoqjSTwI4qbZF7BVdAPIpqL.png"
-    },
-    {
-      "id": "tmdb:456",
-      "type": "series",
-      "name": "Los Simpson",
-      "ids": {
-        "tmdb": 456
-      },
-      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8faXjkxFwHry3pjz7jrQPcnlGvi.svg"
     },
     {
       "id": "tmdb:1434",
@@ -43,18 +29,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/l27nQrTwjq5GIp8typOdUKvlDZQ.png"
     },
     {
-      "id": "tmdb:1416",
+      "id": "tmdb:456",
       "type": "series",
-      "name": "Anatomía de Grey",
+      "name": "Los Simpson",
       "ids": {
-        "tmdb": 1416
+        "tmdb": 456
       },
-      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "overview": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/o43bkJW1QRAPMpP3BhwgjZvQIq3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/siAWNHVkZEBwZnx9kcaBXX6L6n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8faXjkxFwHry3pjz7jrQPcnlGvi.svg"
     },
     {
       "id": "tmdb:1911",
@@ -85,6 +71,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
     },
     {
+      "id": "tmdb:1416",
+      "type": "series",
+      "name": "Anatomía de Grey",
+      "ids": {
+        "tmdb": 1416
+      },
+      "overview": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/o43bkJW1QRAPMpP3BhwgjZvQIq3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/diEU9IVkTyPrSUQdBDZcpEWu3gi.png"
+    },
+    {
       "id": "tmdb:79744",
       "type": "series",
       "name": "The Rookie",
@@ -113,34 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png"
     },
     {
-      "id": "tmdb:4057",
-      "type": "series",
-      "name": "Mentes criminales",
-      "ids": {
-        "tmdb": 4057
-      },
-      "overview": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8WnRjNHK3N59RnsmVoUHMuTPAUF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png"
-    },
-    {
-      "id": "tmdb:1421",
-      "type": "series",
-      "name": "Modern Family",
-      "ids": {
-        "tmdb": 1421
-      },
-      "overview": "Narrada desde la perspectiva de un documental, la serie ofrece un panorama honesto y divertido sobre la vida de varias familias, en donde se presentan la relación entre padres e hijos, diferencias generacionales y culturales.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/gabjqvbqXsg4KL5JaBoPKPipiys.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bDiiWu1QmsHt95tcIULtzarzZfT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iAtC7dmE9CKFCWTp4TXV7tc0ig5.png"
-    },
-    {
       "id": "tmdb:47640",
       "type": "series",
       "name": "The Strain",
@@ -155,6 +127,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/82jqK9Cq9UBzH5GL2vcZosqXFYO.png"
     },
     {
+      "id": "tmdb:4057",
+      "type": "series",
+      "name": "Mentes criminales",
+      "ids": {
+        "tmdb": 4057
+      },
+      "overview": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8WnRjNHK3N59RnsmVoUHMuTPAUF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jjZYljLAj9kEi6Jo2kfVFDhXOeP.png"
+    },
+    {
+      "id": "tmdb:4586",
+      "type": "series",
+      "name": "Las chicas Gilmore",
+      "ids": {
+        "tmdb": 4586
+      },
+      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+    },
+    {
       "id": "tmdb:30984",
       "type": "series",
       "name": "Bleach",
@@ -167,6 +167,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/mFKys64gbDQrFqwUheGwXQwo2JK.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dcLYoRdzeaI83yjTPu4JutauAqV.png"
+    },
+    {
+      "id": "tmdb:1421",
+      "type": "series",
+      "name": "Modern Family",
+      "ids": {
+        "tmdb": 1421
+      },
+      "overview": "Narrada desde la perspectiva de un documental, la serie ofrece un panorama honesto y divertido sobre la vida de varias familias, en donde se presentan la relación entre padres e hijos, diferencias generacionales y culturales.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/gabjqvbqXsg4KL5JaBoPKPipiys.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bDiiWu1QmsHt95tcIULtzarzZfT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iAtC7dmE9CKFCWTp4TXV7tc0ig5.png"
     },
     {
       "id": "tmdb:2288",
@@ -197,20 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7CIJHjFz2fh4bo6kg1gfE51oENa.png"
     },
     {
-      "id": "tmdb:1419",
-      "type": "series",
-      "name": "Castle",
-      "ids": {
-        "tmdb": 1419
-      },
-      "overview": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tRZNN3mm6CooCqc0lAHPUMg5Bur.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
-    },
-    {
       "id": "tmdb:65334",
       "type": "series",
       "name": "Miraculous: Las aventuras de Ladybug",
@@ -223,90 +223,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
-    },
-    {
-      "id": "tmdb:1413",
-      "type": "series",
-      "name": "American Horror Story",
-      "ids": {
-        "tmdb": 1413
-      },
-      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
-    },
-    {
-      "id": "tmdb:693",
-      "type": "series",
-      "name": "Mujeres desesperadas",
-      "ids": {
-        "tmdb": 693
-      },
-      "overview": "La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/qRKr6HuROaBuyMzeBOn69gAjJXU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9W0AR7OmeJY55PFqHphPnKJHUWr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
-    },
-    {
-      "id": "tmdb:1973",
-      "type": "series",
-      "name": "24",
-      "ids": {
-        "tmdb": 1973
-      },
-      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
-    },
-    {
-      "id": "tmdb:2122",
-      "type": "series",
-      "name": "El rey de la colina",
-      "ids": {
-        "tmdb": 2122
-      },
-      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
-    },
-    {
-      "id": "tmdb:615",
-      "type": "series",
-      "name": "Futurama",
-      "ids": {
-        "tmdb": 615
-      },
-      "overview": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d9mSTJXcysIH5MvMPzhvxyP0JAz.png"
-    },
-    {
-      "id": "tmdb:4607",
-      "type": "series",
-      "name": "Perdidos",
-      "ids": {
-        "tmdb": 4607
-      },
-      "overview": "Cuando el vuelo 815 se estrella en una remota isla tropical, los pasajeros deben enfrentarse a peligros ocultos y misteriosas fuerzas malignas para sobrevivir.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zOqh6dTNTY8Ziur3MZQnEFlO2HU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
     },
     {
       "id": "tmdb:75219",
@@ -323,18 +239,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/roX3IG6dRnodf7mkdT2JWKrtW8H.png"
     },
     {
-      "id": "tmdb:4586",
+      "id": "tmdb:1413",
       "type": "series",
-      "name": "Las chicas Gilmore",
+      "name": "American Horror Story",
       "ids": {
-        "tmdb": 4586
+        "tmdb": 1413
       },
-      "overview": "Historia de la jovencita Rory Gilmore y su moderna madre soltera Lorelai, en la pequeña y encantadora población de Stars Hollow, Connecticut. Rory acaba de entrar en la etapa adolescente, sigue siendo una buena estudiante y se lo pasa en grande con su amiga Kim, pero ya le gusta un chico y está claro que ha pasado la época de las muñecas. Mientras, su alocada madre Lorelai dirige un hotel restaurante e intenta, por el bien de su hija, volver a entablar una relación cordial con sus acaudalados y estirados padres, pues se marchó de casa cuando se quedó embarazada.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/xcszRCNHd4Gq0AwhcSDSEmktq5w.jpg",
+      "overview": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oSheCphc34FY0avRY5M6jqBfJla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8NL55PGAE1zcjN1LXdqO7PF1aWO.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
+    },
+    {
+      "id": "tmdb:1419",
+      "type": "series",
+      "name": "Castle",
+      "ids": {
+        "tmdb": 1419
+      },
+      "overview": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tRZNN3mm6CooCqc0lAHPUMg5Bur.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
+    },
+    {
+      "id": "tmdb:693",
+      "type": "series",
+      "name": "Mujeres desesperadas",
+      "ids": {
+        "tmdb": 693
+      },
+      "overview": "La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/qRKr6HuROaBuyMzeBOn69gAjJXU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9W0AR7OmeJY55PFqHphPnKJHUWr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
+    },
+    {
+      "id": "tmdb:615",
+      "type": "series",
+      "name": "Futurama",
+      "ids": {
+        "tmdb": 615
+      },
+      "overview": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fXeyop5j5rCuLcmA9Rb37GBbSwh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d9mSTJXcysIH5MvMPzhvxyP0JAz.png"
+    },
+    {
+      "id": "tmdb:1973",
+      "type": "series",
+      "name": "24",
+      "ids": {
+        "tmdb": 1973
+      },
+      "overview": "24 es una serie de televisión estadounidense del género de acción/drama que trata fundamentalmente el desempeño del agente federal Jack Bauer (Kiefer Sutherland), en la UAT (Unidad antiterrorista) de Los Ángeles. La serie también se enfoca en las actividades de otros agentes de la UAT, la participación de otras agencias gubernamentales, las acciones de diversos grupos terroristas y las reacciones en la Casa Blanca.\n\nEn un formato innovador, el espectador presencia la acción \"en tiempo real\": cada episodio de una hora representa una hora continua de acción de la trama. Cada temporada (compuesta por 24 capítulos) conforma así un día completo. Las sucesivas temporadas (si bien guardan una relación temporal y fáctica) no son contiguas, y relatan eventos cronológicamente distantes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
+    },
+    {
+      "id": "tmdb:4607",
+      "type": "series",
+      "name": "Perdidos",
+      "ids": {
+        "tmdb": 4607
+      },
+      "overview": "Cuando el vuelo 815 se estrella en una remota isla tropical, los pasajeros deben enfrentarse a peligros ocultos y misteriosas fuerzas malignas para sobrevivir.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zOqh6dTNTY8Ziur3MZQnEFlO2HU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/srmhxpICRrlfYdAjUYJ1HGzyHAi.png"
+    },
+    {
+      "id": "tmdb:2122",
+      "type": "series",
+      "name": "El rey de la colina",
+      "ids": {
+        "tmdb": 2122
+      },
+      "overview": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana.\n\nLos Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/r9pvz1LLaCFVmM1ByIwJ9sdqqej.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apGPRdGQuPz8diUQOVegRyRrWqY.png"
+    },
+    {
+      "id": "tmdb:2235",
+      "type": "series",
+      "name": "La Tropa Goofy",
+      "ids": {
+        "tmdb": 2235
+      },
+      "overview": "Goofy, padre soltero, vuelve con su hijo Max a su pueblo natal de Spoonerville. El amigo de la escuela de Goofy, Pete, quien es el dueño del concesionario de coches usados \"Pete es de fiar\", vive al lado con su mujer y su hijo PJ y su hija Pistol. Max y los pequeños se hacen muy amigos, y Max y PJ hacen todo juntos. Sin embargo, Pete y Goofy continúan con su rivalidad de cuando eran jóvenes y Pete se aprovecha de las buenas intenciones de Goofy. Al final, Goofy, que aunque tiene mala suerte, tiene un gran corazón, siempre acaba perdonándolo, independientemente de lo mal que lo trate.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/1yBIDhzcP9QBSf1uhYFmoa6p8LX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3ziQwpSjwBcgUpK0ibc6ZCnmJFm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pPsnVlsUSlon9IjxpGeB9gQCFoi.png"
     },
     {
       "id": "tmdb:71728",
@@ -351,60 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/vlGNSkzlUGfNxBFmQ1Ayrobrcsy.png"
     },
     {
-      "id": "tmdb:1409",
+      "id": "tmdb:4087",
       "type": "series",
-      "name": "Hijos de la anarquía",
+      "name": "Expediente X",
       "ids": {
-        "tmdb": 1409
+        "tmdb": 4087
       },
-      "overview": "Sons of Anarchy está ambientada en la localidad ficticia de Charming, situada en el Norte de California.\n\nSu protagonista es Jackson “Jax” Teller, un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original \"SAMCRO\", un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
+      "overview": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/73FcOklRmfmf76WflkeVTO1MAwJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
-    },
-    {
-      "id": "tmdb:2710",
-      "type": "series",
-      "name": "Colgados en Filadelfia",
-      "ids": {
-        "tmdb": 2710
-      },
-      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/xFlneHKJXFHaajdqrTmzHp13sqW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mkVoNRAzt5w4MGyWwJtsyhkmsp7.png"
-    },
-    {
-      "id": "tmdb:1100",
-      "type": "series",
-      "name": "Cómo conocí a vuestra madre",
-      "ids": {
-        "tmdb": 1100
-      },
-      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
-    },
-    {
-      "id": "tmdb:39272",
-      "type": "series",
-      "name": "Érase una vez",
-      "ids": {
-        "tmdb": 39272
-      },
-      "overview": "Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/oE6VlG1ntyCaMdlPVRtsPQja3hf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dqbAkknuuxqCpQaeG9d6GBrEKm4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6Hn6KmuafmJFmw7dnNKTqiibtNL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
     },
     {
       "id": "tmdb:95479",
@@ -421,32 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png"
     },
     {
-      "id": "tmdb:31910",
+      "id": "tmdb:1409",
       "type": "series",
-      "name": "Naruto Shippuden",
+      "name": "Hijos de la anarquía",
       "ids": {
-        "tmdb": 31910
+        "tmdb": 1409
       },
-      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
+      "overview": "Sons of Anarchy está ambientada en la localidad ficticia de Charming, situada en el Norte de California.\n\nSu protagonista es Jackson “Jax” Teller, un treintañero que, como el resto de su familia, pertenece a la banda de moteros Sons of Anarchy Motorcycle Club Redwood Original \"SAMCRO\", un clan formado por antiguos veteranos de la guerra de Vietnam que se dedican a trapichear con todo, especialmente con armas que venden a bandas rivales.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
-    },
-    {
-      "id": "tmdb:4087",
-      "type": "series",
-      "name": "Expediente X",
-      "ids": {
-        "tmdb": 4087
-      },
-      "overview": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/73FcOklRmfmf76WflkeVTO1MAwJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Hn6KmuafmJFmw7dnNKTqiibtNL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/BxZN89G0wy7Sv1AUjM6PYQd3Ob.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2TojxFwws1N6ezEGCyCOc8xchFL.png"
     },
     {
       "id": "tmdb:12225",
@@ -463,18 +421,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/4ROhs4WEFyLn68mjrF9TkFrGzyH.png"
     },
     {
-      "id": "tmdb:90",
+      "id": "tmdb:1100",
       "type": "series",
-      "name": "Mayday Catástrofes Aéreas",
+      "name": "Cómo conocí a vuestra madre",
       "ids": {
-        "tmdb": 90
+        "tmdb": 1100
       },
-      "overview": "Cada episodio se centra en un desastre aéreo, primero dando al público la sensación de estar en el avión y luego explicando por qué se produjo el accidente. La serie brinda a los tele-espectadores tanto la sensación visceral del desastre como la explicación racional de lo que sucedió y qué derivó la industria de la aviación como aprendizaje a raíz del accidente.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+      "overview": "How I Met Your Mother. Exitosa serie de la CBS que, en su primera temporada, obtuvo excelentes índices de audiencia además de ganar dos premios Emmy: uno a la dirección artística y otro a la fotografía. En el año 2030, Ted (Josh Radnor) relata a sus dos hijos adolescentes cómo conoció a su madre y cómo fue su vida hasta que, por fin, encontró el amor verdadero. Todo empezó cuando Marshall (Jason Segel), su mejor amigo, decidió casarse con Lily (Alyson Hannigan), su novia de toda la vida. Entonces Ted decidió lanzarse a la búsqueda del amor verdadero y formar una familia. Para conseguirlo contó con el apoyo de su amigo Barney (Neil Patrick Harris), un joven algo extravagante y muy hábil para conocer mujeres. Cuando, por fin, Ted conoce a Robin (Cobie Smulders), una impresionante joven canadiense que acaba de mudarse a Nueva York, está completamente seguro de que es amor a primera vista, pero el destino aún puede depararle muchas sorpresas.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/82DxDd43B7F1JunSlbZ7vkWFgej.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/egIbwNWZ5LC3ecyS09IW9nL9cco.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2mvBJg0pwUNm3PzrFYAEz47McO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9Xx6JFoha5V8lbIuiejfm7EpWIP.png"
+    },
+    {
+      "id": "tmdb:2710",
+      "type": "series",
+      "name": "Colgados en Filadelfia",
+      "ids": {
+        "tmdb": 2710
+      },
+      "overview": "Cuatro amigos que regentan un pequeño bar en un barrio del sur de Philadelphia, la ciudad del amor fraternal, intentan mantener el equilibrio entre negocio y amistad, tarea nada fácil, ya que cada uno de ellos suele dejarse llevar únicamente por sus intereses personales, lo que desemboca en situaciones incómodas que amenazan con deteriorar sus relaciones personales.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/xFlneHKJXFHaajdqrTmzHp13sqW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/98jmdB9aW9vOh9ZPuymzPyWnzGD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mkVoNRAzt5w4MGyWwJtsyhkmsp7.png"
     },
     {
       "id": "tmdb:1407",
@@ -491,18 +463,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/eo2kXDKDt2veBAQqBYOcamjsUgD.svg"
     },
     {
-      "id": "tmdb:194",
+      "id": "tmdb:31910",
       "type": "series",
-      "name": "Policías de Nueva York",
+      "name": "Naruto Shippuden",
       "ids": {
-        "tmdb": 194
+        "tmdb": 31910
       },
-      "overview": "Serie sobre una comisaría de policía ambientada en las calles de Nueva York. \"NYPD Blue\" se podría considerar la serie que tomó el relevo a \"Canción triste de Hill Street\" (Hill Street Blues), serie también creada por Steven Bochco.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/bt3D7269j3lcbWjAR7rbPCHkM10.jpg",
+      "overview": "La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.  El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gsY8jVULNvFvkNmTDDahCE6B6dx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yPcTIn0LNt5eRfxZfZn6fcwQ9NJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fsZrHyICFykVbuRfFg7N46rJ8vT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qopvxH4C4YIoeJWss0EVLv13rgW.png"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "El cuento de la criada",
+      "ids": {
+        "tmdb": 69478
+      },
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+    },
+    {
+      "id": "tmdb:226637",
+      "type": "series",
+      "name": "High Potential",
+      "ids": {
+        "tmdb": 226637
+      },
+      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
+    },
+    {
+      "id": "tmdb:39272",
+      "type": "series",
+      "name": "Érase una vez",
+      "ids": {
+        "tmdb": 39272
+      },
+      "overview": "Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/oE6VlG1ntyCaMdlPVRtsPQja3hf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dqbAkknuuxqCpQaeG9d6GBrEKm4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/klhRVUhAGGfgCOwgXg7ZdKtqLON.png"
+    },
+    {
+      "id": "tmdb:1104",
+      "type": "series",
+      "name": "Mad Men",
+      "ids": {
+        "tmdb": 1104
+      },
+      "overview": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A36SuVJ1en8yqZoUCyspGXaT8Xz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
+    },
+    {
+      "id": "tmdb:90",
+      "type": "series",
+      "name": "Mayday Catástrofes Aéreas",
+      "ids": {
+        "tmdb": 90
+      },
+      "overview": "Cada episodio se centra en un desastre aéreo, primero dando al público la sensación de estar en el avión y luego explicando por qué se produjo el accidente. La serie brinda a los tele-espectadores tanto la sensación visceral del desastre como la explicación racional de lo que sucedió y qué derivó la industria de la aviación como aprendizaje a raíz del accidente.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/egIbwNWZ5LC3ecyS09IW9nL9cco.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fuSGcasNECvNW7fJkIZmvhbv9GW.png"
     },
     {
       "id": "tmdb:1877",
@@ -517,6 +559,48 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kO56OPPiMceB369ClXW3XdaL63n.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/yaUTkTNQrpX27biGeI481LO9xey.png"
+    },
+    {
+      "id": "tmdb:211288",
+      "type": "series",
+      "name": "Tracker",
+      "ids": {
+        "tmdb": 211288
+      },
+      "overview": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w7EPJ3cI8vcaopcYb48yt1TJGvO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png"
+    },
+    {
+      "id": "tmdb:84958",
+      "type": "series",
+      "name": "Loki",
+      "ids": {
+        "tmdb": 84958
+      },
+      "overview": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos  ocurridos en  \"Avengers: Endgame (2019)\" y  se le da a elegir  enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6yb7XUr6l7ctCwf8OJ9NN5brQ53.png"
+    },
+    {
+      "id": "tmdb:1685",
+      "type": "series",
+      "name": "Pasarela a la fama",
+      "ids": {
+        "tmdb": 1685
+      },
+      "overview": "Heidi Klum presenta el concurso más despiadado del mundo, en el que un grupo de jóvenes diseñadores competirán entre sí para ganarse a la industria de la moda con sus creaciones.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/586pDee4pRZpGP6sL1l0hDA9Srw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rZBf3qhBEeHITq8xln3AurG2Oif.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/t51VUuc07v5fZ7trBExLCD9f7Wd.png"
     },
     {
       "id": "tmdb:32726",
@@ -547,88 +631,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/sjSKNY2mqhYKl8Dh2kTFPixw5QK.png"
     },
     {
-      "id": "tmdb:1606",
+      "id": "tmdb:37854",
       "type": "series",
-      "name": "Entre fantasmas",
+      "name": "One Piece",
       "ids": {
-        "tmdb": 1606
+        "tmdb": 37854
       },
-      "overview": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/u20Yzj0pYiWkNfVUstpwbsSI9kc.jpg",
+      "overview": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lqsfTn1iv6sOQ54yKLBbwkYPTAh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eYELHQbSfY3z1hq1RkYptCq2Bzz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9gpPRqhgPzxdhvgixODD8ox2JkS.png"
     },
     {
-      "id": "tmdb:69478",
+      "id": "tmdb:194",
       "type": "series",
-      "name": "El cuento de la criada",
+      "name": "Policías de Nueva York",
       "ids": {
-        "tmdb": 69478
+        "tmdb": 194
       },
-      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "overview": "Serie sobre una comisaría de policía ambientada en las calles de Nueva York. \"NYPD Blue\" se podría considerar la serie que tomó el relevo a \"Canción triste de Hill Street\" (Hill Street Blues), serie también creada por Steven Bochco.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/bt3D7269j3lcbWjAR7rbPCHkM10.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
-    },
-    {
-      "id": "tmdb:1104",
-      "type": "series",
-      "name": "Mad Men",
-      "ids": {
-        "tmdb": 1104
-      },
-      "overview": "El drama trata de una de las agencias de publicidad más prestigiosas de Nueva York a principios de los años sesenta, y se enfoca en el misterioso pero talentoso Donald Draper.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/5jOedTeytYzlJZwU66MFjmLHhHX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A36SuVJ1en8yqZoUCyspGXaT8Xz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yHQLEQ9LHqilyEK65yFIiWLiATp.png"
-    },
-    {
-      "id": "tmdb:1685",
-      "type": "series",
-      "name": "Pasarela a la fama",
-      "ids": {
-        "tmdb": 1685
-      },
-      "overview": "Heidi Klum presenta el concurso más despiadado del mundo, en el que un grupo de jóvenes diseñadores competirán entre sí para ganarse a la industria de la moda con sus creaciones.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/586pDee4pRZpGP6sL1l0hDA9Srw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rZBf3qhBEeHITq8xln3AurG2Oif.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/t51VUuc07v5fZ7trBExLCD9f7Wd.png"
-    },
-    {
-      "id": "tmdb:226637",
-      "type": "series",
-      "name": "High Potential",
-      "ids": {
-        "tmdb": 226637
-      },
-      "overview": "Morgan es una madre soltera con una mente excepcional, cuya habilidad poco convencional para resolver crímenes conduce a una asociación inusual e imparable con un detective experimentado.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4ZqFHJYgoTK5Ravbutjdaw0xGX0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fIhr6d9yZP4AtWRBzJmCUjgEDO3.png"
-    },
-    {
-      "id": "tmdb:211288",
-      "type": "series",
-      "name": "Tracker",
-      "ids": {
-        "tmdb": 211288
-      },
-      "overview": "Colter Shaw recorre el país en su vieja autocaravana para ayudar a la policía y a ciudadanos particulares a resolver crímenes y localizar a personas desaparecidas, hasta que su último caso lo cambia todo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w7EPJ3cI8vcaopcYb48yt1TJGvO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wX6mesvupLcT7gyMkp215Tm0CuD.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gsY8jVULNvFvkNmTDDahCE6B6dx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yPcTIn0LNt5eRfxZfZn6fcwQ9NJ.png"
     },
     {
       "id": "tmdb:95",
@@ -645,6 +673,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/cKRI0G6O94bZbWP7FIWllsYrF4.png"
     },
     {
+      "id": "tmdb:1606",
+      "type": "series",
+      "name": "Entre fantasmas",
+      "ids": {
+        "tmdb": 1606
+      },
+      "overview": "Melinda Gordon es una joven recién casada que posee el don de comunicarse con los espíritus de las personas que han muerto, un talento heredado de su abuela. Los muertos buscan la habilidad de Melinda para poder transmitir mensajes e información relevantes a los vivos. A pesar de su miedo, la compasión la lleva a ayudar a esas almas errantes a completar sus negocios inacabados con los vivos...",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/u20Yzj0pYiWkNfVUstpwbsSI9kc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lqsfTn1iv6sOQ54yKLBbwkYPTAh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGyKcisChM1JKPxlDDOXJgYlqFQ.png"
+    },
+    {
       "id": "tmdb:107113",
       "type": "series",
       "name": "Solo asesinatos en el edificio",
@@ -657,48 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/9WjVGJnpNWHTazIakcu129hKGIu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qPr4GCXpkMmnBkujVTDeunmzhL4.svg"
-    },
-    {
-      "id": "tmdb:84958",
-      "type": "series",
-      "name": "Loki",
-      "ids": {
-        "tmdb": 84958
-      },
-      "overview": "Loki es llevado ante la misteriosa organización llamada AVT (Autoridad de Variación Temporal) después de los acontecimientos  ocurridos en  \"Avengers: Endgame (2019)\" y  se le da a elegir  enfrentarse a ser borrado de la existencia debido a que es una \"variante de tiempo\" o ayudar a arreglar la línea de tiempo y detener una amenaza mayor.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/vCk6wy6WQHwARR4jewbxhhmESs7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kXja7L9cRlsRmINMpxyWEdp9r3u.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6yb7XUr6l7ctCwf8OJ9NN5brQ53.png"
-    },
-    {
-      "id": "tmdb:39269",
-      "type": "series",
-      "name": "Scandal",
-      "ids": {
-        "tmdb": 39269
-      },
-      "overview": "Scandal es una serie de televisión estadounidense, creada por Shonda Rhimes y protagonizada por Kerry Washington. La serie comenzó a emitirse el 5 de abril de 2012 en la cadena ABC. El personaje de la protagonista Kerry Washington está basado parcialmente en Judy Smith, jefa de prensa de la administración de George H. W. Bush y que además es co-productora ejecutiva de la serie. La serie tiene lugar en Washington D. C. y se centra en la agencia de control de crisis de Olivia Pope, Olivia Pope & Associates (Olivia Pope & Asociados), y en su personal, así como en el personal de la Casa Blanca, entre los que destacan el presidente de Estados Unidos, Fitzgerald Grant III, su Jefe de gabinete, Cyrus Beene, y la primera dama, Mellie Grant.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/99HG3MVwRsSDTO3xWNWPfmYm4Kc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3D1QRLTxdGQBLC0HYs65FyUncY2.png"
-    },
-    {
-      "id": "tmdb:239526",
-      "type": "series",
-      "name": "Sueños de libertad",
-      "ids": {
-        "tmdb": 239526
-      },
-      "overview": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/3LFA0eALDUdv1hdrGNE3ZWEN5f7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4gb0fNHbQhBgRN6KnP8sVdSh9CM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xNkiZwybtfAsqnt30D5dTMZki7b.png"
     }
   ]
 }

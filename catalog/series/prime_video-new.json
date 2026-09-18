@@ -1,6 +1,33 @@
 {
   "metas": [
     {
+      "id": "tmdb:330302",
+      "type": "series",
+      "name": "Catedrales",
+      "ids": {
+        "tmdb": 330302
+      },
+      "overview": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/176e7buYxu3QLsumR0fGOwVWTVE.jpg"
+    },
+    {
+      "id": "tmdb:273207",
+      "type": "series",
+      "name": "Neagley",
+      "ids": {
+        "tmdb": 273207
+      },
+      "overview": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/w9ATD3fIxcuXAEPDS4Q2ddJ8GLe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lI6zO2lw8pteZnIzm1DuucVGutG.png"
+    },
+    {
       "id": "tmdb:314939",
       "type": "series",
       "name": "Un amor distinto al tuyo",
@@ -24,7 +51,8 @@
       "overview": "Follows a controversial undercover operation that sent Alain Olivier, a drug-addicted Quebec forestry student, to death row in Thailand in 1989.",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/b0Uz1KyKvsqBxFVdJ7HNPAquyXX.jpg",
-      "posterShape": "poster"
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iO7ck5oXIY9qQyHyXH53FCqrIzs.jpg"
     },
     {
       "id": "tmdb:319722",
@@ -62,7 +90,7 @@
       },
       "overview": "The Revolutionaries narrates the inspiring tale of brave young Indian freedom fighters who fought for ending British Raj with their unwavering spirit and ideology.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5fLyYAxXWP4BxZCBN79NV1eiT4d.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/uImwvxPG2klY0VyybGPt5zRJVMc.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hLof6qJZuUaHJnb2rPSMRgBefZc.png"
@@ -652,33 +680,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/li5gPLLukthf8hONBpUztK4DpPh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kCQqOe1mHryn22m1GPyqUhJ4Xu.png"
-    },
-    {
-      "id": "tmdb:249771",
-      "type": "series",
-      "name": "माँ का सम",
-      "ids": {
-        "tmdb": 249771
-      },
-      "overview": "Agastya, a math prodigy, believes every problem has a formula - even love. When he sets out to find the perfect match for his mother, his algorithm-fueled adventure spirals into a hilarious tangle of bad dates, big feelings, and one unexpected discovery: sometimes love can't be calculated, only felt.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/82UCOLso29RQ4ihiau8DpocAGuH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wdvYc8PxoHvjZp2zQw0152mClDy.jpg"
-    },
-    {
-      "id": "tmdb:307749",
-      "type": "series",
-      "name": "Vida perra",
-      "ids": {
-        "tmdb": 307749
-      },
-      "overview": "Un parque de perros de Madrid que se convierte en punto de encuentro para un variopinto grupo de vecinos de diferentes edades, inquietudes y perspectivas, con trabajos, familias y pasados completamente dispares, que coinciden en este lugar por un nexo en común: su amor por los perros.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/kT63bKrf1oJ36qbfIfwm7dAk4AM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/r8s3luV1PlDiJBPSqgFVZkRXAMB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCB1fTxNZXc91AlHjUUk4IQ9Urf.png"
     }
   ]
 }
