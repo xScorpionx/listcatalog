@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:333400",
+      "type": "series",
+      "name": "The Howard Stern Show",
+      "ids": {
+        "tmdb": 333400
+      },
+      "overview": "Each episode spotlights Howard Stern's boundary-pushing humor, social commentary, and intimate conversations – all with his iconic voice and unique perspective. Recognized as one of the best interviewers in the business, the series also features Howard's in-depth, candid conversations with celebrities, musicians, and more.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/2aTAQGOIjr2MmdQTIrAOHl8sYGS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gg06gfnRxgYiE6bfNdha4BXf0Qz.jpg"
+    },
+    {
       "id": "tmdb:334465",
       "type": "series",
       "name": "El profeta de la pandemia",
@@ -678,20 +691,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/7IyG9WCKstDnMN2QJlwyGgTLwCH.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/fC3cy7Y21xoFsCNH8gtj4C4t12E.png"
-    },
-    {
-      "id": "tmdb:218557",
-      "type": "series",
-      "name": "Portobello",
-      "ids": {
-        "tmdb": 218557
-      },
-      "overview": "Cuenta la historia de Enzo Tortora, acusado por colaboradores de la justicia de formar parte de una organización criminal dedicada al narcotráfico.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/3GhuMtzXBw5eW4fSi8wwmgSouXD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lrcKwwOEEf02MG2vUZYA1qvvP5Z.png"
     }
   ]
 }
