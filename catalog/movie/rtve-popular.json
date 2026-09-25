@@ -29,6 +29,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/hnN9tJ2wsevdGdr0QQh3lyfvPej.png"
     },
     {
+      "id": "tmdb:111",
+      "type": "movie",
+      "name": "El precio del poder",
+      "ids": {
+        "tmdb": 111
+      },
+      "overview": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hNM4m3ED6nI7DNnR1klvRuc23uh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
+    },
+    {
       "id": "tmdb:298618",
       "type": "movie",
       "name": "Flash",
@@ -113,20 +127,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/y03VJQqOgmPuJcNBN1W0f3L28Dy.png"
     },
     {
-      "id": "tmdb:159824",
-      "type": "movie",
-      "name": "Hotel Transilvania 2",
-      "ids": {
-        "tmdb": 159824
-      },
-      "overview": "Todo parece mejorar en el Hotel Transilvania. La rígida norma establecida por Drácula de “sólo para monstruos” se ha suprimido y se aceptan también huéspedes humanos. Lo que preocupa al conde es que que su adorable nieto Dennis, medio humano y medio vampiro, no dé señal alguna de vampirismo. Aprovechando que Mavis ha ido a visitar a sus suegros humanos, Drácula recluta a sus amigos Frank, Murray, Wayne y Griffin para hacer que Dennis pase por un campamento de “entrenamiento de monstruos”. Lo que ignoran es que Vlad, el gruñón padre de Drácula, está a punto de llegar al hotel. Y cuando descubra que su bisnieto no es de sangre pura y que los humanos pueden frecuentar el establecimiento las cosas se complicarán.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kE8EUyJpzhouOueyIYWscd3hSqK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/teVJLUKV6jI1rwHR9Bmvg8apwJM.png"
-    },
-    {
       "id": "tmdb:400155",
       "type": "movie",
       "name": "Hotel Transilvania 3: Unas vacaciones monstruosas",
@@ -155,18 +155,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/g8nwqBTG40oroVZztpPQyEvUgDo.png"
     },
     {
-      "id": "tmdb:1272149",
+      "id": "tmdb:159824",
       "type": "movie",
-      "name": "Bridget Jones: Loca por él",
+      "name": "Hotel Transilvania 2",
       "ids": {
-        "tmdb": 1272149
+        "tmdb": 159824
       },
-      "overview": "Bridget está sola después de enviudar hace cuatro años y se encuentra en una especie de limbo emocional mientras cuida a los niños con la ayuda de sus mejores amigos y de un antiguo amante, Daniel Cleaver. Presionada por su familia urbana, Bridget se siente obligada a interesarse por la vida y el amor.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
+      "overview": "Todo parece mejorar en el Hotel Transilvania. La rígida norma establecida por Drácula de “sólo para monstruos” se ha suprimido y se aceptan también huéspedes humanos. Lo que preocupa al conde es que que su adorable nieto Dennis, medio humano y medio vampiro, no dé señal alguna de vampirismo. Aprovechando que Mavis ha ido a visitar a sus suegros humanos, Drácula recluta a sus amigos Frank, Murray, Wayne y Griffin para hacer que Dennis pase por un campamento de “entrenamiento de monstruos”. Lo que ignoran es que Vlad, el gruñón padre de Drácula, está a punto de llegar al hotel. Y cuando descubra que su bisnieto no es de sangre pura y que los humanos pueden frecuentar el establecimiento las cosas se complicarán.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b0F9jeCmOxmDr3rhyIkvBpv5eEr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kE8EUyJpzhouOueyIYWscd3hSqK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/teVJLUKV6jI1rwHR9Bmvg8apwJM.png"
     },
     {
       "id": "tmdb:228165",
@@ -181,6 +181,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oHOvcLQBf5CCErv7eCEFJYj2p0R.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ilxEDU4yBClCrLVPGnd6GItj3ck.png"
+    },
+    {
+      "id": "tmdb:1272149",
+      "type": "movie",
+      "name": "Bridget Jones: Loca por él",
+      "ids": {
+        "tmdb": 1272149
+      },
+      "overview": "Bridget está sola después de enviudar hace cuatro años y se encuentra en una especie de limbo emocional mientras cuida a los niños con la ayuda de sus mejores amigos y de un antiguo amante, Daniel Cleaver. Presionada por su familia urbana, Bridget se siente obligada a interesarse por la vida y el amor.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9K4xBef7N7YZTnke23FiNTHBGNU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/b0F9jeCmOxmDr3rhyIkvBpv5eEr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h2ST6rsGspQ8Q6YWrkmXUqupc0d.png"
+    },
+    {
+      "id": "tmdb:531428",
+      "type": "movie",
+      "name": "Retrato de una mujer en llamas",
+      "ids": {
+        "tmdb": 531428
+      },
+      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h8kXLI8mjfHbtZw4JAKlFPkFPyK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
     },
     {
       "id": "tmdb:11423",
@@ -211,20 +239,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/glEEEjVX4gE0iJv7E9O1QkJZHQe.png"
     },
     {
-      "id": "tmdb:531428",
-      "type": "movie",
-      "name": "Retrato de una mujer en llamas",
-      "ids": {
-        "tmdb": 531428
-      },
-      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h8kXLI8mjfHbtZw4JAKlFPkFPyK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
-    },
-    {
       "id": "tmdb:395834",
       "type": "movie",
       "name": "Wind River",
@@ -237,34 +251,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cCc9GdKtgs3fZrqQe6PYbaC38dh.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3IGejPDAy3XsdErrVOwIyBj79T3.png"
-    },
-    {
-      "id": "tmdb:524",
-      "type": "movie",
-      "name": "Casino",
-      "ids": {
-        "tmdb": 524
-      },
-      "overview": "Las Vegas, 1973. Sam \"Ace\" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
-      "year": 1995,
-      "poster": "https://image.tmdb.org/t/p/w342/7x8lsyTB0G7OrLzQ7qxt3ywQ4OY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3LJTvqs0Ho8FBgqrykaiqSgRgFJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uMZHu14lCEx5bjV2Sak87yO0OhB.png"
-    },
-    {
-      "id": "tmdb:762",
-      "type": "movie",
-      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
-      "ids": {
-        "tmdb": 762
-      },
-      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
       "id": "tmdb:375262",
@@ -281,6 +267,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/crH3vqTVRAz74jTqb0S49HMXcow.png"
     },
     {
+      "id": "tmdb:524",
+      "type": "movie",
+      "name": "Casino",
+      "ids": {
+        "tmdb": 524
+      },
+      "overview": "Las Vegas, 1973. Sam \"Ace\" Rothstein, un profesional de las apuestas, es el eficaz director de un importante casino que pertenece a un grupo de mafiosos. Su misión es controlar el funcionamiento del negocio y garantizar que la corriente de dinero que va a parar a manos de sus jefes siga fluyendo. Las Vegas es un lugar ideal para millonarios y políticos, pero es también lugar de paso de tahúres, prestamistas, traficantes de drogas y matones. Un día el violento Nicky Santoro, al que sus jefes han encargado que cuide de Sam, llega a Las Vegas con la intención de quedarse.",
+      "year": 1995,
+      "poster": "https://image.tmdb.org/t/p/w342/7x8lsyTB0G7OrLzQ7qxt3ywQ4OY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3LJTvqs0Ho8FBgqrykaiqSgRgFJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uMZHu14lCEx5bjV2Sak87yO0OhB.png"
+    },
+    {
       "id": "tmdb:1252309",
       "type": "movie",
       "name": "Pídeme lo que quieras",
@@ -293,20 +293,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/fSO7cnetDfNEflwAsxlkzV446Ua.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4sZH8S3dALP8RsxuxYx9d920Qm1.png"
-    },
-    {
-      "id": "tmdb:978592",
-      "type": "movie",
-      "name": "Sombras del pasado",
-      "ids": {
-        "tmdb": 978592
-      },
-      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aiISkpzWzipMYDe9CnAWkLP9NOB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
     },
     {
       "id": "tmdb:969492",
@@ -323,32 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fJqQ7V8WEpwO7piCsKAz2qbfeRb.png"
     },
     {
-      "id": "tmdb:580175",
+      "id": "tmdb:762",
       "type": "movie",
-      "name": "Otra ronda",
+      "name": "Los caballeros de la mesa cuadrada y sus locos seguidores",
       "ids": {
-        "tmdb": 580175
+        "tmdb": 762
       },
-      "overview": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg",
+      "overview": "El rey Arturo y sus caballeros reciben un encargo divino: partir en búsqueda del Santo Grial, para lo cual deberán luchar contra enemigos muy diversos: malignos caballeros rivales, bestias sanguinarias (que solo son visibles como dibujo animado), groseros caballeros franceses fortificando un castillo en Inglaterra, brujas, adivinos mefistofélicos, Scotland Yard, y hasta un conejo asesino y carnívoro (que muere destruido por una cómica reliquia traída de las Cruzadas: la \"Santa Granada de Mano de Antioquia\").",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/sbxnHlkHSeffxwzPhnfwd42ojqQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
-    },
-    {
-      "id": "tmdb:10184",
-      "type": "movie",
-      "name": "Qué les pasa a los hombres",
-      "ids": {
-        "tmdb": 10184
-      },
-      "overview": "Ambientada en Baltimore. Historias cruzadas sobre el amor y el comportamiento humano: una mujer se siente confusa en una sociedad más obsesionada por la tecnología que por el contacto humano, otra mujer se ve atrapada en un rutinario matrimonio, un hombre intenta conquistar a una mujer que tiene un amante, una joven vive obsesionada intentando propiciar encuentros accidentales con el hombre de sus sueños.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/cXAGvZGI7ux9BWNIEDfTWJwcjWC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/us93TzsA7ap8DMPL3QaJ97cOj7q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mW9Plwwn9vJCuoQ3Re4O58NsPoy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5de0BbvrvLjBgrg4kWBlOAwr3Wv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/dCg16DkBBPCZIHaLOCQ3ZUmgvt.png"
     },
     {
       "id": "tmdb:634",
@@ -365,6 +337,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/nroCU8IrbjbFzL2mjzibHWax5bV.png"
     },
     {
+      "id": "tmdb:580175",
+      "type": "movie",
+      "name": "Otra ronda",
+      "ids": {
+        "tmdb": 580175
+      },
+      "overview": "Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/kqkpGdZsNpKv5x5jWGtCyONrr43.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/i0dYdmyAAl7udP9Jgd1p8bHyfwN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6VanbaWUsKXuz4TrILGaSt7dsfs.png"
+    },
+    {
       "id": "tmdb:6557",
       "type": "movie",
       "name": "27 vestidos",
@@ -379,32 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/xAZFJga220CQp3TiDDdxzqccgsD.png"
     },
     {
-      "id": "tmdb:583",
+      "id": "tmdb:10184",
       "type": "movie",
-      "name": "La vida de Brian",
+      "name": "Qué les pasa a los hombres",
       "ids": {
-        "tmdb": 583
+        "tmdb": 10184
       },
-      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
+      "overview": "Ambientada en Baltimore. Historias cruzadas sobre el amor y el comportamiento humano: una mujer se siente confusa en una sociedad más obsesionada por la tecnología que por el contacto humano, otra mujer se ve atrapada en un rutinario matrimonio, un hombre intenta conquistar a una mujer que tiene un amante, una joven vive obsesionada intentando propiciar encuentros accidentales con el hombre de sus sueños.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/cXAGvZGI7ux9BWNIEDfTWJwcjWC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
-    },
-    {
-      "id": "tmdb:519465",
-      "type": "movie",
-      "name": "Reina de corazones",
-      "ids": {
-        "tmdb": 519465
-      },
-      "overview": "Annie es una exitosa abogada que vive en una casa de estilo modernista con sus dos hijas y su marido Peter, un reputado físico. La aparición de Gustav, un hijo que pertenece a una relación previa de Peter, pone patas arriba la armonía que reina en la vida de Annie. Lo que en un principio parece ser un movimiento liberador para ella, pronto se convierte en una historia de poder y traición que tendrá consecuencias devastadoras en su vida.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/dnbZXUwp7ZGNZnPeBxXA1HHxsab.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/us93TzsA7ap8DMPL3QaJ97cOj7q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mW9Plwwn9vJCuoQ3Re4O58NsPoy.png"
     },
     {
       "id": "tmdb:660120",
@@ -421,32 +393,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/jK92jp29EJGZeAiFP1caIcD8jux.png"
     },
     {
-      "id": "tmdb:838240",
+      "id": "tmdb:519465",
       "type": "movie",
-      "name": "Robot Dreams",
+      "name": "Reina de corazones",
       "ids": {
-        "tmdb": 838240
+        "tmdb": 519465
       },
-      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+      "overview": "Annie es una exitosa abogada que vive en una casa de estilo modernista con sus dos hijas y su marido Peter, un reputado físico. La aparición de Gustav, un hijo que pertenece a una relación previa de Peter, pone patas arriba la armonía que reina en la vida de Annie. Lo que en un principio parece ser un movimiento liberador para ella, pronto se convierte en una historia de poder y traición que tendrá consecuencias devastadoras en su vida.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/dnbZXUwp7ZGNZnPeBxXA1HHxsab.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Dz3zQ61k47hTEqG7VrvCT8KxF0.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aWwUdi3zxShya80CNUNA6l2KQJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4HUBBAgNDN7h2hU4LcMQOOaA3zB.png"
     },
     {
-      "id": "tmdb:980026",
+      "id": "tmdb:583",
       "type": "movie",
-      "name": "La tierra prometida",
+      "name": "La vida de Brian",
       "ids": {
-        "tmdb": 980026
+        "tmdb": 583
       },
-      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
+      "overview": "Delirante y divertidísima comedia que relata, a golpe de carcajada, la vida de un desastre de hombre, contemporáneo de Jesucristo, que es confundido por el pueblo con un mesías. Que nadie se confunda: \"Life of Brian\" no es una amalgama de escenas absurdas que hacen reír, es una brillante sátira que desborda con un humor maravillosamente inteligente. Obra capital de los geniales Monty Python, su gozosa visión está llena de memorables gags que la encumbran como una de las mejores parodias de la historia del cine.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/b4JaQ2ZjPxblj3E3S9ga5ykTita.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mdZIx40gJ1tQPq7eKhpwB7qtTr6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZcdJMXEQbdnNDxyJgFQ9x6kKLJ.png"
+    },
+    {
+      "id": "tmdb:978592",
+      "type": "movie",
+      "name": "Sombras del pasado",
+      "ids": {
+        "tmdb": 978592
+      },
+      "overview": "Después de someterse a un tratamiento de vanguardia para el Alzheimer, un ex detective de homicidios vuelve a examinar un caso de hace una década que involucra el brutal asesinato de un profesor universitario, y es como si estuviera investigando el caso por primera vez.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/kDAgYPJ4qMDt2RbuYGmUocpWuPd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aiISkpzWzipMYDe9CnAWkLP9NOB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b8kTUFTFfYExZZMexHdyGBFOPgT.png"
     },
     {
       "id": "tmdb:446354",
@@ -477,6 +463,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/anwu1ceDx9rgEJvAIbPg1RRjtWz.png"
     },
     {
+      "id": "tmdb:1106739",
+      "type": "movie",
+      "name": "Jurado Nº 2",
+      "ids": {
+        "tmdb": 1106739
+      },
+      "overview": "Justin Kemp, un hombre de familia, mientras forma parte de un jurado en un juicio por asesinato, se encuentra luchando con un serio dilema moral... uno que podría utilizar para influir en el veredicto del jurado y potencialmente condenar (o liberar) al asesino acusado.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sC5goW1al22Cjq9l3MINfD4jF9B.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
+    },
+    {
+      "id": "tmdb:838240",
+      "type": "movie",
+      "name": "Robot Dreams",
+      "ids": {
+        "tmdb": 838240
+      },
+      "overview": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/qLtK6DFeuJNuB3THGVDklirhQ8u.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hToHhWadTK1E8Kd5RJhAD892E1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Dz3zQ61k47hTEqG7VrvCT8KxF0.png"
+    },
+    {
       "id": "tmdb:9268",
       "type": "movie",
       "name": "Eraser (Eliminador)",
@@ -505,102 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tVJuzsqqYRJUWlctlRqTXJUp7MZ.png"
     },
     {
-      "id": "tmdb:1106739",
+      "id": "tmdb:980026",
       "type": "movie",
-      "name": "Jurado Nº 2",
+      "name": "La tierra prometida",
       "ids": {
-        "tmdb": 1106739
+        "tmdb": 980026
       },
-      "overview": "Justin Kemp, un hombre de familia, mientras forma parte de un jurado en un juicio por asesinato, se encuentra luchando con un serio dilema moral... uno que podría utilizar para influir en el veredicto del jurado y potencialmente condenar (o liberar) al asesino acusado.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/8GxazBs1iKffJHAdeyhD9jS1aOz.jpg",
+      "overview": "En 1755, el empobrecido capitán Ludvig Kahlen se dispone a conquistar los duros e inhóspitos páramos daneses con un objetivo aparentemente imposible: crear una colonia en nombre del rey. A cambio, recibirá un nombre real que anhela con desesperación. Sin embargo, el único gobernante de la zona, el despiadado Frederik de Schinkel, cree arrogantemente que esa tierra le pertenece. Cuando de Schinkel se percata de que su criada Ann Barbara y su servil marido han escapado para refugiarse con Kahlen, el privilegiado y rencoroso gobernante jura venganza y promete hacer todo lo que esté a su alcance para ahuyentar al capitán. Pero Kahlen no se deja intimidar y emprende una batalla tan desigual que pondrá en riesgo no solo su vida, sino también a la familia de personas marginadas que se ha formado a su alrededor.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/nEpXUsaUOzReUV2SWOWQuTFY5G4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sC5goW1al22Cjq9l3MINfD4jF9B.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vx0FLGf3CByoGbXNj4ES9xLF1ZN.png"
-    },
-    {
-      "id": "tmdb:1633",
-      "type": "movie",
-      "name": "Tomates verdes fritos",
-      "ids": {
-        "tmdb": 1633
-      },
-      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
-      "year": 1991,
-      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
-    },
-    {
-      "id": "tmdb:9801",
-      "type": "movie",
-      "name": "Bridget Jones: Sobreviviré",
-      "ids": {
-        "tmdb": 9801
-      },
-      "overview": "Bridget Jones ya es feliz: vive con el apuesto Mark Darcy y ha dejado al cretino de su ex-jefe Daniel. Lo malo es que Rebeca, estropea su relación con Mark. Tampoco le van bien las cosas en el trabajo, pero lo peor de todo es lo que le ocurre durante un viaje a Tailandia. No obstante, como siempre, sigue contando con el apoyo de sus amigos que la animan a conocer gente nueva. Pero, ¿quién sabe si Bridget no estará pensando en volver con Daniel?",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/ihtl1iygkMJ0K8QwzcW9P5hXVoW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wtoYm7m4K1d6oZzuKN8LZdp65EX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/f0FF0b15XK12hhMORH55RVa1Cer.png"
-    },
-    {
-      "id": "tmdb:1654",
-      "type": "movie",
-      "name": "Doce del patíbulo",
-      "ids": {
-        "tmdb": 1654
-      },
-      "overview": "El comandante Reisman es un oficial estadounidense que se ha distinguido en la campaña de Italia, durante la Segunda Guerra Mundial. A pesar de ello, su mayor virtud no es la disciplina; de ahí que las relaciones con sus superiores sean más bien tensas. Sin embargo, debido a su brillante historial militar, no dudan en encargarle una misión suicida: asaltar una fortaleza nazi y matar a sus ocupantes, todos ellos altos mandos del régimen. Para ello debe someter a un duro entrenamiento a doce presidiarios.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/lXYSPzIqjQxKnI0YgAVHjp1t3wK.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4x0T3WDeaU9HUM9npX4TqiNYUH5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wIhlY0RxVPKXp9KellUyUuOad7o.png"
-    },
-    {
-      "id": "tmdb:758866",
-      "type": "movie",
-      "name": "Drive my car",
-      "ids": {
-        "tmdb": 758866
-      },
-      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
-    },
-    {
-      "id": "tmdb:11638",
-      "type": "movie",
-      "name": "Adivina quién",
-      "ids": {
-        "tmdb": 11638
-      },
-      "overview": "Percy Jones (Bernie Mac) se vanagloria, muy seguro de sí mismo, de que siempre tiene razón, especialmente cuando se trata del bienestar de su familia. Cuando su hija Theresa (Zoe Saldaña) le trae a casa a su nuevo novio, Simon Green (Ashton Kutcher), para que lo conozcan tanto él como su mujer Marilyn (Judith Scott), desconoce que Simon ha pedido a Theresa que se case con ella y planea anunciar el compromiso en la fiesta de celebración de las bodas de plata de Percy y Marilyn. El joven, un exitoso corredor de bolsa, ciertamente parece bueno sobre el papel, y por primera vez, Percy está deseando realmente conocer a uno de los novios de su hija.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/3oIUGWNns4kXNjq4PliTET1QWtU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zgNllNoGM1wDLu7mKrZegmA81F6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kiVVT4Wcf12JEILPB0lOXVeK0Of.png"
-    },
-    {
-      "id": "tmdb:245842",
-      "type": "movie",
-      "name": "La hija del rey",
-      "ids": {
-        "tmdb": 245842
-      },
-      "overview": "La búsqueda desesperada de la inmortalidad del Rey Luis XIV le lleva a capturar una sirena para robarle su energía vital, un hecho que se complica todavía más cuando su hija ilegítima descubre a la criatura.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/3G6IxvCvCjVLd8dJLwUXm3bv2n8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6jJN6bYq3F49SRhk2BQjlYiz4Ox.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pTuM20jwBOhiVrEXkP6GiuWHkig.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tvdsNCbxZF8HZzE9MNkKmetr38d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gGS7xQSphGbL8BlYRktMGeWqiSP.png"
     },
     {
       "id": "tmdb:416477",
@@ -617,20 +547,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Codh4h18rtezbKWe6bdorezXIq.png"
     },
     {
-      "id": "tmdb:8346",
-      "type": "movie",
-      "name": "Mi gran boda griega",
-      "ids": {
-        "tmdb": 8346
-      },
-      "overview": "Todos los miembros de la familia Portokalos están preocupados por Toula (Nia Vardalos). A sus treinta años sigue soltera y trabaja en el restaurante griego de sus padres. Pero es que Toula aspira a algo más y está dispuesta a conseguirlo; su familia, por desgracia, no. Lo único que necesitaba Toula para cambiar su vida eran unas cuantas clases de informática, un par de lentillas y adoptar otra actitud. Cuando empieza a trabajar en la agencia de viajes de su tía, un apuesto desconocido se siente atraído por ella. Es Ian Miller (John Corbett), un profesor de instituto alto, guapo y sin una gota de sangre griega.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9aSO7qn51SEjLkAaSYnMcpX8ziV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
-    },
-    {
       "id": "tmdb:62764",
       "type": "movie",
       "name": "Blancanieves (Mirror, Mirror)",
@@ -643,6 +559,104 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dVMm7FmViiSwsdtRAoU9t9H0Dar.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/tsTSB0MXYBYbDRqTu0p66sNdnNm.png"
+    },
+    {
+      "id": "tmdb:1633",
+      "type": "movie",
+      "name": "Tomates verdes fritos",
+      "ids": {
+        "tmdb": 1633
+      },
+      "overview": "Evelyn, una mujer madura que vive frustrada por su gordura y por la incomprensión de su marido, conoce en un asilo a Ninny, una anciana que le va contando poco a poco una dramática historia ocurrida en su pueblo, en Alabama. La trama gira en torno a la gran amistad entre dos mujeres y al misterioso asesinato del marido de una de ellas.",
+      "year": 1991,
+      "poster": "https://image.tmdb.org/t/p/w342/zVWUSjYmmg4PQudX6NGPj0gbnV5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7Fy6Xef6wVzVxJ3l7HeM0j61Z3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jCHQ1Q8qwvW7vmQs9yvP9urxKy.png"
+    },
+    {
+      "id": "tmdb:758866",
+      "type": "movie",
+      "name": "Drive my car",
+      "ids": {
+        "tmdb": 758866
+      },
+      "overview": "Pese a no ser capaz de recuperarse de un drama personal, Yusuke Kafuku, actor y director de teatro, acepta montar la obra 'Tío Vania' en un festival de Hiroshima. Allí, conoce a Misaki, una joven reservada que le han asignado como chófer. A medida que pasan los trayectos, la sinceridad creciente de sus conversaciones les obliga a enfrentarse a su pasado.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/iGm0oHpKzFo7z73z82KL1cy9iMX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6zxG5ycsM2hfWQXfZMkkzi53k7N.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w2BpigtOFD3Vy3oVGc6ZufFMWiR.png"
+    },
+    {
+      "id": "tmdb:1654",
+      "type": "movie",
+      "name": "Doce del patíbulo",
+      "ids": {
+        "tmdb": 1654
+      },
+      "overview": "El comandante Reisman es un oficial estadounidense que se ha distinguido en la campaña de Italia, durante la Segunda Guerra Mundial. A pesar de ello, su mayor virtud no es la disciplina; de ahí que las relaciones con sus superiores sean más bien tensas. Sin embargo, debido a su brillante historial militar, no dudan en encargarle una misión suicida: asaltar una fortaleza nazi y matar a sus ocupantes, todos ellos altos mandos del régimen. Para ello debe someter a un duro entrenamiento a doce presidiarios.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/lXYSPzIqjQxKnI0YgAVHjp1t3wK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4x0T3WDeaU9HUM9npX4TqiNYUH5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wIhlY0RxVPKXp9KellUyUuOad7o.png"
+    },
+    {
+      "id": "tmdb:9801",
+      "type": "movie",
+      "name": "Bridget Jones: Sobreviviré",
+      "ids": {
+        "tmdb": 9801
+      },
+      "overview": "Bridget Jones ya es feliz: vive con el apuesto Mark Darcy y ha dejado al cretino de su ex-jefe Daniel. Lo malo es que Rebeca, estropea su relación con Mark. Tampoco le van bien las cosas en el trabajo, pero lo peor de todo es lo que le ocurre durante un viaje a Tailandia. No obstante, como siempre, sigue contando con el apoyo de sus amigos que la animan a conocer gente nueva. Pero, ¿quién sabe si Bridget no estará pensando en volver con Daniel?",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/ihtl1iygkMJ0K8QwzcW9P5hXVoW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wtoYm7m4K1d6oZzuKN8LZdp65EX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/f0FF0b15XK12hhMORH55RVa1Cer.png"
+    },
+    {
+      "id": "tmdb:245842",
+      "type": "movie",
+      "name": "La hija del rey",
+      "ids": {
+        "tmdb": 245842
+      },
+      "overview": "La búsqueda desesperada de la inmortalidad del Rey Luis XIV le lleva a capturar una sirena para robarle su energía vital, un hecho que se complica todavía más cuando su hija ilegítima descubre a la criatura.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/3G6IxvCvCjVLd8dJLwUXm3bv2n8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6jJN6bYq3F49SRhk2BQjlYiz4Ox.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pTuM20jwBOhiVrEXkP6GiuWHkig.png"
+    },
+    {
+      "id": "tmdb:1249289",
+      "type": "movie",
+      "name": "Doble espionaje",
+      "ids": {
+        "tmdb": 1249289
+      },
+      "overview": "Un matrimonio de espías, en el punto de mira de una red de inteligencia internacional, no se detendrá ante nada para obtener un activo crítico. Joe y Lara son agentes que viven fuera de la red y cuyo tranquilo retiro en una estación invernal salta por los aires cuando miembros de la vieja guardia sospechan que ambos pueden haberse unido a un equipo de élite de espías deshonestos, conocido como Alarum.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/chIQxgimGbIFnuFsLqpcoTbsH9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9A97itZIjT5wozcRLAHusnXYsr5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/72faKEXdlYCzfxPA1rQm8Szdx3C.png"
+    },
+    {
+      "id": "tmdb:11638",
+      "type": "movie",
+      "name": "Adivina quién",
+      "ids": {
+        "tmdb": 11638
+      },
+      "overview": "Percy Jones (Bernie Mac) se vanagloria, muy seguro de sí mismo, de que siempre tiene razón, especialmente cuando se trata del bienestar de su familia. Cuando su hija Theresa (Zoe Saldaña) le trae a casa a su nuevo novio, Simon Green (Ashton Kutcher), para que lo conozcan tanto él como su mujer Marilyn (Judith Scott), desconoce que Simon ha pedido a Theresa que se case con ella y planea anunciar el compromiso en la fiesta de celebración de las bodas de plata de Percy y Marilyn. El joven, un exitoso corredor de bolsa, ciertamente parece bueno sobre el papel, y por primera vez, Percy está deseando realmente conocer a uno de los novios de su hija.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/3oIUGWNns4kXNjq4PliTET1QWtU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zgNllNoGM1wDLu7mKrZegmA81F6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kiVVT4Wcf12JEILPB0lOXVeK0Of.png"
     },
     {
       "id": "tmdb:99",
@@ -659,46 +673,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/stpO8fa0GBdfUyCS7mKEDk4E2fu.png"
     },
     {
-      "id": "tmdb:423612",
+      "id": "tmdb:8346",
       "type": "movie",
-      "name": "La sombra del pasado",
+      "name": "Mi gran boda griega",
       "ids": {
-        "tmdb": 423612
+        "tmdb": 8346
       },
-      "overview": "Kurt Barnert es un joven estudiante de arte en la Alemania del Este. Está enamorado de su compañera de clase, Ellie. El padre de ella, el Professor Seeband, un famoso médico, no aprueba la relación de su hija y está decidido a destruirla. Lo que ninguno de ellos sabe es que sus vidas están conectadas por un terrible crimen cometido hace décadas.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/o7liyeAZYv37yx7ydY8oUrnaSTz.jpg",
+      "overview": "Todos los miembros de la familia Portokalos están preocupados por Toula (Nia Vardalos). A sus treinta años sigue soltera y trabaja en el restaurante griego de sus padres. Pero es que Toula aspira a algo más y está dispuesta a conseguirlo; su familia, por desgracia, no. Lo único que necesitaba Toula para cambiar su vida eran unas cuantas clases de informática, un par de lentillas y adoptar otra actitud. Cuando empieza a trabajar en la agencia de viajes de su tía, un apuesto desconocido se siente atraído por ella. Es Ian Miller (John Corbett), un profesor de instituto alto, guapo y sin una gota de sangre griega.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/5xao39YxElZaPYlaXekUEEXKwmZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w7UFkUEvHefW17dU8B1AdaScT6n.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7j4lZyJJy5Z2cZQRv3tBpl1SkhY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9aSO7qn51SEjLkAaSYnMcpX8ziV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ojulPOPsBdGHx5ezdDceCP9kKT.png"
     },
     {
-      "id": "tmdb:13477",
+      "id": "tmdb:998022",
       "type": "movie",
-      "name": "En la boda de mi hermana",
+      "name": "Sala de profesores",
       "ids": {
-        "tmdb": 13477
+        "tmdb": 998022
       },
-      "overview": "Beth Harper es una neoyorquina harta del amor que aprovecha un viaje a Roma para robar algunas de las monedas que se han lanzado a una fuente que, según cuenta la leyenda, tiene propiedades mágicas. Los enamorados lanzan allí sus monedas para ser correspondidos, por lo que el robo de Bell provoca que un grupo de encolerizados pretendientes la persiga hasta Nueva York, después de haber sabido que robó las monedas que ellos habían tirado a la fuente.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/zJ9iDHCkrVrW4Xm7pTOimLSZWh2.jpg",
+      "overview": "Carla Nowak, una idealista profesora de matemáticas y deportes, comienza su primer trabajo en una escuela de secundaria. Cuando se producen una serie de robos en la escuela y se sospecha de uno de sus alumnos, decide llegar al fondo del asunto por su cuenta. Carla intenta mediar entre padres indignados, colegas obstinados y estudiantes agresivos, pero se enfrenta a las implacables estructuras del sistema escolar.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/5CJKu0gYgBbRs8MOxPLBpH55h62.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jj347Ko6OeeYVCYXeOokSs1B0N9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7FUmhAhDUJ7m1bb3tJbKDBLS2cp.png"
-    },
-    {
-      "id": "tmdb:7305",
-      "type": "movie",
-      "name": "¡Viven!",
-      "ids": {
-        "tmdb": 7305
-      },
-      "overview": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/6LwajIX2afh4N5dklu6Z5azaH3Y.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mL5CWt3Yd4mKqhN0ldnibRNYOIb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tiTwQ4mAIlyjECSaUNagUN2twvY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nkGRS22A5405O7Is3FbIgbyuYzZ.png"
     }
   ]
 }
