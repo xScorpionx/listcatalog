@@ -101,11 +101,11 @@
     {
       "id": "tmdb:46298",
       "type": "series",
-      "name": "Hunter × Hunter",
+      "name": "Hunter x Hunter",
       "ids": {
         "tmdb": 46298
       },
-      "overview": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre.",
+      "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
       "year": 2011,
       "poster": "https://image.tmdb.org/t/p/w342/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
       "posterShape": "poster",
@@ -325,16 +325,30 @@
     {
       "id": "tmdb:1429",
       "type": "series",
-      "name": "Ataque a los Titanes",
+      "name": "Attack on Titan",
       "ids": {
         "tmdb": 1429
       },
-      "overview": "Tras un siglo de aparente paz, un titán colosal rompe las murallas que protegían a la humanidad, desatando una nueva masacre. Eren Jaeger y el Cuerpo de Exploradores lucharán para recuperar su mundo y enfrentar la amenaza titán.",
+      "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
       "year": 2013,
       "poster": "https://image.tmdb.org/t/p/w342/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/sfUY3piQeHVos1UiX6ziOxraGxi.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bLtSl4iFuA7EZ4FkwrczrDNqHrp.png"
+    },
+    {
+      "id": "tmdb:207468",
+      "type": "series",
+      "name": "Kaiju No. 8",
+      "ids": {
+        "tmdb": 207468
+      },
+      "overview": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg"
     },
     {
       "id": "tmdb:82684",
@@ -371,26 +385,12 @@
       "ids": {
         "tmdb": 67075
       },
-      "overview": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+      "overview": "Kageyama Shigeo, más conocido por el apodo \"Mob\", parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones.",
       "year": 2016,
       "poster": "https://image.tmdb.org/t/p/w342/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/zSjERIOum3Ntwgu5a0kLmRCs70g.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png"
-    },
-    {
-      "id": "tmdb:207468",
-      "type": "series",
-      "name": "Kaiju No. 8",
-      "ids": {
-        "tmdb": 207468
-      },
-      "overview": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kMMFY8gE3HHt5TmzF55jY7I3Fjs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3LLPafM7SMSaFzxdy3Pdy1kQGe4.svg"
     },
     {
       "id": "tmdb:73833",
@@ -413,7 +413,7 @@
       "ids": {
         "tmdb": 210879
       },
-      "overview": "Ten years have passed since the end of Bakumatsu, an era of war that saw the uprising of citizens against the Tokugawa shogunate. The revolutionaries wanted to create a time of peace, and a thriving country free from oppression. The new age of Meiji has come, but peace has not yet been achieved. Swords are banned but people are still murdered in the streets. Orphans of war veterans are left with nowhere to go, while the government seems content to just line their pockets with money.",
+      "overview": "Readaptación de la serie manga principal.\n\nHace ciento cuarenta años en Kioto, con la llegada de los \"Barcos Negros\" estadounidenses, surgió un guerrero que, derribando hombres con su espada ensangrentada, se ganó el nombre de Hitokiri, ¡asesino! Su espada asesina ayudó a cerrar la turbulenta era de Bakumatsu y abrió la era progresiva conocida como Meiji. Luego desapareció y, con el correr de los años, se convirtió en leyenda.",
       "year": 2023,
       "poster": "https://image.tmdb.org/t/p/w342/zT77Y6iQGmYGBqbhQi0ySD60o9i.jpg",
       "posterShape": "poster",
@@ -455,7 +455,7 @@
       "ids": {
         "tmdb": 96316
       },
-      "overview": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and a beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!",
+      "overview": "Kazuya Kinoshita es un joven universitario de 20 años que tras conseguir novia, pudo besarla, ¡pero lo dejó tras solo un mes! \"Maldita sea, no quiero tener que volver a pasar por eso\". Desesperado, recurre a un método muy particular para tener por fin una cita: solicitar una novia de alquiler. Cuando llega al punto de encuentro le espera una chica: \"Eres Kazuya, ¿verdad?\". Es una chica preciosa de pelo negro y largo que le sonríe con ternura. La chica es Chizuru Mizuhara. ¡Y de esa cita de alquiler nace algo real! Una comedia romántica repleta de amor y emoción da comienzo.",
       "year": 2020,
       "poster": "https://image.tmdb.org/t/p/w342/1xhXRBPBwbTYj8AsUHFdhSjj1z7.jpg",
       "posterShape": "poster",
@@ -619,11 +619,11 @@
     {
       "id": "tmdb:91801",
       "type": "series",
-      "name": "Welcome to Demon School! Iruma-kun",
+      "name": "Mairimashita! Iruma-kun",
       "ids": {
         "tmdb": 91801
       },
-      "overview": "Fourteen-year-old Iruma Suzuki has just been abandoned and sold to a demon by his irresponsible parents! Surprisingly, the next thing he knows he's living with the demon who has adopted him as his new grandson and has been transferred into a school in the Netherworld where his new demon grandfather works as the principal. Thus begins the cowardly Iruma-kun's extraordinary school life among the otherworldly as he faces his true self, takes on challenges, and rises to become someone great.",
+      "overview": "Suzuki Iruma acaba de ser abandonado y vendido a un demonio por sus padres irresponsables. Sorprendentemente, lo siguiente que sabe es que está viviendo con el demonio que lo adoptó como si fuera su nuevo nieto y tras ser transferido a una escuela en el mundo de los demonios donde su nuevo abuelo «demonio» trabaja como director. Así comienza la extraordinaria vida escolar del cobarde Iruma-kun entre los seres del otro mundo, a la ves que aprende a enfrentarse a verdadero yo, asumiendo desafíos y convirtiéndose en alguien grande …",
       "year": 2019,
       "poster": "https://image.tmdb.org/t/p/w342/msqjiRwQiaGQpPdnG0Y4OYjDqL9.jpg",
       "posterShape": "poster",
@@ -675,11 +675,11 @@
     {
       "id": "tmdb:131041",
       "type": "series",
-      "name": "BLUE LOCK",
+      "name": "BLUELOCK",
       "ids": {
         "tmdb": 131041
       },
-      "overview": "High school soccer players from across Japan gather for a controversial project designed to create the best — and most egoistic — striker in the world.",
+      "overview": "Yoichi es un joven al que acaban de eliminar junto a su equipo. De pronto recibe una carta donde lo convocan para participar en un extraño experimento sobre fútbol.",
       "year": 2022,
       "poster": "https://image.tmdb.org/t/p/w342/fcKH1NQzoTXiYO1OrhaFFwTKhBp.jpg",
       "posterShape": "poster",
