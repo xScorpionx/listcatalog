@@ -31,30 +31,16 @@
     {
       "id": "tmdb:790",
       "type": "series",
-      "name": "Agatha Christie's Poirot",
+      "name": "Agatha Christie: Poirot",
       "ids": {
         "tmdb": 790
       },
-      "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+      "overview": "Desde Inglaterra hasta Egipto, acompañado por sus elegantes colaboradores de confianza, el inteligente y excéntricamente refinado detective belga Hércules Poirot se enfrenta a una serie de engaños de primera clase.",
       "year": 1989,
       "poster": "https://image.tmdb.org/t/p/w342/vWxDau7LyMhy6Te0jLIybyoxhSP.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6AVdPMleNIPf2gGayhXsYcsQdFA.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/11hvIfeTR8adcbNgg7eQachswtV.png"
-    },
-    {
-      "id": "tmdb:301626",
-      "type": "series",
-      "name": "Historia de dos ciudades",
-      "ids": {
-        "tmdb": 301626
-      },
-      "overview": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9EGYa51w81iQRqvPaiFKxah1lly.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3qJkR0Nsjaq5sUEv6ijaDdIdawE.png"
     },
     {
       "id": "tmdb:39185",
@@ -99,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/t3YeSQyOIrQquSBrEQfeWkAuaM0.png"
     },
     {
+      "id": "tmdb:2730",
+      "type": "series",
+      "name": "Te quiero, Lucy",
+      "ids": {
+        "tmdb": 2730
+      },
+      "overview": "\"I Love Lucy\" (\"Te quiero, Lucy\" en España) es una serie televisiva estadounidense de la CBS que se emitió durante la década de los 50, desde 1951 a 1957. Fue la serie más vista en Estados Unidos.  Se retransmitió en numerosos países y ganó importantes galardones, entre ellos cinco premios Emmy. La comedia llevó la fama a su actriz principal Lucille Désirée Ball Morton, conocida como Lucille Ball, quien cautivó al público demostrando sus habilidades como intérprete cómica.\n\nFue el primer programa de televisión en haber sido grabado en estudio,  frente a una audiencia, y en película de 35 mm",
+      "year": 1951,
+      "poster": "https://image.tmdb.org/t/p/w342/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/98k2unYRV6GRUE0icVSSZdl4vr9.png"
+    },
+    {
       "id": "tmdb:4278",
       "type": "series",
       "name": "Friday Night Lights",
@@ -111,20 +111,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/i6TKgMbhLRDDw8XJUAzzb66R5UX.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png"
-    },
-    {
-      "id": "tmdb:4396",
-      "type": "series",
-      "name": "Doctor en Alaska",
-      "ids": {
-        "tmdb": 4396
-      },
-      "overview": "Joel Fleishman es un médico recién licenciado. Debido a una cláusula de la letra pequeña del contrato de su beca acaba en la remota y descaradamente extraña ciudad de Cicely (Alaska). Cordialmente bienvenido por el fundador de Cicely, Maurice Minnifield, antiguo astronauta de la NASA, y por el resto de la peña de inadaptados y excéntricos que forma el vecindario, Joel descubre que es cada vez más difícil abandonar la ciudad a la que inconscientemente ha llegado. Todo se complica por la presencia de Maggie O'Connell, alcaldesa de Cicely y piloto de la localidad, una mujer hermosa pero completamente independiente; ambientado todo ello por el musical y filosófico programa de radio presentado por Chris en la KBHR.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/ez9UChG1dPlPL3osQyi9fpBjTSD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eoJzvdmYc8lLtMy4fCQqoSqMzKX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vh32bAnMKtRAaBRqKnrtuXhuHhb.png"
     },
     {
       "id": "tmdb:108255",
@@ -141,18 +127,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/q9xT37Z478pzKaOgwgy5hHe2Lqo.png"
     },
     {
-      "id": "tmdb:2730",
+      "id": "tmdb:4396",
       "type": "series",
-      "name": "Te quiero, Lucy",
+      "name": "Doctor en Alaska",
       "ids": {
-        "tmdb": 2730
+        "tmdb": 4396
       },
-      "overview": "\"I Love Lucy\" (\"Te quiero, Lucy\" en España) es una serie televisiva estadounidense de la CBS que se emitió durante la década de los 50, desde 1951 a 1957. Fue la serie más vista en Estados Unidos.  Se retransmitió en numerosos países y ganó importantes galardones, entre ellos cinco premios Emmy. La comedia llevó la fama a su actriz principal Lucille Désirée Ball Morton, conocida como Lucille Ball, quien cautivó al público demostrando sus habilidades como intérprete cómica.\n\nFue el primer programa de televisión en haber sido grabado en estudio,  frente a una audiencia, y en película de 35 mm",
-      "year": 1951,
-      "poster": "https://image.tmdb.org/t/p/w342/mPUSrFTvQqwEqTtfukxJBtkbxWj.jpg",
+      "overview": "Joel Fleishman es un médico recién licenciado. Debido a una cláusula de la letra pequeña del contrato de su beca acaba en la remota y descaradamente extraña ciudad de Cicely (Alaska). Cordialmente bienvenido por el fundador de Cicely, Maurice Minnifield, antiguo astronauta de la NASA, y por el resto de la peña de inadaptados y excéntricos que forma el vecindario, Joel descubre que es cada vez más difícil abandonar la ciudad a la que inconscientemente ha llegado. Todo se complica por la presencia de Maggie O'Connell, alcaldesa de Cicely y piloto de la localidad, una mujer hermosa pero completamente independiente; ambientado todo ello por el musical y filosófico programa de radio presentado por Chris en la KBHR.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/ez9UChG1dPlPL3osQyi9fpBjTSD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5tGYbT3irV4ZuO7M65HewlVT6fx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/98k2unYRV6GRUE0icVSSZdl4vr9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eoJzvdmYc8lLtMy4fCQqoSqMzKX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vh32bAnMKtRAaBRqKnrtuXhuHhb.png"
+    },
+    {
+      "id": "tmdb:61457",
+      "type": "series",
+      "name": "Grantchester",
+      "ids": {
+        "tmdb": 61457
+      },
+      "overview": "Adaptación de los libros de James Runcie. Esta serie nos lleva a 1953 al  pueblo de ‘Grantchester’, donde el sacerdote Sidney Chambers se pone a  investigar los asesinatos de sus feligreses y no sólo de los suyos, con  ayuda del detective Geordie Keating.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8fH8WEAs8gLJmfrdaTZ8zCrLk28.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gnMKm2WWD263IIAnfN6cCG2fpz3.png"
     },
     {
       "id": "tmdb:13881",
@@ -183,20 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/6XR9NSDWhDu5lwOs1CrFaHwEOii.png"
     },
     {
-      "id": "tmdb:61457",
-      "type": "series",
-      "name": "Grantchester",
-      "ids": {
-        "tmdb": 61457
-      },
-      "overview": "Adaptación de los libros de James Runcie. Esta serie nos lleva a 1953 al  pueblo de ‘Grantchester’, donde el sacerdote Sidney Chambers se pone a  investigar los asesinatos de sus feligreses y no sólo de los suyos, con  ayuda del detective Geordie Keating.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8fH8WEAs8gLJmfrdaTZ8zCrLk28.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gnMKm2WWD263IIAnfN6cCG2fpz3.png"
-    },
-    {
       "id": "tmdb:3902",
       "type": "series",
       "name": "La oveja Shaun",
@@ -225,18 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/h9WkhMeQwyFQYM8MTJnNMicgMz2.png"
     },
     {
-      "id": "tmdb:53721",
+      "id": "tmdb:35753",
       "type": "series",
-      "name": "Love Live!",
+      "name": "Zero no Tsukaima",
       "ids": {
-        "tmdb": 53721
+        "tmdb": 35753
       },
-      "overview": "Centrada en la Preparatoria Otonokizaka, la cual esta en riesgo de cerrarse debido al numero reducido de estudiantes. Para evitarlo, nueve chicas se volveran idols para promocionar su escuela.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/xEAZIGmMuBVR3japyKHz9QgxEmr.jpg",
+      "overview": "Louise Françoise Le Blanc de La Vallière es una miembro de la nobleza que es terrible en la magia, ya que sus intentos suelen resultar en una explosión. Sus compañeros la apodan «Louise the Zero», debido a su incapacidad para usar cualquiera de los cuatro elementos mágicos. En la Academia de Magia de Tristain, los estudiantes de segundo año realizan un ritual especial en el que convocan a su familiar , que sirve como su compañero, protector y socio eterno, y generalmente es algún tipo de criatura mágica. Pero Louise convoca a Saito Hiraga, un adolescente normal de Japón, dejándola totalmente humillada.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/2rSW3WCKq536pPi5EqXen9lyo5L.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9fvkROGBTlJN3Fppqdm93lqJE8o.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hyTrcFapBEfT3lRWnRgovhOCoC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qanOpDgNgDDnY74roX0sw3crrYQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ysVbUQQMgTx1EETfytGfkNh52z.png"
     },
     {
       "id": "tmdb:25707",
@@ -253,45 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tKhdwK9EEllVcwFbAQANzeXphuI.png"
     },
     {
-      "id": "tmdb:41252",
+      "id": "tmdb:53721",
       "type": "series",
-      "name": "Los Fruittis",
+      "name": "Love Live!",
       "ids": {
-        "tmdb": 41252
+        "tmdb": 53721
       },
-      "overview": "Está ambientada en una isla con un gran volcán donde hay una aldea en la que viven una comunidad de frutas, frutos secos, vegetales, legumbres y plantas. Esta comunidad vive tranquila en su aldea hasta que comienzan las sacudidas que produce el volcán, es entonces cuando Mochilo, Gazpacho y Pincho emprenden camino en busca de un nuevo volcán donde pueda vivir la aldea. En su aventura encontrarán a Kumba. En cada aventura los personajes resuelven sus problemas en base al compañerismo y la amistad a pesar de sus diferencias.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/bSemLhZADYHUowPRpj9iz2H6tWv.jpg",
+      "overview": "Centrada en la Preparatoria Otonokizaka, la cual esta en riesgo de cerrarse debido al numero reducido de estudiantes. Para evitarlo, nueve chicas se volveran idols para promocionar su escuela.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/xEAZIGmMuBVR3japyKHz9QgxEmr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5Sl1d39NwpfA0ethCLtFIlmS9p6.jpg"
-    },
-    {
-      "id": "tmdb:35753",
-      "type": "series",
-      "name": "Zero no Tsukaima",
-      "ids": {
-        "tmdb": 35753
-      },
-      "overview": "Louise Françoise Le Blanc de La Vallière es una miembro de la nobleza que es terrible en la magia, ya que sus intentos suelen resultar en una explosión. Sus compañeros la apodan «Louise the Zero», debido a su incapacidad para usar cualquiera de los cuatro elementos mágicos. En la Academia de Magia de Tristain, los estudiantes de segundo año realizan un ritual especial en el que convocan a su familiar , que sirve como su compañero, protector y socio eterno, y generalmente es algún tipo de criatura mágica. Pero Louise convoca a Saito Hiraga, un adolescente normal de Japón, dejándola totalmente humillada.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/2rSW3WCKq536pPi5EqXen9lyo5L.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qanOpDgNgDDnY74roX0sw3crrYQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ysVbUQQMgTx1EETfytGfkNh52z.png"
-    },
-    {
-      "id": "tmdb:216074",
-      "type": "series",
-      "name": "Ririsa, una chica en 2.5D",
-      "ids": {
-        "tmdb": 216074
-      },
-      "overview": "Cuando la cosplayer Ririsa se une al club de manga de Okumura, la línea entre 2D y 3D se difumina cuando ella le pide que sea su fotógrafo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/weUKy8WjbHNxMnT6mExIqGcEgNV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1POofFLK6QG6FF4MqRy9MRgt3GH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9fvkROGBTlJN3Fppqdm93lqJE8o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyTrcFapBEfT3lRWnRgovhOCoC.png"
     },
     {
       "id": "tmdb:92621",
@@ -308,6 +267,19 @@
       "logo": "https://image.tmdb.org/t/p/w500/A8zX6xxfAgiydGtof3H9hv58lgS.png"
     },
     {
+      "id": "tmdb:41252",
+      "type": "series",
+      "name": "Los Fruittis",
+      "ids": {
+        "tmdb": 41252
+      },
+      "overview": "Está ambientada en una isla con un gran volcán donde hay una aldea en la que viven una comunidad de frutas, frutos secos, vegetales, legumbres y plantas. Esta comunidad vive tranquila en su aldea hasta que comienzan las sacudidas que produce el volcán, es entonces cuando Mochilo, Gazpacho y Pincho emprenden camino en busca de un nuevo volcán donde pueda vivir la aldea. En su aventura encontrarán a Kumba. En cada aventura los personajes resuelven sus problemas en base al compañerismo y la amistad a pesar de sus diferencias.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/bSemLhZADYHUowPRpj9iz2H6tWv.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5Sl1d39NwpfA0ethCLtFIlmS9p6.jpg"
+    },
+    {
       "id": "tmdb:7011",
       "type": "series",
       "name": "Berni",
@@ -322,18 +294,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/1IhTVXMZg6SxqFzcZuXbWlHLBfZ.png"
     },
     {
-      "id": "tmdb:243140",
+      "id": "tmdb:216074",
       "type": "series",
-      "name": "¡Oye, Tonbo!",
+      "name": "Ririsa, una chica en 2.5D",
       "ids": {
-        "tmdb": 243140
+        "tmdb": 216074
       },
-      "overview": "Igarashi abandonó su pasado y se refugió en las tranquilas islas Tokara de la prefectura de Kagoshima. En la isla Hinoshima, conocida como «la última región inexplorada de Japón», conoce a Tonbo, la única estudiante de secundaria de la isla. Para su sorpresa, ¡esta chica alberga un extraordinario talento para el golf! Este encuentro marca un cambio drástico en el destino de ambos.",
+      "overview": "Cuando la cosplayer Ririsa se une al club de manga de Okumura, la línea entre 2D y 3D se difumina cuando ella le pide que sea su fotógrafo.",
       "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/72zHVHKaIbcrc5g5fh0ltStD3hT.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/weUKy8WjbHNxMnT6mExIqGcEgNV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dujyzIuYx2yDkprgHNt4WZMw6na.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fgQmNizTn7M8yXd8k1aAy9EYxLt.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kI0e1DQiL6Cy2ykPlw5BpEtCayO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1POofFLK6QG6FF4MqRy9MRgt3GH.png"
+    },
+    {
+      "id": "tmdb:658",
+      "type": "series",
+      "name": "The Singing Detective",
+      "ids": {
+        "tmdb": 658
+      },
+      "overview": "Tormented and bedridden by a debilitating disease, a mystery writer relives his detective stories through his imagination and hallucinations.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/1xUAh6d239ABRU8KiTqXOijNPuJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2slV9gF3070EIRA45SODHnIYsEe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sRx05p9u8l8nwnjIdQMc0OcMmKW.png"
     },
     {
       "id": "tmdb:16047",
@@ -364,18 +350,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/4MsrBlqhYrrRZFVO5sIaMNBMd71.png"
     },
     {
-      "id": "tmdb:74781",
+      "id": "tmdb:62474",
       "type": "series",
-      "name": "La Maison des bois",
+      "name": "Hotel El Balneario",
       "ids": {
-        "tmdb": 74781
+        "tmdb": 62474
       },
-      "overview": "During World War One, in a small rural French village far away from the front, a gamekeeper and his wife take in children displaced by the war.",
-      "year": 1971,
-      "poster": "https://image.tmdb.org/t/p/w342/lkcUWPsN4LARTdW8QgwUTa8RHEm.jpg",
+      "overview": "Badehotellet es la historia de los clientes y el personal de un hotel de playa del Mar del Norte. En el corazón de la historia es la vida de tres jóvenes, la camarera Fie, la hija del comerciante Amanda, y los pescadores locales. Sus destinos están entrelazados, y sus historias son de emanciparse de los planes de otras personas han hecho en su nombre, los intentos de ascenso social y encontrar el camino. La serie está inspirada en la forma de vida en los muchos hoteles de la costa del pasado, y refleja nuestro propio tiempo con su mezcla de crisis financiera, la negación, y los sueños de felicidad. La historia tiene lugar en los años 1928-33, donde el mundo se cae a pedazos. Los personajes pasarán a través de las lágrimas y la risa en el cautivador viaje que se lleva a cabo como cambian los tiempos del optimismo a la crisis. PEPECINE.NET",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/wt7TWX8ZMPwrgDtsAhpiIva6bFl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/blwFi4IKQSil0s5eLxyTaBnJXxR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tDrWM7U7TSOW7DYK0pckBdQ8iSz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/nyOwvusU03IsfxaxEYWoZWl3i2W.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xVyEMbD0MVxUVeM6g3NIb38PcNs.png"
+    },
+    {
+      "id": "tmdb:243140",
+      "type": "series",
+      "name": "¡Oye, Tonbo!",
+      "ids": {
+        "tmdb": 243140
+      },
+      "overview": "Igarashi abandonó su pasado y se refugió en las tranquilas islas Tokara de la prefectura de Kagoshima. En la isla Hinoshima, conocida como «la última región inexplorada de Japón», conoce a Tonbo, la única estudiante de secundaria de la isla. Para su sorpresa, ¡esta chica alberga un extraordinario talento para el golf! Este encuentro marca un cambio drástico en el destino de ambos.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/72zHVHKaIbcrc5g5fh0ltStD3hT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dujyzIuYx2yDkprgHNt4WZMw6na.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fgQmNizTn7M8yXd8k1aAy9EYxLt.png"
     },
     {
       "id": "tmdb:46105",
@@ -398,40 +398,12 @@
       "ids": {
         "tmdb": 62914
       },
-      "overview": "He’s surly, unorthodox, unapologetically blunt, and he’s about to change your life. Meet the new philosophy teacher, Merlí, who will help his students view the world in a whole new light, both in and out of the classroom.",
+      "overview": "Merlí es un profesor de una materia denostada y apreciada a partes iguales, filosofía. Un tipo contradictorio, y con virtudes y defectos a la par. La producción se centra en la relación del maestro con sus alumnos y, sobre todo, en «los conflictos entre padres e hijos, estudiantes y profesores...»",
       "year": 2015,
       "poster": "https://image.tmdb.org/t/p/w342/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/nElVHpGzdKCh6y4o2JkKV0VJhiy.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jieL5y5EGuaAGUyTvWWjzdZfGuN.png"
-    },
-    {
-      "id": "tmdb:62474",
-      "type": "series",
-      "name": "Hotel El Balneario",
-      "ids": {
-        "tmdb": 62474
-      },
-      "overview": "Badehotellet es la historia de los clientes y el personal de un hotel de playa del Mar del Norte. En el corazón de la historia es la vida de tres jóvenes, la camarera Fie, la hija del comerciante Amanda, y los pescadores locales. Sus destinos están entrelazados, y sus historias son de emanciparse de los planes de otras personas han hecho en su nombre, los intentos de ascenso social y encontrar el camino. La serie está inspirada en la forma de vida en los muchos hoteles de la costa del pasado, y refleja nuestro propio tiempo con su mezcla de crisis financiera, la negación, y los sueños de felicidad. La historia tiene lugar en los años 1928-33, donde el mundo se cae a pedazos. Los personajes pasarán a través de las lágrimas y la risa en el cautivador viaje que se lleva a cabo como cambian los tiempos del optimismo a la crisis. PEPECINE.NET",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/wt7TWX8ZMPwrgDtsAhpiIva6bFl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nyOwvusU03IsfxaxEYWoZWl3i2W.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xVyEMbD0MVxUVeM6g3NIb38PcNs.png"
-    },
-    {
-      "id": "tmdb:214264",
-      "type": "series",
-      "name": "Kizuna no Allele",
-      "ids": {
-        "tmdb": 214264
-      },
-      "overview": "En el mundo virtual, puedes ser cualquiera. ¡Y para Miracle, su sueño es ser una artista virtual famosa! Miracle asiste a la Academia ADEN, donde aprende nuevos talentos para prepararla para su gran debut. Aunque es un poco torpe, está decidida a seguir los pasos de su ídolo: el legendario VTuber, Kizuna AI. Con dedicación y la ayuda de sus amigos, ¡su sueño podría hacerse realidad!",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/3wwJZ1LDe6aHHmchqAkS9LfmOZy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l45Jvzib9TKHxMaa4cQx4bQHAI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cK8okwyg2wDHNP0l0IowryvIG4A.png"
     },
     {
       "id": "tmdb:65708",
@@ -448,6 +420,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/5aorUFo7DoAQusNW2ltFq9vrpS3.png"
     },
     {
+      "id": "tmdb:24106",
+      "type": "series",
+      "name": "Campeones hacia el Mundial: Oliver y Benji",
+      "ids": {
+        "tmdb": 24106
+      },
+      "overview": "Tras haber ganado el campeonato del mundo sub19, Tsubasa Ozora pide la mano de su gran amiga, Sanae, quien no se lo piensa mucho y acepta. También ha sido fichado por el Barcelona F.C., mientras que los demás se van a distintos equipos profesionales, como Hyuga, que se va al Juventus, o Wabayashi, quien se va al Hamburgo... Los demás se reparten en toda la J-League.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/vN3UriDKOYWSPMOeodgHOqUBUJZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9qocd8l77UllzHt9uR7rohfEiKx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/v6wwIqlmbOyx68vl6KYaOB3jOFx.png"
+    },
+    {
       "id": "tmdb:13734",
       "type": "series",
       "name": "Pocket Dragon Adventures",
@@ -461,60 +447,46 @@
       "backdrop": "https://image.tmdb.org/t/p/original/iQmwhPr0cGBQii8wzVUc6MoiXvJ.jpg"
     },
     {
-      "id": "tmdb:24106",
+      "id": "tmdb:74781",
       "type": "series",
-      "name": "Captain Tsubasa: Road to 2002",
+      "name": "La Maison des bois",
       "ids": {
-        "tmdb": 24106
+        "tmdb": 74781
       },
-      "overview": "Tsubasa becomes a superstar amongst soccer players in Brazil. He is now planning to play in Europe. At an important must-win game, as the fans cheer him on, Tsubasa looks back at the days when he started his soccer life. His passion to make goals and win the game is as strong as it was during his childhood. He recalls the games and moments that had decisive impact on his life. He remembers Goalkeeper Wakabayashi, Genius striker Hyuga, tender-hearted Misaki and Coach Roberto. He was happy to meet them, enjoyed playing with them, and learned many things from them. The whistle sounds and the game begins. Tsubasa dashes for the ball!",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/vN3UriDKOYWSPMOeodgHOqUBUJZ.jpg",
+      "overview": "During World War One, in a small rural French village far away from the front, a gamekeeper and his wife take in children displaced by the war.",
+      "year": 1971,
+      "poster": "https://image.tmdb.org/t/p/w342/lkcUWPsN4LARTdW8QgwUTa8RHEm.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9qocd8l77UllzHt9uR7rohfEiKx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/v6wwIqlmbOyx68vl6KYaOB3jOFx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/blwFi4IKQSil0s5eLxyTaBnJXxR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tDrWM7U7TSOW7DYK0pckBdQ8iSz.png"
     },
     {
-      "id": "tmdb:20053",
+      "id": "tmdb:214264",
       "type": "series",
-      "name": "Los hombres de Smiley",
+      "name": "Kizuna no Allele",
       "ids": {
-        "tmdb": 20053
+        "tmdb": 214264
       },
-      "overview": "Seis episodios que continúa la miniserie \"Calderero, sastre, soldado, espía\" de la BBC. Cuando un importante agente del Servicio Secreto británico es asesinado, George Smiley vuelve al servicio activo para acabar con los fantasmas de la Guerra Fría. Mientras el rompecabezas del pasado empieza a mostrar sus secretos, una cadena de pistas conduce a Smiley al final de su carrera y a la batalla definitiva contra su gran rival, el enigmático espía soviético Karla.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/4Qo7Y2CYe5EEp2TTmiUduxaWAQg.jpg",
+      "overview": "En el mundo virtual, puedes ser cualquiera. ¡Y para Miracle, su sueño es ser una artista virtual famosa! Miracle asiste a la Academia ADEN, donde aprende nuevos talentos para prepararla para su gran debut. Aunque es un poco torpe, está decidida a seguir los pasos de su ídolo: el legendario VTuber, Kizuna AI. Con dedicación y la ayuda de sus amigos, ¡su sueño podría hacerse realidad!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/3wwJZ1LDe6aHHmchqAkS9LfmOZy.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b07jAVj5YPWGQ4E0JXJpJWTmEYy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tA0LpVnfUlRHq6Nz6LVP5E9tZ0C.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/l45Jvzib9TKHxMaa4cQx4bQHAI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cK8okwyg2wDHNP0l0IowryvIG4A.png"
     },
     {
       "id": "tmdb:29452",
       "type": "series",
-      "name": "Heidi: Girl of the Alps",
+      "name": "Heidi",
       "ids": {
         "tmdb": 29452
       },
-      "overview": "After becoming an orphan, Heidi is forced to live with her grandfather, who lives in the Alps. She learns he's a very bitter man who only accepted by force to take her in. But Heidi's kindness may be able to open his heart. Together with her friends Peter and Clara, she goes on lots of adventures.",
+      "overview": "Las aventuras de Heidi comienzan cuando la niña es enviada a vivir con su abuelito, un viejo gruñón que vive en los Alpes suizos. Poco a poco, el anciano le va cogiendo cariño a su nieta, que vive innumerables aventuras con sus amigos, Pedro y Clara, el perro Niebla y la pequeña cabra Copito de Nieve.",
       "year": 1974,
       "poster": "https://image.tmdb.org/t/p/w342/q0WtdvwCo9OMGR840jxcoTSQk.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cafsMt9cQlaRCNVqf5KXtTUQP6V.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/3EmQDSETXrYEAJ646jLglGurYvs.png"
-    },
-    {
-      "id": "tmdb:90447",
-      "type": "series",
-      "name": "Hotel del Luna",
-      "ids": {
-        "tmdb": 90447
-      },
-      "overview": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/a0XrZI6BuXGa0t0Y0M0DJS5b7Bg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cgnP8hb3NrQQSjOtSRBGpDO4yug.png"
     },
     {
       "id": "tmdb:11279",
@@ -531,20 +503,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/3siDplIEzv3Is4xouxX19VaVspt.png"
     },
     {
-      "id": "tmdb:19521",
-      "type": "series",
-      "name": "El maravilloso viaje de Nils Holgersson",
-      "ids": {
-        "tmdb": 19521
-      },
-      "overview": "Las divertidas aventuras de Nils Holgersson, un travieso muchacho que va a emprender un fabuloso viaje por los cielos, tierras y mares de la hermosa Suecia, del cual habrá de regresar muy cambiado por fuera y, sobre todo, por dentro. Magia y aventura, sueños y leyenda, paisajes maravillosos y animales extraordinarios, sensaciones de altura, velocidad, poder y libertad. Todo en esta producción animada por el prestigioso estudio de animación, el Studio Pierrot.",
-      "year": 1980,
-      "poster": "https://image.tmdb.org/t/p/w342/psIEYGliWH1quWZrKp92DJjtlvA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wreYhZYOxnTi3g2WYCHafdeggKo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ujoDKmBwSvyrZcqSTU9XNeLK0ex.png"
-    },
-    {
       "id": "tmdb:137127",
       "type": "series",
       "name": "Dalgliesh",
@@ -557,47 +515,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/z8MWmkyThfPvcK7d7G626W7PKF4.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/dAksiH9lOAZp9PyHRk3HteThHvk.png"
-    },
-    {
-      "id": "tmdb:64840",
-      "type": "series",
-      "name": "Señal",
-      "ids": {
-        "tmdb": 64840
-      },
-      "overview": "Signal: El pasado y el presente se fusionan a través de un potente walkie-talkie. Park Hae Young (Lee Je Hoon) es un teniente de policía experto en perfiles criminales. Hae Young entró a trabajar como policía a pesar de de desconfiar profundamente de ellos luego de un evento traumático en su niñez. Cuando él era niño, su amiga Yoon Jung fue secuestrada y posteriormente la encontraron muerta. Hae Young miró a una mujer recoger a Yoon Jung en la escuela el día en que ella desapareció, pero los policías no le creyeron y determinaron que un hombre se la había llevado. El caso sigue sin ser resuelto hasta el día de hoy. Ahora, Hae Young trabaja en la misma estación de policía donde él trató de que los investigadores le creyeran cuando era niño, entonces un día sale de la estación y escucha que alguien le habla, mira a su alrededor y encuentra un walkie-talkie donde se escucha la voz del detective Lee Jae Han (Cho Jin Woong) que lo llama. Pero Jae Han pertenece a varias décadas atrás y está investigando la muerte de Yoon Jung, la amiga de Young. Cha Soo Hyun (Kim Hye Soo) era un novato en la época de Jae Han y ahora es un experimentado detective. ¿Podrá este inesperado trío trabajar conjuntamente para solucionar antiguos casos sin resolver comunicándose a través del walkie-talkie?",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zMVcQIAAAyBgJNEZ4EY2gkd4HCJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png"
-    },
-    {
-      "id": "tmdb:658",
-      "type": "series",
-      "name": "The Singing Detective",
-      "ids": {
-        "tmdb": 658
-      },
-      "overview": "Tormented and bedridden by a debilitating disease, a mystery writer relives his detective stories through his imagination and hallucinations.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/1xUAh6d239ABRU8KiTqXOijNPuJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2slV9gF3070EIRA45SODHnIYsEe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sRx05p9u8l8nwnjIdQMc0OcMmKW.png"
-    },
-    {
-      "id": "tmdb:11988",
-      "type": "series",
-      "name": "Cimarron",
-      "ids": {
-        "tmdb": 11988
-      },
-      "overview": "Aventuras del sheriff Jim Crown que impone la ley en Cimarron Strip, una región desértica entre Kansas y Oklahoma habitada por granjeros que limita con territorio indio. Siempre a su lado dispuestos a ayudarle están Mac Gregor, su ayudante y Francis Wilde, un joven fotógrafo.",
-      "year": 1967,
-      "poster": "https://image.tmdb.org/t/p/w342/mUoY0LW5VGsX9ZjvjMGqGpPWkVZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Plb553aDScLgQlkbJ0ZUo95VFn.jpg"
     },
     {
       "id": "tmdb:218351",
@@ -614,18 +531,31 @@
       "logo": "https://image.tmdb.org/t/p/w500/bcScLzf14GB077rVCPaSI7jTJGH.png"
     },
     {
-      "id": "tmdb:68435",
+      "id": "tmdb:11988",
       "type": "series",
-      "name": "Skylanders Academy",
+      "name": "Cimarron",
       "ids": {
-        "tmdb": 68435
+        "tmdb": 11988
       },
-      "overview": "Serie animada sobre un disparejo grupo de héroes recién graduados que se aventuran en el vasto universo para proteger al mundo del mal.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/jh1RVeQaiT9qjWYm6DOyWkotnd9.jpg",
+      "overview": "Aventuras del sheriff Jim Crown que impone la ley en Cimarron Strip, una región desértica entre Kansas y Oklahoma habitada por granjeros que limita con territorio indio. Siempre a su lado dispuestos a ayudarle están Mac Gregor, su ayudante y Francis Wilde, un joven fotógrafo.",
+      "year": 1967,
+      "poster": "https://image.tmdb.org/t/p/w342/mUoY0LW5VGsX9ZjvjMGqGpPWkVZ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4Lgk1eAW1w1ch76cagXfxABbHA7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTDQ2R8DKgrsk9L0B0aNG1R0n50.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9Plb553aDScLgQlkbJ0ZUo95VFn.jpg"
+    },
+    {
+      "id": "tmdb:64840",
+      "type": "series",
+      "name": "Señal",
+      "ids": {
+        "tmdb": 64840
+      },
+      "overview": "Signal: El pasado y el presente se fusionan a través de un potente walkie-talkie. Park Hae Young (Lee Je Hoon) es un teniente de policía experto en perfiles criminales. Hae Young entró a trabajar como policía a pesar de de desconfiar profundamente de ellos luego de un evento traumático en su niñez. Cuando él era niño, su amiga Yoon Jung fue secuestrada y posteriormente la encontraron muerta. Hae Young miró a una mujer recoger a Yoon Jung en la escuela el día en que ella desapareció, pero los policías no le creyeron y determinaron que un hombre se la había llevado. El caso sigue sin ser resuelto hasta el día de hoy. Ahora, Hae Young trabaja en la misma estación de policía donde él trató de que los investigadores le creyeran cuando era niño, entonces un día sale de la estación y escucha que alguien le habla, mira a su alrededor y encuentra un walkie-talkie donde se escucha la voz del detective Lee Jae Han (Cho Jin Woong) que lo llama. Pero Jae Han pertenece a varias décadas atrás y está investigando la muerte de Yoon Jung, la amiga de Young. Cha Soo Hyun (Kim Hye Soo) era un novato en la época de Jae Han y ahora es un experimentado detective. ¿Podrá este inesperado trío trabajar conjuntamente para solucionar antiguos casos sin resolver comunicándose a través del walkie-talkie?",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zMVcQIAAAyBgJNEZ4EY2gkd4HCJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png"
     },
     {
       "id": "tmdb:37183",
@@ -642,32 +572,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/6osI1ji6nluUPjnKdIj0TzVQol6.png"
     },
     {
-      "id": "tmdb:251597",
+      "id": "tmdb:19521",
       "type": "series",
-      "name": "Bookish",
+      "name": "El maravilloso viaje de Nils Holgersson",
       "ids": {
-        "tmdb": 251597
+        "tmdb": 19521
       },
-      "overview": "En el Londres de 1946, hay una librería que lleva el nombre de su excéntrico propietario: Book. Antiguo espía militar reconvertido en detective poco convencional, Gabriel Book (Mark Gatiss) disfruta ayudando a la policía a resolver sus casos más complejos. Cuando Jack, un joven con un pasado como exconvicto, es enviado a trabajar a la librería, no tarda en sospechar que su llegada no fue en absoluto casual. ¿Podría estar su pasado irremediablemente entrelazado?",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
+      "overview": "Las divertidas aventuras de Nils Holgersson, un travieso muchacho que va a emprender un fabuloso viaje por los cielos, tierras y mares de la hermosa Suecia, del cual habrá de regresar muy cambiado por fuera y, sobre todo, por dentro. Magia y aventura, sueños y leyenda, paisajes maravillosos y animales extraordinarios, sensaciones de altura, velocidad, poder y libertad. Todo en esta producción animada por el prestigioso estudio de animación, el Studio Pierrot.",
+      "year": 1980,
+      "poster": "https://image.tmdb.org/t/p/w342/psIEYGliWH1quWZrKp92DJjtlvA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h0nkCUMCjYEGpDJfe0n4pRx7gLk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jqh8ArccrJZR5l70T90skCgvwYW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wreYhZYOxnTi3g2WYCHafdeggKo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ujoDKmBwSvyrZcqSTU9XNeLK0ex.png"
     },
     {
-      "id": "tmdb:155243",
+      "id": "tmdb:68435",
       "type": "series",
-      "name": "Sherwood",
+      "name": "Skylanders Academy",
       "ids": {
-        "tmdb": 155243
+        "tmdb": 68435
       },
-      "overview": "Dos asesinatos destrozan una comunidad ya fracturada que conduce a una de las mayores persecuciones en la historia británica y amenazan con inflamar las divisiones históricas provocadas durante la huelga de mineros tres décadas antes.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/rxjrfxGVzLNqvi4GSi7wuAGcJWg.jpg",
+      "overview": "Serie animada sobre un disparejo grupo de héroes recién graduados que se aventuran en el vasto universo para proteger al mundo del mal.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/jh1RVeQaiT9qjWYm6DOyWkotnd9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ipAhFdSnD6ER57xwWABU0v32gua.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ivbGQRs6HIaAUfgLSMSqVAsQo0p.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4Lgk1eAW1w1ch76cagXfxABbHA7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTDQ2R8DKgrsk9L0B0aNG1R0n50.png"
+    },
+    {
+      "id": "tmdb:90447",
+      "type": "series",
+      "name": "Hotel del Luna",
+      "ids": {
+        "tmdb": 90447
+      },
+      "overview": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/a0XrZI6BuXGa0t0Y0M0DJS5b7Bg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cgnP8hb3NrQQSjOtSRBGpDO4yug.png"
     },
     {
       "id": "tmdb:8853",
@@ -684,6 +628,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/yloKLgeYHRgc9tS931Odx0VPTfp.png"
     },
     {
+      "id": "tmdb:251597",
+      "type": "series",
+      "name": "Bookish",
+      "ids": {
+        "tmdb": 251597
+      },
+      "overview": "En el Londres de 1946, hay una librería que lleva el nombre de su excéntrico propietario: Book. Antiguo espía militar reconvertido en detective poco convencional, Gabriel Book (Mark Gatiss) disfruta ayudando a la policía a resolver sus casos más complejos. Cuando Jack, un joven con un pasado como exconvicto, es enviado a trabajar a la librería, no tarda en sospechar que su llegada no fue en absoluto casual. ¿Podría estar su pasado irremediablemente entrelazado?",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/9StiB7RgLunR7EcMM3i6C9yCUou.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h0nkCUMCjYEGpDJfe0n4pRx7gLk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jqh8ArccrJZR5l70T90skCgvwYW.png"
+    },
+    {
       "id": "tmdb:245204",
       "type": "series",
       "name": "Himitsu no AiPri",
@@ -695,6 +653,48 @@
       "poster": "https://image.tmdb.org/t/p/w342/7fodK8119NeyY15MRJXMnd9nfAu.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kNAVW7Keeu9bWokG12wDGBTuqxC.jpg"
+    },
+    {
+      "id": "tmdb:155243",
+      "type": "series",
+      "name": "Sherwood",
+      "ids": {
+        "tmdb": 155243
+      },
+      "overview": "Dos asesinatos destrozan una comunidad ya fracturada que conduce a una de las mayores persecuciones en la historia británica y amenazan con inflamar las divisiones históricas provocadas durante la huelga de mineros tres décadas antes.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/rxjrfxGVzLNqvi4GSi7wuAGcJWg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ipAhFdSnD6ER57xwWABU0v32gua.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ivbGQRs6HIaAUfgLSMSqVAsQo0p.png"
+    },
+    {
+      "id": "tmdb:306603",
+      "type": "series",
+      "name": "Gone",
+      "ids": {
+        "tmdb": 306603
+      },
+      "overview": "Cuando la esposa de un director de escuela desaparece, las sospechas recaen sobre él. ¿Oculta algo o hay algo más en este caso de lo que parece a simple vista?",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/qnxKB5HlkAZZcyIiITIV7dAUX7u.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6j9dOlH636Fzebb8KdI5bUVIWDM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3qaV2kV5zoYcZeQDcnzgoFobu4g.png"
+    },
+    {
+      "id": "tmdb:4695",
+      "type": "series",
+      "name": "Comando G",
+      "ids": {
+        "tmdb": 4695
+      },
+      "overview": "La Batalla de los Planetas, conocida también como Comando G, es la primera adaptación animada para televisión estadounidense hecha por Sandy Frank; de la serie de anime Kagaku Ninja Tai Gatchaman que narra las aventuras de cinco jóvenes que defienden la Tierra de las amenazas del Espacio Exterior. Esta edición de la serie fue emitida en Estados Unidos en 1978, y tanto el guion como el orden de los episodios del original Gatchaman fueron alterados con una temática similar a Star Wars. También fueron dibujadas nuevas escenas como las del robot 7-Zark-7, inexistente en la versión japonesa.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/6RegsHHJC0oSFnVdvQ5AC9R6MrM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mbeAyto0R5WxAkx7WPMBRX4Yn9x.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d6KeTavWCiaShugh9I6uuJcbxNR.png"
     }
   ]
 }
