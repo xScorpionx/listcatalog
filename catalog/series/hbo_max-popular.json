@@ -29,6 +29,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
     },
     {
+      "id": "tmdb:95350",
+      "type": "series",
+      "name": "Linternas",
+      "ids": {
+        "tmdb": 95350
+      },
+      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hAZrcIzgk3MGwDo4mwrHfqNi16h.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png"
+    },
+    {
       "id": "tmdb:1622",
       "type": "series",
       "name": "Sobrenatural",
@@ -57,18 +71,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png"
     },
     {
-      "id": "tmdb:95350",
+      "id": "tmdb:1668",
       "type": "series",
-      "name": "Linternas",
+      "name": "Friends",
       "ids": {
-        "tmdb": 95350
+        "tmdb": 1668
       },
-      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "overview": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hAZrcIzgk3MGwDo4mwrHfqNi16h.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
     },
     {
       "id": "tmdb:60625",
@@ -85,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
-      "id": "tmdb:1668",
-      "type": "series",
-      "name": "Friends",
-      "ids": {
-        "tmdb": 1668
-      },
-      "overview": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3OvgTWCAzAegqCxRIpew157keIy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yk1Xj2CdDYtRZfFIDWSvWIXU7WS.png"
-    },
-    {
       "id": "tmdb:34307",
       "type": "series",
       "name": "Shameless",
@@ -111,6 +111,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
+    },
+    {
+      "id": "tmdb:31132",
+      "type": "series",
+      "name": "Historias corrientes",
+      "ids": {
+        "tmdb": 31132
+      },
+      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/8SilP8b7SspS3zYPoP8iCHzRTKP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/boI87jYfFcvmxWUE6own4KU7Vux.png"
     },
     {
       "id": "tmdb:1398",
@@ -141,62 +155,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/A4wW4sa1PIPnOTrPoGkjIXoPcSF.png"
     },
     {
-      "id": "tmdb:31132",
-      "type": "series",
-      "name": "Historias corrientes",
-      "ids": {
-        "tmdb": 31132
-      },
-      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/8SilP8b7SspS3zYPoP8iCHzRTKP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/boI87jYfFcvmxWUE6own4KU7Vux.png"
-    },
-    {
-      "id": "tmdb:124364",
-      "type": "series",
-      "name": "From",
-      "ids": {
-        "tmdb": 124364
-      },
-      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png"
-    },
-    {
-      "id": "tmdb:18165",
-      "type": "series",
-      "name": "Crónicas vampíricas",
-      "ids": {
-        "tmdb": 18165
-      },
-      "overview": "\"Crónicas Vampíricas\" cuenta la historia de dos hermanos vampiros obsesionados con la misma chica en un pequeño pueblo, donde seres sobrenaturales viven en secreto entre sus residentes.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/rKNnzmOA1REgxODY5wVe5UEr70w.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lnNiH0Tx2SpG6cG6I3WjYQZHTS6.png"
-    },
-    {
-      "id": "tmdb:250307",
-      "type": "series",
-      "name": "The Pitt",
-      "ids": {
-        "tmdb": 250307
-      },
-      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png"
-    },
-    {
       "id": "tmdb:4419",
       "type": "series",
       "name": "Real Time with Bill Maher",
@@ -211,18 +169,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
     },
     {
-      "id": "tmdb:94997",
+      "id": "tmdb:18165",
       "type": "series",
-      "name": "La casa del dragón",
+      "name": "The Vampire Diaries",
       "ids": {
-        "tmdb": 94997
+        "tmdb": 18165
       },
-      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/rKNnzmOA1REgxODY5wVe5UEr70w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eTa3O46FsLS8EsYQaARlDMIVyOF.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/AggNcNvNPHcLlV8JJubn6KJSeVP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lnNiH0Tx2SpG6cG6I3WjYQZHTS6.png"
     },
     {
       "id": "tmdb:45140",
@@ -239,6 +197,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
     },
     {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "ids": {
+        "tmdb": 124364
+      },
+      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png"
+    },
+    {
+      "id": "tmdb:250307",
+      "type": "series",
+      "name": "The Pitt",
+      "ids": {
+        "tmdb": 250307
+      },
+      "overview": "The Pitt ofrece una visión realista de los retos a los que se enfrenta el personal sanitario en los Estados Unidos de hoy, visto a través de la lente de los héroes de primera línea que trabajan en un hospital de la actualidad en Pittsburgh, Pensilvania.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/58uwPn7t9ZGZIRgzcBfxCv60GZ1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7EXiNIRwXWcan3PynZM1vd2ZyrU.png"
+    },
+    {
+      "id": "tmdb:94997",
+      "type": "series",
+      "name": "La casa del dragón",
+      "ids": {
+        "tmdb": 94997
+      },
+      "overview": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eTa3O46FsLS8EsYQaARlDMIVyOF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
+    },
+    {
       "id": "tmdb:15260",
       "type": "series",
       "name": "Hora de aventuras",
@@ -251,6 +251,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cClMEuldfG51yVnwb53bbsbwsWU.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/q2bqHG71TpLMc3EJHtaw66CsYWI.png"
+    },
+    {
+      "id": "tmdb:131378",
+      "type": "series",
+      "name": "Hora de aventuras: Fionna y Cake",
+      "ids": {
+        "tmdb": 131378
+      },
+      "overview": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jaeB5NtWZoknDKYMl3yYd85Okko.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2CB9MFbRgtTe095UALAu07m0tXo.png"
     },
     {
       "id": "tmdb:4546",
@@ -287,7 +301,7 @@
       "ids": {
         "tmdb": 1705
       },
-      "overview": "La agente del FBI Olivia Dunham y su jefe, el agente Broyles, se encargan de esclarecer fenómenos inexplicables. En sus investigaciones, cuentan con la ayuda del doctor Bishop, un científico despistado que sabe más de lo que parece, y de su hijo Peter.",
+      "overview": "FBI Special Agent Olivia Dunham, brilliant but formerly institutionalized scientist Walter Bishop and his scheming, reluctant son Peter uncover a deadly mystery involving a series of unbelievable events and realize they may be a part of a larger, more disturbing pattern that blurs the line between science fiction and technology.",
       "year": 2008,
       "poster": "https://image.tmdb.org/t/p/w342/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
       "posterShape": "poster",
@@ -309,46 +323,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
     },
     {
-      "id": "tmdb:131378",
+      "id": "tmdb:128071",
       "type": "series",
-      "name": "Hora de aventuras: Fionna y Cake",
+      "name": "Jellystone!",
       "ids": {
-        "tmdb": 131378
+        "tmdb": 128071
       },
-      "overview": "Fionna y Cake, con la ayuda del anterior Rey del Hielo, se embarcan en una aventura multiversal y en un viaje de autodescubrimiento.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/2tgXQ9NU48mNgpsEWfyVzTb2Ho8.jpg",
+      "overview": "¡Bienvenido a Jellystone!  Viaja a un pueblo mágico donde conocerás a nuevos y viejos amigos, incluidos Yogi Bear, Cindy Bear, Boo Boo y Huckleberry Hound ... y Jabberjaw y Top Cat y Snagglepuss y El Kabong y Wally Gator y Johnny Quest y Hadji y Shag Rugg  y el Capitán Cavernícola y mucho más.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/7SwSAG48QvvMy8jlAgm3LGt3VGq.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jaeB5NtWZoknDKYMl3yYd85Okko.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2CB9MFbRgtTe095UALAu07m0tXo.png"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria",
-      "ids": {
-        "tmdb": 85552
-      },
-      "overview": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
-    },
-    {
-      "id": "tmdb:69050",
-      "type": "series",
-      "name": "Riverdale",
-      "ids": {
-        "tmdb": 69050
-      },
-      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gn3jfu3KfOPH2dZ9J2ER52ZaBtL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rZihfJ1iv460wOXaZAJACug6oqp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/b20sJbPclrehxJfjFCOirG1gTWB.svg"
     },
     {
       "id": "tmdb:69478",
@@ -365,18 +351,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
     },
     {
-      "id": "tmdb:1418",
+      "id": "tmdb:4229",
       "type": "series",
-      "name": "Big Bang",
+      "name": "El laboratorio de Dexter",
       "ids": {
-        "tmdb": 1418
+        "tmdb": 4229
       },
-      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "overview": "Serie de TV (1996-2003). 4 temporadas. 78 capítulos. El laboratorio de Dexter es una serie de animación creada por Genndy Tartakovsky en 1996. La serie trata sobre un pequeño niño genio llamado Dexter, que tiene su propio laboratorio, y hace sus grandes y propios inventos, los cuales son la causa de sus aventuras (o desventuras).",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/ko0CZnMZZZm19HHWwROB05gEKyr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ky8BPG8Rl7pEZbV82NzJexYC8iX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kOsMiFpRLfLblykfTyrenHgip89.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3uD97eczEvKoGZz9aE8J6l6QVNI.png"
+    },
+    {
+      "id": "tmdb:69050",
+      "type": "series",
+      "name": "Riverdale",
+      "ids": {
+        "tmdb": 69050
+      },
+      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gn3jfu3KfOPH2dZ9J2ER52ZaBtL.png"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria",
+      "ids": {
+        "tmdb": 85552
+      },
+      "overview": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
     },
     {
       "id": "tmdb:46648",
@@ -393,18 +407,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
     },
     {
-      "id": "tmdb:4229",
+      "id": "tmdb:1940",
       "type": "series",
-      "name": "El laboratorio de Dexter",
+      "name": "Entourage: El séquito",
       "ids": {
-        "tmdb": 4229
+        "tmdb": 1940
       },
-      "overview": "Serie de TV (1996-2003). 4 temporadas. 78 capítulos. El laboratorio de Dexter es una serie de animación creada por Genndy Tartakovsky en 1996. La serie trata sobre un pequeño niño genio llamado Dexter, que tiene su propio laboratorio, y hace sus grandes y propios inventos, los cuales son la causa de sus aventuras (o desventuras).",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/ko0CZnMZZZm19HHWwROB05gEKyr.jpg",
+      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOsMiFpRLfLblykfTyrenHgip89.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3uD97eczEvKoGZz9aE8J6l6QVNI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
+    },
+    {
+      "id": "tmdb:1418",
+      "type": "series",
+      "name": "Big Bang",
+      "ids": {
+        "tmdb": 1418
+      },
+      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ky8BPG8Rl7pEZbV82NzJexYC8iX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png"
+    },
+    {
+      "id": "tmdb:709",
+      "type": "series",
+      "name": "Robot Chicken",
+      "ids": {
+        "tmdb": 709
+      },
+      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
+    },
+    {
+      "id": "tmdb:10545",
+      "type": "series",
+      "name": "True Blood (Sangre fresca)",
+      "ids": {
+        "tmdb": 10545
+      },
+      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
+    },
+    {
+      "id": "tmdb:1438",
+      "type": "series",
+      "name": "Bajo escucha",
+      "ids": {
+        "tmdb": 1438
+      },
+      "overview": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png"
+    },
+    {
+      "id": "tmdb:61175",
+      "type": "series",
+      "name": "Steven Universe",
+      "ids": {
+        "tmdb": 61175
+      },
+      "overview": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1vOPSoIEgYSyU4dS0QXyXv83jaU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
     },
     {
       "id": "tmdb:105",
@@ -435,130 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
-      "id": "tmdb:1940",
+      "id": "tmdb:124101",
       "type": "series",
-      "name": "Entourage: El séquito",
+      "name": "Hacks",
       "ids": {
-        "tmdb": 1940
+        "tmdb": 124101
       },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
-    },
-    {
-      "id": "tmdb:1438",
-      "type": "series",
-      "name": "Bajo escucha",
-      "ids": {
-        "tmdb": 1438
-      },
-      "overview": "The Wire (Bajo escucha) es una aclamada serie de televisión creada por David Simon que retrata de forma realista y cruda el narcotráfico, la policía y la sociedad de la ciudad de Baltimore.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/v5m7os416ER2a9dTE0M017KqRmZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png"
-    },
-    {
-      "id": "tmdb:287620",
-      "type": "series",
-      "name": "Stuart no consigue salvar el universo",
-      "ids": {
-        "tmdb": 287620
-      },
-      "overview": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cEUkqVK9IcoLyYkMdISqGVWQBe0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iTq5aU1mKNom15T3L6spt9cicG5.png"
-    },
-    {
-      "id": "tmdb:128071",
-      "type": "series",
-      "name": "Jellystone!",
-      "ids": {
-        "tmdb": 128071
-      },
-      "overview": "¡Bienvenido a Jellystone!  Viaja a un pueblo mágico donde conocerás a nuevos y viejos amigos, incluidos Yogi Bear, Cindy Bear, Boo Boo y Huckleberry Hound ... y Jabberjaw y Top Cat y Snagglepuss y El Kabong y Wally Gator y Johnny Quest y Hadji y Shag Rugg  y el Capitán Cavernícola y mucho más.",
+      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
       "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/7SwSAG48QvvMy8jlAgm3LGt3VGq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rZihfJ1iv460wOXaZAJACug6oqp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/b20sJbPclrehxJfjFCOirG1gTWB.svg"
-    },
-    {
-      "id": "tmdb:709",
-      "type": "series",
-      "name": "Robot Chicken",
-      "ids": {
-        "tmdb": 709
-      },
-      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
-    },
-    {
-      "id": "tmdb:95057",
-      "type": "series",
-      "name": "Superman y Lois",
-      "ids": {
-        "tmdb": 95057
-      },
-      "overview": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/totfXyBQW9zrN8aCx6wsOkJjqni.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bdkk7wEEolDCvR8LG5lfVr0ZUGR.png"
-    },
-    {
-      "id": "tmdb:10545",
-      "type": "series",
-      "name": "True Blood (Sangre fresca)",
-      "ids": {
-        "tmdb": 10545
-      },
-      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
-    },
-    {
-      "id": "tmdb:61175",
-      "type": "series",
-      "name": "Steven Universe",
-      "ids": {
-        "tmdb": 61175
-      },
-      "overview": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1vOPSoIEgYSyU4dS0QXyXv83jaU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
-    },
-    {
-      "id": "tmdb:82428",
-      "type": "series",
-      "name": "All American",
-      "ids": {
-        "tmdb": 82428
-      },
-      "overview": "Cuando un prometedor jugador de fútbol americano recibe una oferta para jugar en el Beverly Hills High, las victorias, las derrotas y las dificultades de dos familias de mundos muy diferentes, Crenshaw y Beverly Hills, chocarán.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gi7g2dU4Y7PVOEVbmOepctOTLSy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d2NcM5HOVJFzuZJuZYRKMjIBpNT.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png"
     },
     {
       "id": "tmdb:111803",
@@ -575,32 +547,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
     },
     {
-      "id": "tmdb:1274",
+      "id": "tmdb:82428",
       "type": "series",
-      "name": "A dos metros bajo tierra",
+      "name": "All American",
       "ids": {
-        "tmdb": 1274
+        "tmdb": 82428
       },
-      "overview": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
+      "overview": "Cuando un prometedor jugador de fútbol americano recibe una oferta para jugar en el Beverly Hills High, las victorias, las derrotas y las dificultades de dos familias de mundos muy diferentes, Crenshaw y Beverly Hills, chocarán.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z32N69N0Hw0SY5UbmNUGYcjP2At.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lTC5pym7p23h7PB2ZwWzCTA2JdV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gi7g2dU4Y7PVOEVbmOepctOTLSy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d2NcM5HOVJFzuZJuZYRKMjIBpNT.png"
     },
     {
-      "id": "tmdb:124101",
+      "id": "tmdb:63401",
       "type": "series",
-      "name": "Hacks",
+      "name": "Somos osos",
       "ids": {
-        "tmdb": 124101
+        "tmdb": 63401
       },
-      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
+    },
+    {
+      "id": "tmdb:287620",
+      "type": "series",
+      "name": "Stuart no consigue salvar el universo",
+      "ids": {
+        "tmdb": 287620
+      },
+      "overview": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cEUkqVK9IcoLyYkMdISqGVWQBe0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iTq5aU1mKNom15T3L6spt9cicG5.png"
+    },
+    {
+      "id": "tmdb:95057",
+      "type": "series",
+      "name": "Superman y Lois",
+      "ids": {
+        "tmdb": 95057
+      },
+      "overview": "Sigue a la periodista y al superhéroe más famosos del mundo y los cómics, como lidian con todo el estrés, las presiones y las complejidades que conlleva ser padres trabajadores en la sociedad actual.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hlMO1juHPuaiyL27BDLUcAvxmqq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/totfXyBQW9zrN8aCx6wsOkJjqni.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bdkk7wEEolDCvR8LG5lfVr0ZUGR.png"
     },
     {
       "id": "tmdb:79061",
@@ -617,20 +617,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/phlKGNxauqvdKA8YSKv5YVahHIQ.png"
     },
     {
-      "id": "tmdb:46896",
-      "type": "series",
-      "name": "Los originales",
-      "ids": {
-        "tmdb": 46896
-      },
-      "overview": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
-    },
-    {
       "id": "tmdb:2673",
       "type": "series",
       "name": "The O.C.",
@@ -645,6 +631,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/7OaoY7oonC1hnYumuYoj43YVJW3.png"
     },
     {
+      "id": "tmdb:83631",
+      "type": "series",
+      "name": "Lo que hacemos en las sombras",
+      "ids": {
+        "tmdb": 83631
+      },
+      "overview": "Ambientada en Nueva York, sigue a tres vampiros que han sido compañeros de piso durante cientos y cientos de años, y cuenta sus experiencias en ese periodo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ofvntTi2bRoJgpfpRPwudG3NPzj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xQ7ite9feBkNS74zkdMe8DCAzz6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qybdVxUZoOW21AJloBOBvTQRNot.png"
+    },
+    {
+      "id": "tmdb:37606",
+      "type": "series",
+      "name": "El asombroso mundo de Gumball",
+      "ids": {
+        "tmdb": 37606
+      },
+      "overview": "Narra las divertidas aventuras de Gumball y su peculiar familia en el idílico pueblecito de Elmore. Un papá conejo rosa de 1,95 metros, una madre que se gana la vida vendiendo arco iris, un gato azul muy torpe y una conejita con un cerebro superdotado componen la familia protagonista. No hay que olvidar a Darwin, un pez rojo que se convirtió en miembro del clan el día en que le crecieron piernas y pulmones. Así es el asombroso mundo de Gumball.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6o3Tthb72w0jyGMcwgmQfFp9KZF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
+    },
+    {
+      "id": "tmdb:1274",
+      "type": "series",
+      "name": "A dos metros bajo tierra",
+      "ids": {
+        "tmdb": 1274
+      },
+      "overview": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/z32N69N0Hw0SY5UbmNUGYcjP2At.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lTC5pym7p23h7PB2ZwWzCTA2JdV.png"
+    },
+    {
+      "id": "tmdb:46896",
+      "type": "series",
+      "name": "Los originales",
+      "ids": {
+        "tmdb": 46896
+      },
+      "overview": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
+    },
+    {
       "id": "tmdb:607",
       "type": "series",
       "name": "Las Supernenas",
@@ -657,48 +699,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/d4nFq9LOn1EdDxyhcVxNYtJu3Do.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
-    },
-    {
-      "id": "tmdb:4613",
-      "type": "series",
-      "name": "Hermanos de sangre",
-      "ids": {
-        "tmdb": 4613
-      },
-      "overview": "Miniserie de TV de 10 episodios que se basa en el bestseller de Stephen E. Ambrose \"Band Of Brothers\". Narra la historia de la Easy Company, un batallón americano del regimiento 506 de paracaidistas que luchó en Europa durante la II Guerra Mundial (1939-1945). Incluye entrevistas a los supervivientes, recuerdos de los periodistas y cartas de los soldados.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/kq9KiusAWPPITQrGovbgdhD9R1R.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/23GjGDQdMHW5C2UYwSV00fE3FNi.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lj3PdYj3gZQfPVRL2XJpcYsqvG1.png"
-    },
-    {
-      "id": "tmdb:212989",
-      "type": "series",
-      "name": "LEGO Ninjago: El renacer de los dragones",
-      "ids": {
-        "tmdb": 212989
-      },
-      "overview": "Varios reinos legendarios se han fusionado de forma repentina... e inestable. Un maestro de Spinjitzu debe entrenar a una nueva generación de héroes ninja capaces de encontrar a los Dragones Elementales: son los que pueden salvar el planeta antes de que las fuerzas del mal accedan a esa energía dracónica para aniquilar el nuevo mundo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/yxBgVqRwfpAU1wL6xsAWulIhhoL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xNNrUQFzvjy5hNm0r2nVApWoZB7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yBJr2CZoAVP5S0i2JbEtgvULFuZ.png"
-    },
-    {
-      "id": "tmdb:100088",
-      "type": "series",
-      "name": "The Last of Us",
-      "ids": {
-        "tmdb": 100088
-      },
-      "overview": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros.  Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mKcYN4yEj5uB8HIdOz4pAOsBSLJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     }
   ]
 }

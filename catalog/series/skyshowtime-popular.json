@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:2316",
-      "type": "series",
-      "name": "The Office",
-      "ids": {
-        "tmdb": 2316
-      },
-      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
-    },
-    {
       "id": "tmdb:2734",
       "type": "series",
       "name": "Ley y orden: Unidad de Víctimas Especiales",
@@ -41,6 +27,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/PqeJexSiDOHGxIQ7NyUFcmfkWA.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png"
+    },
+    {
+      "id": "tmdb:2316",
+      "type": "series",
+      "name": "The Office",
+      "ids": {
+        "tmdb": 2316
+      },
+      "overview": "Steve Carell protagoniza The Office, un fresco y divertido vistazo, con formato pseudo-documental, al día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin. El serio pero despistadísimo director Michael Scott se considera un magnífico jefe y mentor, pero realmente inspira más críticas que respeto a sus empleados.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5uwetbr0X8BPRy3Wmh63S9EhsiY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iANE2xpMlBPXqA7pvNFsl8XpZmk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
     },
     {
       "id": "tmdb:113962",
@@ -127,6 +127,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/8KvmDUZrkSsT8Yz1mSHcCzdY33p.png"
     },
     {
+      "id": "tmdb:1920",
+      "type": "series",
+      "name": "Twin Peaks",
+      "ids": {
+        "tmdb": 1920
+      },
+      "overview": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/frgw31E00tK2bYBeVjbjpHrJwyU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png"
+    },
+    {
       "id": "tmdb:80748",
       "type": "series",
       "name": "FBI",
@@ -153,20 +167,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4Lm9exndccURqjqeYoCNknD9op0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cCY5oycFyt9LrL1rRhT7y0PH5Uq.png"
-    },
-    {
-      "id": "tmdb:71789",
-      "type": "series",
-      "name": "SEAL Team",
-      "ids": {
-        "tmdb": 71789
-      },
-      "overview": "La serie sigue las vidas de los SEAL, soldados de élite de la Marina de los Estados Unidos mientras entrenan, planean y ejecutan las misiones más peligrosas y de alto riesgo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oRhJD5IYpewoZnFUzOMvuJmPiLG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rC1RHd5Qv03LYq9corF9KG2zNvb.png"
     },
     {
       "id": "tmdb:3452",
@@ -211,34 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/qh5ohhkmUPEN7ozZHtN97d9QZJO.png"
     },
     {
-      "id": "tmdb:1920",
-      "type": "series",
-      "name": "Twin Peaks",
-      "ids": {
-        "tmdb": 1920
-      },
-      "overview": "El excéntrico agente del FBI Dale Cooper llega a Twin Peaks, una pequeña población montañosa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica más popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman, el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/frgw31E00tK2bYBeVjbjpHrJwyU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5gh7PdBXI1UJ8zFLkVOoBymTw5v.png"
-    },
-    {
-      "id": "tmdb:73586",
-      "type": "series",
-      "name": "Yellowstone",
-      "ids": {
-        "tmdb": 73586
-      },
-      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/8mPGPuSx8NbSDmjABbEqlja0I96.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nuiEND7CihapgQ3OkWBLR1q5qUq.png"
-    },
-    {
       "id": "tmdb:1415",
       "type": "series",
       "name": "Elementary",
@@ -251,6 +223,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/bgcRnbcNpYm7T12ITqndHx846gw.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gk8BeMlC1ESfbNckbmYUtOUpwGF.png"
+    },
+    {
+      "id": "tmdb:71789",
+      "type": "series",
+      "name": "SEAL Team",
+      "ids": {
+        "tmdb": 71789
+      },
+      "overview": "La serie sigue las vidas de los SEAL, soldados de élite de la Marina de los Estados Unidos mientras entrenan, planean y ejecutan las misiones más peligrosas y de alto riesgo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oRhJD5IYpewoZnFUzOMvuJmPiLG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rC1RHd5Qv03LYq9corF9KG2zNvb.png"
     },
     {
       "id": "tmdb:48891",
@@ -267,6 +253,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/c4B02LhSKL6xLrI8vJ5IbLHL0Ue.png"
     },
     {
+      "id": "tmdb:73586",
+      "type": "series",
+      "name": "Yellowstone",
+      "ids": {
+        "tmdb": 73586
+      },
+      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/8mPGPuSx8NbSDmjABbEqlja0I96.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uOEkcR0dcORFLCczVBLrthO1CDQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nuiEND7CihapgQ3OkWBLR1q5qUq.png"
+    },
+    {
       "id": "tmdb:39351",
       "type": "series",
       "name": "Grimm",
@@ -279,6 +279,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aCP0HwUZHNm5SYRVZOGoDBZ1dCf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nOPg4FutzDnPdwlXMDy8hVRuJAr.png"
+    },
+    {
+      "id": "tmdb:94372",
+      "type": "series",
+      "name": "FBI: Most Wanted",
+      "ids": {
+        "tmdb": 94372
+      },
+      "overview": "El equipo especial de antifugitivos rastrea implacablemente y captura a los criminales más notorios en la lista de los más buscados de la Oficina Federal de Investigaciones (FBI).",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5t56VJzzc4pM1nTQ8A8gmGp02NO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/uMyilUty0yeyJMEkCOGtpqTj7jt.png"
     },
     {
       "id": "tmdb:1639",
@@ -309,20 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png"
     },
     {
-      "id": "tmdb:67198",
-      "type": "series",
-      "name": "Star Trek: Discovery",
-      "ids": {
-        "tmdb": 67198
-      },
-      "overview": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fDRuFtqgfAkB8BjgWeVSPAcLaD9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/71KyuHqsiZKrfhzg9AZxtX1DTRx.png"
-    },
-    {
       "id": "tmdb:4630",
       "type": "series",
       "name": "Los padrinos mágicos",
@@ -335,6 +335,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/rmzEWp2tHzGv0QG340draynJ8hL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/iQjlugxGoUlaRn3Vy7v5SsSu9iZ.png"
+    },
+    {
+      "id": "tmdb:67198",
+      "type": "series",
+      "name": "Star Trek: Discovery",
+      "ids": {
+        "tmdb": 67198
+      },
+      "overview": "La emblemática saga vuelve con una serie fresca, con nuevos personajes y una nueva nave. Su misión: explorar nuevos mundos y dar esperanzas a las futuras generaciones.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fDRuFtqgfAkB8BjgWeVSPAcLaD9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/71KyuHqsiZKrfhzg9AZxtX1DTRx.png"
     },
     {
       "id": "tmdb:62852",
@@ -351,18 +365,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/6lysbIVL2tIgzocZ2Ve1jEEICtJ.png"
     },
     {
-      "id": "tmdb:51817",
+      "id": "tmdb:2384",
       "type": "series",
-      "name": "Las Tortugas Ninja",
+      "name": "El coche fantástico",
       "ids": {
-        "tmdb": 51817
+        "tmdb": 2384
       },
-      "overview": "Cuatro hermanos tortugas entrenados en ninjutsu por su Maestro deberán defender la ciudad de Nueva York de villanos y poderosos mutantes.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/1HhyYDWo0x8H3VaRh6mg5Tm240T.jpg",
+      "overview": "Michael Knight es un detective dado por muerto que ha sido reclutado por la Fundación para la Ley y el Orden, proporcionándole un nuevo rostro bajo otra identidad. Su misión será luchar contra el crimen con la ayuda de un coche inteligente y parlanchín dotado de personalidad propia: KITT, un arma futurista de alta tecnología y gran capacidad de respuesta para enfrentar las situaciones más peligrosas. Impulsados por el deber de hacer justicia, la pareja se dedica a perseguir a aquellos criminales que actúen por encima de la ley.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/qkPGRTH4zawGUWvmT52VqbspJSd.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jeLJlJLwibzozR41SEWOzBmToHR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mWjgKUqxJbX1dm3WMkEwkyTd36Y.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pvig0WadPDb3VQVs6r4mMEroZVP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aMqlBYGE4vunYcxW85cTNNbniga.png"
     },
     {
       "id": "tmdb:68073",
@@ -379,6 +393,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yBJ4MGs2TFBIgvzVekRVecDNDo.png"
     },
     {
+      "id": "tmdb:51817",
+      "type": "series",
+      "name": "Las Tortugas Ninja",
+      "ids": {
+        "tmdb": 51817
+      },
+      "overview": "Cuatro hermanos tortugas entrenados en ninjutsu por su Maestro deberán defender la ciudad de Nueva York de villanos y poderosos mutantes.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/1HhyYDWo0x8H3VaRh6mg5Tm240T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jeLJlJLwibzozR41SEWOzBmToHR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mWjgKUqxJbX1dm3WMkEwkyTd36Y.png"
+    },
+    {
+      "id": "tmdb:954",
+      "type": "series",
+      "name": "Los casos de Rockford",
+      "ids": {
+        "tmdb": 954
+      },
+      "overview": "James Garner interpreta al poco convencional Jim Rockford, un ex convicto convertido en investigador privado que preferiría pescar que pelear, pero cuyo instinto en casos cerrados es más dorado que su clásico Pontiac Firebird. Desde su casa rodante en Malibú, este detective privado bromista te lleva a los casos de los perdidos y los desposeídos, persiguiendo pistas aparentemente muertas hace mucho tiempo en las calles calcinadas por el sol y los callejones sórdidos de Los Ángeles.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pBHPCPkZmoafHTEjbyV4q5cX0DW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h3v3gW0883DvtZd3ztl2lQyXH3G.png"
+    },
+    {
       "id": "tmdb:103516",
       "type": "series",
       "name": "Star Trek: Strange New Worlds",
@@ -391,20 +433,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
-    },
-    {
-      "id": "tmdb:94372",
-      "type": "series",
-      "name": "FBI: Most Wanted",
-      "ids": {
-        "tmdb": 94372
-      },
-      "overview": "El equipo especial de antifugitivos rastrea implacablemente y captura a los criminales más notorios en la lista de los más buscados de la Oficina Federal de Investigaciones (FBI).",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5t56VJzzc4pM1nTQ8A8gmGp02NO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/uMyilUty0yeyJMEkCOGtpqTj7jt.png"
     },
     {
       "id": "tmdb:314",
@@ -435,18 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/v2lhWorIskFunq2vwzBrtbeWuWR.png"
     },
     {
-      "id": "tmdb:2384",
+      "id": "tmdb:124101",
       "type": "series",
-      "name": "El coche fantástico",
+      "name": "Hacks",
       "ids": {
-        "tmdb": 2384
+        "tmdb": 124101
       },
-      "overview": "Michael Knight es un detective dado por muerto que ha sido reclutado por la Fundación para la Ley y el Orden, proporcionándole un nuevo rostro bajo otra identidad. Su misión será luchar contra el crimen con la ayuda de un coche inteligente y parlanchín dotado de personalidad propia: KITT, un arma futurista de alta tecnología y gran capacidad de respuesta para enfrentar las situaciones más peligrosas. Impulsados por el deber de hacer justicia, la pareja se dedica a perseguir a aquellos criminales que actúen por encima de la ley.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/qkPGRTH4zawGUWvmT52VqbspJSd.jpg",
+      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pvig0WadPDb3VQVs6r4mMEroZVP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aMqlBYGE4vunYcxW85cTNNbniga.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png"
     },
     {
       "id": "tmdb:69158",
@@ -463,18 +491,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cxbdcoeNL3nsaIaniQmrqbp2xfn.png"
     },
     {
-      "id": "tmdb:124101",
+      "id": "tmdb:126824",
       "type": "series",
-      "name": "Hacks",
+      "name": "Patricio es la estrella",
       "ids": {
-        "tmdb": 124101
+        "tmdb": 126824
       },
-      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "overview": "Siga a un Patrick Star más joven que vive en casa con su familia, donde presenta su propio programa de variedades para el vecindario desde su televisor convertido en dormitorio.",
       "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ylykz64Hon4wHSWjd7hXyQF7a9z.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/s7aGFzkC4nB234JctFCgn8XwPPV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/38Lp64x8gDVIHbJEQnvIWeh7Xm8.png"
     },
     {
       "id": "tmdb:5371",
@@ -505,20 +533,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/i2sqr3y49U2fnn9BQ2XHL51cCpX.png"
     },
     {
-      "id": "tmdb:954",
-      "type": "series",
-      "name": "Los casos de Rockford",
-      "ids": {
-        "tmdb": 954
-      },
-      "overview": "James Garner interpreta al poco convencional Jim Rockford, un ex convicto convertido en investigador privado que preferiría pescar que pelear, pero cuyo instinto en casos cerrados es más dorado que su clásico Pontiac Firebird. Desde su casa rodante en Malibú, este detective privado bromista te lleva a los casos de los perdidos y los desposeídos, persiguiendo pistas aparentemente muertas hace mucho tiempo en las calles calcinadas por el sol y los callejones sórdidos de Los Ángeles.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pBHPCPkZmoafHTEjbyV4q5cX0DW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h3v3gW0883DvtZd3ztl2lQyXH3G.png"
-    },
-    {
       "id": "tmdb:62560",
       "type": "series",
       "name": "Mr. Robot",
@@ -547,18 +561,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/tgkOkxUaRvNr3XiR1KeskGr891W.png"
     },
     {
-      "id": "tmdb:33880",
+      "id": "tmdb:61852",
       "type": "series",
-      "name": "La leyenda de Korra",
+      "name": "Henry Danger",
       "ids": {
-        "tmdb": 33880
+        "tmdb": 61852
       },
-      "overview": "Décadas después de que el Avatar Aang salvara el mundo, el nuevo Avatar, una chica de 17 años llamada Korra, se traslada a la moderna Ciudad República para entrenarse y forjar su destino.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/eMo4uWsN3qceNhBPcuw5T2lFsc5.jpg",
+      "overview": "Henry Hart consigue un trabajo de medio tiempo como Kid Danger, un compañero de lucha del super héroe anticrimen Capitán Man/Ray. A pesar de que Ray le dijo a Henry que mantuviera el secreto sobre su trabajo, también lo tiene que hacer con sus mejores amigos Charlotte y Jasper. Sus padres y su hermana menor Piper no saben sobre su secreto. Una tienda llamada \"Junk'n'Stuff\", tiene una guarida secreta escondida debajo, donde Ray hace su trabajo. Pero capítulos adelante la historia cambia un poco, ya que Charlotte descubre que su amigo Henry es Kid Danger, entonces él se lo cuenta a Ray el cual lo despidió, y más adelante por una hazaña heroica, lo recontrata y contrata a Charlotte, desde entonces los dos trabajan para Capitán Man. Luego de que Jasper descubriera el secreto de Henry, el show dio un giro inesperado, ya que Capitán Man contrató a Jasper como empleado en \"Junk'n'Stuff\", de igual manera como ayudante de Kid Danger y Capitán Man en la capicueva.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/onddStWYELFaz4BbV8kavU11oCo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3nzLn79QJcAcIsYeY6EMW3eqKn3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fKQD79DND5V5m0IW0XdX4i70PPa.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/or9vQ5o4b0Fbd2uCiPTq4EqSC7D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png"
     },
     {
       "id": "tmdb:33907",
@@ -575,18 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
     },
     {
-      "id": "tmdb:61852",
+      "id": "tmdb:18053",
       "type": "series",
-      "name": "Henry Danger",
+      "name": "Nurse Jackie",
       "ids": {
-        "tmdb": 61852
+        "tmdb": 18053
       },
-      "overview": "Henry Hart consigue un trabajo de medio tiempo como Kid Danger, un compañero de lucha del super héroe anticrimen Capitán Man/Ray. A pesar de que Ray le dijo a Henry que mantuviera el secreto sobre su trabajo, también lo tiene que hacer con sus mejores amigos Charlotte y Jasper. Sus padres y su hermana menor Piper no saben sobre su secreto. Una tienda llamada \"Junk'n'Stuff\", tiene una guarida secreta escondida debajo, donde Ray hace su trabajo. Pero capítulos adelante la historia cambia un poco, ya que Charlotte descubre que su amigo Henry es Kid Danger, entonces él se lo cuenta a Ray el cual lo despidió, y más adelante por una hazaña heroica, lo recontrata y contrata a Charlotte, desde entonces los dos trabajan para Capitán Man. Luego de que Jasper descubriera el secreto de Henry, el show dio un giro inesperado, ya que Capitán Man contrató a Jasper como empleado en \"Junk'n'Stuff\", de igual manera como ayudante de Kid Danger y Capitán Man en la capicueva.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/onddStWYELFaz4BbV8kavU11oCo.jpg",
+      "overview": "Jackie es enfermera en urgencias en un hospital de Nueva York. Tiene un sentido del humor bastante negro, dos hijas, un amante, una lesión de espalda, una aprendiz que le sigue como un perrito y unos compañeros que a veces ayudan y a veces no. Entre las cuatro paredes del centro médico, Jackie desarrolla su propia versión terrorista del mito de Robin Hood y da a los pobres lo que quita a los ricos, sean estos ricos en dinero, en órganos extraíbles para trasplantes o de cualquier otro tipo. Comparte escenario con dos médicos poco convencionales: Eleanor O'Hara, que podría sufrir un ataque e ansiedad sólo de pensar que le obligaban a comerse un perrito caliente y Fitch Cooper, con el título todavía caliente y muchos pájaros en la cabeza.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/efKrmVB9Jwmh6HxFjED6FyeOUpW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/or9vQ5o4b0Fbd2uCiPTq4EqSC7D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fi5HngtyaljxXkMHHEarGue5vvD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/owgKEbArGVDOKavIijYtqzLe8v7.png"
     },
     {
       "id": "tmdb:97951",
@@ -617,32 +631,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/u9OYFeRfRACdmY0kQyalcMQkBqf.png"
     },
     {
-      "id": "tmdb:290856",
+      "id": "tmdb:1423",
       "type": "series",
-      "name": "Marshals: Una historia de Yellowstone",
+      "name": "Ray Donovan",
       "ids": {
-        "tmdb": 290856
+        "tmdb": 1423
       },
-      "overview": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "overview": "Serie cuyo protagonista es un experto en solucionar problemas para los ricos y poderosos de Los Ángeles, pero cuya familia, del sur de Boston, no deja de darle preocupaciones.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hC5hazcb7twUUcBUF9zzhO4GlXI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3AGTImytIOlu807c3VeJpdzIj9f.png"
-    },
-    {
-      "id": "tmdb:126824",
-      "type": "series",
-      "name": "Patricio es la estrella",
-      "ids": {
-        "tmdb": 126824
-      },
-      "overview": "Siga a un Patrick Star más joven que vive en casa con su familia, donde presenta su propio programa de variedades para el vecindario desde su televisor convertido en dormitorio.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ylykz64Hon4wHSWjd7hXyQF7a9z.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/s7aGFzkC4nB234JctFCgn8XwPPV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/38Lp64x8gDVIHbJEQnvIWeh7Xm8.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kCLlk3Tc6BmO4p7HdXmRjwETpzX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2O4zkZpnqdS0yqxQ6oTL3CZu5p5.png"
     },
     {
       "id": "tmdb:7869",
@@ -659,18 +659,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/z0KmZo7YDQam5cs3VT05PCG0IoV.png"
     },
     {
-      "id": "tmdb:299167",
+      "id": "tmdb:290856",
       "type": "series",
-      "name": "Rancho Dutton",
+      "name": "Marshals: Una historia de Yellowstone",
       "ids": {
-        "tmdb": 299167
+        "tmdb": 290856
       },
-      "overview": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no se detendrá ante nada para proteger su imperio.",
+      "overview": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/7dAzAtmmfHeW5H6xxuukXsBBfzH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uawaXhhkSE5InbWcBSDcyHv1lK4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tEh92Rjz1L6xCQNTfhSTO3o15DU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hC5hazcb7twUUcBUF9zzhO4GlXI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3AGTImytIOlu807c3VeJpdzIj9f.png"
     },
     {
       "id": "tmdb:86848",
@@ -687,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/odVqIE8txB9cGMEGsKVv7MNAN23.png"
     },
     {
-      "id": "tmdb:204024",
+      "id": "tmdb:46786",
       "type": "series",
-      "name": "Piedra, Papel, Tijeras",
+      "name": "Bates Motel",
       "ids": {
-        "tmdb": 204024
+        "tmdb": 46786
       },
-      "overview": "Piedra, Papel y Tijera son tres mejores amigos que comparten apartamento y compiten por todo. Cada semana, tienen problemas que se salen de control.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/k0tQgvy5Dwp1mXtBVL0sqqINMay.jpg",
+      "overview": "Precuela contemporánea de la película Psicosis, que nos hace un retrato íntimo de cómo se desarrolla la psique de Norman Bates durante sus años de adolescencia. Los fans descubrirán su historia de trasfondo oscuro y retorcido y conocerán de primera mano cuán profundamente intrincada es la relación con su madre, Norma, y cómo ello ayudó a forjar a uno de los asesinos en serie más famoso de todos los tiempos.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/edDpfbTquXJa2H5SyVgq2QbOaMS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3xTvjxbIV36Vlsz6N1TJ0g5Lncc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8BDDKVt33HoXco9zfwQ04GQtSsV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/fY1RW2oaABBJNoPZT1tJb7vOgAi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x1SGSQu3rdQlrHUN8cGt2WfhQrQ.png"
     }
   ]
 }
