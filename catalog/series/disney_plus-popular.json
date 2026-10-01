@@ -73,11 +73,11 @@
     {
       "id": "tmdb:1433",
       "type": "series",
-      "name": "Padre made in USA",
+      "name": "American Dad!",
       "ids": {
         "tmdb": 1433
       },
-      "overview": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+      "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
       "year": 2005,
       "poster": "https://image.tmdb.org/t/p/w342/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",
       "posterShape": "poster",
@@ -119,7 +119,7 @@
       "ids": {
         "tmdb": 1911
       },
-      "overview": "Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.",
+      "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
       "year": 2005,
       "poster": "https://image.tmdb.org/t/p/w342/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
       "posterShape": "poster",
@@ -139,20 +139,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/8A8U4wiZe4HqAvqKhMCZzjdiOQK.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7CHU6cuoRLZyumxd0UX1aT633jy.png"
-    },
-    {
-      "id": "tmdb:1419",
-      "type": "series",
-      "name": "Castle",
-      "ids": {
-        "tmdb": 1419
-      },
-      "overview": "Un escritor de novelas se une a una detective de Nueva York para resolver un caso de un asesino que emula a otro de la misma calaña, lamentablemente la relación entre ambos no es de lo mejor.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tRZNN3mm6CooCqc0lAHPUMg5Bur.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
     },
     {
       "id": "tmdb:1421",
@@ -197,6 +183,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/lJ0V0uc2d51LWIHgyWl5o71WWu3.png"
     },
     {
+      "id": "tmdb:1419",
+      "type": "series",
+      "name": "Castle",
+      "ids": {
+        "tmdb": 1419
+      },
+      "overview": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/kQPTXQbh4gob7fDwAoacnREwZTe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tRZNN3mm6CooCqc0lAHPUMg5Bur.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sNShZeUjNJPTIpn4OTNtyA8NqmK.png"
+    },
+    {
       "id": "tmdb:1973",
       "type": "series",
       "name": "24",
@@ -209,20 +209,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oE8wosfV6CwfTrvols918ZEnZbv.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/hPnEjnPRwXhQ61rT7EtjuwNQaVW.png"
-    },
-    {
-      "id": "tmdb:65334",
-      "type": "series",
-      "name": "Miraculous: Las aventuras de Ladybug",
-      "ids": {
-        "tmdb": 65334
-      },
-      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:4586",
@@ -251,6 +237,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6Hn6KmuafmJFmw7dnNKTqiibtNL.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/NOf87HJ18I5mYEUiPSNAUCVr4d.png"
+    },
+    {
+      "id": "tmdb:65334",
+      "type": "series",
+      "name": "Miraculous: Las aventuras de Ladybug",
+      "ids": {
+        "tmdb": 65334
+      },
+      "overview": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/z9n5ZOECtbug5h07kq7RxoLRBOZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kNoBz2WEjqQWx3VIRIhs8IRPUkL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3Uv9B9r4wg0rpNf7pTjBzoDU5mh.png"
     },
     {
       "id": "tmdb:75219",
@@ -315,7 +315,7 @@
       "ids": {
         "tmdb": 2288
       },
-      "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+      "overview": "Michael Scofield (Wentworth Miller) es un hombre desesperado en un situación desesperada. Su hermano Lincoln Burrows (Dominic Purcell), condenado a la pena capital está a la espera de ser ejecutado. A pesar de todas las evidencias, Michael cree en su inocencia, por lo que decide robar un banco para dejarse atrapar y ser encarcelado en la misma prisión que su hermano. Su objetivo: escapar juntos.",
       "year": 2005,
       "poster": "https://image.tmdb.org/t/p/w342/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
       "posterShape": "poster",
@@ -343,7 +343,7 @@
       "ids": {
         "tmdb": 4556
       },
-      "overview": "In the unreal world of Sacred Heart Hospital, John \"J.D.\" Dorian learns the ways of medicine, friendship and life.",
+      "overview": "Scrubs es una serie de drama-comedia emitida entre octubre de 2001 y marzo de 2010. Sigue las vidas de los empleados del ficticio hospital universitario del Sagrado Corazón, donde no solo estudiarán medicina, sino que también aprenderán los caminos de la amistad y de la vida.",
       "year": 2001,
       "poster": "https://image.tmdb.org/t/p/w342/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
       "posterShape": "poster",
@@ -521,11 +521,11 @@
     {
       "id": "tmdb:1877",
       "type": "series",
-      "name": "Phineas and Ferb",
+      "name": "Phineas y Ferb",
       "ids": {
         "tmdb": 1877
       },
-      "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+      "overview": "Phineas y Ferb son dos hermanastros que viven en compañía de su hermana y hermanastra Candace y sus padres Lynda y Lawrence en el pequeño pueblo de Danville. Ambos están insatisfechos con estar todo el verano sin hacer nada, por lo que se dedican a buscar una idea novedosa y excitante para disfrutar más las vacaciones. Candace sabe de sus inusuales actividades y constantemente está tratando de llamar la atención de su madre al respecto, para que esta castigue a los niños.  Su ornitorrinco mascota llamado Perry resulta ser en realidad un agente secreto encubierto conocido simplemente como \"Agente P\". En su constante lucha por detener los malévolos planes del malvado Doctor Doofenshmirtz, toda traza de actividad inusual de los chicos es eliminada por mera coincidencia, antes de que Candace pueda mostrársela a su madre, por lo que siempre queda como un tonta ante ella..",
       "year": 2007,
       "poster": "https://image.tmdb.org/t/p/w342/vO5SGen5sf8ooqXG99f1MohvcfV.jpg",
       "posterShape": "poster",

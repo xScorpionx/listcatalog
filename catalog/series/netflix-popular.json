@@ -57,20 +57,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
     },
     {
-      "id": "tmdb:4656",
-      "type": "series",
-      "name": "Raw",
-      "ids": {
-        "tmdb": 4656
-      },
-      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/dwvW9FclJlicFQkBOlboQ52Vx8y.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
-    },
-    {
       "id": "tmdb:15226",
       "type": "series",
       "name": "C.I.D",
@@ -99,6 +85,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/1oiOZxgAvJbCpw6FIK3eUCfmipY.png"
     },
     {
+      "id": "tmdb:4656",
+      "type": "series",
+      "name": "Raw",
+      "ids": {
+        "tmdb": 4656
+      },
+      "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/dwvW9FclJlicFQkBOlboQ52Vx8y.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/dzexW1LJMC5w4oqG2XxUTcGMhL5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6BwNeaEes8Fvd3XHxNqZRzPtsou.png"
+    },
+    {
       "id": "tmdb:94664",
       "type": "series",
       "name": "Mushoku Tensei Jobless Reincarnation",
@@ -119,7 +119,7 @@
       "ids": {
         "tmdb": 1911
       },
-      "overview": "Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.",
+      "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
       "year": 2005,
       "poster": "https://image.tmdb.org/t/p/w342/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
       "posterShape": "poster",
@@ -673,20 +673,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/4wqf7y9Q6Qfia3wJh83kEt0JRb0.png"
     },
     {
-      "id": "tmdb:299939",
-      "type": "series",
-      "name": "Monstruo: La historia de Lizzie Borden",
-      "ids": {
-        "tmdb": 299939
-      },
-      "overview": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/8XFqpmHwbBcqMHJUHglukTeTU7Z.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k5B8PJ5Ar8WapTbZhQVJe7EzmT8.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jHwFhtTyt4SW33xch3rHCaCpTpM.png"
-    },
-    {
       "id": "tmdb:44217",
       "type": "series",
       "name": "Vikingos",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xE4aFitCuQ3o9WeVcWw1DZHsvv0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cMakaU4nbybkKOYhq47O8bFNRw2.png"
+    },
+    {
+      "id": "tmdb:31991",
+      "type": "series",
+      "name": "WWE NXT",
+      "ids": {
+        "tmdb": 31991
+      },
+      "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pRpsVvrOrzCTQGZlI0IeeQojoel.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/k0lJrDhoyuW6GWEWmHR7E2dZ1ic.png"
     }
   ]
 }
