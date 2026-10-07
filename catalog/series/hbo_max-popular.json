@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:95350",
+      "type": "series",
+      "name": "Linternas",
+      "ids": {
+        "tmdb": 95350
+      },
+      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hAZrcIzgk3MGwDo4mwrHfqNi16h.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png"
+    },
+    {
       "id": "tmdb:5920",
       "type": "series",
       "name": "El mentalista",
@@ -29,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/gYIJmepbPMz9rjlWdjxvw1o34r2.png"
     },
     {
-      "id": "tmdb:95350",
-      "type": "series",
-      "name": "Linternas",
-      "ids": {
-        "tmdb": 95350
-      },
-      "overview": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hAZrcIzgk3MGwDo4mwrHfqNi16h.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rx7P703ezg6drkBUjZYJFGR6V2j.png"
-    },
-    {
       "id": "tmdb:65733",
       "type": "series",
       "name": "Doraemon, el gato cósmico",
@@ -55,20 +55,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/dmptwhmqxcMrCKgyvBlTt18PgDu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gWyGD0qWyuqaWSAsvz83bkmpQ0G.png"
-    },
-    {
-      "id": "tmdb:1399",
-      "type": "series",
-      "name": "Juego de tronos",
-      "ids": {
-        "tmdb": 1399
-      },
-      "overview": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/6eEYfJtcJQ6e6J2lzkgzUDShR6V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tSYgEZqrVtEeru9UhhXlbxUBL8u.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png"
     },
     {
       "id": "tmdb:60625",
@@ -85,6 +71,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/cgwwn49FzTmc8kv4PGKQx4btbb3.png"
     },
     {
+      "id": "tmdb:1399",
+      "type": "series",
+      "name": "Juego de tronos",
+      "ids": {
+        "tmdb": 1399
+      },
+      "overview": "En una tierra donde los veranos duran décadas y los inviernos pueden durar toda una vida, los problemas acechan. Desde las maquinaciones del sur a las salvajes tierras del este, pasando por el helado norte y el milenario muro que protege el reino de las fuerzas tenebrosas, dos poderosas familias mantienen un enfrentamiento letal por gobernar los Siete Reinos de Poniente. Mientras la traición, la lujuria y las fuerzas sobrenaturales sacuden los pilares de los reinos, la sangrienta batalla por el trono de Hierro tendrá consecuencias imprevistas y trascendentales. El invierno se acerca. Que empiece 'Juego de tronos'.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/6eEYfJtcJQ6e6J2lzkgzUDShR6V.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tSYgEZqrVtEeru9UhhXlbxUBL8u.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nLnrwCfkgRtKxFUHnaXJOFrrXLy.png"
+    },
+    {
       "id": "tmdb:34307",
       "type": "series",
       "name": "Shameless",
@@ -93,7 +93,7 @@
       },
       "overview": "En la peculiar familia Gallagher, Frank, un padre soltero y alcohólico, intenta educar a sus seis inteligentes, salvajes e independientes hijos.\n\nEs un remake estadounidense de la serie británica del mismo nombre.",
       "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xWjcrAh2DBGTdJoFcjkLhkMgHXR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mwTXcvhEb2JH3DzdFuXo45w6kIB.png"
@@ -105,7 +105,7 @@
       "ids": {
         "tmdb": 1668
       },
-      "overview": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+      "overview": "Las aventuras de seis jóvenes neoyorquinos unidos por una divertida amistad. Entre el amor, el trabajo y la familia, comparten sus alegrías y preocupaciones en el Central Perk, su café favorito.",
       "year": 1994,
       "poster": "https://image.tmdb.org/t/p/w342/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
       "posterShape": "poster",
@@ -119,40 +119,12 @@
       "ids": {
         "tmdb": 45140
       },
-      "overview": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las situaciones son, a diferencia de la mayoría de las series superheróicas, cómicas, alocadas y paródicas; por ejemplo, bromas juveniles que alcanzan nuevas cotas de peligrosidad, obtener el permiso de conducir tras destrozar el Batmóvil o lavar los trajes tras mancharlos al luchar contra sus enemigos.",
+      "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
       "year": 2013,
       "poster": "https://image.tmdb.org/t/p/w342/dFRzEMjRuAF778RnYg6VsMMlKwx.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/rKnRWBTvsGnXaB6RaHb4LXEsEVu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zM48XYJT9k5aL0LC2yVE771WIkS.png"
-    },
-    {
-      "id": "tmdb:4419",
-      "type": "series",
-      "name": "Real Time with Bill Maher",
-      "ids": {
-        "tmdb": 4419
-      },
-      "overview": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educación, el medio ambiente y muchas otras.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wxdFuCHawKMIqDrY2ywsR34Gocx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
-    },
-    {
-      "id": "tmdb:31132",
-      "type": "series",
-      "name": "Historias corrientes",
-      "ids": {
-        "tmdb": 31132
-      },
-      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/8SilP8b7SspS3zYPoP8iCHzRTKP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/boI87jYfFcvmxWUE6own4KU7Vux.png"
     },
     {
       "id": "tmdb:18165",
@@ -169,6 +141,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/lnNiH0Tx2SpG6cG6I3WjYQZHTS6.png"
     },
     {
+      "id": "tmdb:4419",
+      "type": "series",
+      "name": "Real Time with Bill Maher",
+      "ids": {
+        "tmdb": 4419
+      },
+      "overview": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educación, el medio ambiente y muchas otras.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wxdFuCHawKMIqDrY2ywsR34Gocx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5BSa2UQaQbtemuy6RRHqPBHOiv.png"
+    },
+    {
       "id": "tmdb:94997",
       "type": "series",
       "name": "La casa del dragón",
@@ -181,6 +167,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eTa3O46FsLS8EsYQaARlDMIVyOF.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/rc7xLuJavZxGpkd5E38S1TRdEXM.png"
+    },
+    {
+      "id": "tmdb:31132",
+      "type": "series",
+      "name": "Historias corrientes",
+      "ids": {
+        "tmdb": 31132
+      },
+      "overview": "Mordecai y Rigby son dos amigos inseparables que convierten en fantasía los problemas y tareas cotidianas de sus aburridos trabajos.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/8SilP8b7SspS3zYPoP8iCHzRTKP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/poUFEE6IgACEuliu7PWDTRj0cst.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/boI87jYfFcvmxWUE6own4KU7Vux.png"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "From",
+      "ids": {
+        "tmdb": 124364
+      },
+      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png"
     },
     {
       "id": "tmdb:1398",
@@ -197,18 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/mfIihXrXUHmca7k7cYGupu6DGXQ.png"
     },
     {
-      "id": "tmdb:124364",
+      "id": "tmdb:2673",
       "type": "series",
-      "name": "From",
+      "name": "The O.C.",
       "ids": {
-        "tmdb": 124364
+        "tmdb": 2673
       },
-      "overview": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que salen cuando se pone el sol.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
+      "overview": "Ambientada en la idílica Newport Beach, del condado Orange de California. Esta serie trata sobre relaciones, rivalidades y traiciones entre maridos, esposas, padres, hijos y amigos.... La serie se centra en Ryan Atwood, un cauteloso e inteligente chico de 16 años que se traslada a la rica y privilegiada comunidad de Newport Beach, y donde pronto descubre que las familias relevantes de Orange County son tan provincianas como la gente con la que convivía en las calles del Barrio Chino. En Newport Beach, Ryan es acogido por Sandy Cohen, un idealista abogado defensor y su mujer Kirsten, el alma de la sociedad del Condado de Orange.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tS8PQabvc5jVTOYPyOQgOiotIK0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mvqhRHAzZKCVr24OIfK5LHJDSwU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/suFKHrqzU8DvV3eXvjjT4eENWm7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7OaoY7oonC1hnYumuYoj43YVJW3.png"
     },
     {
       "id": "tmdb:250307",
@@ -253,18 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/ckHzWqP6ZhyDamS52251yJstp3K.png"
     },
     {
-      "id": "tmdb:31917",
+      "id": "tmdb:284558",
       "type": "series",
-      "name": "Pequeñas mentirosas",
+      "name": "Kill Jackie",
       "ids": {
-        "tmdb": 31917
+        "tmdb": 284558
       },
-      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
+      "overview": "Jackie Price ha vivido una vida de lujos y riqueza durante los últimos 20 años tras escapar de un peligroso pasado como traficante internacional de cocaína. Pero justo cuando la vida empieza a resultarle un poco aburrida, descubre que Los Siete Demonios, un grupo de los sicarios más temibles del mundo, han sido contratados para matarla.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/93ACVKVcMMD3DBJwFOlHWWKekhS.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oxMsR7hYLVJkSGseehad7281OT2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2VOcRepadY50B7mr3Vn8OOviRA3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mcxfMCC7V4xq1fEVyHV4wGe2quY.png"
     },
     {
       "id": "tmdb:60622",
@@ -281,6 +295,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png"
     },
     {
+      "id": "tmdb:31917",
+      "type": "series",
+      "name": "Pequeñas mentirosas",
+      "ids": {
+        "tmdb": 31917
+      },
+      "overview": "La trama sigue la vida de cuatro amigas (Spencer, Hanna, Aria y Emily) tras la desaparición de Alison, la quinta del grupo. Un año después comienzan a recibir mensajes anónimos de alguien que se hace llamar A. Los mensajes amenazan con rebelar sus secretos, incluso algunos que sólo Alison sabía.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/kyuBJq4XFaxP2Y83ibnoNvC2ZIL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oxMsR7hYLVJkSGseehad7281OT2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yOulcOG0UBAE9jabKk3zkhPc7jU.png"
+    },
+    {
       "id": "tmdb:4546",
       "type": "series",
       "name": "Larry David",
@@ -293,146 +321,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kdIFiKhMor53vEj7ZTKRh19awqE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/v3ck42PpUnOuT3fQIeaiz7tP0GX.png"
-    },
-    {
-      "id": "tmdb:2673",
-      "type": "series",
-      "name": "The O.C.",
-      "ids": {
-        "tmdb": 2673
-      },
-      "overview": "Ambientada en la idílica Newport Beach, del condado Orange de California. Esta serie trata sobre relaciones, rivalidades y traiciones entre maridos, esposas, padres, hijos y amigos.... La serie se centra en Ryan Atwood, un cauteloso e inteligente chico de 16 años que se traslada a la rica y privilegiada comunidad de Newport Beach, y donde pronto descubre que las familias relevantes de Orange County son tan provincianas como la gente con la que convivía en las calles del Barrio Chino. En Newport Beach, Ryan es acogido por Sandy Cohen, un idealista abogado defensor y su mujer Kirsten, el alma de la sociedad del Condado de Orange.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/suFKHrqzU8DvV3eXvjjT4eENWm7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7OaoY7oonC1hnYumuYoj43YVJW3.png"
-    },
-    {
-      "id": "tmdb:284558",
-      "type": "series",
-      "name": "Kill Jackie",
-      "ids": {
-        "tmdb": 284558
-      },
-      "overview": "Jackie Price ha vivido una vida de lujos y riqueza durante los últimos 20 años tras escapar de un peligroso pasado como traficante internacional de cocaína. Pero justo cuando la vida empieza a resultarle un poco aburrida, descubre que Los Siete Demonios, un grupo de los sicarios más temibles del mundo, han sido contratados para matarla.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/93ACVKVcMMD3DBJwFOlHWWKekhS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2VOcRepadY50B7mr3Vn8OOviRA3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mcxfMCC7V4xq1fEVyHV4wGe2quY.png"
-    },
-    {
-      "id": "tmdb:709",
-      "type": "series",
-      "name": "Robot Chicken",
-      "ids": {
-        "tmdb": 709
-      },
-      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
-    },
-    {
-      "id": "tmdb:4229",
-      "type": "series",
-      "name": "El laboratorio de Dexter",
-      "ids": {
-        "tmdb": 4229
-      },
-      "overview": "Serie de TV (1996-2003). 4 temporadas. 78 capítulos. El laboratorio de Dexter es una serie de animación creada por Genndy Tartakovsky en 1996. La serie trata sobre un pequeño niño genio llamado Dexter, que tiene su propio laboratorio, y hace sus grandes y propios inventos, los cuales son la causa de sus aventuras (o desventuras).",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/ko0CZnMZZZm19HHWwROB05gEKyr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kOsMiFpRLfLblykfTyrenHgip89.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3uD97eczEvKoGZz9aE8J6l6QVNI.png"
-    },
-    {
-      "id": "tmdb:69050",
-      "type": "series",
-      "name": "Riverdale",
-      "ids": {
-        "tmdb": 69050
-      },
-      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gn3jfu3KfOPH2dZ9J2ER52ZaBtL.png"
-    },
-    {
-      "id": "tmdb:85552",
-      "type": "series",
-      "name": "Euphoria",
-      "ids": {
-        "tmdb": 85552
-      },
-      "overview": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
-    },
-    {
-      "id": "tmdb:69478",
-      "type": "series",
-      "name": "El cuento de la criada",
-      "ids": {
-        "tmdb": 69478
-      },
-      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
-    },
-    {
-      "id": "tmdb:46648",
-      "type": "series",
-      "name": "True Detective",
-      "ids": {
-        "tmdb": 46648
-      },
-      "overview": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/48KPyUFUpcwWsqPvSkS61M0FtHo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
-    },
-    {
-      "id": "tmdb:1940",
-      "type": "series",
-      "name": "Entourage: El séquito",
-      "ids": {
-        "tmdb": 1940
-      },
-      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
-    },
-    {
-      "id": "tmdb:10545",
-      "type": "series",
-      "name": "True Blood (Sangre fresca)",
-      "ids": {
-        "tmdb": 10545
-      },
-      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
     },
     {
       "id": "tmdb:1891",
@@ -449,6 +337,104 @@
       "logo": "https://image.tmdb.org/t/p/w500/tjoOEClbGpAHnlXnQLSh64HIpHl.png"
     },
     {
+      "id": "tmdb:709",
+      "type": "series",
+      "name": "Robot Chicken",
+      "ids": {
+        "tmdb": 709
+      },
+      "overview": "Popular serie americana de animación stop-motion, que parodia películas, videojuegos o personalidades de todo el mundo a través de humor mordaz.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/x5O2W1JulF0TM16HEITgVNML3KS.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/mrn0Hje5QXdIxSxTXrrihQ0l6M0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zPBhHiyKK4bpYmciO8eGIHIvGG4.png"
+    },
+    {
+      "id": "tmdb:69050",
+      "type": "series",
+      "name": "Riverdale",
+      "ids": {
+        "tmdb": 69050
+      },
+      "overview": "Archie y sus amigos de Riverdale se verán envueltos en un siniestro misterio al tiempo que lidian con las complicaciones del sexo, el amor, los estudios y la familia.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/mlk5jA1ewWUxle6LY9bEi7aiI97.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/58lC8G8RljveUQfmDQ8RdbNu0Nj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gn3jfu3KfOPH2dZ9J2ER52ZaBtL.png"
+    },
+    {
+      "id": "tmdb:69478",
+      "type": "series",
+      "name": "El cuento de la criada",
+      "ids": {
+        "tmdb": 69478
+      },
+      "overview": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/nWZCiatvkwLTBLcOfpHvgNXmCPl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sPsOehdxYKbG6TVTYDv5Kh5Y4YG.png"
+    },
+    {
+      "id": "tmdb:4229",
+      "type": "series",
+      "name": "El laboratorio de Dexter",
+      "ids": {
+        "tmdb": 4229
+      },
+      "overview": "Serie de TV (1996-2003). 4 temporadas. 78 capítulos. El laboratorio de Dexter es una serie de animación creada por Genndy Tartakovsky en 1996. La serie trata sobre un pequeño niño genio llamado Dexter, que tiene su propio laboratorio, y hace sus grandes y propios inventos, los cuales son la causa de sus aventuras (o desventuras).",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/ko0CZnMZZZm19HHWwROB05gEKyr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kOsMiFpRLfLblykfTyrenHgip89.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3uD97eczEvKoGZz9aE8J6l6QVNI.png"
+    },
+    {
+      "id": "tmdb:85552",
+      "type": "series",
+      "name": "Euphoria",
+      "ids": {
+        "tmdb": 85552
+      },
+      "overview": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad, como la droga, el sexo y la violencia.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4yRqdgulLRtcCO5ZUOs2G5v874l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png"
+    },
+    {
+      "id": "tmdb:16997",
+      "type": "series",
+      "name": "The Pacific",
+      "ids": {
+        "tmdb": 16997
+      },
+      "overview": "Sucesora de \"Hermanos de Sangre\", también producida por Steven Spielberg y Tom Hanks, y creada por Dreamworks y HBO, es la serie más cara de todos los tiempos. Se basa sobre todo en las memorias de dos soldados norteamericanos, \"With the Old Breed\" de Eugene Sledge y \"Helmet for My Pillow\" de Robert Leckie, que narran sus experiencias en la lucha contra los japoneses durante la Segunda Guerra Mundial (1939-1945).",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rnei45vVsuYPa1pwR3Q5Dr6VS1D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y7RNyfNWa4pLwtAXqEqxBwFRBeI.png"
+    },
+    {
+      "id": "tmdb:46648",
+      "type": "series",
+      "name": "True Detective",
+      "ids": {
+        "tmdb": 46648
+      },
+      "overview": "En Luisiana, en 1995, dos detectives investigan el atroz asesinato de una joven que fue sometida a un ritual pagano. En el año 2012, unos policías interrogan a estos dos detectives, dado que sospechan que el asesino de 1995 ha regresado",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/xZSuQm2KQQKoVKf31HgUWkjAVga.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/48KPyUFUpcwWsqPvSkS61M0FtHo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojwT2ofLtpqhWJVC6k27QPGs0Ox.png"
+    },
+    {
       "id": "tmdb:1438",
       "type": "series",
       "name": "Bajo escucha",
@@ -461,6 +447,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ljVRHZ8f1wbgDwgtyj7ZEChSTok.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/5ovMKL562PtlMgwXjVsM5T9F8Hz.png"
+    },
+    {
+      "id": "tmdb:1940",
+      "type": "series",
+      "name": "Entourage: El séquito",
+      "ids": {
+        "tmdb": 1940
+      },
+      "overview": "Narra la vida cotidiana de Vincent Chase, un joven, atractivo y brillante actor de Hollywood, y de su grupo de amigos. La carrera de Vince está en pleno auge, pero él procura que su nueva posición social no lo aleje de sus amigos de la infancia, con los que creció en el barrio de Queens, en Nueva York. (FILMAFFINITY)",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/u98M0dAWM18cUIJydgKd3llvKdM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tMEMylD03J0XHpiz9giXjon1lJa.svg"
     },
     {
       "id": "tmdb:41727",
@@ -477,34 +477,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/nX0RfYMyczk340nzpyWeucUqpyR.png"
     },
     {
-      "id": "tmdb:1418",
-      "type": "series",
-      "name": "Big Bang",
-      "ids": {
-        "tmdb": 1418
-      },
-      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ky8BPG8Rl7pEZbV82NzJexYC8iX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png"
-    },
-    {
-      "id": "tmdb:124101",
-      "type": "series",
-      "name": "Hacks",
-      "ids": {
-        "tmdb": 124101
-      },
-      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png"
-    },
-    {
       "id": "tmdb:37606",
       "type": "series",
       "name": "El asombroso mundo de Gumball",
@@ -519,32 +491,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/n3V2kI3fgNNswQLoxZy84zCkY65.png"
     },
     {
-      "id": "tmdb:212989",
+      "id": "tmdb:10545",
       "type": "series",
-      "name": "LEGO Ninjago: El renacer de los dragones",
+      "name": "True Blood (Sangre fresca)",
       "ids": {
-        "tmdb": 212989
+        "tmdb": 10545
       },
-      "overview": "Varios reinos legendarios se han fusionado de forma repentina... e inestable. Un maestro de Spinjitzu debe entrenar a una nueva generación de héroes ninja capaces de encontrar a los Dragones Elementales: son los que pueden salvar el planeta antes de que las fuerzas del mal accedan a esa energía dracónica para aniquilar el nuevo mundo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/yxBgVqRwfpAU1wL6xsAWulIhhoL.jpg",
+      "overview": "En un pueblo de Lousiana, una serie de brutales asesinatos hace peligrar la convivencia entre vampiros y seres humanos, que hasta entonces había sido pacífica gracias a una bebida japonesa hecha de sangre sintética. Sin embargo, algunos vampiros estaban descontentos porque preferían seguir alimentándose de sangre humana; pero también había hombres que no estaban satisfechos con esta situación. En estas circunstancias nace el polémico romance entre Bill Compton (Stephen Moyer, \"Quills\"), el primer vampiro que llega al pueblo, y Sookie Stackhouse (Anna Paquin), una camarera clarividente. Nueva serie de la HBO realizada por Alan Ball (\"A dos metros bajo tierra\"). Basada en la serie de novelas 'Southern vampire', de la escritora norteamericana Charlaine Harris.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/uqsvvgC6CKGoGcfyqRyQVCjML4Q.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xNNrUQFzvjy5hNm0r2nVApWoZB7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yBJr2CZoAVP5S0i2JbEtgvULFuZ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/700xoiKCM68t02Zw1VmlOgPQOVh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mETkvJgly1edlc6gOyqwrXYrppi.png"
     },
     {
-      "id": "tmdb:105",
+      "id": "tmdb:1418",
       "type": "series",
-      "name": "Sexo en Nueva York",
+      "name": "Big Bang",
       "ids": {
-        "tmdb": 105
+        "tmdb": 1418
       },
-      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
-      "year": 1998,
-      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
+      "overview": "Leonard y Sheldon son dos físicos superdotados que comparten piso. Ambos son capaces de calcular las probabilidades de existencia de vida en otros planetas, pero son incapaces de relacionarse con los demás y especialmente con las chicas. Penny, su nueva vecina, es el polo opuesto a ellos, por lo que su llegada al edificio alterará la tranquila vida sentimental de Leonard y el desorden obsesivo-compulsivo de Sheldon.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ky8BPG8Rl7pEZbV82NzJexYC8iX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8MpmB30iIozVMw3No2YCe8r0jqL.png"
     },
     {
       "id": "tmdb:607",
@@ -561,18 +533,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/l9Q8jYVyzm17qatUwb1pVEyPcwO.png"
     },
     {
-      "id": "tmdb:61175",
+      "id": "tmdb:105",
       "type": "series",
-      "name": "Steven Universe",
+      "name": "Sexo en Nueva York",
       "ids": {
-        "tmdb": 61175
+        "tmdb": 105
       },
-      "overview": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+      "overview": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York.",
+      "year": 1998,
+      "poster": "https://image.tmdb.org/t/p/w342/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1vOPSoIEgYSyU4dS0QXyXv83jaU.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/veFvRHkQgZxfMuJ6UmEKZ45TTzx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/viEpub0qM41Y3gW6Pu97pf6vN8T.png"
     },
     {
       "id": "tmdb:111803",
@@ -589,18 +561,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/2SwIOcXZ4you4EjPCAw7IucCsgX.png"
     },
     {
-      "id": "tmdb:63401",
+      "id": "tmdb:212989",
       "type": "series",
-      "name": "Somos osos",
+      "name": "LEGO Ninjago: El renacer de los dragones",
       "ids": {
-        "tmdb": 63401
+        "tmdb": 212989
       },
-      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
+      "overview": "Varios reinos legendarios se han fusionado de forma repentina... e inestable. Un maestro de Spinjitzu debe entrenar a una nueva generación de héroes ninja capaces de encontrar a los Dragones Elementales: son los que pueden salvar el planeta antes de que las fuerzas del mal accedan a esa energía dracónica para aniquilar el nuevo mundo.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/yxBgVqRwfpAU1wL6xsAWulIhhoL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/xNNrUQFzvjy5hNm0r2nVApWoZB7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yBJr2CZoAVP5S0i2JbEtgvULFuZ.png"
     },
     {
       "id": "tmdb:95057",
@@ -617,18 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bdkk7wEEolDCvR8LG5lfVr0ZUGR.png"
     },
     {
-      "id": "tmdb:79061",
+      "id": "tmdb:124101",
       "type": "series",
-      "name": "El mundo de Craig",
+      "name": "Hacks",
       "ids": {
-        "tmdb": 79061
+        "tmdb": 124101
       },
-      "overview": "Craig y sus amigos, Kelsey y J.P., se adentran en un mundo salvaje dominado por tribus de niños que establecen sus propias leyes.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg",
+      "overview": "Explora la oscura tutoría que se forma entre Deborah Vance, una comediante legendaria de Las Vegas, y una marginada de 25 años con privilegios.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/akWwPGAtEc5bWyo6WQP9BQxaN1n.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/phlKGNxauqvdKA8YSKv5YVahHIQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/viwjmvXF1ZQTpZZ2r2AI3ygDqNd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png"
     },
     {
       "id": "tmdb:82428",
@@ -645,18 +617,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/d2NcM5HOVJFzuZJuZYRKMjIBpNT.png"
     },
     {
-      "id": "tmdb:46896",
+      "id": "tmdb:63401",
       "type": "series",
-      "name": "Los originales",
+      "name": "Somos osos",
       "ids": {
-        "tmdb": 46896
+        "tmdb": 63401
       },
-      "overview": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
+      "overview": "Pardo, Panda y Polar son tres osos hermanos adoptivos que se enfrentan a sus instintos animales para encajar en el civilizado mundo moderno de los humanos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/urANgPY1gyATjqGux96rM0zZU9z.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/14Mr72Vm1FOhtQzplrv8fDzeM7Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7aKOA6uXTGL4ClDnLqGIx64Mi5x.png"
+    },
+    {
+      "id": "tmdb:79061",
+      "type": "series",
+      "name": "El mundo de Craig",
+      "ids": {
+        "tmdb": 79061
+      },
+      "overview": "Craig y sus amigos, Kelsey y J.P., se adentran en un mundo salvaje dominado por tribus de niños que establecen sus propias leyes.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/cGIWvCRPFBAFlb7QO6wiphs84RX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/akWwPGAtEc5bWyo6WQP9BQxaN1n.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/phlKGNxauqvdKA8YSKv5YVahHIQ.png"
+    },
+    {
+      "id": "tmdb:61175",
+      "type": "series",
+      "name": "Steven Universe",
+      "ids": {
+        "tmdb": 61175
+      },
+      "overview": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/8zRstOgaipruJPlsHK2diMx4lPy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1vOPSoIEgYSyU4dS0QXyXv83jaU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jDasiqqhTUnZqBf9BiFr6k6HqL.png"
     },
     {
       "id": "tmdb:100088",
@@ -673,18 +673,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/msYtgZbEo8tAOJ37T50kgqulpKf.png"
     },
     {
-      "id": "tmdb:1274",
+      "id": "tmdb:46896",
       "type": "series",
-      "name": "A dos metros bajo tierra",
+      "name": "Los originales",
       "ids": {
-        "tmdb": 1274
+        "tmdb": 46896
       },
-      "overview": "El día de Nochebuena, cuando Nathaniel Fisher esperaba la llegada de su hijo Nate, muere en un accidente de coche. La dominante madre del chico, Ruth, tiene una aventura. Su hermano David, un gay que no ha salido del armario, dirige el negocio familiar, y su hermana Claire es una problemática adolescente que consume drogas. La única persona aparentemente normal de la vida de Nate es Brenda, una apasionada mujer a la que conoce en un avión.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
+      "overview": "Spin off de 'Crónicas vampíricas'. Se concentrará sobre Klaus y los originales de 'Crónicas vampíricas' (después o antes de Elijah). Le veremos regresar al Nuevo Orleans y se reencontrará allí a su diabólico y antiguo protegido Marcel. Phoebe Tonkin, que da vida a la mujer lobo Hayley en la temporada 4 de 'Crónicas vampíricas', también estará presente en el reparto de este potencial spin off que será escrito por Julie Plec, cocreadora de 'Crónicas vampíricas'. La trama contará con Camille, una estudiante de psicología que despertará el interés de Klaus. A pesar de ser humana, el personaje tendrá su lado sombrío y quedará intrigada con el híbrido.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/ztefVQYH97CcZ2WHYq1u7f2m6bR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z32N69N0Hw0SY5UbmNUGYcjP2At.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lTC5pym7p23h7PB2ZwWzCTA2JdV.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2gcEuXWMUSExLpVh3lD3IgZvNTE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tjAdXM9L1DUnYPDC70s7OxO7BOV.png"
     },
     {
       "id": "tmdb:102321",

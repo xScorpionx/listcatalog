@@ -29,34 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/hy4boLduxGvEhasRFHCLESefcoD.png"
     },
     {
-      "id": "tmdb:55",
-      "type": "movie",
-      "name": "Amores perros",
-      "ids": {
-        "tmdb": 55
-      },
-      "overview": "Ciudad de México: un fatal accidente automovilístico afecta trágicamente a tres personas. Octavio, un joven adolescente, decide fugarse con Susana, la esposa de su hermano; el Cofí, su perro, se convierte en el medio para conseguir el dinero que necesitan para poder escapar juntos. Al mismo tiempo, Daniel, un hombre de 42 años, deja a su esposa y a sus hijos para irse a vivir con Valeria, una hermosa modelo. El mismo día en que ambos festejan su nueva vida, el destino hace que Valeria sea víctima del trágico accidente.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/uoObXx53SjSLLtAavMSIe02zizs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ll53drDapuXErRgMc8MaXfA30wO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oG7T7fSZOzI73u9QVdaeYn8w66l.png"
-    },
-    {
-      "id": "tmdb:965150",
-      "type": "movie",
-      "name": "Aftersun",
-      "ids": {
-        "tmdb": 965150
-      },
-      "overview": "Sophie reflexiona sobre la alegría compartida y la melancolía privada de unas vacaciones que hizo con su padre veinte años atrás. Los recuerdos reales e imaginarios llenan los espacios entre las imágenes mientras intenta reconciliar al padre que conoció con el hombre que no conoció.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/zJd2NwGzciSMppCHividNSROIZR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6zDioXV47d2qmi8RN1Hf9oikens.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
-    },
-    {
       "id": "tmdb:1033148",
       "type": "movie",
       "name": "Die My Love",
@@ -71,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/wrGqkTfTcSw338SrVJIjopFw0wE.png"
     },
     {
+      "id": "tmdb:55",
+      "type": "movie",
+      "name": "Amores perros",
+      "ids": {
+        "tmdb": 55
+      },
+      "overview": "Ciudad de México: un fatal accidente automovilístico afecta trágicamente a tres personas. Octavio, un joven adolescente, decide fugarse con Susana, la esposa de su hermano; el Cofí, su perro, se convierte en el medio para conseguir el dinero que necesitan para poder escapar juntos. Al mismo tiempo, Daniel, un hombre de 42 años, deja a su esposa y a sus hijos para irse a vivir con Valeria, una hermosa modelo. El mismo día en que ambos festejan su nueva vida, el destino hace que Valeria sea víctima del trágico accidente.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/uoObXx53SjSLLtAavMSIe02zizs.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ll53drDapuXErRgMc8MaXfA30wO.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oG7T7fSZOzI73u9QVdaeYn8w66l.png"
+    },
+    {
       "id": "tmdb:639988",
       "type": "movie",
       "name": "No hay otra opción",
@@ -83,6 +69,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/2h9hCzvKbYo2fMCmSOpI79SxKsr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/tgLNCa2kmwSVpYqfggJG2o3zPit.png"
+    },
+    {
+      "id": "tmdb:497828",
+      "type": "movie",
+      "name": "El triángulo de la tristeza",
+      "ids": {
+        "tmdb": 497828
+      },
+      "overview": "Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son invitados a un yate en un crucero de lujo. Mientras que la tripulación brinda todas las atenciones necesarias a los ricos invitados, el capitán se niega a salir de su cabina, a pesar de la llegada inminente de la célebre cena de gala. Los eventos toman un giro inesperado y el equilibrio de poder se invierte cuando se levanta una tormenta que pone en peligro el confort de los pasajeros.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/9DteuuOubo3bZPgrmvrTb5mgNxw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v146YHZq1M0HoVCWdtPVxYILu6O.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aYc1jT45C3tQO6XfBrLjkVjUqKr.png"
+    },
+    {
+      "id": "tmdb:965150",
+      "type": "movie",
+      "name": "Aftersun",
+      "ids": {
+        "tmdb": 965150
+      },
+      "overview": "Sophie reflexiona sobre la alegría compartida y la melancolía privada de unas vacaciones que hizo con su padre veinte años atrás. Los recuerdos reales e imaginarios llenan los espacios entre las imágenes mientras intenta reconciliar al padre que conoció con el hombre que no conoció.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/zJd2NwGzciSMppCHividNSROIZR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6zDioXV47d2qmi8RN1Hf9oikens.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kzuQPHVOlziFIFfmEVIe3hPZW1P.png"
     },
     {
       "id": "tmdb:1923",
@@ -113,18 +127,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/nEoJhmTZ8fHpWgvglVqkwM2XWhG.png"
     },
     {
-      "id": "tmdb:497828",
+      "id": "tmdb:1315091",
       "type": "movie",
-      "name": "El triángulo de la tristeza",
+      "name": "Akiplėša",
       "ids": {
-        "tmdb": 497828
+        "tmdb": 1315091
       },
-      "overview": "Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son invitados a un yate en un crucero de lujo. Mientras que la tripulación brinda todas las atenciones necesarias a los ricos invitados, el capitán se niega a salir de su cabina, a pesar de la llegada inminente de la célebre cena de gala. Los eventos toman un giro inesperado y el equilibrio de poder se invierte cuando se levanta una tormenta que pone en peligro el confort de los pasajeros.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/9DteuuOubo3bZPgrmvrTb5mgNxw.jpg",
+      "overview": "Marija y Kristina, dos adolescentes que sueñan con escapar de la desolación de su ciudad industrial, forman un vínculo único en una escuela de modelos local, donde la promesa de una vida mejor les empuja a idear formas cada vez más extremas de adaptar sus cuerpos jóvenes a imposibles estándares de belleza. Un relato sobre las inseguridades adolescentes en torno a la imagen corporal que se convirtió en la gran ganadora del pasado Festival Internacional de Cine de Locarno (Leopardo de Oro y premio a la mejor ópera prima).",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/knG84vSv8kRMeopgIcrTpsYYHSs.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v146YHZq1M0HoVCWdtPVxYILu6O.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aYc1jT45C3tQO6XfBrLjkVjUqKr.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sA1X5DMpeDNYyNlFwlXmsDsOClV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/69MDN01Wu49kUlMiPNfJv39oHUD.png"
+    },
+    {
+      "id": "tmdb:147",
+      "type": "movie",
+      "name": "Los cuatrocientos golpes",
+      "ids": {
+        "tmdb": 147
+      },
+      "overview": "A sus doce años, Antoine Doinel se ve obligado no sólo a convivir con los problemas conyugales que sus padres no se atreven a afrontar, sino también a soportar las exigencias de un severo profesor. Un día, asustado porque no ha cumplido un castigo que el maestro le ha impuesto, decide hacer novillos con su amigo René. Inesperadamente, ve a su madre en compañía de otro hombre; la culpa y el miedo lo arrastran a una serie de mentiras y riñas que poco a poco van calando en su ánimo. Deseando dejar atrás todos sus problemas, sueña con conocer el mar y traza con René un plan para escaparse.",
+      "year": 1959,
+      "poster": "https://image.tmdb.org/t/p/w342/1uqxcqhTNXZLyZoNKeqVkMVzuU4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1ArMmNqBX5VGsmhfgh0jVDgq93y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/syNnYSCGujtnIHJ1pZwrFh5s0f2.png"
     },
     {
       "id": "tmdb:705996",
@@ -155,34 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ajvMpnE9azcsfJu1UvCKdqOG8zP.png"
     },
     {
-      "id": "tmdb:147",
-      "type": "movie",
-      "name": "Los cuatrocientos golpes",
-      "ids": {
-        "tmdb": 147
-      },
-      "overview": "A sus doce años, Antoine Doinel se ve obligado no sólo a convivir con los problemas conyugales que sus padres no se atreven a afrontar, sino también a soportar las exigencias de un severo profesor. Un día, asustado porque no ha cumplido un castigo que el maestro le ha impuesto, decide hacer novillos con su amigo René. Inesperadamente, ve a su madre en compañía de otro hombre; la culpa y el miedo lo arrastran a una serie de mentiras y riñas que poco a poco van calando en su ánimo. Deseando dejar atrás todos sus problemas, sueña con conocer el mar y traza con René un plan para escaparse.",
-      "year": 1959,
-      "poster": "https://image.tmdb.org/t/p/w342/1uqxcqhTNXZLyZoNKeqVkMVzuU4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1ArMmNqBX5VGsmhfgh0jVDgq93y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/syNnYSCGujtnIHJ1pZwrFh5s0f2.png"
-    },
-    {
-      "id": "tmdb:1315091",
-      "type": "movie",
-      "name": "Akiplėša",
-      "ids": {
-        "tmdb": 1315091
-      },
-      "overview": "Marija y Kristina, dos adolescentes que sueñan con escapar de la desolación de su ciudad industrial, forman un vínculo único en una escuela de modelos local, donde la promesa de una vida mejor les empuja a idear formas cada vez más extremas de adaptar sus cuerpos jóvenes a imposibles estándares de belleza. Un relato sobre las inseguridades adolescentes en torno a la imagen corporal que se convirtió en la gran ganadora del pasado Festival Internacional de Cine de Locarno (Leopardo de Oro y premio a la mejor ópera prima).",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/knG84vSv8kRMeopgIcrTpsYYHSs.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sA1X5DMpeDNYyNlFwlXmsDsOClV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/69MDN01Wu49kUlMiPNfJv39oHUD.png"
-    },
-    {
       "id": "tmdb:14784",
       "type": "movie",
       "name": "The Fall: El sueño de Alexandria",
@@ -211,18 +211,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/a0WNra2wnqw1WGccTTnZuglTb3N.png"
     },
     {
-      "id": "tmdb:3176",
+      "id": "tmdb:1075175",
       "type": "movie",
-      "name": "Battle Royale",
+      "name": "How to Have Sex",
       "ids": {
-        "tmdb": 3176
+        "tmdb": 1075175
       },
-      "overview": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con “Battle Royale”. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/e9UQGoX2ZFNdrjLwEejMSMDSxmR.jpg",
+      "overview": "Tres adolescentes británicas se van de vacaciones para celebrar sus ritos de iniciación: beber, salir de fiesta y ligar, en lo que debería ser el mejor verano de sus vidas.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/7GDdwWIxc8ainsb0TvC2AIEXTOz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pmRtI4QvcBvXjw9mLOEAsV9Bq7i.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/peHiTvVODUgHPD8UCy6MqQGwsbN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/woteH4XNNihgGJm1T9dxFN11LYW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yjHdLKRkai4p9DgCUwOigjzukPf.png"
     },
     {
       "id": "tmdb:491584",
@@ -239,18 +239,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/bILH1xVdtoAPt087S0Of3dWmQma.png"
     },
     {
-      "id": "tmdb:1075175",
+      "id": "tmdb:3176",
       "type": "movie",
-      "name": "How to Have Sex",
+      "name": "Battle Royale",
       "ids": {
-        "tmdb": 1075175
+        "tmdb": 3176
       },
-      "overview": "Tres adolescentes británicas se van de vacaciones para celebrar sus ritos de iniciación: beber, salir de fiesta y ligar, en lo que debería ser el mejor verano de sus vidas.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/7GDdwWIxc8ainsb0TvC2AIEXTOz.jpg",
+      "overview": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con “Battle Royale”. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/e9UQGoX2ZFNdrjLwEejMSMDSxmR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/woteH4XNNihgGJm1T9dxFN11LYW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yjHdLKRkai4p9DgCUwOigjzukPf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pmRtI4QvcBvXjw9mLOEAsV9Bq7i.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/peHiTvVODUgHPD8UCy6MqQGwsbN.png"
     },
     {
       "id": "tmdb:985",
@@ -267,20 +267,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/n4lvtF6CzOtluYu5BJxshPuuxq6.png"
     },
     {
-      "id": "tmdb:396461",
-      "type": "movie",
-      "name": "Lo que esconde Silver Lake",
-      "ids": {
-        "tmdb": 396461
-      },
-      "overview": "En su apartamento de urbanización prototipo de Los Angeles, Sam (Andrew Garﬁeld) anda por la vida muerto de aburrimiento. Ningún aliciente hasta ese día en que descubre a una nueva vecina sexy, deslumbrante, inquietante, misteriosa y, de repente, desaparecida. Y aún hay mayores rarezas esperando a Sam, porque por el barrio anda suelto un asesino de perros...",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/x4pN1IVuK0o5Y0nkKWtJQhwJqo8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oxP0TzqxQxaHY3U1QnCu41t7jji.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vGIzU7evdRGCsrbPfKQ7Iy0SFvW.png"
-    },
-    {
       "id": "tmdb:900379",
       "type": "movie",
       "name": "Cielo rojo",
@@ -295,88 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gzbxnnNLWt91PYhByAJdBSSV6vU.png"
     },
     {
-      "id": "tmdb:1678",
+      "id": "tmdb:396461",
       "type": "movie",
-      "name": "Godzilla. Japón bajo el terror del monstruo",
+      "name": "Lo que esconde Silver Lake",
       "ids": {
-        "tmdb": 1678
+        "tmdb": 396461
       },
-      "overview": "Las misteriosas destrucciones de barcos en el Pacífico provocan el pánico. Los nativos de una isla afirman que el culpable es una criatura legendaria, Godzilla, un lagarto mutante convertido en un gigantesco monstruo a causa de unas radiaciones atómicas. Godzilla se dispone a atacar las principales ciudades del Japón.",
-      "year": 1954,
-      "poster": "https://image.tmdb.org/t/p/w342/mu4KeHb8GOjKbZGIeE4C5dXBx9B.jpg",
+      "overview": "En su apartamento de urbanización prototipo de Los Angeles, Sam (Andrew Garﬁeld) anda por la vida muerto de aburrimiento. Ningún aliciente hasta ese día en que descubre a una nueva vecina sexy, deslumbrante, inquietante, misteriosa y, de repente, desaparecida. Y aún hay mayores rarezas esperando a Sam, porque por el barrio anda suelto un asesino de perros...",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/x4pN1IVuK0o5Y0nkKWtJQhwJqo8.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hrYdmBL3tS7yEGaN8uq2Yeipo21.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sJuK38Pq4RpryeLm2koshzlQ1VK.png"
-    },
-    {
-      "id": "tmdb:1059128",
-      "type": "movie",
-      "name": "Queer",
-      "ids": {
-        "tmdb": 1059128
-      },
-      "overview": "1950. William Lee, un expatriado estadounidense de unos 50 años en Ciudad de México, pasa sus días casi solo, salvo algunos contactos con otros miembros de la pequeña comunidad estadounidense. Su encuentro con Eugene Allerton, un joven estudiante recién llegado a la ciudad, le muestra, por primera vez, que finalmente podría ser posible establecer una conexión íntima con alguien.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/w18FVX4a42hWZO6QB07IGBTEFGo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eXB2NlJNNtQrxddrshMnCyzq0k9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hhMU6kmnpaTH0QihDTJ4AWfUo9f.png"
-    },
-    {
-      "id": "tmdb:152584",
-      "type": "movie",
-      "name": "La vida de Adèle",
-      "ids": {
-        "tmdb": 152584
-      },
-      "overview": "Adèle tiene quince años y sabe que lo normal es salir con chicos, pero tiene dudas sobre su sexualidad. Una noche conoce y se enamora inesperadamente de Emma, una joven con el pelo azul. La atracción que despierta en ella una mujer que le muestra el camino del deseo y la madurez, hará que Adèle tenga que sufrir los juicios y prejuicios de familiares y amigos. Adaptación de la novela gráfica \"Blue\", de Julie Maroh.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/en27JWtPoF2nsWPqFoI8lj3y66d.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aqeozqvROMaYEtTP9kWdwapC5mK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tSieGjZMCJu99Oalk2BuogGmcGH.png"
-    },
-    {
-      "id": "tmdb:901563",
-      "type": "movie",
-      "name": "Close",
-      "ids": {
-        "tmdb": 901563
-      },
-      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vq4LpuxklrsiWUko00gTlailpYL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
-    },
-    {
-      "id": "tmdb:157851",
-      "type": "movie",
-      "name": "Maps to the Stars",
-      "ids": {
-        "tmdb": 157851
-      },
-      "overview": "Un cuento moderno sobre la obsesión por la popularidad. Stafford Weiss es terapeuta y escribe libros de autoayuda. Tiene una mujer sobreprotectora, un hijo antigua estrella de la TV en rehabilitación y una hija que acaba de salir del psiquiátrico. La principal cliente de Stafford es una famosa actriz, a punto de interpretar el papel que hizo su madre en los años 60.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/oUCTdSKwu3zIrbpvfZezwhssLkw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8893pOzyTMzPqmPgE5YpGysyS8q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oQUSlcB0tj5RvBVx3JIswpKoVME.png"
-    },
-    {
-      "id": "tmdb:1397364",
-      "type": "movie",
-      "name": "La grazia",
-      "ids": {
-        "tmdb": 1397364
-      },
-      "overview": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y827QvXMwH56JW7LIlI5rpY4VwF.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/oxP0TzqxQxaHY3U1QnCu41t7jji.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vGIzU7evdRGCsrbPfKQ7Iy0SFvW.png"
     },
     {
       "id": "tmdb:558582",
@@ -407,46 +323,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/vps7zDKtR4Xapff0RnvwZ6LINh.png"
     },
     {
-      "id": "tmdb:49096",
+      "id": "tmdb:1678",
       "type": "movie",
-      "name": "El imperio de la pasión",
+      "name": "Godzilla. Japón bajo el terror del monstruo",
       "ids": {
-        "tmdb": 49096
+        "tmdb": 1678
       },
-      "overview": "Un viejo conductor de carro-taxi está casado con una bella joven que cada noche le baña, le da masajes y le ofrece sake. Una noche, el joven amante de la mujer mata al marido y esconde el cadáver en un pozo aislado. Pasan tres años y el fantasma del muerto aparece.",
-      "year": 1978,
-      "poster": "https://image.tmdb.org/t/p/w342/zD8x5HuNzkfMqkoIPcfNSDP9sZZ.jpg",
+      "overview": "Las misteriosas destrucciones de barcos en el Pacífico provocan el pánico. Los nativos de una isla afirman que el culpable es una criatura legendaria, Godzilla, un lagarto mutante convertido en un gigantesco monstruo a causa de unas radiaciones atómicas. Godzilla se dispone a atacar las principales ciudades del Japón.",
+      "year": 1954,
+      "poster": "https://image.tmdb.org/t/p/w342/mu4KeHb8GOjKbZGIeE4C5dXBx9B.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8aad9uv6zD4D5f17ClfhNC29t6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e0OGQHlAToT3Chbd1pG6Cmw9neC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/hrYdmBL3tS7yEGaN8uq2Yeipo21.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sJuK38Pq4RpryeLm2koshzlQ1VK.png"
     },
     {
-      "id": "tmdb:121986",
+      "id": "tmdb:1059128",
       "type": "movie",
-      "name": "Frances Ha",
+      "name": "Queer",
       "ids": {
-        "tmdb": 121986
+        "tmdb": 1059128
       },
-      "overview": "Frances (Greta Gerwig) una joven de 27 años que a pesar de su edad ha decidido perseguir su sueño de ser bailarina en una compañía de danza en Nueva York. Vive con su amiga Sophie, y disfruta de la vida con alegría y despreocupaciones. Una fábula moderna de Noah Baumbach (The Squid and the Whale, Greenberg) sobre la juventud, la amistad, la ambición, el fracaso y la redención. (FILMAFFINITY)",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/ap62XovfsJ2Lq0GkHlq61vkjeFZ.jpg",
+      "overview": "1950. William Lee, un expatriado estadounidense de unos 50 años en Ciudad de México, pasa sus días casi solo, salvo algunos contactos con otros miembros de la pequeña comunidad estadounidense. Su encuentro con Eugene Allerton, un joven estudiante recién llegado a la ciudad, le muestra, por primera vez, que finalmente podría ser posible establecer una conexión íntima con alguien.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/w18FVX4a42hWZO6QB07IGBTEFGo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4CRMMRxkKqBiTa045rAccgmCaop.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/d7O28FvoZZf79Fy9EDnUQHTKJV2.png"
-    },
-    {
-      "id": "tmdb:34647",
-      "type": "movie",
-      "name": "Enter the Void",
-      "ids": {
-        "tmdb": 34647
-      },
-      "overview": "Oscar y su hermana Linda viven desde hace poco en Tokyo. Él sobrevive traficando con drogas, ella trabaja como stripper en un club nocturno. Durante un forcejeo con la policía, Oscar cae herido tras un disparo. Aunque esté agonizando, su espíritu, fiel a la promesa de no abandonar a su hermana, rechaza abandonar el mundo de los vivos. Su espíritu vaga ahora por la ciudad y sus visiones son cada vez más caóticas. (FILMAFFINITY)",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eT0Qri82683I4fFV0md8CC01YyB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6jgdrcJgUDI9aA6g3VHWACsMjni.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/eXB2NlJNNtQrxddrshMnCyzq0k9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hhMU6kmnpaTH0QihDTJ4AWfUo9f.png"
     },
     {
       "id": "tmdb:324807",
@@ -477,32 +379,102 @@
       "logo": "https://image.tmdb.org/t/p/w500/dtS6owQVaAd5s7ix3oGWCsVx98r.png"
     },
     {
-      "id": "tmdb:749004",
+      "id": "tmdb:152584",
       "type": "movie",
-      "name": "Petite Maman",
+      "name": "La vida de Adèle",
       "ids": {
-        "tmdb": 749004
+        "tmdb": 152584
       },
-      "overview": "Drama sobre la infancia, protagonizado por dos niños de ocho años.  Nelly tiene 8 años y acaba de perder a su abuela. Mientras ayuda a sus padres a vaciar la casa en la que su madre creció, explora con intriga el bosque que la rodea, donde su mamá solía jugar de pequeña.  Allí Nelly conoce a otra niña de su edad y la inmediata conexión entre ambas da paso a una preciosa amistad. Juntas construyen una cabaña en el bosque y, entre juegos y confidencias, desvelarán un fascinante secreto. A pesar de las circunstancias familiares, el viaje se convierte en una emocionante aventura para Nelly, quien descubrirá maravillada el universo de su mamá cuando era pequeña, y podrá conectarse con ella de una forma mágica e inusual.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/olnyyF671yxpZagYfnvfpI3TGft.jpg",
+      "overview": "Adèle tiene quince años y sabe que lo normal es salir con chicos, pero tiene dudas sobre su sexualidad. Una noche conoce y se enamora inesperadamente de Emma, una joven con el pelo azul. La atracción que despierta en ella una mujer que le muestra el camino del deseo y la madurez, hará que Adèle tenga que sufrir los juicios y prejuicios de familiares y amigos. Adaptación de la novela gráfica \"Blue\", de Julie Maroh.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/en27JWtPoF2nsWPqFoI8lj3y66d.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h7ThMiMNs0VMqx9HTMYlOpoT7sv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fnuTlJtXut9SvdVE7VJhXkA41CU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aqeozqvROMaYEtTP9kWdwapC5mK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tSieGjZMCJu99Oalk2BuogGmcGH.png"
     },
     {
-      "id": "tmdb:103328",
+      "id": "tmdb:1397364",
       "type": "movie",
-      "name": "Holy Motors",
+      "name": "La grazia",
       "ids": {
-        "tmdb": 103328
+        "tmdb": 1397364
       },
-      "overview": "\"Holy Motors\" narra 24 horas en la vida de un ser con múltiples caras: asesino, mendigo, ejecutivo, monstruo, padre de familia... El protagonista tiene una identidad completamente distinta en cada una de estas vidas. Encarna personajes como si se tratase de una película dentro de una película. ¿Pero dónde están las cámaras, el equipo de cine, el escenógrafo? ¿Y dónde está su casa, su refugio?",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/q4QYQ8YfPtO5ohDMiRMSrSY00nK.jpg",
+      "overview": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v3kfwE9eFvzC2rJTRl4ngrFB689.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kPUoKs8YPLw3XVRVeu7LaMSnQnK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y827QvXMwH56JW7LIlI5rpY4VwF.png"
+    },
+    {
+      "id": "tmdb:34647",
+      "type": "movie",
+      "name": "Enter the Void",
+      "ids": {
+        "tmdb": 34647
+      },
+      "overview": "Oscar y su hermana Linda viven desde hace poco en Tokyo. Él sobrevive traficando con drogas, ella trabaja como stripper en un club nocturno. Durante un forcejeo con la policía, Oscar cae herido tras un disparo. Aunque esté agonizando, su espíritu, fiel a la promesa de no abandonar a su hermana, rechaza abandonar el mundo de los vivos. Su espíritu vaga ahora por la ciudad y sus visiones son cada vez más caóticas. (FILMAFFINITY)",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eT0Qri82683I4fFV0md8CC01YyB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6jgdrcJgUDI9aA6g3VHWACsMjni.png"
+    },
+    {
+      "id": "tmdb:157851",
+      "type": "movie",
+      "name": "Maps to the Stars",
+      "ids": {
+        "tmdb": 157851
+      },
+      "overview": "Un cuento moderno sobre la obsesión por la popularidad. Stafford Weiss es terapeuta y escribe libros de autoayuda. Tiene una mujer sobreprotectora, un hijo antigua estrella de la TV en rehabilitación y una hija que acaba de salir del psiquiátrico. La principal cliente de Stafford es una famosa actriz, a punto de interpretar el papel que hizo su madre en los años 60.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/oUCTdSKwu3zIrbpvfZezwhssLkw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8893pOzyTMzPqmPgE5YpGysyS8q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oQUSlcB0tj5RvBVx3JIswpKoVME.png"
+    },
+    {
+      "id": "tmdb:121986",
+      "type": "movie",
+      "name": "Frances Ha",
+      "ids": {
+        "tmdb": 121986
+      },
+      "overview": "Frances (Greta Gerwig) una joven de 27 años que a pesar de su edad ha decidido perseguir su sueño de ser bailarina en una compañía de danza en Nueva York. Vive con su amiga Sophie, y disfruta de la vida con alegría y despreocupaciones. Una fábula moderna de Noah Baumbach (The Squid and the Whale, Greenberg) sobre la juventud, la amistad, la ambición, el fracaso y la redención. (FILMAFFINITY)",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/ap62XovfsJ2Lq0GkHlq61vkjeFZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4CRMMRxkKqBiTa045rAccgmCaop.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/d7O28FvoZZf79Fy9EDnUQHTKJV2.png"
+    },
+    {
+      "id": "tmdb:49096",
+      "type": "movie",
+      "name": "El imperio de la pasión",
+      "ids": {
+        "tmdb": 49096
+      },
+      "overview": "Un viejo conductor de carro-taxi está casado con una bella joven que cada noche le baña, le da masajes y le ofrece sake. Una noche, el joven amante de la mujer mata al marido y esconde el cadáver en un pozo aislado. Pasan tres años y el fantasma del muerto aparece.",
+      "year": 1978,
+      "poster": "https://image.tmdb.org/t/p/w342/zD8x5HuNzkfMqkoIPcfNSDP9sZZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8aad9uv6zD4D5f17ClfhNC29t6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e0OGQHlAToT3Chbd1pG6Cmw9neC.png"
+    },
+    {
+      "id": "tmdb:901563",
+      "type": "movie",
+      "name": "Close",
+      "ids": {
+        "tmdb": 901563
+      },
+      "overview": "Léo y Rémi, de 13 años, son amigos de toda la vida. Hasta que un suceso impensable los separa. Léo se acerca entonces a Sophie, la madre de Rémi, para tratar de entender.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/pyVvz3B5IoJKd9ayozI8RrJW2vU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vq4LpuxklrsiWUko00gTlailpYL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cBoQWDDhhONuchTiKnpGPcMurh2.png"
     },
     {
       "id": "tmdb:401246",
@@ -519,6 +491,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/1iDLeGWQ20ZNQ53AffTTRihJppk.png"
     },
     {
+      "id": "tmdb:749004",
+      "type": "movie",
+      "name": "Petite Maman",
+      "ids": {
+        "tmdb": 749004
+      },
+      "overview": "Drama sobre la infancia, protagonizado por dos niños de ocho años.  Nelly tiene 8 años y acaba de perder a su abuela. Mientras ayuda a sus padres a vaciar la casa en la que su madre creció, explora con intriga el bosque que la rodea, donde su mamá solía jugar de pequeña.  Allí Nelly conoce a otra niña de su edad y la inmediata conexión entre ambas da paso a una preciosa amistad. Juntas construyen una cabaña en el bosque y, entre juegos y confidencias, desvelarán un fascinante secreto. A pesar de las circunstancias familiares, el viaje se convierte en una emocionante aventura para Nelly, quien descubrirá maravillada el universo de su mamá cuando era pequeña, y podrá conectarse con ella de una forma mágica e inusual.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/olnyyF671yxpZagYfnvfpI3TGft.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h7ThMiMNs0VMqx9HTMYlOpoT7sv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fnuTlJtXut9SvdVE7VJhXkA41CU.png"
+    },
+    {
+      "id": "tmdb:376866",
+      "type": "movie",
+      "name": "Jackie",
+      "ids": {
+        "tmdb": 376866
+      },
+      "overview": "Película sobre la exprimera dama estadounidense Jacqueline Kennedy, centrada en los días inmediatamente posteriores al asesinato de JFK, en Dallas, el 22 de noviembre del año 1963.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/hxmIRglqQMNb9A6NLQt5zCO39N7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rjSHXNyIVikQIuP50lWC2C5xWGP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/h7fQIH0TIdSsPgc4UTuZsAqKuoy.png"
+    },
+    {
       "id": "tmdb:12561",
       "type": "movie",
       "name": "Godzilla vs Destoroyah",
@@ -531,6 +531,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tuX7BacLA86jtTCgEZZmpurVuAs.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4SfFMepLDmMW927j6Afa3Lt1L8t.png"
+    },
+    {
+      "id": "tmdb:103328",
+      "type": "movie",
+      "name": "Holy Motors",
+      "ids": {
+        "tmdb": 103328
+      },
+      "overview": "\"Holy Motors\" narra 24 horas en la vida de un ser con múltiples caras: asesino, mendigo, ejecutivo, monstruo, padre de familia... El protagonista tiene una identidad completamente distinta en cada una de estas vidas. Encarna personajes como si se tratase de una película dentro de una película. ¿Pero dónde están las cámaras, el equipo de cine, el escenógrafo? ¿Y dónde está su casa, su refugio?",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/q4QYQ8YfPtO5ohDMiRMSrSY00nK.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v3kfwE9eFvzC2rJTRl4ngrFB689.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kPUoKs8YPLw3XVRVeu7LaMSnQnK.png"
     },
     {
       "id": "tmdb:30020",
@@ -561,46 +575,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yPi30BnHk4F2u2fze7rfvgbrgAp.png"
     },
     {
-      "id": "tmdb:376866",
+      "id": "tmdb:4710",
       "type": "movie",
-      "name": "Jackie",
+      "name": "Masculino, femenino",
       "ids": {
-        "tmdb": 376866
+        "tmdb": 4710
       },
-      "overview": "Película sobre la exprimera dama estadounidense Jacqueline Kennedy, centrada en los días inmediatamente posteriores al asesinato de JFK, en Dallas, el 22 de noviembre del año 1963.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/hxmIRglqQMNb9A6NLQt5zCO39N7.jpg",
+      "overview": "Paul es un joven idealista que acaba de terminar el servicio militar. Conoce a Madeleine, una joven atractiva que aspira a ser cantante pop, y trata de conquistarla. Ambos salen juntos y terminan juntos en la cama, aunque con dos amigas de Madeleine, Elisabeth y Catherine.",
+      "year": 1966,
+      "poster": "https://image.tmdb.org/t/p/w342/qJHD9j8mnXcYbsoNumUfP0R1LhL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rjSHXNyIVikQIuP50lWC2C5xWGP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/h7fQIH0TIdSsPgc4UTuZsAqKuoy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/mX67oEhPK9qBwFVhlDRMG6iJdi7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cHJENYYNr1Ca7EcKag4zmflX0An.png"
     },
     {
-      "id": "tmdb:157823",
+      "id": "tmdb:952701",
       "type": "movie",
-      "name": "Night Moves",
+      "name": "Retorno a Seúl",
       "ids": {
-        "tmdb": 157823
+        "tmdb": 952701
       },
-      "overview": "Un drama centrado en tres ecologistas que que quieren volar una presa.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
+      "overview": "Por capricho, Freddie, de veinticinco años, regresa por primera vez a Corea del Sur, donde nació. La joven parte con ardor en busca de sus orígenes en este país que le es ajeno, inclinando su vida a nuevos e inesperados rumbos.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/qKVu2QqARzNZUkO9IpoSFaOXIRG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yTenAFsjaEv9ZL3DRiydRumojLL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iDh35Xm4Su4bNMKW8jW8RtClP3r.png"
-    },
-    {
-      "id": "tmdb:481432",
-      "type": "movie",
-      "name": "Lazzaro feliz",
-      "ids": {
-        "tmdb": 481432
-      },
-      "overview": "Lazzaro es un joven campesino que, junto a un grupo de gente, vive en una casa de campo, a las órdenes de una marquesa. Pronto, sin embargo, nos daremos cuenta de que en esta historia hay algo extraño, y los avatares de Lazzaro darán un inesperado vuelco hacia lo fantástico. Lazzaro felice recorre el cine italiano de manera libre, para relatar la historia de un hombre bueno: un auténtico milagro cinematográfico.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/eGGZWvAbefRv5YfFylMeMGeyfe3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zTnpY0BXP6ytvV4ZMsAmsIEDmNM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zLkqFPHosFgUMyXu5h1pPFDnEUw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/s5gAS4FXay2xwVvx0dTlmnbP3Zi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n6INIsG2eOgl7HErE4qVWyywhts.png"
     },
     {
       "id": "tmdb:892",
@@ -617,46 +617,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3DCxPvg26ix2FHwXDiDlcUhADH1.png"
     },
     {
-      "id": "tmdb:4710",
+      "id": "tmdb:481432",
       "type": "movie",
-      "name": "Masculino, femenino",
+      "name": "Lazzaro feliz",
       "ids": {
-        "tmdb": 4710
+        "tmdb": 481432
       },
-      "overview": "Paul es un joven idealista que acaba de terminar el servicio militar. Conoce a Madeleine, una joven atractiva que aspira a ser cantante pop, y trata de conquistarla. Ambos salen juntos y terminan juntos en la cama, aunque con dos amigas de Madeleine, Elisabeth y Catherine.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/qJHD9j8mnXcYbsoNumUfP0R1LhL.jpg",
+      "overview": "Lazzaro es un joven campesino que, junto a un grupo de gente, vive en una casa de campo, a las órdenes de una marquesa. Pronto, sin embargo, nos daremos cuenta de que en esta historia hay algo extraño, y los avatares de Lazzaro darán un inesperado vuelco hacia lo fantástico. Lazzaro felice recorre el cine italiano de manera libre, para relatar la historia de un hombre bueno: un auténtico milagro cinematográfico.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/eGGZWvAbefRv5YfFylMeMGeyfe3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/mX67oEhPK9qBwFVhlDRMG6iJdi7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cHJENYYNr1Ca7EcKag4zmflX0An.png"
-    },
-    {
-      "id": "tmdb:36243",
-      "type": "movie",
-      "name": "Godzilla, Mothra y King Ghidorah: Monstruos gigantescos ataque total",
-      "ids": {
-        "tmdb": 36243
-      },
-      "overview": "En los años 50, la capital de Japón fue atacada y casi destruida por Godzilla. Desde entonces, Japón ha disfrutado de un gran periodo de paz, pero esa paz se ve alterada cuando un submarino del ejército japonés detecta una extraña silueta en el fondo del mar que recuerda a Godzilla. Nadie acepta tal posibilidad, excepto el Comandante Tachibana quien, en su niñez, fue testigo del ataque de Godzilla, por lo que no descarta el regreso del monstruo atómico.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/r8PCRaQknNlRgaAzQCFRIBoBQCy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8uCMsYHORPMZZZwNkDvLdT6oqX3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2ddlw7JTX7jghKrn2SIkSpGUn1N.png"
-    },
-    {
-      "id": "tmdb:258",
-      "type": "movie",
-      "name": "Domicilio conyugal",
-      "ids": {
-        "tmdb": 258
-      },
-      "overview": "Antoine y Christine son una pareja de recién casados. Mientras él se gana la vida vendiendo flores secas por las calles de París, su mujer imparte clases de violín. Pasa el tiempo y tienen un bebé, pero Antoine, que sigue siendo un hombre emocionalmente inestable e inmaduro, tiene una aventura extramatrimonial.",
-      "year": 1970,
-      "poster": "https://image.tmdb.org/t/p/w342/s9R5wKbrB9SfOG1FzbICbOsssX8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/w2X5QtXJpOjTDsiqJlBafCrcASt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8hDdmvsu3S3u8KyVtqAnCKtiANJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zTnpY0BXP6ytvV4ZMsAmsIEDmNM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zLkqFPHosFgUMyXu5h1pPFDnEUw.png"
     },
     {
       "id": "tmdb:48303",
@@ -671,6 +643,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/cftBm1AnSqAVKffwMr3FR6loveD.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/k0opg6EcF9PmtosPjajKLvcfG9G.png"
+    },
+    {
+      "id": "tmdb:157823",
+      "type": "movie",
+      "name": "Night Moves",
+      "ids": {
+        "tmdb": 157823
+      },
+      "overview": "Un drama centrado en tres ecologistas que que quieren volar una presa.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/qQj7JKpUfrP7rVvr7kVrKuevGy7.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yTenAFsjaEv9ZL3DRiydRumojLL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iDh35Xm4Su4bNMKW8jW8RtClP3r.png"
     },
     {
       "id": "tmdb:267999",
@@ -698,6 +684,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5gczeDdoLHAQK3wvvaa2XahINJx.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8BCNBehwW9Li9utJCHFcqHIjwX6.png"
+    },
+    {
+      "id": "tmdb:33560",
+      "type": "movie",
+      "name": "Totally F***ed Up",
+      "ids": {
+        "tmdb": 33560
+      },
+      "overview": "Narra la historia de un grupo de jóvenes homosexuales, gays y lesbianas, de Los Angeles. Sus padres les han echado de casa, están sin blanca y sus amantes les engañan. Están \"totalmente jodidos\", tanto que como solución a sus problemas algunos se llega a plantear el suicidio...",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/qZBtSTEhlXy0aNTZ40umWLpJr2T.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1nbN7na9FxoZNCDvLZPvV8gcvcY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xPovRQAlEebxteuJA4Vr8b6ShMe.png"
     }
   ]
 }
