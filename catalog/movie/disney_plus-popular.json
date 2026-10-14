@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/eZwZCmxED2niS2gvakcalxw97Sl.png"
     },
     {
-      "id": "tmdb:299534",
-      "type": "movie",
-      "name": "Vengadores: Endgame",
-      "ids": {
-        "tmdb": 299534
-      },
-      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cGIL1ZUekenxxzSGjWKcrw9TXVq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
-    },
-    {
       "id": "tmdb:299536",
       "type": "movie",
       "name": "Vengadores: Infinity War",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/zcU8TBp4Ke5qLomJSrSQC1KS0XJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/6SH4ANv9KvArYxdJ2TDvSJCvGhG.png"
+    },
+    {
+      "id": "tmdb:299534",
+      "type": "movie",
+      "name": "Vengadores: Endgame",
+      "ids": {
+        "tmdb": 299534
+      },
+      "overview": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/cGIL1ZUekenxxzSGjWKcrw9TXVq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
     },
     {
       "id": "tmdb:9479",
@@ -113,20 +113,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/yu1IfNUAb0VBCt39tJsBAjZ9HlU.png"
     },
     {
-      "id": "tmdb:24428",
-      "type": "movie",
-      "name": "Vengadores",
-      "ids": {
-        "tmdb": 24428
-      },
-      "overview": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/52Crh0xhowz2njCglZgBrHxXzVw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/41K6Pj56MITowyjsUyENSCtAIJY.png"
-    },
-    {
       "id": "tmdb:354912",
       "type": "movie",
       "name": "Coco",
@@ -141,18 +127,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/A5WVnUk6qcSQla6yMsPW2nQ7VB3.png"
     },
     {
-      "id": "tmdb:533535",
+      "id": "tmdb:24428",
       "type": "movie",
-      "name": "Deadpool y Lobezno",
+      "name": "Vengadores",
       "ids": {
-        "tmdb": 533535
+        "tmdb": 24428
       },
-      "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+      "overview": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A1OvvfGOyq2NwPYUDpykkN3IZOk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8tM2mDr1dj7eaXYrMdLlop3wypw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/52Crh0xhowz2njCglZgBrHxXzVw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/41K6Pj56MITowyjsUyENSCtAIJY.png"
+    },
+    {
+      "id": "tmdb:19995",
+      "type": "movie",
+      "name": "Avatar",
+      "ids": {
+        "tmdb": 19995
+      },
+      "overview": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Antz70VlRI2yU3iwYxyYUknzfz9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eYBa9fpSvZEYOl88ulP5fnRoCIi.png"
     },
     {
       "id": "tmdb:150540",
@@ -169,6 +169,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/7VPSEOjcicen7gQwdQsbMy5n3CG.png"
     },
     {
+      "id": "tmdb:533535",
+      "type": "movie",
+      "name": "Deadpool y Lobezno",
+      "ids": {
+        "tmdb": 533535
+      },
+      "overview": "Un apático Wade Wilson se afana en la vida civil tras dejar atrás sus días como Deadpool, un mercenario moralmente flexible. Pero cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe volver a vestirse a regañadientes con un Lobezno aún más reacio a ayudar.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A1OvvfGOyq2NwPYUDpykkN3IZOk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8tM2mDr1dj7eaXYrMdLlop3wypw.png"
+    },
+    {
       "id": "tmdb:10138",
       "type": "movie",
       "name": "Iron Man 2",
@@ -181,20 +195,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/wWu57zGqpAt7K746drOSjbwfIfe.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/e7jxjQ7zFnCaTSMuZGlMXmmrmA1.png"
-    },
-    {
-      "id": "tmdb:1022789",
-      "type": "movie",
-      "name": "Del revés 2 (Inside Out 2)",
-      "ids": {
-        "tmdb": 1022789
-      },
-      "overview": "Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos...) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kP672BfrcvUwGVvf5l0vtfOJaV0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2pThxAbwd3L1XQ5LpHxWmADXzTx.png"
     },
     {
       "id": "tmdb:863",
@@ -225,6 +225,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/a8UD7PPCao8FXGKqHC99nuXRnDX.png"
     },
     {
+      "id": "tmdb:1022789",
+      "type": "movie",
+      "name": "Del revés 2 (Inside Out 2)",
+      "ids": {
+        "tmdb": 1022789
+      },
+      "overview": "Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos...) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kP672BfrcvUwGVvf5l0vtfOJaV0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2pThxAbwd3L1XQ5LpHxWmADXzTx.png"
+    },
+    {
+      "id": "tmdb:508947",
+      "type": "movie",
+      "name": "Red",
+      "ids": {
+        "tmdb": 508947
+      },
+      "overview": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yFghsnpKOcTsi7M8xkzJcHmd1Jz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/w0xaUJK54cuPxm6hq5lsGCwqtXo.png"
+    },
+    {
       "id": "tmdb:99861",
       "type": "movie",
       "name": "Vengadores: La era de Ultrón",
@@ -253,18 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/qX3pXAREtIq2KoL9JFsUUcUOTkx.png"
     },
     {
-      "id": "tmdb:120",
+      "id": "tmdb:284052",
       "type": "movie",
-      "name": "El señor de los anillos: La comunidad del anillo",
+      "name": "Doctor Strange",
       "ids": {
-        "tmdb": 120
+        "tmdb": 284052
       },
-      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "overview": "La vida del famoso neurocirujano Stephen Strange cambia radicalmente cuando un accidente le impide el uso de sus manos y se ve forzado a buscar una cura en un misterioso enclave. Inmediatamente aprende que no solo es un sanatorio... es también el frente de batalla contra oscuras fuerzas, y debe elegir entre volver a su antigua vida o defender al mundo como el más poderoso hechicero del momento. Algunas secuencias o formas con luces parpadeantes pueden afectar a los espectadores fotosensibles.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5wS1ffWgEdA2NcbjZypunACUPDG.png"
     },
     {
       "id": "tmdb:315635",
@@ -281,186 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/z1NmlOHGhFOt4cQJpyl9AHUtUsx.png"
     },
     {
-      "id": "tmdb:447365",
+      "id": "tmdb:120",
       "type": "movie",
-      "name": "Guardianes de la Galaxia: Volumen 3",
+      "name": "El señor de los anillos: La comunidad del anillo",
       "ids": {
-        "tmdb": 447365
+        "tmdb": 120
       },
-      "overview": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g7p6k4XsYbvKZllMqCtMTb7mdO4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Noi3XhX7UKaEPwyIJQKjlzG9Jc.png"
-    },
-    {
-      "id": "tmdb:508947",
-      "type": "movie",
-      "name": "Red",
-      "ids": {
-        "tmdb": 508947
-      },
-      "overview": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yFghsnpKOcTsi7M8xkzJcHmd1Jz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/w0xaUJK54cuPxm6hq5lsGCwqtXo.png"
-    },
-    {
-      "id": "tmdb:156022",
-      "type": "movie",
-      "name": "The Equalizer",
-      "ids": {
-        "tmdb": 156022
-      },
-      "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wNKqSUg2lGAFaoingqmPJ05Qft5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wfIL5js414PISkX5YTGXqggdgyD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ycltUQC6QKlz23GPifEHK0dNEXd.png"
-    },
-    {
-      "id": "tmdb:1327819",
-      "type": "movie",
-      "name": "Hoppers",
-      "ids": {
-        "tmdb": 1327819
-      },
-      "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/yONVGkDGZ07WGAR5Fq0GErzHUZ9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jj3ohaYX5FdyUGb343hFxl4PXpT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gsD5xIliP0YFfjXETFInVvNuIVL.png"
-    },
-    {
-      "id": "tmdb:321612",
-      "type": "movie",
-      "name": "La bella y la bestia",
-      "ids": {
-        "tmdb": 321612
-      },
-      "overview": "Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Bella irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1Jk9ra6aUzSSieOWAZSGln96ih0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1fluuv4HMDRTxWm7INASTlrj8zt.png"
-    },
-    {
-      "id": "tmdb:131631",
-      "type": "movie",
-      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
-      "ids": {
-        "tmdb": 131631
-      },
-      "overview": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tzYMAaZkbGBD6MYgxvyS4MzeU8G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png"
-    },
-    {
-      "id": "tmdb:585",
-      "type": "movie",
-      "name": "Monstruos, S.A.",
-      "ids": {
-        "tmdb": 585
-      },
-      "overview": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
+      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
       "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AjXCJ8VGSdhQdLmHzKH2VTNnJmv.png"
-    },
-    {
-      "id": "tmdb:8587",
-      "type": "movie",
-      "name": "El rey león",
-      "ids": {
-        "tmdb": 8587
-      },
-      "overview": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ztlWLlKCMhpkMMhfIWsYTcnEOJw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oIjNoucWBbtwk4TcJfsP0kffur0.png"
-    },
-    {
-      "id": "tmdb:1242898",
-      "type": "movie",
-      "name": "Predator: Badlands",
-      "ids": {
-        "tmdb": 1242898
-      },
-      "overview": "Un joven Predator rechazado por su clan encuentra un aliado inesperado en Thia y emprende un peligroso viaje en busca del adversario definitivo.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k3wtmkySU8pHSCfjNqbp5f81DS0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2zFFSg9CgwwdJApvaMsloJhwvJr.png"
-    },
-    {
-      "id": "tmdb:552524",
-      "type": "movie",
-      "name": "Lilo y Stitch",
-      "ids": {
-        "tmdb": 552524
-      },
-      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Aj0umGs0heNJ4VKtkaRQWeg6Tyx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png"
-    },
-    {
-      "id": "tmdb:945961",
-      "type": "movie",
-      "name": "Alien. Romulus",
-      "ids": {
-        "tmdb": 945961
-      },
-      "overview": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rzNc57SE0I4nV9qk73DMr51wLfW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wb2OPyCSGLy7Ca5RquWF3VfOJKx.png"
-    },
-    {
-      "id": "tmdb:324857",
-      "type": "movie",
-      "name": "Spider-Man: un nuevo universo",
-      "ids": {
-        "tmdb": 324857
-      },
-      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wBc4RJcRvvt8fMW27V346Kb7Wm9.png"
-    },
-    {
-      "id": "tmdb:122",
-      "type": "movie",
-      "name": "El señor de los anillos: El retorno del rey",
-      "ids": {
-        "tmdb": 122
-      },
-      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hZiZ67GMVkOamuHZ7Z5vcJzH1bM.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
     },
     {
       "id": "tmdb:1495",
@@ -477,32 +337,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/xCtCoxtsBnql7Tmq600Sixkpbr6.png"
     },
     {
-      "id": "tmdb:19995",
+      "id": "tmdb:453395",
       "type": "movie",
-      "name": "Avatar",
+      "name": "Doctor Strange en el multiverso de la locura",
       "ids": {
-        "tmdb": 19995
+        "tmdb": 453395
       },
-      "overview": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "overview": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Antz70VlRI2yU3iwYxyYUknzfz9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eYBa9fpSvZEYOl88ulP5fnRoCIi.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/i7pIDC2U4CRF4YwDFwZGRXr37Y6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6PaRKeCVDysn8OuwwCButVJzuh7.png"
     },
     {
-      "id": "tmdb:550",
+      "id": "tmdb:156022",
       "type": "movie",
-      "name": "El club de la lucha",
+      "name": "The Equalizer",
       "ids": {
-        "tmdb": 550
+        "tmdb": 156022
       },
-      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "overview": "Robert McCall, un antiguo agente de la CIA que lleva ahora una vida tranquila, abandona su retiro para ayudar a Teri, que está siendo explotada por la mafia rusa. A pesar de que aseguró no volver a ser violento, contemplar tanta crueldad despertará en Robert un implacable y renovado deseo de justicia.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wNKqSUg2lGAFaoingqmPJ05Qft5.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wfIL5js414PISkX5YTGXqggdgyD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ycltUQC6QKlz23GPifEHK0dNEXd.png"
+    },
+    {
+      "id": "tmdb:552524",
+      "type": "movie",
+      "name": "Lilo y Stitch",
+      "ids": {
+        "tmdb": 552524
+      },
+      "overview": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/Aj0umGs0heNJ4VKtkaRQWeg6Tyx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/toXaWRjF0DpaQ9yzdbyKoFpFLkU.png"
+    },
+    {
+      "id": "tmdb:1242898",
+      "type": "movie",
+      "name": "Predator: Badlands",
+      "ids": {
+        "tmdb": 1242898
+      },
+      "overview": "Un joven Predator rechazado por su clan encuentra un aliado inesperado en Thia y emprende un peligroso viaje en busca del adversario definitivo.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/k3wtmkySU8pHSCfjNqbp5f81DS0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2zFFSg9CgwwdJApvaMsloJhwvJr.png"
     },
     {
       "id": "tmdb:198663",
@@ -519,32 +407,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gCl51ndlCdLQc2w6sShpUCS6ZW8.png"
     },
     {
-      "id": "tmdb:210577",
+      "id": "tmdb:447365",
       "type": "movie",
-      "name": "Perdida",
+      "name": "Guardianes de la Galaxia: Volumen 3",
       "ids": {
-        "tmdb": 210577
+        "tmdb": 447365
       },
-      "overview": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bkIhygnbv9ydlDo4SEsOcqGgQD4.jpg",
+      "overview": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7a5XsVUE9jFsSVNDvnqftnlbseO.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4SQBPeL24vtjmviI8j0r0uH5FYl.png"
-    },
-    {
-      "id": "tmdb:453395",
-      "type": "movie",
-      "name": "Doctor Strange en el multiverso de la locura",
-      "ids": {
-        "tmdb": 453395
-      },
-      "overview": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/1w3MlLZPqr2Pm5loQ9h2gJwenMr.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/i7pIDC2U4CRF4YwDFwZGRXr37Y6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6PaRKeCVDysn8OuwwCButVJzuh7.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/g7p6k4XsYbvKZllMqCtMTb7mdO4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Noi3XhX7UKaEPwyIJQKjlzG9Jc.png"
     },
     {
       "id": "tmdb:11",
@@ -561,18 +435,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/dLgwXopLDtvZ3pn7GbMbSsckKuc.png"
     },
     {
-      "id": "tmdb:10193",
+      "id": "tmdb:324857",
       "type": "movie",
-      "name": "Toy Story 3",
+      "name": "Spider-Man: un nuevo universo",
       "ids": {
-        "tmdb": 10193
+        "tmdb": 324857
       },
-      "overview": "Sabiendo que su dueño Andy, que ya no es un niño, se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse ante su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el inicio de un montón de trepidantes y divertidas aventuras.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/ntoCb04GqfsGHyeGvYygvWp4VMP.jpg",
+      "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1rBoAA0H6gE978rIgdgaLCJ265l.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pEa1I1iweYwjvEJuGTQ2c8cNUkN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wBc4RJcRvvt8fMW27V346Kb7Wm9.png"
+    },
+    {
+      "id": "tmdb:321612",
+      "type": "movie",
+      "name": "La bella y la bestia",
+      "ids": {
+        "tmdb": 321612
+      },
+      "overview": "Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Bella irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1Jk9ra6aUzSSieOWAZSGln96ih0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1fluuv4HMDRTxWm7INASTlrj8zt.png"
+    },
+    {
+      "id": "tmdb:8587",
+      "type": "movie",
+      "name": "El rey león",
+      "ids": {
+        "tmdb": 8587
+      },
+      "overview": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ztlWLlKCMhpkMMhfIWsYTcnEOJw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oIjNoucWBbtwk4TcJfsP0kffur0.png"
+    },
+    {
+      "id": "tmdb:122",
+      "type": "movie",
+      "name": "El señor de los anillos: El retorno del rey",
+      "ids": {
+        "tmdb": 122
+      },
+      "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "year": 2003,
+      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pbucpT9eKhS0QXNgq7PS97AP5V2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hZiZ67GMVkOamuHZ7Z5vcJzH1bM.png"
+    },
+    {
+      "id": "tmdb:945961",
+      "type": "movie",
+      "name": "Alien. Romulus",
+      "ids": {
+        "tmdb": 945961
+      },
+      "overview": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rzNc57SE0I4nV9qk73DMr51wLfW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wb2OPyCSGLy7Ca5RquWF3VfOJKx.png"
     },
     {
       "id": "tmdb:76600",
@@ -589,32 +519,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/gUnPGTrgaip4dKd9W2e3WDXbhnF.png"
     },
     {
-      "id": "tmdb:284052",
+      "id": "tmdb:585",
       "type": "movie",
-      "name": "Doctor Strange",
+      "name": "Monstruos, S.A.",
       "ids": {
-        "tmdb": 284052
+        "tmdb": 585
       },
-      "overview": "La vida del famoso neurocirujano Stephen Strange cambia radicalmente cuando un accidente le impide el uso de sus manos y se ve forzado a buscar una cura en un misterioso enclave. Inmediatamente aprende que no solo es un sanatorio... es también el frente de batalla contra oscuras fuerzas, y debe elegir entre volver a su antigua vida o defender al mundo como el más poderoso hechicero del momento. Algunas secuencias o formas con luces parpadeantes pueden afectar a los espectadores fotosensibles.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg",
+      "overview": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5wS1ffWgEdA2NcbjZypunACUPDG.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/cUsbqCE1VQxtjOaYtZvKFKcTLmJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AjXCJ8VGSdhQdLmHzKH2VTNnJmv.png"
     },
     {
-      "id": "tmdb:177572",
+      "id": "tmdb:550",
       "type": "movie",
-      "name": "Big Hero 6",
+      "name": "El club de la lucha",
       "ids": {
-        "tmdb": 177572
+        "tmdb": 550
       },
-      "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
+      "overview": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hftvEFdU0Czar6W95vJbBH0t1Ue.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ganZhk94eaicQBcx3QGypDUT80I.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gfW41jGgnB4Hrxih7anVqq6TkXL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
+    },
+    {
+      "id": "tmdb:131631",
+      "type": "movie",
+      "name": "Los Juegos del Hambre: Sinsajo - Parte 1",
+      "ids": {
+        "tmdb": 131631
+      },
+      "overview": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía...",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tzYMAaZkbGBD6MYgxvyS4MzeU8G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png"
+    },
+    {
+      "id": "tmdb:10193",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "ids": {
+        "tmdb": 10193
+      },
+      "overview": "Sabiendo que su dueño Andy, que ya no es un niño, se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse ante su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el inicio de un montón de trepidantes y divertidas aventuras.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/ntoCb04GqfsGHyeGvYygvWp4VMP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/6HguugAxjC9qwRu8B7nVGXhuLsu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1rBoAA0H6gE978rIgdgaLCJ265l.png"
+    },
+    {
+      "id": "tmdb:1327819",
+      "type": "movie",
+      "name": "Hoppers",
+      "ids": {
+        "tmdb": 1327819
+      },
+      "overview": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/yONVGkDGZ07WGAR5Fq0GErzHUZ9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jj3ohaYX5FdyUGb343hFxl4PXpT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gsD5xIliP0YFfjXETFInVvNuIVL.png"
     },
     {
       "id": "tmdb:597",
@@ -631,6 +603,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png"
     },
     {
+      "id": "tmdb:177572",
+      "type": "movie",
+      "name": "Big Hero 6",
+      "ids": {
+        "tmdb": 177572
+      },
+      "overview": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/hftvEFdU0Czar6W95vJbBH0t1Ue.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ganZhk94eaicQBcx3QGypDUT80I.png"
+    },
+    {
       "id": "tmdb:12",
       "type": "movie",
       "name": "Buscando a Nemo",
@@ -643,6 +629,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pMlXoaVBKG6gJ8vO4thujNZIofT.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qTQug3WnJk9DLAbxoXLGqfagwIX.png"
+    },
+    {
+      "id": "tmdb:986056",
+      "type": "movie",
+      "name": "Thunderbolts*",
+      "ids": {
+        "tmdb": 986056
+      },
+      "overview": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9SmiD1Won7pJeay8oT4BMRDZvgA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4sUkCkcG4MPBEJLC7OAhRwKir2.png"
     },
     {
       "id": "tmdb:617126",
@@ -659,6 +659,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zNJ0SoPc4ReFx8nrBLgbisNaNbx.png"
     },
     {
+      "id": "tmdb:284053",
+      "type": "movie",
+      "name": "Thor: Ragnarok",
+      "ids": {
+        "tmdb": 284053
+      },
+      "overview": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bE6nIeLY1nLdX3JFQ10wGhvBEmv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qmlvTIqxZMb4ED9WB91UuwRSGw.png"
+    },
+    {
       "id": "tmdb:1439930",
       "type": "movie",
       "name": "The Punisher: One Last Kill",
@@ -673,32 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/jQfASgBDUhWvuq4QnA78xrXISGv.png"
     },
     {
-      "id": "tmdb:286217",
+      "id": "tmdb:497698",
       "type": "movie",
-      "name": "Marte (The Martian)",
+      "name": "Viuda Negra",
       "ids": {
-        "tmdb": 286217
+        "tmdb": 497698
       },
-      "overview": "Un explorador espacial queda atrapado en Marte, luego de ser abandonado por los miembros de su tripulación, quienes pensaron que había muerto a consecuencia de una tormenta. Casi sin recursos y con solo su ingenio, intentará sobrevivir mientras la NASA, por un lado, y los miembros de su tripulación, por su propia cuenta, intentan rescatarlo.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/hBRK1izFxIH3Nh6vax4ssOHSHVd.jpg",
+      "overview": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fBYCwOUYssB83JmiPZBxQ9J0y0R.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Kma7LQt59u3x5rKkGTAQP26Y0z.png"
-    },
-    {
-      "id": "tmdb:284053",
-      "type": "movie",
-      "name": "Thor: Ragnarok",
-      "ids": {
-        "tmdb": 284053
-      },
-      "overview": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bE6nIeLY1nLdX3JFQ10wGhvBEmv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qmlvTIqxZMb4ED9WB91UuwRSGw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/p1QH7fXRYggspYQCCjs9iQ13DRK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Ul80JS1j42Cry67jTYevnO7OJ7.png"
     }
   ]
 }
