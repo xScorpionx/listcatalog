@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tmdb:1800668",
+      "type": "movie",
+      "name": "El baile de las ánimas",
+      "ids": {
+        "tmdb": 1800668
+      },
+      "overview": "",
+      "year": 2026
+    },
+    {
       "id": "tmdb:1703928",
       "type": "movie",
       "name": "Deprisa, deprisa",
@@ -627,19 +637,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/68cye2QOfYDIwVf190G2N6Od6mY.jpg",
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/llZ8NPHBqZndsYK2aXySyOzlBD4.jpg"
-    },
-    {
-      "id": "tmdb:1258692",
-      "type": "movie",
-      "name": "Obra de arte",
-      "ids": {
-        "tmdb": 1258692
-      },
-      "overview": "Una noche, la limpiadora de un conocido museo de arte contemporáneo tiró a la basura una instalación. Lo que sucedió al día siguiente en el despacho de la directora nunca se supo. Hasta ahora.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/ookf02w9Lk0YEneBa4ydVCM6d11.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9hiJVbh2kd5C1548XvDSpsynSJZ.jpg"
     }
   ]
 }
