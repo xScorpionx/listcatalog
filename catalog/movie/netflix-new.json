@@ -1,9 +1,37 @@
 {
   "metas": [
     {
+      "id": "tmdb:1780005",
+      "type": "movie",
+      "name": "Contra el huracán",
+      "ids": {
+        "tmdb": 1780005
+      },
+      "overview": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/n2ya4XPsiNFPm3BHyqqe60NWNHQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/in4qbuOTmK8GsvyBLHu0zpWwYSj.png"
+    },
+    {
+      "id": "tmdb:1453407",
+      "type": "movie",
+      "name": "Noche fatídica",
+      "ids": {
+        "tmdb": 1453407
+      },
+      "overview": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kyrCxOmZdjunxgD30Q1VLsWIpm1.png"
+    },
+    {
       "id": "tmdb:1802674",
       "type": "movie",
-      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
+      "name": "Hot Wheels ¡A correr!: El ataque del T-Rex",
       "ids": {
         "tmdb": 1802674
       },
@@ -326,7 +354,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tVTziNHOlLR8QaxqgCWVKtirOAL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/ek3rse7al1n0fqwB61Aq0fiBzJf.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zgCkFI2L1cnq1pIJC7gndC6P3Rr.png"
     },
     {
@@ -563,6 +591,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w342/bt0gDeOJv2La7LpbribAw60PXFG.jpg",
       "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pponILTfUrVS5mR7fDibXDoJxHs.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/aJlgKXEQ6Pr8bqEtIt2wjL3Vvcr.png"
     },
     {
@@ -662,34 +691,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/blh99dDTXa0Gpiuws2BoVyas8Pp.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4aQ1vksyXx4XCCQNLQtE9yUyHiw.png"
-    },
-    {
-      "id": "tmdb:1631807",
-      "type": "movie",
-      "name": "Una mujer sin pasado",
-      "ids": {
-        "tmdb": 1631807
-      },
-      "overview": "Tras descubrir que tiene familia y un imperio naviero, una mujer con amnesia vuelve a su pasado acomodado y aparentemente perfecto para entender por qué lo abandonó.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/bf9ojBGbivquotOyAE2y669rYVO.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wcgEDIlKH0ME9SrOe2Az2spVaKC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4y4KrzgXWj9RKuR3CTGSZCffJyU.png"
-    },
-    {
-      "id": "tmdb:860508",
-      "type": "movie",
-      "name": "Susurran tu nombre",
-      "ids": {
-        "tmdb": 860508
-      },
-      "overview": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/cVvKsN5rKBAhKnEhhhPH4oujbdB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bCkYiV6UhlKTdpygiQVpgdAD0LQ.png"
     }
   ]
 }
