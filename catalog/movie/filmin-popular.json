@@ -43,6 +43,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
     },
     {
+      "id": "tmdb:9495",
+      "type": "movie",
+      "name": "El cuervo",
+      "ids": {
+        "tmdb": 9495
+      },
+      "overview": "Eric Draven y Shelly Websyter están a punto de casarse, pero la noche antes del enlace son asesinados brutalmente. Un año después, el alma de Eric vuelve a la Tierra en forma de cuervo para vengarse.",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w342/ywQsxaKU3BTT0UMq134qsU9n4IT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bL7M7FCFajA4BgmZFNdqHFQtvBC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5v9KzJwTBvMcWzpPN6ZFIif4ACQ.png"
+    },
+    {
       "id": "tmdb:933260",
       "type": "movie",
       "name": "La sustancia",
@@ -55,20 +69,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5ChQ84lkuix0Rl8PqOKXTQgjI8l.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
-    },
-    {
-      "id": "tmdb:607",
-      "type": "movie",
-      "name": "Hombres de negro",
-      "ids": {
-        "tmdb": 607
-      },
-      "overview": "Los hombres de negro son agentes especiales cuya misión consiste en controlar a los alienígenas, aquí deberán hacer frente al extraterrestre Edgar el Insecto para que no se apropie de la galaxia de otra especie.",
-      "year": 1997,
-      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
     },
     {
       "id": "tmdb:937287",
@@ -85,60 +85,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/8UnjRngSJK656p5QJuJFaQ5yBRt.png"
     },
     {
-      "id": "tmdb:7345",
+      "id": "tmdb:607",
       "type": "movie",
-      "name": "Pozos de ambición",
+      "name": "Hombres de negro",
       "ids": {
-        "tmdb": 7345
+        "tmdb": 607
       },
-      "overview": "Texas, principios del siglo XX. Una historia sobre la familia, la avaricia y la religión. Daniel Plainview (Daniel Day-Lewis) se traslada a una miserable ciudad con el propósito de hacer fortuna, pero, a medida que se va enriqueciendo, sus principios y valores desaparecen y acaba dominado por la ambición. Tras encontrar un rico yacimiento de petróleo en 1902, se convierte en un acaudalado magnate. Cuando, años después, intenta apoderarse de un nuevo yacimiento, tiene que enfrentarse al predicador Eli Sunday (Paul Dano). Adaptación de la novela de Upton Sinclair \"Petróleo\", escrita en 1927.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/o8VQMSZecPNWtYP42yWo2OH1gH0.jpg",
+      "overview": "Los hombres de negro son agentes especiales cuya misión consiste en controlar a los alienígenas, aquí deberán hacer frente al extraterrestre Edgar el Insecto para que no se apropie de la galaxia de otra especie.",
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w342/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l9RK6QR2YRR3KNvA1LPCEygWSxR.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8ptc0QKti4xKhNkDTixsHCS1L8w.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2JGG3O9pRXNm1pbEzvvUNsweRHK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
     },
     {
-      "id": "tmdb:9495",
+      "id": "tmdb:4348",
       "type": "movie",
-      "name": "El cuervo",
+      "name": "Orgullo y prejuicio",
       "ids": {
-        "tmdb": 9495
+        "tmdb": 4348
       },
-      "overview": "Eric Draven y Shelly Websyter están a punto de casarse, pero la noche antes del enlace son asesinados brutalmente. Un año después, el alma de Eric vuelve a la Tierra en forma de cuervo para vengarse.",
-      "year": 1994,
-      "poster": "https://image.tmdb.org/t/p/w342/ywQsxaKU3BTT0UMq134qsU9n4IT.jpg",
+      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bL7M7FCFajA4BgmZFNdqHFQtvBC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5v9KzJwTBvMcWzpPN6ZFIif4ACQ.png"
-    },
-    {
-      "id": "tmdb:141",
-      "type": "movie",
-      "name": "Donnie Darko",
-      "ids": {
-        "tmdb": 141
-      },
-      "overview": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Pcvjdrqm7igfL5xgtGFHj7Ek8w.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pNvOhQXSl0qrhzIMZjT7r02kpdV.png"
-    },
-    {
-      "id": "tmdb:12493",
-      "type": "movie",
-      "name": "El infierno del odio",
-      "ids": {
-        "tmdb": 12493
-      },
-      "overview": "En un momento crucial de su vida financiera, Gondo, un hombre de negocios, recibe la noticia de que su hijo ha sido secuestrado, y el rescate exigido es una cantidad de dinero similar a la que necesita para cerrar una importante negociación. Gondo está dispuesto a pagar el rescate hasta que comprende que los secuestradores se han equivocado y se han llevado al hijo del chófer. Ahora deberá decidir si el dinero es más importante que la vida del niño.",
-      "year": 1963,
-      "poster": "https://image.tmdb.org/t/p/w342/9c87PSaPcoZzAGbJKQLAcYiqGRy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/61ADMkTwlAsD6PVbVOgnJJ19kYr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1ysJ9WSFkUBtERDSTHC6nO7vbov.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
     },
     {
       "id": "tmdb:823219",
@@ -183,18 +155,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/yqY4uUQhSzZsTHIVzJ9voeKiTDj.png"
     },
     {
-      "id": "tmdb:3782",
+      "id": "tmdb:242",
       "type": "movie",
-      "name": "Vivir",
+      "name": "El padrino III",
       "ids": {
-        "tmdb": 3782
+        "tmdb": 242
       },
-      "overview": "Kanji Watanabe es un viejo funcionario público que arrastra una vida monótona y gris; sin embargo, no es consciente del vacío de su existencia hasta que le diagnostican un cáncer incurable. Con la certeza de que el fin de sus días se acerca, surge en él la necesidad de buscarle un sentido a la vida. Y cuando lo consigue se produce un cambio radical en su actitud respecto a los demás.",
-      "year": 1952,
-      "poster": "https://image.tmdb.org/t/p/w342/eDg67pLOtZAewt0hKIoinECpzCG.jpg",
+      "overview": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/twnDNZofnemp2Ulg8cioSXS08vH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bu8vJcV7Kd4rmiIPLXUvgBCCgyg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
+    },
+    {
+      "id": "tmdb:12493",
+      "type": "movie",
+      "name": "El infierno del odio",
+      "ids": {
+        "tmdb": 12493
+      },
+      "overview": "En un momento crucial de su vida financiera, Gondo, un hombre de negocios, recibe la noticia de que su hijo ha sido secuestrado, y el rescate exigido es una cantidad de dinero similar a la que necesita para cerrar una importante negociación. Gondo está dispuesto a pagar el rescate hasta que comprende que los secuestradores se han equivocado y se han llevado al hijo del chófer. Ahora deberá decidir si el dinero es más importante que la vida del niño.",
+      "year": 1963,
+      "poster": "https://image.tmdb.org/t/p/w342/9c87PSaPcoZzAGbJKQLAcYiqGRy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/61ADMkTwlAsD6PVbVOgnJJ19kYr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1ysJ9WSFkUBtERDSTHC6nO7vbov.png"
     },
     {
       "id": "tmdb:1018",
@@ -211,102 +197,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/jNMMgX8Voo93b1LUK2yOv0DjhcU.png"
     },
     {
-      "id": "tmdb:4348",
+      "id": "tmdb:7345",
       "type": "movie",
-      "name": "Orgullo y prejuicio",
+      "name": "Pozos de ambición",
       "ids": {
-        "tmdb": 4348
+        "tmdb": 7345
       },
-      "overview": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. Cuando el señor Bingley, un soltero rico, y su círculo de sofisticados amigos se instalan en una mansión vecina para pasar el verano, las Bennett se entusiasman con la posibilidad de encontrar pretendientes. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/oixzLjpyaLagLa8UREts1NiHr6F.jpg",
+      "overview": "Texas, principios del siglo XX. Una historia sobre la familia, la avaricia y la religión. Daniel Plainview (Daniel Day-Lewis) se traslada a una miserable ciudad con el propósito de hacer fortuna, pero, a medida que se va enriqueciendo, sus principios y valores desaparecen y acaba dominado por la ambición. Tras encontrar un rico yacimiento de petróleo en 1902, se convierte en un acaudalado magnate. Cuando, años después, intenta apoderarse de un nuevo yacimiento, tiene que enfrentarse al predicador Eli Sunday (Paul Dano). Adaptación de la novela de Upton Sinclair \"Petróleo\", escrita en 1927.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/o8VQMSZecPNWtYP42yWo2OH1gH0.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ymx8qUcDYxrI2tA6Oe79O2LK5PZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5Sb0buga1EaV0mDTuniU3c0fOWH.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/l9RK6QR2YRR3KNvA1LPCEygWSxR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8ptc0QKti4xKhNkDTixsHCS1L8w.png"
     },
     {
-      "id": "tmdb:242",
+      "id": "tmdb:28",
       "type": "movie",
-      "name": "El padrino III",
+      "name": "Apocalypse Now",
       "ids": {
-        "tmdb": 242
+        "tmdb": 28
       },
-      "overview": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
+      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
+      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
     },
     {
-      "id": "tmdb:402",
+      "id": "tmdb:7340",
       "type": "movie",
-      "name": "Instinto básico",
+      "name": "Carrie",
       "ids": {
-        "tmdb": 402
+        "tmdb": 7340
       },
-      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
-      "year": 1992,
-      "poster": "https://image.tmdb.org/t/p/w342/ygHJenUnjGNqKByp2Ymqwjkp4Ox.jpg",
+      "overview": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
-    },
-    {
-      "id": "tmdb:581528",
-      "type": "movie",
-      "name": "El gangster, el policía y el diablo",
-      "ids": {
-        "tmdb": 581528
-      },
-      "overview": "Un jefe de la mafia (Ma Dong-seok) y un oficial de policía responsable de un sanguinario comando (Kim Mu-yeol) tendrán que dejar a un lado sus diferencias para unirse en la persecución de un asesino de nombre K (Kim Sung-kyun).",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oyA1Ak9Hjermeor7R3vGvYFEPXH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/15GVBBP69avpwRIHUkuFRj81Lt3.png"
-    },
-    {
-      "id": "tmdb:77",
-      "type": "movie",
-      "name": "Memento",
-      "ids": {
-        "tmdb": 77
-      },
-      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
-    },
-    {
-      "id": "tmdb:152601",
-      "type": "movie",
-      "name": "Her",
-      "ids": {
-        "tmdb": 152601
-      },
-      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
-    },
-    {
-      "id": "tmdb:510",
-      "type": "movie",
-      "name": "Alguien voló sobre el nido del cuco",
-      "ids": {
-        "tmdb": 510
-      },
-      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7AdwMv50MyWJ9QQsGlxbl3HAOlh.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bsc4hop0VeGgRhKusB6hj1T9lht.png"
     },
     {
       "id": "tmdb:915935",
@@ -337,74 +267,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/nfO5weKIHhHqwYvXzMelRSeH799.png"
     },
     {
-      "id": "tmdb:10997",
+      "id": "tmdb:77",
       "type": "movie",
-      "name": "Adiós a mi concubina",
+      "name": "Memento",
       "ids": {
-        "tmdb": 10997
+        "tmdb": 77
       },
-      "overview": "China, 1925. Los militares gobiernan Pekín y, aunque en la ciudad la situación política es inestable, hay una constante en la vida cotidiana: la ópera, un espectáculo donde incluso los personajes femeninos deben ser representados por hombres. Entre los nuevos muchachos destinados a ser estrellas de la ópera de Pekín se encuentran el delicado Douzi y Shitou, que le toma bajo su protección. Ambos forjan una gran amistad, y Douzi se enamora profundamente del chico mayor. Como Douzi tiene la belleza de una mujer, le forman en papeles femeninos, mientras que al atlético Shitou le entrenan principalmente para papeles militares. Entre las óperas que estudian se encuentra \"Adiós a mi concubina\"...",
-      "year": 1993,
-      "poster": "https://image.tmdb.org/t/p/w342/pHe4sPQHlfWsYxPGW9A0lvMO0hn.jpg",
+      "overview": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p9Zqnj6qkTRtLjE8JkoVAiQ2ApV.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tHZXBKpIGgc1nDFqMDkGaIWjXj1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/tgHtpKBIsnfg4pm7FIs0K36H05b.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
     },
     {
-      "id": "tmdb:28",
+      "id": "tmdb:141",
       "type": "movie",
-      "name": "Apocalypse Now",
+      "name": "Donnie Darko",
       "ids": {
-        "tmdb": 28
+        "tmdb": 141
       },
-      "overview": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "overview": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9kOObQGYqSGfj21hwkEUQJQKKFh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/sTNxftxEvrVPt6S5EhxvxNjpv4i.png"
-    },
-    {
-      "id": "tmdb:1408208",
-      "type": "movie",
-      "name": "Exit 8",
-      "ids": {
-        "tmdb": 1408208
-      },
-      "overview": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/mqlgMvy1d5jIbIE6SPlJq724htT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lcWocove8RX7cFdcIr6QKKagITu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3guBM1zOhqcPDHKi6Co5BQYSRtv.png"
-    },
-    {
-      "id": "tmdb:764",
-      "type": "movie",
-      "name": "Posesión infernal",
-      "ids": {
-        "tmdb": 764
-      },
-      "overview": "Cinco chicos van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo.",
-      "year": 1983,
-      "poster": "https://image.tmdb.org/t/p/w342/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AbUmMl6UtJVHxOL7FIDHM4ljfjg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yiOhKNWtnEHY8mX5VKm72wGeAyW.png"
-    },
-    {
-      "id": "tmdb:273248",
-      "type": "movie",
-      "name": "Los odiosos ocho",
-      "ids": {
-        "tmdb": 273248
-      },
-      "overview": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kl61neJXXnoH4QLgQoNFSzaayeP.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/338mAFyedvIBm6UC8xslBF8phO4.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6Pcvjdrqm7igfL5xgtGFHj7Ek8w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pNvOhQXSl0qrhzIMZjT7r02kpdV.png"
     },
     {
       "id": "tmdb:30497",
@@ -421,18 +309,116 @@
       "logo": "https://image.tmdb.org/t/p/w500/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png"
     },
     {
-      "id": "tmdb:192",
+      "id": "tmdb:510",
       "type": "movie",
-      "name": "El nombre de la rosa",
+      "name": "Alguien voló sobre el nido del cuco",
       "ids": {
-        "tmdb": 192
+        "tmdb": 510
       },
-      "overview": "Siglo XIV. Todo comienza una hermosa mañana de finales de noviembre de 1327, cuando un monje franciscano y antiguo inquisidor, acompañado de su novicio discípulo –quien relata la historia– acuden a una abadía benedictina situada en el norte de Italia para intentar resolver un crimen. Durante su estancia van desapareciendo misteriosamente más religiosos, a quienes después hallan muertos. Poco a poco, gracias a la información aportada por algunos monjes, Guillermo va esclareciendo los hechos. El móvil de los crímenes parecen ser unos antiguos tratados que se custodian en la biblioteca del complejo, de la cual se dice que es la mayor del mundo cristiano. ¿Quién es el asesino? ¿Qué motivó la muerte de sus víctimas? Nadie lo sabe…",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/w7xf0xY21dwGBOx1s1Sc28BiSiP.jpg",
+      "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/lBYmCynNEPt7HVaJvuXgfHvLhbJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iYkLiqkNOO1fMNIxd8wMpKaKaSy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zmZzgyKW0BScwTXsJ0ctuGT7CIu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/25O2nriGry8T6A9iQblPMWj1HNZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hyh70mLvjOikYGZE4IIv6u2utH6.png"
+    },
+    {
+      "id": "tmdb:581528",
+      "type": "movie",
+      "name": "El gangster, el policía y el diablo",
+      "ids": {
+        "tmdb": 581528
+      },
+      "overview": "Un jefe de la mafia (Ma Dong-seok) y un oficial de policía responsable de un sanguinario comando (Kim Mu-yeol) tendrán que dejar a un lado sus diferencias para unirse en la persecución de un asesino de nombre K (Kim Sung-kyun).",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oyA1Ak9Hjermeor7R3vGvYFEPXH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/15GVBBP69avpwRIHUkuFRj81Lt3.png"
+    },
+    {
+      "id": "tmdb:152601",
+      "type": "movie",
+      "name": "Her",
+      "ids": {
+        "tmdb": 152601
+      },
+      "overview": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/m6TVxyIUkEeiztiAruWVEL9efW2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1vodYfvqrlrq9XhMYygjdkgVbVm.svg"
+    },
+    {
+      "id": "tmdb:402",
+      "type": "movie",
+      "name": "Instinto básico",
+      "ids": {
+        "tmdb": 402
+      },
+      "overview": "Un antiguo cantante de rock ha sido brutalmente asesinado. La última vez que se le vio estaba acompañado por su novia. En la comisaría, en el departamento de Asuntos Internos, Nick Curran recibe el encargo de vigilar a Catherine Tromell, la supuesta novia asesina.",
+      "year": 1992,
+      "poster": "https://image.tmdb.org/t/p/w342/ygHJenUnjGNqKByp2Ymqwjkp4Ox.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wLMPTuKWeGUbpteRryhDWKTeKDN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eTK5KpUgwbgema3TSCTTTosTWWI.png"
+    },
+    {
+      "id": "tmdb:10997",
+      "type": "movie",
+      "name": "Adiós a mi concubina",
+      "ids": {
+        "tmdb": 10997
+      },
+      "overview": "China, 1925. Los militares gobiernan Pekín y, aunque en la ciudad la situación política es inestable, hay una constante en la vida cotidiana: la ópera, un espectáculo donde incluso los personajes femeninos deben ser representados por hombres. Entre los nuevos muchachos destinados a ser estrellas de la ópera de Pekín se encuentran el delicado Douzi y Shitou, que le toma bajo su protección. Ambos forjan una gran amistad, y Douzi se enamora profundamente del chico mayor. Como Douzi tiene la belleza de una mujer, le forman en papeles femeninos, mientras que al atlético Shitou le entrenan principalmente para papeles militares. Entre las óperas que estudian se encuentra \"Adiós a mi concubina\"...",
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w342/pHe4sPQHlfWsYxPGW9A0lvMO0hn.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/p9Zqnj6qkTRtLjE8JkoVAiQ2ApV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tHZXBKpIGgc1nDFqMDkGaIWjXj1.png"
+    },
+    {
+      "id": "tmdb:3782",
+      "type": "movie",
+      "name": "Vivir",
+      "ids": {
+        "tmdb": 3782
+      },
+      "overview": "Kanji Watanabe es un viejo funcionario público que arrastra una vida monótona y gris; sin embargo, no es consciente del vacío de su existencia hasta que le diagnostican un cáncer incurable. Con la certeza de que el fin de sus días se acerca, surge en él la necesidad de buscarle un sentido a la vida. Y cuando lo consigue se produce un cambio radical en su actitud respecto a los demás.",
+      "year": 1952,
+      "poster": "https://image.tmdb.org/t/p/w342/eDg67pLOtZAewt0hKIoinECpzCG.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/twnDNZofnemp2Ulg8cioSXS08vH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bu8vJcV7Kd4rmiIPLXUvgBCCgyg.png"
+    },
+    {
+      "id": "tmdb:764",
+      "type": "movie",
+      "name": "Posesión infernal",
+      "ids": {
+        "tmdb": 764
+      },
+      "overview": "Cinco chicos van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo.",
+      "year": 1983,
+      "poster": "https://image.tmdb.org/t/p/w342/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AbUmMl6UtJVHxOL7FIDHM4ljfjg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yiOhKNWtnEHY8mX5VKm72wGeAyW.png"
+    },
+    {
+      "id": "tmdb:1408208",
+      "type": "movie",
+      "name": "Exit 8",
+      "ids": {
+        "tmdb": 1408208
+      },
+      "overview": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mqlgMvy1d5jIbIE6SPlJq724htT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lcWocove8RX7cFdcIr6QKKagITu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3guBM1zOhqcPDHKi6Co5BQYSRtv.png"
     },
     {
       "id": "tmdb:500",
@@ -449,6 +435,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zKOKdpLLwVf1ab015NjgghYskEP.png"
     },
     {
+      "id": "tmdb:531428",
+      "type": "movie",
+      "name": "Retrato de una mujer en llamas",
+      "ids": {
+        "tmdb": 531428
+      },
+      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/h8kXLI8mjfHbtZw4JAKlFPkFPyK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
+    },
+    {
       "id": "tmdb:64690",
       "type": "movie",
       "name": "Drive",
@@ -463,102 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/fyQJgRixor6LVkk2DHQGijKkAWa.png"
     },
     {
-      "id": "tmdb:462",
+      "id": "tmdb:273248",
       "type": "movie",
-      "name": "Erin Brockovich",
+      "name": "Los odiosos ocho",
       "ids": {
-        "tmdb": 462
+        "tmdb": 273248
       },
-      "overview": "Erin Brockovich es una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores, pero todo cambiará cuando decida investigar el extraño caso de unos clientes que padecen una sospechosa enfermedad.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/4WiaVbWcRhVItfJc5ZNQUwJwigZ.jpg",
+      "overview": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7QkRhSsTa1SVWaOMwB0GwSQY4kt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wFoPRgEg60SPZSVvubcGdYIlaYT.png"
-    },
-    {
-      "id": "tmdb:666277",
-      "type": "movie",
-      "name": "Vidas pasadas",
-      "ids": {
-        "tmdb": 666277
-      },
-      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/26SwRBIfbmXdpv666K361IikPyQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
-    },
-    {
-      "id": "tmdb:17578",
-      "type": "movie",
-      "name": "Las aventuras de Tintín: El secreto del unicornio",
-      "ids": {
-        "tmdb": 17578
-      },
-      "overview": "Tintín, un joven periodista dotado de una curiosidad insaciable, y su leal perro Milú descubren que la maqueta de un barco contiene un enigmático y secular secreto que deben investigar. A partir de ese momento, Tintín se verá acosado por Ivan Ivanovitch Sakharine, un diabólico villano que cree que el joven ha robado un valioso tesoro vinculado a un cruel pirata llamado Rackham el Rojo. Pero, con la ayuda de Milú, del cascarrabias capitán Haddock y de los torpes detectives Hernández y Fernández, viajará por medio mundo, sirviéndose de su proverbial astucia para burlar a sus perseguidores y encontrar antes que ellos El Unicornio, un navío hundido que puede proporcionar la clave de una fabulosa fortuna y de una antigua maldición.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/dxOPe0RQMlBT0Z19qgSquS9KRto.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4FvUmTcrrIroVqvIVQKqfadbRzd.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kZ4CFusx1gy1bomvqIaZOXCTfiz.png"
-    },
-    {
-      "id": "tmdb:246741",
-      "type": "movie",
-      "name": "Lo que hacemos en las sombras",
-      "ids": {
-        "tmdb": 246741
-      },
-      "overview": "Viago, Deacon y Vladislav son tres vampiros que comparten piso en Nueva Zelanda. Hacen lo posible por adaptarse a la sociedad moderna: pagan el alquiler, se reparten las tareas domésticas e intentan que les inviten a entrar en los clubs. Una vida normal, salvo por una pequeña diferencia: son inmortales y tienen que alimentarse de sangre humana. Cuando su compañero del sótano, Petyr, convierte en vampiro a Nick, nuestros protagonistas deberán enseñarle como funciona todo en su recién estrenada vida eterna.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/zMpZYL0lVgLCYyOVGekaZC0bUtv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/DFnvSc01n9ZRiu9eBkiHjLU895.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gTbGMTWtS0dmqHFIkuquheqComv.png"
-    },
-    {
-      "id": "tmdb:467244",
-      "type": "movie",
-      "name": "La zona de interés",
-      "ids": {
-        "tmdb": 467244
-      },
-      "overview": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5gVfBQR5Alj1bKZ4vXad2LlGm9Z.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9dLB8byi9gYVIYAUSfJFBLvXNW8.png"
-    },
-    {
-      "id": "tmdb:14537",
-      "type": "movie",
-      "name": "Harakiri",
-      "ids": {
-        "tmdb": 14537
-      },
-      "overview": "Un samurái pide permiso para practicarse el Seppuku (o Harakiri), ceremonia durante la cual se quitará la vida abriéndose el estómago al tiempo que otro samurái lo decapitará. Solicita también poder contar la historia que le ha llevado a tomar tan trágica decisión.",
-      "year": 1962,
-      "poster": "https://image.tmdb.org/t/p/w342/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zYpJgA4KBCTO8feYgFZd9Jce38d.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ou296QmH9bjXjjZ0PsftZQnlZN2.png"
-    },
-    {
-      "id": "tmdb:2493",
-      "type": "movie",
-      "name": "La princesa prometida",
-      "ids": {
-        "tmdb": 2493
-      },
-      "overview": "Después de buscar fortuna durante cinco años, Westley retorna a su tierra para casarse con su amada, la bella Buttercup, a la que había jurado amor eterno. Sin embargo, para recuperarla habrá de enfrentarse a Vizzini y sus esbirros. Una vez derrotados éstos, tendrá que superar el peor de los obstáculos: el príncipe Humperdinck pretende desposar a la desdichada Buttercup, pese a que ella no lo ama, ya que sigue enamorada de Westley.",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eylFlwsY7OjOSdBcLJE5lr3vFGJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qXFpMxTlPJ7kztOPCAAiPOSjL1V.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kl61neJXXnoH4QLgQoNFSzaayeP.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/338mAFyedvIBm6UC8xslBF8phO4.png"
     },
     {
       "id": "tmdb:27578",
@@ -575,18 +491,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/7Gjh8HJpkgQplW0ydg1xJrZWwAC.png"
     },
     {
-      "id": "tmdb:531428",
+      "id": "tmdb:666277",
       "type": "movie",
-      "name": "Retrato de una mujer en llamas",
+      "name": "Vidas pasadas",
       "ids": {
-        "tmdb": 531428
+        "tmdb": 666277
       },
-      "overview": "Bretaña francesa, 1770. Marianne es una pintora que debe realizar el retrato matrimonial de Héloïse, una joven que acaba de dejar el convento. Héloïse no acepta su destino como mujer casada y se niega a posar, por lo que Marianne debe trabajar en secreto. Para ello, se hace pasar por dama de compañía, para así observarla de día y pintarla de noche. Su relación se vuelve más intensa a medida que comparten juntas los últimos momentos de libertad de Héloïse antes de su boda.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/muAsDE6qAqdKB2VJsIzo1uVSSuM.jpg",
+      "overview": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la infancia. Muchos años después, cuando Nora está estudiando teatro en Nueva York, se reencuentra con él online.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jWrJrLMD7SZoxc65KSYej6QOw12.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h8kXLI8mjfHbtZw4JAKlFPkFPyK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/l0oWpsKtqlnfPbBoj5zZVkogEGb.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/26SwRBIfbmXdpv666K361IikPyQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/arZFVZruwpk3ORWweOUXgi3oGwo.png"
+    },
+    {
+      "id": "tmdb:2493",
+      "type": "movie",
+      "name": "La princesa prometida",
+      "ids": {
+        "tmdb": 2493
+      },
+      "overview": "Después de buscar fortuna durante cinco años, Westley retorna a su tierra para casarse con su amada, la bella Buttercup, a la que había jurado amor eterno. Sin embargo, para recuperarla habrá de enfrentarse a Vizzini y sus esbirros. Una vez derrotados éstos, tendrá que superar el peor de los obstáculos: el príncipe Humperdinck pretende desposar a la desdichada Buttercup, pese a que ella no lo ama, ya que sigue enamorada de Westley.",
+      "year": 1987,
+      "poster": "https://image.tmdb.org/t/p/w342/nHDpaLB6gMKyD8hMtSthtV7yPt9.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eylFlwsY7OjOSdBcLJE5lr3vFGJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qXFpMxTlPJ7kztOPCAAiPOSjL1V.png"
+    },
+    {
+      "id": "tmdb:861",
+      "type": "movie",
+      "name": "Desafío total",
+      "ids": {
+        "tmdb": 861
+      },
+      "overview": "Tierra, año 2084. Doug Quaid, un hombre normal con una vida tranquila, está atormentado por una pesadilla que le lleva todas las noches hasta Marte. Decide entonces recurrir al laboratorio Memory-call, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno. Sin embargo, su intento resulta en fracaso. La droga resucita de su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/k1S3HiOtghbS7wZeq75LuZ27u6Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2toq2EiOyusNhBszjAZEWQId47Z.png"
+    },
+    {
+      "id": "tmdb:467244",
+      "type": "movie",
+      "name": "La zona de interés",
+      "ids": {
+        "tmdb": 467244
+      },
+      "overview": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ensueño para su familia en una casa con jardín cerca del campo.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/jjBgrAsz0vFerjesnM3NnyU3Bm5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5gVfBQR5Alj1bKZ4vXad2LlGm9Z.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9dLB8byi9gYVIYAUSfJFBLvXNW8.png"
+    },
+    {
+      "id": "tmdb:1585",
+      "type": "movie",
+      "name": "¡Qué bello es vivir!",
+      "ids": {
+        "tmdb": 1585
+      },
+      "overview": "George Bailey es un honrado y modesto ciudadano que dirige y mantiene a flote un pequeño banco familiar, a pesar de los intentos de un poderoso banquero por arruinarlo. El dia de Nochebuena de 1945, abrumado por la repentina desaparición de una importante suma de dinero, que supondría no solo la quiebra de su banco sino también un gran escándalo, decide suicidarse, pero cuando está a punto de hacerlo ocurre algo extraordinario.",
+      "year": 1946,
+      "poster": "https://image.tmdb.org/t/p/w342/63W4MsB8e5whhPNyxhRVTzSsCje.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
+    },
+    {
+      "id": "tmdb:17578",
+      "type": "movie",
+      "name": "Las aventuras de Tintín: El secreto del unicornio",
+      "ids": {
+        "tmdb": 17578
+      },
+      "overview": "Tintín, un joven periodista dotado de una curiosidad insaciable, y su leal perro Milú descubren que la maqueta de un barco contiene un enigmático y secular secreto que deben investigar. A partir de ese momento, Tintín se verá acosado por Ivan Ivanovitch Sakharine, un diabólico villano que cree que el joven ha robado un valioso tesoro vinculado a un cruel pirata llamado Rackham el Rojo. Pero, con la ayuda de Milú, del cascarrabias capitán Haddock y de los torpes detectives Hernández y Fernández, viajará por medio mundo, sirviéndose de su proverbial astucia para burlar a sus perseguidores y encontrar antes que ellos El Unicornio, un navío hundido que puede proporcionar la clave de una fabulosa fortuna y de una antigua maldición.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/dxOPe0RQMlBT0Z19qgSquS9KRto.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4FvUmTcrrIroVqvIVQKqfadbRzd.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kZ4CFusx1gy1bomvqIaZOXCTfiz.png"
     },
     {
       "id": "tmdb:843",
@@ -617,18 +603,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/xgazGiENEdmS8Za5L8SB0CHluH7.png"
     },
     {
-      "id": "tmdb:1585",
+      "id": "tmdb:14537",
       "type": "movie",
-      "name": "¡Qué bello es vivir!",
+      "name": "Harakiri",
       "ids": {
-        "tmdb": 1585
+        "tmdb": 14537
       },
-      "overview": "George Bailey es un honrado y modesto ciudadano que dirige y mantiene a flote un pequeño banco familiar, a pesar de los intentos de un poderoso banquero por arruinarlo. El dia de Nochebuena de 1945, abrumado por la repentina desaparición de una importante suma de dinero, que supondría no solo la quiebra de su banco sino también un gran escándalo, decide suicidarse, pero cuando está a punto de hacerlo ocurre algo extraordinario.",
-      "year": 1946,
-      "poster": "https://image.tmdb.org/t/p/w342/63W4MsB8e5whhPNyxhRVTzSsCje.jpg",
+      "overview": "Un samurái pide permiso para practicarse el Seppuku (o Harakiri), ceremonia durante la cual se quitará la vida abriéndose el estómago al tiempo que otro samurái lo decapitará. Solicita también poder contar la historia que le ha llevado a tomar tan trágica decisión.",
+      "year": 1962,
+      "poster": "https://image.tmdb.org/t/p/w342/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ceuo16lDGl8uugle3qfVuVNYgvf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zYpJgA4KBCTO8feYgFZd9Jce38d.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ou296QmH9bjXjjZ0PsftZQnlZN2.png"
+    },
+    {
+      "id": "tmdb:462",
+      "type": "movie",
+      "name": "Erin Brockovich",
+      "ids": {
+        "tmdb": 462
+      },
+      "overview": "Erin Brockovich es una madre soltera que consigue un puesto de trabajo en un pequeño despacho de abogados. Su personalidad poco convencional hará que sus comienzos no sean demasiado alentadores, pero todo cambiará cuando decida investigar el extraño caso de unos clientes que padecen una sospechosa enfermedad.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/4WiaVbWcRhVItfJc5ZNQUwJwigZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7QkRhSsTa1SVWaOMwB0GwSQY4kt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wFoPRgEg60SPZSVvubcGdYIlaYT.png"
+    },
+    {
+      "id": "tmdb:192",
+      "type": "movie",
+      "name": "El nombre de la rosa",
+      "ids": {
+        "tmdb": 192
+      },
+      "overview": "Siglo XIV. Todo comienza una hermosa mañana de finales de noviembre de 1327, cuando un monje franciscano y antiguo inquisidor, acompañado de su novicio discípulo –quien relata la historia– acuden a una abadía benedictina situada en el norte de Italia para intentar resolver un crimen. Durante su estancia van desapareciendo misteriosamente más religiosos, a quienes después hallan muertos. Poco a poco, gracias a la información aportada por algunos monjes, Guillermo va esclareciendo los hechos. El móvil de los crímenes parecen ser unos antiguos tratados que se custodian en la biblioteca del complejo, de la cual se dice que es la mayor del mundo cristiano. ¿Quién es el asesino? ¿Qué motivó la muerte de sus víctimas? Nadie lo sabe…",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/w7xf0xY21dwGBOx1s1Sc28BiSiP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/iYkLiqkNOO1fMNIxd8wMpKaKaSy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zmZzgyKW0BScwTXsJ0ctuGT7CIu.png"
     },
     {
       "id": "tmdb:1398655",
@@ -645,60 +659,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/qKn1qxKUrqer9zkr1RxfcV4SeQ3.png"
     },
     {
-      "id": "tmdb:41446",
+      "id": "tmdb:246741",
       "type": "movie",
-      "name": "Scream 4",
+      "name": "Lo que hacemos en las sombras",
       "ids": {
-        "tmdb": 41446
+        "tmdb": 246741
       },
-      "overview": "Sidney Prescott ha logrado olvidar los asesinatos cometidos en Woodsboro. Diez años después, convertida en una escritora de éxito, vuelve a su pueblo natal con motivo de la gira de promoción de su nuevo libro. Pero su regreso irá acompañado de una nueva ola de crímenes perpetrados por un viejo conocido: Ghostface.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg",
+      "overview": "Viago, Deacon y Vladislav son tres vampiros que comparten piso en Nueva Zelanda. Hacen lo posible por adaptarse a la sociedad moderna: pagan el alquiler, se reparten las tareas domésticas e intentan que les inviten a entrar en los clubs. Una vida normal, salvo por una pequeña diferencia: son inmortales y tienen que alimentarse de sangre humana. Cuando su compañero del sótano, Petyr, convierte en vampiro a Nick, nuestros protagonistas deberán enseñarle como funciona todo en su recién estrenada vida eterna.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/zMpZYL0lVgLCYyOVGekaZC0bUtv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4YHKcbpD8dPGxY7N1P4TqaSV5EB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rhqpRj7cs7qSuTEzxhTBdI16mRW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/DFnvSc01n9ZRiu9eBkiHjLU895.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gTbGMTWtS0dmqHFIkuquheqComv.png"
     },
     {
-      "id": "tmdb:861",
+      "id": "tmdb:884",
       "type": "movie",
-      "name": "Desafío total",
+      "name": "Crash",
       "ids": {
-        "tmdb": 861
+        "tmdb": 884
       },
-      "overview": "Tierra, año 2084. Doug Quaid, un hombre normal con una vida tranquila, está atormentado por una pesadilla que le lleva todas las noches hasta Marte. Decide entonces recurrir al laboratorio Memory-call, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno. Sin embargo, su intento resulta en fracaso. La droga resucita de su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/v7DoneFNYIrCGeNFiPrqGiQlimN.jpg",
+      "overview": "Una noche, James Ballard estrella su coche contra el de Helen y ambos son ingresados en un hospital. Lo sorprendente es que inmediatamente después del choque los dos experimentaron una extraña atracción mutua. A partir de entonces, la vida de James se precipitará hacia un mundo oscuro y prohibido, dominado por el peligro, el sexo y la muerte.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/c8Rfh3exvptrMDFZOGrbmGaq2wz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/k1S3HiOtghbS7wZeq75LuZ27u6Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2toq2EiOyusNhBszjAZEWQId47Z.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vIQ9rB3SS6PTRpYeSaZfsyEeojp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oOiioPy4MkVJ6QtaGaxRiEYYK4E.png"
     },
     {
-      "id": "tmdb:9506",
+      "id": "tmdb:19908",
       "type": "movie",
-      "name": "Ejecutivo agresivo",
+      "name": "Bienvenidos a Zombieland",
       "ids": {
-        "tmdb": 9506
+        "tmdb": 19908
       },
-      "overview": "Dave Buznik es un ejecutivo aparentemente muy pacífico. Sin embargo, durante un vuelo pierde el control a causa de un pequeño malentendido. Tras el incidente, el juez le impone una pena poco habitual: debe someterse a sesiones de terapia para controlar su ira. El responsable de la terapia es el excéntrico doctor Buddy Rydell. Cuando Buddy se extralimita en el ejercicio de sus funciones y se va a vivir a casa de su paciente, Dave supera su timidez y se enfrenta con él.",
-      "year": 2003,
-      "poster": "https://image.tmdb.org/t/p/w342/jUukygoCwJTbecqFdYLho7Zyr67.jpg",
+      "overview": "En un mundo plagado de zombis, Columbus es un gallina, un joven que se encuentra aterrorizado por la situación, pero cuando te juegas el ser comido por los zombies, el miedo puede mantenerte vivo. De hecho su cobardía precisamente le ha permitido que sus sesos aún se mantengan en su cabeza. Entonces un día conoce a Tallahassse, un macarra caza zombies cuya única determinación en su vida es lograr el último Twinkie (dulce americano) en la tierra. Cuando ambos unen fuerzas con Wichita y Little Rock, que también han encontrado una manera original de sobrevivir en ese caos, tendrán que elegir qué es peor: si confiar los unos en los otros para sobrevivir o sucumbir ante los zombies.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/nziw1V03mZFaIq3hDinmJNsAvRn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/khfUvtugWEUqrLRZfNQjfRTBpvQ.png"
-    },
-    {
-      "id": "tmdb:11645",
-      "type": "movie",
-      "name": "Ran",
-      "ids": {
-        "tmdb": 11645
-      },
-      "overview": "En el Japón medieval, el poderoso señor Hidetora decide abdicar y repartir sus dominios entre sus tres hijos. El menor considera que la idea es absurda y sólo servirá para causar problemas. Su padre, enfurecido, lo deshereda. Muy pronto descubrirá su error: la ambición hará que sus hijos mayores se enfrenten por el poder en una cruenta guerra. Se inspira en el drama de Shakespeare \"El rey Lear\".",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/feChXPgGQhhRfvkzhzoKVp8RLpQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1fnCRtX0U0Nrx2syexDqI5kEToy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2kZfhSVqLW7RaJ8caI8EPfgwrTJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/rrWnhxfkg0JpBzgaSsm4K1Voy3L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qFoJaphGhfed5LChl3E3SdPR5mr.png"
     }
   ]
 }
