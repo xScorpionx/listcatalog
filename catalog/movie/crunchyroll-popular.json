@@ -43,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/rcOyflbOnjLLzhPNyKQSXB4CVKs.png"
     },
     {
-      "id": "tmdb:810693",
-      "type": "movie",
-      "name": "Jujutsu Kaisen 0",
-      "ids": {
-        "tmdb": 810693
-      },
-      "overview": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/fh4H92nhTUJTONXVRUHIpOGsHnK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4clQNTdrIUFJAFTIpguGwO2ldgi.png"
-    },
-    {
       "id": "tmdb:378064",
       "type": "movie",
       "name": "A Silent Voice",
@@ -69,6 +55,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/72PdW6mO0y6YfWpt7Fv6Th0nHyb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zMNp9dRCMMyLmsQt7R36wQb5joE.png"
+    },
+    {
+      "id": "tmdb:810693",
+      "type": "movie",
+      "name": "Jujutsu Kaisen 0",
+      "ids": {
+        "tmdb": 810693
+      },
+      "overview": "Yuta Okkotsu es un nervioso estudiante de instituto que sufre un grave problema: su amiga de la infancia Rika se ha convertido en una maldición y no le deja en paz. Como Rika no es una maldición cualquiera, su situación es percibida por Satoru Gojo, un profesor del instituto Jujutsu, una escuela donde los exorcistas noveles aprenden a combatir las maldiciones. Gojo convence a Yuta para que se matricule, pero ¿podrá aprender lo suficiente a tiempo para enfrentarse a la Maldición que le persigue?",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/fh4H92nhTUJTONXVRUHIpOGsHnK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4clQNTdrIUFJAFTIpguGwO2ldgi.png"
     },
     {
       "id": "tmdb:916224",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/odSsbUhZtavQw7SAOfR7OQ1tu63.png"
     },
     {
-      "id": "tmdb:829920",
+      "id": "tmdb:16157",
       "type": "movie",
-      "name": "Fate/Grand Order: Final Singularity - El Gran Templo del Tiempo: Salomón",
+      "name": "Mobile Suit Gundam: Char's Counterattack",
       "ids": {
-        "tmdb": 829920
+        "tmdb": 16157
       },
-      "overview": "La Organización Chaldea debe lidiar con el Gran Templo de Salomón, el Rey de la Magia, que ha venido a destruir el mundo.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/rTpw3z1OJkRfCWlIDvS28TCcoXy.jpg",
+      "overview": "Han pasado 13 años desde los acontecimientos de la serie original de Mobile Suit Gundam. Pero la base de la paz está de nuevo amenazada por un ejército Neo Zeon liderado por el infame Char Aznable. Su objetivo final es iniciar un invierno nuclear en la Tierra, abriendo así una nueva era de la humanidad en el espacio. Equipado con el Estado presente Nu Gundam Mobile Suit, Amuro Ray y el ejército de la Federación son la única resistencia contra los Neo Zeon. A caballo entre la venganza, el deber y el amor, la batalla final entre los rivales Char Aznable y Amuro Ray está a punto de comenzar.",
+      "year": 1988,
+      "poster": "https://image.tmdb.org/t/p/w342/8I8gWpTtzMLt2lBlBoS7lM436nA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/e3FcsFvnf5g04kvlokN2qu1e3zf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fQSgZ8EqOyqXL1vAvJ97hHYHwb5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/n3EkptNDWc72UunXcTz7H26bTZ4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n5LOcYdDLSRDQSr9PosZCuM5XDx.png"
     },
     {
       "id": "tmdb:1359607",
@@ -225,6 +225,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/39oXkqOlBjTseG36Q0DooJv81Qh.png"
     },
     {
+      "id": "tmdb:829920",
+      "type": "movie",
+      "name": "Fate/Grand Order: Final Singularity - El Gran Templo del Tiempo: Salomón",
+      "ids": {
+        "tmdb": 829920
+      },
+      "overview": "La Organización Chaldea debe lidiar con el Gran Templo de Salomón, el Rey de la Magia, que ha venido a destruir el mundo.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/rTpw3z1OJkRfCWlIDvS28TCcoXy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/e3FcsFvnf5g04kvlokN2qu1e3zf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fQSgZ8EqOyqXL1vAvJ97hHYHwb5.png"
+    },
+    {
+      "id": "tmdb:553837",
+      "type": "movie",
+      "name": "Code Geass: Fukkatsu no Lelouch",
+      "ids": {
+        "tmdb": 553837
+      },
+      "overview": "Desde la desaparición del emperador más malvado de Britannia, hace un año, el mundo ha disfrutado de una paz sin precedentes bajo la dirección de la Unión Federativa de Naciones. Sin embargo, esta calma se termina abruptamente cuando los militantes armados secuestran a la ex princesa Nunnally vi Britannia y Suzaku Kururugi, el asesor principal de los Caballeros Negros, lo que desencadena una crisis internacional. El poderoso y poco confiable Reino de Zilkhstan es acusado de orquestar su captura. Para investigar a fondo los hechos, las autoridades mundiales envían a Kallen Stadtfeld y sus asociados en una operación encubierta al país.  Allí, se encuentran con la bruja inmortal C.C., quien se encuentra en una misión para completar la resurrección del hombre responsable de la mayor revolución de la historia: una leyenda que se levantará, tomará el mando y buscará salvar al mundo del peligro una vez más.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/ejjhBE1u38jVRqBK2J7XAGSFemT.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yxujZFklgwLeI0VrafR70OhW5bf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3AWDtC05efiKdvCJM6XGlMnsMOd.png"
+    },
+    {
       "id": "tmdb:1230477",
       "type": "movie",
       "name": "Given Movie 2 - Hiiragi Mix",
@@ -239,18 +267,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/eCi635B4IMeBaxDwhDB6JpCgV2y.png"
     },
     {
-      "id": "tmdb:16157",
+      "id": "tmdb:632632",
       "type": "movie",
-      "name": "Mobile Suit Gundam: Char's Counterattack",
+      "name": "Given: The Movie",
       "ids": {
-        "tmdb": 16157
+        "tmdb": 632632
       },
-      "overview": "Han pasado 13 años desde los acontecimientos de la serie original de Mobile Suit Gundam. Pero la base de la paz está de nuevo amenazada por un ejército Neo Zeon liderado por el infame Char Aznable. Su objetivo final es iniciar un invierno nuclear en la Tierra, abriendo así una nueva era de la humanidad en el espacio. Equipado con el Estado presente Nu Gundam Mobile Suit, Amuro Ray y el ejército de la Federación son la única resistencia contra los Neo Zeon. A caballo entre la venganza, el deber y el amor, la batalla final entre los rivales Char Aznable y Amuro Ray está a punto de comenzar.",
-      "year": 1988,
-      "poster": "https://image.tmdb.org/t/p/w342/8I8gWpTtzMLt2lBlBoS7lM436nA.jpg",
+      "overview": "Después de la emisión del episodio final de la adaptación de anime de Given, la cuenta oficial de Twitter anunció que se lanzará una adaptación de largometraje en 2020, retomando directamente donde se detuvo la serie de televisión.  La historia se centra en Ritsuka, un guitarrista que ha perdido el interés por tocar. Un día, conoce a Mafuyu, que tiene una guitarra rota, y Ritsuka de mala gana comienza a enseñarle a Mafuyu a tocar la guitarra, pero cuando escucha la voz de Mafuyu, las cosas comienzan a cambiar de repente para Ritsuka.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/pegCub2zdYD5As43AOmGsIctuKc.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/n3EkptNDWc72UunXcTz7H26bTZ4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n5LOcYdDLSRDQSr9PosZCuM5XDx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3U8Nyw0HC78cW0ns79wYZ8K3ljL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5pA4Zb9NqTnRHL3pEJiTGmIdR7g.png"
+    },
+    {
+      "id": "tmdb:820530",
+      "type": "movie",
+      "name": "DAKAICHI -I'm being harassed by the sexiest man of the year-: Spain Arc",
+      "ids": {
+        "tmdb": 820530
+      },
+      "overview": "Azumaya and Takato are set to star in \"Blood Wedding,\" a two-person play that incorporates flamenco dancing; Takato decides to travel to Spain to learn about passion.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/vMzyq71sUoQ3atuQKQW8f5zg9Qy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kW6Ws7VXzG7VdHqbP0O5pQrv6am.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AhckBNSTUqdAoq7HmiYqpCMVyal.png"
     },
     {
       "id": "tmdb:959646",
@@ -281,76 +323,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/oLoWkvdzWNh2iTC9CFG5nHygvah.png"
     },
     {
-      "id": "tmdb:492126",
-      "type": "movie",
-      "name": "Thunderbolt Fantasy: 生死一劍",
-      "ids": {
-        "tmdb": 492126
-      },
-      "overview": "A theatrical spinoff of the 'Thunderbolt Fantasy' television series which explores the backstory of Shā Wú Shēng, the Screaming Phoenix Killer, and bridges the events of the first and second seasons.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/gzyCJAnKlRsHFy2DDV0aRzZ9ZGx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pyPUP9OOID2I3ZRfDlSrSavxLrJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/o0jo0ZQp4YmncKUvHK4lODp3Jbj.png"
-    },
-    {
-      "id": "tmdb:632632",
-      "type": "movie",
-      "name": "Given: The Movie",
-      "ids": {
-        "tmdb": 632632
-      },
-      "overview": "Después de la emisión del episodio final de la adaptación de anime de Given, la cuenta oficial de Twitter anunció que se lanzará una adaptación de largometraje en 2020, retomando directamente donde se detuvo la serie de televisión.  La historia se centra en Ritsuka, un guitarrista que ha perdido el interés por tocar. Un día, conoce a Mafuyu, que tiene una guitarra rota, y Ritsuka de mala gana comienza a enseñarle a Mafuyu a tocar la guitarra, pero cuando escucha la voz de Mafuyu, las cosas comienzan a cambiar de repente para Ritsuka.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/pegCub2zdYD5As43AOmGsIctuKc.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3U8Nyw0HC78cW0ns79wYZ8K3ljL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5pA4Zb9NqTnRHL3pEJiTGmIdR7g.png"
-    },
-    {
-      "id": "tmdb:553837",
-      "type": "movie",
-      "name": "Code Geass: Fukkatsu no Lelouch",
-      "ids": {
-        "tmdb": 553837
-      },
-      "overview": "Desde la desaparición del emperador más malvado de Britannia, hace un año, el mundo ha disfrutado de una paz sin precedentes bajo la dirección de la Unión Federativa de Naciones. Sin embargo, esta calma se termina abruptamente cuando los militantes armados secuestran a la ex princesa Nunnally vi Britannia y Suzaku Kururugi, el asesor principal de los Caballeros Negros, lo que desencadena una crisis internacional. El poderoso y poco confiable Reino de Zilkhstan es acusado de orquestar su captura. Para investigar a fondo los hechos, las autoridades mundiales envían a Kallen Stadtfeld y sus asociados en una operación encubierta al país.  Allí, se encuentran con la bruja inmortal C.C., quien se encuentra en una misión para completar la resurrección del hombre responsable de la mayor revolución de la historia: una leyenda que se levantará, tomará el mando y buscará salvar al mundo del peligro una vez más.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/ejjhBE1u38jVRqBK2J7XAGSFemT.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yxujZFklgwLeI0VrafR70OhW5bf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/3AWDtC05efiKdvCJM6XGlMnsMOd.png"
-    },
-    {
-      "id": "tmdb:14945",
-      "type": "movie",
-      "name": "Origen: espíritus del pasado",
-      "ids": {
-        "tmdb": 14945
-      },
-      "overview": "Hace 300 años, un experimento con plantas en la luna acabó con medio satélite y con la población de la Tierra. Ahora sólo unos pocos supervivientes cohabitan en las ruinas de las antiguas ciudades. Una de estas ciudades es Neutral, donde vive Agito, un muchacho que siempre está metiendose en líos con su mejor amigo. Su padre, uno de los tres fundadores de la ciudad, y quizás el más importante, se convirtió en un humano mejorado al llegar a un acuerdo con el bosque y sus criaturas.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/2VR6La9gFFJNIOJVgki3MjbQi1J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bmLl8z8GKU2sp3TApDEybNfRok0.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8YSTxyTMRAaTgOFwGOglKKBeFBQ.png"
-    },
-    {
-      "id": "tmdb:642586",
-      "type": "movie",
-      "name": "Thunderbolt Fantasy 西幽玹歌",
-      "ids": {
-        "tmdb": 642586
-      },
-      "overview": "Làng Wū Yáo is a boy born with a supernatural singing voice. Secluded in the snowy mountains, he is put through severe training by his blind mother. Her wish is for her son's voice to be unrivaled, so that it will be heard by the imperial court. But the intense training results in a tragic accident, where she dies.  Left an orphan as a result, Làng wanders the land. His voice is used as a tool by the wicked and greedy, with his heart being ground down in the process.  Eventually his strange singing catches the ear of the princess of Xī Yōu, and Làng is elevated to the stage his mother had dreamt of. But what awaits him is a life or death battle performance against other musicians for the amusement of the members of the court.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/4OwAY0SpHwkx70qAWU5adAlLvmq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gOjLDFzdAUkuZ2NMNTYQkxhXSTr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hpNOTLTevk2QMUuolpFwmr2u9rI.png"
-    },
-    {
       "id": "tmdb:296917",
       "type": "movie",
       "name": "Psycho-Pass: La película",
@@ -363,48 +335,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ZofA7NdunuGOa5ltJh3oQtwu91.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/nNoN1vNjUtnl39ShCYmNhGTH2Ye.png"
-    },
-    {
-      "id": "tmdb:36865",
-      "type": "movie",
-      "name": "La desaparición de Haruhi Suzumiya",
-      "ids": {
-        "tmdb": 36865
-      },
-      "overview": "La historia toma lugar entre el 16 y el 24 de diciembre, un mes después del festival cultural. Acercándose las vacaciones de invierno, la Brigada SOS, liderada por Haruhi Suzumiya, planea hacer una fiesta de nabe para Navidad. Sin embargo, el 18 de diciembre, Kyon llega al instituto para descubrir que todo ha cambiado. Haruhi y Itsuki Koizumi han desaparecido, Yuki Nagato es una estudiante normal con sentimientos, Ryoko Asakura, quién había sido eliminada por Yuki, también es una estudiante normal y Mikuru Asahina no le reconoce. La única pista que tiene es un marcapáginas que le dejó Yuki, que lleva a Kyon en un viaje a través del tiempo relacionado con la historia del episodio «Rapsodia de una Hoja de Bambú», intentando resolver el misterio y restaurar su línea temporal.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/tEPcSwoXCKGNC6fwYiEfC7xj2Sw.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9PRf7hedCISfokQKE9I6mXWAuI7.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qlljFWhukyavy4myGro8YEQndpi.png"
-    },
-    {
-      "id": "tmdb:658558",
-      "type": "movie",
-      "name": "Kyochuu Rettou",
-      "ids": {
-        "tmdb": 658558
-      },
-      "overview": "Después de un accidente de avión durante un viaje escolar, Oribe Mutsumi y sus compañeros de clase quedaron varados en una isla aparentemente desierta. Mutsumi encontró a los otros sobrevivientes, y usó su conocimiento del desierto para ayudarlos. Ella espera que sean rescatados en unos tres días, lo que no parece durar tanto. Sin embargo, no tuvo en cuenta el hecho de que la isla está poblada por gigantescos insectos asesinos. ¡Su conocimiento de mariposas, avispas y más puede ser la única cosa que ayude a cualquiera de sus compañeros a sobrevivir para ser rescatados!",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/uJFki1BLHvEi4gaPCJvy9SZQZpx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2qccXVVWXZo3nnNFC22giCGmgnN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/85D1ge6gqe7Z1K74748IIg6hmNC.png"
-    },
-    {
-      "id": "tmdb:820530",
-      "type": "movie",
-      "name": "DAKAICHI -I'm being harassed by the sexiest man of the year-: Spain Arc",
-      "ids": {
-        "tmdb": 820530
-      },
-      "overview": "Azumaya and Takato are set to star in \"Blood Wedding,\" a two-person play that incorporates flamenco dancing; Takato decides to travel to Spain to learn about passion.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/vMzyq71sUoQ3atuQKQW8f5zg9Qy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kW6Ws7VXzG7VdHqbP0O5pQrv6am.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AhckBNSTUqdAoq7HmiYqpCMVyal.png"
     },
     {
       "id": "tmdb:477776",
@@ -421,6 +351,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/h2VRaJEyuhOYLrwotBvuEIPRSz.png"
     },
     {
+      "id": "tmdb:658558",
+      "type": "movie",
+      "name": "Kyochuu Rettou",
+      "ids": {
+        "tmdb": 658558
+      },
+      "overview": "Después de un accidente de avión durante un viaje escolar, Oribe Mutsumi y sus compañeros de clase quedaron varados en una isla aparentemente desierta. Mutsumi encontró a los otros sobrevivientes, y usó su conocimiento del desierto para ayudarlos. Ella espera que sean rescatados en unos tres días, lo que no parece durar tanto. Sin embargo, no tuvo en cuenta el hecho de que la isla está poblada por gigantescos insectos asesinos. ¡Su conocimiento de mariposas, avispas y más puede ser la única cosa que ayude a cualquiera de sus compañeros a sobrevivir para ser rescatados!",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/uJFki1BLHvEi4gaPCJvy9SZQZpx.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2qccXVVWXZo3nnNFC22giCGmgnN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/85D1ge6gqe7Z1K74748IIg6hmNC.png"
+    },
+    {
+      "id": "tmdb:14945",
+      "type": "movie",
+      "name": "Origen: espíritus del pasado",
+      "ids": {
+        "tmdb": 14945
+      },
+      "overview": "Hace 300 años, un experimento con plantas en la luna acabó con medio satélite y con la población de la Tierra. Ahora sólo unos pocos supervivientes cohabitan en las ruinas de las antiguas ciudades. Una de estas ciudades es Neutral, donde vive Agito, un muchacho que siempre está metiendose en líos con su mejor amigo. Su padre, uno de los tres fundadores de la ciudad, y quizás el más importante, se convirtió en un humano mejorado al llegar a un acuerdo con el bosque y sus criaturas.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/2VR6La9gFFJNIOJVgki3MjbQi1J.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bmLl8z8GKU2sp3TApDEybNfRok0.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8YSTxyTMRAaTgOFwGOglKKBeFBQ.png"
+    },
+    {
       "id": "tmdb:642121",
       "type": "movie",
       "name": "Un extraño a la orilla del mar",
@@ -433,61 +391,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/23B0PdYzvq0lAPcxvfOrFb8yKmE.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mukpoeEqTDLbsAbX3AI1LV4r5kZ.png"
-    },
-    {
-      "id": "tmdb:930930",
-      "type": "movie",
-      "name": "Thunderbolt Fantasy 東離劍遊紀",
-      "ids": {
-        "tmdb": 930930
-      },
-      "overview": "A Takarazuka Revue production based on the 2016 Japanese-Taiwanese puppet drama television series.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/6sENjkENgpe6LrgIaEXmBcbOcE6.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5oD83z4ArTAxeYhmSu8fDkU72a0.jpg"
-    },
-    {
-      "id": "tmdb:1201387",
-      "type": "movie",
-      "name": "劇場総集編ぼっち・ざ・ろっく！Re:Re:",
-      "ids": {
-        "tmdb": 1201387
-      },
-      "overview": "Hitori Gotoh, aka Bocchi-chan, plays guitar in hopes of joining a band. And while she's famous online, what's holding her back is that she's incredibly introverted. That is, until a desperate drummer gets Bocchi-chan out of her shell and onto the stage.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/bGcRWQfAxMffvkD8Pj3cXJ61W9l.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/bAwlPvcKjtFX0F8bz4GQVRwcIEu.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oubjRJR3O5FkLmGniR1ENSNxg5S.png"
-    },
-    {
-      "id": "tmdb:483455",
-      "type": "movie",
-      "name": "Bungou Stray Dogs - Dead Apple",
-      "ids": {
-        "tmdb": 483455
-      },
-      "overview": "La historia está protagonizada por una liga de figuras literarias con poderes sobrenaturales, como Ryunosuke Akutagawa, que en la vida real escribió varias novelas y en el manga tiene el poder de transformar su capa en una especie de monstruo. Él y sus compañeros escritores se dedicarán a resolver misterios como parte de la “Agencia Armada de Detectives”. Otros autores japoneses que aparecen en la obra son Rampo Edogawa, Kenji Miyazawa, Osamu Dazai, Atsushi Nakajima, Akiko Yoshino, Yukito Ayatsuji(Another),Natsuhiko Kyogoku (Loups-Garous), Agatha Christie o Dan Brown.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/87EGBy3d8RmBYzuksofdcQkbJXC.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2yYWFWpXjKUWex8RR0XXovXixEg.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yARTI9WYs8NF9dr2j8iGEl9KbTS.png"
-    },
-    {
-      "id": "tmdb:37048",
-      "type": "movie",
-      "name": "Mobile Suit Gundam 00 the Movie: Awakening of the Trailblazer",
-      "ids": {
-        "tmdb": 37048
-      },
-      "overview": "Es el año 2314 D. C. Han pasado dos años desde la derrota a la despiadada A-LAWS, y el nuevo gobierno de la Federación de la esfera terrestre ha buscado la paz mediante el establecimiento de un mundo libre de armas. Sin embargo, una nave olvidada que fue enviada a Júpiter hace 130 años de alguna manera vuelve a la Tierra, aparentemente sin signos de vida a bordo, sin embargo trae consigo una nueva y peligrosa amenaza alienígena, las formas de vida de metal cambia formas Extraterrestrial Livingmetal Shapeshifter (ELS), que comienzan a asimilar la tecnología de la Tierra y sus habitantes. Ahora, con la humanidad en peligro de la destrucción total, Celestial Being hace su retorno a defender a la tierra en contra de la invasión de los ELS extraterrestre en lo que parece será la última batalla.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/pGfKtbinKYzsfwVVTF628nQtVL8.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v7ha9Qwc5pCAvS5mMVjOPHCQVR5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lvPpmFroZgn5EPXuv6aIcLLlOo.png"
     },
     {
       "id": "tmdb:915403",
@@ -504,60 +407,31 @@
       "logo": "https://image.tmdb.org/t/p/w500/t6Bsdxp8cUF4t8PacOPyQfhQwFC.png"
     },
     {
-      "id": "tmdb:44734",
+      "id": "tmdb:36865",
       "type": "movie",
-      "name": "Higashi no Eden: Gekijouban II Paradise Lost",
+      "name": "La desaparición de Haruhi Suzumiya",
       "ids": {
-        "tmdb": 44734
+        "tmdb": 36865
       },
-      "overview": "Accused of terrorism and feeling the heat, Saki's high-tech crew is in the crosshairs. Meanwhile, the shroud of mystery covering Takizawa is lifted as he and his fellow Selecao make their final moves. Every game must come to an end. For those playing Mr. Outside's twisted game of conspiracy thrills, the end comes now.",
+      "overview": "La historia toma lugar entre el 16 y el 24 de diciembre, un mes después del festival cultural. Acercándose las vacaciones de invierno, la Brigada SOS, liderada por Haruhi Suzumiya, planea hacer una fiesta de nabe para Navidad. Sin embargo, el 18 de diciembre, Kyon llega al instituto para descubrir que todo ha cambiado. Haruhi y Itsuki Koizumi han desaparecido, Yuki Nagato es una estudiante normal con sentimientos, Ryoko Asakura, quién había sido eliminada por Yuki, también es una estudiante normal y Mikuru Asahina no le reconoce. La única pista que tiene es un marcapáginas que le dejó Yuki, que lleva a Kyon en un viaje a través del tiempo relacionado con la historia del episodio «Rapsodia de una Hoja de Bambú», intentando resolver el misterio y restaurar su línea temporal.",
       "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/aH7cEbHQTsosx6H5bgpueQHOB8I.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tEPcSwoXCKGNC6fwYiEfC7xj2Sw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sS161jRwEBCzykkkXw3C0e4Jbla.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/je2C1e00yOKNsJgblIy11RyAJHC.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9PRf7hedCISfokQKE9I6mXWAuI7.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qlljFWhukyavy4myGro8YEQndpi.png"
     },
     {
-      "id": "tmdb:883768",
+      "id": "tmdb:930930",
       "type": "movie",
-      "name": "Mobile Suit Gundam: Cucuruz Doan's Island",
+      "name": "Thunderbolt Fantasy 東離劍遊紀",
       "ids": {
-        "tmdb": 883768
+        "tmdb": 930930
       },
-      "overview": "Después de que una misión encubierta sale mal, el piloto de Mobile Suit Amuro Ray y sus camaradas quedan varados en una isla remota. El batallón fue enviado a una tierra llamada Isla Sin Retorno para eliminar las fuerzas enemigas, solo para encontrar un grupo de niños y un ataque de mecha enemigo. Ahora Amuro debe encontrar una manera para que todos escapen de esta tierra misteriosa, no sin antes conocer a un hombre extraño: Cucuruz Doan.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/gFkTBs9bTJgdJiiFF3891TZZqVt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sRUKTGQngY3XAJ0nxjvCO030Kby.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qY33NOTlIJlEmdqAVKn9A33jEkD.png"
-    },
-    {
-      "id": "tmdb:553610",
-      "type": "movie",
-      "name": "機動戦士ガンダムNT",
-      "ids": {
-        "tmdb": 553610
-      },
-      "overview": "U.C. 0097, one year after the opening of \"Laplace's Box\".  Despite the revelation of the Universal Century Charter that acknowledges the existence and rights of Newtypes, the framework of the world has not been greatly altered.  The conflict later dubbed the \"Laplace Incident\" is thought to have ended with the downfall of the Neo Zeon remnants known as the Sleeves. In its final battle, two full psycho-frame mobile suits displayed power beyond human understanding. The white unicorn and the black lion were sealed away to remove this danger from people's consciousness, and they should now be completely forgotten.  However, the RX-0 Unicorn Gundam 03, which disappeared two years earlier, is now about to show itself in the Earth Sphere once more. A golden phoenix… named Phenex.",
+      "overview": "A Takarazuka Revue production based on the 2016 Japanese-Taiwanese puppet drama television series.",
       "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/fcDJfzMLm6uONaQTWOkJhqypv6D.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/6sENjkENgpe6LrgIaEXmBcbOcE6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/sbJtRUAovUAlg3UWJ6QQIIzo8C3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wrz1IhJMpVdO2AmHLMbO8mOr8ei.png"
-    },
-    {
-      "id": "tmdb:874745",
-      "type": "movie",
-      "name": "To Me, The One Who Loved You",
-      "ids": {
-        "tmdb": 874745
-      },
-      "overview": "Koyomi Hidaka y Shiori Sato se conocen en el centro de investigación de su padre y comienzan a enamorarse, pero también lo hacen sus padres, quienes finalmente se casan. Para evitar convertirse en hermanastros, deciden huir a un universo paralelo. Viajar entre dimensiones es común en su mundo, pero no sin repercusiones. ¿Existe un universo para la joven pareja y cuánto les costará encontrarlo?",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/gt7kD8MjObtgQYH130pZiLTN0qx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2ShsQahW6X6DSbxGyI8LJ6X2dKT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfek9PIxqffXMWPvhtVVEPEAfIf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5oD83z4ArTAxeYhmSu8fDkU72a0.jpg"
     },
     {
       "id": "tmdb:1117609",
@@ -574,32 +448,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/tFQOLpygMXpSoK5kqgQWxBkKr3S.png"
     },
     {
-      "id": "tmdb:1310672",
+      "id": "tmdb:483455",
       "type": "movie",
-      "name": "Fūto Tantei: Kamen Rider Skull no Shōzō",
+      "name": "Bungou Stray Dogs - Dead Apple",
       "ids": {
-        "tmdb": 1310672
+        "tmdb": 483455
       },
-      "overview": "Precuela de la serie anime \"Fuuto PI\" explicando los orígenes de Kamen Rider W.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/n6YOsMXed9z3NHIPptmAocOfh4Q.jpg",
+      "overview": "La historia está protagonizada por una liga de figuras literarias con poderes sobrenaturales, como Ryunosuke Akutagawa, que en la vida real escribió varias novelas y en el manga tiene el poder de transformar su capa en una especie de monstruo. Él y sus compañeros escritores se dedicarán a resolver misterios como parte de la “Agencia Armada de Detectives”. Otros autores japoneses que aparecen en la obra son Rampo Edogawa, Kenji Miyazawa, Osamu Dazai, Atsushi Nakajima, Akiko Yoshino, Yukito Ayatsuji(Another),Natsuhiko Kyogoku (Loups-Garous), Agatha Christie o Dan Brown.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/87EGBy3d8RmBYzuksofdcQkbJXC.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/AwgmO9qXGTp9q1jyzWhgOTBDgrN.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/c6xICx7VWPt5hwjPPL8eJgt8Nho.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2yYWFWpXjKUWex8RR0XXovXixEg.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/yARTI9WYs8NF9dr2j8iGEl9KbTS.png"
     },
     {
-      "id": "tmdb:1012652",
+      "id": "tmdb:553610",
       "type": "movie",
-      "name": "Psycho-Pass: Providence",
+      "name": "機動戦士ガンダムNT",
       "ids": {
-        "tmdb": 1012652
+        "tmdb": 553610
       },
-      "overview": "Enero de 2118. La inspectora jefe del Departamento de Investigación Criminal, Akane Tsunemori, recibe un informe sobre un incidente en un navío extranjero: se ha hallado el cadáver de la profesora Milicia Stronskaya. Al reunirse con Shinya Kogami, un antiguo fugitivo del Departamento de Investigación Criminal, Akane se enfrenta a un caso que no tarda en superar sus expectativas. Los Papeles de Stronskaya podrían revelar una verdad que haría tambalearse al gobierno japonés, e incluso al Sistema Sibyl, hasta sus cimientos.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/m6T9dPpm8P8jqHIHEnEnKYXlPbW.jpg",
+      "overview": "U.C. 0097, one year after the opening of \"Laplace's Box\".  Despite the revelation of the Universal Century Charter that acknowledges the existence and rights of Newtypes, the framework of the world has not been greatly altered.  The conflict later dubbed the \"Laplace Incident\" is thought to have ended with the downfall of the Neo Zeon remnants known as the Sleeves. In its final battle, two full psycho-frame mobile suits displayed power beyond human understanding. The white unicorn and the black lion were sealed away to remove this danger from people's consciousness, and they should now be completely forgotten.  However, the RX-0 Unicorn Gundam 03, which disappeared two years earlier, is now about to show itself in the Earth Sphere once more. A golden phoenix… named Phenex.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/fcDJfzMLm6uONaQTWOkJhqypv6D.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wtg0EVNc8iNorLpCvHmV7dWMS3L.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ifXJie0ARrBG2eghbRpMqOtk9d.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sbJtRUAovUAlg3UWJ6QQIIzo8C3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wrz1IhJMpVdO2AmHLMbO8mOr8ei.png"
+    },
+    {
+      "id": "tmdb:642586",
+      "type": "movie",
+      "name": "Thunderbolt Fantasy 西幽玹歌",
+      "ids": {
+        "tmdb": 642586
+      },
+      "overview": "Làng Wū Yáo is a boy born with a supernatural singing voice. Secluded in the snowy mountains, he is put through severe training by his blind mother. Her wish is for her son's voice to be unrivaled, so that it will be heard by the imperial court. But the intense training results in a tragic accident, where she dies.  Left an orphan as a result, Làng wanders the land. His voice is used as a tool by the wicked and greedy, with his heart being ground down in the process.  Eventually his strange singing catches the ear of the princess of Xī Yōu, and Làng is elevated to the stage his mother had dreamt of. But what awaits him is a life or death battle performance against other musicians for the amusement of the members of the court.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/4OwAY0SpHwkx70qAWU5adAlLvmq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gOjLDFzdAUkuZ2NMNTYQkxhXSTr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hpNOTLTevk2QMUuolpFwmr2u9rI.png"
     },
     {
       "id": "tmdb:997086",
@@ -616,32 +504,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/h3HPKQBmNqyV0diMl7hm64oAmDX.png"
     },
     {
-      "id": "tmdb:566466",
+      "id": "tmdb:874745",
       "type": "movie",
-      "name": "Yuru Camp△ Movie",
+      "name": "To Me, The One Who Loved You",
       "ids": {
-        "tmdb": 566466
+        "tmdb": 874745
       },
-      "overview": "El evento Yuru Camp △ Secret Society Blanket Enrollment Briefing anunció una película de anime de la serie.",
+      "overview": "Koyomi Hidaka y Shiori Sato se conocen en el centro de investigación de su padre y comienzan a enamorarse, pero también lo hacen sus padres, quienes finalmente se casan. Para evitar convertirse en hermanastros, deciden huir a un universo paralelo. Viajar entre dimensiones es común en su mundo, pero no sin repercusiones. ¿Existe un universo para la joven pareja y cuánto les costará encontrarlo?",
       "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/azp9BHalGiCJ72mgcoM6rQFn6qL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/gt7kD8MjObtgQYH130pZiLTN0qx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wufhm2DFGyytTYu8TxMivf0vUHQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/s4rlKIbPvDbiX3WVHYnx6heAVvN.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2ShsQahW6X6DSbxGyI8LJ6X2dKT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfek9PIxqffXMWPvhtVVEPEAfIf.png"
     },
     {
-      "id": "tmdb:717787",
+      "id": "tmdb:492126",
       "type": "movie",
-      "name": "Your Letter",
+      "name": "Thunderbolt Fantasy: 生死一劍",
       "ids": {
-        "tmdb": 717787
+        "tmdb": 492126
       },
-      "overview": "La historia se centra en Sori, una chica que fue transferida de colegio debido a que en su anterior instituto sufrió de bullying por haber defendido a una de sus compañeras.  Al sentarse en su nuevo banco, nota que hay una carta pegada debajo de éste y aquí comienza la historia. Una gran aventura comienza donde una carta lleva a otra y conocerá diferentes personas que la acompañarán por el camino de las cartas misteriosas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lC6PjARz6pq2kDpbnfkefytKf7O.jpg",
+      "overview": "A theatrical spinoff of the 'Thunderbolt Fantasy' television series which explores the backstory of Shā Wú Shēng, the Screaming Phoenix Killer, and bridges the events of the first and second seasons.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/gzyCJAnKlRsHFy2DDV0aRzZ9ZGx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/thsAU92Ei2Nbm38ZdkvHI8xLaSc.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pZzuxKRFfdOPuPRfO3Y5dvXbIx9.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pyPUP9OOID2I3ZRfDlSrSavxLrJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/o0jo0ZQp4YmncKUvHK4lODp3Jbj.png"
+    },
+    {
+      "id": "tmdb:1310672",
+      "type": "movie",
+      "name": "Fūto Tantei: Kamen Rider Skull no Shōzō",
+      "ids": {
+        "tmdb": 1310672
+      },
+      "overview": "Precuela de la serie anime \"Fuuto PI\" explicando los orígenes de Kamen Rider W.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/n6YOsMXed9z3NHIPptmAocOfh4Q.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/AwgmO9qXGTp9q1jyzWhgOTBDgrN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c6xICx7VWPt5hwjPPL8eJgt8Nho.png"
     },
     {
       "id": "tmdb:913612",
@@ -658,18 +560,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/6t0KOe3CLZPM3vT466hV9TlF6XQ.png"
     },
     {
-      "id": "tmdb:219250",
+      "id": "tmdb:883768",
       "type": "movie",
-      "name": "Toaru Majutsu no Index: Endymion no Kiseki",
+      "name": "Mobile Suit Gundam: Cucuruz Doan's Island",
       "ids": {
-        "tmdb": 219250
+        "tmdb": 883768
       },
-      "overview": "En el día en que Touma Kamijou e Index ven el ascensor espacial de Ciudad Academia, Endymion en la distancia, se encuentran con una chica de nivel 0 con una increíble voz para cantar, Arisa Meigo. Mientras los tres disfrutan de su tiempo juntos después de la escuela, el mago Stiyl Magnus los ataca de repente. Su objetivo: Arisa. Touma se pregunta por qué una chica del lado de la ciencia sería el objetivo de alguien del lado mágico. En el caos del ataque de Stiyl, él le dice a Touma, Index y Arisa que ella podría causar una guerra entre el lado mágico y el lado científico.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/vYfuVYLjVCgf09QdJIognRmGH6Z.jpg",
+      "overview": "Después de que una misión encubierta sale mal, el piloto de Mobile Suit Amuro Ray y sus camaradas quedan varados en una isla remota. El batallón fue enviado a una tierra llamada Isla Sin Retorno para eliminar las fuerzas enemigas, solo para encontrar un grupo de niños y un ataque de mecha enemigo. Ahora Amuro debe encontrar una manera para que todos escapen de esta tierra misteriosa, no sin antes conocer a un hombre extraño: Cucuruz Doan.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/gFkTBs9bTJgdJiiFF3891TZZqVt.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/h6C5GgHos7VtcVoOsJTcbyYpivk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kKeNUEnhyZo7lAG6NXyh7hKy2vf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/sRUKTGQngY3XAJ0nxjvCO030Kby.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qY33NOTlIJlEmdqAVKn9A33jEkD.png"
+    },
+    {
+      "id": "tmdb:37048",
+      "type": "movie",
+      "name": "Mobile Suit Gundam 00 the Movie: Awakening of the Trailblazer",
+      "ids": {
+        "tmdb": 37048
+      },
+      "overview": "Es el año 2314 D. C. Han pasado dos años desde la derrota a la despiadada A-LAWS, y el nuevo gobierno de la Federación de la esfera terrestre ha buscado la paz mediante el establecimiento de un mundo libre de armas. Sin embargo, una nave olvidada que fue enviada a Júpiter hace 130 años de alguna manera vuelve a la Tierra, aparentemente sin signos de vida a bordo, sin embargo trae consigo una nueva y peligrosa amenaza alienígena, las formas de vida de metal cambia formas Extraterrestrial Livingmetal Shapeshifter (ELS), que comienzan a asimilar la tecnología de la Tierra y sus habitantes. Ahora, con la humanidad en peligro de la destrucción total, Celestial Being hace su retorno a defender a la tierra en contra de la invasión de los ELS extraterrestre en lo que parece será la última batalla.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/pGfKtbinKYzsfwVVTF628nQtVL8.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/v7ha9Qwc5pCAvS5mMVjOPHCQVR5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lvPpmFroZgn5EPXuv6aIcLLlOo.png"
     },
     {
       "id": "tmdb:874743",
@@ -686,6 +602,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/bIRk1vyabhnr2FGoOHc7TWmjuqR.png"
     },
     {
+      "id": "tmdb:760765",
+      "type": "movie",
+      "name": "Hula Fulla Dance",
+      "ids": {
+        "tmdb": 760765
+      },
+      "overview": "Esta historia tiene lugar en el Spa Resort Hawaiians, un hotel de temática hawaiana ubicado en la prefectura de Fukushima. Seguimos a Natsunagi Hiwa, una novata del Hula que ha decidido hacer una carrera en este campo. Seguiremos así su avance en esta disciplina.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/4UjIm4cidAXwT17gKS8G7vbKySj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/8SYsf4yF0CmrdCVZSj43tZHGoG6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6HabRtZANL9KqSuZfeTb6oDjvwo.png"
+    },
+    {
+      "id": "tmdb:44734",
+      "type": "movie",
+      "name": "Higashi no Eden: Gekijouban II Paradise Lost",
+      "ids": {
+        "tmdb": 44734
+      },
+      "overview": "Accused of terrorism and feeling the heat, Saki's high-tech crew is in the crosshairs. Meanwhile, the shroud of mystery covering Takizawa is lifted as he and his fellow Selecao make their final moves. Every game must come to an end. For those playing Mr. Outside's twisted game of conspiracy thrills, the end comes now.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/aH7cEbHQTsosx6H5bgpueQHOB8I.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/sS161jRwEBCzykkkXw3C0e4Jbla.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/je2C1e00yOKNsJgblIy11RyAJHC.png"
+    },
+    {
+      "id": "tmdb:1201387",
+      "type": "movie",
+      "name": "劇場総集編ぼっち・ざ・ろっく！Re:Re:",
+      "ids": {
+        "tmdb": 1201387
+      },
+      "overview": "Hitori Gotoh, aka Bocchi-chan, plays guitar in hopes of joining a band. And while she's famous online, what's holding her back is that she's incredibly introverted. That is, until a desperate drummer gets Bocchi-chan out of her shell and onto the stage.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/bGcRWQfAxMffvkD8Pj3cXJ61W9l.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/bAwlPvcKjtFX0F8bz4GQVRwcIEu.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oubjRJR3O5FkLmGniR1ENSNxg5S.png"
+    },
+    {
+      "id": "tmdb:1012652",
+      "type": "movie",
+      "name": "Psycho-Pass: Providence",
+      "ids": {
+        "tmdb": 1012652
+      },
+      "overview": "Enero de 2118. La inspectora jefe del Departamento de Investigación Criminal, Akane Tsunemori, recibe un informe sobre un incidente en un navío extranjero: se ha hallado el cadáver de la profesora Milicia Stronskaya. Al reunirse con Shinya Kogami, un antiguo fugitivo del Departamento de Investigación Criminal, Akane se enfrenta a un caso que no tarda en superar sus expectativas. Los Papeles de Stronskaya podrían revelar una verdad que haría tambalearse al gobierno japonés, e incluso al Sistema Sibyl, hasta sus cimientos.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/m6T9dPpm8P8jqHIHEnEnKYXlPbW.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wtg0EVNc8iNorLpCvHmV7dWMS3L.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ifXJie0ARrBG2eghbRpMqOtk9d.png"
+    },
+    {
       "id": "tmdb:477777",
       "type": "movie",
       "name": "Code Geass: Lelouch of the Rebellion II - Transgression",
@@ -698,6 +670,34 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/de94egii0q7C6GZu6gFTJS6MeMB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/57RTGhGD7J7KKIUo4AW6ZagMQVO.png"
+    },
+    {
+      "id": "tmdb:566466",
+      "type": "movie",
+      "name": "Yuru Camp△ Movie",
+      "ids": {
+        "tmdb": 566466
+      },
+      "overview": "El evento Yuru Camp △ Secret Society Blanket Enrollment Briefing anunció una película de anime de la serie.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/azp9BHalGiCJ72mgcoM6rQFn6qL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wufhm2DFGyytTYu8TxMivf0vUHQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/s4rlKIbPvDbiX3WVHYnx6heAVvN.png"
+    },
+    {
+      "id": "tmdb:1071101",
+      "type": "movie",
+      "name": "大雪海のカイナ ほしのけんじゃ",
+      "ids": {
+        "tmdb": 1071101
+      },
+      "overview": "Kaina returns to the icy Canopy, unsure of what he should do next. He and Ririha have brought peace to Atland and Valghia through an alliance. Now supplies run low, and the people need answers. Kaina, Ririha, and their small party set out to cross the snow in search of the great orbital spire tree. This is the first step to saving their people. Join Kaina on an expedition to save mankind!",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/tknSJyInVeBZhaIUHlzPpqA45Ej.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eHKRUk1QENXXzrgKg3nLHJCQn4m.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ychIdQOSzJUMFHB9lyU2ruTGfvq.png"
     }
   ]
 }
