@@ -99,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
     },
     {
-      "id": "tmdb:105",
-      "type": "movie",
-      "name": "Regreso al futuro",
-      "ids": {
-        "tmdb": 105
-      },
-      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
-      "year": 1985,
-      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2JY9wBftUuZIKvQD24Hg4PPKYsw.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png"
-    },
-    {
       "id": "tmdb:240",
       "type": "movie",
       "name": "El padrino II",
@@ -125,6 +111,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
+    },
+    {
+      "id": "tmdb:105",
+      "type": "movie",
+      "name": "Regreso al futuro",
+      "ids": {
+        "tmdb": 105
+      },
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2JY9wBftUuZIKvQD24Hg4PPKYsw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png"
     },
     {
       "id": "tmdb:1159559",
@@ -169,34 +169,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
     },
     {
-      "id": "tmdb:4232",
-      "type": "movie",
-      "name": "Scream. Vigila quién llama",
-      "ids": {
-        "tmdb": 4232
-      },
-      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
-      "year": 1996,
-      "poster": "https://image.tmdb.org/t/p/w342/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/czEkFf928ItpF2A5iDCwdzVhNc2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
-    },
-    {
-      "id": "tmdb:1091",
-      "type": "movie",
-      "name": "La cosa (El enigma de otro mundo)",
-      "ids": {
-        "tmdb": 1091
-      },
-      "overview": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vTD26SaVDTzyQu8WZteZBREBFRz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
-    },
-    {
       "id": "tmdb:419430",
       "type": "movie",
       "name": "Déjame salir",
@@ -209,6 +181,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ahQSmt159qM5s1V7k3exGwQB00c.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cG21XcsSGnwuwbARB1dkZjTIG30.png"
+    },
+    {
+      "id": "tmdb:4232",
+      "type": "movie",
+      "name": "Scream. Vigila quién llama",
+      "ids": {
+        "tmdb": 4232
+      },
+      "overview": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+      "year": 1996,
+      "poster": "https://image.tmdb.org/t/p/w342/jSyDHeFEGghtm624mWpuadcG6Gl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/czEkFf928ItpF2A5iDCwdzVhNc2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
     },
     {
       "id": "tmdb:1087192",
@@ -225,20 +211,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM9COozSFJqIGXhNWiwuitxk6QP.png"
     },
     {
-      "id": "tmdb:424139",
-      "type": "movie",
-      "name": "La noche de Halloween",
-      "ids": {
-        "tmdb": 424139
-      },
-      "overview": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vygAwIRL9zqulQIYPkHA34dFWu2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ixH5r1vyjH3Em9DLVrYpwOlPG0K.png"
-    },
-    {
       "id": "tmdb:810",
       "type": "movie",
       "name": "Shrek tercero",
@@ -251,6 +223,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/4uSRGXXU4kucRUbzd6X4lDZXeti.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ml4ZAXZrJHvFb3WjaPRy3NF3xzq.png"
+    },
+    {
+      "id": "tmdb:1091",
+      "type": "movie",
+      "name": "La cosa (El enigma de otro mundo)",
+      "ids": {
+        "tmdb": 1091
+      },
+      "overview": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vTD26SaVDTzyQu8WZteZBREBFRz.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
     },
     {
       "id": "tmdb:575265",
@@ -267,32 +253,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
     },
     {
-      "id": "tmdb:9502",
+      "id": "tmdb:424139",
       "type": "movie",
-      "name": "Kung Fu Panda",
+      "name": "La noche de Halloween",
       "ids": {
-        "tmdb": 9502
+        "tmdb": 424139
       },
-      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+      "overview": "Jamie Lee Curtis regresa a su papel icónico como Laurie Strode, quien llega a su enfrentamiento final con Michael Myers, la figura enmascarada que la ha perseguido desde que escapó por poco de su juerga de asesinatos en la noche de Halloween de hace cuatro décadas.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/tRwuTL3KhU03MA2EkXNdRXhH49V.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
-    },
-    {
-      "id": "tmdb:640",
-      "type": "movie",
-      "name": "Atrápame si puedes",
-      "ids": {
-        "tmdb": 640
-      },
-      "overview": "Frank Abagnale Jr. trabajó como médico, abogado y copiloto de una de las grandes líneas aéreas, todo ello antes de cumplir los dieciocho años. También fue un genial falsificador y sus habilidades le otorgaron una plaza en la historia. A la edad de 17 años, Frank Abagnale Jr. se convirtió en el ladrón de bancos de más éxito en la historia de Estados Unidos. El agente del FBI Carl Hanratty dedicó la mayor parte de su tiempo a perseguir a Frank para llevarle ante la justicia, pero Frank siempre estaba un paso por delante, retándole a continuar la caza.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/v6xZRHhkRAuS5PS7PWiTy965Ril.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/vygAwIRL9zqulQIYPkHA34dFWu2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ixH5r1vyjH3Em9DLVrYpwOlPG0K.png"
     },
     {
       "id": "tmdb:417859",
@@ -309,18 +281,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/5YifuppwdnXqj0a86CJVRgzOqpQ.png"
     },
     {
-      "id": "tmdb:446893",
+      "id": "tmdb:640",
       "type": "movie",
-      "name": "Trolls 2: Gira mundial",
+      "name": "Atrápame si puedes",
       "ids": {
-        "tmdb": 446893
+        "tmdb": 640
       },
-      "overview": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
+      "overview": "Frank Abagnale Jr. trabajó como médico, abogado y copiloto de una de las grandes líneas aéreas, todo ello antes de cumplir los dieciocho años. También fue un genial falsificador y sus habilidades le otorgaron una plaza en la historia. A la edad de 17 años, Frank Abagnale Jr. se convirtió en el ladrón de bancos de más éxito en la historia de Estados Unidos. El agente del FBI Carl Hanratty dedicó la mayor parte de su tiempo a perseguir a Frank para llevarle ante la justicia, pero Frank siempre estaba un paso por delante, retándole a continuar la caza.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/wcWi3xIEzIjDERTZyWoqryQGURA.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4Eq362CDl4pYQTtVyxlSLELYo8y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/v6xZRHhkRAuS5PS7PWiTy965Ril.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
     },
     {
       "id": "tmdb:809",
@@ -337,60 +309,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png"
     },
     {
-      "id": "tmdb:360920",
+      "id": "tmdb:9502",
       "type": "movie",
-      "name": "El Grinch",
+      "name": "Kung Fu Panda",
       "ids": {
-        "tmdb": 360920
+        "tmdb": 9502
       },
-      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
-    },
-    {
-      "id": "tmdb:10625",
-      "type": "movie",
-      "name": "Chicas malas",
-      "ids": {
-        "tmdb": 10625
-      },
-      "overview": "Una joven adolescente, Cady, acostumbrada a vivir en África con sus padres, zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio. Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/fVHCoj809sonJJDvOF9hqCVZPRx.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wCsI2O3Rx9rkNOrBGQyo09dOCw5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vwcTggmP0R4MtVrQJoD29llCuZz.png"
-    },
-    {
-      "id": "tmdb:4247",
-      "type": "movie",
-      "name": "Scary Movie",
-      "ids": {
-        "tmdb": 4247
-      },
-      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
-    },
-    {
-      "id": "tmdb:646385",
-      "type": "movie",
-      "name": "Scream",
-      "ids": {
-        "tmdb": 646385
-      },
-      "overview": "Una nueva entrega de la saga de terror 'Scream' que seguirá a una mujer que regresa a su ciudad natal para intentar descubrir quién ha estado cometiendo una serie de crímenes atroces.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/uWKJyIISWzP7KmB2vcgrX7xyhUh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/obPMByghDuuORoO3ggriCCcNHKI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vxBHLImSfE4Nz18xYmbY7LGPbX1.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
     },
     {
       "id": "tmdb:85",
@@ -405,20 +335,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
-    },
-    {
-      "id": "tmdb:701387",
-      "type": "movie",
-      "name": "Bugonia",
-      "ids": {
-        "tmdb": 701387
-      },
-      "overview": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/fndDv16tDmgvMBJd2bb2w5CDxpe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvkNQPgNiJhKXk8S72gkyhD1A2E.png"
     },
     {
       "id": "tmdb:242",
@@ -449,46 +365,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/kApyKGMzbhUybpdBZf2GUZJC4my.png"
     },
     {
-      "id": "tmdb:798645",
+      "id": "tmdb:701387",
       "type": "movie",
-      "name": "The Running Man",
+      "name": "Bugonia",
       "ids": {
-        "tmdb": 798645
+        "tmdb": 701387
       },
-      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
+      "overview": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fndDv16tDmgvMBJd2bb2w5CDxpe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/c5JmwBRLm1Mb2U8m1C1JYbNoOnX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvkNQPgNiJhKXk8S72gkyhD1A2E.png"
     },
     {
-      "id": "tmdb:1228246",
+      "id": "tmdb:10625",
       "type": "movie",
-      "name": "Five Nights at Freddy's 2",
+      "name": "Chicas malas",
       "ids": {
-        "tmdb": 1228246
+        "tmdb": 10625
       },
-      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+      "overview": "Una joven adolescente, Cady, acostumbrada a vivir en África con sus padres, zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio. Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/fVHCoj809sonJJDvOF9hqCVZPRx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5HgCJxrzL2ynflScZkFUOFNAHyv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wCsI2O3Rx9rkNOrBGQyo09dOCw5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vwcTggmP0R4MtVrQJoD29llCuZz.png"
     },
     {
-      "id": "tmdb:13207",
+      "id": "tmdb:360920",
       "type": "movie",
-      "name": "Viernes 13",
+      "name": "El Grinch",
       "ids": {
-        "tmdb": 13207
+        "tmdb": 360920
       },
-      "overview": "Remake del clásico film de terror, dirigido en 1980 por Sean S. Cunningham. Buscando a su hermana desaparecida, Clay se dirige al espeluznante bosque del legendario Crystal Lake, donde tropieza con los viejos y decrépitos restos de una cabaña que yace detrás de unos árboles cubiertos por denso musgo. Y esto no es lo único que se esconde entre la maleza… En contra del consejo de la policía y las advertencias de los habitantes de la zona, Clay continúa con su búsqueda, ayudado por una joven mujer que ha conocido entre un grupo de jóvenes estudiantes preparados para pasar un emocionante fin de semana. Sin embargo, ellos están a punto de encontrar algo más que no habían tenido en cuenta. Lo que menos se imaginan es que han entrado en el dominio de uno de los más terroríficos espectros de la historia del cine americano: el infame asesino que caza en Crystal Lake armado con una sierra eléctrica",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
+      "overview": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rJ6f0wjpoUQJ5v1cHR7XbiWgc2H.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gIz4tnfHPltGdGNspAWhJ1JzLb5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
     },
     {
       "id": "tmdb:578",
@@ -505,6 +421,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png"
     },
     {
+      "id": "tmdb:4247",
+      "type": "movie",
+      "name": "Scary Movie",
+      "ids": {
+        "tmdb": 4247
+      },
+      "overview": "Tras el asesinato de una bella estudiante, un grupo de adolescentes descubren que hay un asesino entre ellas. La heroína, Cindy, y su grupo de desconcertantes amigos, serán aterrorizados por un singular psicópata enmascarado que pretende vengarse de ellos por haberlo atropellado el pasado Halloween.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/kfAiQqJGnfbQj52Bna7Ohlu04y3.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lE5Hsi1IwjI2wgjslXmiz5Gcbm3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nMpRdeGbgV5KN6iB0Iv6TvsRh81.png"
+    },
+    {
       "id": "tmdb:744",
       "type": "movie",
       "name": "Top Gun: Ídolos del aire",
@@ -517,20 +447,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/SXErc0PwD7XCaNAbEK5AQEGRIx.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/wfZCqteye4nQttmHszgxkqAMSTw.png"
-    },
-    {
-      "id": "tmdb:10192",
-      "type": "movie",
-      "name": "Shrek, felices para siempre",
-      "ids": {
-        "tmdb": 10192
-      },
-      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
     },
     {
       "id": "tmdb:214756",
@@ -547,18 +463,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iNJR287LWbqdhz6WWmb0JtnMd8J.png"
     },
     {
-      "id": "tmdb:82702",
+      "id": "tmdb:10192",
       "type": "movie",
-      "name": "Cómo entrenar a tu dragón 2",
+      "name": "Shrek, felices para siempre",
       "ids": {
-        "tmdb": 82702
+        "tmdb": 10192
       },
-      "overview": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
+      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kVXdBwzqiH4wduE6CvRTdstD81q.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/9yFM0X9eZjN3Ughx80IhtEyT9Bu.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
     },
     {
       "id": "tmdb:953",
@@ -589,74 +505,88 @@
       "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
     },
     {
-      "id": "tmdb:80321",
+      "id": "tmdb:446893",
       "type": "movie",
-      "name": "Madagascar 3: De marcha por Europa",
+      "name": "Trolls 2: Gira mundial",
       "ids": {
-        "tmdb": 80321
+        "tmdb": 446893
       },
-      "overview": "Alex el león, Marty la cebra, Melman la jirafa y Gloria la hipopótamo están decididos a regresar como sea al Zoo de Central Park en Nueva York. Tras abandonar África, toman un desvío y emergen, literalmente, en Europa, persiguiendo a los pingüinos y chimpancés que se las han arreglado para hacer saltar la banca de un casino de Montecarlo. Pronto, los animales son descubiertos por la capitana Chantel DuBois, una testaruda francesa encargada del control de animales, y a la que no le gusta nada que unos animales del zoo anden sueltos por su ciudad.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
+      "overview": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xgmUfp7VcdGdsPAoaGy4ci9XHwo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xInwIUPj03hYRWzAEI180NuuOkq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4Eq362CDl4pYQTtVyxlSLELYo8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/iC2JWZzFsy56MmT1GRF6Ru4ETZg.png"
     },
     {
-      "id": "tmdb:7131",
+      "id": "tmdb:82702",
       "type": "movie",
-      "name": "Van Helsing",
+      "name": "Cómo entrenar a tu dragón 2",
       "ids": {
-        "tmdb": 7131
+        "tmdb": 82702
       },
-      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
+      "overview": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/bXcRw7FL8QzUZOvY2fZdwDv5ymQ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/l5sFfVKqbaIHXJgzSH77viDRVpL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/apbB4YyRatrO4MRLyWUXlXagR4K.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kVXdBwzqiH4wduE6CvRTdstD81q.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/9yFM0X9eZjN3Ughx80IhtEyT9Bu.png"
     },
     {
-      "id": "tmdb:335797",
+      "id": "tmdb:798645",
       "type": "movie",
-      "name": "¡Canta!",
+      "name": "The Running Man",
       "ids": {
-        "tmdb": 335797
+        "tmdb": 798645
       },
-      "overview": "Buster es un koala que posee y dirige un gran teatro que está pasando por un momento muy delicado. Para arreglar la situación y recuperar la gloria perdida, organizará el concurso de canto más grande del mundo, que atrae a multitud de animales que buscan convertirse en estrellas. Entre ellos encontramos a un bromista y arrogante ratón, una elefanta adolescente que tiene pánico escénico, una cerda que padece estrés debido a su camada de 25 lechones, un joven gorila proveniente de una familia de gánsteres y una puercoespín que tiene su propia banda de rock alternativo.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/aNXtFYs0mPP4wakHW7PhHuh8cEo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f2magHjnUAQIisAAC9DUsF5LHMY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xA2v65H3KEW4dJYILl8e42GGPam.png"
-    },
-    {
-      "id": "tmdb:135397",
-      "type": "movie",
-      "name": "Jurassic World",
-      "ids": {
-        "tmdb": 135397
-      },
-      "overview": "Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir a la perfección y ser el negocio del siglo, un nuevo dinosaurio de especie todavía desconocida y que es mucho más inteligente de lo que se pensaba, comienza a causar estragos entre los visitantes del Parque.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9tjieFMEPnxqZ7jH6i1bFNwseKo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
-    },
-    {
-      "id": "tmdb:1175942",
-      "type": "movie",
-      "name": "Los tipos malos 2",
-      "ids": {
-        "tmdb": 1175942
-      },
-      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+      "overview": "En una América distópica en el año 2025, Ben Richards participa en el violento reality show \"The Running Man\" con el fin de ganar suficiente dinero para revivir a su hija gravemente enferma.",
       "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/5WYxFamHLqroV0TilEw0RqBPzqG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/uDj1JlcQK8ssCSr4J78Q0lLj5ew.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/kcsudLBu2OKcdJrlkC2gFLU1DgU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/c5JmwBRLm1Mb2U8m1C1JYbNoOnX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
+    },
+    {
+      "id": "tmdb:646385",
+      "type": "movie",
+      "name": "Scream",
+      "ids": {
+        "tmdb": 646385
+      },
+      "overview": "Una nueva entrega de la saga de terror 'Scream' que seguirá a una mujer que regresa a su ciudad natal para intentar descubrir quién ha estado cometiendo una serie de crímenes atroces.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/uWKJyIISWzP7KmB2vcgrX7xyhUh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/obPMByghDuuORoO3ggriCCcNHKI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vxBHLImSfE4Nz18xYmbY7LGPbX1.png"
+    },
+    {
+      "id": "tmdb:13207",
+      "type": "movie",
+      "name": "Viernes 13",
+      "ids": {
+        "tmdb": 13207
+      },
+      "overview": "Remake del clásico film de terror, dirigido en 1980 por Sean S. Cunningham. Buscando a su hermana desaparecida, Clay se dirige al espeluznante bosque del legendario Crystal Lake, donde tropieza con los viejos y decrépitos restos de una cabaña que yace detrás de unos árboles cubiertos por denso musgo. Y esto no es lo único que se esconde entre la maleza… En contra del consejo de la policía y las advertencias de los habitantes de la zona, Clay continúa con su búsqueda, ayudado por una joven mujer que ha conocido entre un grupo de jóvenes estudiantes preparados para pasar un emocionante fin de semana. Sin embargo, ellos están a punto de encontrar algo más que no habían tenido en cuenta. Lo que menos se imaginan es que han entrado en el dominio de uno de los más terroríficos espectros de la historia del cine americano: el infame asesino que caza en Crystal Lake armado con una sierra eléctrica",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rJ6f0wjpoUQJ5v1cHR7XbiWgc2H.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gIz4tnfHPltGdGNspAWhJ1JzLb5.png"
+    },
+    {
+      "id": "tmdb:1228246",
+      "type": "movie",
+      "name": "Five Nights at Freddy's 2",
+      "ids": {
+        "tmdb": 1228246
+      },
+      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5HgCJxrzL2ynflScZkFUOFNAHyv.png"
     },
     {
       "id": "tmdb:166428",
@@ -673,18 +603,74 @@
       "logo": "https://image.tmdb.org/t/p/w500/dnCCeM9t7cShxrbNmmSIw1S8LwR.png"
     },
     {
-      "id": "tmdb:4248",
+      "id": "tmdb:7131",
       "type": "movie",
-      "name": "Scary Movie 2",
+      "name": "Van Helsing",
       "ids": {
-        "tmdb": 4248
+        "tmdb": 7131
       },
-      "overview": "En esta ocasión los hermanos Wayans empiezan la historia con una satírica parodia de El Exorcista, mostrando a James Woods en el papel de un cura poco convencional, el padre McFelly, ocupado en salvar a una Natasha Lyonne de un espíritu de otro mundo. Entonces, retomando la historia donde la dejaron, los hermanos Wayans se vuelven a reunir de forma cómica con la heroína Cindy Campbell, convertida ahora en una buena estudiante universitaria. Un profesor loco la recluta a ella y a su grupo de compañeros deseosos de vivir aventuras y nuevas experiencias, para una salida de fin de semana bajo el pretexto de realizar un experimento científico. Mientras se desarollan las actividades del fin de semana, las continuas sorpresas mantienen la diversión siempre en marcha.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/90G7YLxKXbEdfcRvlOSRBwbTLS6.jpg",
+      "overview": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/fqorDWIwBBwMvLTZXxUWgrEyGWy.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j5uRKwumod1RF1tCmZfuPHtG0cD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ye5diw1xr4yB69GP6FrB6qNMCKp.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/l5sFfVKqbaIHXJgzSH77viDRVpL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/apbB4YyRatrO4MRLyWUXlXagR4K.png"
+    },
+    {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T., el extraterrestre",
+      "ids": {
+        "tmdb": 601
+      },
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+    },
+    {
+      "id": "tmdb:80321",
+      "type": "movie",
+      "name": "Madagascar 3: De marcha por Europa",
+      "ids": {
+        "tmdb": 80321
+      },
+      "overview": "Alex el león, Marty la cebra, Melman la jirafa y Gloria la hipopótamo están decididos a regresar como sea al Zoo de Central Park en Nueva York. Tras abandonar África, toman un desvío y emergen, literalmente, en Europa, persiguiendo a los pingüinos y chimpancés que se las han arreglado para hacer saltar la banca de un casino de Montecarlo. Pronto, los animales son descubiertos por la capitana Chantel DuBois, una testaruda francesa encargada del control de animales, y a la que no le gusta nada que unos animales del zoo anden sueltos por su ciudad.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/8fKTIecTVNURB6CRFjYMypggRL2.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/xgmUfp7VcdGdsPAoaGy4ci9XHwo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xInwIUPj03hYRWzAEI180NuuOkq.png"
+    },
+    {
+      "id": "tmdb:158015",
+      "type": "movie",
+      "name": "La purga. La noche de las bestias",
+      "ids": {
+        "tmdb": 158015
+      },
+      "overview": "Año 2022. En una futura sociedad distópica, el régimen político, llamado Nueva Fundación de los padres de América, ha implantado una medida catárquica ante la violencia campante y las cárceles saturadas: la \"purga anual\", según la cual una noche al año se puede cometer cualquier clase de crimen, incluso el asesinato, sin tener que responder ante la justicia. La violencia se desata durante esas 12 horas, y los individuos se desfogan, imperando la calma el resto del año. Horas antes de que comience la purga anual, el vendedor de sistemas de seguridad James Sandin regresa a su casa en un lujoso suburbio de Los Angeles junto a su esposa María y sus dos hijos, Zoey y Charlie. Lo que no contaba esa famillia es que poco tiempo después de comenzar la noche un extraño llame a la puerta.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/E4aqq718CX7MeaAlaaTYXj4A2o.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mxOMaI7eE7DV8wwUCskWk6buY9y.png"
+    },
+    {
+      "id": "tmdb:1175942",
+      "type": "movie",
+      "name": "Los tipos malos 2",
+      "ids": {
+        "tmdb": 1175942
+      },
+      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/uDj1JlcQK8ssCSr4J78Q0lLj5ew.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/kcsudLBu2OKcdJrlkC2gFLU1DgU.png"
     },
     {
       "id": "tmdb:270946",
@@ -699,6 +685,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qS1Kr7kVYSeABMbJdmAiYVPOI1f.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
+    },
+    {
+      "id": "tmdb:454626",
+      "type": "movie",
+      "name": "Sonic: La película",
+      "ids": {
+        "tmdb": 454626
+      },
+      "overview": "Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski. Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik, que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/1NNFH01APbTRj3xbxRM3xqM3OuN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lJGjuEDQZbXtwTbRjLJOBnSFtvo.png"
     }
   ]
 }
