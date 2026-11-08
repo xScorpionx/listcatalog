@@ -29,20 +29,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/2M9H9guNvsACVVjNgVRZqjkN8UH.png"
     },
     {
-      "id": "tmdb:33880",
-      "type": "series",
-      "name": "La leyenda de Korra",
-      "ids": {
-        "tmdb": 33880
-      },
-      "overview": "Décadas después de que el Avatar Aang salvara el mundo, el nuevo Avatar, una chica de 17 años llamada Korra, se traslada a la moderna Ciudad República para entrenarse y forjar su destino.",
-      "year": 2012,
-      "poster": "https://image.tmdb.org/t/p/w342/eMo4uWsN3qceNhBPcuw5T2lFsc5.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3nzLn79QJcAcIsYeY6EMW3eqKn3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fKQD79DND5V5m0IW0XdX4i70PPa.png"
-    },
-    {
       "id": "tmdb:1408",
       "type": "series",
       "name": "House",
@@ -55,6 +41,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/AvzQTmocCNTeicH1K3v6pzS1NYb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/7CIeyTV0pZ6HXjJkfgRIiuf5yxh.png"
+    },
+    {
+      "id": "tmdb:33880",
+      "type": "series",
+      "name": "La leyenda de Korra",
+      "ids": {
+        "tmdb": 33880
+      },
+      "overview": "Décadas después de que el Avatar Aang salvara el mundo, el nuevo Avatar, una chica de 17 años llamada Korra, se traslada a la moderna Ciudad República para entrenarse y forjar su destino.",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342/eMo4uWsN3qceNhBPcuw5T2lFsc5.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3nzLn79QJcAcIsYeY6EMW3eqKn3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fKQD79DND5V5m0IW0XdX4i70PPa.png"
     },
     {
       "id": "tmdb:2734",
@@ -99,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/1BCTPhZw1onX2E2R0NxJDSKzDjN.png"
     },
     {
-      "id": "tmdb:549",
-      "type": "series",
-      "name": "Ley y orden",
-      "ids": {
-        "tmdb": 549
-      },
-      "overview": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/bvy6AowxJp5jGhEMlpwesFFYXBL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yBnut9Ij1Sg2IHrInuQLOcGM7Wk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png"
-    },
-    {
       "id": "tmdb:153312",
       "type": "series",
       "name": "Tulsa King",
@@ -125,6 +111,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ro6mCt4rHkSrLpu86pphY8Jn2lb.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png"
+    },
+    {
+      "id": "tmdb:549",
+      "type": "series",
+      "name": "Ley y orden",
+      "ids": {
+        "tmdb": 549
+      },
+      "overview": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/bvy6AowxJp5jGhEMlpwesFFYXBL.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yBnut9Ij1Sg2IHrInuQLOcGM7Wk.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bik2ta7UeU3ZmReaUFU5miFkuLj.png"
     },
     {
       "id": "tmdb:1405",
@@ -225,18 +225,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/qcHsx14gWcY04ETZH3SmJzvgoXW.png"
     },
     {
-      "id": "tmdb:284833",
+      "id": "tmdb:39351",
       "type": "series",
-      "name": "Avatar: Los Siete Refugios",
+      "name": "Grimm",
       "ids": {
-        "tmdb": 284833
+        "tmdb": 39351
       },
-      "overview": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+      "overview": "¿Recuerdas los cuentos de hadas de tus padres te contaban antes de acostarte? Esas no eran historias, eran advertencias. Nick Burkhardt pensaba que realmente se había preparado para trabajar como detective de homicidios hasta que empezó a ver cosas que no podía explicar. Cuando su tía enferma Marie llega, la vida de Nick da un giro cuando ella revela que son descendientes de un grupo de élite de cazadores, también conocidos como \"Grimms\", que luchan para mantener el equilibrio de la humanidad a salvo de las criaturas sobrenaturales del mundo. Como Nick profundiza en su pasado, se da cuenta que tendrá que asumir la responsabilidad de sus antepasados y lidiar con una mitología más grande que la vida de los hermanos Grimm que ahora es demasiado real.",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/1sowkELiwlmlFJbeHEVmolhZhSv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jbDEFEF0A9EuPeHk5Ce0qS0pjLS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/aCP0HwUZHNm5SYRVZOGoDBZ1dCf.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nOPg4FutzDnPdwlXMDy8hVRuJAr.png"
+    },
+    {
+      "id": "tmdb:73586",
+      "type": "series",
+      "name": "Yellowstone",
+      "ids": {
+        "tmdb": 73586
+      },
+      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/8mPGPuSx8NbSDmjABbEqlja0I96.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5LJbKmvt7L9Qy2m3WaZQKhMSZRy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nuiEND7CihapgQ3OkWBLR1q5qUq.png"
     },
     {
       "id": "tmdb:290856",
@@ -253,18 +267,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/3AGTImytIOlu807c3VeJpdzIj9f.png"
     },
     {
-      "id": "tmdb:39351",
+      "id": "tmdb:284833",
       "type": "series",
-      "name": "Grimm",
+      "name": "Avatar: Los Siete Refugios",
       "ids": {
-        "tmdb": 39351
+        "tmdb": 284833
       },
-      "overview": "¿Recuerdas los cuentos de hadas de tus padres te contaban antes de acostarte? Esas no eran historias, eran advertencias. Nick Burkhardt pensaba que realmente se había preparado para trabajar como detective de homicidios hasta que empezó a ver cosas que no podía explicar. Cuando su tía enferma Marie llega, la vida de Nick da un giro cuando ella revela que son descendientes de un grupo de élite de cazadores, también conocidos como \"Grimms\", que luchan para mantener el equilibrio de la humanidad a salvo de las criaturas sobrenaturales del mundo. Como Nick profundiza en su pasado, se da cuenta que tendrá que asumir la responsabilidad de sus antepasados y lidiar con una mitología más grande que la vida de los hermanos Grimm que ahora es demasiado real.",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "overview": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aCP0HwUZHNm5SYRVZOGoDBZ1dCf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nOPg4FutzDnPdwlXMDy8hVRuJAr.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/1sowkELiwlmlFJbeHEVmolhZhSv.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jbDEFEF0A9EuPeHk5Ce0qS0pjLS.png"
     },
     {
       "id": "tmdb:1435",
@@ -281,18 +295,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/cCY5oycFyt9LrL1rRhT7y0PH5Uq.png"
     },
     {
-      "id": "tmdb:73586",
+      "id": "tmdb:1639",
       "type": "series",
-      "name": "Yellowstone",
+      "name": "Héroes",
       "ids": {
-        "tmdb": 73586
+        "tmdb": 1639
       },
-      "overview": "John Dutton es el propietario del rancho más grande de Estados Unidos. Él y sus hijos entablarán una lucha sin cuartel contra una reserva india y contra el Gobierno federal de Estados Unidos que intenta expandir el parque nacional contiguo a la propiedad de los Dutton.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/8mPGPuSx8NbSDmjABbEqlja0I96.jpg",
+      "overview": "Serie de TV (2006-2010). 4 temporadas. 78 episodios. Algunas personas nacen para ser extraordinarias. Un grupo de personas normales se ve, de la noche a la mañana, dotada de increíbles poderes. Así, mientras en Japón un anónimo oficinista descubre que tiene un don para teletransportarse, en Nueva York un artista se da cuenta de que es capaz de pintar el futuro, o en Los Ángeles un policía puede escuchar los pensamientos ajenos. Estas personas no sólo tendrán que aprender a conocer sus poderes y a dominarlos, sino que además deberán decidir qué destino quieren darles.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5LJbKmvt7L9Qy2m3WaZQKhMSZRy.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/nuiEND7CihapgQ3OkWBLR1q5qUq.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3VfA8LqEQkB1tCUpuQmQdApwLgt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/AqHUTKJ6UTb4CAU48SqDbxoyFUg.png"
+    },
+    {
+      "id": "tmdb:71789",
+      "type": "series",
+      "name": "SEAL Team",
+      "ids": {
+        "tmdb": 71789
+      },
+      "overview": "La serie sigue las vidas de los SEAL, soldados de élite de la Marina de los Estados Unidos mientras entrenan, planean y ejecutan las misiones más peligrosas y de alto riesgo.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oRhJD5IYpewoZnFUzOMvuJmPiLG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rC1RHd5Qv03LYq9corF9KG2zNvb.png"
     },
     {
       "id": "tmdb:1415",
@@ -323,34 +351,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/egp29Zghyu6JQBl2sC69TlMGMY.svg"
     },
     {
-      "id": "tmdb:71789",
-      "type": "series",
-      "name": "SEAL Team",
-      "ids": {
-        "tmdb": 71789
-      },
-      "overview": "La serie sigue las vidas de los SEAL, soldados de élite de la Marina de los Estados Unidos mientras entrenan, planean y ejecutan las misiones más peligrosas y de alto riesgo.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oRhJD5IYpewoZnFUzOMvuJmPiLG.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rC1RHd5Qv03LYq9corF9KG2zNvb.png"
-    },
-    {
-      "id": "tmdb:1639",
-      "type": "series",
-      "name": "Héroes",
-      "ids": {
-        "tmdb": 1639
-      },
-      "overview": "Serie de TV (2006-2010). 4 temporadas. 78 episodios. Algunas personas nacen para ser extraordinarias. Un grupo de personas normales se ve, de la noche a la mañana, dotada de increíbles poderes. Así, mientras en Japón un anónimo oficinista descubre que tiene un don para teletransportarse, en Nueva York un artista se da cuenta de que es capaz de pintar el futuro, o en Los Ángeles un policía puede escuchar los pensamientos ajenos. Estas personas no sólo tendrán que aprender a conocer sus poderes y a dominarlos, sino que además deberán decidir qué destino quieren darles.",
-      "year": 2006,
-      "poster": "https://image.tmdb.org/t/p/w342/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3VfA8LqEQkB1tCUpuQmQdApwLgt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AqHUTKJ6UTb4CAU48SqDbxoyFUg.png"
-    },
-    {
       "id": "tmdb:4630",
       "type": "series",
       "name": "Los padrinos mágicos",
@@ -379,6 +379,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/7yBJ4MGs2TFBIgvzVekRVecDNDo.png"
     },
     {
+      "id": "tmdb:62852",
+      "type": "series",
+      "name": "Billions",
+      "ids": {
+        "tmdb": 62852
+      },
+      "overview": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w342/edwYPQdZE998d748AdwWLsfy0rl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/gDl2oEcb7O9JbPmpbn4GGhS9OTx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6lysbIVL2tIgzocZ2Ve1jEEICtJ.png"
+    },
+    {
       "id": "tmdb:51817",
       "type": "series",
       "name": "Las Tortugas Ninja",
@@ -391,20 +405,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/jeLJlJLwibzozR41SEWOzBmToHR.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/mWjgKUqxJbX1dm3WMkEwkyTd36Y.png"
-    },
-    {
-      "id": "tmdb:97951",
-      "type": "series",
-      "name": "Mayor of Kingstown",
-      "ids": {
-        "tmdb": 97951
-      },
-      "overview": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/pjdSePHLvmI5oihgMQVNOW8B0Mr.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/c1pK0uSOO4VMISsLd0kWXIQVA5f.png"
     },
     {
       "id": "tmdb:1920",
@@ -421,32 +421,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png"
     },
     {
-      "id": "tmdb:62852",
+      "id": "tmdb:97951",
       "type": "series",
-      "name": "Billions",
+      "name": "Mayor of Kingstown",
       "ids": {
-        "tmdb": 62852
+        "tmdb": 97951
       },
-      "overview": "El fiscal Chuck Rhoades inicia una cruzada contra Bobby \"Axe\" Axelrod, un titán de las altas finanzas, dando así inicio a una batalla entre dos de las figuras más poderosas de Nueva York.",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/edwYPQdZE998d748AdwWLsfy0rl.jpg",
+      "overview": "Ambientada en una pequeña ciudad de Michigan donde la única industria que queda son las cárceles federales, estatales y privadas, la historia sigue a la familia McClusky, los intermediarios del poder entre la policía, los delincuentes, los presos, los guardias de prisiones y los políticos, en una ciudad completamente dependiente de las prisiones.  y los prisioneros que contienen.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gDl2oEcb7O9JbPmpbn4GGhS9OTx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6lysbIVL2tIgzocZ2Ve1jEEICtJ.png"
-    },
-    {
-      "id": "tmdb:61852",
-      "type": "series",
-      "name": "Henry Danger",
-      "ids": {
-        "tmdb": 61852
-      },
-      "overview": "Henry Hart consigue un trabajo de medio tiempo como Kid Danger, un compañero de lucha del super héroe anticrimen Capitán Man/Ray. A pesar de que Ray le dijo a Henry que mantuviera el secreto sobre su trabajo, también lo tiene que hacer con sus mejores amigos Charlotte y Jasper. Sus padres y su hermana menor Piper no saben sobre su secreto. Una tienda llamada \"Junk'n'Stuff\", tiene una guarida secreta escondida debajo, donde Ray hace su trabajo. Pero capítulos adelante la historia cambia un poco, ya que Charlotte descubre que su amigo Henry es Kid Danger, entonces él se lo cuenta a Ray el cual lo despidió, y más adelante por una hazaña heroica, lo recontrata y contrata a Charlotte, desde entonces los dos trabajan para Capitán Man. Luego de que Jasper descubriera el secreto de Henry, el show dio un giro inesperado, ya que Capitán Man contrató a Jasper como empleado en \"Junk'n'Stuff\", de igual manera como ayudante de Kid Danger y Capitán Man en la capicueva.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/onddStWYELFaz4BbV8kavU11oCo.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/or9vQ5o4b0Fbd2uCiPTq4EqSC7D.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/pjdSePHLvmI5oihgMQVNOW8B0Mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/c1pK0uSOO4VMISsLd0kWXIQVA5f.png"
     },
     {
       "id": "tmdb:314",
@@ -491,6 +477,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/dzM6ciclOCE58D9cEMJBTU7yOq.png"
     },
     {
+      "id": "tmdb:61852",
+      "type": "series",
+      "name": "Henry Danger",
+      "ids": {
+        "tmdb": 61852
+      },
+      "overview": "Henry Hart consigue un trabajo de medio tiempo como Kid Danger, un compañero de lucha del super héroe anticrimen Capitán Man/Ray. A pesar de que Ray le dijo a Henry que mantuviera el secreto sobre su trabajo, también lo tiene que hacer con sus mejores amigos Charlotte y Jasper. Sus padres y su hermana menor Piper no saben sobre su secreto. Una tienda llamada \"Junk'n'Stuff\", tiene una guarida secreta escondida debajo, donde Ray hace su trabajo. Pero capítulos adelante la historia cambia un poco, ya que Charlotte descubre que su amigo Henry es Kid Danger, entonces él se lo cuenta a Ray el cual lo despidió, y más adelante por una hazaña heroica, lo recontrata y contrata a Charlotte, desde entonces los dos trabajan para Capitán Man. Luego de que Jasper descubriera el secreto de Henry, el show dio un giro inesperado, ya que Capitán Man contrató a Jasper como empleado en \"Junk'n'Stuff\", de igual manera como ayudante de Kid Danger y Capitán Man en la capicueva.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/onddStWYELFaz4BbV8kavU11oCo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/or9vQ5o4b0Fbd2uCiPTq4EqSC7D.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xkC1jloJRr9crbGm9puKKk0zQRy.png"
+    },
+    {
       "id": "tmdb:61378",
       "type": "series",
       "name": "Madam Secretary",
@@ -531,6 +531,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/pBHPCPkZmoafHTEjbyV4q5cX0DW.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/h3v3gW0883DvtZd3ztl2lQyXH3G.png"
+    },
+    {
+      "id": "tmdb:103516",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "ids": {
+        "tmdb": 103516
+      },
+      "overview": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/9qoBo0n7BHVKv9juhqtjBCExJCi.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
     },
     {
       "id": "tmdb:126824",
@@ -575,60 +589,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/aW0PfdOZyf9JVh06Nee6DBikhjw.png"
     },
     {
-      "id": "tmdb:62560",
+      "id": "tmdb:204024",
       "type": "series",
-      "name": "Mr. Robot",
+      "name": "Piedra, Papel, Tijeras",
       "ids": {
-        "tmdb": 62560
+        "tmdb": 204024
       },
-      "overview": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "overview": "Piedra, Papel y Tijera son tres mejores amigos que comparten apartamento y compiten por todo. Cada semana, tienen problemas que se salen de control.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/k0tQgvy5Dwp1mXtBVL0sqqINMay.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oB9XeZRZKe8DSPCfwezbwPXJ9LD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/e1Bo4txLWyOb44tcL0yVeLs50cv.png"
-    },
-    {
-      "id": "tmdb:69158",
-      "type": "series",
-      "name": "The Good Fight",
-      "ids": {
-        "tmdb": 69158
-      },
-      "overview": "Un año después de los acontecimientos del último episodio de \"The Good Wife\", una enorme estafa financiera ha destruido la reputación de una joven abogada, Maia Rindell, y al mismo tiempo ha acabado con los ahorros de su mentora y madrina Diane Lockhart. Obligados a abandonar su bufete de abogados, ahora llamado \"Lockhart, Deckler, Gussman, Lee, Lyman, Gilbert, Lurie, Kagan, Tannebaum & Associates\", se unen a Lucca Quinn en uno de los bufetes de abogados más destacados de Chicago.",
-      "year": 2017,
-      "poster": "https://image.tmdb.org/t/p/w342/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/p36hkl5SovHqWFbVuR7D2q5828y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/cxbdcoeNL3nsaIaniQmrqbp2xfn.png"
-    },
-    {
-      "id": "tmdb:33907",
-      "type": "series",
-      "name": "Downton Abbey",
-      "ids": {
-        "tmdb": 33907
-      },
-      "overview": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/LSgYUpbBrEuRoF4vohjWNO9Rq3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
-    },
-    {
-      "id": "tmdb:15819",
-      "type": "series",
-      "name": "Almacén 13",
-      "ids": {
-        "tmdb": 15819
-      },
-      "overview": "La serie se centra en dos agentes federales enviados al misterioso Almacén 13, en Dakota del Sur, donde el gobierno guarda, bajo el más absoluto secreto, todo tipo de artefactos extraños.",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/2O70gYqzNGt7uYfjouojCEul9hy.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/veIu3hM6z5luuT87yu6h8pA9ppE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/tgkOkxUaRvNr3XiR1KeskGr891W.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/3xTvjxbIV36Vlsz6N1TJ0g5Lncc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8BDDKVt33HoXco9zfwQ04GQtSsV.png"
     },
     {
       "id": "tmdb:2384",
@@ -645,18 +617,60 @@
       "logo": "https://image.tmdb.org/t/p/w500/aMqlBYGE4vunYcxW85cTNNbniga.png"
     },
     {
-      "id": "tmdb:103516",
+      "id": "tmdb:33907",
       "type": "series",
-      "name": "Star Trek: Strange New Worlds",
+      "name": "Downton Abbey",
       "ids": {
-        "tmdb": 103516
+        "tmdb": 33907
       },
-      "overview": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/9qoBo0n7BHVKv9juhqtjBCExJCi.jpg",
+      "overview": "Serie británica que se desarrolla en el año 1912, durante el reinado de Jorge V, y que retrata a la sociedad aristocrática de aquella época y sus litigios para ganar o mantener sus títulos nobiliarios.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/aLnnZkZXkOSIxeBKzVH1z0lxT86.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/oTwnbowXtY08Ck9XnmaYoG7V5tI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/LSgYUpbBrEuRoF4vohjWNO9Rq3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/bWh12pquY50Xi6osIR0fndg3US3.png"
+    },
+    {
+      "id": "tmdb:69158",
+      "type": "series",
+      "name": "The Good Fight",
+      "ids": {
+        "tmdb": 69158
+      },
+      "overview": "Un año después de los acontecimientos del último episodio de \"The Good Wife\", una enorme estafa financiera ha destruido la reputación de una joven abogada, Maia Rindell, y al mismo tiempo ha acabado con los ahorros de su mentora y madrina Diane Lockhart. Obligados a abandonar su bufete de abogados, ahora llamado \"Lockhart, Deckler, Gussman, Lee, Lyman, Gilbert, Lurie, Kagan, Tannebaum & Associates\", se unen a Lucca Quinn en uno de los bufetes de abogados más destacados de Chicago.",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/p36hkl5SovHqWFbVuR7D2q5828y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cxbdcoeNL3nsaIaniQmrqbp2xfn.png"
+    },
+    {
+      "id": "tmdb:62560",
+      "type": "series",
+      "name": "Mr. Robot",
+      "ids": {
+        "tmdb": 62560
+      },
+      "overview": "Sigue a un misterioso anarquista que recluta a un joven programador de computadoras (Malek) que sufre de un trastorno antisocial y se conecta a la gente pirateándolos.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oB9XeZRZKe8DSPCfwezbwPXJ9LD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/e1Bo4txLWyOb44tcL0yVeLs50cv.png"
+    },
+    {
+      "id": "tmdb:15819",
+      "type": "series",
+      "name": "Almacén 13",
+      "ids": {
+        "tmdb": 15819
+      },
+      "overview": "La serie se centra en dos agentes federales enviados al misterioso Almacén 13, en Dakota del Sur, donde el gobierno guarda, bajo el más absoluto secreto, todo tipo de artefactos extraños.",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w342/2O70gYqzNGt7uYfjouojCEul9hy.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/veIu3hM6z5luuT87yu6h8pA9ppE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/tgkOkxUaRvNr3XiR1KeskGr891W.png"
     },
     {
       "id": "tmdb:7869",
@@ -673,32 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/z0KmZo7YDQam5cs3VT05PCG0IoV.png"
     },
     {
-      "id": "tmdb:246",
+      "id": "tmdb:1423",
       "type": "series",
-      "name": "Avatar: La leyenda de Aang",
+      "name": "Ray Donovan",
       "ids": {
-        "tmdb": 246
+        "tmdb": 1423
       },
-      "overview": "La historia transcurre en un mundo de gente principalmente asiática (el estilo de vida en la serie se basa en la primera mitad del siglo XIX), donde predominan las artes marciales y la manipulación de los elementos en combinación con el misticismo oriental, dando seguimiento a las aventuras de Aang, el más reciente sucesor de una larga línea de avatares, y sus amigos en un intento por salvar su místico mundo de la despiadada Nación del Fuego que busca conquistar a las demás naciones. Durante sus travesías son acechados insistentemente por el desterrado príncipe del fuego Zuko, cuyo objetivo es capturar al avatar para recuperar su honor. Esta serie es presentada como si se tratara de una serie de libros, en donde cada episodio actúa como un «capítulo», y cada temporada como un solo «libro», los cuales se titulan por el elemento temático de la temporada.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+      "overview": "Serie cuyo protagonista es un experto en solucionar problemas para los ricos y poderosos de Los Ángeles, pero cuya familia, del sur de Boston, no deja de darle preocupaciones.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jrKYozgUgF2umKaGx0ptEvCe2oz.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zZULOJwwhbVEJIU2KMZCMIKM98B.png"
-    },
-    {
-      "id": "tmdb:85949",
-      "type": "series",
-      "name": "Star Trek: Picard",
-      "ids": {
-        "tmdb": 85949
-      },
-      "overview": "Serie ambientada 18 años después de la última aparición de Jean-Luc Picard en \"Star Trek: Nemesis\", y encuentra al personaje profundamente afectado por la destrucción de Romulus como se muestra en la película \"Star Trek\" (2009).",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qoW5l4C0NrySNBYAkEtCE15BkZB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hSnj4YfO28VxQydCmfh7zI9tMVU.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/kCLlk3Tc6BmO4p7HdXmRjwETpzX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2O4zkZpnqdS0yqxQ6oTL3CZu5p5.png"
     }
   ]
 }
