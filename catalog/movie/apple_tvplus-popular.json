@@ -127,20 +127,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/pGv2k86yKzO4viRfKvRlYbbedQ2.png"
     },
     {
-      "id": "tmdb:333339",
-      "type": "movie",
-      "name": "Ready Player One",
-      "ids": {
-        "tmdb": 333339
-      },
-      "overview": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rJ2Smn5hQ6PXzldKxT1JtILXEZ5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wdiisVU4A6qMsncRI64awp9TrwK.png"
-    },
-    {
       "id": "tmdb:1029575",
       "type": "movie",
       "name": "Plan en familia",
@@ -153,6 +139,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/LY7E3R0FHryW6xOhSG9pedJHni.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/xid8xe3sCStZIwjSgoiTZyGMOit.png"
+    },
+    {
+      "id": "tmdb:333339",
+      "type": "movie",
+      "name": "Ready Player One",
+      "ids": {
+        "tmdb": 333339
+      },
+      "overview": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rJ2Smn5hQ6PXzldKxT1JtILXEZ5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wdiisVU4A6qMsncRI64awp9TrwK.png"
     },
     {
       "id": "tmdb:1593",
@@ -183,20 +183,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/fuVkbIGbx8AMPnMxCPfSDMwXH8i.png"
     },
     {
-      "id": "tmdb:1259102",
-      "type": "movie",
-      "name": "Eternity",
-      "ids": {
-        "tmdb": 1259102
-      },
-      "overview": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/48Ib3Z2MxDV48KC5v3cXS73LuwB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ueXYp9CvoV2yFEYnPDCBGF1PIdK.png"
-    },
-    {
       "id": "tmdb:302946",
       "type": "movie",
       "name": "El contable",
@@ -225,6 +211,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/cDPvAwiRLT5FyzfTksSkgLnzzNu.png"
     },
     {
+      "id": "tmdb:11631",
+      "type": "movie",
+      "name": "Mamma Mia! La película",
+      "ids": {
+        "tmdb": 11631
+      },
+      "overview": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/4QthG4HsSQ30Uit2CpOz6YRikX1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/eh7CBLdgekeSsX79wFMohfgLEwe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/Av6kk0uREzac952vLV58kqr2oDv.png"
+    },
+    {
+      "id": "tmdb:1259102",
+      "type": "movie",
+      "name": "Eternity",
+      "ids": {
+        "tmdb": 1259102
+      },
+      "overview": "En un más allá donde las almas tienen una semana para decidir dónde pasarán la eternidad, Joan (Elizabeth Olsen) se enfrenta a la diabólica disyuntiva de elegir entre el hombre con el que ha compartido su vida (Miles Teller) y su primer amor (Callum Turner), que murió joven y ha estado décadas esperando a que ella llegara.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/eCXvwJccgeeb5S0NfEk4FAqKPxd.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/48Ib3Z2MxDV48KC5v3cXS73LuwB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ueXYp9CvoV2yFEYnPDCBGF1PIdK.png"
+    },
+    {
       "id": "tmdb:1363123",
       "type": "movie",
       "name": "Plan en familia 2",
@@ -237,6 +251,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5ov2xCVFHOrIlbMc5kqN0bpb4FH.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/qeh4ZRBYUX7USSFYX1JNhcgrKWx.png"
+    },
+    {
+      "id": "tmdb:458220",
+      "type": "movie",
+      "name": "Palmer",
+      "ids": {
+        "tmdb": 458220
+      },
+      "overview": "Tras 12 años en prisión, el exjugador de fútbol Palmer vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue y amenaza con destruir su nueva familia.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zQkkI7q3yWrXgH0GJynyvVM5SmT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wzZJYeihmerQOJrBmi6PH6KqGMx.png"
     },
     {
       "id": "tmdb:585511",
@@ -253,20 +281,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/zQyk74FrfvdNeAaFlxKU1Nz4Fvb.png"
     },
     {
-      "id": "tmdb:11631",
-      "type": "movie",
-      "name": "Mamma Mia! La película",
-      "ids": {
-        "tmdb": 11631
-      },
-      "overview": "Versión cinematográfica del popular musical de ABBA. Una joven que ha crecido en una pequeña isla griega, ha sido educada por una madre rebelde y poco convencional, que siempre se ha negado a revelarle la identidad de su padre. Cuando, por fin, parece que la joven está a punto de saberlo, aparecen tres posibles candidatos.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/4QthG4HsSQ30Uit2CpOz6YRikX1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/eh7CBLdgekeSsX79wFMohfgLEwe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/Av6kk0uREzac952vLV58kqr2oDv.png"
-    },
-    {
       "id": "tmdb:1698575",
       "type": "movie",
       "name": "Snoopy presenta: Hogar, dulce hogar",
@@ -279,34 +293,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tmTR010hrBbWv1Z1KcEuEDh9C19.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/tFwSFyPO1f7LSjGZnMYYldlnKat.png"
-    },
-    {
-      "id": "tmdb:1251636",
-      "type": "movie",
-      "name": "Escuadrón maldito",
-      "ids": {
-        "tmdb": 1251636
-      },
-      "overview": "Conoce a los aviadores de carne y hueso que inspiraron Los amos del aire mientras comparten los angustiosos y transformadores acontecimientos que vivió el Grupo de bombarderos número 100.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/e8C7DBR3kigqBwlq7KDyTaI1UVj.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/kawersKm2Cpk0Vyw56VEzbPibTt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/n0vJzJvYv95LVHRQR9qOoMDdceg.png"
-    },
-    {
-      "id": "tmdb:458220",
-      "type": "movie",
-      "name": "Palmer",
-      "ids": {
-        "tmdb": 458220
-      },
-      "overview": "Tras 12 años en prisión, el exjugador de fútbol Palmer vuelve a casa para rehacer su vida. Mientras se adapta a su nueva realidad, entabla una amistad con un niño abandonado, pero su pasado le persigue y amenaza con destruir su nueva familia.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zQkkI7q3yWrXgH0GJynyvVM5SmT.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wzZJYeihmerQOJrBmi6PH6KqGMx.png"
     },
     {
       "id": "tmdb:848538",
@@ -337,18 +323,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/qVgD67bC2SEBZXRLDJLMiuzl437.png"
     },
     {
-      "id": "tmdb:1272",
+      "id": "tmdb:877817",
       "type": "movie",
-      "name": "Sunshine",
+      "name": "Wolfs",
       "ids": {
-        "tmdb": 1272
+        "tmdb": 877817
       },
-      "overview": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/7kry1lFtt7UCBOKYphybprlYi7D.jpg",
+      "overview": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/syVS2kbOSZzrDHWoEAPq2Fb7EW3.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Ep8iAXI4Tewk4zpAnSKaXhL85G.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/6Ab7abHzQTwaVg7WDlrflwlYRmK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/eilWnEd3xhAEKis1tnigbREe3P5.png"
+    },
+    {
+      "id": "tmdb:1251636",
+      "type": "movie",
+      "name": "Escuadrón maldito",
+      "ids": {
+        "tmdb": 1251636
+      },
+      "overview": "Conoce a los aviadores de carne y hueso que inspiraron Los amos del aire mientras comparten los angustiosos y transformadores acontecimientos que vivió el Grupo de bombarderos número 100.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/e8C7DBR3kigqBwlq7KDyTaI1UVj.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/kawersKm2Cpk0Vyw56VEzbPibTt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n0vJzJvYv95LVHRQR9qOoMDdceg.png"
     },
     {
       "id": "tmdb:441130",
@@ -365,6 +365,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/1XjM98TpYMaSTIx74ufyVSokHAL.png"
     },
     {
+      "id": "tmdb:1272",
+      "type": "movie",
+      "name": "Sunshine",
+      "ids": {
+        "tmdb": 1272
+      },
+      "overview": "En el 2057, ante la inminente extinción de la humanidad a causa del envejecimiento del Sol, una nave espacial debe reactivar el astro con un dispositivo nuclear. Pero durante el viaje, la tripulación recibe una señal de socorro de la nave espacial Ícaro I, desaparecida años atrás tras intentar realizar la misma misión.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/7kry1lFtt7UCBOKYphybprlYi7D.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/syVS2kbOSZzrDHWoEAPq2Fb7EW3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Ep8iAXI4Tewk4zpAnSKaXhL85G.png"
+    },
+    {
       "id": "tmdb:868759",
       "type": "movie",
       "name": "Ghosting",
@@ -377,34 +391,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/5yIoTNP7YjYKtw6wUZtzwx6jU0Y.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/joLGYc5gpmB3kNNlbUqRx0gmgs3.png"
-    },
-    {
-      "id": "tmdb:522402",
-      "type": "movie",
-      "name": "Finch",
-      "ids": {
-        "tmdb": 522402
-      },
-      "overview": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5M1iC2uytvC1cGwkJ2IyXr66SNx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/A0BhEke9hapLDfjLIjzoM7GdpPH.png"
-    },
-    {
-      "id": "tmdb:877817",
-      "type": "movie",
-      "name": "Wolfs",
-      "ids": {
-        "tmdb": 877817
-      },
-      "overview": "Dos “solucionadores” rivales cruzan sus caminos cuando los llaman a ambos para ayudar a ocultar el desliz de una importante funcionaria de Nueva York. Durante una noche muy intensa, deberán dejar de lado sus pequeñas rencillas -y sus egos- para terminar el trabajo.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Ab7abHzQTwaVg7WDlrflwlYRmK.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/eilWnEd3xhAEKis1tnigbREe3P5.png"
     },
     {
       "id": "tmdb:1098006",
@@ -421,32 +407,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/lhVV0UmTBOCXxP4PjIOFeXfnCik.png"
     },
     {
-      "id": "tmdb:1192548",
+      "id": "tmdb:522402",
       "type": "movie",
-      "name": "Hannah Waddingham: En casa por Navidad",
+      "name": "Finch",
       "ids": {
-        "tmdb": 1192548
+        "tmdb": 522402
       },
-      "overview": "Celebra la Navidad con Hannah Waddingham, ganadora de un Emmy, y sus invitados especiales en un espectáculo musical en el Coliseum de Londres.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/iwS67srjesgJZdsiIM8Nluf3sDH.jpg",
+      "overview": "En un mundo devastado, Finch es un inventor con la misión de encontrar un hogar para él y su familia. Acompañado de su querido perro y de un robot que él mismo creó, se embarca en una bonita y emocionante aventura.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/vuJEO8x5mq8n8ijPutKIb0rw6M4.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/54kLKlLQylLsE140QEvCZ2jH8sO.png"
-    },
-    {
-      "id": "tmdb:1242434",
-      "type": "movie",
-      "name": "Del cielo al infierno",
-      "ids": {
-        "tmdb": 1242434
-      },
-      "overview": "Cuando un poderoso empresario musical es víctima de una extorsión, se ve obligado a luchar por su familia y su legado mientras afronta un dilema ético vital.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/repUssnW4d6ITw0xiHBbp7RjRgj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ihqBUZMzJbceXNzKj13o8bqh6Uv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/5M1iC2uytvC1cGwkJ2IyXr66SNx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/A0BhEke9hapLDfjLIjzoM7GdpPH.png"
     },
     {
       "id": "tmdb:726759",
@@ -463,6 +435,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/yK1xhCbqVbF3ILMU48v9xFayeef.png"
     },
     {
+      "id": "tmdb:1192548",
+      "type": "movie",
+      "name": "Hannah Waddingham: En casa por Navidad",
+      "ids": {
+        "tmdb": 1192548
+      },
+      "overview": "Celebra la Navidad con Hannah Waddingham, ganadora de un Emmy, y sus invitados especiales en un espectáculo musical en el Coliseum de Londres.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/iwS67srjesgJZdsiIM8Nluf3sDH.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/vuJEO8x5mq8n8ijPutKIb0rw6M4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/54kLKlLQylLsE140QEvCZ2jH8sO.png"
+    },
+    {
       "id": "tmdb:995133",
       "type": "movie",
       "name": "El niño, el topo, el zorro y el caballo",
@@ -475,34 +461,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/tg3jXg3q7NCQ3nnsn5h6MCdIqG0.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/6KJxFUZHSbye7xtrQ52FuZ0KBWA.png"
-    },
-    {
-      "id": "tmdb:632856",
-      "type": "movie",
-      "name": "El espíritu de la Navidad",
-      "ids": {
-        "tmdb": 632856
-      },
-      "overview": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/ba5Wk6qEZxVyYeJo9kp0ediOYHx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y6CGyAqCfcK4OdUeZ5n2RCUP3LA.png"
-    },
-    {
-      "id": "tmdb:12102",
-      "type": "movie",
-      "name": "Kramer contra Kramer",
-      "ids": {
-        "tmdb": 12102
-      },
-      "overview": "El ejecutivo publicitario Ted Kramer consigue la mejor cuenta de la agencia el mismo día en que su mujer decide divorciarse, dejándole solo con su hijo de 7 años. Comienza así una dura etapa en la que tendrá que ejercer de padre soltero de un niño que echa de menos a su madre y, al mismo tiempo, no descuidar su carrera profesional. Cuando tras un tiempo parece que la relación con su hijo va mejorando, la madre aparece para pedir la custodia del pequeño.",
-      "year": 1979,
-      "poster": "https://image.tmdb.org/t/p/w342/btdZ6vSOqQ3zI3ftEm2QTF9yiId.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/np2Nmr3cJvVGfVBEwfXi5uN9aGZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qQsPvQHObqWi2fbbNnuU7c3tAzx.png"
     },
     {
       "id": "tmdb:1022256",
@@ -519,6 +477,34 @@
       "logo": "https://image.tmdb.org/t/p/w500/tIkR9gZweW0zXdL57lRDyl7ujrw.png"
     },
     {
+      "id": "tmdb:956842",
+      "type": "movie",
+      "name": "Fly Me to the Moon",
+      "ids": {
+        "tmdb": 956842
+      },
+      "overview": "Ambientada en el histórico alunizaje del Apolo 11, en 1969. Llamados para mejorar la imagen pública de la NASA, las chispas vuelan en todas las direcciones cuando la prodigio del marketing Kelly Jones causa estragos en la ya difícil tarea del director de lanzamiento Cole Davis. Cuando la Casa Blanca considera que la misión es demasiado importante para fracasar, Jones recibe la orden de simular un alunizaje falso como respaldo y comienza la verdadera cuenta atrás.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/a4ExqpqbUypBg4dHlF77wda3dxh.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/jN5sgesZYWaiXNAgGcESfoaAjNC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Ld7OWW3Z3pVfOXaOhpyf5ohyGY.png"
+    },
+    {
+      "id": "tmdb:632856",
+      "type": "movie",
+      "name": "El espíritu de la Navidad",
+      "ids": {
+        "tmdb": 632856
+      },
+      "overview": "Cada Nochebuena, el Fantasma de las Navidades Presentes elige un alma oscura para reformarla con una visita de los tres espíritus. Pero esta vez ha elegido al Scrooge equivocado. Clint Briggs le da la vuelta a las intenciones de su fantasmagórico invitado, hasta que Presente se empieza a replantear su propio pasado, presente y futuro.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/v32IbOmBVViSq1dML1Tt8jV0uIY.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/ba5Wk6qEZxVyYeJo9kp0ediOYHx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y6CGyAqCfcK4OdUeZ5n2RCUP3LA.png"
+    },
+    {
       "id": "tmdb:38167",
       "type": "movie",
       "name": "Come, reza, ama",
@@ -533,18 +519,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/zOGY73F9ex1MmjNIYfwx45ywMkE.png"
     },
     {
-      "id": "tmdb:595586",
+      "id": "tmdb:1242434",
       "type": "movie",
-      "name": "Causeway",
+      "name": "Del cielo al infierno",
       "ids": {
-        "tmdb": 595586
+        "tmdb": 1242434
       },
-      "overview": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/6dqIYb3mXmTu7kyaWCh79YpEuuX.jpg",
+      "overview": "Cuando un poderoso empresario musical es víctima de una extorsión, se ve obligado a luchar por su familia y su legado mientras afronta un dilema ético vital.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/b0AQYSM09AYVRKLZr6jIAP2xNq9.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zHi5hTUd7gdTkB9U9Pe0NDHyp74.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qZuFc88v2A4LWLP6ZRwUXUQGcFs.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/repUssnW4d6ITw0xiHBbp7RjRgj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ihqBUZMzJbceXNzKj13o8bqh6Uv.png"
     },
     {
       "id": "tmdb:1049471",
@@ -561,32 +547,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/3joHPfzLAFMoUtKWLEZq5e6DQpi.png"
     },
     {
-      "id": "tmdb:627725",
+      "id": "tmdb:12102",
       "type": "movie",
-      "name": "El banquero",
+      "name": "Kramer contra Kramer",
       "ids": {
-        "tmdb": 627725
+        "tmdb": 12102
       },
-      "overview": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
-      "year": 2020,
-      "poster": "https://image.tmdb.org/t/p/w342/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
+      "overview": "El ejecutivo publicitario Ted Kramer consigue la mejor cuenta de la agencia el mismo día en que su mujer decide divorciarse, dejándole solo con su hijo de 7 años. Comienza así una dura etapa en la que tendrá que ejercer de padre soltero de un niño que echa de menos a su madre y, al mismo tiempo, no descuidar su carrera profesional. Cuando tras un tiempo parece que la relación con su hijo va mejorando, la madre aparece para pedir la custodia del pequeño.",
+      "year": 1979,
+      "poster": "https://image.tmdb.org/t/p/w342/btdZ6vSOqQ3zI3ftEm2QTF9yiId.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/emnMjKMgmFW1rGOwnzWlWRmONCt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/np2Nmr3cJvVGfVBEwfXi5uN9aGZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qQsPvQHObqWi2fbbNnuU7c3tAzx.png"
     },
     {
-      "id": "tmdb:956842",
+      "id": "tmdb:1236470",
       "type": "movie",
-      "name": "Fly Me to the Moon",
+      "name": "Laberinto en llamas",
       "ids": {
-        "tmdb": 956842
+        "tmdb": 1236470
       },
-      "overview": "Ambientada en el histórico alunizaje del Apolo 11, en 1969. Llamados para mejorar la imagen pública de la NASA, las chispas vuelan en todas las direcciones cuando la prodigio del marketing Kelly Jones causa estragos en la ya difícil tarea del director de lanzamiento Cole Davis. Cuando la Casa Blanca considera que la misión es demasiado importante para fracasar, Jones recibe la orden de simular un alunizaje falso como respaldo y comienza la verdadera cuenta atrás.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/a4ExqpqbUypBg4dHlF77wda3dxh.jpg",
+      "overview": "En uno de los incendios forestales más mortíferos de la historia de Estados Unidos que amenaza la ciudad de Paradise, Kevin McKay, un conductor de autobús escolar, y Mary Ludwig, una maestra infantil, luchan para salvar a 22 niños del aterrador infierno.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/8n0kkUc4wKknqEJfq8eErWrvvUL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/jN5sgesZYWaiXNAgGcESfoaAjNC.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/6Ld7OWW3Z3pVfOXaOhpyf5ohyGY.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/gEPhLwDi6MMSPxrVJ2PL8AzKmRY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mz3m9VaIicN2Ts2aT49IFm3T1WL.png"
+    },
+    {
+      "id": "tmdb:595586",
+      "type": "movie",
+      "name": "Causeway",
+      "ids": {
+        "tmdb": 595586
+      },
+      "overview": "Lyndsey es una soldado que lucha por volver a adaptarse a su hogar en Nueva Orleans después de sufrir una lesión traumática. Tas conocer a un mecánico de la zona, James, ambos comienzan a forjar un vínculo inesperado.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/6dqIYb3mXmTu7kyaWCh79YpEuuX.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zHi5hTUd7gdTkB9U9Pe0NDHyp74.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qZuFc88v2A4LWLP6ZRwUXUQGcFs.png"
     },
     {
       "id": "tmdb:766319",
@@ -603,6 +603,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/asUulwNe016F43okGRdtFlekkQf.png"
     },
     {
+      "id": "tmdb:627725",
+      "type": "movie",
+      "name": "El banquero",
+      "ids": {
+        "tmdb": 627725
+      },
+      "overview": "En los años 60, dos emprendedores traman un ingenioso plan para conseguir acceso igualitario al sueño americano.",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/sxV1aV1ca2gKLnEoNdzaeySmgU.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/emnMjKMgmFW1rGOwnzWlWRmONCt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vBpcgq5PtHZYv6slC00FbcoCrxS.png"
+    },
+    {
       "id": "tmdb:1059064",
       "type": "movie",
       "name": "Los instigadores",
@@ -617,46 +631,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/cFi3nQrI3Qh4t7601f3eKG10Wjw.png"
     },
     {
-      "id": "tmdb:881211",
+      "id": "tmdb:544401",
       "type": "movie",
-      "name": "Snoopy presenta: Por los viejos tiempos",
+      "name": "Cherry",
       "ids": {
-        "tmdb": 881211
+        "tmdb": 544401
       },
-      "overview": "Tras enterarse de que su abuela no la visitará en Navidad, Lucy decide animarse organizando la mejor fiesta de Nochevieja. Mientras tanto, Carlitos intenta cumplir uno de sus propósitos antes de que el reloj marque la medianoche.",
+      "overview": "Cuando Cherry deja los estudios para unirse al ejército, su novia Emily se convierte en su único apoyo. Al volver de la guerra, su estrés postraumático le llevará a una espiral de drogas y crimen que amenaza con destruirlo todo.",
       "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9Cwn28806QOJqMwQXMotpyD4AOj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/x3vAAJNAoXakRQHJOxwZcRV6b2t.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/k5S3AO0HHDXvpTDtdU1Z67BE2h1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qfq2m9d7CmcsscLGBz5A24YRlcR.png"
     },
     {
-      "id": "tmdb:1596303",
+      "id": "tmdb:836919",
       "type": "movie",
-      "name": "La última gran escalada: El K2 en invierno",
+      "name": "¿Quién es Carlitos?",
       "ids": {
-        "tmdb": 1596303
+        "tmdb": 836919
       },
-      "overview": "Una carrera histórica para ser el primero en coronar el K2 en invierno acaba en tragedia y demuestra que la ambición, el ego y la gloria son tan peligrosos como la propia montaña.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/rBD3FLrs468VyA5F6W5XMuoHvW4.jpg",
+      "overview": "Admiradores de la pandilla Peanuts como Drew Barrymore, Kevin Smith y Al Roker cuentan en este documental narrado por Lupita Nyong'o cómo les influyó la obra de Charles M. Schulz. Además, Carlitos vive su propia aventura en una nueva historia animada.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/7aIPaZ3gBeRR5n1FSYowwYYLPY6.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rbFdNMFBLnpKpngclg3cB7ybNI5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/mxokrME6oaVN9V2S8iKnNngJBSh.png"
-    },
-    {
-      "id": "tmdb:1361774",
-      "type": "movie",
-      "name": "Dink",
-      "ids": {
-        "tmdb": 1361774
-      },
-      "overview": "A Dusty “Martillo” Boyd, un tenista profesional en declive, le vendría muy bien una victoria. En su lucha por salvar un club de campo con problemas y ganarse el respeto de su padre, Dusty rompe un voto sagrado y hace lo impensable: jugar al pickleball.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/8zKenqYB6vP8LltnOxfWptpH0vG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/xUORByayK8slc8ZoK4ou8mUmSNk.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/yX8q8735cGGuaYBXDOFMxwAI7NK.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/yqdacDvB84JDxabAGWE9e5xWy0B.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/3OzunuPQfMbslMBR5OAcUeDlhBL.png"
     },
     {
       "id": "tmdb:591538",
@@ -687,18 +687,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/7eCzQgiAaxVcEzpCAfwk75DNnzr.png"
     },
     {
-      "id": "tmdb:13353",
+      "id": "tmdb:881211",
       "type": "movie",
-      "name": "Ésta es la gran calabaza, Charlie Brown",
+      "name": "Snoopy presenta: Por los viejos tiempos",
       "ids": {
-        "tmdb": 13353
+        "tmdb": 881211
       },
-      "overview": "Vive una aventura repleta de brujas, fantasmas, golosinas y calabazas junto a Carlitos, Snoopy y sus amigos en este entrañable clásico de Halloween.",
-      "year": 1966,
-      "poster": "https://image.tmdb.org/t/p/w342/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "overview": "Tras enterarse de que su abuela no la visitará en Navidad, Lucy decide animarse organizando la mejor fiesta de Nochevieja. Mientras tanto, Carlitos intenta cumplir uno de sus propósitos antes de que el reloj marque la medianoche.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/hZPHo3miiG0Xc8VyGvzGkkC6mkh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/meNnl4JiNFG0ilFPnGfV32Uu0Vl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/58G095H0NoDBcq2rijdRKM6rsRS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9Cwn28806QOJqMwQXMotpyD4AOj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/x3vAAJNAoXakRQHJOxwZcRV6b2t.png"
     }
   ]
 }
