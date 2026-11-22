@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:687163",
-      "type": "movie",
-      "name": "Proyecto Salvación",
-      "ids": {
-        "tmdb": 687163
-      },
-      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/j7uorNhCAOsod1MJViqwqNtPA3r.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png"
-    },
-    {
       "id": "tmdb:1507696",
       "type": "movie",
       "name": "Apocalipsis Z: Nuevo mundo",
@@ -27,6 +13,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/utOab0gfckluOc1d28X02r1fbNp.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jTUDobBtaexjmeyQA4S96Sg1v4V.png"
+    },
+    {
+      "id": "tmdb:687163",
+      "type": "movie",
+      "name": "Proyecto Salvación",
+      "ids": {
+        "tmdb": 687163
+      },
+      "overview": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/j7uorNhCAOsod1MJViqwqNtPA3r.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/knpfBHokNXzwLNZtxeGbkI8oyF5.png"
     },
     {
       "id": "tmdb:1294189",
@@ -43,20 +43,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/fA2GTaWkz3Vg9P6Ng2Jt7QZf8pc.png"
     },
     {
-      "id": "tmdb:1596275",
-      "type": "movie",
-      "name": "Drive: Los farsantes",
-      "ids": {
-        "tmdb": 1596275
-      },
-      "overview": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wUasTtd2U5dtRT7EEkV9T82WStm.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rnOjLGAWctuxu7I5lm8uD8USazE.png"
-    },
-    {
       "id": "tmdb:1185344",
       "type": "movie",
       "name": "The Beast",
@@ -69,6 +55,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/6c4nZITYSxsBIZDezyI3djU60x9.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/8cnahr30h0364ghPi5WooumtpTe.png"
+    },
+    {
+      "id": "tmdb:1596275",
+      "type": "movie",
+      "name": "Drive: Los farsantes",
+      "ids": {
+        "tmdb": 1596275
+      },
+      "overview": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/wUasTtd2U5dtRT7EEkV9T82WStm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rnOjLGAWctuxu7I5lm8uD8USazE.png"
     },
     {
       "id": "tmdb:1131943",
@@ -99,60 +99,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
     },
     {
-      "id": "tmdb:1366",
+      "id": "tmdb:1568060",
       "type": "movie",
-      "name": "Rocky",
+      "name": "Perfectos mentirosos",
       "ids": {
-        "tmdb": 1366
+        "tmdb": 1568060
       },
-      "overview": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
-      "year": 1976,
-      "poster": "https://image.tmdb.org/t/p/w342/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "overview": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4bwsjrKcmIxHcKJlbxrqGkLVbvL.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png"
-    },
-    {
-      "id": "tmdb:693134",
-      "type": "movie",
-      "name": "Dune: Parte dos",
-      "ids": {
-        "tmdb": 693134
-      },
-      "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oijm3iOjSapV87frEr6X4TGgGxZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
-    },
-    {
-      "id": "tmdb:27205",
-      "type": "movie",
-      "name": "Origen",
-      "ids": {
-        "tmdb": 27205
-      },
-      "overview": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/z3BV9uxLIHgVv6ZgcA0n1IT2KiI.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rHWUWJXC83KfqiSSAogV1YYTZHf.png"
-    },
-    {
-      "id": "tmdb:155",
-      "type": "movie",
-      "name": "El caballero oscuro",
-      "ids": {
-        "tmdb": 155
-      },
-      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lQGlm2EuuNYbHbpuErelGQ2euAD.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ylYK5Zc8AdZHwuSwt4pe8gGXm83.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vd2CO9DIrwa73eruJ27elB9YWIJ.png"
     },
     {
       "id": "tmdb:101299",
@@ -169,32 +127,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/1AJFNXuiHaLiTQRRQpxVg29C3gU.png"
     },
     {
-      "id": "tmdb:2034",
+      "id": "tmdb:27205",
       "type": "movie",
-      "name": "Training Day (Día de entrenamiento)",
+      "name": "Origen",
       "ids": {
-        "tmdb": 2034
+        "tmdb": 27205
       },
-      "overview": "Todos los días, en las calles de las zonas urbanas deprimidas de los Estados Unidos se libra una guerra; una guerra entre residentes, traficantes de droga y los que han jurado proteger a unos de los otros. Esta guerra tiene sus víctimas y sus verdugos, y una de sus figuras más importantes es el sargento Alonzo Harris, un agente de narcóticos con 13 años de experiencia cuyos discutibles métodos hacen difusa la línea entre la legalidad y la corrupción. Jake Hoyt, un joven policía recién asignado a narcóticos, comienza sus rondas a las órdenes de Alonzo para aprender de él.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/nagh5PjkfBnDf5SKXyHupWu4yod.jpg",
+      "overview": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4xR7uYJqbahmjXbkE0zUYKZUbvj.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/it3tE0mdY2pZhilPjJyWvz9ejOB.png"
-    },
-    {
-      "id": "tmdb:695721",
-      "type": "movie",
-      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-      "ids": {
-        "tmdb": 695721
-      },
-      "overview": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
-      "year": 2023,
-      "poster": "https://image.tmdb.org/t/p/w342/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/yVYAy4IttGlM637kMNwCzcVsKlW.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/z3BV9uxLIHgVv6ZgcA0n1IT2KiI.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rHWUWJXC83KfqiSSAogV1YYTZHf.png"
     },
     {
       "id": "tmdb:131631",
@@ -211,6 +155,48 @@
       "logo": "https://image.tmdb.org/t/p/w500/mQEeg4ExFeg5SQYn8OjFDkgc4Pa.png"
     },
     {
+      "id": "tmdb:695721",
+      "type": "movie",
+      "name": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
+      "ids": {
+        "tmdb": 695721
+      },
+      "overview": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir.",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/yVYAy4IttGlM637kMNwCzcVsKlW.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1oxJNGQCEA1vw0nO0xWsqFU56nn.png"
+    },
+    {
+      "id": "tmdb:693134",
+      "type": "movie",
+      "name": "Dune: Parte dos",
+      "ids": {
+        "tmdb": 693134
+      },
+      "overview": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oijm3iOjSapV87frEr6X4TGgGxZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
+    },
+    {
+      "id": "tmdb:155",
+      "type": "movie",
+      "name": "El caballero oscuro",
+      "ids": {
+        "tmdb": 155
+      },
+      "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/lQGlm2EuuNYbHbpuErelGQ2euAD.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
+    },
+    {
       "id": "tmdb:278",
       "type": "movie",
       "name": "Cadena perpetua",
@@ -223,6 +209,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qCUjQId2jQS53edDKQXBJojd5sd.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png"
+    },
+    {
+      "id": "tmdb:1366",
+      "type": "movie",
+      "name": "Rocky",
+      "ids": {
+        "tmdb": 1366
+      },
+      "overview": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida.",
+      "year": 1976,
+      "poster": "https://image.tmdb.org/t/p/w342/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4bwsjrKcmIxHcKJlbxrqGkLVbvL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png"
     },
     {
       "id": "tmdb:438631",
@@ -281,34 +281,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/fuWeqrZWgYM21G0SimOzzgM71HG.png"
     },
     {
-      "id": "tmdb:1311031",
-      "type": "movie",
-      "name": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
-      "ids": {
-        "tmdb": 1311031
-      },
-      "overview": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/lYnhd124Fi3vVYlh6qmItxpGZXd.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/XarDjKvqESIqKx7s6tXQM9Zsxv.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/fuWeqrZWgYM21G0SimOzzgM71HG.png"
-    },
-    {
-      "id": "tmdb:120",
-      "type": "movie",
-      "name": "El señor de los anillos: La comunidad del anillo",
-      "ids": {
-        "tmdb": 120
-      },
-      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
-      "year": 2001,
-      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
-    },
-    {
       "id": "tmdb:603",
       "type": "movie",
       "name": "Matrix",
@@ -321,34 +293,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/eVXWnNmfNoqU8sog7u9CsOf9fnu.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/kA8phmxG7h4BIN061fiutckq9Ho.png"
-    },
-    {
-      "id": "tmdb:9963",
-      "type": "movie",
-      "name": "Premonition (7 días)",
-      "ids": {
-        "tmdb": 9963
-      },
-      "overview": "Linda Hanson (Sandra Bullock) tiene una casa preciosa, un marido que la quiere y dos hijas adorables. Su vida es perfecta, hasta que recibe una devastadora noticia: su esposo Jim (Julian McMahon) ha fallecido en un accidente de coche. Al despertarse a la mañana siguiente, Linda descubre que su marido sigue vivo. En un principio, Linda cree que el accidente ha debido de ser una pesadilla... hasta que ocurre de nuevo. Algunos días Jim sigue a su lado cuando se despierta, pero otros debe enfrentarse a la realidad de haberse quedado viuda. Por alguna razón inexplicable, los días están desordenados. La traumática premonición de Linda desencadena una serie de extraños sucesos que alteran el tiempo. En un intento desesperado por salvar a su familia, Linda lucha furiosamente contra el tiempo y el destino para intentar conservar todo lo que ella y Jim han construido juntos.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/4moBOPqMFXP3n78YobuJ9c4IokH.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/iKdXF6GwFTfYnE2AvOZtd0KUoSB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vBPaNGUrIwjxZfOuVWqmfYwCJwW.png"
-    },
-    {
-      "id": "tmdb:414906",
-      "type": "movie",
-      "name": "The Batman",
-      "ids": {
-        "tmdb": 414906
-      },
-      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png"
     },
     {
       "id": "tmdb:131634",
@@ -365,6 +309,62 @@
       "logo": "https://image.tmdb.org/t/p/w500/vxhnQ8AisOER6bUTa4Qb3qDDXiW.png"
     },
     {
+      "id": "tmdb:120",
+      "type": "movie",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "ids": {
+        "tmdb": 120
+      },
+      "overview": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/otWJqO2SlDVjcRr4avJtgV8E5n9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5So9eyA4VfVKsFLXlJHbvU2S4a1.png"
+    },
+    {
+      "id": "tmdb:2034",
+      "type": "movie",
+      "name": "Training Day (Día de entrenamiento)",
+      "ids": {
+        "tmdb": 2034
+      },
+      "overview": "Todos los días, en las calles de las zonas urbanas deprimidas de los Estados Unidos se libra una guerra; una guerra entre residentes, traficantes de droga y los que han jurado proteger a unos de los otros. Esta guerra tiene sus víctimas y sus verdugos, y una de sus figuras más importantes es el sargento Alonzo Harris, un agente de narcóticos con 13 años de experiencia cuyos discutibles métodos hacen difusa la línea entre la legalidad y la corrupción. Jake Hoyt, un joven policía recién asignado a narcóticos, comienza sus rondas a las órdenes de Alonzo para aprender de él.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/nagh5PjkfBnDf5SKXyHupWu4yod.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/4xR7uYJqbahmjXbkE0zUYKZUbvj.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/it3tE0mdY2pZhilPjJyWvz9ejOB.png"
+    },
+    {
+      "id": "tmdb:414906",
+      "type": "movie",
+      "name": "The Batman",
+      "ids": {
+        "tmdb": 414906
+      },
+      "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/upj7fTWLSpsuuy1NYgl8KCVnuRM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y4qPUApGYo3LqdrgB9RZ6cr66hb.png"
+    },
+    {
+      "id": "tmdb:674",
+      "type": "movie",
+      "name": "Harry Potter y el cáliz de fuego",
+      "ids": {
+        "tmdb": 674
+      },
+      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rWHcIwC1oANflXcJ9VExJM2G4tx.png"
+    },
+    {
       "id": "tmdb:122",
       "type": "movie",
       "name": "El señor de los anillos: El retorno del rey",
@@ -379,18 +379,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/hZiZ67GMVkOamuHZ7Z5vcJzH1bM.png"
     },
     {
-      "id": "tmdb:1561726",
+      "id": "tmdb:9963",
       "type": "movie",
-      "name": "Masterplan",
+      "name": "Premonition (7 días)",
       "ids": {
-        "tmdb": 1561726
+        "tmdb": 9963
       },
-      "overview": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "overview": "Linda Hanson (Sandra Bullock) tiene una casa preciosa, un marido que la quiere y dos hijas adorables. Su vida es perfecta, hasta que recibe una devastadora noticia: su esposo Jim (Julian McMahon) ha fallecido en un accidente de coche. Al despertarse a la mañana siguiente, Linda descubre que su marido sigue vivo. En un principio, Linda cree que el accidente ha debido de ser una pesadilla... hasta que ocurre de nuevo. Algunos días Jim sigue a su lado cuando se despierta, pero otros debe enfrentarse a la realidad de haberse quedado viuda. Por alguna razón inexplicable, los días están desordenados. La traumática premonición de Linda desencadena una serie de extraños sucesos que alteran el tiempo. En un intento desesperado por salvar a su familia, Linda lucha furiosamente contra el tiempo y el destino para intentar conservar todo lo que ella y Jim han construido juntos.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/4moBOPqMFXP3n78YobuJ9c4IokH.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/iKdXF6GwFTfYnE2AvOZtd0KUoSB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vBPaNGUrIwjxZfOuVWqmfYwCJwW.png"
     },
     {
       "id": "tmdb:335984",
@@ -421,31 +421,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/j3cPRV8oivK8RGuv6qYKRc7CXTG.png"
     },
     {
-      "id": "tmdb:1634902",
+      "id": "tmdb:1561726",
       "type": "movie",
-      "name": "The Train",
+      "name": "Masterplan",
       "ids": {
-        "tmdb": 1634902
+        "tmdb": 1561726
       },
-      "overview": "Viena hoy. El visionario Leo Goldberg prepara la venta de su legendario tren Majestic Imperator. Como inversionistas rivales y una mortífera junta espía rusa, el mayor británico Alexander Stirling debe luchar contra conspiradores para salvar a su hija, el tren.",
+      "overview": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
       "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/5SFm9B4DNDcaCYtRl7GWrHNv5ST.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zkwGxXJrm0Ru2EPr53QkXQuB7VF.jpg"
+      "backdrop": "https://image.tmdb.org/t/p/original/b1TssUuZZ9WwgIxBvY8XUimQ4dB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/At6dSS7TWU8qzxjqlupn10cegcF.png"
     },
     {
-      "id": "tmdb:674",
+      "id": "tmdb:1561834",
       "type": "movie",
-      "name": "Harry Potter y el cáliz de fuego",
+      "name": "La última cena",
       "ids": {
-        "tmdb": 674
+        "tmdb": 1561834
       },
-      "overview": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "overview": "Bekir está en una misión encubierta, y en su ruta de escape se cruza con una joven pianista, Sebahat. Este es el inicio de los sucesos que unirán sus destinos. Sebahat, años después, invita a sus cuatro vecinas a cenar. Ahí, las invitadas comienzan a escuchar la épica historia de amor de Sebahat, y el doloroso pasado de ella y Bekir resurge. Una relación amorosa que desafía al destino.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/gEnlXUpFG2dK8Roakyxcy69yphw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/5mOwcl9lKx52RTWLkpPOck4EryM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rWHcIwC1oANflXcJ9VExJM2G4tx.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/9A0d7K9T2ktH8GS21cLJLJa98tZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xRglX7wrtaMAZTloKx41oxjtJwo.png"
     },
     {
       "id": "tmdb:8871",
@@ -460,20 +461,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/qkt1Qn9j6yw9rcJhvSu1p3wuiBm.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
-    },
-    {
-      "id": "tmdb:121",
-      "type": "movie",
-      "name": "El señor de los anillos: Las dos torres",
-      "ids": {
-        "tmdb": 121
-      },
-      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
     },
     {
       "id": "tmdb:12444",
@@ -518,6 +505,33 @@
       "logo": "https://image.tmdb.org/t/p/w500/mLd8k9hOvs6TELSV5PVpu3w7BVq.png"
     },
     {
+      "id": "tmdb:1634902",
+      "type": "movie",
+      "name": "The Train",
+      "ids": {
+        "tmdb": 1634902
+      },
+      "overview": "Viena hoy. El visionario Leo Goldberg prepara la venta de su legendario tren Majestic Imperator. Como inversionistas rivales y una mortífera junta espía rusa, el mayor británico Alexander Stirling debe luchar contra conspiradores para salvar a su hija, el tren.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/5SFm9B4DNDcaCYtRl7GWrHNv5ST.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/zkwGxXJrm0Ru2EPr53QkXQuB7VF.jpg"
+    },
+    {
+      "id": "tmdb:121",
+      "type": "movie",
+      "name": "El señor de los anillos: Las dos torres",
+      "ids": {
+        "tmdb": 121
+      },
+      "overview": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tcW9O1VU6bk1mDWvROn9CPPj73p.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ojBPsUAfaZPuiN4NrvtF6Lfrm5Y.png"
+    },
+    {
       "id": "tmdb:807",
       "type": "movie",
       "name": "Seven",
@@ -530,20 +544,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
-    },
-    {
-      "id": "tmdb:1290821",
-      "type": "movie",
-      "name": "Shelter: El Protector",
-      "ids": {
-        "tmdb": 1290821
-      },
-      "overview": "En una remota isla, un hombre que vive en el exilio rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dDTh0VhSXdKpjTFbzGAUdeQ2KCM.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4aJSEtbWNfxDln2TxfZWirMPrwC.png"
     },
     {
       "id": "tmdb:12445",
@@ -560,32 +560,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/sAQfRcQZZizy9IJcknSg6n5FWHW.png"
     },
     {
-      "id": "tmdb:98",
+      "id": "tmdb:1290821",
       "type": "movie",
-      "name": "Gladiator",
+      "name": "Shelter: El Protector",
       "ids": {
-        "tmdb": 98
+        "tmdb": 1290821
       },
-      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
-      "year": 2000,
-      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+      "overview": "En una remota isla, un hombre que vive en el exilio rescata a una niña de una peligrosa tempestad, lo que desencadena una serie de eventos que los ponen a ambos en grave peligro. A medida que sus destinos se entrelazan, su misión será protegerla a toda costa, mientras se enfrenta a los enemigos de su pasado, en una trepidante odisea por sobrevivir.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
-    },
-    {
-      "id": "tmdb:106646",
-      "type": "movie",
-      "name": "El lobo de Wall Street",
-      "ids": {
-        "tmdb": 106646
-      },
-      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
-      "year": 2013,
-      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dDTh0VhSXdKpjTFbzGAUdeQ2KCM.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4aJSEtbWNfxDln2TxfZWirMPrwC.png"
     },
     {
       "id": "tmdb:1368166",
@@ -602,18 +588,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/ncjxt1vDTDzYx9AnE7WsyCR3nYj.png"
     },
     {
-      "id": "tmdb:373571",
+      "id": "tmdb:105",
       "type": "movie",
-      "name": "Godzilla: Rey de los Monstruos",
+      "name": "Regreso al futuro",
       "ids": {
-        "tmdb": 373571
+        "tmdb": 105
       },
-      "overview": "Los criptozoólogos de la agencia Monarch se enfrentan a un grupo de enormes monstruos: Godzilla, Mothra, Rodan y el enemigo de la humanidad, King Ghidorah. Estas ancianas criaturas harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta.",
-      "year": 2019,
-      "poster": "https://image.tmdb.org/t/p/w342/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg",
+      "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+      "year": 1985,
+      "poster": "https://image.tmdb.org/t/p/w342/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/2Huv59KZQ7QYrGnZkR7fG75bV5f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/y3hS5daf3ytCqqjtuPI2lU8HAYQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/2JY9wBftUuZIKvQD24Hg4PPKYsw.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png"
+    },
+    {
+      "id": "tmdb:106646",
+      "type": "movie",
+      "name": "El lobo de Wall Street",
+      "ids": {
+        "tmdb": 106646
+      },
+      "overview": "Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort. A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió que lo más importante no era hacer ganar a sus clientes, sino ser ambicioso y ganar una buena comisión. Su enorme éxito y fortuna le valió el mote de \"El lobo de Wall Street\". Dinero. Poder. Mujeres. Drogas. Las tentaciones abundaban y el temor a la ley era irrelevante. Jordan y su manada de lobos consideraban que la discreción era una cualidad anticuada; nunca se conformaban con lo que tenían.",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/uthRoUeTtiep5HCoySlOjQSPCbJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/3r21LrAcuheli81CCv1QW15gJow.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gOhYHh1qdjqa2cOTjuN3t09Q9gW.png"
     },
     {
       "id": "tmdb:767",
@@ -630,18 +630,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/c35xQgOgux52F0D2vec4E1EAII8.png"
     },
     {
-      "id": "tmdb:1516698",
+      "id": "tmdb:98",
       "type": "movie",
-      "name": "Sunrise: El último amanecer",
+      "name": "Gladiator",
       "ids": {
-        "tmdb": 1516698
+        "tmdb": 98
       },
-      "overview": "El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a vivir el presente, su enfermedad empeora y los secretos familiares ocultos durante años amenazan con arruinarlo todo antes del fin del verano.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/18HnXofpKuoD8oMdRj6GPvmdEJN.jpg",
+      "overview": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo.",
+      "year": 2000,
+      "poster": "https://image.tmdb.org/t/p/w342/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9KD7JgpifAq7Jq8Gu4x66ycrtRf.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/AtWebMQXtIytO1ccEZP4WdKtZqP.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qvmywctvXjXcI5dXzhMGKU41qfs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aF9ldcxU5HOEvrrhkZnd9jePoWu.png"
+    },
+    {
+      "id": "tmdb:373571",
+      "type": "movie",
+      "name": "Godzilla: Rey de los Monstruos",
+      "ids": {
+        "tmdb": 373571
+      },
+      "overview": "Los criptozoólogos de la agencia Monarch se enfrentan a un grupo de enormes monstruos: Godzilla, Mothra, Rodan y el enemigo de la humanidad, King Ghidorah. Estas ancianas criaturas harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/2Huv59KZQ7QYrGnZkR7fG75bV5f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y3hS5daf3ytCqqjtuPI2lU8HAYQ.png"
     },
     {
       "id": "tmdb:675",
@@ -658,32 +672,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/kanujojNPUAE6gMyUvBQu8ckxUA.png"
     },
     {
-      "id": "tmdb:122917",
+      "id": "tmdb:808",
       "type": "movie",
-      "name": "El hobbit: La batalla de los cinco ejércitos",
+      "name": "Shrek",
       "ids": {
-        "tmdb": 122917
+        "tmdb": 808
       },
-      "overview": "Después de haber recuperado el reino del Dragón Smaug, la Compañía ha desencadenado, sin querer, una potencia maligna. Un Smaug enfurecido vuela hacia la Ciudad del Lago para acabar con cualquier resto de vida. Obsesionado sobre todo con el reino recuperado, Thorin sacrifica la amistad y el honor para mantenerlo mientras que Bilbo intenta frenéticamente hacerle ver la razón por la que el hobbit toma una decisión desesperada y peligrosa. Pero hay aún mayores peligros por delante. Sin la ayuda aparente del mago Gandalf, su gran enemigo Sauron ha enviado legiones de orcos hacia la Montaña Solitaria en un ataque furtivo. Cuando la oscuridad se cierna sobre ellos, las razas de los Enanos, Elfos y Hombres deben decidir si unirse o ser destruidos. Bilbo se encontrará así en la batalla épica de los Cinco Ejércitos, donde el futuro de la Tierra Media está en juego.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
+      "overview": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+      "year": 2001,
+      "poster": "https://image.tmdb.org/t/p/w342/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7XphiTmGYzUmqe0qPnJMj3G89va.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/gOUWK5AkKxyr4APlOoTWr3iO65t.png"
-    },
-    {
-      "id": "tmdb:1381078",
-      "type": "movie",
-      "name": "El amor de tu vida",
-      "ids": {
-        "tmdb": 1381078
-      },
-      "overview": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8wigByNpUvf8ZCfXs0QN4a7sQIp.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5bYU2SrOmhLlcuRd0GZg4HFq4GW.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
     },
     {
       "id": "tmdb:823464",
