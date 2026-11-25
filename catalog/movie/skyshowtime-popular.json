@@ -57,6 +57,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/87Gk6cCexvE0VVRF25ppQ2STubX.png"
     },
     {
+      "id": "tmdb:936075",
+      "type": "movie",
+      "name": "Michael",
+      "ids": {
+        "tmdb": 936075
+      },
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/joPZFstfdjpsuzlrnGeCbY0FuPS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/6Q34kuByPGmsocjjbkn1DOaccz4.png"
+    },
+    {
       "id": "tmdb:361743",
       "type": "movie",
       "name": "Top Gun: Maverick",
@@ -85,20 +99,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/5JXadtO0qMHVfyec6ixR9Tmge3x.png"
     },
     {
-      "id": "tmdb:240",
-      "type": "movie",
-      "name": "El padrino II",
-      "ids": {
-        "tmdb": 240
-      },
-      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
-      "year": 1974,
-      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
-    },
-    {
       "id": "tmdb:360920",
       "type": "movie",
       "name": "El Grinch",
@@ -111,6 +111,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/HxkJiGgCJ2HMMdhadajrR1q8pB.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/jzl1BrLytFdkBDlT54ZrKSsHfZw.png"
+    },
+    {
+      "id": "tmdb:240",
+      "type": "movie",
+      "name": "El padrino II",
+      "ids": {
+        "tmdb": 240
+      },
+      "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+      "year": 1974,
+      "poster": "https://image.tmdb.org/t/p/w342/mbry0W5PRylSUHsYzdiY2FSJwze.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/oTeNCx1a5Y2StS8YygrpM31fMxn.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/zpOTTllMRebmc3D7PBd4t4ZqksU.png"
     },
     {
       "id": "tmdb:98",
@@ -139,20 +153,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/ricS2Yx3sckm4ePbNVebaNOG1mr.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-    },
-    {
-      "id": "tmdb:8913",
-      "type": "movie",
-      "name": "Cementerio viviente",
-      "ids": {
-        "tmdb": 8913
-      },
-      "overview": "Louis Creed, su esposa y sus dos niños se instalan en una vivienda próxima a una carretera con mucho tráfico. Cerca de la casa hay un sendero que lleva a un cementerio de animales y también a un antiguo cementerio indio; según la leyenda, los que sean enterrados allí volverán a la vida. Cuando uno de los niños muere atropellado por un camión, Louis ldecide enterrarlo en el cementerio indio.",
-      "year": 1989,
-      "poster": "https://image.tmdb.org/t/p/w342/rjL6WhvdnaEqwMfM3Crscjs0nNP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dYYJ3A55JmwvFQzdXkJAnKdLCRX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vsYxIcDgdrmg98FBQuFcK1F3oMq.png"
     },
     {
       "id": "tmdb:7131",
@@ -197,18 +197,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/q7R1iTKFhYAevIj2ODUTPsFg4G8.png"
     },
     {
-      "id": "tmdb:1159559",
+      "id": "tmdb:8913",
       "type": "movie",
-      "name": "Scream 7",
+      "name": "Cementerio viviente",
       "ids": {
-        "tmdb": 1159559
+        "tmdb": 8913
       },
-      "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w342/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "overview": "Louis Creed, su esposa y sus dos niños se instalan en una vivienda próxima a una carretera con mucho tráfico. Cerca de la casa hay un sendero que lleva a un cementerio de animales y también a un antiguo cementerio indio; según la leyenda, los que sean enterrados allí volverán a la vida. Cuando uno de los niños muere atropellado por un camión, Louis ldecide enterrarlo en el cementerio indio.",
+      "year": 1989,
+      "poster": "https://image.tmdb.org/t/p/w342/rjL6WhvdnaEqwMfM3Crscjs0nNP.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/rbd7F1dgHcFjJ5xNttpyhuzigEb.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dYYJ3A55JmwvFQzdXkJAnKdLCRX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vsYxIcDgdrmg98FBQuFcK1F3oMq.png"
     },
     {
       "id": "tmdb:1087192",
@@ -225,6 +225,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/zM9COozSFJqIGXhNWiwuitxk6QP.png"
     },
     {
+      "id": "tmdb:1159559",
+      "type": "movie",
+      "name": "Scream 7",
+      "ids": {
+        "tmdb": 1159559
+      },
+      "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w342/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/rbd7F1dgHcFjJ5xNttpyhuzigEb.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1HXrIujSjhWKthsj94BnrjqwZr5.png"
+    },
+    {
       "id": "tmdb:489",
       "type": "movie",
       "name": "El indomable Will Hunting",
@@ -237,20 +251,6 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/kIg7Pb9SU90QUDEaL0RnF2QV1c1.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
-    },
-    {
-      "id": "tmdb:4588",
-      "type": "movie",
-      "name": "Deseo, peligro",
-      "ids": {
-        "tmdb": 4588
-      },
-      "overview": "Shanghai, 1942. La ciudad está ocupada por los japoneses. La señora Mak, una mujer rica y sofisticada, recuerda cómo empezó todo en 1938. Su verdadero nombre no es Mak, sino Wong Chia Chi. Poco antes de estallar la II Guerra Mundial (1939-1945), su padre huyó a Inglaterra y la dejó en China. Era estudiante universitaria y conoció a Kuang Yu Min, que acababa de fundar una compañía de teatro para fomentar el patriotismo. Wong Chia Chi se convirtió en la primera actriz de la compañía. Kuang, por su parte, convenció a un grupo de estudiantes para que asesinaran al señor Yee, un importante colaborador de los japoneses. Wong Chia Chi colaboró en el plan haciéndose pasar por la señora Mak: su cometido era hacerse amiga de la mujer de Yee para ganarse la confianza de éste y seducirlo. Todo iba sucediendo según lo previsto, hasta que se produjo un acontecimiento inesperado.",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/xjPFFyy8hk5qKubWL3ysBSDTutL.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/lU1fQews2gye23PocVE48CsTmOQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pWlSHjIltDRyNm04M9qhBLAcQNb.png"
     },
     {
       "id": "tmdb:10191",
@@ -267,6 +267,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/kApyKGMzbhUybpdBZf2GUZJC4my.png"
     },
     {
+      "id": "tmdb:9502",
+      "type": "movie",
+      "name": "Kung Fu Panda",
+      "ids": {
+        "tmdb": 9502
+      },
+      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
+    },
+    {
       "id": "tmdb:419430",
       "type": "movie",
       "name": "Déjame salir",
@@ -281,18 +295,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cG21XcsSGnwuwbARB1dkZjTIG30.png"
     },
     {
-      "id": "tmdb:9502",
+      "id": "tmdb:4588",
       "type": "movie",
-      "name": "Kung Fu Panda",
+      "name": "Deseo, peligro",
       "ids": {
-        "tmdb": 9502
+        "tmdb": 4588
       },
-      "overview": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
-      "year": 2008,
-      "poster": "https://image.tmdb.org/t/p/w342/zcORJ8s9zsBjvKxP0k4FASQSjpf.jpg",
+      "overview": "Shanghai, 1942. La ciudad está ocupada por los japoneses. La señora Mak, una mujer rica y sofisticada, recuerda cómo empezó todo en 1938. Su verdadero nombre no es Mak, sino Wong Chia Chi. Poco antes de estallar la II Guerra Mundial (1939-1945), su padre huyó a Inglaterra y la dejó en China. Era estudiante universitaria y conoció a Kuang Yu Min, que acababa de fundar una compañía de teatro para fomentar el patriotismo. Wong Chia Chi se convirtió en la primera actriz de la compañía. Kuang, por su parte, convenció a un grupo de estudiantes para que asesinaran al señor Yee, un importante colaborador de los japoneses. Wong Chia Chi colaboró en el plan haciéndose pasar por la señora Mak: su cometido era hacerse amiga de la mujer de Yee para ganarse la confianza de éste y seducirlo. Todo iba sucediendo según lo previsto, hasta que se produjo un acontecimiento inesperado.",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/xjPFFyy8hk5qKubWL3ysBSDTutL.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/7nSTDHcdwzUcZ74G6gGwxrTy6j9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/lU1fQews2gye23PocVE48CsTmOQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pWlSHjIltDRyNm04M9qhBLAcQNb.png"
     },
     {
       "id": "tmdb:809",
@@ -323,20 +337,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
     },
     {
-      "id": "tmdb:135397",
-      "type": "movie",
-      "name": "Jurassic World",
-      "ids": {
-        "tmdb": 135397
-      },
-      "overview": "Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir a la perfección y ser el negocio del siglo, un nuevo dinosaurio de especie todavía desconocida y que es mucho más inteligente de lo que se pensaba, comienza a causar estragos entre los visitantes del Parque.",
-      "year": 2015,
-      "poster": "https://image.tmdb.org/t/p/w342/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/9tjieFMEPnxqZ7jH6i1bFNwseKo.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
-    },
-    {
       "id": "tmdb:85",
       "type": "movie",
       "name": "En busca del arca perdida",
@@ -349,6 +349,20 @@
       "posterShape": "poster",
       "backdrop": "https://image.tmdb.org/t/p/original/klNR7FUpYPepTUcIKNp9WhyiczJ.jpg",
       "logo": "https://image.tmdb.org/t/p/w500/ql6eKGJhaovo0QnJLnwtebddSGq.png"
+    },
+    {
+      "id": "tmdb:135397",
+      "type": "movie",
+      "name": "Jurassic World",
+      "ids": {
+        "tmdb": 135397
+      },
+      "overview": "Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir a la perfección y ser el negocio del siglo, un nuevo dinosaurio de especie todavía desconocida y que es mucho más inteligente de lo que se pensaba, comienza a causar estragos entre los visitantes del Parque.",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/9tjieFMEPnxqZ7jH6i1bFNwseKo.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
     },
     {
       "id": "tmdb:335797",
@@ -365,20 +379,6 @@
       "logo": "https://image.tmdb.org/t/p/w500/xA2v65H3KEW4dJYILl8e42GGPam.png"
     },
     {
-      "id": "tmdb:578",
-      "type": "movie",
-      "name": "Tiburón",
-      "ids": {
-        "tmdb": 578
-      },
-      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
-      "year": 1975,
-      "poster": "https://image.tmdb.org/t/p/w342/aCqHb3eFQV8raX30OfGurqPlpjh.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png"
-    },
-    {
       "id": "tmdb:1091",
       "type": "movie",
       "name": "La cosa (El enigma de otro mundo)",
@@ -393,60 +393,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/cmriRydEcCNux47zsfd1JvD3ER1.png"
     },
     {
-      "id": "tmdb:242",
+      "id": "tmdb:578",
       "type": "movie",
-      "name": "El padrino III",
+      "name": "Tiburón",
       "ids": {
-        "tmdb": 242
+        "tmdb": 578
       },
-      "overview": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
-      "year": 1990,
-      "poster": "https://image.tmdb.org/t/p/w342/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
+      "overview": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+      "year": 1975,
+      "poster": "https://image.tmdb.org/t/p/w342/aCqHb3eFQV8raX30OfGurqPlpjh.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
-    },
-    {
-      "id": "tmdb:601",
-      "type": "movie",
-      "name": "E.T., el extraterrestre",
-      "ids": {
-        "tmdb": 601
-      },
-      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-      "year": 1982,
-      "poster": "https://image.tmdb.org/t/p/w342/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-    },
-    {
-      "id": "tmdb:701387",
-      "type": "movie",
-      "name": "Bugonia",
-      "ids": {
-        "tmdb": 701387
-      },
-      "overview": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/fndDv16tDmgvMBJd2bb2w5CDxpe.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/qvkNQPgNiJhKXk8S72gkyhD1A2E.png"
-    },
-    {
-      "id": "tmdb:744",
-      "type": "movie",
-      "name": "Top Gun: Ídolos del aire",
-      "ids": {
-        "tmdb": 744
-      },
-      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
-      "year": 1986,
-      "poster": "https://image.tmdb.org/t/p/w342/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/SXErc0PwD7XCaNAbEK5AQEGRIx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/wfZCqteye4nQttmHszgxkqAMSTw.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/4oEI7gHVlMGGKvbJVUQbS2gKBNe.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png"
     },
     {
       "id": "tmdb:82702",
@@ -463,46 +421,46 @@
       "logo": "https://image.tmdb.org/t/p/w500/9yFM0X9eZjN3Ughx80IhtEyT9Bu.png"
     },
     {
-      "id": "tmdb:953",
+      "id": "tmdb:242",
       "type": "movie",
-      "name": "Madagascar",
+      "name": "El padrino III",
       "ids": {
-        "tmdb": 953
+        "tmdb": 242
       },
-      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+      "overview": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
+      "year": 1990,
+      "poster": "https://image.tmdb.org/t/p/w342/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/8zhviPFJx25k8PbUOUL5sLOy9XE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/ohUCQEptv3y9iP9Q77iXcr7R8Ky.svg"
     },
     {
-      "id": "tmdb:351286",
+      "id": "tmdb:744",
       "type": "movie",
-      "name": "Jurassic World: El reino caído",
+      "name": "Top Gun: Ídolos del aire",
       "ids": {
-        "tmdb": 351286
+        "tmdb": 744
       },
-      "overview": "Tras cuatro años de abandono del complejo turístico Jurassic World, la isla Nublar sólo está habitada por los dinosaurios supervivientes. Cuando el volcán inactivo de la isla comienza a cobrar vida, Owen y Claire montan una campaña para rescatar a los dinosaurios restantes en la isla.",
-      "year": 2018,
-      "poster": "https://image.tmdb.org/t/p/w342/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg",
+      "overview": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+      "year": 1986,
+      "poster": "https://image.tmdb.org/t/p/w342/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/dapEvn2UTiBb9bCtNUMePpYI4TX.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/p3p1L8acukXzeE1kEMNxG44WZHf.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/SXErc0PwD7XCaNAbEK5AQEGRIx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wfZCqteye4nQttmHszgxkqAMSTw.png"
     },
     {
-      "id": "tmdb:10625",
+      "id": "tmdb:601",
       "type": "movie",
-      "name": "Chicas malas",
+      "name": "E.T., el extraterrestre",
       "ids": {
-        "tmdb": 10625
+        "tmdb": 601
       },
-      "overview": "Una joven adolescente, Cady, acostumbrada a vivir en África con sus padres, zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio. Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
-      "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/fVHCoj809sonJJDvOF9hqCVZPRx.jpg",
+      "overview": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w342/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/wCsI2O3Rx9rkNOrBGQyo09dOCw5.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/vwcTggmP0R4MtVrQJoD29llCuZz.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/swr1MOdJuionDNYfeR5zvAmnvVJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
     },
     {
       "id": "tmdb:75612",
@@ -519,18 +477,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/gY4jBMVF5n0mxjiMNZcSXV7Oboo.png"
     },
     {
-      "id": "tmdb:10192",
+      "id": "tmdb:351286",
       "type": "movie",
-      "name": "Shrek, felices para siempre",
+      "name": "Jurassic World: El reino caído",
       "ids": {
-        "tmdb": 10192
+        "tmdb": 351286
       },
-      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
+      "overview": "Tras cuatro años de abandono del complejo turístico Jurassic World, la isla Nublar sólo está habitada por los dinosaurios supervivientes. Cuando el volcán inactivo de la isla comienza a cobrar vida, Owen y Claire montan una campaña para rescatar a los dinosaurios restantes en la isla.",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/dapEvn2UTiBb9bCtNUMePpYI4TX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/p3p1L8acukXzeE1kEMNxG44WZHf.png"
     },
     {
       "id": "tmdb:214756",
@@ -547,18 +505,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/iNJR287LWbqdhz6WWmb0JtnMd8J.png"
     },
     {
-      "id": "tmdb:615457",
+      "id": "tmdb:10192",
       "type": "movie",
-      "name": "Nadie",
+      "name": "Shrek, felices para siempre",
       "ids": {
-        "tmdb": 615457
+        "tmdb": 10192
       },
-      "overview": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
-      "year": 2021,
-      "poster": "https://image.tmdb.org/t/p/w342/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "overview": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor.",
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w342/3MyKXb1ozCfq61tPNKpIggwvP6J.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zgPjlFCpjD25ysNOUYhrYBi7op2.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/Abhs3VfeSfTJUVoLweVksw92i9g.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/rcUdwC04dzIJOXVgijqQSpQSH2x.png"
     },
     {
       "id": "tmdb:4232",
@@ -575,74 +533,102 @@
       "logo": "https://image.tmdb.org/t/p/w500/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
     },
     {
-      "id": "tmdb:2501",
+      "id": "tmdb:615457",
       "type": "movie",
-      "name": "The Bourne Identity: El caso Bourne",
+      "name": "Nadie",
       "ids": {
-        "tmdb": 2501
+        "tmdb": 615457
       },
-      "overview": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
-      "year": 2002,
-      "poster": "https://image.tmdb.org/t/p/w342/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
+      "overview": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie.  Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/zYSIeVp10F9QkwtcKnRz7Fz1gpB.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/pwIkeCFNGTi0vdUWStha1rL2yUS.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zgPjlFCpjD25ysNOUYhrYBi7op2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2Np0AG1h2TN20WYwrfhEaYZqo40.png"
     },
     {
-      "id": "tmdb:270946",
+      "id": "tmdb:701387",
       "type": "movie",
-      "name": "Los pingüinos de Madagascar",
+      "name": "Bugonia",
       "ids": {
-        "tmdb": 270946
+        "tmdb": 701387
       },
-      "overview": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos.",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
+      "overview": "Dos jóvenes obsesionados con las conspiraciones secuestran a la directora ejecutiva de una reconocida empresa porque están convencidos de que es un alienígena decidido a destruir la Tierra.",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342/fndDv16tDmgvMBJd2bb2w5CDxpe.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/qS1Kr7kVYSeABMbJdmAiYVPOI1f.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/f5stYb742P3BuBB8kPOaQgrsTZH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qvkNQPgNiJhKXk8S72gkyhD1A2E.png"
     },
     {
-      "id": "tmdb:882598",
+      "id": "tmdb:10625",
       "type": "movie",
-      "name": "Smile",
+      "name": "Chicas malas",
       "ids": {
-        "tmdb": 882598
+        "tmdb": 10625
       },
-      "overview": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
-      "year": 2022,
-      "poster": "https://image.tmdb.org/t/p/w342/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/d5oMxFcZmDGPiHwQkLZOK91pd0A.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/lyhPQY44Vnyhtti6vFdC2MXzwnZ.svg"
-    },
-    {
-      "id": "tmdb:87",
-      "type": "movie",
-      "name": "Indiana Jones y el templo maldito",
-      "ids": {
-        "tmdb": 87
-      },
-      "overview": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w342/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg",
-      "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hY0jljnL8EIEM5JwIBdtY2tnCtQ.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/rUqugZkR5R55Z0mVcb3uu3IOYbY.png"
-    },
-    {
-      "id": "tmdb:693",
-      "type": "movie",
-      "name": "Los padres de él",
-      "ids": {
-        "tmdb": 693
-      },
-      "overview": "Cuatro años después de que el enfermero Greg (alias Gaylord) Focker, durante un fin de semana en casa de sus suegros, se las ingeniara para perder el equipaje, provocar un incendio y pintar a un gato, por fin, ha conseguido ganarse la confianza de su suegro y todo son planes de boda. Sólo queda un pequeño escollo que superar: los futuros consuegros deben pasar un fin de semana juntos para conocerse mejor y, sobre todo, para que Jack, el padre de la novia, pueda estudiar a los padres de Greg. Todo parece ir viento en popa hasta que Jack descubre que los padres de Greg (abogado y médico respectivamente) son demasiado liberales: él cuida de la casa y ella es una terapeuta sexual de la tercera edad.",
+      "overview": "Una joven adolescente, Cady, acostumbrada a vivir en África con sus padres, zoólogos, se encuentra una nueva jungla cuando se muda a Illinois. Allí acude a la escuela pública, donde se enamorará del ex-novio de la chica más popular del colegio. Las chicas comenzarán a hacer la vida imposible a Cady, y ésta no tendrá otro remedio que usar sus mismas tácticas para mantenerse a flote.",
       "year": 2004,
-      "poster": "https://image.tmdb.org/t/p/w342/4tOfHZPfRtQnmmOxSmnTCTzTZIW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/fVHCoj809sonJJDvOF9hqCVZPRx.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/hVJnECWotRdjiDExoo5VgEmSNMx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/hBTKnwNiCPHXeoVQUHYoE5jwIOQ.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/wCsI2O3Rx9rkNOrBGQyo09dOCw5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/vwcTggmP0R4MtVrQJoD29llCuZz.png"
+    },
+    {
+      "id": "tmdb:7485",
+      "type": "movie",
+      "name": "Shooter: El tirador",
+      "ids": {
+        "tmdb": 7485
+      },
+      "overview": "Bob Lee Swagger (Mark Whalberg) es un ex-tirador de élite del ejército de los Estados Unidos que abandona las fuerzas armadas después del fracaso de una misión extraoficial. Cuando le piden que se reincorpore, regresa al servicio a regañadientes, pero vuelven a engañarlo. A pesar de llevar dos balas en el cuerpo y de ser el objetivo de una caza a nivel nacional, Swagger planea su venganza...",
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w342/regcyuwMtiDV2ZrfF9OWmS6h3aO.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/90aocNdDWZggLW81cVLuiz0Vkzx.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4DNnNrHwYoVhlnWde7nUTgK1fUo.png"
+    },
+    {
+      "id": "tmdb:953",
+      "type": "movie",
+      "name": "Madagascar",
+      "ids": {
+        "tmdb": 953
+      },
+      "overview": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w342/zrV5GnfCcLWzyjrFgYTpjQPRMfl.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/g2qcCWZlk9Q21B3DE1GiuascFVs.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4WxLPaAiWA2bCEW76XRwt09hmBJ.png"
+    },
+    {
+      "id": "tmdb:384018",
+      "type": "movie",
+      "name": "Fast & Furious: Hobbs & Shaw",
+      "ids": {
+        "tmdb": 384018
+      },
+      "overview": "Desde que Hobbs, agente del Servicio de Seguridad Diplomática de Estados Unidos, y el británico Shaw, proscrito sin ley, se enfrentaron por primera vez, solo han intercambiado bofetadas y malas palabras. Pero cuando las despiadadas acciones de Brixton, un anarquista cibergenéticamente mejorado, amenazan el futuro de la humanidad, ambos se unen para derrotarlo.",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/3KHGWvWDfMa8enQqezGim3aMBQw.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/tJhuEE69f5q52ybsbH65fnXEEEK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nATRKWe94Og0Rc7nKMTnIXgftur.png"
+    },
+    {
+      "id": "tmdb:1581",
+      "type": "movie",
+      "name": "The Holiday (Vacaciones)",
+      "ids": {
+        "tmdb": 1581
+      },
+      "overview": "Amanda Woods, una chica americana que posee una próspera agencia de publicidad especializada en trailers de películas, vive en el sur de California y acaba de romper con su novio. Por su parte, Iris Simpkins, redactora de la popular columna de bodas para el London Daily Telegraph, vive en una encantadora casa de campo en Inglaterra y sus relaciones con los hombres tampoco son fáciles. A través de internet llegan a un acuerdo para intercambiarse sus respectivas viviendas durante las Navidades.",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342/jGFqZ4bCAYaNZKHQKBZcTyrH1EV.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/pBnoGFZH3xjrc19byYllD3kAjIT.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/q1wWpsQ8rSfwstJsAh5NoodtpLI.png"
     },
     {
       "id": "tmdb:798645",
@@ -659,18 +645,18 @@
       "logo": "https://image.tmdb.org/t/p/w500/81qiHzkq7nWSC1TjmcXpBJAcKAm.png"
     },
     {
-      "id": "tmdb:1228246",
+      "id": "tmdb:270946",
       "type": "movie",
-      "name": "Five Nights at Freddy's 2",
+      "name": "Los pingüinos de Madagascar",
       "ids": {
-        "tmdb": 1228246
+        "tmdb": 270946
       },
-      "overview": "Un año después de la pesadilla sobrenatural en Freddy Fazbear's Pizza, las historias sobre lo ocurrido allí se han convertido en una leyenda local extravagante, inspirando el primer Fazfest del pueblo. Con la verdad oculta, Abby se escapa para reencontrarse con Freddy, Bonnie, Chica y Foxy, desencadenando una serie de eventos aterradores que revelarán oscuros secretos sobre el verdadero origen de Freddy's y desatarán un horror oculto durante décadas.",
-      "year": 2025,
-      "poster": "https://image.tmdb.org/t/p/w342/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+      "overview": "Skypper, Kowalsky, Rico y Cabo, los superagentes pingüinos, tienen que salvar el mundo en una misión para la que llevan prepárandose toda la vida. Dicha misión tendrán que realizarla junto al denominado equipo \"Viento del norte\", un comando de élite especializado en salvar animales que no pueden defenderse por si solos.",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/gFVLyx2EX9jrnV2RY8rF9Y3W9aH.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/5HgCJxrzL2ynflScZkFUOFNAHyv.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/qS1Kr7kVYSeABMbJdmAiYVPOI1f.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/4IGC296noenbOFLI8QcH4tZAL5F.png"
     },
     {
       "id": "tmdb:166428",
@@ -687,18 +673,32 @@
       "logo": "https://image.tmdb.org/t/p/w500/dnCCeM9t7cShxrbNmmSIw1S8LwR.png"
     },
     {
-      "id": "tmdb:7485",
+      "id": "tmdb:2501",
       "type": "movie",
-      "name": "Shooter: El tirador",
+      "name": "The Bourne Identity: El caso Bourne",
       "ids": {
-        "tmdb": 7485
+        "tmdb": 2501
       },
-      "overview": "Bob Lee Swagger (Mark Whalberg) es un ex-tirador de élite del ejército de los Estados Unidos que abandona las fuerzas armadas después del fracaso de una misión extraoficial. Cuando le piden que se reincorpore, regresa al servicio a regañadientes, pero vuelven a engañarlo. A pesar de llevar dos balas en el cuerpo y de ser el objetivo de una caza a nivel nacional, Swagger planea su venganza...",
-      "year": 2007,
-      "poster": "https://image.tmdb.org/t/p/w342/regcyuwMtiDV2ZrfF9OWmS6h3aO.jpg",
+      "overview": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso.",
+      "year": 2002,
+      "poster": "https://image.tmdb.org/t/p/w342/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
       "posterShape": "poster",
-      "backdrop": "https://image.tmdb.org/t/p/original/90aocNdDWZggLW81cVLuiz0Vkzx.jpg",
-      "logo": "https://image.tmdb.org/t/p/w500/4DNnNrHwYoVhlnWde7nUTgK1fUo.png"
+      "backdrop": "https://image.tmdb.org/t/p/original/zYSIeVp10F9QkwtcKnRz7Fz1gpB.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/pwIkeCFNGTi0vdUWStha1rL2yUS.png"
+    },
+    {
+      "id": "tmdb:882598",
+      "type": "movie",
+      "name": "Smile",
+      "ids": {
+        "tmdb": 882598
+      },
+      "overview": "Tras presenciar un extraño y traumático incidente con un paciente, la doctora Rose Cotter comienza a experimentar sucesos aterradores que no puede explicar. A medida que un miedo sobrecogedor comienza a afectar a todos los aspectos de su vida, Rose se verá obligada a afrontar a su problemático pasado para sobrevivir y escapar de su terrorífica nueva realidad.",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg",
+      "posterShape": "poster",
+      "backdrop": "https://image.tmdb.org/t/p/original/d5oMxFcZmDGPiHwQkLZOK91pd0A.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lyhPQY44Vnyhtti6vFdC2MXzwnZ.svg"
     }
   ]
 }
